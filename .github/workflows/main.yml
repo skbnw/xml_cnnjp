@@ -1,0 +1,36 @@
+name: Fetch CNNJP RSS Feed
+
+on:
+  schedule:
+    - cron: '0 0,8,16 * * *'  # Run at 00:00, 08:00, and 16:00 UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+
+      - name: Fetch CNNJP RSS feeds
+        run: |
+          current_month=$(date +'%Y%m')
+          current_week=$(date +'%Y%m_%V') # ISO week number
+          current_time=$(date +'%Y%m%d_%H%M')
+          folder_name="xml-CNNJP_${current_month}_${current_week}"
+          mkdir -p $folder_name
+          sleep 3
+          curl -o "${folder_name}/cnn_${current_time}.xml" http://feeds.cnn.co.jp/rss/cnn/cnn.rdf
+
+      - name: Set Git Config
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+        working-directory: ${{ github.workspace }}
+        
+      - name: Commit and push XML files
+        run: |
+          git add .
+          git commit -m "Update - $(date +'%Y-%m-%d %H:%M')"
+          git push
+        working-directory: ${{ github.workspace }}
