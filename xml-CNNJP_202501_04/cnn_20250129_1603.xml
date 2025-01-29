@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-01-29T20:46:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228825.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228823.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/beauty/35228601.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228820.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228819.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228798.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35228809.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228783.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35228796.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228800.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228799.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35228772.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228791.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228795.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228789.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228785.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35228781.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228779.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228780.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35228777.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35228768.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228760.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228759.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228756.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35228755.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35228740.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228752.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228742.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228748.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228731.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35228825.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T20:46:00+09:00</dc:date>
+        <title>「ようやく帰れた」　解放された人質のイスラエル人女性がＳＮＳ投稿</title>
+        <link>https://www.cnn.co.jp/world/35228825.html?ref=rss</link>
+        <description>イスラエルとイスラム組織ハマスの停戦合意に基づき、第１段階で解放されたイスラエル人の人質の１人、ナアマ・レビさん（２０）が２８日、インスタグラムに「４７７日が経って、ようやく家に帰れた」と投稿した。
+
+レビさんは２０２３年１０月、ハマスによるイスラエルへの奇襲攻撃で連れ去られ、２５日にイスラエル軍のほかの女性兵士３人とともに解放された。
+
+インスタグラムへの投稿で「安全に保護され、家族と友人に囲ま...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228825.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/b9604a4d52c73bd5bbae9fc3e2b0b18f/t/768/432/d/israel-palestinians-gaza-hostages.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228823.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T20:13:00+09:00</dc:date>
+        <title>豪女児死亡、両親含む宗教団体の１４人に過失致死罪　医療受けさせず</title>
+        <link>https://www.cnn.co.jp/world/35228823.html?ref=rss</link>
+        <description>オーストラリア東部クイーンズランド州で２０２２年に病死した８歳の女児に、必要な医療を受けさせていなかったとして、両親を含む宗教団体のメンバー１４人が２９日、過失致死の有罪判決を受けた。
+
+女児は２０１９年に糖尿病の診断を受け、２２年１月にインスリン欠乏の合併症により、同州ブリスベン西郊の自宅で死亡した。
+
+判事は判決言い渡しにあたり、女児がひん死の状態にあった６日の間、被告らが治療に必要なインスリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228823.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/fc5c5456787e73299755490aa9aeeb7c/t/768/432/d/still-21329344-0-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/beauty/35228601.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T18:57:00+09:00</dc:date>
+        <title>女性らしさの規範に抵抗、写真家が捉えた南インドのボディービルダーたち</title>
+        <link>https://www.cnn.co.jp/style/beauty/35228601.html?ref=rss</link>
+        <description>インド南西部沿岸に位置するケララ州各地の牧歌的な場面を背景に、写真家のケールタナ・クナート氏は、筋骨隆々の女性たちが自身の堂々たる体躯（たいく）を誇示する姿を写真に収めてきた。泡立つ海の波やヤシの葉、むき出しの岩肌といった景色に囲まれた女性たちは上腕二頭筋を曲げ、大腿（だいたい）四頭筋に力を入れ、肩をそびやかす。身に着けているのはトレーニングウェアではなく、透けたオリーブ色のドレスや女性らしい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/beauty/35228601.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/23/5ed40c86739f3a95e2bb28bafbd1b83c/t/768/618/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTV3eTN6d3MwMDBvM2I2cTVocXdjbDNy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtNXd5Mm9pdzAwMHQyY3FsYjMxbWVvOW4=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228820.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T18:33:00+09:00</dc:date>
+        <title>米空軍のＦ３５戦闘機が墜落、操縦士は無事脱出　アラスカ州</title>
+        <link>https://www.cnn.co.jp/usa/35228820.html?ref=rss</link>
+        <description>米アラスカ州のイールソン空軍基地で２８日、訓練飛行中のＦ３５戦闘機が墜落したが、操縦士は脱出して無事だった。
+
+航空団の司令官が記者会見で語ったところによると、飛行中に故障が起き、着陸段階の機体が墜落した。
+
+操縦士は墜落前に緊急事態を宣言していた。医療機関へ運ばれたが、容体は安定しているという。
+
+同司令官は、空軍が再発防止に向けた徹底的な調査を実施すると述べた。
+
+航空団は、現地時間の午後１時前に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228820.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/8b7e3ad6d4fb4fae32a688d5536914db/t/768/432/d/still-21329217-24491-132-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228819.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T18:02:00+09:00</dc:date>
+        <title>トランプ氏、未成年者の性別適合治療への補助を停止　大統領令に署名</title>
+        <link>https://www.cnn.co.jp/usa/35228819.html?ref=rss</link>
+        <description>トランプ米大統領は２８日、１９歳未満の未成年者の性別を変える手術やホルモン療法などの医療措置について、連邦政府の補助を停止する大統領令に署名した。
+
+大統領令には、子どもの性別移行を補助、促進、支持せず、こうした「有害な」措置を禁止、制限するすべての法律を厳格に執行するとの方針が明記されている。
+
+そのうえで保健福祉省長官に対し、未成年者への性別適合ケアを停止させるためにしかるべき行動を取るよう指...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228819.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/45a370416bd757a18551799c41e2cc9f/t/768/432/d/gettyimages-2195772338.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228798.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T17:31:00+09:00</dc:date>
+        <title>「馬鹿馬鹿しい」　トランプ大統領が命じた湾の名称変更、冷笑で受け流すメキシコ人</title>
+        <link>https://www.cnn.co.jp/world/35228798.html?ref=rss</link>
+        <description>米グーグルが大統領令に従って地図サービスに表示する「メキシコ湾」の名称を「アメリカ湾」に変更すると発表したことをめぐり、メキシコ人が冷ややかな反応を示している。
+
+メキシコのクラウディア・シェインバウム大統領は２８日の定例記者会見で、トランプ氏の大統領令の対象は米大陸棚に限られると指摘。「メキシコ湾は今もメキシコ湾のまま」と強調した。
+
+ＳＮＳではトランプ大統領の自国に対する「執念」や決定の異常さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228798.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/b8b423e10afa54959d131e4605c03c67/t/768/432/d/00-thumbnail-675.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35228809.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T17:07:00+09:00</dc:date>
+        <title>生きたトガリネズミ、撮影に初めて成功　米カリフォルニア州</title>
+        <link>https://www.cnn.co.jp/fringe/35228809.html?ref=rss</link>
+        <description>米カリフォルニア州のシエラネバダ山脈で、生きたマウント・ライエル・トガリネズミの様子が初めて撮影された。カリフォルニア州科学アカデミーによれば、これまでにマウント・ライエル・トガリネズミが生きた状態で撮影されたことは一度もなく、既知の哺乳類としては同州で人間のカメラで撮影されていない唯一のものだった。
+
+状況が大きく変わったのは昨年１０月。野生生物の写真家ビシャル・スブラマニヤンさんが学生のプラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35228809.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/a987d779d9b30b83724f318ae365c3f2/t/768/432/d/lyell-shrew-on-natural-background.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228783.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T16:03:00+09:00</dc:date>
+        <title>自殺同然の行動に８０年代の戦術、北朝鮮兵がウクライナ戦争で採用する戦法</title>
+        <link>https://www.cnn.co.jp/world/35228783.html?ref=rss</link>
+        <description>身柄を拘束されるくらいなら、あごの下で手榴（しゅりゅう）弾を爆発させる。味方の兵士を利用して攻撃ドローン（無人機）をおびき寄せる。徒歩で素早い攻撃ができるよう、防護服のプレートやヘルメットを外す。北朝鮮の最高指導者、金正恩（キムジョンウン）総書記への忠誠を誓う言葉をつづる――。
+
+いずれも北朝鮮兵が駆使する残忍で自殺行為に近い戦術だ。ロシア南部の国境地域クルスク州では、ウクライナの侵攻を撃退する目...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228783.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/a031359879e1ce0eef9dadcc2b676271/t/768/432/d/north-korae-soldier-npw-split-0127.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35228796.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T15:20:00+09:00</dc:date>
+        <title>メラニア・トランプ夫人、モノクロ公式写真で示す「本気」</title>
+        <link>https://www.cnn.co.jp/style/fashion/35228796.html?ref=rss</link>
+        <description>トランプ米大統領の妻、メラニア夫人は、まっすぐ前を見つめたまま、強烈に反射する表面――机、鏡、それとも水面だろうか――に前かがみになり、マニキュアが完璧に塗られた指先でバランスを保っている。力強いポーズで写るこの写真は、第４７代ファーストレディーの公式ポートレートだ。
+
+ホワイトハウスが２７日に公開したこの写真は、ベルギーの写真家レジーヌ・マオー氏が撮影したもので、すでにネット上で議論を巻き起こして...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35228796.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/579b1760d304895e6d262b5e06d1c726/t/768/512/d/b4a14c0b-ed78-68c2-fba8-a28707805b1c-crop.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228800.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T14:41:00+09:00</dc:date>
+        <title>トランプ米政権、対外援助を一時停止　人道担当官が「死者が出る」と危機感</title>
+        <link>https://www.cnn.co.jp/usa/35228800.html?ref=rss</link>
+        <description>トランプ米政権が突如として対外援助を一時停止した措置を受け、このままでは死者が出るとして人道援助担当官が危機感を強めている。
+
+対外援助のほぼ全面的な一時停止はマルコ・ルビオ国務長官が指示。世界の健康医療支援から緊急避難施設の提供、人身売買対策に至るまで、米国の対外援助がほぼ全面的に停止される。
+
+「前代未聞の」指示を受けて支援団体は対応に追われ、米政府から明確な答えを引き出そうとして苦慮している...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228800.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/a895906006dea72a56db35913100f8d5/t/768/432/d/c-gettyimages-2194801110.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228799.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T13:40:00+09:00</dc:date>
+        <title>トランプ米政権、連邦政府職員に早期退職を提案</title>
+        <link>https://www.cnn.co.jp/usa/35228799.html?ref=rss</link>
+        <description>職場への復帰を希望しない米連邦政府の職員に対して、早期退職の提案が行われたことがわかった。連邦政府人事管理局のウェブサイトに２８日夜、通知が出された。
+
+ＣＮＮはこれより前、トランプ政権当局者と人事管理局の報道官からの話として、早期退職の提案が行われると報じていた。
+
+トランプ政権は、新型コロナの流行時にフレキシブルな勤務形態を採用していた連邦政府職員の多くに対し、オフィスに戻り、出社する形での勤...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228799.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/8aff74e24478fdf2fcf0da00be95fe03/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTZoMXl2dDcwMDBkM2I2bWtwejVtdzFr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtNmgxd3d1bjAwMXMyNnFoODI5dTFscTg=thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35228772.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T13:21:00+09:00</dc:date>
+        <title>米ブーム、初の超音速飛行に成功　２９年の実用化に弾み</title>
+        <link>https://www.cnn.co.jp/travel/35228772.html?ref=rss</link>
+        <description>米コロラド州に拠点を置くスタートアップ、ブーム・スーパーソニックは２８日、初の超音速飛行を達成し、大きな節目を迎えた。
+
+世界最速旅客機の実現を目指している同社は、カリフォルニア州モハベでの試験飛行で初めて音速の壁を破った。
+
+独自に開発されたジェット機が超音速飛行に成功したのは、同社の技術実証機「ＸＢ―１」が初めて。
+
+ＸＢ―１は２０２４年３月に初飛行を行って以降、１２回の試験飛行に成功し、ブームの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35228772.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/189bff8bd02a94509b6770bdb8e5d35b/t/768/432/d/xb-1-ssf-1-1440x810.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228791.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T12:56:00+09:00</dc:date>
+        <title>目撃情報相次いだドローン騒ぎ、「敵ではなかった」　米大統領報道官発表</title>
+        <link>https://www.cnn.co.jp/usa/35228791.html?ref=rss</link>
+        <description>米ニュージャージー州の上空で先月、正体不明のドローンを目撃したという報告が相次いだ問題で、米ホワイトハウスのキャロライン・レビット報道官は、目撃されたのは連邦航空局（ＦＡＡ）が許可したドローンで、敵ではなかったと説明した。
+
+この騒ぎをめぐってドナルド・トランプ大統領は就任前の２０２４年１２月１６日、「何かおかしなことが起きていて、何らかの理由で彼らは国民に話したがらない」と述べていた。
+
+レビッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228791.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/de8ffb79bff4a8614b0468d416b96b59/t/768/432/d/c-2025-01-28t183041z-1078870899-rc26jca0cp4t-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228795.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T12:27:00+09:00</dc:date>
+        <title>米連邦地裁、トランプ政権の補助金凍結を差し止め</title>
+        <link>https://www.cnn.co.jp/usa/35228795.html?ref=rss</link>
+        <description>米連邦裁判所は、トランプ政権が計画している連邦政府による全ての財政支援を凍結するという指示について、執行を一時的に差し止めた。
+
+首都ワシントン連邦地裁のアリハン判事は、すでに連邦政府によって認められている支援について、トランプ政権による財政支援の凍結計画の実行を、少なくとも来月３日まで差し止めた。
+
+アリハン判事は差し止めについて、「現状を維持する方法」として機能するとした一方、非営利団体から提...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228795.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/bb6fc52d9506191522d978ea36b47600/t/768/432/d/gettyimages-1203190542-thumbnail-675.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228789.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T12:10:00+09:00</dc:date>
+        <title>イスラエル、パトリオット９０基をウクライナに供与　米国が仲介</title>
+        <link>https://www.cnn.co.jp/usa/35228789.html?ref=rss</link>
+        <description>地対空ミサイル「パトリオット」約９０基がイスラエルから米国の仲介を通じてウクライナに移送されていることがわかった。米国防当局者が明らかにした。
+
+パトリオットの供与については、米ネットメディア「アクシオス」が最初に報じた。
+
+このパトリオットはイスラエルに保管されていたもので、イスラエルでは３０年あまりの運用の後、昨年４月に退役した。イスラエルからウクライナへの供与については昨夏から協議が続いてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228789.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/d099a971982fe294425783a241a74833/t/768/432/d/c-2024-06-14t010022z-389636546-rc2x8t9ua410-rtrmadp-3-ukraine-crisis-jets.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228785.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T11:53:00+09:00</dc:date>
+        <title>ドイツ首相、イーロン・マスク氏に怒り　右翼政党支持は「実に不快」</title>
+        <link>https://www.cnn.co.jp/world/35228785.html?ref=rss</link>
+        <description>ドイツのショルツ首相は２８日、ＣＮＮに対し、米実業家イーロン・マスク氏について、「欧州全土で右派政治家が有利になるよう介入している。実に不快だ」と批判した。
+
+２月の総選挙を前に、マスク氏はドイツの右翼政党「ドイツのための選択肢（ＡｆＤ）」の支持を表明。ドイツの選挙活動に介入し物議を醸している。
+
+首都ベルリンで有権者との１時間にわたる対話を終え、降壇したショルツ氏はＣＮＮに対し、「イーロン・マス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228785.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/6582b5192a228f3449056972bff1e542/t/768/432/d/20250128-elon-musk-olaf-scholz-split-thumbnail-675.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35228781.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T11:18:00+09:00</dc:date>
+        <title>ネイマール、サウジ・アルヒラルを退団　古巣サントスに復帰か</title>
+        <link>https://www.cnn.co.jp/showbiz/35228781.html?ref=rss</link>
+        <description>サッカーのサウジアラビア１部アルヒラルは２７日、ブラジル代表ＦＷネイマール（３２）との契約について、双方の合意に基づいて解除すると明らかにした。
+
+ネイマールは２０２３年８月にアルヒラルに移籍。契約金は９０００万ユーロ（現在のレートで約１４６億円）とも報じられたが、負傷のため出場機会は７試合にとどまっていた。
+
+ネイマールは加入から数カ月後の２３年１０月にひざを負傷。２４年１０月に復帰したものの、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35228781.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/f3d689c93ecf307ca2eb216e67952211/t/768/432/d/gettyimages-2182914590.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228779.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T10:58:00+09:00</dc:date>
+        <title>人類絶滅まであと８９秒、「終末時計」１秒進む　核軍拡やＡＩに危機感</title>
+        <link>https://www.cnn.co.jp/world/35228779.html?ref=rss</link>
+        <description>人類絶滅の瞬間までに残された時間を象徴的に表す「終末時計」が２８日、１秒進められ、終末を意味する午前０時までの残り時間が過去最短の８９秒になった。米科学誌「ブレティン・オブ・ジ・アトミック・サイエンティスツ」が発表した。
+
+終末時計が設定されたのは１９４７年。午前０時は人類が地球を生存不可能な場所にしてしまった瞬間を表す。
+
+過去２年間はロシアのウクライナ侵攻や核軍拡競争の可能性、イスラエルとガザ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228779.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/e06ab36248c6c583c121b7ab140e5997/t/768/512/d/ap25028524613814-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228780.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T10:47:00+09:00</dc:date>
+        <title>世界最大級の宗教行事「クンブメーラ」で群衆事故、負傷者も　インド</title>
+        <link>https://www.cnn.co.jp/world/35228780.html?ref=rss</link>
+        <description>インドの北部プラヤグラージで行われている世界最大級の宗教行事で群衆事故が発生し、複数の負傷者が出ている。主催者が２９日に明らかにした。
+
+主催者によると、ヒンドゥー教の祭典「マハ・クンブメーラ」で障壁が壊れ、密集状態の人々が折り重なって倒れる群衆事故が発生。複数の負傷者が手当てを受けており、中には集中治療室（ＩＣＵ）に運ばれた負傷者もいるという。
+
+死者が出ているかどうかも含め、被害の程度はまだ調...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228780.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/8c1d411e742634b7df20b7d77e51f6f9/t/768/432/d/gettyimages-2195890508.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35228777.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T10:34:00+09:00</dc:date>
+        <title>印中直行便の運航、５年ぶり再開で合意</title>
+        <link>https://www.cnn.co.jp/travel/35228777.html?ref=rss</link>
+        <description>中国とインドが、直行便の運航を５年ぶりに再開することで合意した。直行便の運航再開は、中国とインドの関係改善を示す最新の事例となった。
+
+インドと中国本土を結ぶ直行便の運航は、新型コロナウイルスの世界的な流行が始まった２０２０年初頭から停止。印中間で政治的緊張が高まるなか、直行便の運航は停止したままだった。
+
+インドのミスリ外務次官は２７日、訪問先の中国で、王毅外相と会談した。
+
+インド外務省は声明で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35228777.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/158719aa147574b7b0f74292245503b5/t/768/432/d/2022-12-21t032939z-25538117-rc2o5y9hg2k5-rtrmadp-3-india-economy-growth.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35228768.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T09:35:00+09:00</dc:date>
+        <title>グーグルマップ、メキシコ湾を「アメリカ湾」に変更へ</title>
+        <link>https://www.cnn.co.jp/tech/35228768.html?ref=rss</link>
+        <description>トランプ米大統領が米南部沖のメキシコ湾を「アメリカ湾」に改称する大統領令に署名したことを受け、米グーグルはこの名称変更を「グーグルマップ」に反映する。
+
+グーグルはＸ（旧ツイッター）で、同社では「政府の公式情報源で名称が更新された際にその名称変更を適用するという長年の慣例」があると説明した。今回の新たな名称は、名称と位置データに関する政府データベース「地名情報システム」が更新されたときに調整され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35228768.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/b4d9f0a1ac58bd076d485a169bbde4e9/t/768/432/d/gettyimages-1243527183.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228760.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T07:31:00+09:00</dc:date>
+        <title>トランプ米政権、連邦の補助金や融資を一時停止　支援機関から懸念の声</title>
+        <link>https://www.cnn.co.jp/usa/35228760.html?ref=rss</link>
+        <description>トランプ米政権が、行政管理予算局（ＯＭＢ）の補助金や融資などの拠出を一時的に停止するよう指示したことがわかった。２７日に送付された内部メモで明らかになった。ホワイトハウスは拠出の全面停止といった指示ではないと説明しているものの、慈善団体や教育機関からは混乱と懸念の声が出ている。
+
+ＣＮＮが入手したメモによれば、ＯＭＢのバース局長代行は、連邦政府機関は「すべての連邦の財政支援の義務や支払いに関係す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228760.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/e60617cf91c0e31378b02541673b25f1/t/768/512/d/2025-01-23t110027z-513292522-rc20ecavkuz4-rtrmadp-3-usa-trump-world-liberty.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228759.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-29T07:02:00+09:00</dc:date>
+        <title>イスラエル首相、来月４日にトランプ大統領とホワイトハウスで会談</title>
+        <link>https://www.cnn.co.jp/world/35228759.html?ref=rss</link>
+        <description>イスラエルのネタニヤフ首相は来月４日にホワイトハウスで、トランプ米大統領と会談を行うことが分かった。イスラエル首相府が明らかにした。トランプ氏がネタニヤフ氏を招待した。
+
+イスラエル首相府の声明によると、２期目に入ったトランプ氏からホワイトハウスに招待された外国首脳はネタニヤフ氏が初めて。
+
+両首脳は、今月２０日のトランプ氏の大統領就任式の数日前に電話会談を実施。ネタニヤフ氏のワシントン訪問につい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228759.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/29/afc94c16a91bbee462b348680397a063/t/768/512/d/Netanyahu-Trump-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228756.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-28T20:02:00+09:00</dc:date>
+        <title>米インディアナ州のスーパーで銃撃　２人が死亡、警官２人負傷</title>
+        <link>https://www.cnn.co.jp/usa/35228756.html?ref=rss</link>
+        <description>米中西部インディアナ州北部のスーパーマーケットで２７日に銃撃事件があり、警察によると２人が死亡、警官２人が負傷した。容疑者は警官に撃たれて死亡した。
+
+警察の発表によると、銃撃は同州エルクハート市内のスーパーで、午後５時半ごろに始まった。緊急通報を受け、直後に緊急要員が出動。撃たれた２人が店内で見つかり、現場で死亡が確認された。
+
+その後、店の外で警官らと容疑者が撃ち合いになり、警官２人が撃たれて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228756.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/28/1fb6d14a7831de10b30e38cbc1d45ae3/t/768/432/d/still-21325832-29562-333-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35228755.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-28T19:34:00+09:00</dc:date>
+        <title>英エディンバラ、観光客への宿泊税が議会通過　来年導入へ</title>
+        <link>https://www.cnn.co.jp/travel/35228755.html?ref=rss</link>
+        <description>英スコットランドの中心都市エディンバラの市議会で、観光客から宿泊費の５％を徴収する案が可決された。来年半ばに施行される。
+
+英国内で観光税が導入される例は初めて。エディンバラを訪れてホテルやコンドミニアムに滞在する観光客に、５泊分を上限として課税し、当局に代わって宿泊施設が徴収する。
+
+市議会議長は先週の採決に先立ち、観光が市の資源を圧迫していると指摘。計画的で持続可能な発展のために資金が必要だと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35228755.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/28/84f69b935bca85328fcdd7977b38f8d7/t/768/432/d/gettyimages-1590054384.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35228740.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-28T19:10:00+09:00</dc:date>
+        <title>２８００ｍの氷柱は「タイムマシン」、過去の気候変動の謎を解く手掛かりに</title>
+        <link>https://www.cnn.co.jp/fringe/35228740.html?ref=rss</link>
+        <description>国際的な研究チームが南極で、１２０万年前にさかのぼる長さ２８００メートルに及ぶ氷床コアの掘削と回収に成功した。この氷柱は南極氷床の下の岩盤に届くほどの深さに達していた。
+
+今回掘削された氷床コアについて、「タイムマシン」であり、「地球の気候の驚異的な記録保管所」だと指摘するのは、カルロ・バルバンテ氏。バルバンテ氏は、氷床コアを採取したプロジェクト「ビヨンドＥＰＩＣＡ（南極における欧州合同氷床コア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35228740.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/28/49e50e27ad0f59be08f647b4a7fa59a4/t/768/432/d/credit-pnra-ipev-the-ice-core-from-the-drill-head.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228752.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-28T17:52:00+09:00</dc:date>
+        <title>デンマーク、グリーンランドなど北極圏の軍事力強化に３２００億円</title>
+        <link>https://www.cnn.co.jp/world/35228752.html?ref=rss</link>
+        <description>デンマークは２７日、自治領グリーンランドを含む北極圏の軍事力強化に１４６億デンマーク・クローネ（約３２００億円）を投入すると発表した。
+
+デンマーク国防省は、この地域で偵察や主権維持の能力を高めるのが目的だとする声明を発表。同時に、全体的な安全保障と防衛を強化するには、北極圏と北大西洋における同盟諸国、北大西洋条約機構（ＮＡＴＯ）の取り組みを支援することが不可欠だと強調した。
+
+投入する予算は、新...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228752.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/28/ae07729780534396c6c0c75c9d66ea3c/t/768/432/d/gettyimages-2195734128.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228742.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-28T17:24:00+09:00</dc:date>
+        <title>マフィアがイタリア南部で山火事を「武器化」、そのやり口とは</title>
+        <link>https://www.cnn.co.jp/world/35228742.html?ref=rss</link>
+        <description>焼けるような気温とサハラ砂漠から吹き込む高温の乾燥した南東風「シロッコ」によって、イタリア南部は毎年何千件もの山火事に見舞われる。気候危機がこれらの火災を助長しているのだが、その一方で、マフィアが火をつけている可能性があることが新たな研究で明らかになった。
+
+熱く乾燥した風はイタリアの猛烈な山火事の主要因にはなっているが、実際に火をつけるのは人間だ。当局によれば、半分以上は土地の立ち退きから個人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228742.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/28/919eeef879beb133f596e140966c6520/t/768/432/d/001-gettyimages-1556186843.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228748.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-28T16:54:00+09:00</dc:date>
+        <title>第１段階で解放予定の人質、「８人はすでに死亡」　イスラエル発表</title>
+        <link>https://www.cnn.co.jp/world/35228748.html?ref=rss</link>
+        <description>イスラエル政府の報道官は２７日、イスラム組織ハマスの停戦合意に基づき第１段階で解放される予定の人質３３人のうち、８人はすでに死亡していると発表した。
+
+同報道官は記者会見で、パレスチナ自治区ガザ地区から解放されるイスラエル人の人質のうち、生存者はすでに帰還した７人を含め２５人だと語った。ハマスから人質の名簿が届いた後、安否を知らされたという。
+
+同報道官は、８人がハマスに殺害されたと述べた。ハマス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228748.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/28/6519f2cb9147ce47b02266cb2440cb1e/t/768/432/d/gettyimages-2107845362.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228731.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-28T15:05:00+09:00</dc:date>
+        <title>パティスリーの「Ｗ杯」、日本がフランスを制して優勝　</title>
+        <link>https://www.cnn.co.jp/world/35228731.html?ref=rss</link>
+        <description>フランスで今月開かれたパティスリーの「ワールドカップ（Ｗ杯）」で、日本がフランスを抑えて優勝を果たした。
+
+２年に１度開催される大会には、エジプト、モーリシャス、韓国など各国の代表が出場して最高のデザートを作り上げる腕を競う。今年は今月２４日と２５日にフランスのリヨンで開かれた。
+
+各チームはそれぞれチョコレート、アイス、砂糖のスペシャリストの３人で構成。自分たちの国を代表するフローズンデザートと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228731.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/28/5adc0c348bca7919eb8e8f75eaececd1/t/768/432/d/shutterstock-editorial-15118538gt.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
