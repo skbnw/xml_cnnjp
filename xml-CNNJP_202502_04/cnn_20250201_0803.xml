@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-02-01T16:20:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228946.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35228947.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228945.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228944.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228943.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228941.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228940.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228937.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35228656.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228493.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228874.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228922.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228921.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35228912.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228917.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228914.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35228909.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228904.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228902.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228896.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228897.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228890.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228887.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35227373.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35228859.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35228845.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228884.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35228850.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35228867.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35228878.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35228946.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-01T16:20:00+09:00</dc:date>
+        <title>ノルウェー、ロシア人乗組員の船舶を拿捕　海底ケーブルに「深刻な被害」与えた疑い</title>
+        <link>https://www.cnn.co.jp/world/35228946.html?ref=rss</link>
+        <description>ノルウェーの警察は１日までに、ロシア人の船員が乗る船舶を拿捕（だほ）した。ラトビアとスウェーデンの間に位置するバルト海のファイバーケーブルに「深刻な被害」を与えた疑いがあるとしている。
+
+ノルウェー北部トロムソの警察は１月３０日夜、ラトビア当局の要請に従い当該の船舶「シルバー・ダニア」 の所在を特定した。同船は３１日午前にトロムソの港湾に入港した。警察が声明で明らかにした。
+
+警察は船上で捜索や取り...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228946.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/01/7025e99fdab9d1e9f45bd602dbf0d4f8/t/768/432/d/ap25031501956285.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35228947.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-01T15:43:00+09:00</dc:date>
+        <title>新発見の小惑星、３２年に地球衝突のわずかな可能性　今後の観測で判断</title>
+        <link>https://www.cnn.co.jp/fringe/35228947.html?ref=rss</link>
+        <description>欧州宇宙機関（ＥＳＡ）と米航空宇宙局（ＮＡＳＡ）は最近発見された小惑星「２０２４　ＹＲ４」について、２０３２年１２月２２日に地球に衝突する可能性が１．２％あるとの見解を示した。
+
+ただ、ＥＳＡとＮＡＳＡによれば、これは地球周辺を安全に通過する可能性が９９％近くあることも意味する。研究者は今後の観測結果を手がかりに、衝突の可能性を判断するとみられる。
+
+２０２４　ＹＲ４の幅は推定４０～１００メートル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35228947.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/01/3f5e660de5646745f5d29f865d526e70/t/768/432/d/asteroid-artist-s-impression.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228945.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-01T13:41:00+09:00</dc:date>
+        <title>米フィラデルフィアに墜落の機体は医療搬送用　６人搭乗</title>
+        <link>https://www.cnn.co.jp/usa/35228945.html?ref=rss</link>
+        <description>米ペンシルベニア州フィラデルフィア北東部に１月３１日の夜墜落した航空機は、医療搬送用の双発の機体だったことが分かった。当局の情報から明らかになった。
+
+米連邦航空局（ＦＡＡ）が声明でＣＮＮに伝えたところによると、当該の機体は小型航空機「リアジェット５５」で、ノースイースト・フィラデルフィア空港を離陸した後の午後６時３０分前後に墜落した。当初、機体は小型の単発機と報じられていた。
+
+同機には６人が搭...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228945.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/01/dd177f8eb402d6c17e58862f5d762cdb/t/768/432/d/ap25032024388124-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228944.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-01T12:41:00+09:00</dc:date>
+        <title>ナチスに撃沈のブラジル艦船、残骸の場所を正式確認　沈没から８０年超</title>
+        <link>https://www.cnn.co.jp/world/35228944.html?ref=rss</link>
+        <description>ブラジル海軍は今週、第２次世界大戦中にナチス・ドイツの魚雷攻撃で撃沈された兵員輸送船の沈没場所を正式確認した。リオデジャネイロ沖の海中に沈んでから８０年以上が経つ。
+
+「ビタル・デ・オリベイラ」の残骸が最初に見つかったのは２０１１年。発見したのはブラジル人兄弟だった。だが昨年７月の時点でも、ブラジル海軍は地元紙の取材に対し、沖合４５キロの場所に沈む残骸が本当にこの船のものなのか確認できないと述べ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228944.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/01/13a25b449c8bf821e5bd533b7928bea3/t/768/432/d/nhi-vital-de-oliveira.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228943.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-01T12:10:00+09:00</dc:date>
+        <title>旅行者がゾウに踏みつけられ死亡、孫助けようとして襲われたか　南アの国立公園</title>
+        <link>https://www.cnn.co.jp/world/35228943.html?ref=rss</link>
+        <description>南アフリカのクルーガー国立公園で先ごろ、５９歳の男性旅行者がゾウに踏みつけられて死亡した。男性は自身の孫を助けようとしていたという。国立公園が出した声明で明らかになった。
+
+目撃者によると男性とその家族はこの時、川の近くに車を止めていた。子どもたちが橋を渡って茂みに入ったところ、ゾウが１頭、近くの群れを離れて彼らに向かって突進してきたという。南アフリカ国立公園局が明らかにした。
+
+１月２５日に発生...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228943.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/01/e8e7d5b20ff536c7d7de8fb4cb6e5d86/t/768/432/d/gettyimages-57013645.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228941.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-01T10:33:00+09:00</dc:date>
+        <title>商業施設付近にビジネスジェットが墜落　米フィラデルフィア北東部</title>
+        <link>https://www.cnn.co.jp/usa/35228941.html?ref=rss</link>
+        <description>米ペンシルベニア州フィラデルフィア北東部で１月３１日、ビジネスジェット１機が商業施設の近くに墜落した。複数の法執行機関の情報筋がＣＮＮに確認した。
+
+同州のシャピロ知事はフィラデルフィアの市長と連絡を取ったと説明。緊急対応に向けて全州の資源を提供すると述べている。
+
+フィラデルフィア市の緊急対策室はＸ（旧ツイッター）への投稿で「大事故」の対応に当たっていると述べた。現場付近の道路は封鎖されていると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228941.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/01/8dfd9994e174ef117f2f615a2abd24d4/t/768/512/d/ap25032003663360.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228940.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-01T10:26:00+09:00</dc:date>
+        <title>米旅客機とへリ空中衝突、新たなアングルからの映像を入手</title>
+        <link>https://www.cnn.co.jp/usa/35228940.html?ref=rss</link>
+        <description>米首都ワシントンを流れるポトマック川の上空で起きたアメリカン航空機と米軍ブラックホークヘリの衝突で、ＣＮＮはこれまで未確認のアングルから衝突の様子を捉えた動画２本を独占入手した。
+
+２本の動画はいずれも携帯電話で撮影されており、両機の衝突を捉えた監視カメラの映像を再生したものが映っている。
+
+１本目の動画では、スクリーンの左側からポトマック川上空を高速飛行するブラックホークヘリが確認できる。ブラッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228940.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/01/edfd035bfb8c5418ce84af9c7e2a54e1/t/768/432/d/planevid0.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228937.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-01T09:25:00+09:00</dc:date>
+        <title>クルスク州で北朝鮮兵の姿見えず、甚大な損失で退却か　ウクライナ当局者</title>
+        <link>https://www.cnn.co.jp/world/35228937.html?ref=rss</link>
+        <description>ウクライナ軍の当局者は３１日、ロシアのクルスク州で北朝鮮兵の姿が数週間目撃されていないことを明らかにした。北朝鮮兵を巡っては、大量の死傷者を出しているとの情報がある。
+
+ウクライナ特殊作戦軍の報道官はＣＮＮに対し、「北朝鮮兵の存在はここ３週間ほど確認されていない。おそらく、大きな損失を被って退却を強いられたのだろう」との見方を示した。
+
+ウクライナのポドリャク大統領府長官顧問によると、これに先立ち...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228937.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/01/f21fb8864a254b3c3bed4c68c95f598d/t/768/432/d/2024-10-19t170747z-1463480810-mt1eyeim265719-rtrmadp-3-north-korea-soldiers-filmed-training-in-russia-far-east-base.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35228656.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T18:00:00+09:00</dc:date>
+        <title>作物開発にＡＩを活用　農家の気候危機対応の一助に　米新興企業</title>
+        <link>https://www.cnn.co.jp/tech/35228656.html?ref=rss</link>
+        <description>現在、世界では気候危機が農業に混乱をもたらし、予測不可能な気象パターンや気温の変化が農作物の脅威となっている。
+
+そんな中、米国のあるスタートアップは、人工知能（ＡＩ）の活用により、農家は急速に変化する環境に適用しやすくなると期待している。
+
+米国ノースカロライナ州に拠点を置く作物開発会社アバロ（Ａｖａｌｏ）は、機械学習モデルを使って、耐性のある新しい作物品種の開発の迅速化を図っている。
+
+作物が持...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35228656.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/24/199b4ba66f97e131a62c6620bb440445/t/768/409/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTQ3MWVsYXMwMDAxM2o2bWw4d3M4ODc5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtNDJ3azllcDAwMXkyNnA3NGRhN2JyMzg=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228493.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T17:30:00+09:00</dc:date>
+        <title>国連支援機関の活動禁じるイスラエル法施行、惨状恐れるパレスチナ人</title>
+        <link>https://www.cnn.co.jp/world/35228493.html?ref=rss</link>
+        <description>このままでは幼い子どもたちと共に路上に放り出されてしまう――。パレスチナ自治区ガザで３人の子どもと共に避難所に身を寄せるイマーン・ヘレスさんは恐怖を口にした。国連パレスチナ難民救済事業機関（ＵＮＲＷＡ）の活動を禁止するイスラエルの法律が３０日、施行された。
+
+ヘレスさんは、ガザの惨状の中でＵＮＲＷＡの支援だけを頼りに一家を支えてきた。ガザ市内の自宅は破壊され、今は中部デイルアルバラの小学校だった建...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228493.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/31/8874858fbed5ddaac7075775ff2dd14c/t/768/432/d/gettyimages-2170380790.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228874.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T16:30:00+09:00</dc:date>
+        <title>米ＮＹ市で逮捕の不法移民、ベネズエラのギャングの一員か　昨年コロラド州で指名手配</title>
+        <link>https://www.cnn.co.jp/usa/35228874.html?ref=rss</link>
+        <description>ベネズエラのギャング組織「トレン・デ・アラグア」の構成員と疑われる容疑者が、米連邦政府によるニューヨーク市での不法移民取り締まり中に逮捕された。同容疑者は昨年、コロラド州オーロラで発生した強盗事件に関与したとして指名手配されていた。
+
+米麻薬取締局（ＤＥＡ）と国土安全保障省は２８日、ニューヨーク市ブロンクス地区で２６歳のアンデルソン・サンブラノパチェコ容疑者を逮捕した。警察が明らかにした。オーロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228874.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/30/d0065b5d2a58b5f2c1386f6e9b95180d/t/768/432/d/giyzhcrwcaau6ds.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228922.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T15:15:00+09:00</dc:date>
+        <title>米旅客機衝突事故、民主党政権の方針に責任とトランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35228922.html?ref=rss</link>
+        <description>トランプ米大統領は３０日、２期目の就任後初めてホワイトハウスの記者会見室に立ち、首都ワシントン近郊で発生した旅客機と軍用機の衝突事故について見解を表明した。２期目を迎えて最初の国家的な悲劇に当たり、同氏は連邦政府内で多様性を推進した民主党の方針に責任があるとする根拠のない批判を展開した。
+
+アメリカン航空の旅客機と米軍のブラックホークヘリコプターがポトマック川の上空で衝突した今回の事故では乗客乗...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228922.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/31/b62e879efd49180e3b2f49c574d8e2f8/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTZqbmR3M3IwMDB5M2I2bW0xMWlrczNy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtNmprbWd2dDAwMW8yY3A4MWc2aDRvMXc=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228921.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T14:30:00+09:00</dc:date>
+        <title>トランプ氏指名の閣僚候補３人、公聴会で与野党議員から厳しい質問</title>
+        <link>https://www.cnn.co.jp/usa/35228921.html?ref=rss</link>
+        <description>トランプ米大統領が指名した閣僚候補の中で最も物議を醸す３人が３０日、指名承認について審議する連邦議会上院での公聴会に臨んだ。民主党議員のみならず共和党議員からも厳しい質問が飛び、トランプ氏の指名した候補に対する共和党議員の疑念がこれまでで最も直接的に露呈する公聴会となった。
+
+トランプ氏が保健福祉省長官に指名したロバート・ケネディ・ジュニア氏は、共和党のビル・カシディ上院議員（ルイジアナ州選出）...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228921.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/31/eaf491bf037c110786f2ca6e64d5022a/t/768/432/d/patel-gabbard-rfk-split-013025-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35228912.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T13:20:00+09:00</dc:date>
+        <title>米旅客機衝突事故、フィギュアの元世界王者や「未来」担う若手が犠牲に　過去の悲劇も想起</title>
+        <link>https://www.cnn.co.jp/showbiz/35228912.html?ref=rss</link>
+        <description>過去と現在、そして未来を代表するフィギュアスケートの選手たちがまたしても悲惨な航空機事故で命を落とした。フィギュアスケート界がこのような悲劇に見舞われるのは初めてではない。
+
+米アメリカン航空の旅客機と米陸軍のブラックホーク・ヘリコプターが首都ワシントン近郊で空中衝突した２９日夜の事故では、生存者がいない見通しとなった。当局が明らかにした。
+
+米国でのフィギュアスケート競技を統括する米フィギュアス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35228912.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/31/5dad454880eab51d6e9b7ff5bd80fbe1/t/768/519/d/gettyimages-1216572-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228917.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T12:42:00+09:00</dc:date>
+        <title>米旅客機衝突事故発生の空港　ヘリとのニアミス、以前から複数の報告</title>
+        <link>https://www.cnn.co.jp/usa/35228917.html?ref=rss</link>
+        <description>米首都ワシントン近郊のレーガン・ナショナル空港付近で米陸軍ヘリ「ブラックホーク」とアメリカン航空の旅客機が衝突事故を起こす前の３年間に、少なくとも２人のパイロットが同空港への着陸時にヘリとニアミスがあったと報告していたことが分かった。ＣＮＮが連邦事故報告書を調査し、明らかになった。
+
+パイロットの報告によると、二つの事案とも、旅客機は着陸時にヘリとの衝突を避けるための回避行動を取ることを余儀なく...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228917.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/31/91ceb929b0334f36aedde30b52af16ab/t/768/512/d/ap25030533478472-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228914.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T12:00:00+09:00</dc:date>
+        <title>子ども１人に父３人と母１人、裁判所が正式登録認める　ブラジル</title>
+        <link>https://www.cnn.co.jp/world/35228914.html?ref=rss</link>
+        <description>ブラジル南東部エスピリトサント州の裁判所が、１０歳の男の子を３人の父親と１人の母親の子どもとして正式に登録することを認める判決を言い渡した。ＣＮＮ提携局のＣＮＮブラジルが弁護士の話として伝えた。
+
+弁護士によると、男の子は出生時は実の父親と母親の間の子どもとして登録された。しかし両親の複雑な婚姻関係が原因で、父方のおじとおじの夫がこの子どもの面倒を見ることが増え、感情的な絆が生まれたという。
+
+実...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228914.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/31/b25db672d9481558380474a5670c0530/t/768/354/d/untitled-1-20250130203948683-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35228909.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T11:00:00+09:00</dc:date>
+        <title>メリル・ストリープさん、米ロス山火事での痛ましい避難体験が明らかに</title>
+        <link>https://www.cnn.co.jp/showbiz/35228909.html?ref=rss</link>
+        <description>米カリフォルニア州ロサンゼルスで今月初めに発生した山火事をめぐり、メリル・ストリープさんは避難する際、自らの手で対処することを余儀なくされたことがわかった。おいのエイブ・ストリープさんが明らかにした。
+
+ニューヨーク・マガジン誌の寄稿者エイブさんは２８日に公開された記事で、メリルさんが高級住宅地パシフィック・パリセーズとイートン地区で山火事が発生した翌日の８日に避難命令を受けたと説明している。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35228909.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/31/f52b57ede3aae9cf3cfc6f3e19432b12/t/768/432/d/gettyimages-2152939117.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228904.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T10:18:00+09:00</dc:date>
+        <title>人員不足の管制官もトランプ政権の早期退職呼びかけの対象、事故時１人で二つの管制を兼務</title>
+        <link>https://www.cnn.co.jp/usa/35228904.html?ref=rss</link>
+        <description>米首都ワシントン近郊の上空で２９日に起きた旅客機とヘリコプターの衝突事故をめぐり、管制官の労働組合は、トランプ政権が米連邦政府職員に呼びかけた早期退職の対象には管制官も含まれていたことを明らかにした。
+
+ホワイトハウスは２９日、早期退職を希望する職員は２月６日までに退職すれば、勤務しなくても９月３０日までの給与を支給すると発表した。
+
+航空管制官は不足しており、米連邦航空局（ＦＡＡ）の管制施設は人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228904.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/31/c78c0982b44298afb6d14a3d5c2920ac/t/768/512/d/gettyimages-2196166937-restricted-thujmbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228902.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T09:50:00+09:00</dc:date>
+        <title>トランプ氏、航空機衝突事故に言及　問題は混雑ではなく「無能ぶり」</title>
+        <link>https://www.cnn.co.jp/usa/35228902.html?ref=rss</link>
+        <description>米首都ワシントン近郊で発生した民間旅客機と軍用ヘリの衝突事故を受け、トランプ大統領は、レーガン・ナショナル空港から出発する便が多すぎるとは思わないと述べ、問題点は混雑ではなく職員の無能さにあると示唆した。
+
+トランプ氏は、大統領執務室で記者団に「フライトの運営には非常に優秀な人材が必要だと思う」「うまくいかないフライトは、いずれかになる。到着する便が多すぎて対応できなくなるか、誰もが経験したこと...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228896.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T09:31:00+09:00</dc:date>
+        <title>コーラン焼却の被告、判決前日に射殺される　スウェーデン</title>
+        <link>https://www.cnn.co.jp/world/35228896.html?ref=rss</link>
+        <description>スウェーデン当局は３０日、２０２３年に同国でイスラム教の聖典コーランを燃やす抗議活動をして起訴されたイラク出身のサルワン・モミカ被告が射殺されたと発表した。警察は殺人の疑いで５人を逮捕した。
+
+当局の報道官はＣＮＮに、モミカ被告が２９日にスウェーデンの首都ストックホルムで射殺されたことを明らかにした。
+
+モミカ被告は特定の民族集団に対する増悪を扇動した罪で起訴され、３０日に判決が言い渡される予定だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228896.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/31/40f181450f1585c4f04a9fbacf6629ad/t/768/432/d/gettyimages-2196063246.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228897.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T09:18:00+09:00</dc:date>
+        <title>４０人以上の遺体を川から収容、米旅客機とヘリの衝突事故</title>
+        <link>https://www.cnn.co.jp/usa/35228897.html?ref=rss</link>
+        <description>米首都ワシントン近郊の上空で２９日に起きた旅客機とヘリコプターの衝突事故で、現地時間の３０日夕刻までに４０人以上の遺体がポトマック川から収容された。関係者がＣＮＮに明らかにした。
+
+日が暮れたことや川の状況などから、この日の潜水による捜索活動は終了した。関係者によれば、救助隊員の間では、機体の残骸を川から撤去することなく収容できる遺体は既に大部分を収容したとの認識が広がっている。
+
+公衆安全当局に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228897.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/31/fc1264ccb8fd31fa7c033e3521ec7bfa/t/768/512/d/gettyimages-2196182568.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228890.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T07:23:00+09:00</dc:date>
+        <title>イスラエル、パレスチナ人１１０人を釈放　人質解放時に混乱も</title>
+        <link>https://www.cnn.co.jp/world/35228890.html?ref=rss</link>
+        <description>イスラム組織ハマスは３０日、停戦合意に基づきパレスチナ自治区ガザ地区に拘束していた人質８人を解放した。これを受けて、イスラエルは同日、国内の刑務所に収監していたパレスチナ人１１０人を釈放した。
+
+ガザ南部ハンユニスでは人質らがガザ地区の武装組織「イスラム聖戦」（ＰＩＪ）とハマスの武装したメンバーに挟まれながら赤十字に引き渡された。その際、群衆が押し寄せて現場は混乱し、その映像を見たイスラエルのネ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228890.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/31/2c86b17e7d2b21a142d66731022faf48/t/768/512/d/ap25030669314546.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228887.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-31T06:41:00+09:00</dc:date>
+        <title>米旅客機衝突事故、「生存者いない見通し」　２８人の遺体収容</title>
+        <link>https://www.cnn.co.jp/usa/35228887.html?ref=rss</link>
+        <description>米首都ワシントン近郊で発生した民間旅客機と軍用ヘリの衝突事故から一夜明けた３０日、旅客機とヘリが墜落したレーガン・ナショナル空港近くを流れるポトマック川では捜索救助活動が続けられた。当局は生存者はいないとの見方を示した。
+
+ワシントン消防当局の責任者は同日午前の記者会見で「救助活動から収容作業へと切り替える段階にある。現時点では生存者がいるとは考えていない」と説明した。
+
+これまでに旅客機から２７...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228887.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/31/1c9f7868510449e3237979752e061973/t/768/512/d/gettyimages-2196094109.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35227373.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-30T20:10:00+09:00</dc:date>
+        <title>墜落機に米ロのフィギュアスケート選手らが搭乗　救助活動続く</title>
+        <link>https://www.cnn.co.jp/usa/35227373.html?ref=rss</link>
+        <description>米ワシントン近郊で２９日夜に米陸軍のヘリコプターと衝突し、墜落した旅客機には、米国とロシアのフィギュアスケート選手らが搭乗していたことが分かった。現場のポトマック川では３０日未明も捜索救助活動が続いた。
+
+米フィギュアスケート協会は３０日未明までに、関係者数人が搭乗していたことを確認した。
+
+同協会からＣＮＮへの声明によると、中西部カンザス州ウィチタでの全米フィギュアスケート選手権に合わせて青少年...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35227373.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/30/e50ca666ed3d66be98bc36665b32afb0/t/768/431/d/gettyimages-2196682765.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35228859.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-30T19:41:00+09:00</dc:date>
+        <title>写真特集：２０２４年旅写真コンテスト、受賞作を見る</title>
+        <link>https://www.cnn.co.jp/photo/35228859.html?ref=rss</link>
+        <description>２０２４年の「トラベルフォトグラファーコンテスト」の受賞作品を紹介する&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35228859.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/30/fac939b773ab85da17f6f629a9c0f2eb/t/768/432/d/travelphotocontest_06.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35228845.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-30T19:31:00+09:00</dc:date>
+        <title>２０２４年旅写真コンテスト、受賞作発表　世界の風景や文化の美しさ捉えた作品の数々</title>
+        <link>https://www.cnn.co.jp/travel/35228845.html?ref=rss</link>
+        <description>２０２４年の「トラベル・フォトグラファー・コンテスト」の受賞作品がこのほど発表され、遠くを見つめる少女、仕事の合間に冗談を言い合うふたりの中国人炭鉱労働者、モンゴルの雪原に寝そべるマヌルネコなどを捉えた写真が賞に輝いた。
+
+コンテストの主催者は２６日、声明で、受賞作の数々を総合すると、「息をのむような雰囲気と色彩を捉えた、世界中を巡るすばらしい視覚的な旅」が明らかになるとたたえた。
+
+米国の写真家...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35228845.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/30/7145dcab0a67ddae2ffd42dddb12fb58/t/768/512/d/travelphotocontest_11.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228884.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-30T19:00:00+09:00</dc:date>
+        <title>反ユダヤの攻撃計画か、豪当局が未然に阻止　トレーラーに大量の爆発物</title>
+        <link>https://www.cnn.co.jp/world/35228884.html?ref=rss</link>
+        <description>オーストラリア当局は３０日までに、多数の死傷者を出す恐れのあった攻撃を未然に阻止したと発表した。ニューサウスウェールズ州のシドニーで大量の爆発物を積んだトレーラーが見つかり、ユダヤ人社会への攻撃を企てていた形跡がみられたという。
+
+ミンズ州首相は２９日、トレーラー発見をめぐる情報が地元メディアに流出した後の記者会見で、多くの犠牲者が出る可能性があったと述べた。
+
+州警察の幹部によると、警察はこのト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228884.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/30/81142c063ac0d16949740c1631de547d/t/768/432/d/2025-01-29t222009z-469788231-mt1aap00091x2nh-rtrmadp-3-dural-explosives-crime-scene.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35228850.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-30T18:20:00+09:00</dc:date>
+        <title>小惑星ベンヌの試料から有機物、「生命の構成要素は地球外に起源」と研究者</title>
+        <link>https://www.cnn.co.jp/fringe/35228850.html?ref=rss</link>
+        <description>地球近傍小惑星「ベンヌ」から回収された試料を調査していた研究チームが、生命に必要な有機化合物や鉱物を発見した。地球の歴史の初期に小惑星から生命の構成要素が届けられたとの説を裏付ける新たな証拠となる。
+
+これらの試料はまた、宇宙の岩石が盛んに飛び交っていた太陽系初期にどのような化学的、生物学的プロセスが進行していたのかを理解する手がかりを提供するものでもある。
+
+過去１年の間に発表された岩や塵（ちり...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35228850.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/30/b0555d9c239b6ee8e1e0f6bb5005549e/t/768/432/d/na-carb-pocket-colorized-rotated.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35228867.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-30T16:40:00+09:00</dc:date>
+        <title>ガザ人質解放、３０日に第３弾の予定　イスラエル人３人とタイ人５人</title>
+        <link>https://www.cnn.co.jp/world/35228867.html?ref=rss</link>
+        <description>イスラエル首相府は２９日、イスラム組織ハマスとの停戦合意に基づく人質解放の第３弾として、３０日中にイスラエル人３人とタイ人５人が解放されるとの見通しを確認し、このうちイスラエル人の名前を公表した。
+
+首相府によると、仲介国のカタールとエジプトがハマスから受け取った名簿に、イスラエル人３人の名前があった。タイ人５人の名前は公表されていない。
+
+イスラエル側は３０日に、拘束していたパレスチナ人１１０人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35228867.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/30/419ef0569dbad7d5635b383f2c7879a6/t/768/432/d/isr-hostages-012925.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35228878.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-01-30T15:51:00+09:00</dc:date>
+        <title>米首都近郊で軍用ヘリと旅客機が空中衝突、分かっていること</title>
+        <link>https://www.cnn.co.jp/usa/35228878.html?ref=rss</link>
+        <description>米首都ワシントン近郊のレーガン・ナショナル空港付近で２９日夜、旅客機と米陸軍のヘリコプターが空中衝突し、生存者を探す懸命の捜索が続いている。
+
+旅客機が墜落したポトマック川では、凍てつく水の中で緊急対応要員が捜索救助活動を行っている。法執行当局の情報筋は死者が確認されたことを明らかにしたものの、具体的な人数は明かさなかった。これまでのところ救出された生存者はいない。
+
+アメリカン航空と米国防当局者...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35228878.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/01/30/4037fdf167a7dfc1ac68464d8c7c520e/t/768/495/d/rtrmadp-3-usa-crash-washingtondc-20250130033118096.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
