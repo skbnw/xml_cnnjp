@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-02-15T16:30:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229449.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229450.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229293.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229398.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35229448.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229447.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35229331.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35229446.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229445.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229411.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229440.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35229386.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229433.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35229436.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229412.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229425.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229423.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229421.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229417.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229415.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229409.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35229407.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229402.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229400.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229394.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229390.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229388.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35229385.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35229384.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35229360.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35229449.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-15T16:30:00+09:00</dc:date>
+        <title>英ウィリアム皇太子とキャサリン妃、バレンタインデーに愛情あふれる写真を共有</title>
+        <link>https://www.cnn.co.jp/world/35229449.html?ref=rss</link>
+        <description>英国のウィリアム皇太子とキャサリン妃が、バレンタインデーに合わせて自分たちのロマンチックな写真を共有した。
+
+皇太子夫妻の公式のソーシャルメディアチャンネルに１４日投稿されたこの写真の中で、夫妻は木々に囲まれた芝生の上に腰を下ろしている。
+
+二人とも青みがかった服を着て、手を握り合っている。
+
+ウィリアム皇太子は笑顔を浮かべるキャサリン妃の方を向き、その頬にキスをしている。
+
+写真には赤いハートの絵文...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229449.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/15/c58cfdb1d1dbf9103e55da9413367aab/t/768/432/d/gjvpeo0xgaax0un-20250214143031139.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229450.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-15T16:00:00+09:00</dc:date>
+        <title>トランプ政権が核兵器関連の人員解雇、備蓄兵器を監督とは知らず　情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35229450.html?ref=rss</link>
+        <description>トランプ米政権の当局者が１３日夜、国の核備蓄の管理を担う国家核安全保障局（ＮＮＳＡ）の職員３００人あまりを解雇したことが分かった。事情に詳しい情報筋４人が明らかにした。エネルギー省の大規模人員削減の一環だという。
+
+情報筋はＣＮＮに対し、当局者はＮＮＳＡが米国の核兵器を監督していることを知らなかったとみられるとの見方を示した。
+
+エネルギー省の報道官は影響を受ける職員の数に異議を唱え、ＣＮＮに対し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229450.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/15/1317e27d1c8a7bacb813c65e82c6cb3e/t/768/432/d/shutterstock-editorial-7968361b.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229293.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-15T15:15:00+09:00</dc:date>
+        <title>「牛のおなら」ワクチンは気候変動対策にどう役立つか</title>
+        <link>https://www.cnn.co.jp/fringe/35229293.html?ref=rss</link>
+        <description>草だけを食べて生きていける牛の能力は自然の驚異の一つだが、そこには代償も伴う。
+
+食べた草が第一胃（牛の体内に四つある胃の一つ）で発酵する際、メタンが自然発生する。メタンは二酸化炭素の２８倍の温室効果を持つ気体。二酸化炭素より短い時間で消失するが、牛のげっぷやおならを通じ平均で１頭当たり年間約９０キロ放出される。糞（ふん）からも放出されるので、畜産は人間由来のメタン放出全体の３分の１を占める。メ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229293.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/12/e286f0581dec68e8ff87905bcb21986d/t/768/512/d/pirbright-inst-1-20250124122147782 (1).jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229398.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-15T14:21:00+09:00</dc:date>
+        <title>洞窟のクモを「ゾンビ」化して操る、新種の菌類発見　巣外におびき出し胞子拡散</title>
+        <link>https://www.cnn.co.jp/fringe/35229398.html?ref=rss</link>
+        <description>欧州の研究チームがこのほど、洞窟に生息するクモを「ゾンビ」化する未知の菌類を特定した。この菌類はクモを巣からおびき出して殺し、胞子を拡散する手段として死骸を利用していた。
+
+専門誌に１月２４日掲載された研究によると、新発見の種の学名は「ギベルラ・アッテンボロギ」。アリをゾンビ化する菌類と似たような行動を取り、獲物を操って菌類の拡散により適した場所に移動させているようだ。
+
+ただ、この菌類がクモの脳...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229398.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/15/c708d38511ed3ce8c4e2e273d22870d1/t/768/432/d/img-0604.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35229448.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-15T13:53:00+09:00</dc:date>
+        <title>１２００億円相当のビットコイン、保存したＨＤＤをうっかり捨てた男性がごみ捨て場の買い取りに意欲　英</title>
+        <link>https://www.cnn.co.jp/tech/35229448.html?ref=rss</link>
+        <description>英ウェールズのごみ埋立地の奥深く、数年分たまったごみの層の下に、約８億ドル（約１２００億円）相当の仮想通貨ビットコインを保存したハードディスクドライブ（ＨＤＤ）が眠っている。ジェームズ・ハウエルズさんはそう信じている。当該のＨＤＤは、ハウエルズさんが２０１３年に誤って廃棄してしまったものだという。
+
+ごみ埋立地の発掘許可を巡って地元自治体との裁判を起こしてから数年が過ぎた現在、ハウエルズさんは新...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35229448.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/15/e6251a0de18dd818f1a91dc155cff810/t/768/432/d/shutterstock-editorial-3394526d.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229447.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-15T12:00:00+09:00</dc:date>
+        <title>バンス氏、演説で欧州同盟国を痛烈批判　ロシアと中国の脅威は重視せず</title>
+        <link>https://www.cnn.co.jp/world/35229447.html?ref=rss</link>
+        <description>米国のバンス副大統領は１４日、独ミュンヘンで開催された安全保障会議で演説し、欧州の首脳らを厳しく批判した。その中で、欧州各国の安全保障に対する最大の脅威は中国やロシアではなく、それぞれの国の「内側から」現れると警告した。
+
+副大統領として臨んだ最初の演説でバンス氏は、欧州首脳らが自由な言論を抑圧していると非難。移民に対する抑制を失う一方、強硬な右派政党とは政権内での連携を拒んでいると糾弾した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229447.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/15/e929e928a0d195ec515e44b16c97dfb2/t/768/432/d/gettyimages-2199606058.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35229331.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-15T11:30:00+09:00</dc:date>
+        <title>旅先で生まれた６人の友情、９０年代と同じポーズの写真を３０年後に再現</title>
+        <link>https://www.cnn.co.jp/travel/35229331.html?ref=rss</link>
+        <description>メキシコのリゾート地、カボサンルーカスで１９９４年に撮影されたビーチ写真。並んで立つ３人の男性はそろって腕を組み、ベースボールキャップを後ろ向きにかぶっている。カラフルなトランクス水着と派手な柄のシャツが９０年代を象徴する。
+
+「記念すべき写真 」と形容するのはスコット・ベリンガーさん、ジョージ・ギルバートさん、ティム・コーバーさん。当時３０代前半だった３人は、それぞれのパートナーのパティ・コーバ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35229331.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/12/6857f1787874be188080c9adb59ef6e5/t/768/614/d/5tim-korber-friend-recreated-pics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35229446.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-15T10:55:00+09:00</dc:date>
+        <title>ＡＰ通信、大統領執務室と専用機への出入り無期限禁止に　「メキシコ湾」表記巡り</title>
+        <link>https://www.cnn.co.jp/showbiz/35229446.html?ref=rss</link>
+        <description>米ホワイトハウスは１４日、ＡＰ通信による大統領執務室とエアフォース・ワン（大統領専用機）への出入りを無期限で禁じると明らかにした。
+
+ＡＰ通信は世界最大規模の報道機関で、今週、「メキシコ湾」の表記を巡りホワイトハウスからやり玉に挙げられていた。
+
+トランプ米大統領は先月、メキシコ湾を「アメリカ湾」に改称する米政権の方針を発表。名称変更は複数の政府機関で実施されている。ただ、新たな名称を認めていない...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35229446.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/15/7acc2def1c6108b3aa0d687813ea9726/t/768/432/d/gettyimages-2198554745.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229445.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-15T09:40:00+09:00</dc:date>
+        <title>米空母トルーマン、スエズ運河付近で商船と衝突　米空母と商船の衝突は０４年以来</title>
+        <link>https://www.cnn.co.jp/world/35229445.html?ref=rss</link>
+        <description>米軍の原子力空母「ハリー・Ｓ・トルーマン」が１２日夜、地中海のエジプト近海でパナマ船籍の商船と衝突したことが分かった。米海軍の報道官が明らかにした。
+
+海軍の発表は１３日。空母トルーマンとパナマ船籍の商船ベシクタスＭの衝突原因は不明だが、報道官によると、トルーマンへの浸水は起きておらず、原子力推進機関も影響を受けていない。
+
+海軍の当局者の話では、いずれの艦船でも負傷者は報告されていないものの、商...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229445.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/15/82d432adb59d70e61c60a37e2984e376/t/768/432/d/gettyimages-1047552982.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229411.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T20:00:00+09:00</dc:date>
+        <title>湖にはびこる侵略的外来種をバイオプラスチックに、新興企業の画期的解決策　ケニア</title>
+        <link>https://www.cnn.co.jp/fringe/35229411.html?ref=rss</link>
+        <description>ケニアの首都ナイロビの北西に位置するナイバシャ湖は、船の航行が困難になりつつある。今、世界で最もはびこっている侵略的外来種ホテイアオイが湖を覆い尽くし、魚を窒息させ、人々を立ち往生させているのだ。
+
+地元の漁師であるサイモン・マチャリア氏によると、ある時、漁師たちは、湖でホテイアオイに閉じ込められ、３日間身動きが取れなくなったという。結局、漁師たちは政府に助けを求め、ヘリコプターで救助された。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229411.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/be3f61edb47b568ddfa795ecf81f1640/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTQybml3NHMwMDEzM2I2bTQ2ZmtqaHJl-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtNDJtbWJpbjAwNmsyY3FrMjNueWVmZWk=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229440.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T19:07:00+09:00</dc:date>
+        <title>プーチン氏が３年間待った瞬間が到来、ゼレンスキー氏は蚊帳の外</title>
+        <link>https://www.cnn.co.jp/world/35229440.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領はこの３年間、部屋の中心にいた。だが今やおそらく、自分が正しい部屋にいるのかどうかも分からない状況だろう。
+
+ゼレンスキー氏はこれまで、暴走する独裁的なロシアに対抗する西側の共同戦線を象徴する存在だった。チャーチル元英首相を彷彿（ほうふつ）させる存在感で欧州を叱咤（しった）し、欧州の分断と買収に長年成功してきたクレムリン（ロシア大統領府）のトップに対抗する道義的な立...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229440.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/862cc1daf1855b729ba8310874247e5a/t/768/432/d/gettyimages-2193323379.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35229386.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T18:13:00+09:00</dc:date>
+        <title>写真特集：旅先で出会い意気投合した６人、３０年来の友人に</title>
+        <link>https://www.cnn.co.jp/photo/35229386.html?ref=rss</link>
+        <description>旅先で出会い意気投合した３組のカップル。３０年以上続く友情を写真で振り返る&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35229386.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/13/a976718fc5ff4de244346e427247f968/t/768/495/d/2tim-korber-friend-recreated-pics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229433.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T17:55:00+09:00</dc:date>
+        <title>ロシアの攻撃ドローン、チェルノブイリ原発に激突　放射線レベルは正常　ウクライナ発表</title>
+        <link>https://www.cnn.co.jp/world/35229433.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は、ロシアのドローン（無人機）１機が１３日夜、チェルノブイリの破壊された原子力発電所に激突したと述べた。同発電所はベラルーシとの国境近くに位置する。
+
+ウクライナの国家非常事態庁はこの後、環境放射線について正常範囲内に収まっていると述べた。
+
+ゼレンスキー氏はＸ（旧ツイッター）の投稿で、爆発物の入った弾頭を搭載したロシアの攻撃ドローンが、破壊された４号炉を保護するシェ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229433.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/20fc4cab89792df74af9d6ebe7ae1fb1/t/768/432/d/gjusibvwuaark35.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35229436.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T17:44:00+09:00</dc:date>
+        <title>ＴｉｋＴｏｋアプリ、グーグルとアップルの米国アプリストアに復活</title>
+        <link>https://www.cnn.co.jp/tech/35229436.html?ref=rss</link>
+        <description>米グーグルは１３日、米国のアプリストアに動画投稿アプリのＴｉｋＴｏｋ（ティックトック）を復活させたと発表した。ドナルド・トランプ大統領がＴｉｋＴｏｋ禁止法の施行を遅らせたことを受けた措置。
+
+ブルームバーグ通信とＣＮＢＣは、米アップルも同日夕、米国のアプリストアにＴｉｋＴｏｋを復活させると報じた。ＣＮＮがさまざまなスマートフォンでダウンロードを試した結果、アプリストアからＴｉｋＴｏｋアプリが入手...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35229436.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/e92214079016ff5c634552767212ac63/t/768/432/d/ap25017790638443.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229412.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T16:50:00+09:00</dc:date>
+        <title>イスラエル、年内にイランの核施設を攻撃か　米諜報機関が認識</title>
+        <link>https://www.cnn.co.jp/usa/35229412.html?ref=rss</link>
+        <description>米国の諜報（ちょうほう）機関が最近、バイデン前政権とトランプ現政権の両方に向け、イスラエルに関する警告を発していたことが１４日までに分かった。同国が年内にも、イランの核開発プログラムにおける重要施設に対して攻撃を試みる公算が大きいとする内容。当該の評価に詳しい複数の情報筋が明らかにした。
+
+イスラエルが武力行使に前向きだとする内容は、イラン政府との和平交渉を望むトランプ氏の現行の思いと相反する。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229412.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/23358cb9cee49667350d920491b18f90/t/768/432/d/gettyimages-2174079304.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229425.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T15:04:00+09:00</dc:date>
+        <title>米印首脳が共同記者会見、両国を「再び偉大に」とモディ氏</title>
+        <link>https://www.cnn.co.jp/world/35229425.html?ref=rss</link>
+        <description>米国を訪問中のインドのモディ首相は１３日、ホワイトハウスでトランプ大統領との共同記者会見に臨んだ。会見でモディ氏は、トランプ氏が掲げるスローガンにちなみ、「インドを再び偉大に」したいと抱負を語った。
+
+モディ氏は現在のインド国民について、先祖から受け継いだ遺産と今後の発展に非常に注力しながら、迅速に前へ進んでいると説明。そこには２０４７年までに確実にインドを先進国化するという確固たる決意があると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229425.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/e0119659bb2870d9b1b3a188a738ae28/t/768/512/d/gettyimages-2198752529.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229423.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T14:27:00+09:00</dc:date>
+        <title>米ブルーオリジン、従業員１０００人超を解雇へ</title>
+        <link>https://www.cnn.co.jp/fringe/35229423.html?ref=rss</link>
+        <description>米アマゾン創業者のジェフ・ベゾス氏が率いる宇宙企業ブルーオリジンが、従業員全体の約１０％に相当する１０００人を一時解雇する計画を明らかにした。同社は約１カ月前、初の軌道ロケット「ニューグレン」の打ち上げに成功していた。
+
+ＣＮＮが入手した従業員宛の１３日付けの電子メールで、ブルーオリジンのデービッド・リンプ最高経営責任者（ＣＥＯ）は今回の雇用削減で影響を受ける部門として、「エンジニアリング（研究...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229423.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/cb5ee5ab5a415e6fc49b3c55eeb7e506/t/768/432/d/2025-01-11t015701z-1622091486-rc2a7cagn1ue-rtrmadp-3-space-bezos-new-glenn (1).jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229421.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T13:22:00+09:00</dc:date>
+        <title>ウクライナ兵、米ロ首脳会談に沈鬱な反応　「プーチン氏の攻撃再開は止められない」</title>
+        <link>https://www.cnn.co.jp/world/35229421.html?ref=rss</link>
+        <description>疲弊しながらも毅然（きぜん）と３年近く自国を防衛してきたウクライナ兵たちは、トランプ米大統領とロシアのプーチン大統領の電話会談を沈鬱（ちんうつ）な気持ちで受け止めている。規模で勝る米ロ両国がウクライナの運命を決め、ウクライナは蚊帳の外に置かれる可能性がある。
+
+ＣＮＮは１３日、ウクライナ軍の要員３人に電話で話を聴いた。ゼレンスキー大統領は、ウクライナ抜きで交渉された和平合意には応じないとの考えを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229421.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/9e88a6d91c5513bf652efc576cf41dad/t/768/589/d/volodymyr-sablyn-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229417.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T12:51:00+09:00</dc:date>
+        <title>ジャーナリストの死亡、２０２４年は過去最多　７割がイスラエルによる殺害</title>
+        <link>https://www.cnn.co.jp/world/35229417.html?ref=rss</link>
+        <description>米民間団体のジャーナリスト保護委員会（ＣＰＪ）は１２日、２０２４年に死亡したジャーナリストや報道関係者が少なくとも１２４人に上り、ＣＰＪが３０年前に集計を始めて以来、最も多かったと発表した。
+
+死亡したジャーナリストの７０％近くは、パレスチナ自治区ガザ地区とレバノンでイスラエル軍によって殺害された。ガザで殺害されたパレスチナ人ジャーナリストは８２人に上った。
+
+これに対してイスラエル軍は、報道関係...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229417.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/f50d69bf75b0ec88c471a0603b294c17/t/768/432/d/gettyimages-2189647625.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229415.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T12:09:00+09:00</dc:date>
+        <title>ウクライナ抜きの和平合意は「受け入れられない」、ゼレンスキー氏が表明</title>
+        <link>https://www.cnn.co.jp/world/35229415.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は１３日、ウクライナ政府の関与なしに米国とロシアの間で結ばれた和平合意は受け入れないと表明した。
+
+ゼレンスキー氏はウクライナ西部の原子力施設を訪問した際、「独立国として、我々抜きの合意は単純に受け入れられない。この点を我々のパートナーに非常に明確に伝えておく。我が国がウクライナに関する我々抜きの二国間交渉を受け入れることはない」と述べた。
+
+この発言の前日、トランプ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229415.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/d034f38d5628f1e16348d28e63f65228/t/768/513/d/ap25044472185734-thujmbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229409.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T11:34:00+09:00</dc:date>
+        <title>人質は予定通り解放、ハマスが表明　停戦合意の崩壊は回避へ</title>
+        <link>https://www.cnn.co.jp/world/35229409.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区のイスラム組織ハマスは、イスラエルの人質を予定通りこの週末に解放すると表明した。これでイスラエルとハマスの停戦は継続される見通しとなった。
+
+イスラエル当局者は現時点で、もしハマスが予定通りに３人の人質を解放した場合、イスラエルが条件を守るとは言明しなかったものの、停戦合意の崩壊回避に向けた合意は成立するだろうとの楽観的な見方を示した。
+
+ある当局者は「この問題は解決されそ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229409.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/faf72fc53ef5032f29165f2ee44d0e4c/t/768/432/d/gettyimages-2197701197.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35229407.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T11:09:00+09:00</dc:date>
+        <title>２０２４年アスリート長者番付、１位はロナルド選手　トップ１００に女性ゼロ</title>
+        <link>https://www.cnn.co.jp/showbiz/35229407.html?ref=rss</link>
+        <description>米スポーツメディア「スポルティコ」が２０２４年に最も稼いだアスリートを発表した。１位はサッカーのクリスティアノ・ロナルド選手で２億６０００万ドル（約４００億円）。トップ１００に女性アスリートは入っていない。
+
+ロナルド選手は、所属するサウジアラビアのアル・ナスルやポルトガル代表チームからの報酬や賞金が２億１５００万ドル、広告契約などフィールド外の活動による収入が４５００万ドルだった。
+
+ロナルド選...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35229407.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/502e3271ccee1f3597a56089022690ef/t/768/432/d/gettyimages-2197527994.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229402.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T10:39:00+09:00</dc:date>
+        <title>男性がザトウクジラにのまれた瞬間、カメラが撮影　すぐ吐き出されて無事　南米チリ</title>
+        <link>https://www.cnn.co.jp/world/35229402.html?ref=rss</link>
+        <description>南米チリ南端にあるパタゴニアの沖合で、カヤックに乗っていた男性が一瞬、ザトウクジラの口にのまれる出来事があった。一緒にいた父親のカメラがその瞬間をとらえていた。
+
+エイドリアン・シマンカスさん（２４）はマゼラン海峡でカヤックをこいでいたところ、いきなり水面に浮上したクジラにのまれ、すぐに吐（は）き出されて水面に浮上した。
+
+映像の中でエイドリアンさんの父親のデルさんは、クジラから吐き出された息子に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229402.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/34b0b559528af67b086d482cf23b7a1c/t/768/431/d/whale-thumbnail-2-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229400.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T10:10:00+09:00</dc:date>
+        <title>イラン、ミサイル製造をすでに再開か　中国の化合物運ぶ船が到着</title>
+        <link>https://www.cnn.co.jp/world/35229400.html?ref=rss</link>
+        <description>中国製化合物１０００トンを積んだ船舶２隻のうち最初の１隻が１３日、イランのバンダルアッバス港沖に停泊したことが分かった。船舶追跡データによって明らかになった。この化合物はイランの軍事ミサイル計画の燃料の主要成分である可能性がある。この動きは、イランの主要なミサイル製造施設が昨年のイスラエルの攻撃によって破壊されたものの通常稼働に戻ったことの兆候とみられる。
+
+欧州の２人の情報筋によると、この船は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229400.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/1f5285d2fced7664f3fd4f1c3e04a16c/t/768/432/d/02-probable-mv-golbon-underway-off-coast-of-chabahar-iran-12feb2025-wvl.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229394.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T09:34:00+09:00</dc:date>
+        <title>車が群衆に突っ込み２８人負傷、亡命希望のアフガン人拘束　独ミュンヘン</title>
+        <link>https://www.cnn.co.jp/world/35229394.html?ref=rss</link>
+        <description>ドイツ南部ミュンヘンで１３日、群衆に車が突っ込み、子ども含む２８人が負傷した。当局は車を運転していたアフガニスタン出身の男（２４）を拘束した。男はドイツへの亡命を希望していたという。
+
+ミュンヘンでは１４日から各国の首脳らが参加する安全保障会議が開かれる。厳重な警備体制が敷かれる中で事件は発生した。
+
+当局によると、負傷者の中には重篤な状態となっている人もいるという。バイエルン州のゼーダー州首相は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229394.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/cb9361da1eb6bb8fd8cebf4865fae692/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTczNjZ6cmgwMDJjMjZwOWdpaGg4MjBt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtNzM2NnpyaDAwMmQyNnA5aGxqNDl6Y20=-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229390.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T07:30:00+09:00</dc:date>
+        <title>トランプ氏、相互関税の検討を指示</title>
+        <link>https://www.cnn.co.jp/usa/35229390.html?ref=rss</link>
+        <description>トランプ米大統領は１３日、新たな相互関税の計画を調査するよう関係機関に指示した。貿易の不均衡を是正するこの取り組みは米国の歳入を押し上げる可能性がある一方で、世界的な貿易戦争を引き起こし、米国のインフレ問題を再燃させる恐れもある。
+
+商務長官候補であるハワード・ラトニック氏は、調査は４月１日までに完了するとの見方を示した。その後、トランプ氏が新たに提案された関税をいつ施行するかを決定するという。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229390.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/6aa8e2b2606ba10a93d45cd0a88f56ba/t/768/432/d/gettyimages-2199420313.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229388.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-14T06:38:00+09:00</dc:date>
+        <title>米保健福祉省長官にワクチン懐疑派のケネディ氏、上院が承認</title>
+        <link>https://www.cnn.co.jp/usa/35229388.html?ref=rss</link>
+        <description>米上院は１３日、ロバート・ケネディ・ジュニア氏を保健福祉省（ＨＨＳ）長官に充てる人事を賛成多数で承認した。ケネディ氏のワクチンや公衆衛生に関する見解に厳しい意見があり、採決が注目されていた。
+
+賛成５２、反対４８で、おおむね党派に沿った結果となった。民主党議員に加えて、共和党の重鎮マコネル議員も反対に回った。マコネル氏は幼少期にポリオを患った経験から、ワクチンを推進することが望ましいとして、ワク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229388.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/14/ff5ccc7490a6fa4caa34e711e8ecdcae/t/768/432/d/c-2025-01-30t164622z-1286414884-rc2gkcabcqca-rtrmadp-3-usa-trump-kennedy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35229385.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-13T20:30:00+09:00</dc:date>
+        <title>語学アプリのマスコット「デュオ」が謎の「死」、歌手デュア・リパさんも追悼</title>
+        <link>https://www.cnn.co.jp/showbiz/35229385.html?ref=rss</link>
+        <description>米語学学習アプリ「デュオリンゴ」のマスコットだった緑色のフクロウ「デュオ」が謎の死を遂げたことを受け、歌手のデュア・リパさんが哀悼の意を表明している。
+
+同アプリは１１日、デュオの死を公表。Ｘ（旧ツイッター）の公式ページに冗談めかして「現在当局が死因を調査しており、我々は全面協力している。正直なところ、あなたがレッスンするのを待ちわびて死んでしまったのではないかと思うが、本当のところは分からない...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35229385.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/13/972fa5b72fcccf7888c6c1d22c130aa8/t/768/432/d/gettyimages-2159780476.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35229384.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-13T20:00:00+09:00</dc:date>
+        <title>中国、シニア向け観光列車網の計画を発表　２７年目標に</title>
+        <link>https://www.cnn.co.jp/travel/35229384.html?ref=rss</link>
+        <description>中国商務部、文化観光部などは１１日、シニア世代の観光客に照準を合わせた「シルバー列車」網を、２０２７年までに整備する計画を発表した。
+
+中国共産党機関紙・人民日報系「環球時報」によると、シルバー列車には手すりや酸素ボンベ、緊急呼び出しボタンなどを完備し、専門の介護、医療スタッフが病人の手当てや応急薬の処方に応じる。
+
+当局はさらに、各地の観光名所に高齢者に対応した施設の整備を求め、飲食業者やパフォ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35229384.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/13/356996006f935a6a4f76bb9f963f4afc/t/768/432/d/gettyimages-2183667739.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35229360.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-13T19:15:00+09:00</dc:date>
+        <title>ＳＮＳで広まる、フライト中におすすめの寝姿勢　専門家は「極めて危険」と警鐘</title>
+        <link>https://www.cnn.co.jp/travel/35229360.html?ref=rss</link>
+        <description>多くの旅行者にとって、まっすぐ座ったまま眠ることは難しく、エコノミークラスでの長距離フライトに疲労はつきものだ。
+
+乗客は、高価なネックピローやフットレストを購入したり、体を折り曲げて不自然な姿勢になってみたりしながら機内で少しでも眠ろうと努力する。ほとんどの場合、こうした努力は（役立つかどうかは別として）まったく無害だ。
+
+しかし、ここ数カ月、ＴｉｋＴｏｋ（ティックトック）やインスタグラムで広ま...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35229360.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/13/051646d8c2d3576231bc1501e22e82dc/t/768/432/d/gettyimages-1178086925.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
