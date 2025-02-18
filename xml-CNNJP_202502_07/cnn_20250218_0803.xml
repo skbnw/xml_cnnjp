@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-02-18T16:30:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229534.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229527.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229532.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229526.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35229524.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229523.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229521.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229519.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229520.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229517.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229515.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229512.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229509.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229506.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229507.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229503.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229502.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229493.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35229496.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229495.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229492.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229488.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35229487.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229479.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229482.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35229480.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229477.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229474.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35229473.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229472.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35229534.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T16:30:00+09:00</dc:date>
+        <title>英キャサリン妃と子どもたち、手書きの肖像画公開</title>
+        <link>https://www.cnn.co.jp/world/35229534.html?ref=rss</link>
+        <description>英国のケンジントン宮殿は１７日、ＳＮＳで、ウィリアム皇太子の妻キャサリン妃と、ジョージ王子、シャーロット王女、ルイ王子の３人の子どもたちが描いた肖像画を公開した。
+
+Ｘ（旧ツイッター）に投稿された肖像画には、「子どもたちと一緒に肖像画を描くことは絆を深めるひと時を提供する。お互いを見つめ合い、集中し、創造的で、そして、最も重要なのは一緒にたくさん楽しむこと！」との絵解きが添えられた。
+
+肖像画には...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229534.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/db18204b89e945c13eef055f6bfceae6/t/768/432/d/01-royal-drawings.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229527.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T15:40:00+09:00</dc:date>
+        <title>イスラエル、レバノン南部に部隊を維持　撤退期限守らず</title>
+        <link>https://www.cnn.co.jp/world/35229527.html?ref=rss</link>
+        <description>イスラエル軍は１８日の撤退期限後も、レバノン南部の五つの拠点に部隊を維持し続けている。レバノンのイスラム教シーア派組織ヒズボラは、イスラエルが停戦合意に違反していると警告している。
+
+イスラエル国防軍（ＩＤＦ）の報道官は１７日、同軍が当面レバノンにある当該の駐屯地に残ることを明らかにした。引き続き自国の住民を守り、差し迫った脅威を確実に防ぐためだとしている。イスラエル軍が特定したレバノン南部の少...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229527.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/63527a2b251234f946e0078dc0de2d53/t/768/432/d/bf99db9e-52dd-4457-85e4-c1173ca2e576.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229532.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T15:15:00+09:00</dc:date>
+        <title>トランプ政権、解雇した核兵器関連人員の呼び戻しに奔走</title>
+        <link>https://www.cnn.co.jp/usa/35229532.html?ref=rss</link>
+        <description>米国家核安全保障局（ＮＮＳＡ）職員が解雇されたことをめぐり、トランプ米政権の当局者が週末にかけて同職員らの呼び戻しに奔走していたことがわかった。事情に詳しい４人の情報筋がＣＮＮに明らかにした。１３日に行われた今回の解雇については批判が殺到する事態となっていた。
+
+米国の核備蓄の管理を担う同局では当初３００人あまりの職員が解雇された。事情を知るＮＮＳＡの現職員２人がＣＮＮに語ったところによると、職...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229532.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/d09374a5ca1e0afd8eb77717e6ba9015/t/768/432/d/gettyimages-2199663951.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229526.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T14:40:00+09:00</dc:date>
+        <title>ハマス、戦闘後の武装解除を拒否　「イスラエルの代理人」との戦い誓う</title>
+        <link>https://www.cnn.co.jp/world/35229526.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区を実効支配するイスラム組織ハマスの高官が、ガザでの戦闘の後にも武装解除はせず、逆に武装を拡大する可能性があると明らかにした。また他国に対し、ガザに入ってイスラエルと協力しないよう警告した。
+
+「（ガザにおいて）イスラエルの立場に収まる者は誰であれ、イスラエルのように扱われるだろう」。ハマスの政治部門のメンバーで報道官を務めるオサマ・ハムダン氏は先ごろ、カタールの首都ドーハ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229526.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/cfa3d6cbce9f531ec453c294c98dd722/t/768/432/d/2024-06-29t163004z-740976667-rc24l8avijnz-rtrmadp-3-israel-palestinians-hamas-newser.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35229524.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T14:00:00+09:00</dc:date>
+        <title>マスク氏批判の意見広告、米紙ワシントン・ポストが掲載見送り　受け入れ姿勢から一転</title>
+        <link>https://www.cnn.co.jp/business/35229524.html?ref=rss</link>
+        <description>米有力紙ワシントン・ポストは、トランプ政権で「政府効率化省（ＤＯＧＥ）」トップを務めるイーロン・マスク氏の解任を求める意見広告の掲載を見送った。
+
+掲載が見送られたのは、ロビー団体が１１万５０００ドル（約１７００万円）で掲載する契約を結んだ２件の広告で、いずれも１８日の紙面に掲載されるはずだった。このうち紙面を包むように配置されるラッピング広告は、ホワイトハウスの背後で高笑いするマスク氏の写真に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35229524.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/c40d2cf0b9cb293e7ff1b5b4415af68e/t/768/432/d/gettyimages-2155587395.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229523.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T13:21:00+09:00</dc:date>
+        <title>同性愛者を公言した「世界初」のイスラム教指導者が射殺される　南ア</title>
+        <link>https://www.cnn.co.jp/world/35229523.html?ref=rss</link>
+        <description>世界で初めて同性愛者であることを公言したイマーム（イスラム教指導者）とされる男性が１５日に南アフリカで射殺されたことが分かった。地元警察が明らかにした。人権団体はヘイトクライム（憎悪犯罪）を懸念している。
+
+東ケープ州警察は声明で、ベセルスドープで、ムフシン・ヘンドリクス氏（５８）が死亡した事件について捜査を進めているが、殺害の動機は不明だと述べた。
+
+声明によると、１５日午前１０時ごろ、ヘンドリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229523.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/a4ddc3862780008a53563db8b754f972/t/768/432/d/gettyimages-598738258.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229521.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T12:50:00+09:00</dc:date>
+        <title>ＮＡＴＯ事務総長、和平に向け取り組み強化に前向き　米国の支援必要とも</title>
+        <link>https://www.cnn.co.jp/world/35229521.html?ref=rss</link>
+        <description>北大西洋条約機構（ＮＡＴＯ）のルッテ事務総長は１７日、フランス首都パリで、ＣＮＮの取材に答え、欧州の同盟国はウクライナでの和平の実現に向けて積極的に取り組むとの考えを明らかにした。トランプ米政権がロシアとの二国間協議を進めるなか、ルッテ氏は米国がウクライナが交渉に参加できるようにするつもりだと考えているとも述べた。
+
+ルッテ氏は「これはウクライナのことだ。したがって、ウクライナも交渉の席に着くの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229521.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/6c8e9bc2d089d84ce9e15bb8d0b486eb/t/768/421/d/still-21389767-53377-6928-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229519.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T12:35:00+09:00</dc:date>
+        <title>トランプ氏・マスク氏に全米で抗議デモ、民主主義訴える市民が結集</title>
+        <link>https://www.cnn.co.jp/usa/35229519.html?ref=rss</link>
+        <description>米国のトランプ大統領やイーロン・マスク氏らの言動に反対する市民が１７日、全米で抗議デモを展開した。
+
+抗議デモは「５０５０１ムーブメント」などの団体が組織。米首都ワシントンの連邦議会議事堂前に集まった参加者は、「永遠の団結、組合が我々を強くする」と声を上げ、「移民が米国を偉大にする」などの横断幕を掲げていた。
+
+参加者は壇上に招かれ、マイクの前で自由に発言した。難民支援の非営利団体に勤務するバージ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229519.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/486956cdd4b6a58e96dba0c5a857ad27/t/768/512/d/gettyimages-2200222258.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229520.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T12:23:00+09:00</dc:date>
+        <title>デルタ機事故で１８人を病院搬送、逆さまの機内で乗客宙づりに　カナダ空港</title>
+        <link>https://www.cnn.co.jp/world/35229520.html?ref=rss</link>
+        <description>カナダのトロント・ピアソン国際空港でデルタ航空の旅客機が着陸に失敗して横転した１７日の事故で、負傷した乗客１８人が近くの病院に運ばれた。空港消防局長が同日の記者会見で明らかにした。事故原因については米国家運輸安全委員会（ＮＴＳＢ）がカナダ当局とともに調査を続けている。
+
+旅客機の機体は滑走路上で上下逆さまにひっくり返った。ＣＮＮの取材に応じた乗客のピート・クーコフさんは、ものすごいハードランディ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229520.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/4c49e049cb4749d3976c22fbd3240efb/t/768/501/d/ap25048824611485.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229517.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T11:50:00+09:00</dc:date>
+        <title>ＮＡＴＯ事務総長、米特使と会談　「永続的な解決策」の必要を強調</title>
+        <link>https://www.cnn.co.jp/world/35229517.html?ref=rss</link>
+        <description>北大西洋条約機構（ＮＡＴＯ）のルッテ事務総長は１７日、ケロッグ米特使（ロシア・ウクライナ担当）と会談し、ウクライナでの戦争の終結に向けて協議を行った。ルッテ氏はその後、フランスで開催される欧州首脳らが出席する緊急会合に向かった。
+
+ルッテ氏はＮＡＴＯが本部を置くベルギー・ブリュッセルで、ケロッグ氏と会談した。会談に関する声明によれば、ルッテ氏は「ウクライナの安定した将来を確保するため、紛争の公正...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229517.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/1e8b8926e7b2d1cd9863c3102f34cd5d/t/768/510/d/2025-02-13t153156z-525970268-rc2qtca2m2oz-rtrmadp-3-nato-defence.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229515.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T11:21:00+09:00</dc:date>
+        <title>ウクライナ大統領、「具体的」な安全保障要求　レアアース交渉に前向きな姿勢も</title>
+        <link>https://www.cnn.co.jp/world/35229515.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は１８日、ロシアのとの戦争の交渉を通じた解決策の一環として欧州の「平和維持軍」がウクライナに派遣される可能性について議論される場合、ウクライナとしては安全保障が単なる「書類上」のものではなく具体的なものを望んでいると述べた。
+
+ゼレンスキー氏は訪問先のアラブ首長国連邦（ＵＡＥ）アブダビでの記者会見で、「我々は紙の上ではなく地上や水上、空、防空、航空機、船舶に対する安...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229515.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/0ea5d1e2a404c5707759c5e223d84db0/t/768/552/d/2025-02-15t122000z-1694130826-rc20vcaofnbs-rtrmadp-3-security-munich.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229512.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T10:44:00+09:00</dc:date>
+        <title>米国務省、「台湾独立不支持」をウェブサイトから削除　中国は激しく反発</title>
+        <link>https://www.cnn.co.jp/usa/35229512.html?ref=rss</link>
+        <description>米国務省が「米国は台湾の独立を支持しない」という一文をウェブサイトから削除したことをめぐり、中国は、台湾に対する立場が「深刻なほどに後退」したとしてトランプ政権を非難した。
+
+国務省は先週、米台関係を説明するオンライン文書であるファクトシートから「我々は台湾の独立を支持しない」という文言を削除した。これは米政府が長年保持してきた立場だ。同省は今回の変更について「定期的」に行っている更新の一環とし...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229512.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/55637bf7eaddc37309650694bb25dd65/t/768/432/d/gettyimages-2021479446.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229509.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T09:54:00+09:00</dc:date>
+        <title>米特使、２０日にウクライナ訪問　ゼレンスキー氏は前線視察を提案</title>
+        <link>https://www.cnn.co.jp/usa/35229509.html?ref=rss</link>
+        <description>トランプ米政権でロシア・ウクライナ担当のケロッグ特使が２０日にウクライナを訪問する。ウクライナのゼレンスキー大統領が明らかにした。
+
+ゼレンスキー氏は１７日、記者会見で、ケロッグ氏が２０日からウクライナを訪問すると明らかにした。訪問の期間は２日かそれ以上になるという。
+
+ゼレンスキー氏はケロッグ氏が前線を視察することを希望すると語った。
+
+ゼレンスキー氏は「ケロッグ氏にとって、すべてを理解して、それ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229509.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/5ad9014878bfa6f47c2fa78fdc8992da/t/768/472/d/gettyimages-2199838036.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229506.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T09:25:00+09:00</dc:date>
+        <title>ロシア外相、戦争終結めぐる協議で妥協しない姿勢</title>
+        <link>https://www.cnn.co.jp/world/35229506.html?ref=rss</link>
+        <description>ロシアのラブロフ外相は１７日、ロシア首都モスクワで開かれた記者会見で、近く開催が予定されているウクライナでの戦争の終結に向けた協議をめぐり、妥協することはないとの姿勢を示唆した。
+
+ウクライナでの戦争をめぐり、米国とロシアの当局者は１８日にサウジアラビア首都リヤドで協議を行う。トランプ米政権は、交渉によって和平に到達するには、ロシアとウクライナの双方が痛みを伴う妥協と譲歩を行う必要があるとの見方...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229506.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/b629c52c6b89be72bef9306874d9900b/t/768/529/d/2025-02-17t113430z-1663385075-rc2bwcaj2ea5-rtrmadp-3-russia-serbia.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229507.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T09:11:00+09:00</dc:date>
+        <title>ガザで死亡した人質の遺体、イスラエルに引き渡しへ</title>
+        <link>https://www.cnn.co.jp/world/35229507.html?ref=rss</link>
+        <description>イスラエルがパレスチナ自治区ガザ地区で死亡した人質の遺体を２０日に受け取る準備を進めている。関係者がＣＮＮに明らかにした。
+
+人質の人数や身元は公表されていない。
+
+ガザのイスラム組織ハマスとの停戦合意が１月に発効して以来、死亡した人質の遺体が引き渡されるのは今回が初めてとなる。イスラエル軍は過去にガザで複数の人質の遺体を収容していた。
+
+人質は１５日にさらに３人が解放されたが、停戦合意は先が見通せ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229503.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T07:38:00+09:00</dc:date>
+        <title>米政権の「政府効率化」　納税者データへのアクセス試み、人員削減めぐり公聴会も</title>
+        <link>https://www.cnn.co.jp/usa/35229503.html?ref=rss</link>
+        <description>トランプ米政権で実業家のイーロン・マスク氏率いる「政府効率化省（ＤＯＧＥ）」が進める連邦政府機関での人員削減の取り組みを受けて、数千人の連邦政府職員が早期退職の申し出を受け入れたか、その職から解雇された。
+
+ＤＯＧＥによる迅速かつ突然の動きは一部の政府職員に衝撃を与えており、弁護士や裁判所は人員削減の合法性を理解しようと奔走している。
+
+ＤＯＧＥの人員削減をめぐり１７日に公聴会が開催されたが、連邦...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229503.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/b0729491268764b46ff5d92100840b1d/t/768/512/d/2025-02-11t204145z-1729317157-rc2jscaafi5c-rtrmadp-3-usa-trump-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229502.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-18T07:21:00+09:00</dc:date>
+        <title>デルタ機が着陸に失敗、搭乗者全員避難　カナダ空港</title>
+        <link>https://www.cnn.co.jp/world/35229502.html?ref=rss</link>
+        <description>カナダのトロント・ピアソン国際空港で１７日、米ミネソタ州ミネアポリスから到着したデルタ航空の小型旅客機が着陸に失敗した。米連邦航空局（ＦＡＡ）が明らかにした。事故現場の写真にはひっくり返った飛行機が写っている。
+
+同空港はＸ（旧ツイッター）で「緊急チームが対応中。乗客と乗員は全員安否の確認がとれている」と述べた。
+
+ＦＡＡによると、デルタ航空４８１９便の搭乗者８０人全員が避難した。
+
+事故は現地時間...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229502.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/18/4d1f9b88c33f2d9deae6e0a01190279f/t/768/432/d/delta.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229493.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T18:22:00+09:00</dc:date>
+        <title>「娘はバレエのプリンセス」、溺愛しながら子どもを飢えさせた両親に禁錮刑　豪</title>
+        <link>https://www.cnn.co.jp/world/35229493.html?ref=rss</link>
+        <description>少女が病院に入院したとき、髪はぼろぼろで、皮膚はかさつき、ひどい栄養失調だった。医師は心停止や死亡の危険があると告げた。
+
+少女は１７歳だったが、見た目はずっと幼かった。病院で目撃した人によれば、両親は少女を小さな子どものように扱っていた。両親は少女をトイレに連れて行ってお尻を拭き、少女が幼児向けのアニメを見ている間、鼻をかませたり、髪をとかしたりしていたという。
+
+少女の体重はわずか２７．３キロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229493.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/fad317a5a1a9ae84cfd51b05f4aa2b0f/t/768/432/d/001-20250214205005750.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35229496.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T18:05:00+09:00</dc:date>
+        <title>韓国俳優キム・セロンさんが自宅で死去、２４歳　飲酒事故で活動停止</title>
+        <link>https://www.cnn.co.jp/showbiz/35229496.html?ref=rss</link>
+        <description>韓国の俳優キム・セロンさんが１６日、死去した。２４歳だった。首都ソウルの自宅で死亡しているのが発見された。キムさんは約２年前の飲酒運転で有罪判決を受け公の場から姿を消していた。
+
+警察によると、友人がキムさんの遺体を発見した。警察はＣＮＮに対し、不審な点はなく、死亡した状況を調べていると明らかにした。
+
+キムさんは子役でデビュー。２００９年の映画「冬の小鳥」で主演を務め、カンヌ映画祭に参加するなど...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35229496.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/04b4d346b369cd5f48ce46b1a7c3eb3a/t/768/432/d/gettyimages-883733970.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229495.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T17:53:00+09:00</dc:date>
+        <title>コストコのケーキ丸ごと食べた、野生のオポッサムを「現行犯逮捕」　米ネブラスカ州</title>
+        <link>https://www.cnn.co.jp/fringe/35229495.html?ref=rss</link>
+        <description>米ネブラスカ州オマハで、民家に侵入した野生のオポッサムが家の前に置いてあったチョコレートケーキを丸ごと一個平らげてしまう出来事があった。オポッサムは「Ｃａｋｅ　Ｂａｎｄｉｔ（ケーキ泥棒）」と呼ばれてＳＮＳでたちまち人気者になった。
+
+「事件」は９日、キム・ドゲットさんの自宅で発生。ポーチに出たドゲットさんは、量販店のコストコで買ったばかりのチョコレートムースケーキが床に落ちているのを発見した。新...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229495.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/daaf9be268ea2abb62914eb63e90f6dd/t/768/432/d/opossum-patio.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229492.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T17:20:00+09:00</dc:date>
+        <title>４５年前の母子殺人事件、容疑者を逮捕　ＤＮＡの一致がきっかけ</title>
+        <link>https://www.cnn.co.jp/usa/35229492.html?ref=rss</link>
+        <description>米中西部ネブラスカ州で４０年以上前に発生した母子が犠牲になった殺人事件で、法医学上の突破口がきっかけとなり、長年にわたって容疑者と見られてきた男の逮捕につながった。同州オマハの当局が明らかにした。
+
+逮捕されたのはアブドゥルマリク・フセイン容疑者（６８）。オマハ警察によれば、フセイン容疑者は今月１２日に逮捕された。デロシア・マシューズさん（２６）と息子のカマルくん（７）の死に関連して２件の殺人の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229492.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/8879eba4e222dd085c2f9b1a32a168a5/t/768/432/d/deroshia-matthews-bars.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229488.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T16:46:00+09:00</dc:date>
+        <title>米空母トルーマンの損傷示す写真公開、スエズ運河付近で商船と衝突</title>
+        <link>https://www.cnn.co.jp/usa/35229488.html?ref=rss</link>
+        <description>地中海のエジプト近海で米軍の原子力空母「ハリー・Ｓ・トルーマン」とパナマ船籍の商船が衝突した事故をめぐり、空母トルーマンの損傷が新たな写真で明らかになった。
+
+スエズ運河の入り口付近で１２日に起きたこの衝突を受け、トルーマンは週末、ギリシャのスーダ湾にある米海軍の施設に修理のため停泊していた。
+
+海軍が１５日に公開した写真には、全長約３３５メートルのトルーマンの右舷船尾外側の損傷が写っている。
+
+海...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229488.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/b8c1c7a52728a68cce2a56cb286a3b74/t/768/432/d/001-8871530.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35229487.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T15:54:00+09:00</dc:date>
+        <title>「キャプテン・アメリカ」新作が好調、公開初週に１億ドル突破か</title>
+        <link>https://www.cnn.co.jp/showbiz/35229487.html?ref=rss</link>
+        <description>新作映画「キャプテン・アメリカ：ブレイブ・ニュー・ワールド」が公開され、公開初週の興行収入はこれまでのところ約８８５０万ドル（約１３０億円）を記録して興行成績で首位に立った。「大統領の日」の週末に公開された映画としては最も高い興収をあげた作品の一つとなった。
+
+調査会社コムスコアの推計によれば、同作の１４日から１６日までの売り上げは約８８５０万ドル。大統領の日にあたる１７日も含めれば興収は１億ド...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35229487.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/094d85ea872e141aa135b5c9a075ff5b/t/768/432/d/roc-03204-r2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229479.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T15:21:00+09:00</dc:date>
+        <title>被災者支援に貢献のラバと馬、車にはねられ死ぬ　米ノースカロライナ州</title>
+        <link>https://www.cnn.co.jp/usa/35229479.html?ref=rss</link>
+        <description>昨年の大型ハリケーンで被災した山間部の集落への支援物資配送に貢献したラバ２頭と馬１頭が、米ノースカロライナ州で車にはねられて命を落とした。
+
+ラバ牧場のフェイスブックによると、牧場のフェンスの上に木が倒れ、隙間から抜け出した「ベイダー」「ケブ」「アミーゴ」の３頭が、道路でセミトラックにはねられた。
+
+昨年９月にハリケーン「ヘリーン」が米国を襲った際は、ラバたちが険しい山道や岩だらけの山腹を抜けて被...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229479.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/9f8b8ad73c2ad9e8e928caee0a0a04c2/t/768/432/d/001-1183788530418322-76369659930650742-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229482.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T14:44:00+09:00</dc:date>
+        <title>反体制派指導者ナワリヌイ氏の死から１年、妻が「自由な」ロシアのための戦い呼びかけ</title>
+        <link>https://www.cnn.co.jp/world/35229482.html?ref=rss</link>
+        <description>ロシアで獄中死した反体制派指導者アレクセイ・ナワリヌイ氏の妻ユリア・ナワルナヤ氏は１６日、人々に「自由で平和な」ロシアのために戦い続けるよう呼びかけた。ナワリヌイ氏は２０２１年に収監され、２４年月１６日に４７歳で死亡した。
+
+ナワルナヤ氏は、夫のユーチューブチャンネルに投稿した動画で「私たちは、アレクセイが夢見た、自由で平和で美しいロシアの未来のために戦っているとはっきり分かっている。それは実現...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229482.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/394a1456f92b696a3de36fac054573b8/t/768/432/d/001-3-canada-russia.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35229480.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T14:06:00+09:00</dc:date>
+        <title>ウガンダのキプリモ、ハーフマラソン５６分台の世界新　驚異的な記録更新</title>
+        <link>https://www.cnn.co.jp/showbiz/35229480.html?ref=rss</link>
+        <description>スペインのバルセロナで１６日に行われたハーフマラソンで、ウガンダのジェーコブ・キプリモ（２４）が世界記録を樹立した。
+
+世界陸連（ＷＡ）によると、ハーフマラソンで５７分を切った選手は世界初。この記録については通常の承認手続きが行われる。
+
+キプリモの記録は５６分４２秒。これまでの記録を４８秒上回った。男子ハーフマラソンでこれほどの差をつけて世界記録を更新したのは初めて。これまではエチオピアのヨミフ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35229480.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/e6134498e6752b0b7ccf48e65c70cbac/t/768/432/d/ap25047353312202-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229477.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T13:41:00+09:00</dc:date>
+        <title>強力な嵐で１０人死亡、倒木や冠水の被害も　米南東部</title>
+        <link>https://www.cnn.co.jp/usa/35229477.html?ref=rss</link>
+        <description>米南部ケンタッキー州が強力な嵐に見舞われ、少なくとも９人が死亡した。同州のベシア知事が１６日明らかにした。嵐によって引き起こされた洪水によって道路や家屋に被害が出ている。ジョージア州当局によれば、同州でも１人の死者が出た。
+
+ベシア氏によれば、救急隊が救助・捜索活動にあたっている。過去２４時間で１０００件以上の案件に対応したという。ベシア氏は今回の嵐について、「少なくとも過去１０年で我々が対処し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229477.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/b0d9f86d548e1c9b4eacd9393b37c40d/t/768/432/d/beshear-20250216204027858.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229474.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T12:57:00+09:00</dc:date>
+        <title>ローマ教皇、容体は「安定」　気管支炎で入院</title>
+        <link>https://www.cnn.co.jp/world/35229474.html?ref=rss</link>
+        <description>ローマ教皇庁（バチカン）は１６日、気管支炎の治療のためにローマ市内の病院に入院したフランシスコ教皇（８８）について、治療を継続しているが容体は安定しており、夜はよく休んだと明らかにした。
+
+バチカンによれば、教皇はミサの様子をテレビで見守り、午後は読書と休憩を交互に行ったという。
+
+教皇は１６日の「お告げの祈り」に際し、病院の医師や看護師らに謝意を示した。教皇はまた、ここ数日間に示された人々からの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229474.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/14fd154da8d2841e425fc4a3a053af51/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTc3bndleXIwMDByMzU2bWJid3J0aXBv-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtNzdtejFiZjAwYWcyNm55NWcwcDB2bHk=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35229473.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T12:32:00+09:00</dc:date>
+        <title>アイルランドのマイケル・オサリバン騎手が死亡、２４歳　レース中に落馬</title>
+        <link>https://www.cnn.co.jp/showbiz/35229473.html?ref=rss</link>
+        <description>アイルランドの騎手マイケル・オサリバンさんが、１０日前のレース中の落馬事故で負ったけがのために死去した。２４歳だった。同国の競馬統制委員会（ＩＨＲＢ）が１６日に発表した。
+
+ＩＨＲＢによると、オサリバンさんは１６日未明、コーク大学病院で家族にみとられて亡くなった。
+
+オサリバンさんは今月６日、「ウィー・チャーリー」に騎乗してアイルランドで行われたレースに出場。最後の障害物でオサリバンさんを含む３人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35229473.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/2d1353866d75de7d496136c59df5dc54/t/768/432/d/ap25047374475794.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229472.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-17T12:20:00+09:00</dc:date>
+        <title>反武装勢力、主要都市に侵入か　コンゴ民主共和国</title>
+        <link>https://www.cnn.co.jp/world/35229472.html?ref=rss</link>
+        <description>アフリカ中部・コンゴ民主共和国で１６日、反政府武装勢力が主要都市ブカブへ侵入したのが目撃された。住民がＣＮＮに明らかにした。反政府武装勢力がコンゴで支配地域を拡大している。
+
+反政府勢力「コンゴ川同盟（ＡＦＣ）」には武装組織「３月２３日運動（Ｍ２３）」などが含まれる。反政府勢力は１５日、声明で、南キブ州にあるカブム空港を支配下に置き、政府軍を撤退させたと発表した。
+
+ブカブは南キブ州の州都。住民に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229472.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/17/be9608c104fe4cca120c4d475b6ea7aa/t/768/432/d/gettyimages-2199281505.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
