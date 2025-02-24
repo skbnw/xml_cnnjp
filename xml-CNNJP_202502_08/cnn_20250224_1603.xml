@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-02-24T18:00:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35229728.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229708.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229735.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35229726.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229734.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229733.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229732.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35229729.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229731.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229727.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229720.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229725.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229724.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229723.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229722.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229719.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229718.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229717.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229716.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35229715.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229714.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35229706.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229707.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35229711.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229713.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229712.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229710.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229697.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229695.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229644.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/travel/35229728.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-24T18:00:00+09:00</dc:date>
+        <title>「世界で最も透明な湖」に迫る汚染、観光客が靴を洗うよう指示される理由　ＮＺ</title>
+        <link>https://www.cnn.co.jp/travel/35229728.html?ref=rss</link>
+        <description>ニュージーランド南島のネルソン・レークス国立公園の奥深くに、魔法のような青紫色をたたえた湖が存在する。険しい高山の森に囲まれ、コンスタンス湖の氷河水が流入するこの湖は、小さいながらも重要な場所だ。
+
+湖を最初に発見したのは、マオリのンガーティ・アパ族。彼らは「平和な土地の湖」を意味する「ロトマイレフェヌア」と名付けた。やがて湖は死者の骨を清める神聖な場所になったが、それはこの行為がマオリの祖先の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35229728.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/23/6d3f3f20d5cde3a8c18b738318b67dfe/t/768/576/d/20220526-164502-rotomairewhenua-blue-lakcredit-janet-newell.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229708.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-24T16:30:00+09:00</dc:date>
+        <title>トランプ氏が大統領令で紙ストロー排除、専門家からも「部分的」に賛同の声</title>
+        <link>https://www.cnn.co.jp/usa/35229708.html?ref=rss</link>
+        <description>米国では毎日５億本のストローが使われている――。よく知られているものの、最も科学的とはいえない推計ではそうなっている。
+
+ストローを最も購入しているのは連邦政府だ。購入されたストローは国立公園や連邦政府機関の建物、大使館などで使われている。
+
+トランプ米大統領はこのほど、バイデン前政権の環境への取り組みを覆した。バイデン政権は連邦政府機関の建物で、ストローのような使い捨てのプラスチックを廃止した。一...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229708.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/22/f933a97829468efe2bc33426b1664dbd/t/768/432/d/gettyimages-1477938394.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229735.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-24T15:00:00+09:00</dc:date>
+        <title>オーストラリア人が恐れる唯一の生物？　あの「生きた恐竜」のような鳥に遭遇したら</title>
+        <link>https://www.cnn.co.jp/fringe/35229735.html?ref=rss</link>
+        <description>オーストラリアといえばあらゆる種類の毒ヘビや毒グモの生息地であり、謎の未確認生物「ドロップベア」も存在するらしい。
+
+だがそのオーストラリアで人を恐怖に陥れている鳥がいる。
+
+その鳥、ヒクイドリは単なる鳥ではない。体高が人の背丈ほどもある世界最大級の飛べない鳥で、つやつやの黒い背中の羽毛と突き刺すような目つきを特徴とする。２足歩行で、体重は６０キロを超えることもあり、両足には短剣のような大きなかぎ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229735.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/24/26a0ec8b33b02441e1f182e1b5b0ed81/t/768/432/d/gettyimages-2155483109.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35229726.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-24T13:30:00+09:00</dc:date>
+        <title>中国アニメ映画「ナタ２」大ヒット、国内興行記録を塗り替え　欧米市場へ進出</title>
+        <link>https://www.cnn.co.jp/showbiz/35229726.html?ref=rss</link>
+        <description>中国の神話をモチーフに、運命に逆らう少年の姿を描いたアニメ映画「ナタ２」が、単一市場において世界最高興行収入記録を達成した。１月２９日の公開以来、中国で１４億ドル（約２１００億円）という驚異的な売り上げを記録している。
+
+これは２０１５年に米国とカナダで９億３６００万ドルを売り上げた映画「スターウォーズ／フォースの覚醒」の記録をはるかに上回る。またナタ２は、ハリウッド映画以外で世界興行収入トップ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35229726.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/23/3ff02b627f3682210ad273e8e60041a8/t/768/432/d/001-gettyimages-2199059664.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229734.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-24T12:06:00+09:00</dc:date>
+        <title>ヒズボラ指導者の葬儀に数万人が参列、イスラエル軍による暗殺から５カ月　レバノン</title>
+        <link>https://www.cnn.co.jp/world/35229734.html?ref=rss</link>
+        <description>レバノンの武装組織ヒズボラの指導者だったハッサン・ナスララ師の葬儀が２３日、首都ベイルートで営まれた。ベイルート南郊でイスラエルの空爆によって殺害されてから、およそ５カ月後の葬儀だった。
+
+イスラエルの攻撃によって大きく弱体化したヒズボラにとって、ナスララ師の葬儀は軍事的、政治的勢力を誇示する場だった。現地メディアや国営メディアによると、葬儀の間、イスラエルはレバノン南部と東部の複数地点を攻撃し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229734.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/24/eeff5cdd996cf72153d44fabe1d0cd75/t/768/432/d/3-israel-palestinians-lebanon-nasrallah-funeral.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229733.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-24T11:23:00+09:00</dc:date>
+        <title>ドイツ総選挙　野党メルツ党首が勝利宣言、極右政党が第２党に</title>
+        <link>https://www.cnn.co.jp/world/35229733.html?ref=rss</link>
+        <description>２３日に投票が行われたドイツの総選挙で、中道右派の野党「キリスト教民主・社会同盟（ＣＤＵ・ＣＳＵ）」が政権を奪還する見通しとなった。極右の「ドイツのための選択肢（ＡｆＤ）」は第２党になる見通し。今回の選挙は移民や経済、米国のドナルド・トランプ大統領の復帰に対する懸念が主な争点となった。
+
+ＣＤＵ・ＣＳＵの本部は２３日夜、出口調査で第１党への返り咲きが確実になると拍手と歓声に包まれた。本部前にはフ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229733.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/24/f6d981b4f5d6bfcd90bdc311b656deac/t/768/512/d/gettyimages-2200927673.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229732.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-24T10:55:00+09:00</dc:date>
+        <title>ローマ教皇、軽度の腎不全の兆候　重篤な状態続く</title>
+        <link>https://www.cnn.co.jp/world/35229732.html?ref=rss</link>
+        <description>ローマ教皇庁（バチカン）は２３日、フランシスコ教皇（８８）の容体について、依然として重篤な状態にあり、血液検査で軽度の腎不全の兆候が確認されたと明らかにした。「現時点ではコントロールできている」と説明している。
+
+フランシスコ教皇は両肺に肺炎を患い、今月１４日からローマ市内の病院に入院している。２２日には呼吸器系の症状が危機的な状態にあるとされていたが、それ以上の悪化は見られないと教皇庁は言い添...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229732.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/24/a07fa83f17442602036e6d07b0730d81/t/768/432/d/02-pope-francis-lead-2022.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35229729.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-24T10:20:00+09:00</dc:date>
+        <title>写真特集：「世界で最も透明な湖」、澄んだ水が濁る恐れも</title>
+        <link>https://www.cnn.co.jp/photo/35229729.html?ref=rss</link>
+        <description>ニュージーランド南島のネルソン・レークス国立公園の奥深くに位置する「ロトマイレフェヌア」。「世界で最も透明な湖」とされるが、その透明度が損なわれることを懸念する声が上がっている&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35229729.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/23/3bf8808e1277b4d13071a97a04581db7/t/768/511/d/blue-lake-uk-guardian-visit-23-feb-2013-002.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229731.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-24T10:18:00+09:00</dc:date>
+        <title>ゼレンスキー大統領、ウクライナの平和実現なら辞任の用意</title>
+        <link>https://www.cnn.co.jp/world/35229731.html?ref=rss</link>
+        <description>ウクライナのボロディミル・ゼレンスキー大統領は２３日、ウクライナに平和がもたらされるなら大統領を辞任する用意があると語り、北大西洋条約機構（ＮＡＴＯ）加盟と引き換えに辞任を辞さない意向を示した。
+
+記者会見でウクライナの平和のために辞任する用意があるかと質問されたゼレンスキー氏は、「もしもウクライナの平和（が保証されるの）であれば、もし本当に私の辞任が必要とされるのであれば、その用意はできている...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229731.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/24/596e62bc73fbb8ede70b20e469142432/t/768/512/d/Volodymyr-Zelensky.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229727.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-23T17:29:00+09:00</dc:date>
+        <title>ナイフによる襲撃で１人死亡、当局は「テロ」と発表　フランス</title>
+        <link>https://www.cnn.co.jp/world/35229727.html?ref=rss</link>
+        <description>フランス東部ミュルーズの市場で２２日、刃物による襲撃があり、当局によれば、１人が死亡、数人が負傷した。フランス当局はテロ行為と発表した。
+
+市長は２２日、フェイスブックで声明を出し、男が市場でナイフを使って通行人を襲ったと明らかにした。介入した警官も数人負傷したという。
+
+検察によれば、容疑者は逮捕された。現在は警察で勾留されている。
+
+検察によれば、容疑者は警官や通行人を襲った。「アラー・アクバル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229727.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/23/586c3c0c0c352a06df67fe98031d64dc/t/768/432/d/gettyimages-2200562927-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229720.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-23T17:00:00+09:00</dc:date>
+        <title>米科学者による気候変動対策への取り組み、トランプ氏が阻止</title>
+        <link>https://www.cnn.co.jp/usa/35229720.html?ref=rss</link>
+        <description>トランプ米政権は重要な気候変動対策の報告書作成に携わる米政府所属の科学者らに対し、各自の取り組みを停止するよう指示した。この報告書に関与する科学者が明らかにした。気候変動を巡る世界的な取り組み並びに研究から、米国が後退する最新の動きとなる。
+
+この報告書は国連の気候変動に関する政府間パネル（ＩＰＣＣ）が２０２９年に公開を予定している。米国はかねて報告書の作成に深く関わってきた。
+
+ＩＰＣＣは最新の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229720.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/22/49a46680a74c48a1eba0f5707ff16e09/t/768/432/d/gettyimages-467789808.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229725.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-23T15:51:00+09:00</dc:date>
+        <title>米、ウクライナ侵攻３年で独自の国連決議案　ウクライナ・欧州案には反対</title>
+        <link>https://www.cnn.co.jp/usa/35229725.html?ref=rss</link>
+        <description>ロシアによるウクライナ侵攻開始から３年の節目に合わせ、米国が国連に独自の平和決議案を提出した。欧州の支持を受けたウクライナの決議案には反対している。
+
+ルビオ米国務長官は２１日深夜に声明を出し、「簡潔で歴史的な決議案だ。平和への道筋をつけるため、すべての国に支持を求める」と述べた。
+
+ＣＮＮが閲覧した米決議案には、ロシアの侵攻を非難する文言や、ウクライナの領土一体性への言及がない。戦争による「悲劇...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229725.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/23/cb168bb560e5dbee5526c695c11c74a1/t/768/432/d/3-ukraine-crisis-attack-zaporizhzhia.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229724.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-23T13:46:00+09:00</dc:date>
+        <title>イスラエル、パレスチナ人拘束者の釈放を延期　「ハマスが合意違反」と主張</title>
+        <link>https://www.cnn.co.jp/world/35229724.html?ref=rss</link>
+        <description>イスラエルは２３日、イスラム組織ハマスとの停戦合意に基づき前日に予定していたパレスチナ人の釈放を延期したと発表した。
+
+ハマス側は２２日、人質６人をイスラエルに引き渡した。停戦合意の第１段階で解放を約束した人質のうち、生存者はこれで全員。死亡した人質については、あと４人の遺体が来週引き渡されることになっている。
+
+これと引き換えにイスラエル側は同日、パレスチナ人拘束者のうち子ども２３人を含む６２０...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229724.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/23/7d6f326303df121754545ef10e8a7e78/t/768/432/d/shiri-bibas-16x9-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229723.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-23T11:06:00+09:00</dc:date>
+        <title>入院中のローマ教皇、容体は「危機的」　バチカン発表</title>
+        <link>https://www.cnn.co.jp/world/35229723.html?ref=rss</link>
+        <description>ローマ教皇庁（バチカン）は２２日、肺炎で入院中のフランシスコ教皇の容体について、呼吸機能に危機が迫り、重体に陥っていると発表した。
+
+発表によると、教皇は２２日朝までにぜんそく性の呼吸機能低下が長期化し、高流量の酸素吸入が必要になった。貧血を治療するために輸血も受けた。
+
+本人の意識ははっきりしていて、日中はひじ掛けいすに座って過ごしたが、前日よりも苦痛は増しているという。
+
+バチカンはこれに先立ち...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229723.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/23/2f3215b27ae26f75109e0c7e11669426/t/768/432/d/Pope-Francis.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229722.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-23T10:18:00+09:00</dc:date>
+        <title>連邦職員に実績報告求めるメール、「無回答なら辞職扱い」とマスク氏</title>
+        <link>https://www.cnn.co.jp/usa/35229722.html?ref=rss</link>
+        <description>米連邦政府で２２日以降、職員に職務上の実績を報告するよう命じるメールが届いていることが分かった。トランプ政権の政府効率化省（ＤＯＧＥ）を率いる起業家イーロン・マスク氏はＸ（旧ツイッター）上で、「回答がなければ辞職とみなす」と宣言した。
+
+すでに多数の職員に無署名のメールが送られ、その文面をＣＮＮが入手した。各自の前週の実績を５件程度の箇条書きで記載し、上司を宛先に加えた同報メールで返信するよう指...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229722.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/23/c88cb6af07e6695806e6ce2fb9f0f21b/t/768/432/d/gettyimages-2198970102-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229719.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-22T18:30:00+09:00</dc:date>
+        <title>ハマスが返還の遺体、人質女性シリ・ビバスさんのものと確認　イスラエル被害者団体</title>
+        <link>https://www.cnn.co.jp/world/35229719.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区のイスラム組織ハマスが２１日にイスラエルに返還した遺体について、人質となっていた女性シリ・ビバスさんのものであることが確認された。被害者団体「人質・行方不明家族フォーラム」が２２日、ビバスさんの遺族の声明を提供した。
+
+ビバスさんの遺体は当初、ハマスによって返還された人質４人の遺体の中に、息子２人や別の人質オデッド・リフシッツさんと共に含まれているものと見られていた。息子...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229719.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/22/d88b8a7e2c43e2f62b5f0adef60750b5/t/768/432/d/c-ap25052338078623.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229718.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-22T17:55:00+09:00</dc:date>
+        <title>米医療保険ＣＥＯ殺害の被告出廷、法廷に大勢の「ファン」集結　ＮＹ</title>
+        <link>https://www.cnn.co.jp/usa/35229718.html?ref=rss</link>
+        <description>米医療保険大手ユナイテッドヘルスケアの最高経営責任者（ＣＥＯ）を昨年殺害した罪に問われているルイージ・マンジオーニ被告（２６）が２１日、ニューヨーク市の裁判所に出廷した。
+
+この日の審問はおおむね手続き上のものだったが、厳しい寒さをものともせず大勢のファンが集まり、法廷の外に何時間も並んだ。「ルイージを解放せよ」と書かれた衣服を身に着けた人も見られた。
+
+参加者の一人はＣＮＮの取材に、米東部時間午...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229718.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/22/82a33d715ec8900c924a3877f0c3de68/t/768/432/d/rc27zcapmmg4-rtrmadp-3-unitedhealth-ceo.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229717.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-22T16:50:00+09:00</dc:date>
+        <title>ホロコーストの追悼施設近くで刃物による襲撃、容疑者逮捕　独ベルリン</title>
+        <link>https://www.cnn.co.jp/world/35229717.html?ref=rss</link>
+        <description>独ベルリンで２１日夜、男性１人が刺されて重傷を負い、地元警察は容疑者１人を逮捕した。現場は市中心部にあるホロコースト（ユダヤ人大虐殺）の追悼施設の近く。
+
+警察はまだ容疑者及び犯行の動機の詳細を明らかにしていない。ドイツは重要な総選挙を２日後に控えている。
+
+選挙は中道右派の「キリスト教民主同盟（ＣＤＵ）」がトップに立つ公算が大きいが、極右政党「ドイツのための選択肢（ＡｆＤ）」が第２党に躍進する可...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229717.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/22/b7a896d7ccb213d31a521102f95a720b/t/768/432/d/gettyimages-2200269107.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229716.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-22T15:50:00+09:00</dc:date>
+        <title>ブルーオリジンとスペースＸのロケットの残骸、バハマと欧州で見つかる</title>
+        <link>https://www.cnn.co.jp/fringe/35229716.html?ref=rss</link>
+        <description>米宇宙企業ブルーオリジンのロケットのノーズコーンだった巨大な残骸が、カリブ海の島国バハマを構成する島の一つに流れ着いた。島は観光地の近くに位置していた。欧州では、米同業スペースＸのロケットに由来する残骸が燃えながらドイツ上空を横切った。また燃料タンクらしき物体がポーランドにある会社の敷地内に落下した可能性も取り沙汰されている。
+
+今週発生したこれらの事案は、スペースＸの宇宙船「スターシップ」が先...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229716.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/22/bb1ae3526f29167292addff989b17992/t/768/432/d/480257736-1309018097085307.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35229715.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-22T15:00:00+09:00</dc:date>
+        <title>写真特集：２５年水中写真家コンテスト、息をのむ作品の数々</title>
+        <link>https://www.cnn.co.jp/photo/35229715.html?ref=rss</link>
+        <description>２０２５年水中写真家コンテストで各部門の賞に輝いた息をのむ写真の数々を紹介する&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35229715.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/22/8d93071a10278a9800c31253fb19e573/t/768/511/d/501abdulazizalsaleh.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229714.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-22T15:00:00+09:00</dc:date>
+        <title>水中写真家コンテスト、息をのむ写真の数々　大賞はザトウクジラ母子の絆を撮影</title>
+        <link>https://www.cnn.co.jp/fringe/35229714.html?ref=rss</link>
+        <description>２０２５年水中写真家コンテストの主催者は２１日、スペイン人写真家のアルバロ・エレーロ氏が大賞に選出されたと明らかにした。受賞作はザトウクジラの母親と生まれたばかりの子どもの関係を捉えた１枚。
+
+エレーロ氏は「光り輝く絆」と名付けられたこの写真を、フランス領ポリネシアで撮影した。
+
+エレーロ氏は声明で「母親は水面まで子どもに付き添っている。赤ちゃんクジラはまだとても小さく、ぎこちないためだ」と説明。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229714.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/22/9dd4129990fd14c2c2114a80efcd7381/t/345/432/d/101alvaroherrero-lopez-bletran.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35229706.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-22T14:10:00+09:00</dc:date>
+        <title>フランスで所蔵のバイユー・タペストリー、２年間非公開に</title>
+        <link>https://www.cnn.co.jp/travel/35229706.html?ref=rss</link>
+        <description>ピカソの「ゲルニカ」からゴヤの「戦争の惨禍」まで、人類の争いを描いた作品は数多い。しかしその中でも最も古く、最も並外れた作品の一つは、フランスにある１１世紀制作の「バイユーのタペストリー」だ。
+
+縦７０センチ、横７０メートルの麻布の上には、１０６６年に起きたノルマン人によるイングランド征服の模様が描かれている。この戦いは、外部の敵対勢力がイングランドへの侵攻に成功した歴史上最後の事例だ。ノルマン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35229706.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/21/ff79e8d846367d5a663a9867a0cf30d2/t/768/432/d/france-tapestry-bayeux.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229707.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-22T12:47:00+09:00</dc:date>
+        <title>新発見の小惑星、７年後に地球に衝突したらどうなる？　世界と宇宙で観測続く</title>
+        <link>https://www.cnn.co.jp/fringe/35229707.html?ref=rss</link>
+        <description>２０３２年に２．８％～３．１％の確率で地球に衝突する可能性がある小惑星「２０２４　ＹＲ４」が見つかった。ごくわずかな可能性とはいえ、専門家は軌道などの解明を進めており、間もなく史上最強の性能を誇る宇宙望遠鏡を使った観測を開始する。
+
+２０２４　ＹＲ４について詳しいことは分かっていない。米航空宇宙局（ＮＡＳＡ）の専門家によると、直径は４０～９０メートルと推定され、大きなビルほどの大きさだという。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229707.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/22/87eeadaa7307982607a7e64a5bc96386/t/768/432/d/asteroid-artist-s-impression.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35229711.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-22T12:00:00+09:00</dc:date>
+        <title>ＡＰ通信、トランプ政権の当局者を提訴　ホワイトハウスへの出入り禁止受け</title>
+        <link>https://www.cnn.co.jp/showbiz/35229711.html?ref=rss</link>
+        <description>米ＡＰ通信がトランプ政権の当局者３人を連邦裁判所に提訴していることが２２日までに分かった。トランプ大統領の絡むイベントの一部や大統領執務室、大統領専用機「エアフォースワン」から自社の記者が締め出されたことに対する法的措置とみられる。
+
+ＡＰ通信は、報道の自由を認めた合衆国憲法修正第１条及び法の適正な過程なしに生命、自由または財産を奪われることはないとした同修正第５条の適正手続条項に言及。記者締め...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35229711.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/22/8c70dc181746f9da53e1b4fb3e1de6e5/t/768/512/d/gettyimages-2196133132.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229713.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-22T11:15:00+09:00</dc:date>
+        <title>人質女性の遺体返還か、イスラエル当局が身元確認を準備　前日の遺体は「別人」</title>
+        <link>https://www.cnn.co.jp/world/35229713.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区のイスラム組織ハマスに拘束されていた女性人質シリ・ビバスさんを巡り、イスラエル当局がビバスさんのものとみられる遺体の身元確認作業を準備していることが分かった。イスラエル当局は前日、ハマスがビバスさんと主張する別の遺体について、ビバスさんのものではないと断定していた。
+
+赤十字国際委員会（ＩＣＲＣ）は２１日にハマスから棺（ひつぎ）を受け取り、遺体をイスラエル当局に引き渡した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229713.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/22/d88b8a7e2c43e2f62b5f0adef60750b5/t/768/432/d/c-ap25052338078623.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229712.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-22T10:50:00+09:00</dc:date>
+        <title>トランプ政権、米軍制服組トップと海軍作戦部長を解任　前例のない軍幹部の更迭</title>
+        <link>https://www.cnn.co.jp/usa/35229712.html?ref=rss</link>
+        <description>トランプ米大統領は２１日夜、米軍制服組トップのブラウン統合参謀本部議長を解任した。その後、ヘグセス国防長官が海軍のフランチェッティ作戦部長らを解任。前例のない軍幹部の更迭となった。
+
+トランプ氏は自身のＳＮＳトゥルース・ソーシャルで、ブラウン氏を「素晴らしい紳士」「傑出したリーダー」と形容。さらなる解任の考えも示唆し、「最後に、私はヘグセス国防長官に対し、追加で五つの幹部ポストについて候補を募る...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229712.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/22/d2a5fc8031ac2181db78e53bc90b504e/t/768/432/d/c-gettyimages-2197859509.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229710.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-22T09:22:00+09:00</dc:date>
+        <title>トランプ氏、ゼレンスキー氏は「交渉カードを持たず」　「会議に出席する価値なし」</title>
+        <link>https://www.cnn.co.jp/usa/35229710.html?ref=rss</link>
+        <description>トランプ米大統領は２１日、ウクライナのゼレンスキー大統領には「交渉カード」がなく、「会議に出席する価値」がないとの認識を示した。ロシアのプーチン大統領については、「もし彼が望めば」ウクライナ全土を奪取できると警鐘を鳴らした。
+
+トランプ氏はＦＯＸニュースラジオのインタビューで、司会者から戦争の責任はロシアにあるのではないかと追及され、「私は何年も見てきた。彼（ゼレンスキー氏）がカードなしで交渉す...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229697.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-21T18:02:00+09:00</dc:date>
+        <title>毒液吐き出す太古のカギムシ、ＮＺの「今年の虫」に選出</title>
+        <link>https://www.cnn.co.jp/fringe/35229697.html?ref=rss</link>
+        <description>ニュージーランドに生息する有爪（ゆうそう）動物のカギムシが、同国の「今年の虫」を選ぶコンテストで優勝を果たした。毎年ニュージーランド昆虫学協会が開催するこのコンテストは、世界中にいる虫愛好家の意外な好みを検証する機会となっている。
+
+今回は世界の約９０００人が２万５０００票近くを投じた。参加者は２１種の候補の中から気に入った３種を選んで投票することになっていた。候補に挙がったのはウジやアリ、コオ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229697.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/21/4a3266554d642e1238abf1932da7225b/t/768/432/d/shutterstock-editorial-13981479h.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229695.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-21T16:58:00+09:00</dc:date>
+        <title>色鮮やかな「極楽鳥」、人間には見えない秘密のカラーシグナルを発信　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35229695.html?ref=rss</link>
+        <description>ハチドリやクジャク、オウムなど色鮮やかな種類が多い鳥類にあって、ひときわ華やかなのが極楽鳥だ。エメラルドやレモン色、コバルト、ルビーレッドからなる体色は異彩を放つ。そんな極楽鳥について、人間の目には見えない秘密のカラーシグナルを送っているとの研究結果が発表された。
+
+英王立協会オープンサイエンス誌に１２日発表された新たな研究によれば、極楽鳥の羽毛と体の一部はブルーライトや紫外線（ＵＶ）の下で見る...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229695.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/21/0f80007748abcccfb589222d0abe4ac3/t/768/432/d/bioflourescence-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229644.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-21T16:31:00+09:00</dc:date>
+        <title>トランプ氏とマスク氏、社会保障局に照準　風説広めるやり方で</title>
+        <link>https://www.cnn.co.jp/usa/35229644.html?ref=rss</link>
+        <description>米連邦政府職員の大量解雇に踏み切る前、トランプ大統領は職員を悪者扱いし、大半は職場に足を踏み入れたこともないと発言した。実際はそれとは正反対だったにもかかわらず。 
+
+対外支援を打ち切るに当たり、トランプ氏と起業家のイーロン・マスク氏は浪費や悪用が蔓延（まんえん）していると主張したが、それを裏付ける証拠はほとんど示さなかった。実際は単に資金の使途に同意できないだけなのかもしれない。 
+
+そうしたこと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229644.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/21/dbb3546a91a054a24a8ab9d2bad5fcfa/t/768/511/d/c-gettyimages-1243785612-20250218204636045.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
