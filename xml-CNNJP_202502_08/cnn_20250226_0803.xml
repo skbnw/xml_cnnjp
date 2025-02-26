@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-02-26T16:25:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229829.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229826.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229828.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35229825.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229822.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229819.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229815.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35229812.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229814.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229810.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229805.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229800.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229798.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229790.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229787.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229788.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229782.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229781.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229780.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229779.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35229775.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229777.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229776.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229768.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229761.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229764.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35229762.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229763.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229765.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229758.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229829.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T16:25:00+09:00</dc:date>
+        <title>火星が「赤い理由」を覆す新たな理論、「さび」は３０億年前に発生していた可能性</title>
+        <link>https://www.cnn.co.jp/fringe/35229829.html?ref=rss</link>
+        <description>火星はその象徴的なさび色から、長い間「赤い惑星」と呼ばれてきた。科学者たちは今回、その独特の色の根源となっているものを発見し、一般的な理論を覆した可能性がある。
+
+火星は、地球に近く、過去数十年にわたり多数の探査機が訪れたこともあり、太陽系で特に研究が進んでいる惑星の一つだ。人工衛星や着陸機から得られたデータは、火星の赤色は、この惑星を覆う塵（ちり）の中にあるさびた鉄鉱物に由来していることを示し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229829.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/cb270cbc135ce023c6b276bfae1f31e8/t/768/432/d/near-ir-green-and-near-uv-colour-view-of-mars.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229826.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T15:00:00+09:00</dc:date>
+        <title>米国入り拒まれた移民の一部、船で南米へ引き返す</title>
+        <link>https://www.cnn.co.jp/world/35229826.html?ref=rss</link>
+        <description>米国への到達を断念し、母国の中南米諸国へ引き返す移民が増加している。移民らはパナマから海の経路を使用することから、新たなリスクを生む状況になっていると当局が指摘する。
+
+従来は北米と南米を結ぶ山岳の熱帯雨林地帯「ダリエン地峡」を通過していた移民たちだが、現在はカリブ海に面したパナマの海岸で小型船に乗り、コロンビアへ向けて航行している。
+
+米国のトランプ政権が厳格な政策を施行し、国内の移民の強制送還...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229826.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/59eefe2aedfadb6a3f875d11c27508ab/t/768/432/d/ap25055467978259.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229828.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T14:03:00+09:00</dc:date>
+        <title>米ＤＯＧＥサービスの長官代行、エイミー・グリーソン氏と判明　マスク氏の役割巡り疑問の声</title>
+        <link>https://www.cnn.co.jp/usa/35229828.html?ref=rss</link>
+        <description>米ホワイトハウスの当局者は２５日、ＣＮＮに対し、時限組織の政府効率化省（ＤＯＧＥ）を傘下に収める米ＤＯＧＥサービスの長官代行はエイミー・グリーソン氏だと明らかにした。
+
+ＤＯＧＥを巡っては数週間前から、実業家イーロン・マスク氏の役割と権限に関して疑念の声が上がっていた。今回の発表により、連邦政府の再編を担うマスク氏主導の取り組みの形式上のトップが判明した。
+
+グリーソン氏は医療分野の経歴を持ち、以...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229828.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/7c5544e2c8b29c3e6ac0be954c18f99c/t/768/432/d/amy-gleason-linkedin.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35229825.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T13:17:00+09:00</dc:date>
+        <title>イーロン・マスク氏、年初来７．７兆円失う　それでも世界一の富豪</title>
+        <link>https://www.cnn.co.jp/business/35229825.html?ref=rss</link>
+        <description>米起業家イーロン・マスク氏は今年に入って５２０億ドル（約７兆７０００億円）分の資産を減らしたが、それでも依然として世界一の富豪の地位を維持していることがわかった。ブルームバーグ・ビリオネア指数で明らかになった。
+
+マスク氏が率いる電気自動車（ＥＶ）大手テスラの株価は２５日の市場が閉まる直前に８％下落した。過去１カ月では２０％あまり値を下げていた。テスラの時価総額は２０２４年１１月以降で初めて１兆...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35229825.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/ad2cb6b6469c6d2a764c7398aff5187d/t/768/432/d/gettyimages-2200064982-20250225205148560.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229822.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T13:06:00+09:00</dc:date>
+        <title>赤ちゃん６人が低体温症で死亡　ガザ</title>
+        <link>https://www.cnn.co.jp/world/35229822.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で２３日以降、赤ちゃん６人が低体温症のために死亡した。ガザの保健当局者が明らかにした。当局者は、より多くの支援物資がガザに搬入されないか限り、こうした死者がさらに増えると警告している。
+
+ガザ北部にあるＰＦＢＳ病院のサイード・サラー博士は、ガザでの冬の状況を乗り切ろうとする際、低体温症に苦しむ赤ちゃんの数が増加しているという「災害」について警告した。
+
+サラー氏によれば、過...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229822.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/296289732708931867c5507560b10a9d/t/768/540/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTdsMm14d3QwMHExMmNwMWZ2bDJlaXQx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtN2wybXh3dDAwcTYyY3AxMDEzd2gzbnA=thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229819.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T12:44:00+09:00</dc:date>
+        <title>米大統領取材の報道陣は「ホワイトハウスが決める」　記者会反発「まるでプーチン」</title>
+        <link>https://www.cnn.co.jp/usa/35229819.html?ref=rss</link>
+        <description>米ホワイトハウスが、大統領の代表取材を担当する記者を選ぶ役割をホワイトハウス記者会から剥奪（はくだつ）した。今後、大統領の同行取材に加わる記者やカメラマンはホワイトハウスが選別する。
+
+代表取材は大統領専用機「エアフォースワン」やホワイトハウスの大統領執務室といった場所で行われ、テレビや印刷媒体、ラジオ、通信社の記者やカメラマンが交代で担当。取材した内容は電子メールで加盟各社に伝えられている。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229819.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/511e2211d275185fccd3304830d447c2/t/768/512/d/gettyimages-2196569329-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229815.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T12:20:00+09:00</dc:date>
+        <title>新系統のコロナウイルス、武漢の研究所が発見　現時点で公衆衛生上の懸念なし</title>
+        <link>https://www.cnn.co.jp/fringe/35229815.html?ref=rss</link>
+        <description>中国・武漢のウイルス研究所が、コウモリから新系統のコロナウイルスを発見したと発表した。新型コロナウイルス感染症（ＣＯＶＩＤ―１９）を引き起こしたウイルス「ＳＡＲＳ―ＣｏＶ―２」と同じように人間の細胞に侵入する可能性があるとされる。ただし現時点で公衆衛生が脅かされる状況ではないと専門家は指摘している。
+
+新系統のコロナウイルス「ＨＫＵ５―ＣｏＶ―２」はＳＡＲＳ―ＣｏＶ―２と同様に、細胞の表面に存在する受容...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229815.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/cb25c24ba6b7b557f3429c191b2a4424/t/768/432/d/gettyimages-583855512.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35229812.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T11:48:00+09:00</dc:date>
+        <title>トランプ政権によるアルミ関税、１０万人の雇用喪失も　米業界から警告</title>
+        <link>https://www.cnn.co.jp/business/35229812.html?ref=rss</link>
+        <description>トランプ米大統領が掲げている輸入するアルミニウム全てに対して２５％の関税を課すとの計画をめぐり、米アルミ大手アルコアのウィリアム・オプリンガー最高経営責任者（ＣＥＯ）は２５日、米国の雇用１０万人分が失われる可能性があると警告した。
+
+新たな関税では例外や免除を認めておらず、以前の水準から１５ポイント引き上げられる。来月にも施行される予定。関税は国内の製造業を強化するというトランプ大統領の積極的な...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35229812.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/ef7d9049c3755f238951a6267a36de24/t/768/432/d/gettyimages-2183645724-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229814.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T11:29:00+09:00</dc:date>
+        <title>トランプ氏、外国人に７．４億円の「ゴールドカード」販売を表明　米国で働く権利</title>
+        <link>https://www.cnn.co.jp/usa/35229814.html?ref=rss</link>
+        <description>トランプ米大統領は２５日、裕福な外国人向けに「ゴールドカード」と称するものを販売すると明らかにした。このカードを入手すると、米国で生活し働く権利を得られ、市民権取得への道が開けるという。カードの取得費用は５００万ドル（約７億４０００万円）。
+
+トランプ氏は大統領執務室で、ゴールドカードについて、グリーンカード（永住権）の特権が与えられ、市民権への道も開けるものだと説明。「裕福な人々はこのカードを...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229810.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T11:25:00+09:00</dc:date>
+        <title>南米チリで大規模停電、交通機関やインターネットにも影響</title>
+        <link>https://www.cnn.co.jp/world/35229810.html?ref=rss</link>
+        <description>南米チリで２５日、大規模な停電が発生し、国内１６州のうち１４州で影響がでている。チリ国家防災対策庁（ＳＥＮＡＰＲＥＤ）が明らかにした。首都サンティアゴや周辺にも影響が及んでいる。
+
+大規模停電によって、国内の一部では交通網が一時停止したほか、サッカーの試合が延期された。インターネットも国内の大部分で利用できなくなっている。
+
+ボリッチ大統領は、犯罪行為を抑止するため、影響が出た州に対して非常事態を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229810.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/2ab97b95c8eafe7ef3bc115c9d239478/t/768/432/d/2025-02-25t200522z-1106948056-rc2w1da9kizk-rtrmadp-3-chile-power.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229805.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T10:56:00+09:00</dc:date>
+        <title>旅客機があわや衝突、自家用機が許可なく滑走路に進入　米シカゴ</title>
+        <link>https://www.cnn.co.jp/usa/35229805.html?ref=rss</link>
+        <description>米シカゴの空港で２５日、サウスウェスト航空の旅客機と許可なく滑走路に進入した自家用機の異常接近があった。米連邦航空局（ＦＡＡ）や同航空が明らかにした。
+
+サウスウェスト航空２５０４便は衝突回避のためにゴーアラウンド（着陸やり直し）を強いられ、その後無事に同空港に着陸した。
+
+異常接近は現地時間の午前８時５０分ごろ、シカゴのミッドウェー国際空港で発生。ＦＡＡと国家運輸安全委員会（ＮＴＳＢ）が調査を行...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229805.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/4bc7eef991c299529c546519cfa696e0/t/768/432/d/still-21412507-25058-994-still-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229800.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T10:07:00+09:00</dc:date>
+        <title>盗まれたクレジットカードで宝くじ当選、持ち主は当選金の山分けを提案　仏</title>
+        <link>https://www.cnn.co.jp/world/35229800.html?ref=rss</link>
+        <description>フランスでこのほど、盗難被害に遭った男性が、盗まれたクレジットカードで購入された宝くじに当選したことがわかり、窃盗犯に対して当選金の「山分け」を提案している。
+
+盗難の被害にあったのはジャンダビッド・エステルさん。今月３日にトゥールーズ市で車が被害に遭い、その日のうちにエステルさんのクレジットカードを使っていくつかの品物が購入された。エステルさんの弁護士が２５日、ＣＮＮに明らかにした。
+
+購入され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229800.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/0910ad4698895161aa99e006a7981ce9/t/768/432/d/2024-02-13t113432z-1681585615-rc2l16a6a9bb-rtrmadp-3-fdj-france.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229798.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T09:54:00+09:00</dc:date>
+        <title>イーロン・マスク氏の国籍剥奪求める請願書に２５万人が署名　カナダ</title>
+        <link>https://www.cnn.co.jp/world/35229798.html?ref=rss</link>
+        <description>カナダの国民と居住者２５万人以上が、米実業家イーロン・マスク氏の市民権とパスポートの剥奪（はくだつ）を求める議会請願書に署名した。マスク氏は南アフリカ、カナダ、米国の国籍を保有している。
+
+請願書に署名した人々は、トランプ米大統領とマスク氏の関係は「カナダの国益に反する」と主張している。トランプ氏は来月、カナダからの輸入品すべてに２５％の関税を課すとしており、カナダを５１番目の州として米国に併合...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229798.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/cab9aca3cb9c593828c9936aa205b820/t/768/432/d/c-gettyimages-2199453730.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229790.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T09:29:00+09:00</dc:date>
+        <title>英首相、２０２７年までに防衛費２．５％へ引き上げを表明　トランプ氏との会談控え</title>
+        <link>https://www.cnn.co.jp/world/35229790.html?ref=rss</link>
+        <description>米ワシントンで行われるトランプ大統領との会談を翌日に控え、英国のスターマー首相は２５日、２０２７年までに防衛費を国内総生産（ＧＤＰ）比２．５％に引き上げると発表した。その翌年には２．６％に増額するとしている。現在の比率は２．３％。ウクライナ戦争の今後をめぐりトランプ氏と欧州の間には亀裂が生じている。
+
+同氏は議会でこの計画を説明するにあたり、「この政権は冷戦終結以降最大となる持続的な防衛費増額を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229790.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/2cb70964cec064dbe9c329a3a269a8a9/t/768/432/d/gettyimages-2199562357.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229787.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T07:40:00+09:00</dc:date>
+        <title>米連邦政府職員２１人が辞任、「政府効率化」の取り組みに抗議</title>
+        <link>https://www.cnn.co.jp/usa/35229787.html?ref=rss</link>
+        <description>米デジタルサービス局（ＵＳＤＳ）の職員２１人が２５日に一斉に辞任したことがわかった。今回の一斉退職は政府効率化省（ＤＯＧＥ）の取り組みに抗議するためのものとみられている。事情に詳しい連邦政府職員が明らかにした。
+
+情報筋によれば、退職したのは最も熟練した人材で、多くが最優先の案件を処理していた。そうした人たちのなかにはエンジニアやデザイナー、データサイエンティスト、プロジェクトマネジャーらが含ま...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229788.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T07:31:00+09:00</dc:date>
+        <title>米・ウクライナ、天然資源と復興を巡る条件で合意　当局者</title>
+        <link>https://www.cnn.co.jp/world/35229788.html?ref=rss</link>
+        <description>米国とウクライナは天然資源と復興に関する協定の条件で合意した。ウクライナ当局者が明らかにした。
+
+情報筋によると、「受け入れられない内容はすべて文書から除外され、この合意がウクライナの安全と平和にどのように寄与するかがより明確に示された」ことを受け、合意に至ったという。
+
+ウクライナのゼレンスキー大統領は現在、米ワシントンを訪問することを計画している。会談は米政権が２１日に提案したという。
+
+ホワイ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229788.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/abc3806ad292f865219b369a4db5d760/t/768/432/d/gettyimages-2201330852.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229782.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T21:00:00+09:00</dc:date>
+        <title>台湾、中国人乗り組みの貨物船を拿捕　海底ケーブル切断の疑い</title>
+        <link>https://www.cnn.co.jp/world/35229782.html?ref=rss</link>
+        <description>台湾の海巡署（海上保安庁に相当）は２５日、海底ケーブルを切断した疑いで貨物船を拿捕（だほ）し、中国人乗組員を拘束した。
+
+海巡署によると、この船は台湾本島と西側の澎湖諸島を結ぶ通信用のケーブルを損傷した疑い。中国人８人が乗り組み、船主の国とは異なる西アフリカのトーゴに船籍を置いていた。
+
+２２日夜から台湾南西沖のケーブル付近に停留し、海巡署の度重なる呼び掛けに応じなかった。
+
+２５日未明に船がいかり...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229782.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/6bc4ada9bcb0a040ede271ce3d3db60e/t/768/432/d/gettyimages-2201275749.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229781.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T20:40:00+09:00</dc:date>
+        <title>印カースト最下層の少女、５年間で６０人近くから強姦　同級生・隣人・親族ら犯行</title>
+        <link>https://www.cnn.co.jp/world/35229781.html?ref=rss</link>
+        <description>インド南部ケララ州の村に住む１８歳の少女が、過去５年間で親族を含む約６０人の男たちに強姦（ごうかん）されていた被害が明らかになった。
+
+少女はカースト最下層「ダリット」の貧しい家庭に生まれた。最初の性被害は１３歳の時。加害者が犯行時に撮った動画と写真で脅され、その後数十人から強姦などの性的暴行を受けたとして、警察が捜査している。
+
+１８歳になった少女が進学先の大学でカウンセラーに過去の被害を詳しく...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229781.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/eb63060d78caa83817e9467bf6939dfb/t/768/432/d/violence-women-india-jpg-comp.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229780.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T20:10:00+09:00</dc:date>
+        <title>「極めて高性能」な中国軍艦が実弾演習、ＮＺと豪州に動揺走る</title>
+        <link>https://www.cnn.co.jp/world/35229780.html?ref=rss</link>
+        <description>ニュージーランドは２４日、「極めて高性能」な兵器を備えた中国軍艦による実弾演習が付近で実施されたことに対し、改めて懸念を表明した。先週実施された実弾演習は前例のない示威行為であり、識者の間では、グローバルな展開力を備えた外洋海軍を建設しようとする中国政府の計画の一環との見方が出ている。
+
+中国海軍の艦隊は２１、２２両日、オーストラリアとニュージーランドの間のタスマン海で２回の実弾演習を実施。旅客...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229780.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/e08c0dcf9bd3d81761e74583a0b05b46/t/768/512/d/ap25051128890039.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229779.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T19:32:00+09:00</dc:date>
+        <title>幹線道路の陸橋が崩落、建設作業員４人死亡　韓国</title>
+        <link>https://www.cnn.co.jp/world/35229779.html?ref=rss</link>
+        <description>韓国の首都ソウル南郊の天安市で２５日午前、幹線道路の陸橋が崩れ落ち、建設作業員少なくとも４人が死亡、６人が負傷した。
+
+消防局の当局者１人によると、負傷者のうち５人は重傷だという。
+
+韓国の放送局ＹＴＮが放送したドライブレコーダーの映像には、そびえ立つ陸橋が突然崩壊し、下の道路にたたきつけられる様子が映っている。
+
+大規模な道路網はまだ建設中で、現場周辺に一般の乗用車は走行していなかった。陸橋となる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229779.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/36b66582cda239b2f86c9f963ba59e4f/t/768/432/d/ap25056146424552.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35229775.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T18:35:00+09:00</dc:date>
+        <title>「１６ｅ」の成功を必要とするアップルに勝機、その理由は</title>
+        <link>https://www.cnn.co.jp/tech/35229775.html?ref=rss</link>
+        <description>米アップルからスマートフォン「ｉＰｈｏｎｅ（アイフォーン）」の新機種「１６ｅ」が登場したが、二つの理由から驚くべきものだった。第一に、アップルは約１０年にわたった「ＳＥ」ブランドから距離を置いた。第二に、この格安スマホの価格は予想よりも高い５９９ドル（約９万円）で、ＳＥの４２９ドルから大幅に値段が上がった。
+
+１６ｅは今月２８日に発売される。１６ｅの発売は、ｉＰｈｏｎｅのラインアップを多様化し、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35229775.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/fe3a2255e8aecdaf69f65f762826cde9/t/768/432/d/bb86-49cc-adab-3473bb1da3da.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229777.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T17:55:00+09:00</dc:date>
+        <title>新生児をホテルの窓から投げ落とし殺害した疑い　パリで母親の米国人を逮捕</title>
+        <link>https://www.cnn.co.jp/world/35229777.html?ref=rss</link>
+        <description>仏検察と現地メディアによると、パリ市内で２４日、新生児がホテルの窓から放り出されて死亡し、母親の米国人女性が逮捕された。
+
+パリ検察は声明で、容疑者の若い女性が出産後の手術のため病院へ運ばれ、続いて警察の拘束下に置かれたと述べた。
+
+生まれた子どもはホテル２階の窓から投げ落とされ、救急搬送されたが助からなかった。
+
+容疑者は欧州を旅行している若者グループの一員だった。当局は、子どもが殺害された事件と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229777.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/1f985a030335ae21dc5e28524b4614a4/t/768/432/d/gettyimages-2168285508.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229776.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T17:30:00+09:00</dc:date>
+        <title>ロシア、レアアース採掘やエネルギーで米国と協力の構え</title>
+        <link>https://www.cnn.co.jp/world/35229776.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は２４日、国内やウクライナの占領地に埋蔵されるレアアースの採掘を米企業と共同で進める用意があると述べた。新たに任命されたドミトリエフ大統領特別代表（外国との投資・経済協力担当）も、エネルギー部門などで米国との経済協力に応じる姿勢を示唆した。
+
+これに先立ち、トランプ米大統領は同日、ロシアとの間でウクライナでの戦争終結に向けた真剣な協議を続けているとしたうえで、同国と「経済開...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229776.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/14162dc7a1a4886771270d24912f29ac/t/768/432/d/gettyimages-2195863588.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229768.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T16:45:00+09:00</dc:date>
+        <title>フランス最大規模の児童性的虐待、裁判が始まる　被害者２９９人</title>
+        <link>https://www.cnn.co.jp/world/35229768.html?ref=rss</link>
+        <description>フランス・ブルターニュ地方モルビアン県の裁判所で２４日、同国で最大規模の被害者が出たとみられる児童性的虐待に関する裁判が始まった。検察によれば、２５年以上にわたり、１０カ所の病院や診療所で性的虐待を受けたとされる被害者は２９９人にのぼり、そのすべてが１人の医師によるものだという。
+
+今回の裁判では、元胃腸外科医ジョエル・ル・スコウアルネック被告（７４）が性的虐待の罪に問われている。多くの人々は裁...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229768.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/ae044f4778a21c68cee3091a08322deb/t/768/432/d/gettyimages-2201151275.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229761.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T16:06:00+09:00</dc:date>
+        <title>元シークレットサービスのポッドキャスター、ＦＢＩ副長官に　トランプ氏が発表</title>
+        <link>https://www.cnn.co.jp/usa/35229761.html?ref=rss</link>
+        <description>米シークレットサービス（大統領警護隊）の元隊員から右派のポッドキャスターに転じたダン・ボンジーノ氏が連邦捜査局（ＦＢＩ）の副長官に指名された。トランプ大統領が２３日に明らかにした。トランプ氏が大規模な政府機関の監督を担う要職に外部のメディア関係者を起用した最新の人事となった。
+
+ＦＢＩ副長官は従来、局内のキャリア捜査官が就く職位だった。
+
+トランプ氏は自身のＳＮＳ、トゥルース・ソーシャルへの２３日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229761.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/28e1249c36425514cbdb2ac17644233c/t/768/432/d/shutterstock-editorial-14664744m.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229764.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T14:55:00+09:00</dc:date>
+        <title>月面着陸控えた「ブルーゴースト」、月の裏側の写真を公開</title>
+        <link>https://www.cnn.co.jp/fringe/35229764.html?ref=rss</link>
+        <description>米テキサス州を拠点とする宇宙企業ファイアフライ・エアロスペースは２５日までに、月着陸機「ブルーゴースト」が捉えた新たな映像を公開した。ブルーゴーストは今月１３日に月の周回軌道に入っていた。
+
+この新しい映像は、同着陸機が高楕円軌道から低楕円軌道（月面から約１２０キロ上空）に移行した後に撮影されたもので、地球からは見えない月の裏側を近接撮影している。
+
+フライバイ（近接通過）中に撮影された、衝突クレ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229764.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/226d0dc0813c059609102a73abaded4a/t/323/432/d/BlueGhost05.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35229762.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T14:50:00+09:00</dc:date>
+        <title>写真特集：月着陸機「ブルーゴースト」が捉えた、目を見張る写真の数々</title>
+        <link>https://www.cnn.co.jp/photo/35229762.html?ref=rss</link>
+        <description>月着陸機「ブルーゴースト」が捉えた新たな画像を紹介する&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35229762.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/c2f283565693601c24c034fe6de7248b/t/768/496/d/BlueGhost02.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229763.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T14:40:00+09:00</dc:date>
+        <title>ケネディ大統領の盾になろうとした警護隊員が死去、９３歳　後年も記憶にさいなまれる</title>
+        <link>https://www.cnn.co.jp/usa/35229763.html?ref=rss</link>
+        <description>米国のケネディ大統領が１９６３年に暗殺された際、大統領や大統領夫人を守るために射線に飛び込んだことで知られる大統領警護隊（シークレットサービス）の隊員だったクリント・ヒル氏が２１日に死去した。９３歳だった。
+
+ケネディ大統領の暗殺は６３年１１月２２日、テキサス州ダラスで発生した。
+
+シークレットサービスは２４日、声明で、ヒル氏の「揺るぎない献身と卓越した職務」を称賛した。
+
+大統領が殺害された直後、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229763.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/765648bd595b229296b18058ae58ce40/t/768/432/d/c-ap25055649746961.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229765.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T14:00:00+09:00</dc:date>
+        <title>ヨセミテ国立公園名物の滝に上下逆さまの米国旗、その理由は</title>
+        <link>https://www.cnn.co.jp/usa/35229765.html?ref=rss</link>
+        <description>米カリフォルニア州のヨセミテ国立公園は、毎年２月に最も多くの観光客が訪れる。絶壁を流れ落ちる滝がオレンジ色に輝いて溶岩流のように見える自然現象「炎の滝」が目当てだ。
+
+しかし今月２２日に訪れた観光客が目にしたのは、炎の滝だけではなかった。滝の横には米国旗が上下逆さまに掲げられていた。トランプ政権が進める歳出削減の一環として人員が削減されたことに対し、ヨセミテの職員が抗議を込めて掲げたと伝えられて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229765.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/5a01b9f264c5019d24191163b69bc929/t/768/432/d/untitled-1-20250224053947308.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229758.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-25T13:36:00+09:00</dc:date>
+        <title>中ロ首脳が電話会談、習主席は両国関係の強さを強調</title>
+        <link>https://www.cnn.co.jp/world/35229758.html?ref=rss</link>
+        <description>中国の習近平（シーチンピン）国家主席とロシアのプーチン大統領は２４日、電話会談を行い、習氏は両国関係について「引き離すことはできない」と述べた。米国のトランプ大統領がウクライナでの戦争の終結に向けて外交政策を大きく転換し、ロシア政府へ歩み寄る姿勢を示してから、中ロ首脳による会談が行われるのは今回が初めて。
+
+ロシアによるウクライナ侵攻が始まってから２４日で３年を迎えた。今回の電話会談は、主要な外...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229758.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/25/c90470c7834a7ee174a9a26b2cd14c8f/t/768/432/d/gettyimages-2152598738.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
