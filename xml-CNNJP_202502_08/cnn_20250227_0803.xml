@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-02-27T16:08:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35229877.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229882.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35229879.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35229872.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229867.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229873.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35229869.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229866.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229864.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229863.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35229862.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35229859.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229857.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229855.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229852.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229851.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229849.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229846.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229845.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229844.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35229842.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229843.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229841.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229829.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229826.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229828.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35229825.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35229822.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35229819.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35229815.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/business/35229877.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T16:08:00+09:00</dc:date>
+        <title>バイデン氏の「衰え」とその「隠蔽」が明るみに　政治記者らの著書、５月出版予定</title>
+        <link>https://www.cnn.co.jp/business/35229877.html?ref=rss</link>
+        <description>バイデン前米大統領が在任中に見せていた「深刻な衰え」とその「隠蔽（いんぺい）」について取材した、米政治ジャーナリスト２人の共著が５月２０日に出版される。
+
+出版元のペンギン・プレスが２６日に発表した。
+
+著者はＣＮＮアンカーのジェイク・タッパー氏と米ネットメディア「アクシオス」記者のアレックス・トンプソン氏で、タイトルは「原罪：バイデン大統領の衰え、隠蔽、再出馬という悲惨な選択（仮題）」。
+
+ペンギ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35229877.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/b6c6ccb5c7b3df1c4edc4508d259a9be/t/768/432/d/gettyimages-2193792548.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229882.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T15:25:00+09:00</dc:date>
+        <title>ロシア軍、北朝鮮兵数百人を僻地の軍港へ海上輸送か　衛星画像分析</title>
+        <link>https://www.cnn.co.jp/world/35229882.html?ref=rss</link>
+        <description>数百人規模の北朝鮮の兵士がウクライナとの戦争を戦うため、海路でロシアへ輸送された公算が大きいことが衛星画像によって明らかになった。米国に拠点を置くシンクタンクが最新の分析をＣＮＮとのみ共有した。
+
+米ミドルベリー国際大学院ジェームズ・マーティン不拡散研究センターの研究員らによれば、昨年の１０月と１１月、少なくとも２隻のロシア海軍艦が北朝鮮兵を極東にあるロシアの軍港ドゥナイに輸送したとみられる。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229882.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/6a08f63998048af2fffe15dbce99e975/t/768/432/d/202502-dprk-ru-03.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35229879.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T14:30:00+09:00</dc:date>
+        <title>トレビの泉に飛び込んだ観光客に罰金、生涯立ち入り禁止　イタリア</title>
+        <link>https://www.cnn.co.jp/travel/35229879.html?ref=rss</link>
+        <description>イタリアの首都ローマを訪れたニュージーランドの観光客３人が、観光名所として知られるトレビの泉に入ろうとして警察につかまった。うち１人は警察を振り切って泉に飛び込み、罰金を命じられた。
+
+ローマ首都警察によると、３人は２３日夜、トレビの泉の中を歩き出そうとしたところを制止され、その場から連行された。ところがこのうち３０歳の男性１人が警官を振りほどいて泉に飛び込んだ。
+
+「間違いなくアルコールが関係し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35229879.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/e16a9923ac588d7cf1736dd0022491eb/t/768/432/d/gettyimages-1613816825.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35229872.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T14:00:00+09:00</dc:date>
+        <title>「映画上映前のＣＭ多すぎ」、観客の損害賠償請求認める　インド</title>
+        <link>https://www.cnn.co.jp/showbiz/35229872.html?ref=rss</link>
+        <description>インドで映画の上映前に見せられるＣＭが多すぎたとして観客の男性が映画館を訴えた訴訟で、裁判所が男性の損害賠償請求を認める判決を言い渡した。
+
+原告は南部のベンガルールに住む弁護士の男性（３１）。映画の終了時間が予定よりも遅れたために仕事の電話をキャンセルしなければならなかったとして、映画館運営のインド最大手ＰＶＲ　ＩＮＯＸを相手取り、ベンガルールの裁判所に訴えを起こした。
+
+訴状の中で原告は、２０...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35229872.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/e34958288d367da41c9eeb7eedce52a2/t/768/432/d/2022-03-29t113209z-1014815298-rc2act9ghwil-rtrmadp-3-inox-leisure-pvr-stocks.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229867.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T13:30:00+09:00</dc:date>
+        <title>英「黄金のトイレ」盗難、監視カメラの映像公開　強盗が持ち去る様子捉える</title>
+        <link>https://www.cnn.co.jp/fringe/35229867.html?ref=rss</link>
+        <description>２０１９年に英イングランドのブレナム宮殿から金のトイレが盗まれた事件で、テムズバレー警察は監視カメラの映像を公開した。
+
+映像には、強盗が車２台でブレナム宮殿の門を突破し、黄金のトイレを持ち去る様子が映っている。
+
+このトイレは過剰な富を揶揄（やゆ）する風刺的な芸術作品で、重さは９７キロあまり。当初は６００万ドル（現在のレートで約８億９５００万円）の保険がかけられていた。
+
+ブレナム宮殿は国連教育科...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229867.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/4d218282b1ad55b305e87a22b5c7af6b/t/768/432/d/gold-toilet-heist-cctv (1).jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229873.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T13:13:00+09:00</dc:date>
+        <title>トランプ米政権、ＵＳＡＩＤの対外支援契約９割超を打ち切り　裁判文書で明かす</title>
+        <link>https://www.cnn.co.jp/usa/35229873.html?ref=rss</link>
+        <description>トランプ米政権は、国際開発局（ＵＳＡＩＤ）が携わる対外支援契約の９割以上を打ち切る方針であることが分かった。２６日に裁判所へ提出された文書で明らかになった。
+
+文書によれば、合計でＵＳＡＩＤが関連する契約５８００件近くが実際に打ち切られた。保持されたのは５００件強だという。
+
+保持された契約の天井値を合計すると５７０億ドル（約８兆５０００億円）近くになる。
+
+ＵＳＡＩＤの契約の打ち切りに加え、州レベ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35229869.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T12:50:00+09:00</dc:date>
+        <title>トランプ氏、関税政策めぐる米紙社説の正しい指摘にかみつく</title>
+        <link>https://www.cnn.co.jp/business/35229869.html?ref=rss</link>
+        <description>関税政策をめぐり、トランプ米大統領と米紙ウォールストリート・ジャーナルが再び対立している。
+
+トランプ氏は、２６日に公開された同紙の社説を激しく非難した。同紙は複数の証拠を挙げたうえで、対カナダ・メキシコ関税によって自動車産業が盛んなミシガン州が打撃を受けると述べている。
+
+社説は「もし目標が米国の自動車産業労働者とミシガン州の共和党候補者に損害を与えることなら、ぜひとも進めるといい、大統領」と述...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35229869.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/d378c25c8324cbe2bc56a49d085a6cbe/t/768/432/d/2019-02-05t235433z-854994722-rc1f73c2e780-rtrmadp-3-usa-autos-gm-silverado-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229866.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T12:25:00+09:00</dc:date>
+        <title>米首都の空港で旅客機が回避行動、滑走路上に別の航空機　全米で相次ぐ事故やトラブル</title>
+        <link>https://www.cnn.co.jp/usa/35229866.html?ref=rss</link>
+        <description>米首都ワシントン近郊のロナルド・レーガン・ナショナル空港で２５日、着陸しようとした米アメリカン航空の旅客機が、別の航空機との衝突を避ける回避行動を強いられた。
+
+この日はシカゴの空港でも、サウスウェスト航空の旅客機と自家用機の異常接近が起きた。首都近郊では１月下旬に旅客機とヘリコプターが空中衝突して６７人全員が死亡する事故が起きたばかりだった。
+
+米連邦航空局（ＦＡＡ）によると、現地時間の２５日午...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229866.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/929f1c34feb691fb7cfc5c6d888e9ee1/t/768/432/d/gettyimages-2196595159.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229864.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T11:52:00+09:00</dc:date>
+        <title>はしか流行の米テキサス州、子ども１人が死亡　米で２０１５年以来の死者</title>
+        <link>https://www.cnn.co.jp/usa/35229864.html?ref=rss</link>
+        <description>はしかが流行している米テキサス州西部ラボック市は２６日、学齢期の子ども１人が死亡したと発表した。米国ではしかによる死者が出たのは、２０１５年にワシントン州で女性１人が死亡して以来だった。
+
+市の２６日の記者会見によると、死亡した子どもはワクチン未接種で、ラボック市内の病院に入院していた。子どもの年齢や基礎疾患があったかどうかなどについては明らかにしていない。
+
+テキサス州保険当局の２５日の発表によ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229864.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/b37de234e3b4831e5e5901b387e7f460/t/768/518/d/gettyimages-151035299-20250225185935683-thumbnaiil.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229863.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T11:02:00+09:00</dc:date>
+        <title>一部閣僚はイーロン・マスク氏と「少し意見が違う」、トランプ氏が発言</title>
+        <link>https://www.cnn.co.jp/usa/35229863.html?ref=rss</link>
+        <description>トランプ米大統領は２６日、政権内の一部閣僚は実業家イーロン・マスク氏と「少し意見が異なる」と発言した。ＣＮＮはこのところ、連邦政府職員へのマスク氏の指示を巡り閣僚に摩擦が生じていると報じている。
+
+トランプ氏は「イーロンに不満を感じている者がいるかって？　もしいれば、ここから放り出す」とコメント。閣議室のテーブルに座った閣僚からは濃淡さまざまな拍手が上がった。
+
+そのうえでトランプ氏は、「彼らはイ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229863.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/7a43954d54f1f61ad5f6919a60616b17/t/768/512/d/c-2025-02-26t164628z-1688663969-rc2g2daadg03-rtrmadp-3-usa-trump-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35229862.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T10:38:00+09:00</dc:date>
+        <title>米ドラマ「ゴシップガール」のミシェル・トラクテンバーグさん死去　３９歳</title>
+        <link>https://www.cnn.co.jp/showbiz/35229862.html?ref=rss</link>
+        <description>米俳優のミシェル・トラクテンバーグさんが２６日、亡くなった。米ニューヨーク市警が明らかにした。３９歳だった。トラクテンバーグさんは、映画「ハリエットのスパイ大作戦」で子役として有名になり、「ゴシップガール」などのテレビドラマで印象的な役どころを演じていた。
+
+警察は現地時間２６日午前８時過ぎに通報を受け、マンハッタンのアパートで意識不明の女性を発見した。後になって女性がトラクテンバーグさんである...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35229862.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/5cd1909459f36ceefbb3d715a2233530/t/768/432/d/gettyimages-1199767052.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35229859.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T10:23:00+09:00</dc:date>
+        <title>「人種差別主義者」を自動的に「トランプ」に変換、米アップルが不具合修正</title>
+        <link>https://www.cnn.co.jp/tech/35229859.html?ref=rss</link>
+        <description>米アップルの音声入力でユーザーが「ｒａｃｉｓｔ（人種差別主義者）」と発音すると、勝手に「Ｔｒｕｍｐ（トランプ）」の文字に変換される――。そんな不具合が確認され、アップルが修正したことを明らかにした。
+
+この不具合については２５日、ｉＰｈｏｎｅのユーザーから報告が相次いだ。アップルの音声入力機能を使用すると、「ｒａｃｉｓｔ」という音声がいったん自動的に「Ｔｒｕｍｐ」という文字に変換され、その後すぐに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35229859.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/0c2fb75b95a4ba0a00e5133ecff9ac27/t/768/432/d/gettyimages-2174133343.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229857.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T09:57:00+09:00</dc:date>
+        <title>人質の遺体か、棺四つがイスラエルに到着　第１段階で最後　</title>
+        <link>https://www.cnn.co.jp/world/35229857.html?ref=rss</link>
+        <description>イスラエル首相府はイスラエル人人質の遺体が納められているとされる棺（ひつぎ）四つがイスラエルに到着したと発表した。イスラエルは今後数時間以内にパレスチナ人の囚人数百人を解放するとみられている。
+
+赤十字は声明で、エジプトの仲介を通じてケレムシャローム検問所でイスラエル国防軍（ＩＤＦ）に棺を引き渡し、イスラエル領内で身元確認が始まったと述べた。
+
+現地時間２７日未明に撮影された映像には、占領下のパレ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229857.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/f715c470bef68522f6583570f5f35a12/t/768/432/d/still-21415941-20663-906-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229855.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T09:28:00+09:00</dc:date>
+        <title>トランプ政権、連邦機関に大規模解雇の実施方法を通達</title>
+        <link>https://www.cnn.co.jp/usa/35229855.html?ref=rss</link>
+        <description>トランプ米政権は２６日、連邦政府機関全体での大規模な解雇を実施する計画を進めるべく新たな措置を講じた。
+
+行政管理予算局（ＯＭＢ）と人事管理局（ＯＰＭ）は、各機関のトップに、人員削減・再編計画の実施方法に関する指針を記したメモを発行した。「大統領の『政府効率化省』人員最適化イニシアチブの実施」と題する大統領令の実施に向けた新たな措置となる。
+
+トランプ政権は連邦政府の運営を精査し、職員を削減するた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229855.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/641929e22db4b8a357ca5eb8aee079b6/t/768/512/d/c-gettyimages-2202118637-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229852.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T07:32:00+09:00</dc:date>
+        <title>ゼレンスキー氏、米との資源協定案は「枠組み」　安全の保証盛り込まれず</title>
+        <link>https://www.cnn.co.jp/world/35229852.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は２６日、同国の天然資源の権益に関する米国との協定案はあくまでも「枠組み」であり、両国の関係についてはトランプ米大統領と直接協議する考えを示した。ＣＮＮが入手した協定案にはウクライナが求めている安全の保証が盛り込まれていない。
+
+トランプ氏はロシアとウクライナの戦争の早期終結と、米国によるウクライナ援助の資金の回収に執着しており、ゼレンスキー氏は天然資源の権益に関す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229852.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/f3c9f56923985f60e9b07c348e001e2b/t/768/432/d/gettyimages-2201472114.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229851.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T07:09:00+09:00</dc:date>
+        <title>トランプ氏、対メキシコ・カナダ関税発動を４月２日に再延期か</title>
+        <link>https://www.cnn.co.jp/usa/35229851.html?ref=rss</link>
+        <description>トランプ米大統領は２６日に開いた初の閣議で、メキシコとカナダへの関税の発動を４月２日に再び延期すると明らかにした。
+
+トランプ氏は先月、米国への不法移民や合成麻薬の流入を理由に、メキシコとカナダからの輸入品に２５％の関税を課す意向を明らかにしていた。今月１日に両国と中国からの輸入品に新たに関税を課す大統領令に署名。その後トランプ氏はメキシコとカナダの首脳と会談し、両国への関税発動を３月４日に延期...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229849.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-27T06:37:00+09:00</dc:date>
+        <title>トランプ氏、自身の黄金像が立つ「未来のガザ」のＡＩ動画を公開</title>
+        <link>https://www.cnn.co.jp/usa/35229849.html?ref=rss</link>
+        <description>トランプ米大統領は２５日夜、パレスチナ自治区ガザ地区を米国が所有してリゾート化する構想を描いた動画を自身のＳＮＳに投稿した。動画は生成ＡＩ（人工知能）を使って制作したとみられ、リゾートにトランプ氏の黄金像が建ち、水着姿のトランプ氏とイスラエルのネタニヤフ首相が浜辺で並んでくつろぐ様子などが描かれている。
+
+動画では陽気な音楽に合わせて「トンネルはもうない。恐怖もない」「トランプ・ガザがついに」と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229849.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/27/839b66a885f202328461a586e1a1ac93/t/768/432/d/trump-gaza-ai-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229846.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T21:00:00+09:00</dc:date>
+        <title>台湾、「中国が近海に実弾射撃区域を設定」と非難</title>
+        <link>https://www.cnn.co.jp/world/35229846.html?ref=rss</link>
+        <description>台湾国防部（国防省）は２６日、中国が事前の予告なしに、台湾南西沖に「実弾射撃訓練」用の区域を設定したと非難した。
+
+国防部の声明によると、台湾海峡の上空で２６日午前９時前、中国軍機３２機が確認された。このうち２２機は台湾北部と南西部付近で、中国軍の艦艇と「共同戦闘即応訓練」を実施した。
+
+声明は、中国が「事前予告なしで高雄と屏東から約４０カイリ（約７４キロ）の海域を一方的に訓練区域と定め、実弾射撃...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229846.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/bdca16c633dea63b67324ec02880a8a8/t/768/432/d/gettyimages-1880770560.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229845.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T20:40:00+09:00</dc:date>
+        <title>医療受けさせず女児死亡、両親含む宗教団体メンバーに最長禁錮１４年　豪</title>
+        <link>https://www.cnn.co.jp/world/35229845.html?ref=rss</link>
+        <description>オーストラリア東部クイーンズランド州で、２０２２年に病死した８歳の女児に必要な医療を受けさせていなかったとして過失致死の有罪判決を受けた両親に対し、裁判所は２６日、禁錮１４年の刑を言い渡した。
+
+女児は１９年に糖尿病の診断を受け、２２年１月にインスリン欠乏の合併症により、同州ブリスベン西郊の自宅で死亡した。５３歳の父親はこの５日前、女児にはもう糖尿病の治療は必要ないと宣言していた。
+
+４９歳の母親...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229845.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/897d3532561ee5199ca713c71822b224/t/768/432/d/untitled-1-20250224075246685.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229844.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T20:09:00+09:00</dc:date>
+        <title>イスラエル、新たな身柄交換に同意　停戦合意の崩壊は当面回避</title>
+        <link>https://www.cnn.co.jp/world/35229844.html?ref=rss</link>
+        <description>イスラエルがイスラム組織ハマスとの停戦合意に基づき、人質とパレスチナ人拘束者の新たな身柄交換に同意したことが、双方の話で明らかになった。停戦合意の崩壊は当面回避された形だ。
+
+イスラエルは、２２日に予定していたパレスチナ人６２０人の釈放を延期。これが停戦合意の行方に影を落としていた。同国の情報筋によると、双方はその後、エジプトの仲介で改めて協議した結果、ハマス側が停戦合意の第１段階で解放を約束し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229844.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/ababfed9ffc211eefa055a07584bb235/t/768/432/d/862574267-rc231da425r9-rtrmadp-3-israel-palestinians-gaza.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35229842.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T19:30:00+09:00</dc:date>
+        <title>クリントン氏はスキャンダル後辞任するべきだった、ルインスキー氏が明言</title>
+        <link>https://www.cnn.co.jp/showbiz/35229842.html?ref=rss</link>
+        <description>モニカ・ルインスキー氏は、クリントン元米大統領が絡んだ一連の出来事を改めて振り返っている。自身にメディアの注目が集まることになった２５年前の出来事を巡って、ルインスキー氏はクリントン氏が当時大統領を辞任するべきだったと語る。
+
+クリントン氏は大統領時代、ホワイトハウスの実習生だったルインスキー氏と性的関係を持ったと報じられた。今回ポッドキャスト番組に出演したルインスキー氏は、この事案をメディアや...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35229842.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/e5fbff7ef435c7a32fb76d2626fb46ea/t/768/495/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTdsNTE5ZTEwMHRqMmJxZDVwd29nbWt2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtN2w1MTllMTAwdG8yYnFkMmxjeWNoeW4=.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229843.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T18:52:00+09:00</dc:date>
+        <title>「世界最大の祭り」が終了、６．２億人が沐浴　インド北部</title>
+        <link>https://www.cnn.co.jp/world/35229843.html?ref=rss</link>
+        <description>インド北部ウッタルプラデシュ州の都市プラヤーグラージ（旧アラハバード）で、先月から開催されていたヒンドゥー教の大祭「マハ・クンブ・メーラー」が、２６日に終了した。
+
+クンブ・メーラーは世界最大級の宗教祭典。３年に１度、４カ所の聖地で順に開かれる。その中でも１２年に１度、プラヤーグラージで開催される大祭がマハ・クンブ・メーラーと呼ばれる。
+
+４５日間に及んだ期間中に、６億２０００万人を超える人が押し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229843.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/d6482e6885ece2f70920c14a786000b6/t/768/432/d/10-gettyimages-2193819359.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229841.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T17:50:00+09:00</dc:date>
+        <title>フライト中に乗客が死亡、遺体の隣に座らされ「本当にショック」　カタール航空便</title>
+        <link>https://www.cnn.co.jp/world/35229841.html?ref=rss</link>
+        <description>カタール航空の旅客機でフライト中に乗客が死亡し、同乗者が客室乗務員の指示で遺体の隣に座らされる出来事があった。この乗客はショックを口にしている。
+
+死亡した女性乗客は豪メルボルンからカタールの首都ドーハに向かう機中、ミッチェル・リングさんとパートナーのジェニファー・コリンさんの隣の通路で崩れ落ちた。２人がＣＮＮ提携局ナインニュースの取材に語った。２人は休暇のためベネチアに向かう途中だった。
+
+リン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229841.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/e914871fc62d2fdb805ef113ec243563/t/768/432/d/gettyimages-2175274094.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229829.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T16:25:00+09:00</dc:date>
+        <title>火星が「赤い理由」を覆す新たな理論、「さび」は３０億年前に発生していた可能性</title>
+        <link>https://www.cnn.co.jp/fringe/35229829.html?ref=rss</link>
+        <description>火星はその象徴的なさび色から、長い間「赤い惑星」と呼ばれてきた。科学者たちは今回、その独特の色の根源となっているものを発見し、一般的な理論を覆した可能性がある。
+
+火星は、地球に近く、過去数十年にわたり多数の探査機が訪れたこともあり、太陽系で特に研究が進んでいる惑星の一つだ。人工衛星や着陸機から得られたデータは、火星の赤色は、この惑星を覆う塵（ちり）の中にあるさびた鉄鉱物に由来していることを示し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229829.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/cb270cbc135ce023c6b276bfae1f31e8/t/768/432/d/near-ir-green-and-near-uv-colour-view-of-mars.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229826.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T15:00:00+09:00</dc:date>
+        <title>米国入り拒まれた移民の一部、船で南米へ引き返す</title>
+        <link>https://www.cnn.co.jp/world/35229826.html?ref=rss</link>
+        <description>米国への到達を断念し、母国の中南米諸国へ引き返す移民が増加している。移民らはパナマから海の経路を使用することから、新たなリスクを生む状況になっていると当局が指摘する。
+
+従来は北米と南米を結ぶ山岳の熱帯雨林地帯「ダリエン地峡」を通過していた移民たちだが、現在はカリブ海に面したパナマの海岸で小型船に乗り、コロンビアへ向けて航行している。
+
+米国のトランプ政権が厳格な政策を施行し、国内の移民の強制送還...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229826.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/59eefe2aedfadb6a3f875d11c27508ab/t/768/432/d/ap25055467978259.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229828.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T14:03:00+09:00</dc:date>
+        <title>米ＤＯＧＥサービスの長官代行、エイミー・グリーソン氏と判明　マスク氏の役割巡り疑問の声</title>
+        <link>https://www.cnn.co.jp/usa/35229828.html?ref=rss</link>
+        <description>米ホワイトハウスの当局者は２５日、ＣＮＮに対し、時限組織の政府効率化省（ＤＯＧＥ）を傘下に収める米ＤＯＧＥサービスの長官代行はエイミー・グリーソン氏だと明らかにした。
+
+ＤＯＧＥを巡っては数週間前から、実業家イーロン・マスク氏の役割と権限に関して疑念の声が上がっていた。今回の発表により、連邦政府の再編を担うマスク氏主導の取り組みの形式上のトップが判明した。
+
+グリーソン氏は医療分野の経歴を持ち、以...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229828.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/7c5544e2c8b29c3e6ac0be954c18f99c/t/768/432/d/amy-gleason-linkedin.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35229825.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T13:17:00+09:00</dc:date>
+        <title>イーロン・マスク氏、年初来７．７兆円失う　それでも世界一の富豪</title>
+        <link>https://www.cnn.co.jp/business/35229825.html?ref=rss</link>
+        <description>米起業家イーロン・マスク氏は今年に入って５２０億ドル（約７兆７０００億円）分の資産を減らしたが、それでも依然として世界一の富豪の地位を維持していることがわかった。ブルームバーグ・ビリオネア指数で明らかになった。
+
+マスク氏が率いる電気自動車（ＥＶ）大手テスラの株価は２５日の市場が閉まる直前に８％下落した。過去１カ月では２０％あまり値を下げていた。テスラの時価総額は２０２４年１１月以降で初めて１兆...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35229825.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/ad2cb6b6469c6d2a764c7398aff5187d/t/768/432/d/gettyimages-2200064982-20250225205148560.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35229822.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T13:06:00+09:00</dc:date>
+        <title>赤ちゃん６人が低体温症で死亡　ガザ</title>
+        <link>https://www.cnn.co.jp/world/35229822.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で２３日以降、赤ちゃん６人が低体温症のために死亡した。ガザの保健当局者が明らかにした。当局者は、より多くの支援物資がガザに搬入されないか限り、こうした死者がさらに増えると警告している。
+
+ガザ北部にあるＰＦＢＳ病院のサイード・サラー博士は、ガザでの冬の状況を乗り切ろうとする際、低体温症に苦しむ赤ちゃんの数が増加しているという「災害」について警告した。
+
+サラー氏によれば、過...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35229822.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/296289732708931867c5507560b10a9d/t/768/540/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTdsMm14d3QwMHExMmNwMWZ2bDJlaXQx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtN2wybXh3dDAwcTYyY3AxMDEzd2gzbnA=thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35229819.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T12:44:00+09:00</dc:date>
+        <title>米大統領取材の報道陣は「ホワイトハウスが決める」　記者会反発「まるでプーチン」</title>
+        <link>https://www.cnn.co.jp/usa/35229819.html?ref=rss</link>
+        <description>米ホワイトハウスが、大統領の代表取材を担当する記者を選ぶ役割をホワイトハウス記者会から剥奪（はくだつ）した。今後、大統領の同行取材に加わる記者やカメラマンはホワイトハウスが選別する。
+
+代表取材は大統領専用機「エアフォースワン」やホワイトハウスの大統領執務室といった場所で行われ、テレビや印刷媒体、ラジオ、通信社の記者やカメラマンが交代で担当。取材した内容は電子メールで加盟各社に伝えられている。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35229819.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/511e2211d275185fccd3304830d447c2/t/768/512/d/gettyimages-2196569329-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35229815.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-02-26T12:20:00+09:00</dc:date>
+        <title>新系統のコロナウイルス、武漢の研究所が発見　現時点で公衆衛生上の懸念なし</title>
+        <link>https://www.cnn.co.jp/fringe/35229815.html?ref=rss</link>
+        <description>中国・武漢のウイルス研究所が、コウモリから新系統のコロナウイルスを発見したと発表した。新型コロナウイルス感染症（ＣＯＶＩＤ―１９）を引き起こしたウイルス「ＳＡＲＳ―ＣｏＶ―２」と同じように人間の細胞に侵入する可能性があるとされる。ただし現時点で公衆衛生が脅かされる状況ではないと専門家は指摘している。
+
+新系統のコロナウイルス「ＨＫＵ５―ＣｏＶ―２」はＳＡＲＳ―ＣｏＶ―２と同様に、細胞の表面に存在する受容...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35229815.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/26/cb25c24ba6b7b557f3429c191b2a4424/t/768/432/d/gettyimages-583855512.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
