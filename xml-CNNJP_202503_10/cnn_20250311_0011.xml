@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-03-11T07:38:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35230302.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230301.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230294.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230295.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230293.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35230290.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230288.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230281.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230277.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230275.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230274.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230271.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230270.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230265.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230263.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230259.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230258.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230254.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230253.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35230249.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230252.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230251.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230250.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230248.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230246.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230244.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35230245.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230243.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230242.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230236.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/business/35230302.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T07:38:00+09:00</dc:date>
+        <title>米国株大崩れ、ＮＹダウは８９０ドル安　トランプ氏は景気後退を排除せず</title>
+        <link>https://www.cnn.co.jp/business/35230302.html?ref=rss</link>
+        <description>１０日の米株式市場ではトランプ大統領の経済政策に対する懸念から売りが広がった。米国株が急落したほか、暗号資産（仮想通貨）ビットコインも下落し、ウォール街の恐怖指数は今年に入って最も高い水準に達した。
+
+相場の大崩れは早い時間帯から始まり、主要３指数はいずれも大幅安でスタート。米国株は終日下落し、午後に短時間反発したものの終値はマイナスに沈んだ。
+
+ダウ工業株平均は８９０ポイント（２．０８％）下落し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35230302.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/96879ce1d4f5eb9c0a366af5de8b57f3/t/768/432/d/gettyimages-2203810269.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230301.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T07:29:00+09:00</dc:date>
+        <title>カナダ州首相、米国向け電力の「完全遮断」示唆　貿易戦争激化なら</title>
+        <link>https://www.cnn.co.jp/world/35230301.html?ref=rss</link>
+        <description>カナダ・オンタリオ州のフォード州首相は記者会見で、米国の３州に輸出する電力に対し２５％の割増料金を適用する措置を１０日から実施すると発表した。また米国がカナダからの輸入品に対して追加関税を課すなら、米国への電力供給を停止すると警告した。
+
+トランプ米大統領はカナダとメキシコからの大半の輸入品に対して２５％の関税をかける措置を延期しているが、カナダ側は米国への厳しい報復措置を止めない構えを示した形...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230301.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/b877d81158fd38270a326e5bf374f697/t/768/432/d/ap25063653939681.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230294.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T18:00:00+09:00</dc:date>
+        <title>イッカク、長い牙を遊びに使用か　証拠動画を初めて撮影</title>
+        <link>https://www.cnn.co.jp/fringe/35230294.html?ref=rss</link>
+        <description>北極海に生息する哺乳類のイッカクをめぐり、イッカクが牙を使うのは、餌を食べる際に魚を攻撃したり操ったりするためだけでなく、遊び心を示すような行動を取る際にも牙を使っていることを示す初めての証拠映像が撮影された。
+
+イッカクはその特徴的な牙から「海の一角獣」とも呼ばれるが、その生態などには謎も多い。
+
+イッカクが自然界でどのような交流を行っているのかについては観察例が少なく、その特徴的な牙をめぐって...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230294.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/1bc018a8ef7e7f9c02928c417ed52c45/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTd4dGx1b2cwMGFuMmRubmFtdmI0NWdp-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtN3h0bHVvaDAwYXMyZG5uaG1idWd1Zmc=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230295.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T17:35:00+09:00</dc:date>
+        <title>トランプ氏の過激なメッセージを体現するかのようなバンス副大統領、どこまで上りつめるのか</title>
+        <link>https://www.cnn.co.jp/usa/35230295.html?ref=rss</link>
+        <description>Ｊ・Ｄ・バンス氏は、従来の米国の副大統領像とは異なる存在だ。
+
+ワシントンの裏側で暗躍するマキャベリ的な権謀家、ディック・チェイニー氏のようでもなければ、ジョージ・Ｈ・Ｗ・ブッシュ氏やジョー・バイデン氏のように外交面で信頼できるタイプでもない。
+
+若々しいバンス氏はむしろ、上司であるトランプ大統領がＳＮＳで発する過激なメッセージを体現しているかのようだ。先月末に行われたホワイトハウスでの会談ではウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230295.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/24fd9a6aa4b55c753bcfaa2766ed2865/t/768/512/d/gettyimages-2201795819.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230293.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T16:31:00+09:00</dc:date>
+        <title>ピアース・ブロスナン、アマゾンＭＧＭにジェームズ・ボンドへの「敬意」求める</title>
+        <link>https://www.cnn.co.jp/showbiz/35230293.html?ref=rss</link>
+        <description>米アマゾンＭＧＭスタジオによる「ジェームズ・ボンド」の映画シリーズ制作をめぐり、俳優のピアース・ブロスナンはアマゾンＭＧＭに対し、「敬意」と「尊厳」を持って取り組んでほしいと語った。
+
+アマゾンＭＧＭは先月、３０年あまりにわたって同映画シリーズの制作を監督していたマイケル・ウィルソン氏とバーバラ・ブロッコリ氏の両プロデューサーが共同オーナーとしてシリーズに携わるものの、クリエーティブ面については...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230293.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/a89c3a327aa62c1b4f746387c6bf444e/t/768/432/d/gettyimages-125376270.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35230290.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T15:52:00+09:00</dc:date>
+        <title>加ビール醸造所、１４６１缶入りの特別パック発売　次の４年を乗り切るため</title>
+        <link>https://www.cnn.co.jp/business/35230290.html?ref=rss</link>
+        <description>カナダの老舗ビール醸造所がこのほど、１４６１缶入りの「プレジデンシャル・パック」の発売を開始した。隣国である米国との緊張が高まるなか、カナダの人々がこれを乗り切るには毎日のビールが必要となるかもしれないと考えたためだ。
+
+ムースヘッド・ブルワリーズの創業は１８６７年と、カナダの建国と同じ年。ムースヘッド・ブルワリーズは７日、１４６１缶入りの巨大な木箱を発売した。１日あたり１缶のビールを消費する想...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35230290.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/1c9d0b2186dbc4898e5f54d3cd67369e/t/768/432/d/moosehead-breweries-moosehead-breweries-introduces-the-president.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230288.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T15:18:00+09:00</dc:date>
+        <title>シリア政権派の武装集団が少数派住民を大量殺害、目撃証言や映像浮上</title>
+        <link>https://www.cnn.co.jp/world/35230288.html?ref=rss</link>
+        <description>ＳＮＳに投稿された映像や目撃者の証言によると、シリア新政権を支持する勢力が、少数派アラウィ派の住民を集団で処刑して国家の浄化を口にしている。昨年のアサド政権崩壊以降、最悪の衝突は、アサド派に対する弾圧が集団殺りくに発展する様相を見せつけた。
+
+アラウィ派の住民が多数を占める西部ラタキア県やタルトゥス県の集落は６日、武装集団に襲撃された。シリア当局は、アサド派の武装勢力の蜂起を鎮圧しようとする試み...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230288.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/9cd16403f3317747b02d34d3358c4dd0/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTgxczc4a3YwMDAzM2I2bTJ0dGVpeDhx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtODFzNHlkazAwMXAyNm50MTc0MTZweWg=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230281.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T13:23:00+09:00</dc:date>
+        <title>米下院議長がつなぎ予算案を公表、政府機関の閉鎖回避へ　民主党は反対姿勢</title>
+        <link>https://www.cnn.co.jp/usa/35230281.html?ref=rss</link>
+        <description>米共和党のジョンソン下院議長は８日、政府機関の一部閉鎖の回避に向け、９月３０日までのつなぎ予算案を公表した。現在のつなぎ予算は今月１４日に期限切れが迫っている。今回のつなぎ予算案は、政府機関の閉鎖を回避して、トランプ大統領と共和党指導部がトランプ氏の掲げる政策の主要部分について、この夏の議会で審議を行う時間を稼ぐことを目指している。
+
+共和党指導部の側近は今回のつなぎ予算案について、党派的な政策...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230281.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/566e80f151e5861c457ae01ab2903544/t/768/512/d/c-gettyimages-2202745366.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230277.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T12:43:00+09:00</dc:date>
+        <title>ルクセンブルクのフレデリック王子死去、２０代　難病で長年の闘病</title>
+        <link>https://www.cnn.co.jp/world/35230277.html?ref=rss</link>
+        <description>ルクセンブルク大公国のフレデリック王子が、「ＰＯＬＧ」と呼ばれる難病で長年の闘病の末、今月１日にパリで死去した。王子が２０２２年に創設したＰＯＬＧ財団のウェブサイトで遺族が発表した。
+
+父のロベール王子は、「私たちの息子、ＰＯＬＧ財団創設者でクリエーティブディレクターのフレデリックが亡くなりました」と記している。
+
+同財団によると、ＰＯＬＧは「遺伝的なミトコンドリアの障害で体の細胞のエネルギーが奪...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230277.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/549c9e5bf9056c2d431a701edffb5905/t/768/432/d/img-0298-1024x763.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230275.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T12:27:00+09:00</dc:date>
+        <title>米ホワイトハウス付近に銃を持った男、シークレットサービスが発砲</title>
+        <link>https://www.cnn.co.jp/usa/35230275.html?ref=rss</link>
+        <description>米シークレットサービス（大統領警護隊）は９日、首都ワシントンのホワイトハウス付近で同日午前、銃を持った男に隊員が発砲したと発表した。
+
+当時ホワイトハウスにドナルド・トランプ大統領は不在だった。
+
+発表によると、自殺しそうな人物がインディアナ州からワシントンに向かっているとの情報が入り、警護隊員がホワイトハウス近くでその特徴に一致する男と、駐車してある車を発見した。
+
+隊員が近づくと男が銃を振りかざ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230275.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/ac20fd323fc08728855aa677ac752ebc/t/768/432/d/thumbnail-whitehouse.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230274.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T11:39:00+09:00</dc:date>
+        <title>イスラエル、ガザへの電力供給を停止　人質解放へ向けて圧力</title>
+        <link>https://www.cnn.co.jp/world/35230274.html?ref=rss</link>
+        <description>イスラエルは１０日までに、イスラエル電力公社（ＩＥＣ）からまだ電力供給を受けていたパレスチナ自治区ガザ地区の最後の施設に対する電力供給を停止したと明らかにした。
+
+イスラエルのコーヘン・エネルギー相は声明で、ガザへの電力供給を停止するよう指示したと明らかにした。同相は、イスラエルが人質全員の帰還を確実にするため、利用できるあらゆる手段を行使すると言い添えた。
+
+イスラエルは、２０２３年１０月に起き...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230274.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/cbce1934510b3c45352b752dbfb7c33d/t/768/432/d/gettyimages-2202670801.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230271.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T11:24:00+09:00</dc:date>
+        <title>米、週内にもロシア・ウクライナとサウジで個別会談</title>
+        <link>https://www.cnn.co.jp/usa/35230271.html?ref=rss</link>
+        <description>トランプ米政権の高官が週内にも、サウジアラビアで、ロシアとウクライナの当局者と個別に会談することが分かった。この予定に詳しい情報筋が明らかにした。トランプ政権が両国間の合意を目指す中、再びきわめて重要な会談が開かれることとなる。
+
+情報筋は、会談の出席者について明らかにしなかった。
+
+トランプ大統領は９日、記者団に対し会談について触れ、「知っての通り、サウジアラビアで大きな会談がある。ロシアも参加...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230270.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T11:14:00+09:00</dc:date>
+        <title>クルスク州でロシア軍が前進、ウクライナの交渉カードは危機的状況に</title>
+        <link>https://www.cnn.co.jp/world/35230270.html?ref=rss</link>
+        <description>ウクライナ軍が越境攻撃を行ったロシア西部クルスク州で、ロシア軍が前進を続けており、同地に展開するウクライナ軍の状況が急速に悪化している。戦況の正念場を迎えるなか、ウクライナ側が唯一得ている領土面での交渉材料が脅かされている。
+
+両国の軍事ブロガーはウクライナ軍が劣勢に立たされていると指摘する。ウクライナ軍によれば、ロシア軍はガスパイプラインを利用して一部地域で奇襲攻撃を仕掛けた。ロシア国防省は９...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230270.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/14c86581ce64fbd0407f12fb3c68f895/t/768/432/d/ap24230288872851.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230265.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T11:03:00+09:00</dc:date>
+        <title>カナダ与党党首選、カーニー氏が勝利　米政権との対決姿勢を維持</title>
+        <link>https://www.cnn.co.jp/world/35230265.html?ref=rss</link>
+        <description>カナダの与党・自由党は９日、ジャスティン・トルドー首相の後任となる党首に、マーク・カーニー氏を選出した。カーニー氏はカナダ銀行（中央銀行）やイングランド銀行（英中央銀行）で総裁を務めた経歴を持つ。
+
+カナダでは今年、１０月までに総選挙が行われる予定となっており、カーニー氏は、総選挙で自由党を率いて野党・保守党と対決するとみられる。現在の世論調査では保守党がリードしており、選挙戦は厳しいものとなる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230265.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/7c81d5a9e77eb8d5f8ac32e96f508b99/t/768/432/d/still-21444289-8730-807-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230263.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T10:26:00+09:00</dc:date>
+        <title>小型機が駐車場に墜落、搭乗の５人を病院搬送　米ペンシルベニア州</title>
+        <link>https://www.cnn.co.jp/usa/35230263.html?ref=rss</link>
+        <description>米ペンシルベニア州ランカスター郡で９日、高齢者向け集合住宅の駐車場に小型機が墜落し、搭乗していた５人が負傷した。
+
+同州マンハイムタウンシップ消防局の９日の記者会見によると、現地時間の同日午後３時１８分ごろ、ビーチクラフトの単発機ボナンザが高齢者向け集合住宅の敷地内に墜落し、搭乗していた５人が近くの病院に運ばれた。
+
+駐車場の車も十数台が破損。うち５台は損傷が激しかった。集合住宅の建物に構造的な被...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230263.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/6039493f7dfec4e34055a351e83c856a/t/768/432/d/still-21444062-18244-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230259.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T09:45:00+09:00</dc:date>
+        <title>パレスチナの旗とともに時計塔に登る、男を逮捕　英ロンドン</title>
+        <link>https://www.cnn.co.jp/world/35230259.html?ref=rss</link>
+        <description>英国の警察は９日、英首都ロンドンの観光名所の時計塔「ビッグベン」にパレスチナの旗とともに登った男を逮捕したと明らかにした。
+
+男は裸足で全身黒ずくめの格好をしていた。消防隊が男と会話を試みようとする間、数時間にわたってビッグベンの側面にしがみついていた。
+
+警察によれば、今回の事案の影響でウェストミンスター橋は両方向とも通行止めとなり、大勢の人々が広場に集まって男の様子を眺めた。
+
+ロンドン警視庁に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230259.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/712615e105a943f9468f81e7995e32e0/t/768/432/d/gettyimages-2203340398.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230258.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-10T09:14:00+09:00</dc:date>
+        <title>着陸船「アテナ」のミッション終了、月面で横転</title>
+        <link>https://www.cnn.co.jp/fringe/35230258.html?ref=rss</link>
+        <description>米宇宙企業インテュイティブ・マシーンズは、無人月着陸船「アテナ」について、ミッションを終了し、電源を落としたと発表した。アテナは月の南極で水を捜索するという歴史的なミッションに取り組む予定だったが実現しなかった。
+
+インテュイティブ・マシーンズは７日にミッションの終了を発表した。アテナは前日の６日に月面に着陸していた。
+
+しかし、アテナが電源を落とす前に撮影した画像からは、アテナが月面で横転してい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230258.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/10/e34512c2d4e6b2508e4f57d104440b37/t/768/432/d/6bf7a3-35806e98a6c840f192376433159c2fa9-mv2-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230254.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-09T17:00:00+09:00</dc:date>
+        <title>城の地下に隠された通路発見、ダビンチが１４００年代に描いたトンネルか　イタリア</title>
+        <link>https://www.cnn.co.jp/fringe/35230254.html?ref=rss</link>
+        <description>イタリアの巨匠レオナルド・ダビンチといえば芸術と科学の天才として有名だ。しかし同時に軍の構造物や防衛システムのエキスパートでもあり、その設計や発明によってルネサンス期の戦争戦略に新境地を切り開いた。
+
+ミラノにある中世の城の地下でこのほど、隠された通路が見つかった。それまではダビンチが１４９５年ごろ描いたスケッチなどの歴史資料をもとに、推測の域を出なかった構造だった。地下トンネルには、城の防衛を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230254.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/09/fac2907a71e1060e715b36b93a2f6057/t/768/432/d/001-gettyimages-944638812.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230253.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-09T16:00:00+09:00</dc:date>
+        <title>イラン最高指導者、「いじめ国家」との交渉を拒否　トランプ氏名指しはせず</title>
+        <link>https://www.cnn.co.jp/world/35230253.html?ref=rss</link>
+        <description>イランの最高指導者、ハメネイ師は８日、「いじめ国家」の要求には応じないと述べ、交渉を拒否する方針を示した。トランプ米大統領は先日、同師に核開発をめぐる交渉に応じるよう呼び掛ける書簡を送ったと述べていた。
+
+トランプ氏はＦＯＸニュースとのインタビューでハメネイ師に書簡を送ったことを明かし、「イランには軍事的に対応するか、取引をするかの２通りがある。イランを傷つけるつもりはないので、取引のほうがいい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230253.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/09/6d7c906d98704fb1f9c3e40fb7e5d0b8/t/768/432/d/-3-usa-iran-trump-khamenei.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35230249.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-09T15:00:00+09:00</dc:date>
+        <title>バスケ界のレジェンド２人、ＮＢＡデビューで着用のユニホームが競売に　各１５億円で落札か</title>
+        <link>https://www.cnn.co.jp/style/luxury/35230249.html?ref=rss</link>
+        <description>マイケル・ジョーダンとコービー・ブライアントが米プロバスケットボール（ＮＢＡ）のデビュー戦で着用したユニホームが、今春競売にかけられる。
+
+バスケ界のレジェンド２人による「下積みからの第一歩」を象徴するこれらのユニホームは、２着合わせて２０００万ドル（約２９億６０００万円）で落札されることが見込まれる。オークションを手掛けるサザビーズが報道向け発表で明らかにした。それぞれのユニホームの予想落札価...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35230249.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/08/4a9516e538971c436abc294dbffc6986/t/768/432/d/michael-jordan-and-kobe-bryant-s-first-nba-jerseys-crop.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230252.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-09T13:32:00+09:00</dc:date>
+        <title>コスト削減のマスク氏、民主党広告の新たな「スター」に</title>
+        <link>https://www.cnn.co.jp/usa/35230252.html?ref=rss</link>
+        <description>米国で展開される民主党系の政治広告に、トランプ米政権で予算削減に大なたを振るう起業家イーロン・マスク氏が、批判の標的として盛んに登場している。
+
+民主党の主要な外郭団体のひとつ「ハウス・マジョリティ・フォワード」は最近、二十数カ所での下院選に向けた広告を打ち出した。現職の共和党議員らが子どもや高齢者向け医療の予算を削減し、マスク氏のような富裕層を優遇しようとしていると批判する内容だ。
+
+ここに使わ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230252.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/09/ef749ae6b979685d8b280a5355dc11dc/t/768/512/d/elon-musk.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230251.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-09T11:44:00+09:00</dc:date>
+        <title>トランプ氏所有のゴルフ場に落書き、親パレスチナ団体が認める　スコットランド</title>
+        <link>https://www.cnn.co.jp/world/35230251.html?ref=rss</link>
+        <description>英北部スコットランドにあるトランプ米大統領所有のゴルフ場「トランプ・ターンベリー」でパレスチナ自治区ガザ地区をめぐる落書きなどの被害が見つかり、親パレスチナ団体が行為を認めた。
+
+ゴルフ場の芝生に塗料で「ガザは売り物でない」という文字が書かれ、全英オープンのコースにも使われたホールなどが掘り返された。
+
+英国を拠点とする親パレスチナ団体「パレスチナ・アクション」は、トランプ政権のガザ再建計画に直接...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230251.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/09/bb0e6dfb0d6db68b56ea3f047512d001/t/768/512/d/pal-turn-08-03-25-imd-semi-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230250.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-09T10:20:00+09:00</dc:date>
+        <title>ウクライナ東部で１１人死亡　「ロシアの狙いは変わらず」とゼレンスキー氏</title>
+        <link>https://www.cnn.co.jp/world/35230250.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は８日、東部ドネツク州ドブロピルリャに対するロシア軍のミサイル攻撃で１１人が死亡したと発表し、「ロシア側の狙いは変わっていないことが示された」と述べた。
+
+ゼレンスキー氏によると、７日夜から８日朝にかけての攻撃では、さらに子ども５人を含む３０人あまりが負傷した。
+
+被害を受けた地区では住宅少なくとも８棟が損傷。当局は、ほかにもがれきの下に閉じ込められた人がいる可能性を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230250.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/09/17dfcca5a4335c893452a3c1906736f3/t/768/432/d/3-ukraine-crisis-attack-dobropillia.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230248.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-08T19:28:00+09:00</dc:date>
+        <title>韓国の尹大統領が釈放、検察は勾留取り消しに抗告せず</title>
+        <link>https://www.cnn.co.jp/world/35230248.html?ref=rss</link>
+        <description>戒厳令を宣布後に国会から弾劾（だんがい）訴追された韓国の尹錫悦（ユンソンニョル）大統領が８日、勾留先の拘置所から釈放された。検察が裁判所の勾留取り消しの判断に抗告しない方針を決めたことを受けた措置。
+
+尹氏は拘置所を歩いて出る際、韓国と米国の国旗を振りながら歓声を上げる支持者に一礼する姿が確認された。
+
+ソウル中央地裁が７日、技術的、法的根拠に基づき拘束令状を取り消したことを受け、尹氏の釈放が実現...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230248.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/08/c68eccf0b0f46a39615d42ee3cf1a9a8/t/768/432/d/2025-03-08t090010z-1118050773-rc2x8dafn1if-rtrmadp-3-southkorea-politics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230246.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-08T18:30:00+09:00</dc:date>
+        <title>遺伝子改変したブタの腎臓移植に成功、「異種移植」大きな前進　米</title>
+        <link>https://www.cnn.co.jp/fringe/35230246.html?ref=rss</link>
+        <description>６６歳のティム・アンドリュースさんにとって、それは生死に関わる問題だった。
+
+アンドリュースさんは、末期の腎疾患のため、約２年にわたり透析を受けた。腎移植の待機リストに登録されていたが、アンドリュースさんの血液型が原因でドナー（臓器提供者）探しは困難を極めた。
+
+腎移植の平均待機期間は、大半の医療センターで３～５年だが、血液型がＯ型の人の場合は、移植までの待機期間が１０年に及ぶこともあることが複数...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230246.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/08/db84fb2b494deb6f5686695c0a01bd62/t/768/432/d/20250125-kaf-transplant-007.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230244.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-08T18:00:00+09:00</dc:date>
+        <title>１５０万年前の骨角器一群、考古学者が発見　タンザニア</title>
+        <link>https://www.cnn.co.jp/fringe/35230244.html?ref=rss</link>
+        <description>考古学者らがタンザニアの北部で骨角器の一群を発見した。太古の人類の祖先が１５０万年に成形したもので、これまで知られる最古の骨角器より約１００万年古い。新たな研究で明らかになった。
+
+過去に発掘された最も古い石器は少なくとも３３０万年前のもの。これに対し骨角器で最も古いのは欧州で見つかった２５万～５０万年前のものと考えられていた。
+
+今回見つかったのは四肢骨の骨片２７点。ほとんどはカバとゾウの骨で、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230244.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/08/36f0d61c247fb3e1eda3ac29994019d2/t/768/432/d/bone-tools-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35230245.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-08T17:00:00+09:00</dc:date>
+        <title>「９日間の女王」、悲運の少女ジェーン・グレイの生前唯一の肖像画か　英</title>
+        <link>https://www.cnn.co.jp/style/arts/35230245.html?ref=rss</link>
+        <description>１０代の若さで英チューダー王朝の権力闘争に翻弄（ほんろう）され、イングランドをわずか９日間統治したのち、大逆罪で処刑されたジェーン・グレイ。研究者はいま、そんな「９日間の女王」の生前に描かれた唯一の肖像画を突き止めた可能性があると見ている。
+
+イングランドでは１５５３年のエドワード６世死去後、良心に欠ける政治家たちが熱心なプロテスタントだった若いジェーンを王位に就けた。カトリック教徒のメアリー・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35230245.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/08/a4e59ed2e42507eef77307a972ba352e/t/768/512/d/ison-250227-eh-6691.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230243.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-08T14:30:00+09:00</dc:date>
+        <title>米南部で銃殺による死刑執行、２０１０年以来　薬物注射と電気椅子を拒否</title>
+        <link>https://www.cnn.co.jp/usa/35230243.html?ref=rss</link>
+        <description>米南部サウスカロライナ州の矯正当局は７日、２人を殺害した罪で有罪判決を受けたブラッド・シグモン死刑囚（６７）の刑が銃殺隊によって執行されたと明らかにした。米国で銃殺による死刑が執行されるのは２０１０年以来。
+
+米非営利団体「死刑情報センター」によると、１９７６年に死刑制度が復活して以降、銃殺による執行は全米で４例目となる。
+
+シグモン死刑囚は薬物注射や電気椅子ではなく、銃殺による執行を選択した。７...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230243.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/08/606f60f1e89633f196dbe2b14bde59aa/t/768/432/d/bradsigmon.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230242.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-08T13:50:00+09:00</dc:date>
+        <title>シリアで武力衝突、２００人超死亡と人権団体　アサド政権崩壊後で最悪</title>
+        <link>https://www.cnn.co.jp/world/35230242.html?ref=rss</link>
+        <description>シリアで昨年の政権移行後最悪となる武力衝突が発生し、数百人が死傷した。人権監視団体が明らかにした。
+
+アサド前大統領の支持者らと治安部隊による衝突が６日、地中海沿岸のラタキア、タルトゥス両県で発生した。これらの地域ではイスラム教シーア派の分派とされるアラウィ派がアサド氏を強く支持していた。過去３カ月間には宗派の対立による暴力も複数発生している。
+
+６日以降の衝突で、これまで２２５人以上が死亡した。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230242.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/08/9571f216a98c1ef5b595c884b06ec65b/t/768/432/d/02-gettyimages-2203158263.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230236.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-08T13:00:00+09:00</dc:date>
+        <title>まるで咲き誇る大輪の花　地球温暖化の可視化画像が示す憂慮すべき実態</title>
+        <link>https://www.cnn.co.jp/fringe/35230236.html?ref=rss</link>
+        <description>気候科学者のジーク・ハウスファーザー氏が作成した最新の可視化画像は、春に咲き誇る大輪の花さながらの美しさだ。しかしその意味するところは、温暖化に歯止めがかからない地球の憂慮すべき実態に他ならない。
+
+画像は１９４０年から２０２４年末の間に地球の日々の気温が化石燃料の大量使用開始以前の時代と比べて何度上昇したかを円形の図で示している。１月から１２月までの日付を円周で、各日付の上昇幅を円の中心からの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230236.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/07/144eb7fe9ad4dea449f798de5c3ad03d/t/768/432/d/xscreenshot-2025-03-06-at-20-47-45.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
