@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-03-12T16:38:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230403.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230405.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230404.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230380.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230385.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230376.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230378.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230373.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230371.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230366.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230363.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230361.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230359.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230356.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230355.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230350.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230349.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230348.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230346.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230347.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35230333.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230345.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230342.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230330.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230328.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230323.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230320.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230322.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230321.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35230318.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35230403.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T16:38:00+09:00</dc:date>
+        <title>ロシアは「あらゆるカードを保有」と発言していたトランプ氏、ウクライナ停戦案でプーチン氏のはったり見破ったか</title>
+        <link>https://www.cnn.co.jp/world/35230403.html?ref=rss</link>
+        <description>米国が提案した３０日間の停戦案にウクライナが署名したことで、ロシアは、一時的だとしてもウクライナ戦争を終わらせるというトランプ米大統領の計画を受け入れるかどうかを決断しなければならないという圧力にさらされている。
+
+ロシア当局は「今後数日以内」に米国の代表団と接触すると示唆しているが、１１日にサウジアラビアで行われた米ウクライナ間の会談で示された停戦条件については言及していない。
+
+ロシアにとって...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230403.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/be66a79eedc39d3c295369aa93fe1987/t/768/620/d/gettyimages-2188923482.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230405.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T16:30:00+09:00</dc:date>
+        <title>米下院、つなぎ予算案を可決　期限迫るなか共和党の勝利</title>
+        <link>https://www.cnn.co.jp/usa/35230405.html?ref=rss</link>
+        <description>米下院は１１日、政府機関閉鎖を回避するためのつなぎ予算案を賛成多数で可決した。ジョンソン下院議長（共和党）としては、反対派を押し切り、トランプ大統領が支持する秋までの予算案の可決に成功した形だ。共和党は１４日深夜に現行の予算が失効して政府機関が閉鎖するのを回避しようと奔走している。
+
+つなぎ予算案は賛成２１７対２１３の賛成多数で可決した。予算案は上院に送られる。上院の民主党に対しては、この予算案...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230405.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/4653bfb1f4bca5b80bfcc79483af9873/t/768/432/d/c-gettyimages-2203956891.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230404.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T16:15:00+09:00</dc:date>
+        <title>イーロン・マスク氏、連邦給付金は「大きな削減対象」　社会保障削減の懸念の中</title>
+        <link>https://www.cnn.co.jp/usa/35230404.html?ref=rss</link>
+        <description>米実業家イーロン・マスク氏は１０日、給付金プログラムに対する連邦支出を強調した。マスク氏のこの発言は、社会保障やメディケア（高齢者向け医療保険）、メディケイド（低所得者向け医療保険）の削減が懸念される中、同氏が連邦政府の規模縮小に注力していることを示す最新の兆候だ。
+
+同氏は１０日、ＦＯＸビジネスのインタビューで「連邦支出の大半は給付金だ。だからこそ大きな削減対象だ」と語り、その額はおよそ５００...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230404.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/ad8e5dd43690111efc7f45df49be2218/t/768/432/d/ap25064730767530.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230380.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T13:18:00+09:00</dc:date>
+        <title>太古の巨大ザメ「メガロドン」、従来の想定よりさらに長かった可能性　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35230380.html?ref=rss</link>
+        <description>太古の海を支配していた巨大ザメ「メガロドン」。実際の大きさがどの程度だったかは謎に包まれているが、従来の想定よりもさらに体長が長かった可能性があるとの研究結果がこのほど発表された。
+
+古生物学者の島田賢舟氏は子どもの頃から、メガロドンを含むサメの化石に魅了されてきた。最初にメガロドンの歯を発見したのは１３歳の時だ。このため、２０１８年のヒット映画「ＭＥＧ　ザ・モンスター」を見た時、島田氏は何かが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230380.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/b3cf2d2c02a52b6e9c81f88463e46640/t/768/432/d/illustrationforpressrelease-revisedmegalodonbiology-embargod-until-10-march-2025-1201am-gmt.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230385.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T12:46:00+09:00</dc:date>
+        <title>ＮＦＬ王者イーグルス、ホワイトハウスからの招待受諾　１８年優勝時は訪問せず</title>
+        <link>https://www.cnn.co.jp/showbiz/35230385.html?ref=rss</link>
+        <description>米プロフットボールＮＦＬの王者フィラデルフィア・イーグルスが、年間王者を決める「スーパーボウル」での勝利を記念したホワイトハウスでの祝賀行事への招待を正式に受諾したことがわかった。チームの広報担当が１１日、ＣＮＮに確認した。
+
+広報担当は、チームが現在、首都ワシントン訪問の日程や移動について調整を行っていると述べた。
+
+ホワイトハウスのレビット報道官は１１日、イーグルスによるホワイトハウス訪問は４...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230385.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/35d22d2084f8a9890553655c9256651f/t/768/432/d/25-33-32-01-gettyimages-2198618919.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230376.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T12:30:00+09:00</dc:date>
+        <title>米大学で抗議デモに参加の学生、国土安全保障省が身元特定　パレスチナ人学生逮捕に続き</title>
+        <link>https://www.cnn.co.jp/usa/35230376.html?ref=rss</link>
+        <description>昨年、全米の大学に広がったイスラエルとイスラム組織ハマスの戦争に対する抗議デモをめぐり、トランプ米政権は１１日、国土安全保障省（ＤＨＳ）が収集した情報を使ってデモの参加者を突き止めると発表した。コロンビア大学で行われたデモをめぐっては、数日前にパレスチナ人の大学院生が連邦当局に拘束されている。
+
+ホワイトハウスのキャロライン・レビット報道官は１１日の記者会見で、ＤＨＳについて「我が国のカレッジや...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230376.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/c84a66fda15ae5008aeb92ebfca5cfd0/t/768/432/d/gettyimages-1246019280-20250311204917761.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230378.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T12:00:00+09:00</dc:date>
+        <title>マラドーナ氏の死巡る裁判始まる　ユニホーム姿のファンが裁判所に集結</title>
+        <link>https://www.cnn.co.jp/showbiz/35230378.html?ref=rss</link>
+        <description>裁判所でサッカーの歌が鳴り響く。歌うのはアルゼンチン代表のユニホームを着たサポーターたち。背番号は１０番だ。
+
+かつての栄光の日々と同じように、彼らは「マラドーナ」の名を繰り返し唱えては涙を流す。しかし今流れているのは、喜びではなく悲しみの涙だ。
+
+往年のスター選手、ディエゴ・アルマンド・マラドーナ氏の死を巡る裁判は１１日、このような雰囲気の中で始まった。本人の死から４年。裁判はこれまで２度にわた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230378.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/9aeabb56173d272863ed29a0279cba33/t/768/432/d/nd3j4niovih5ss8ujqc0.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230373.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T11:36:00+09:00</dc:date>
+        <title>米教育省、職員のほぼ半数を削減　完全廃止に向けた第一歩</title>
+        <link>https://www.cnn.co.jp/usa/35230373.html?ref=rss</link>
+        <description>米教育省が職員の約５０％を削減する。同省高官が明らかにした。ドナルド・トランプ大統領は教育省の廃止を提案している。
+
+教育省では自主的に早期退職する職員に加え、１１日夜から数百人の解雇が始まる。これによっておよそ４１００人いた職員は半分に減る。
+
+リンダ・マクマホン教育長官は職員の削減について「効率性や説明責任に力を入れる教育省の姿勢の表れであり、最も重視すべき生徒、保護者、教員に資源を振り向ける...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230373.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/ce2a64d42f48b477dff54cd47c1aaab3/t/768/432/d/gettyimages-1228094273.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230371.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T10:53:00+09:00</dc:date>
+        <title>１３２年前の沈没船、北米スペリオル湖で発見</title>
+        <link>https://www.cnn.co.jp/fringe/35230371.html?ref=rss</link>
+        <description>北米のスペリオル湖で１３２年前に沈んだ船の残骸が見つかった。
+
+北米五大湖の沈没船の歴史に関する活動を行う団体によると、残骸は「ウェスタンリザーブ号」のもの。同船は船体全てが鋼鉄で作られた貨物船として五大湖を航行した最初の船の１隻だった。
+
+上記の団体は最新のソナー技術を駆使し、湖面から１８０メートルの深さに位置する残骸を発見した。船体は二つに断裂していた。
+
+１８９２年８月、ウェスタンリザーブ号は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230371.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/2120eb4a3c040dc526c9dfbfe42da0ba/t/768/432/d/111501-westernreserveshipwreck-copy-01-00-00-46-14-still001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230366.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T10:27:00+09:00</dc:date>
+        <title>「イエスは髪を切るべき」の発言は冒涜罪、ＴｉｋＴｏｋユーザーに実刑判決　インドネシア</title>
+        <link>https://www.cnn.co.jp/world/35230366.html?ref=rss</link>
+        <description>イエスは髪を切った方がいいと発言したインドネシアのＴｉｋＴｏｋ（ティックトック）ユーザーが、キリスト教に対するヘイトスピーチを流布した罪に問われ、北スマトラ州の裁判所で禁錮２年１０カ月の実刑判決を言い渡された。
+
+人権団体のアムネスティ・インターナショナルや現地メディアの報道によると、キリストの肖像に関する発言をめぐって有罪判決を言い渡されたのはラトゥ・タリサさん。イスラム教徒のトランスジェンダ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230366.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/7a605b87a571a18960a7658567cdb784/t/768/432/d/screenshot-2025-03-11-at-13-30-45.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230363.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T09:57:00+09:00</dc:date>
+        <title>歌手フィソンさん、自宅で死亡　４３歳　韓国で相次ぐ若手スターの急逝</title>
+        <link>https://www.cnn.co.jp/showbiz/35230363.html?ref=rss</link>
+        <description>韓国の歌手フィソン（本名チェ・フィソン）さんが、ソウル市内の自宅で死亡しているのが見つかった。４３歳だった。ＣＮＮ提携局のＹＴＮが１０日に伝えた。
+
+ＹＴＮによると、死因についてはまだ捜査中で、警察は検視を要請している。
+
+フィソンさんは２００２年にデビューアルバムをリリースしてヒット曲「Ｃａｎ’ｔ　Ｉ」で一躍有名になり、パワフルな声とジャンルを超えたスタイルで人気を集めた。
+
+所属事務所はフィソンさ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230363.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/5f0c19c2faecfcc790e1725c4099875e/t/768/432/d/gettyimages-495196553.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230361.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T09:37:00+09:00</dc:date>
+        <title>武装勢力が列車乗っ取り、銃撃戦で１０人死亡　パキスタン南西部</title>
+        <link>https://www.cnn.co.jp/world/35230361.html?ref=rss</link>
+        <description>パキスタン南西部バルチスタン州で１１日、分離派武装勢力が数百人の乗客を乗せた列車を乗っ取り、少なくとも１０人を殺害した。政府と鉄道の当局者が明らかにした。
+
+鉄道の当局者が１１日夜、ＣＮＮの取材に答えたところによれば、死者のうち９人は治安要員。列車の運転士も襲撃の犠牲になったという。
+
+これより前、バルチスタン州政府の報道官はＣＮＮに対し、列車上で「激しい銃撃戦」が起きているとの報告があったと述べ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230361.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/c8a0c2cdbbbd083c9cd2a9a3671ac301/t/768/432/d/whatsapp-image-2025-03-11-at-3-41-02-pm-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230359.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T09:26:00+09:00</dc:date>
+        <title>トランプ氏、テスラ販売店への襲撃を国内テロに指定か　テスラの新車購入も表明</title>
+        <link>https://www.cnn.co.jp/usa/35230359.html?ref=rss</link>
+        <description>トランプ米大統領は１１日、電気自動車（ＥＶ）大手テスラの販売店への襲撃を国内テロに指定するよう求める考えを示した。テスラを巡っては、イーロン・マスク最高経営責任者（ＣＥＯ）のトランプ政権への関与に抗議するデモが相次いでいる。
+
+トランプ氏はホワイトハウスでマスク氏やテスラ車数台と並んで取材を受け、「それを実行する。彼らを止めてみせる」とコメント。「そうした行動に出る者は誰であれ拘束する。彼らは偉...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230359.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/00401f859628fb8c35151b12fa005ab2/t/768/512/d/gettyimages-2203986530.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230356.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T07:46:00+09:00</dc:date>
+        <title>トランプ氏、カナダへの「５０％関税」措置を撤回　オンタリオ州は電力値上げを停止</title>
+        <link>https://www.cnn.co.jp/usa/35230356.html?ref=rss</link>
+        <description>米国のトランプ大統領は１１日、異例の貿易戦争の激化から撤退した。カナダ産の鉄鋼とアルミニウムへの大幅な関税引き上げや、カナダから供給される電力に追加関税をかけると脅していたがこれらを撤回した。これを受け、カナダ・オンタリオ州は米国向け電力に割増料金を適用する措置を停止した。
+
+場当たり的な関税の脅しで市場は１１日も大幅に値下がりした。ラトニック米商務長官とオンタリオ州のフォード州首相は１３日に会...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230356.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/1ba65da26b444bf7a97de22794c2a999/t/768/432/d/ap25041803740466.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230355.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-12T07:23:00+09:00</dc:date>
+        <title>ウクライナ、３０日間の停戦案に同意　米は支援と情報共有を再開へ</title>
+        <link>https://www.cnn.co.jp/world/35230355.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は１１日、サウジアラビアで行われた米国の当局者との和平協議の後、ウクライナ側は米国が提案した３０日間の停戦案を受け入れたと明らかにした。
+
+会談は８時間あまり続いた。ゼレンスキー氏は会談後にウクライナ側が受け入れた停戦案に触れ、空と海に限定されず、ロシアとの戦闘のすべての前線をカバーする内容だと説明した。
+
+ゼレンスキー氏は「ウクライナはこの提案を受け入れる。前向きな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230355.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/12/408c9f6c6e1cb95d8b9c2f825d389dcc/t/768/512/d/gettyimages-2203923144.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230350.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T22:06:00+09:00</dc:date>
+        <title>ウクライナ、米国との協議は「建設的」に始まる</title>
+        <link>https://www.cnn.co.jp/world/35230350.html?ref=rss</link>
+        <description>ウクライナ情勢をめぐる米国とウクライナの代表団による協議が１１日、サウジアラビアで始まり、ウクライナのイエルマーク大統領府長官は、協議が「非常に建設的に始まった」と述べた。
+
+イエルマーク氏は、米国との会談が極めて建設的に始まり、公正で持続可能な平和を実現するために取り組んでいると語った。
+
+イエルマーク氏はシビハ外相、ウメロウ国防相とともに代表団に参加。米国側は、ルビオ国務長官やウォルツ大統領補...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230350.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/642485fa1e671acded6217d16eb6a802/t/768/512/d/gettyimages-2203924808.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230349.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T21:00:00+09:00</dc:date>
+        <title>米シカゴ発のエア・インディア機、トイレが詰まり引き返す</title>
+        <link>https://www.cnn.co.jp/world/35230349.html?ref=rss</link>
+        <description>米シカゴからインドの首都ニューデリーへ向かっていたエア・インディアの旅客機が、出発から約５時間後に引き返していたことが分かった。機内にある複数のトイレが、布切れや衣服、ポリ袋で詰まったためだという。
+
+運航情報サイト「フライトアウェア」によると、引き返したのは５日のエア・インディアＡ１１２６便。
+
+エア・インディアの報道担当者によれば、まず出発の１時間４５分後、一部のトイレが故障していることに乗務...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230349.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/89126ecc66b2bd852fd8eb442569dcab/t/768/432/d/shutterstock-editorial-14247117l.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230348.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T20:23:00+09:00</dc:date>
+        <title>シリア暫定政権、クルド人武装勢力の統合で合意</title>
+        <link>https://www.cnn.co.jp/world/35230348.html?ref=rss</link>
+        <description>シリア暫定政権のシャラア大統領は１０日、クルド人主体の武装勢力「シリア民主軍（ＳＤＦ）」を国家機関に統合することで合意に達したと発表した。
+
+シャラア氏は「すべての国民が宗教や民族にかかわらず、能力に応じて政治参加できる権利の保障」が目的だと述べた。
+
+新たな合意ではさらに、クルド人社会が国の一部として認められた。この中には、アサド前政権下で長年、市民権を与えられなかった数万人のクルド人が含まれて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230348.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/88d4618993df67b10c08b4930b30089b/t/768/432/d/ap25069656329062.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230346.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T20:22:00+09:00</dc:date>
+        <title>ＮＢＡで最小の１７２センチ、期待の新人・河村勇輝に話を聞く</title>
+        <link>https://www.cnn.co.jp/showbiz/35230346.html?ref=rss</link>
+        <description>身長はわずか１７２センチ。河村勇輝（２３）はバスケットボールのスターにはなれそうもない選手かもしれない。
+
+ダンクシュートを打てるわけではないと話す河村は、米プロバスケットボールＮＢＡの選手のなかで最も背が低い。河村の身長はリーグの平均よりも約３０センチ低く、ＮＢＡの現役選手のなかで身長が６フィート（約１８３センチ）未満の選手は河村だけだ。
+
+それでも、所属するメンフィス・グリズリーズでガードとし...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230346.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/e4d55fa5026f21f4563b23919e3af483/t/768/432/d/gettyimages-2183515299.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230347.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T20:12:00+09:00</dc:date>
+        <title>米株式市場が急落、トランプ氏が招く混乱が収まらないことの表れか</title>
+        <link>https://www.cnn.co.jp/usa/35230347.html?ref=rss</link>
+        <description>トランプ米大統領は有権者に対し、新たな「黄金時代」に向かう過程で景気後退が起こるかもしれないとは一度も言及してこなかった。
+
+ところが、トランプ氏が今年中の景気後退の可能性を排除するのを２度にわたって拒んだことで、１０日の株式市場は急落。米国民の年金資金にも打撃を与えた。
+
+米国を代表する株価指数「Ｓ＆Ｐ５００」は１カ月足らずで９％下落した。これは２期目のトランプ氏が次に何をするのか、そして何かを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230347.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/8e8db8f53769dc4e1dd29707365edeb4/t/768/512/d/gettyimages-2203210623.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35230333.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T19:12:00+09:00</dc:date>
+        <title>シドニー・ロンドン間で７都市経由の「カンガルールート」が復活　豪カンタス航空</title>
+        <link>https://www.cnn.co.jp/travel/35230333.html?ref=rss</link>
+        <description>オーストラリアのカンタス航空は１９４７年、新たに導入した旅客機「ロッキードコンステレーション」でシドニーと英ロンドンを結ぶ初の「全区間カンタス便」の運航を開始した。
+
+「カンガルールート」と呼ばれるこの路線は、Ａ地点とＢ地点を結ぶ通常の路線ではない。ダーウィン、シンガポール、カルカッタ（現コルカタ）、カラチ、カイロ、トリポリを経由し４日間かけてロンドンに到着するのだ。
+
+搭乗できる乗客は２９人のみ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35230333.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/d228e06031ec83969fc9994e61eac5e6/t/768/432/d/001-thumbnail-qantas.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230345.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T18:34:00+09:00</dc:date>
+        <title>大気汚染の都市別ランキング、ワースト２０はほぼアジアに集中</title>
+        <link>https://www.cnn.co.jp/world/35230345.html?ref=rss</link>
+        <description>世界の大気汚染状況を都市別にまとめた最新のランキングが発表され、ワースト２０のうち１９都市がアジアに集中していることが分かった。特にインドからは１３都市が入っている。
+
+大気汚染の実態を監視するスイス企業、ＩＱエアが昨年、世界の計８９５４都市について、有害な微小粒子状物質ＰＭ２．５の濃度を調べた。
+
+ワースト２０ではこのほかパキスタンが４都市を占め、中国とカザフスタンがそれぞれ１都市。アジア以外で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230345.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/a4cb2f6c60ce89758102a1ffb608bb23/t/768/432/d/001-gettyimages-2184000186.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230342.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T17:07:00+09:00</dc:date>
+        <title>モスクワに大規模ドローン攻撃、米・ウクライナ協議の直前に</title>
+        <link>https://www.cnn.co.jp/world/35230342.html?ref=rss</link>
+        <description>ロシア国営タス通信は１１日、首都モスクワがドローン（無人機）による「大規模な」攻撃を受けたと伝えた。
+
+ロシア側は「敵」からの攻撃だと発表した。この表現はウクライナを指してよく使われる。
+
+事実が確認された場合、モスクワへの攻撃としてはロシアのウクライナ侵攻開始以来で最大級の規模と位置付けられる。
+
+タス通信はロシア当局者らの話として、モスクワへ向かって飛ぶドローン少なくとも３３７機が撃墜され、同市...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230342.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/6de90268f0de285e6df7fe2d58f6d3d5/t/768/432/d/-rtrmadp-3-ukraine-crisis-attack-moscow.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230330.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T16:07:00+09:00</dc:date>
+        <title>母親にアイスクリーム食べられた４歳児、警察に通報　米ウィスコンシン州</title>
+        <link>https://www.cnn.co.jp/usa/35230330.html?ref=rss</link>
+        <description>人生には、決してやってはならないことがいくつかある。たとえば、誰かのアイスクリームを黙って食べてしまうことがそうだ。
+
+だから米ウィスコンシン州に住む４歳の男の子は、母親が自分のアイスクリームを食べてしまったとき、きちんと教訓を与えなくてはならないという気持ちから、警察に通報した。
+
+同州マウントプレザントの警察は今月４日、緊急通報を受けて警官を派遣した。通報では小さな男の子が、お母さんを閉じ込め...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230330.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/473a50365572b9123f43ba426fd2e7b5/t/768/432/d/untitled-1-20250311034502815.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230328.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T15:30:00+09:00</dc:date>
+        <title>中国全人代、１１日に閉幕　経済立て直しとハイテク部門育成を打ち出す</title>
+        <link>https://www.cnn.co.jp/world/35230328.html?ref=rss</link>
+        <description>中国・北京で開催されている全国人民代表大会（全人代、国会に相当）が１１日、閉幕する。中国の指導者は先週、同国が直面する課題を乗り越えるための計画を発表した。中国を技術大国へと変ぼうさせるほか、野心的な成長目標を達成するために必要な支出を拡大する。
+
+中国政府と過去数十年で最も権力を掌握している習近平（シーチンピン）国家主席にとって、こうした取り組みを正しく実行することは大きな賭けだ。
+
+中国政府は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230328.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/e7a5112ce396955d0d2c5de7edaabdca/t/768/432/d/2025-03-05t020133z-2030198028-rc2p6dabfgxx-rtrmadp-3-china-parliament.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230323.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T15:10:00+09:00</dc:date>
+        <title>ドゥテルテ前大統領の身柄拘束、「人道に対する罪」でＩＣＣから逮捕状　フィリピン</title>
+        <link>https://www.cnn.co.jp/world/35230323.html?ref=rss</link>
+        <description>フィリピンのドゥテルテ前大統領が１１日、身柄を拘束された。フィリピン政府はこれに先立ち、人道に対する罪の疑いで国際刑事裁判所（ＩＣＣ）からドゥテルテ氏の逮捕状を受領したと発表していた。
+
+ドゥテルテ氏は在任中、広範かつ過酷な麻薬取締り運動を主導した。警察のデータによれば、６０００人以上が死亡したとされるが、複数の独立監視団体からは、司法外殺人の件数はさらに多い可能性があるとの見方が出ている。
+
+フ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230323.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/a365242cbc4d8a5fb76e67810a352d5e/t/768/432/d/ap25070119232039.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230320.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T14:30:00+09:00</dc:date>
+        <title>世界最大のドッグショーでウィペットの「ミュッチャ」に栄冠　イタリアから参加</title>
+        <link>https://www.cnn.co.jp/showbiz/35230320.html?ref=rss</link>
+        <description>英バーミンガムでこのほど開催された世界最大のドッグショー「クラフツ」で、イタリアから参加した金色のウィペット「ミュッチャ」が優勝を飾った。
+
+ミュッチャは４歳の雌で、情緒に満ちた眼差し（まなざし）とトラの模様を思わせる斑点に特徴がある。待ち望んだ優勝に、ハンドラーのジョバンニ・リグオーリさんは感極まった様子を見せた。
+
+
+  
+  
+優勝を飾ったウィペットの「ミュッチャ」とハンドラーのジョバンニ・リグオー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230320.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/8f65425cdf0cffbe62788abb964162f3/t/768/432/d/gettyimages-2204248946.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230322.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T13:57:00+09:00</dc:date>
+        <title>名脇役サイモン・フィッシャーベッカー氏が死去、６３歳　「ハリポタ」第１作の幽霊</title>
+        <link>https://www.cnn.co.jp/showbiz/35230322.html?ref=rss</link>
+        <description>映画「ハリー・ポッターと賢者の石」やテレビドラマ「ドクター・フー」などの著名作品に出演した英国の名脇役、サイモン・フィッシャーベッカー氏が死去したことが分かった。６３歳だった。
+
+ベッカー氏のパートナーはフェイスブックへの投稿で、ベッカー氏が９日に死去したことを明らかにした。死因に関する詳しい情報は明かさなかった。
+
+ジャフリー・マネジメントに所属するベッカー氏の代理人もＣＮＮに寄せた声明で、ベッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230322.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/4749326ba1c208f5e156287d7f4442d2/t/768/432/d/gettyimages-186689750.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230321.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T13:40:00+09:00</dc:date>
+        <title>ルビオ米国務長官、ウクライナ側の「譲歩」期待　サウジでの会合を前に</title>
+        <link>https://www.cnn.co.jp/usa/35230321.html?ref=rss</link>
+        <description>ルビオ米国務長官は１０日、翌日予定されるウクライナとの重要会談を前に、米国はウクライナがロシアとの戦争終結に向けた交渉でどのような譲歩をするつもりか聞きたい考えだと表明した。
+
+記者団の取材に応じたルビオ氏は、「この問題に関するウクライナの立ち位置や、和平実現のために何をする意向なのかを確認したい」と語った。
+
+サウジアラビアの港湾都市ジッダで予定される今回の協議は、ロシアによる３年前の本格侵攻開...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230321.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/f5f6aeff72f33b28ee93ce85df9fad70/t/768/432/d/gettyimages-2203805631.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35230318.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-11T12:44:00+09:00</dc:date>
+        <title>世界最大の武器輸出国、米国がシェア拡大　欧州が最大の相手先に</title>
+        <link>https://www.cnn.co.jp/business/35230318.html?ref=rss</link>
+        <description>米国が世界最大の武器輸出国としてのリードを広げている。現在の主要相手先は欧州になった。
+
+ストックホルム国際平和研究所が１０日に発表した最新統計によると、２０２０～２４年は世界の武器輸出の４３％を米国が占め、２位のフランスの４倍を超えた。２０１５～１９年の米国のシェアは３５％だった。
+
+欧州は過去１０年の間に米国製の武器への依存を強めている。ロシアがウクライナに侵攻した２２年を含む過去５年の統計で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35230318.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/11/df6ebe22e3a4ee2e1622a91baa2dfadb/t/768/432/d/2024-07-19t082958z-1358221077-rc2q77a5xuu5-rtrmadp-3-ukraine-crisis-artillery.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
