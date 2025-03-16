@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-03-15T18:50:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230546.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230533.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35230545.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230544.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35230543.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230541.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35230538.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230539.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230537.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230536.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230535.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35230483.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230529.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230528.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35230524.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230516.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230520.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35230514.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230515.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230511.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230509.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230504.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230497.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230495.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230492.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230489.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230488.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230486.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230484.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35230480.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35230546.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-15T18:50:00+09:00</dc:date>
+        <title>カナダ新首相にカーニー氏が就任　トルドー氏の辞任受け</title>
+        <link>https://www.cnn.co.jp/world/35230546.html?ref=rss</link>
+        <description>カナダの与党・自由党のマーク・カーニー党首は１４日、トルドー首相の後を引き継いで新首相に就任した。カナダは米国のトランプ大統領から主権について疑問を呈されるなど複数の問題に直面している。カナダにとって最大の貿易相手国である米国とは、通商戦争の兆しも見えている。
+
+カーニー氏はカナダ銀行（中央銀行）やイングランド銀行（英中央銀行）の元総裁だが、これまでカナダで公職に就いた経験は一度もない。首相就任...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230546.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/15/bc85ce07ab20219aed04679220c51a94/t/768/432/d/ap25073560505565.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230533.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-15T18:00:00+09:00</dc:date>
+        <title>快眠を実現？、ＳＮＳで話題の「スリープマキシング」　専門家に話を聞く</title>
+        <link>https://www.cnn.co.jp/fringe/35230533.html?ref=rss</link>
+        <description>寝る前には、赤いレンズの眼鏡をかけて、キウイフルーツを２切れ食べ、サプリメントを取り、鼻腔（びくう）拡張器を挿入して、部屋が真っ暗なのを確認するのを忘れないこと――。
+
+歯磨きと洗顔、パジャマに着替えるといった簡単な就寝前のルーチンは忘れよう。今、完璧な睡眠習慣を求める人たちは、栄養補助食品や特定の食品、アプリや電子機器、美容のための階層化されたルーチンを含むさまざまな手段を付け加えている。
+
+ある...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230533.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/49c06e3e725304a874796790a82d82ae/t/768/432/d/gettyimages-1483034179.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35230545.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-15T17:26:00+09:00</dc:date>
+        <title>写真特集：夜空を照らす３月の「ブラッドムーン」</title>
+        <link>https://www.cnn.co.jp/photo/35230545.html?ref=rss</link>
+        <description>皆既月食中に月が地球の影に入る中、米国時間１３日夕から１４日午前にかけてドラマチックな赤みを帯びた「ブラッドムーン」が各地で観測された&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35230545.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/15/b209c18cdfdf92f021ae0964e94b3601/t/768/510/d/01-gettyimages-2204431434.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230544.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-15T16:30:00+09:00</dc:date>
+        <title>マイケル・ファスベンダー、ボンド役オーディションでダニエル・クレイグ推していた</title>
+        <link>https://www.cnn.co.jp/showbiz/35230544.html?ref=rss</link>
+        <description>俳優のマイケル・ファスベンダーはかつて、人気スパイ映画シリーズ「００７」のオーディションで、主人公ジェームズ・ボンドの役を射止めるチャンスを棒に振っていたようだ。自分が役を得るために臨んだオーディションで、あろうことか別の俳優、ダニエル・クレイグを推薦してしまったのだという。
+
+ファスベンダーは１３日配信のポッドキャスト番組で、当時の顛末（てんまつ）を振り返った。それによると、オーディションの現...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230544.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/15/38e55859e5fa30c4b08f1b05aa0821e5/t/768/432/d/gettyimages-2186033132.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35230543.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-15T15:30:00+09:00</dc:date>
+        <title>トランプ氏に背を向けるウォール街、経済の警戒信号が点灯</title>
+        <link>https://www.cnn.co.jp/business/35230543.html?ref=rss</link>
+        <description>場当たり的な関税、政府職員の大量レイオフ（一時解雇）、予算削減、移民取り締まりの強化――。ウォール街はこうした現状を嫌気し、トランプ氏の混乱した経済政策を強く拒絶しつつある。
+
+１期目の大半、そして２期目を控えた時期にトランプ氏を受け入れていた市場はいま、大統領に背を向けている。Ｓ＆Ｐ５００は１３日、終値ベースで調整局面入りした。わずか３週間前に記録した史上最高値から１０％下落したことになる。
+
+ダ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35230543.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/15/ad0d936fdd39008b5353cb5f3010fcee/t/768/432/d/gettyimages-2204720606.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230541.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-15T13:55:00+09:00</dc:date>
+        <title>キューバで全国規模の停電、１０００万人超が暗闇の中に</title>
+        <link>https://www.cnn.co.jp/world/35230541.html?ref=rss</link>
+        <description>キューバの電力網が１４日夜に崩壊し、全国が停電状態に陥った。数千万人以上の人々が暗闇の中にいる。
+
+同国のエネルギー・鉱山省は声明を出し、同日午後８時１５分前後に変電所で不具合が発生したと述べた。国内西部の電力が著しく喪失し、それを受けて全国レベルでの電力システムも失われたという。
+
+現在サービスの復旧に向けた取り組みが行われていると、同省は付け加えた。
+
+ＣＮＮが撮影した映像には、首都ハバナの通り...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230541.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/15/2dd8dd7aac5efee4286e891bf61424d0/t/768/432/d/gettyimages-2204589582.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35230538.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-15T13:00:00+09:00</dc:date>
+        <title>提供したホットコーヒーで客が火傷、スタバに７４億円支払い命令　米加州</title>
+        <link>https://www.cnn.co.jp/business/35230538.html?ref=rss</link>
+        <description>米カリフォルニア州の陪審は１４日、コーヒーチェーン大手スターバックスに対し、配達運転手の男性１人への損害賠償金として５０００万ドル（約７４億円）を支払うよう命じた。男性はふたが確実にはまっていない高温の飲料で重い火傷（やけど）を負っていた。
+
+２０２０年に同州の裁判所に提出された訴状によると、この男性はロサンゼルスのドライブスルーで飲料を受け取る際、「熱い飲料を膝（ひざ）にこぼしたため重度の火傷...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35230538.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/15/7185d0df60c2993c3ff3d8e874474703/t/768/432/d/starbucks-results.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230539.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-15T12:40:00+09:00</dc:date>
+        <title>皆既月食と同時刻、月面ではブルーゴーストが日食を撮影　「ダイヤモンドリング」捉える</title>
+        <link>https://www.cnn.co.jp/fringe/35230539.html?ref=rss</link>
+        <description>地球上の一部地域で皆既月食が観測された１４日未明（米国時間）、月面では着陸船「ブルーゴースト」が異なる視点からこの天体ショーを捉えていた。宇宙空間に炎の輪のように浮かび上がる日食だ。
+
+米民間企業ファイアフライ・エアロスペースによると、今月２日に月面着陸を果たしたブルーゴーストは米東部時間午前４時半ごろ、太陽と地球、月が一直線に並ぶ様子を撮影した。
+
+ブルーゴーストが捉えたのは「ダイヤモンドリング...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230539.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/15/01d98acd379b8b6ad390698842ca818a/t/768/432/d/gmaubm-wyaayddg-20250314141848027.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230537.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-15T11:30:00+09:00</dc:date>
+        <title>スペースＸの宇宙船「クルードラゴン」、打ち上げ成功　ＩＳＳ滞在ミッションの飛行士入れ替えへ</title>
+        <link>https://www.cnn.co.jp/fringe/35230537.html?ref=rss</link>
+        <description>米スペースＸは米東部時間１４日の午後７時３分、フロリダ州のケネディ宇宙センターから宇宙船「クルードラゴン」を打ち上げた。乗り込んだ宇宙飛行士らは国際宇宙ステーション（ＩＳＳ）で、滞在中の宇宙飛行士らから任務を引き継ぐ。このうち米航空宇宙局（ＮＡＳＡ）に所属する飛行士２人は当初数日で地球に帰還する予定だったはずが、９カ月にわたってＩＳＳに滞在する事態となっていた。
+
+「クルー１０」と呼ばれる今回の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230537.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/15/ba8f3d7af62b06ac21a9a3790fa29de0/t/768/432/d/gettyimages-2204578214.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230536.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-15T11:00:00+09:00</dc:date>
+        <title>プーチン氏、クルスク州のウクライナ兵に投降呼び掛け　ゼレンスキー氏は米国に圧力要請</title>
+        <link>https://www.cnn.co.jp/world/35230536.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は１４日、ロシア西部クルスク州に展開するウクライナ兵に投降を呼び掛けた。米国の仲介によるウクライナとの停戦の可能性が浮上する中、外交的な駆け引きが続いている。
+
+プーチン氏は国家安全保障会議のメンバーとの会合で、クルスク州のウクライナ兵が民間人に犯罪行為を働いていると非難。ただ、クルスク奪還を進めるロシア軍にウクライナ兵の命を救うよう求めたトランプ米大統領の意向を汲（く）み...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230536.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/15/59f3c6ab126e1f7a51425d9a70f0b511/t/768/432/d/gettyimages-2204527360.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230535.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-15T09:25:00+09:00</dc:date>
+        <title>米上院がつなぎ予算案を可決、政府閉鎖回避　民主党内からは反発</title>
+        <link>https://www.cnn.co.jp/usa/35230535.html?ref=rss</link>
+        <description>米連邦議会上院は１４日夜、今年秋までの政府資金を手当てするつなぎ予算案を可決し、１５日午前０時の期限が数時間後に迫る中で政府閉鎖を回避した。
+
+つなぎ予算案は９月３０日までの政府の運営資金を確保する内容。この後トランプ大統領のもとに送付され、署名を経て成立するとみられている。
+
+これに先立ち行われた手続き上の投票では、民主党のシューマー上院院内総務ら１０人が予算案を前に進めるため、民主党内で高まる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230535.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/15/5de168530ff98979c9f092e9967d8176/t/768/432/d/c-gettyimages-2201343782.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35230483.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T18:49:00+09:00</dc:date>
+        <title>３５年前に撮影されたお気に入りの写真、友人４人が休暇先で再現　米</title>
+        <link>https://www.cnn.co.jp/travel/35230483.html?ref=rss</link>
+        <description>ジェニファー・カンドッティさんはクローゼットを整理していたとき、何十年も着ていなかったドレスを偶然見つけた。
+
+ピンクと白の花柄の夏らしいコットンドレスは、１９８０年代後半、カンドッティさんが米バージニア州のリッチモンド大学に通っていた当時、お気に入りだったものだ。
+
+現在、夫とスイスに暮らす米国人のカンドッティさんは、国外に引っ越す前に多くの服を寄付した。だが、たくさんの思い出が詰まったこの花柄...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35230483.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/13/9ff538ac4154530f0f6b66cfe2265112/t/768/512/d/1jennifer-candotti-friends.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230529.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T17:26:00+09:00</dc:date>
+        <title>３月の皆既月食、満月が赤く染まる「ブラッドムーン」に</title>
+        <link>https://www.cnn.co.jp/fringe/35230529.html?ref=rss</link>
+        <description>西半球で今週、皆既月食中に満月が真っ赤に染まる「ブラッドムーン」が観測される。
+
+天文サイト「アーススカイ」によると、アフリカ西部や西欧、北米と南米、オーストラリア東部、ニュージーランド、ロシア東部などで観測可能となる見通し。時間帯は１３日夜から１４日午前にかけてで、住む場所によって異なるという。
+
+月食は地球が太陽と月の間に来て、三つの天体がほぼ一直線に並ぶときに発生する。地球を真ん中に挟むため...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230529.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/dccbeb607dcec86154a4976d94ffdc80/t/768/432/d/nhq202211080005-orig.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230528.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T16:37:00+09:00</dc:date>
+        <title>米女優、イーロン・マスク氏による偽情報拡散で殺害予告の標的に</title>
+        <link>https://www.cnn.co.jp/showbiz/35230528.html?ref=rss</link>
+        <description>米女優アヨ・エデビリさんは、実業家イーロン・マスク氏がエデビリさんに対する多くの否定的な意見を助長したことで、本当に「ばかばかしい時間」を過ごしたと振り返った。
+
+ドラマ「一流シェフのファミリーレストラン」で知られるエデビリさんは、ここ数日にわたってＳＮＳに昨年起きた出来事を投稿した。このことが人種差別や殺害の脅迫につながったという。
+
+投稿によると、マスク氏は、エデビリさんが映画「パイレーツ・オ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230528.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/1d677c965104a9872776a099fbf35aad/t/768/432/d/gettyimages-2200736689.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35230524.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T15:46:00+09:00</dc:date>
+        <title>米紙タイム、２０２５年に訪れるべき場所１００選発表　日本からは「ニンテンドーミュージアム」</title>
+        <link>https://www.cnn.co.jp/travel/35230524.html?ref=rss</link>
+        <description>米誌タイムはこのほど、２０２５年に訪れるべき世界のすばらしい場所１００選を発表した。
+
+タイムの編集部はエルサルバドルからインド・ジャイプル、ジンバブエまで、旅行者が知っておくべき魅力的な旅先や体験を厳選。今回で７年目を迎えるこのリストには、リゾートやクルーズから、博物館、レストラン、国立公園など、多岐にわたる見どころが選ばれている。
+
+米国からは、改修を終え今春に営業を再開予定の高級ホテル「ウォ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35230524.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/175d86bd3f503523f92c42ff31725a8e/t/768/432/d/08-tiny-seaside-evening-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230516.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T14:45:00+09:00</dc:date>
+        <title>継母によって２０年監禁か、プリンター用紙と手指消毒液を使い脱出した方法とは　米男性</title>
+        <link>https://www.cnn.co.jp/usa/35230516.html?ref=rss</link>
+        <description>被害者の男性（３２）が後に語ったところによると、部屋の扉は両側にベニヤ板が打ち付けられ、施錠された状態だった。外に出られないようにするためだ。
+
+長年、サンドイッチ二つと少量の水しか与えられない日が続いたと、男性は振り返る。サンドイッチの具は卵かツナサラダ、ピーナツバター。監禁されていた場所は物置のような空間だった。
+
+だが、男性にはある計画があった。
+
+プリンター用紙を着火素材、手指消毒剤を燃料に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230516.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/fdd9119d131e463072afcf18a3ea6092/t/768/432/d/still-21453924-2829-still-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230520.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T13:51:00+09:00</dc:date>
+        <title>アルメニアとアゼルバイジャン、和平協定締結で合意　４０年に及ぶ紛争終結目指す</title>
+        <link>https://www.cnn.co.jp/world/35230520.html?ref=rss</link>
+        <description>共に旧ソ連の構成国であるアルメニアとアゼルバイジャンの当局者は１３日、４０年近くに及ぶ紛争終結に向けた和平協定を結ぶことで合意したと発表した。
+
+国境を接する両国はコーカサス山脈の係争地ナゴルノ・カラバフを巡って長年対立してきた。アルメニア系住民が約１２万人暮らす同地域は、国際的にアゼルバイジャンの一部と認識されているが、数十年にわたってアルメニア系分離派の支配下にあった。
+
+アルメニアの外務省は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230520.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/a24bdfd149d8b479644a66a6fc8090db/t/768/432/d/gettyimages-1683926061.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35230514.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T13:00:00+09:00</dc:date>
+        <title>イーロン・マスク氏のテスラ、報復関税の標的にされる懸念　トランプ政権に慎重対応要請</title>
+        <link>https://www.cnn.co.jp/business/35230514.html?ref=rss</link>
+        <description>実業家イーロン・マスク氏を最高経営責任者（ＣＥＯ）とする米電気自動車（ＥＶ）大手のテスラがこのほど、米国に対する報復関税で業績に悪影響が及ぶ可能性があるとして、貿易政策を慎重に検討するよう米政府に要望した。マスク氏を重用するドナルド・トランプ大統領に異を唱えた形だ。
+
+テスラは米通商代表部（ＵＳＴＲ）代表のジェミソン・グリア氏に宛てた１１日付の書簡で、「米国の製造業者および輸出業者として、テスラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35230514.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/1cd159b9188f7632b634d969308ebe32/t/768/432/d/gettyimages-2190848931.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230515.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T12:20:00+09:00</dc:date>
+        <title>緊急着陸の旅客機でエンジン火災、翼の上に乗客避難　煙に包まれる機体　米デンバー空港</title>
+        <link>https://www.cnn.co.jp/usa/35230515.html?ref=rss</link>
+        <description>米アメリカン航空の旅客機が１３日、行き先を変更して緊急着陸したコロラド州のデンバー国際空港でエンジン火災を起こし、機体が煙に包まれる中で脱出した乗客は翼の上へ避難した。
+
+火災が起きたのはアメリカン航空１００６便（ボーイング７３７－８００型機）。フライト追跡サイト「フライトアウェア」によると、同機は同州コロラドスプリングスからテキサス州のダラスフォートワース空港へ向かっていたが、行き先を変更して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230515.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/14fa958c9bbb80f8e9efdf24c04dcee8/t/768/432/d/stevepic2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230511.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T11:49:00+09:00</dc:date>
+        <title>ガザから「パレスチナ人は追放されない」とトランプ氏、移住促す発言から一転</title>
+        <link>https://www.cnn.co.jp/usa/35230511.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区を巡るトランプ米大統領の計画が、また新たな混乱に包まれている。同氏は１２日、記者団に対し、ガザからは「一人のパレスチナ人も追放されない」と発言。パレスチナ人は移住させるべきとした以前の宣言を取り下げたようだ。
+
+トランプ氏はガザの未来に関して、矛盾する見解を繰り返している。数週間前にはガザに暮らす２１０万人のパレスチナ人について、イスラエルとイスラム組織ハマスとの 紛争に対...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230511.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/1ecb49e11f0f275607ba3dc64fcafa1d/t/768/432/d/2025-03-12t163226z-1442654090-rc2sbdarzorc-rtrmadp-3-usa-ireland.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230509.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T11:28:00+09:00</dc:date>
+        <title>ナポリで続く地震活動　未明にＭ４．４、住民野営　イタリア</title>
+        <link>https://www.cnn.co.jp/world/35230509.html?ref=rss</link>
+        <description>イタリアのナポリ近郊で数週間前から地震活動が続いている。１３日未明にはマグニチュード（Ｍ）４．４の地震が発生し、住民は家を出て野営したり車の中で夜を明かしたりした。
+
+Ｍ４．４の地震は人口が密集するナポリ西部のフレグレイ平野（カンピフレグレイ）で現地時間の１３日午前１時半ごろ発生。住宅数棟が損傷し、車の上に破片が落下するなどの被害が出ている。地元当局によると１５人が病院で手当てを受けた。
+
+  
+  
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230509.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/d663fb682b1f52d256e66fb7802fee51/t/768/432/d/shutterstock-editorial-15194969i.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230504.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T11:00:00+09:00</dc:date>
+        <title>欧州ではしかが急増、１９９７年以降で最悪　ＷＨＯ</title>
+        <link>https://www.cnn.co.jp/world/35230504.html?ref=rss</link>
+        <description>国連児童基金（ユニセフ）と世界保健機関（ＷＨＯ）は１３日、欧州で２０２４年にはしかの症例が急増し、１９９７年以降で最悪の１２万７３５２例になったと発表した。前年に比べると症例数は倍増している。
+
+感染者は５歳未満の子どもが４０％を占めており、２０２３年にはしかの１回目の予防接種を受けなかった子どもは５０万人に上った。
+
+ＷＨＯのハンス・クルーゲ欧州地域事務局長は「はしかが復活した。予防接種率が高く...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230504.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/b5c7a6a1a8332af0d5161ffbd4f90026/t/768/432/d/gettyimages-930111236-20250313235832755.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230497.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T10:41:00+09:00</dc:date>
+        <title>ロシア、クルスク州の要衝スジャ奪還　ウクライナ占領地全域をまもなく解放か</title>
+        <link>https://www.cnn.co.jp/world/35230497.html?ref=rss</link>
+        <description>ロシア国防省は１３日、同国西部クルスク州でウクライナ軍が占領していた最大の町スジャを奪還したと明らかにした。ロシア軍は他にも二つの集落を解放したという。停戦への圧力が強まるなか、ロシアはウクライナが持つ領土面での「唯一の交渉材料」を脅かしている。
+
+米国シンクタンク戦争研究所（ＩＳＷ）も現地の映像をもとに、ロシア軍がスジャを押さえ、スジャの北西にある集落まで前進したとの見解を示した。
+
+人口５００...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230497.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/6c33c8cffdc8b7ca72cf0a3e4f747126/t/768/432/d/ap24229665373682.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230495.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T10:20:00+09:00</dc:date>
+        <title>米ジョンズ・ホプキンス大、従業員２０００人超を解雇　ＵＳＡＩＤの資金供給停止受け</title>
+        <link>https://www.cnn.co.jp/usa/35230495.html?ref=rss</link>
+        <description>米ジョンズ・ホプキンス大学は１３日、今後２０００人以上の人員削減を行う意向を発表した。米国際開発局（ＵＳＡＩＤ）からの８億ドル（約１１８５億円）の資金供給が失われたことを受けての措置となる。トランプ政権は現在、ＵＳＡＩＤの大幅な規模縮小に取り組んでいる。
+
+高水準の研究を行う同大学の声明によれば、国内で２４７人、国外４４カ国で１９７５人の従業員を既に解雇したという。今後追加で約１００人が解雇され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230495.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/8612d7b8633a15593b294a374fbe4030/t/768/432/d/ap24190480760249.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230492.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T09:59:00+09:00</dc:date>
+        <title>メスに毒を盛るオスのタコ、事後に食べられないよう安全に交尾</title>
+        <link>https://www.cnn.co.jp/fringe/35230492.html?ref=rss</link>
+        <description>猛毒を持つヒョウモンダコのオスは、交尾の前に強い神経毒をメスの心臓に注入する――。オーストラリアの研究チームの観察でそんな生態が明らかになった。
+
+ヒョウモンダコのメスは体の大きさがオスの２倍ほどあり、交尾の後にオスを食べるのが一般的。そこでオスが進化して、メスが動けなくなるよう、テトロドトキシンという神経毒を使うようになった。研究を発表したオーストラリア・クイーンズランド大学の研究者チョン・ウェ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230492.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/31a8446f028780e1845729662e4de879/t/768/432/d/mg-3882.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230489.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T09:30:00+09:00</dc:date>
+        <title>トランプタワー内にデモ隊突入、９８人逮捕　パレスチナ人大学院生の拘束に抗議</title>
+        <link>https://www.cnn.co.jp/usa/35230489.html?ref=rss</link>
+        <description>米ニューヨーク・マンハッタンにあるトランプタワーに１３日、デモ隊が押し寄せ、１００人近くが逮捕された。デモ隊は親パレスチナの学生活動家マフムード・カリルさんの拘束を糾弾するため集まった。カリルさんはイスラエルとイスラム組織ハマスの戦争に対するコロンビア大学での抗議活動に関わったとして、移民税関捜査局（ＩＣＥ）に拘束されていた。
+
+１３日のデモは人権団体「平和のためのユダヤ人の声」による主催で正午...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230489.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/8de258b2173da17ce5ed1c04333ce4ad/t/768/432/d/ap25072594361469-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230488.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T08:35:00+09:00</dc:date>
+        <title>トランプ政権、「出生地主義」制限で最高裁に申し立て</title>
+        <link>https://www.cnn.co.jp/usa/35230488.html?ref=rss</link>
+        <description>トランプ米政権は１３日、米国で生まれればほぼ無条件で米国籍を得られる「出生地主義」を大幅に制限する大統領令を認めるよう最高裁に申し立てた。
+
+トランプ氏が２期目の初日に署名した「出生地主義」を制限する大統領令については、これまでにワシントン州の連邦地裁が違憲だとして政権側の主張を退け、大統領令を全米で差し止める仮処分命令を出した。政権側はこうした判断は行き過ぎだとして、連邦地裁の判断を差し止める...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230488.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/c5393b8eeedaa2f7c5e8ba3b0b6a0242/t/768/432/d/20250313-trump-scotus-split-full16x9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230486.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T07:00:00+09:00</dc:date>
+        <title>トランプ氏、「欧州産ワインに２００％の関税」　報復に対抗措置</title>
+        <link>https://www.cnn.co.jp/usa/35230486.html?ref=rss</link>
+        <description>トランプ米大統領は１３日、欧州連合（ＥＵ）が米国産ウイスキーへの課税措置を撤廃しなければ、欧州産のワインなどに２００％の関税を課す考えを示した。
+
+米国が１２日に発動した鉄鋼やアルミニウムに対する２５%の関税を発端とする米国とＥＵの貿易摩擦はエスカレートの様相を見せている。
+
+米国が鉄鋼・アルミへの関税を発動させたことを受けて、ＥＵはすぐさま米国からの輸入品に関税を課す対抗措置を発表した。ボートやオ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230486.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/14/cbc3097b8352cbf9ce6d11265de21d25/t/768/512/d/2025-03-12t163012z-1879446888-rc2gbda1fzwe-rtrmadp-3-usa-ireland.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230484.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-14T06:20:00+09:00</dc:date>
+        <title>プーチン氏、米提示の停戦案を原則支持も「懸念」示す</title>
+        <link>https://www.cnn.co.jp/world/35230484.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は１３日の記者会見で、米国が提示したウクライナとロシアの３０日間の停戦案を原則支持すると述べた一方で、協議すべきことが多いとして即時の合意に慎重な姿勢を示した。
+
+プーチン氏は一時停戦が実行に移された場合、ウクライナ軍が越境攻撃を仕掛けたロシア西部クルスク州の今後の状況が見通せないなどとして「懸念」を示した。また、停戦の検証方法などについて疑念があるとし、停戦は「長期的な平...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35230480.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-13T20:30:00+09:00</dc:date>
+        <title>ウォンバットを抱えて走る米インフルエンサーの動画拡散、豪当局がビザ取り消しか</title>
+        <link>https://www.cnn.co.jp/travel/35230480.html?ref=rss</link>
+        <description>米国からオーストラリアを訪れたインフルエンサーの女性が野生の有袋類ウォンバットの赤ちゃんを抱え、車に向かって走る場面の動画が拡散したことを受けて、オーストラリア当局はビザ要件違反の可能性を調べている。
+
+動画に映っていたのは、インスタグラムで９万２０００人のフォロワーを持つサム・ジョーンズさん。ウォンバットの母親が追いかけてくる姿も見える。
+
+男性が「赤ちゃんウォンバットを捕まえた」「ほら、母親が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35230480.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/13/5f32e8116d36eebe4575eae9390e064d/t/768/432/d/gettyimages-1208911717.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
