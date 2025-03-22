@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-03-22T16:55:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35230812.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230810.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230809.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230808.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230806.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230807.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230805.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230795.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35230802.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230797.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230793.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230784.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35230792.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230787.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230789.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230781.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230779.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35230775.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230773.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35230771.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230767.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230764.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230761.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230759.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230755.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230754.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230752.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230751.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230750.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230748.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/tech/35230812.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-22T16:55:00+09:00</dc:date>
+        <title>ブランドの危機に直面するテスラ、唯一事態を収拾できるマスク氏は不在</title>
+        <link>https://www.cnn.co.jp/tech/35230812.html?ref=rss</link>
+        <description>このところあらゆる場所に顔を出している様子のイーロン・マスク氏だが、最も必要とされる場所、つまり逆境にあえぐ電気自動車（ＥＶ）メーカー、テスラのかじ取り役のポジションにはいないようだ。
+
+テスラ株の今年これまでのパフォーマンスは、Ｓ＆Ｐ５００構成銘柄の中で最も悪い部類に入る。販売台数は世界各地で減少。米国の中古市場も崩壊しつつある。軍用車さながらのサイバートラックは、走行中に外板パネルが脱落する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35230812.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/22/558ee7849fd8271832bd77813c4ec05d/t/768/432/d/gettyimages-2203986279 (1).jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230810.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-22T14:00:00+09:00</dc:date>
+        <title>マスク氏に国防総省で対中戦争計画を説明か、トランプ氏は否定</title>
+        <link>https://www.cnn.co.jp/usa/35230810.html?ref=rss</link>
+        <description>米政府効率化省（ＤＯＧＥ）を率いるイーロン・マスク氏が２１日、国防総省を訪問中、中国との戦争の可能性に備えた米軍の計画について説明を受けたとの報道が出ている。トランプ氏はこれに反論し、米軍の対中戦争計画は「誰にも」見せたくないと語った。
+
+トランプ氏は大統領執務室で、「誰にも見せたくない。中国との潜在的な戦争についての話だ」と発言。「中国との潜在的な戦争は望んでいないが、もしそうなっても対処でき...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230810.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/22/9c1387ebd4337201943621c6832b411e/t/768/432/d/c-2025-03-21t160026z-1544887486-rc2shda27yf6-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230809.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-22T13:25:00+09:00</dc:date>
+        <title>ボクシングの元ヘビー級王者、ジョージ・フォアマンさん死去　７６歳　モハメド・アリと伝説の試合</title>
+        <link>https://www.cnn.co.jp/showbiz/35230809.html?ref=rss</link>
+        <description>ボクシングのヘビー級世界王者に２度輝き、五輪では金メダルを獲得、モハメド・アリのライバルとしても語り継がれるジョージ・フォアマンさんが２１日、死去した。７６歳だった。
+
+本人のものと確認されたインスタグラムのアカウントから明らかになった。投稿には、愛する人々に囲まれて安らかに息を引き取ったとある。死因についての言及はない。
+
+ボクシング史上最も強力なパンチを放つ選手の一人として知られたフォアマンさ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230809.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/22/c1cc9edddefb95eee38aea0922d21f9f/t/768/432/d/01-ap405231091494.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230808.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-22T13:05:00+09:00</dc:date>
+        <title>パイロットが誤って誘導路で離陸試み、管制官の指示で中止　米フロリダ州</title>
+        <link>https://www.cnn.co.jp/usa/35230808.html?ref=rss</link>
+        <description>米連邦航空局（ＦＡＡ）は２２日までに、フロリダ州の空港でボーイング７３７型機のパイロットが誤って誘導路から離陸を試みる出来事があったものの、管制官からの指示で中止したと明らかにした。ＦＡＡは調査に着手する方針。
+
+この出来事が発生したのは２０日。誘導路は航空機がゲートと滑走路の間を移動するのに使用されるが、離着陸は想定されていない。
+
+ＦＡＡの声明によれば、ニューヨーク州オルバニー行きのサウスウエ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230808.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/22/bb3418d0e6e3b510c48fe4554a223f1f/t/768/432/d/ap22111096185092.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230806.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-22T11:30:00+09:00</dc:date>
+        <title>クルスク州のガス施設に攻撃、ロシアとウクライナが非難の応酬</title>
+        <link>https://www.cnn.co.jp/world/35230806.html?ref=rss</link>
+        <description>ロシアとウクライナは２１日、ロシア・クルスク州にあるガス計量施設への攻撃を巡って非難の応酬を繰り広げた。同州スジャに位置するこの施設は、両国の国境から数百メートルしか離れていない。
+
+数日前には米国が両国に対して、エネルギーインフラへの攻撃を一時停止するよう申し出たばかり。
+
+ロシア国防省は、ウクライナ政府が「意図的に施設を攻撃した」と主張。施設はウクライナ軍が昨年８月に予想外の越境攻撃を仕掛けて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230806.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/22/057f3975b3b2abd9160e6a8821c649b3/t/768/432/d/vlcsnap-2025-03-21-15h48m34s388.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230807.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-22T11:03:00+09:00</dc:date>
+        <title>中国、人工衛星同士の「ドッグファイト」を訓練　米宇宙軍</title>
+        <link>https://www.cnn.co.jp/world/35230807.html?ref=rss</link>
+        <description>米宇宙軍はこのほど、中国が宇宙能力強化策の一環として、人工衛星同士の「ドッグファイト」の訓練を行っていると明らかにした。安全保障における宇宙の重要性が増す中、米国の主要競合国は技術格差を縮めつつあるとも警鐘を鳴らした。
+
+宇宙軍のゲトライン宇宙作戦副部長は１８日の国防関連会合で、「宇宙空間の五つの物体が、同期した制御された動きで出入りしたり、互いの周囲を回ったりしている様子」を確認したと明らかに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230807.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/22/3253dceda23da615a019892db5743197/t/768/432/d/250312-f-le393-1432.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230805.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-22T09:25:00+09:00</dc:date>
+        <title>英ヒースロー空港火災、「不審点なし」　複数の便が空港を離陸</title>
+        <link>https://www.cnn.co.jp/world/35230805.html?ref=rss</link>
+        <description>英ロンドン・ヒースロー空港の停電の原因となった変電所の火災について、地元消防当局は２１日、「不審」な点はないとみられていると明らかにした。この火災により空港は混乱に見舞われていた。
+
+消防当局幹部は現地事件２１日夕の声明で、「ロンドン消防隊の火災調査官が科学顧問の支援の下、ロンドン警視庁と緊密に協力しながら出火原因の調査に当たっている」とした上で、「ロンドン警視庁は火災に不審な点はないとみられて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230805.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/22/5910177fb6ed2f49d0fbef0083e398ce/t/768/512/d/gettyimages-2205526064.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230795.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T20:00:00+09:00</dc:date>
+        <title>１日わずか数分でＯＫ、「エクササイズスナック」でがんの発症率や認知症リスクが低減</title>
+        <link>https://www.cnn.co.jp/fringe/35230795.html?ref=rss</link>
+        <description>中強度から高強度の運動を毎日少しでも行うか、現在の運動に少しだけ追加することで、認知症のリスクが軽減されることが分かった。ＪＡＭＤＡ誌に今月掲載された研究で明らかになった。中強度から高強度の運動をしていなかった人が、最も大きな恩恵を受けたという。
+
+エクササイズ・スポーツ・サイエンシズ・レビューズ誌に２０２２年１月に掲載された小規模な研究では、１５～３０秒の「エクササイズスナック」を１日３回行う...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230795.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/fa5c2dc02986bacaafb1d5aba370f53c/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbThkZ3BjeGMwMDFkMzU2bWYwenBiYjVv-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtOGRmdmUycTAwOGUyY3A0N3o0bjVxenQ=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35230802.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T19:13:00+09:00</dc:date>
+        <title>英ヒースロー空港閉鎖、損失は「数百億円」か　広い範囲に混乱</title>
+        <link>https://www.cnn.co.jp/business/35230802.html?ref=rss</link>
+        <description>英ヒースロー空港が２１日に閉鎖された。混乱の影響は英国最大の移動拠点であるヒースローのみにとどまらない見通しで、航空業界に数億ポンド（数百億円）の損失が発生する可能性がある。
+
+原因は空港に電力を供給する変電所の火災。航空専門家の一人によると、空の旅の混乱は数日間続く可能性があるという。２１日早朝の時点で、ヒースロー空港を発着する数百便が欠航または行き先の変更を余儀なくされた。航空分析会社シリウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35230802.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/e04bf247a94a3407073d3a6883478aa5/t/768/432/d/gettyimages-2205474054.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230797.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T17:51:00+09:00</dc:date>
+        <title>ウクライナ南部、大規模なドローン攻撃で炎上　トランプ氏が楽観的な見通し示す中</title>
+        <link>https://www.cnn.co.jp/world/35230797.html?ref=rss</link>
+        <description>ウクライナ南部の港湾都市オデーサが２０日、大規模なロシアのドローン（無人機）攻撃を受け炎に包まれた。地元当局によると、未成年者を含む少なくとも３人が負傷したという。この数時間前にはトランプ米大統領が戦争の終結に楽観的な見通しを示していた。２４日には和平交渉が再開される予定となっている。
+
+カイパー・オデーサ州知事によると、標的には高層住宅ビルやショッピングセンターが含まれていた。
+
+ＳＮＳで共有さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230797.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/0125aeba655afc9ebd538fad2e827297/t/768/432/d/odesa.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230793.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T17:33:00+09:00</dc:date>
+        <title>アイルランドの格闘家、大統領選出馬を表明　反移民の立場打ち出す</title>
+        <link>https://www.cnn.co.jp/showbiz/35230793.html?ref=rss</link>
+        <description>総合格闘技の元王者、アイルランドのコナー・マクレガー氏（３６）は２０日、今年のアイルランド大統領選に出馬する意向を明らかにした。アイルランドの大統領が担うのは主として儀礼的な役割だが、マクレガー氏は反移民の立場を打ち出して選挙戦に臨むとしている。
+
+近年、アイルランドにおける極右の顔として浮上してきたマクレガー氏はソーシャルメディアへの投稿で、新たな欧州連合（ＥＵ）の移民協定に異議を唱えるため大...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230793.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/ab630f6d8f87ed1915faf70b6c2ae30d/t/768/432/d/ap25076488955588.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230784.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T16:07:00+09:00</dc:date>
+        <title>観測史上最も遠い銀河で酸素を発見</title>
+        <link>https://www.cnn.co.jp/fringe/35230784.html?ref=rss</link>
+        <description>観測史上最も遠い銀河「ＪＡＤＥＳ―ＧＳ―ｚ１４―０」で酸素や重金属などの元素が発見された。この銀河は１３４億光年前に存在しており、初期の宇宙で形成されたもの。この発見は２０日にアストロフィジカル・ジャーナル誌とアストロノミー・アンド・アストロフィジクス誌に個別の研究として発表された。
+
+天文学者らは、１３８億年前のビッグバンによって宇宙が作られたと考えている。
+
+この異例なほど大きく明るい遠方銀河は、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230784.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/28efd190da5a2b51145f3e8bd309827e/t/768/432/d/eso2507a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35230792.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T15:13:00+09:00</dc:date>
+        <title>長年行方不明だったクリムトの肖像画お披露目、「アフリカの王子」描く</title>
+        <link>https://www.cnn.co.jp/style/arts/35230792.html?ref=rss</link>
+        <description>オーストリアの著名画家グスタフ・クリムトが手掛け、１９３０年代から行方不明と考えられていた初期作品が近年見つかり、発見後初めてお披露目されている。肖像画は現在のガーナに暮らしていた西アフリカの部族、ガー族のウィリアム・ニー・ノルテイ・ドウォナ王子を描いたもので、１８９７年に制作された。ゆるやかな筆致の花柄を背景に、王子の横顔が描かれている。
+
+高さ６１センチほどの小品は、オランダ・マーストリヒト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35230792.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/0004cc1cc3130ea4319a869f2ba8e723/t/768/512/d/wienerroither-klimt-detail-crop.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230787.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T14:05:00+09:00</dc:date>
+        <title>英ヒースロー空港で「大規模停電」、２１日終日閉鎖</title>
+        <link>https://www.cnn.co.jp/world/35230787.html?ref=rss</link>
+        <description>英ロンドンのヒースロー空港は、「大規模な停電」のため、２１日の終日にわたり同空港を完全に閉鎖すると発表した。今後数日にわたり「大きな混乱」が想定されるとも述べている。停電は近隣の変電所で発生した大規模火災が原因だという。ヒースロー空港は世界で有数の利用者数を誇る。
+
+空港はＸ（旧ツイッター）で２１日２３時５９分までの閉鎖を伝え、「今後数日は大きな混乱が予想されるため、空港が再開するまでいかなる状...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230787.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/2a82588b1964d5baf184b4f4ed7efeed/t/768/432/d/gmh49nabiaabjjt.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230789.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T14:00:00+09:00</dc:date>
+        <title>韓国俳優キム・スヒョンさん、複数の大手ブランドから降板　交際巡る疑惑の浮上受け</title>
+        <link>https://www.cnn.co.jp/showbiz/35230789.html?ref=rss</link>
+        <description>イタリアの高級ファッションブランド、プラダなど複数の国際ブランドが、韓国の人気俳優キム・スヒョンさんとの提携を打ち切ったことが分かった。キムさんは今月に入り、先月死去した韓国女優キム・セロンさんとの交際の性質を巡る論争に巻き込まれていた。
+
+スヒョンさんは韓国芸能界のトップに君臨するスーパースターの一人。スヒョンさんを巡っては今月、動画投稿サイト、ユーチューブ上の政治系ニュースを扱うことで知られ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230789.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/db025c21d5ee0f9371e71eeac5b44d5b/t/768/432/d/ap24189455288539.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230781.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T13:10:00+09:00</dc:date>
+        <title>カナダ首相、２３日に解散総選挙要請の見通し</title>
+        <link>https://www.cnn.co.jp/world/35230781.html?ref=rss</link>
+        <description>カナダのカーニー首相は、同国の総督に対して２３日に議会の解散と総選挙の実施を求める見通しだ。政府の情報筋２人が明らかにした。
+
+情報筋によると、要請が実際に行われれば総選挙の投票日は来月２８日となる公算が大きい。米国と異なり、カナダの総選挙は４年に１度の特定の日に固定されているわけではなく、総督が首相の助言に基づいて一定の期間内で選挙日程を決めている。
+
+カーニー氏は１月のトルドー前首相の辞任表明...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230781.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/e1d3ce1d34d370227b512a7f792bd4b9/t/768/432/d/2025-03-20t210849z-1287418442-rc21hdaslwwl-rtrmadp-3-canada-politics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230779.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T12:21:00+09:00</dc:date>
+        <title>米国の原発「保有」にウクライナ大統領が反論、専門家は現実性に疑問</title>
+        <link>https://www.cnn.co.jp/usa/35230779.html?ref=rss</link>
+        <description>ロシア軍が占領しているウクライナのザポリージャ原発について、米国が復旧させ、守ることができるとトランプ政権が主張している。しかし専門家は、ロシアに占領された前線にある原発を現実的にどう稼働させるのかが不明だとして疑問を投げかけている。
+
+米政府の発表によると、米国のドナルド・トランプ大統領とウクライナのボロディミル・ゼレンスキー大統領は１９日の電話会談で、「ウクライナの電力供給と原子力発電所につ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230779.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/6cf28100ec8b0fbc1ccdb1fb2dca35e5/t/768/432/d/2023-06-15t133822z-1549839264-rc2mj1abm606-rtrmadp-3-ukraine-crisis-nuclear-grossi.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35230775.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T11:55:00+09:00</dc:date>
+        <title>テスラ、米中古車市場で史上最安値　所有者への嫌がらせや破壊行為の増加が一因か</title>
+        <link>https://www.cnn.co.jp/business/35230775.html?ref=rss</link>
+        <description>米中古車市場でテスラ車が史上最安値を記録し、買い手がつきづらくなっていることがわかった。自動車情報サイト「Ｃａｒｓ．ｃｏｍ」の３月の調査で明らかになった。トランプ大統領がテスラ車を熱心に宣伝しているにもかかわらず、テスラ車の状況は厳しい。
+
+テスラの最高経営責任者（ＣＥＯ）イーロン・マスク氏が米政府で物議を醸す過大な役割を担い続ける中、テスラ車の所有者への嫌がらせのほか、同社ショールームや車両の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35230775.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/65c3417a26c214fa2a2c2ef7f4b6af7c/t/768/511/d/ap23061005431961.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230773.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T11:25:00+09:00</dc:date>
+        <title>イスラエル政府、諜報機関トップを解任</title>
+        <link>https://www.cnn.co.jp/world/35230773.html?ref=rss</link>
+        <description>イスラエル政府は２１日未明、採決を通じて同国総保安庁（シンベト）のロネン・バー長官を解任した。
+
+ネタニヤフ首相の事務所は同日声明を出し、バー氏の任期を打ち切るとした首相の提案を政府が全会一致で承認したと述べた。声明によるとバー氏は来月１０日、もしくは後任の長官が任命された時点で長官の職を終えることになる。
+
+一方で採決に対しては、今後イスラエルの最高裁が異議を申し立てる可能性もある。
+
+ネタニヤフ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230773.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/ee6483b6645177b956af10f5dee56378/t/768/432/d/gettyimages-2152178639.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35230771.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T11:00:00+09:00</dc:date>
+        <title>世界幸福度ランキング、北欧諸国が依然上位　中米２カ国が初のトップ１０入り</title>
+        <link>https://www.cnn.co.jp/travel/35230771.html?ref=rss</link>
+        <description>２０２５年版の世界幸福度ランキングで、フィンランドが８年連続の首位をキープした。同ランキングは国連が定める３月２０日の「国際幸福デー」に合わせて毎年公表されており、今年で１３回目。
+
+リポートによると、米国や欧州の一部の国では、幸福度や社会的信頼が低下し、その影響で、政治的分断や制度に対する反感が著しく増大している。
+
+ランキングは世界１４０カ国あまりで行われたギャラップの世論調査をもとに、過去３...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35230771.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/3518f009afbf0bab7dab354d43cebdea/t/768/432/d/finland-helsinki-events-kallioblockfest-highres-by-juliakivela-mg-62910-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230767.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T10:33:00+09:00</dc:date>
+        <title>米国人の英市民権申請ラッシュ、トランプ氏と「明らかに関係」　英ロンドン市長</title>
+        <link>https://www.cnn.co.jp/world/35230767.html?ref=rss</link>
+        <description>英ロンドンのサディク・カーン市長がＣＮＮの単独インタビューに応じ、米国人の間で英国の市民権申請ラッシュが起きているのは、ドナルド・トランプ氏がホワイトハウスに返り咲いたことと明らかに関係があるとの見解を示した。
+
+英内務省によると、昨年、英国の市民権を申請した米国人は過去最多だった。特に、トランプ氏が大統領に再選された１１月を含む１０～１２月期は申請が急増した。
+
+２０２４年に英国の市民権を申請し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230767.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/1a235571e32867f2aae5c5acf0d3c760/t/768/432/d/190424102521-trump-baby-blimp.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230764.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T10:09:00+09:00</dc:date>
+        <title>米当局、フランス人研究者の入国拒否　「トランプ大統領に言及のメッセージ発見」理由に</title>
+        <link>https://www.cnn.co.jp/world/35230764.html?ref=rss</link>
+        <description>学会に出席するため米国に入国しようとしたフランス人研究者が、携帯電話の中からドナルド・トランプ大統領について意見を交わしたメッセージが見つかったという理由で、米国への入国を拒否された。フランス政府が２０日に明らかにした。
+
+フランスのフィリップ・バティスト高等教育・研究相によると、この研究者は今月９日、テキサス州ヒューストン近郊で開かれた学会に出席するため渡米した。しかし米当局がこの研究者の携帯...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230764.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/3ae27b7bfddd02f647fb8ffc6597061f/t/768/432/d/150325082132-social-gfx-breaking-news.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230761.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T09:53:00+09:00</dc:date>
+        <title>トランプ米大統領、教育省解体を開始する大統領令に署名</title>
+        <link>https://www.cnn.co.jp/usa/35230761.html?ref=rss</link>
+        <description>トランプ米大統領は２０日、教育省の解体を開始するための大統領令に署名した。過去数十年にわたり、保守派は同省を廃止する野心を抱いてきたがそれを満たすことを念頭に置いた措置だ。しかし国内に数百万校存在する公立学校や学生ローンの管理機関、保護者らにとっては新たな疑問が浮上する事態となっている。
+
+最近の歴史において閣僚レベルの政府機関の閉鎖を試みた大統領はこれまで一人もいない。教育省の大掛かりな閉鎖に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230761.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/466e6dabb0a75114f40543d3a746cbe0/t/768/512/d/2025-03-20t204220z-594736188-rc28hda3n0e6-rtrmadp-3-usa-trump-education-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230759.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T09:21:00+09:00</dc:date>
+        <title>マスク氏、判事弾劾を支持する米共和党議員に献金</title>
+        <link>https://www.cnn.co.jp/usa/35230759.html?ref=rss</link>
+        <description>情報筋によると、米政府効率化省（ＤＯＧＥ）を率いる大富豪の実業家イーロン・マスク氏は今週、トランプ政権の政策を差し止める判断を示した連邦裁判所の判事の弾劾（だんがい）を支持する共和党の議員らに献金を行った。
+
+マスク氏は所有するＸ（旧ツイッター）で判事らの解任を繰り返し求めている。
+
+マスク氏が今回献金したのは、いずれも下院議員のイーライ・クレイン氏（アリゾナ州選出）、ローレン・ボーベルト氏（コロ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230755.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T07:25:00+09:00</dc:date>
+        <title>ＩＯＣ新会長にコベントリー氏　初の女性・アフリカ出身</title>
+        <link>https://www.cnn.co.jp/showbiz/35230755.html?ref=rss</link>
+        <description>国際オリンピック委員会（ＩＯＣ）の会長選挙が２０日、ギリシャ南部のコスタ・ナバリノで行われ、　ジンバブエの元競泳選手で五輪金メダリストのカースティ・コベントリー氏（４１）が選出された。女性、そしてアフリカ出身者がトップに就くのは初めて。
+
+コベントリー氏は１２年の任期を終えて退任するトーマス・バッハ氏の後任として、６月２４日に第１０代会長に就任する。
+
+史上最年少のＩＯＣ会長となるコベントリー氏は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230755.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/b6911254995804405a16d62f366b32fe/t/768/432/d/gettyimages-2205387796.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230754.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-21T06:30:00+09:00</dc:date>
+        <title>イスラエル、ガザ攻撃を継続　ハマスも反撃</title>
+        <link>https://www.cnn.co.jp/world/35230754.html?ref=rss</link>
+        <description>イスラム組織ハマスは２０日、パレスチナ自治区ガザ地区からイスラエルに向けてロケット弾を発射した。２カ月の停戦を経てイスラエル軍が１８日に攻撃を再開してから、ハマスが反撃するのは初めて。イスラエル軍は２０日も地上作戦を行った。
+
+イスラエル軍は１８日にガザ地区を空爆し、翌日には地上作戦を開始した。ガザの保健省によると、１８日以降、イスラエル軍による攻撃で子ども２００人を含む５００人超が死亡した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230754.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/21/9bde82b8ac7b0acec9d561991e1176e9/t/768/432/d/gettyimages-2205267792.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230752.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-20T19:04:00+09:00</dc:date>
+        <title>天の川銀河内から届く謎の電波パルス、発信源は矮星の連星だった　研究</title>
+        <link>https://www.cnn.co.jp/fringe/35230752.html?ref=rss</link>
+        <description>北斗七星があるおおぐま座の方向から、宇宙の鼓動のごとく２時間ごとに３０秒から９０秒間届く電波パルスの発信源は、白色矮星（わいせい）と呼ばれる星の残骸と、宇宙では最もありふれた小さく低温の恒星である赤色矮星の連星であったことが、今月１２日、英天文学誌「ネイチャー・アストロノミー」に発表された研究結果で分かった。
+
+まとめて「ＩＬＴＪ１１０１」と呼ばれるこの二つの恒星は、互いの磁場が相互作用するほど...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230752.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/20/971eb1f07b47bbd2d892b147a90b36d4/t/768/432/d/16-9-radioburst-dwarfstar-binary-credit-danielle-futselaar-artsource-nl.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230751.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-20T16:24:00+09:00</dc:date>
+        <title>Ｗ杯予選に臨むパレスチナ代表チーム、戦禍のガザで子どもたちに希望</title>
+        <link>https://www.cnn.co.jp/world/35230751.html?ref=rss</link>
+        <description>現代のサッカー界で心の琴線に触れるのは、選手のフィールドでの活躍ばかりではない。サッカーのワールドカップ（Ｗ杯）予選試合を目前に控えてパレスチナのサッカー協会が公開した代表チーム選考の動画は、それを物語っている。
+
+映っているのはガザに積み重なるがれきの山。子どもたちは海岸で、がれきと化した都市の中で、露店で、授業が行われているテントの中で、代表選手の写真を見つける。
+
+カンバスに入ったＤＦムサブ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230751.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/20/b2ca7b1ea6c2ab6c857543f3cf89c498/t/768/432/d/israel-palestinians-gaza.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230750.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-20T15:17:00+09:00</dc:date>
+        <title>移民の苦境訴える４児の母、米コロラド州で拘束　抵抗運動のシンボル</title>
+        <link>https://www.cnn.co.jp/usa/35230750.html?ref=rss</link>
+        <description>米国で証明書類を持たない移民としての苦境を訴えてきたメキシコ出身の女性が、コロラド州の勤務先で移民税関捜査局（ⅠＣＥ）に拘束された。
+
+ジャネット・ビスゲラさん（５３）は１７日、勤務していた州都デンバー付近の小売り大型店で、休憩中に拘束された。
+
+娘のルナバエスさんによると、そこからトラックで連行され、現在は同州オーロラの施設に収容されている。
+
+ビスゲラさんは１９９７年に夫、長女とともにメキシコから...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230750.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/20/b25209eb48405228aff2dc48600ba53b/t/768/432/d/gettyimages-1298778389.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230748.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-20T14:20:00+09:00</dc:date>
+        <title>試合前に追悼した元選手、実は生きていた　ブルガリアのサッカーチームが謝罪　</title>
+        <link>https://www.cnn.co.jp/fringe/35230748.html?ref=rss</link>
+        <description>ブルガリアで行われたサッカー１部リーグの試合で、元選手に哀悼の意を表して両チームの選手が１分間の黙祷（もくとう）をささげた。ところが間もなく、この選手は死亡していなかったことが分かり、チームが謝罪した。
+
+１６日に行われたレフスキ・ソフィア対アルダ・クルジャリの試合。キックオフ前に両チームの選手がフィールドのセンター付近に並び、アルダの元選手ペトコ・ガンチェフさんを追悼した。
+
+ところが試合終了前...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230748.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/20/708caa4eb7b4e50c3c95c5c2e4b9f6da/t/768/432/d/480967868-1224348046272469-6607842321762750406-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
