@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-03-25T08:29:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230894.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230893.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230892.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230888.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230825.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230884.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35230882.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230877.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230873.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230872.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35230865.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230864.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230856.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230853.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230851.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230850.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230847.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230845.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230830.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230649.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230826.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35230824.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230823.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35230815.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35230816.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230822.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230821.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35230820.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35230811.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35230813.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35230894.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-25T08:29:00+09:00</dc:date>
+        <title>オスカー作品「ノー・アザー・ランド」のパレスチナ人監督、イスラエル人入植者に襲われる　ヨルダン川西岸</title>
+        <link>https://www.cnn.co.jp/world/35230894.html?ref=rss</link>
+        <description>米アカデミー賞を受賞した映画「ノー・アザー・ランド　故郷は他にない」の共同監督を務めたパレスチナ人のハムダーン・バラール氏が、パレスチナ自治区ヨルダン川西岸でイスラエル人入植者に殴打され、イスラエル軍兵士によって連れ去られた。同僚や目撃者が明らかにした。
+
+バラール氏と共に映画を監督したバーセル・アドラー氏がＣＮＮの取材に答えた。それによるとアドラー氏は２４日、トラブルに遭ったとみられるバラール...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230894.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/25/07ea1acb8aad4ddc41a419fa348c7ace/t/768/432/d/ap25062235526514.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230893.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-25T08:13:00+09:00</dc:date>
+        <title>イエメン攻撃計画を協議するグループチャット、トランプ政権高官が誤って記者を追加か</title>
+        <link>https://www.cnn.co.jp/usa/35230893.html?ref=rss</link>
+        <description>米誌アトランティックはこのほど、トランプ政権の高官が誤って記者の追加されたグループチャットで、中東イエメンでの軍事攻撃に関する詳しい作戦計画などをやり取りしていたと報じた。アトランティック誌の報道に対し、米国の元国家安全保障当局者からはショックと恐怖の入り交じった反応が出ている。
+
+やり取りは民間の暗号化チャットアプリ「シグナル」を通じて行われた。トランプ政権はこれらのメッセージについて本物のよ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230893.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/25/7da9fd9a3b170251aa8c54a357d081c3/t/768/512/d/c-sipausa-11-513158585-384207545-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230892.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-25T07:39:00+09:00</dc:date>
+        <title>大統領の「政敵」逮捕後に抗議デモ、１０００人超拘束　トルコ</title>
+        <link>https://www.cnn.co.jp/world/35230892.html?ref=rss</link>
+        <description>トルコのイェルリカヤ内相は２４日、最大都市イスタンブールのイマモール市長が収監されたことに対する抗議デモを受けてこれまで１０００人以上を拘束したと明らかにした。
+
+Ｘ（旧ツイッター）への投稿で、同内相は「３月１９日から２３日にかけて発生した違法行為により、１１３３人の容疑者を拘束した」と説明。拘束者には１２の異なるテロ組織と関連がある人物が含まれていると付け加えた。
+
+エルドアン大統領の政敵とされ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230892.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/25/d5fe45a28a40552b4ad4b7110f3e5783/t/768/432/d/ap25082754014888.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230888.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T19:56:00+09:00</dc:date>
+        <title>韓国憲法裁、首相の弾劾訴追を棄却　大統領の権限代行に復帰</title>
+        <link>https://www.cnn.co.jp/world/35230888.html?ref=rss</link>
+        <description>韓国の憲法裁判所は２４日、同国の韓悳洙（ハンドクス）首相に対する弾劾（だんがい）訴追を棄却した。韓氏は職務停止が解かれて、大統領の権限代行に復帰した。尹錫悦（ユンソンニョル）大統領が昨年末に戒厳令を宣言して以来続いてきた数カ月にわたる政治的混乱における最新の展開となった。
+
+職務停止中の尹氏を弾劾するかどうかについては、まだ結論が出ていない。尹氏は民事法手続きを一時停止し、政治活動を制限するとと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230888.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/8420bffa1fa88c6f0b4347e3c9627e77/t/768/432/d/3-southkorea-politics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230825.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T18:21:00+09:00</dc:date>
+        <title>ロシアの世界的地位に抱く個人的感情、プーチン氏が本当に望むものとは</title>
+        <link>https://www.cnn.co.jp/world/35230825.html?ref=rss</link>
+        <description>トランプ米大統領はこう言った。ロシアのプーチン大統領は平和を望んでいると思う、と。ウクライナと欧州の同盟国はそう考えていない。プーチン氏自身は平和を望むと語っていたものの、いざそれが選択肢として提示されると同意を拒んだ。
+
+プーチン氏が本当に望んでいるのは、それよりも格段に大きなものだ。
+
+本人は全く隠そうともしないが、事実プーチン氏はウクライナについて、独立国家として存在するべきではないと信じて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230825.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/23/692b98b5e198b4a519f7149417dfc4fe/t/768/432/d/russia-vladimir-putin-wants-rough-gfx.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230884.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T17:53:00+09:00</dc:date>
+        <title>カナダ総選挙の争点は「米国への対抗」、ただし同国経済は戦闘態勢にあらず</title>
+        <link>https://www.cnn.co.jp/world/35230884.html?ref=rss</link>
+        <description>コメディアンのマイク・マイヤーズ氏が生まれ故郷（カナダ）と居住地（米国）が対立する中、「戦う準備はできている」というときの声を上げたとき、カナダ全土では、笑い声と同じくらいうめき声があがったに違いない。これはマイヤーズ氏がカーニー首相とともにアイスホッケー場で会話する選挙広告の一幕だ。
+
+与党・自由党の広告は、カナダ人のありきたりだが真実の固定観念やジョークを多く取り上げたが、今回の厳しい選挙戦...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230884.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/9bec651e67dfaff4e67947e29e52149f/t/768/432/d/screenshot-2025-03-24-at-10-03-59-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35230882.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T17:29:00+09:00</dc:date>
+        <title>富士山、「入山料」４０００円を徴収へ　オーバーツーリズムとのバランスを模索</title>
+        <link>https://www.cnn.co.jp/travel/35230882.html?ref=rss</link>
+        <description>富士山は、世界遺産に登録され、世界的な観光名所であり、日本にとっての象徴だが、近年は何百万人もの観光客が訪れることで「ごみの山」となりつつある。こうした状況を受けて、人気観光地のバランスを模索するなか、静岡県と山梨県は今夏の登山シーズンに４０００円の「入山料」を徴収することを決定した。
+
+富士山の登山シーズンは７月から９月。富士山に登る人はまず４０００円の入山料を支払う必要がある。また、１日あた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35230882.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/0338d10febcd93754c353e4b648dbe19/t/768/432/d/gettyimages-2187823903.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230877.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T15:38:00+09:00</dc:date>
+        <title>防衛力の増強に舵を切るドイツ、その課題は</title>
+        <link>https://www.cnn.co.jp/world/35230877.html?ref=rss</link>
+        <description>トランプ米政権がウクライナ戦争終結に向けた合意を模索する中、欧州各国は数十年ぶりに自国の軍事力に注目している。この変化が最も顕著なのはドイツだ。ドイツ連邦軍は長年、投資不足に見舞われていたが、変化の時を迎えようとしている。
+
+次期首相が確実視されるフリードリヒ・メルツ氏は、今こそ冷戦以降最大規模の投資を防衛力に行うべきだと決断した。
+
+ドイツはこのほど、数十億ユーロの財政拡張を可能とする、「債務ブ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230877.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/a05e6748e59ec29a19717e749e3e26b2/t/768/513/d/Germany-military.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230873.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T14:43:00+09:00</dc:date>
+        <title>米内国歳入庁、不法滞在の納税者特定に協力へ　国土安全保障省と合意間近</title>
+        <link>https://www.cnn.co.jp/usa/35230873.html?ref=rss</link>
+        <description>米国への不法滞在が疑われる納税者の特定に向け、米内国歳入庁（ＩＲＳ）が国土安全保障省に協力する内容の合意が近づいている。事情に詳しい関係者が明らかにした。
+
+この合意は、不法滞在が疑われる納税者の氏名と住所を移民税関捜査局（ＩＣＥ）が提出し、ＩＲＳで照合してその情報を確認するという内容。
+
+納税者情報は通常、ＩＲＳの外へ出ることはなく、ＩＲＳが納税者の情報を不適切に開示することは法律で禁じられてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230873.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/01456af230bd966d95c9df69a982b7a2/t/768/432/d/rtrmadp-3-usa-trump-irs.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230872.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T13:35:00+09:00</dc:date>
+        <title>カナダ首相、４月２８日の総選挙を発表　トランプ氏に対抗する権限求める</title>
+        <link>https://www.cnn.co.jp/world/35230872.html?ref=rss</link>
+        <description>カナダのカーニー首相は２３日、４月２８日に総選挙を実施すると明らかにした。カーニー氏はこの日、サイモン総督を訪問し、議会の解散を要請した。
+
+カーニー氏は２３日、米国との間で続いている貿易戦争に言及し、「私はカナダ国民に対して、トランプ米大統領に対処し、すべての人に役立つ新しいカナダ経済を築くための強力で前向きな支持を求める。なぜなら、変化が必要だとわかっているからだ」と訴えた。
+
+カーニー氏は来...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230872.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/b56d4c5bb707cce74b0e6ba040631272/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbThsdTZ5ZTgwMDRiMjdxajUycHVoM2Z2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtOGx1NnllODAwNGcyN3FqZWJ2dGNjaGg=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35230865.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T12:57:00+09:00</dc:date>
+        <title>実写版「白雪姫」興行収入振るわず　配役や描き方めぐり物議</title>
+        <link>https://www.cnn.co.jp/showbiz/35230865.html?ref=rss</link>
+        <description>米ウォルト・ディズニーがおとぎ話を実写化したミュージカル映画「白雪姫」が米国で公開された。さまざまな論議を呼んだ同作品の最初の週末の米国内興行収入は、４３００万ドル（約６４億円）と振るわなかった。
+
+白雪姫は制作費およそ２億７０００万ドルをかけた大作映画。業界の推計では米国内興行収入を４８００万～５８００万ドルと見込んでいた。この予想には届かなかったものの、白雪姫の興行収入はフォーカス・フィーチ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35230865.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/8d2357732c9d0985009672b66ecc04b0/t/768/432/d/snow-white-dtrl2-uhd-r709f-stills-241030-7c9c63f9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230864.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T12:43:00+09:00</dc:date>
+        <title>イスラエル、ガザ南部の病院を空爆　援助物資封鎖で飢餓の危機深刻化</title>
+        <link>https://www.cnn.co.jp/world/35230864.html?ref=rss</link>
+        <description>イスラエル軍は２３日夜、パレスチナ自治区ガザ地区南部ハンユニスにあるナセル病院を空爆した。同病院の医師２人がＣＮＮに語ったところによると、この空爆で病院の一部が炎上し、複数の犠牲者が出ている。
+
+イスラエル軍は、「（病院の）内部で活動していたテロ組織ハマスのテロ中心人物」に空爆を実行したことを確認した。標的とした人物の氏名は明らかにしていない。
+
+イスラム組織ハマス系のアクサＴＶは、ハマス政治局員...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230864.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/f9f79efe6ddbbd8d5bf2bc197c96d6b6/t/768/432/d/3-israel-palestinians-gaza.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230856.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T12:21:00+09:00</dc:date>
+        <title>大統領の「政敵」を逮捕、野党への取り締まりが激化　トルコ</title>
+        <link>https://www.cnn.co.jp/world/35230856.html?ref=rss</link>
+        <description>トルコの裁判所は２３日、最大都市イスタンブールのイマモール市長を汚職の容疑で収監した。権威主義的なエルドアン大統領に対する野党勢力への取り締まりが激しさを増している。
+
+エルドアン氏にとっての最大の「政敵」とされるイマモール氏は１９日に自宅で拘束されていた。イマモール氏は数日後に２０２８年の大統領選で、最大野党である共和人民党（ＣＨＰ）の候補者として登録されるとみられていた。
+
+イマモール氏は容疑...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230856.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/b069aa2dd1f571cde8f5110d4c1928a7/t/768/432/d/gettyimages-2205793785.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230853.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T11:39:00+09:00</dc:date>
+        <title>トランプ政権、移民５０万人の在留資格取り消しへ</title>
+        <link>https://www.cnn.co.jp/usa/35230853.html?ref=rss</link>
+        <description>トランプ政権は、バイデン前政権時代の臨時入国許可プログラムの下で米国に滞在しているキューバ、ハイチ、ニカラグア、ベネズエラ出身の移民５０万人以上の合法的な在留資格を取り消す。連邦政府の通達で明らかになった。
+
+同プログラムの下で米国に滞在していた移民は、通達が公開されてから３０日後となる４月２４日までに国外退去するよう通告されている。
+
+国土安全保障省（ＤＨＳ）は１月、特定の移民が一時的に米国に居...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230851.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T11:17:00+09:00</dc:date>
+        <title>プーチン氏とトランプ氏の会談、２回以上の可能性も　ロシア大統領府</title>
+        <link>https://www.cnn.co.jp/world/35230851.html?ref=rss</link>
+        <description>ロシアのペスコフ大統領報道官は、ロシアのプーチン大統領と米国のトランプ大統領がこれまで公になっている会談以外にも接触した可能性があると明らかにした。
+
+ペスコフ氏は、ロシア国営テレビが２３日に放送したインタビューで、「我々は把握している会談について伝えている。しかし、他の全てを排除することはできない」と述べた。
+
+これまでのところ、米国で第２次トランプ政権が始まって以降、両首脳による電話会談があっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230851.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/9c8510cefb3ad8a152c8723c8b08f18d/t/768/432/d/putin-trump-split-031725.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230850.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T10:51:00+09:00</dc:date>
+        <title>米・ウクライナ、サウジで「生産的な」会談　エネルギー問題など協議</title>
+        <link>https://www.cnn.co.jp/world/35230850.html?ref=rss</link>
+        <description>米国とウクライナは２３日、サウジアラビア首都リヤドで会談を行った。ウクライナのウメロウ国防相はＳＮＳでこの協議について「生産的で的を絞った」ものだったと締めくくった。エネルギーなど主要な論点について話し合われたという。
+
+ウメロウ氏は「ゼレンスキー大統領の目標は、我が国と国民、ひいては欧州全体のための公正で永続的な平和を確保することだ。我々はその目標の実現に向けて取り組んでいる」と述べた。
+
+ロシ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230850.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/0630634943053aa63c7c0f07b511d3b4/t/768/512/d/gettyimages-2205034162.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230847.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T10:32:00+09:00</dc:date>
+        <title>ローマ教皇が退院、バルコニーで信者にあいさつ　２カ月の療養</title>
+        <link>https://www.cnn.co.jp/world/35230847.html?ref=rss</link>
+        <description>ローマ・カトリック教会のフランシスコ教皇（８８）が２３日、ローマ市内の病院を退院した。教皇は肺炎の治療のため５週間にわたり入院していた。退院後はバチカンに戻り療養する。
+
+フランシスコ教皇は退院前、数週間ぶりに公の場に姿を現し、バルコニーから人々に向かって手を振ったり親指を立てたりした。
+
+フランシスコ教皇は衰弱して話すのにも苦労しているように見えたが、病院の外の人々に向かって話しかけ、謝意を示し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230847.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/4d10a12817db9d94598a9af473b4b00c/t/768/512/d/2025-03-23t110430z-1260729765-rc2yidazpdsa-rtrmadp-3-pope-francis-health.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230845.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T09:54:00+09:00</dc:date>
+        <title>ガザの犠牲者５万人超す、実際にははるかに多い可能性</title>
+        <link>https://www.cnn.co.jp/world/35230845.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区の保健省は２３日、イスラエルとハマスの戦争が始まって以来、ガザで死亡した住民が５万人を超えたと発表した。死者の数は過去２４時間だけで４１人増え、合計５万２１人となった。
+
+ガザ保健省や国連によると、死者の大部分は女性と子どもだった。まだがれきの下敷きになっている犠牲者も数千人に上ると思われ、実際の犠牲者数は５万人を大幅に上回る可能性がある。
+
+
+  
+  
+イスラエル軍による攻撃で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230845.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/e95ff368103be1e88ded1912a39b538f/t/768/432/d/gettyimages-1874700050.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230830.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-24T09:11:00+09:00</dc:date>
+        <title>イスラエル軍、人質解放までガザを「恒久的に支配」</title>
+        <link>https://www.cnn.co.jp/world/35230830.html?ref=rss</link>
+        <description>イスラエル軍がパレスチナ自治区ガザ地区で再開した軍事作戦をめぐり、イスラエルのカッツ国防相は、イスラム組織ハマスに拘束されている人質が解放されなければ、イスラエル軍がガザを「恒久的に支配」すると述べた。
+
+不安定な停戦合意は先週、イスラエル軍がガザに対する空爆を実施して事実上崩壊した。イスラエルとハマスは約２カ月にわたり、イスラエル人の人質とパレスチナ人の受刑者の交換を行っていた。
+
+カッツ氏によ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230830.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/24/7514ed7811aa52dd3f41531ae8edcdea/t/768/432/d/01-2025-03-19t200624z-718024299-rc2ggdacy0tl-rtrmadp-3-israel-palestinians-gaza-war.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230649.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-23T17:00:00+09:00</dc:date>
+        <title>「メイド・イン・ロシア」が中国で大人気、需要につけ込んで不正な店舗も</title>
+        <link>https://www.cnn.co.jp/world/35230649.html?ref=rss</link>
+        <description>店先は白と青と赤で彩られ、天井からは中国とロシアの国旗が並んでつり下げられている。入り口では腰までの高さのロシア人形が客を出迎え、店内の棚にはチョコレートやクッキーから蜂蜜やウォッカまで、さまざまなロシア産の商品が並ぶ。
+
+中国では、ロシアの商品を専門に扱うポップアップストアがますます目につくようになってきた。こうした店舗の急増をめぐり、住民の一部からは困惑の声が上がるほか、ＳＮＳでは、なぜこう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230649.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/18/8a746083c8bf6e6d2837ddd5bd475d6a/t/768/512/d/01-gettyimages-2192011871-jpg.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230826.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-23T16:44:00+09:00</dc:date>
+        <title>韓国人旅行者３人が行方不明に、グランドキャニオンとラスベガスの間を移動中</title>
+        <link>https://www.cnn.co.jp/usa/35230826.html?ref=rss</link>
+        <description>グランドキャニオンとラスベガスの間を車で移動中に冬の嵐に遭遇した訪米中の韓国人家族３人が１週間以上にわたって行方不明になっている。アリゾナ州当局が明らかにした。
+
+ココニノ郡保安官事務所によれば、イ・ジヨンさん（３３）とキム・テヒさん（５９）、キム・ジョンヒさん（５４）が最後に確認されたのは州間高速道路をレンタカーで走行していた３月１３日。
+
+アリゾナ州当局の発表によると、同日午後３時２７分ごろ、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230826.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/23/49643f87fcf4278d211b7bf7f69527c1/t/768/432/d/missing1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35230824.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-23T15:30:00+09:00</dc:date>
+        <title>市全体でマインドフルネス追求、新空港のデザイン披露　ブータン</title>
+        <link>https://www.cnn.co.jp/travel/35230824.html?ref=rss</link>
+        <description>ウェルネス業界で人気の「マインドフルネス」をテーマにしたホテルやスパは各地にある。しかしヒマラヤ山脈に囲まれた国ブータンは、それよりはるかに先を行き、市全体でこの理念を追求する「マインドフルネス・シティー」の構想を打ち出した。
+
+このプロジェクトのために選ばれたのは、インドとの国境に近いブータン南部の都市ゲレフー。ただし詳細はほとんど分かっていなかった。
+
+今回、建設会社のビャルケ・インゲルス・グ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35230824.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/23/c36f9ee4725851f03ba4b4359fb774b4/t/768/512/d/001-glu-gelephu-airport-concept-aerial-by-big.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230823.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-23T14:08:00+09:00</dc:date>
+        <title>公園の銃乱射で３人死亡、１５人負傷　米西部ニューメキシコ州</title>
+        <link>https://www.cnn.co.jp/usa/35230823.html?ref=rss</link>
+        <description>米西部ニューメキシコ州ラスクルーセスの公園で２１日に銃乱射事件があり、地元警察によると１０代の３人が死亡、１５人が負傷した。
+
+米ＮＰＯ「ガン・バイオレンス・アーカイブ（ＧＶＡ）」によると、米国内での銃乱射事件は今年５３件目。ＧＶＡは、銃撃犯を除く４人以上が死傷した事件を銃乱射と定義している。
+
+警察責任者は２２日の記者会見で、午後１０時ごろに二つのグループ間の口論が銃撃に発展したと発表した。
+
+地...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35230815.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-23T13:39:00+09:00</dc:date>
+        <title>大型貨物帆船で行く大西洋横断の旅、ターゲットは環境意識の高い旅行者</title>
+        <link>https://www.cnn.co.jp/travel/35230815.html?ref=rss</link>
+        <description>世界最大の貨物帆船とされる「アルテミス号」が、フランス北部に位置するルアーブル港を出港し、３２日間の航海を経て、１月２７日午後にニューヨークに到着した。
+
+同船からは、フランス産のリキュールやシャンパン、ビルブレカンの水着、ボンヌ・ママンのジャムなど、約１０００トンの荷物が降ろされ、さらに４人の乗客が下船した。
+
+この４人は、フランスのスタートアップ企業トランスオーシアニック・ウインド・トランスポ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35230815.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/22/f1e869c8c7b1e39de8867a128029d2ba/20240806-anemos-8-ronan-gladu-towt.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35230816.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-23T13:31:00+09:00</dc:date>
+        <title>写真特集：風の力で推進、船の世界で風力復活か</title>
+        <link>https://www.cnn.co.jp/photo/35230816.html?ref=rss</link>
+        <description>船の世界で環境に優しい風力の存在感が増している。風の力で大海原を旅する船の数々を写真で見ていく&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35230816.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/22/1954a1cf745cc8e1ae2ce8a731e70efc/t/768/436/d/230627132715-airseas-seawing-1-gallery-20250128142931296.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230822.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-23T12:23:00+09:00</dc:date>
+        <title>イスラエル軍、レバノンで「ヒズボラ拠点」を空爆　子ども含む７人死亡</title>
+        <link>https://www.cnn.co.jp/world/35230822.html?ref=rss</link>
+        <description>イスラエル軍は２２日、レバノン各地でイスラム教シーア派組織ヒズボラの拠点とされる施設に対し、複数回にわたり空爆を実施した。
+
+レバノン保健省は、この空爆で子ども１人を含む少なくとも７人が死亡し、４０人が負傷したと発表した。
+
+イスラエルとヒズボラの間で昨年１１月に停戦合意が成立してから、最大規模の暴力となった。
+
+イスラエル首相府は、ヒズボラからのロケット弾に対抗した２２日午前の攻撃に続き、ネタニヤ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230822.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/23/a16aecf945180ff5473a30a4d46b3fb7/t/768/432/d/gettyimages-2205680351.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230821.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-23T12:07:00+09:00</dc:date>
+        <title>ローマ教皇、退院へ　肺炎で１カ月以上入院</title>
+        <link>https://www.cnn.co.jp/world/35230821.html?ref=rss</link>
+        <description>肺炎で１カ月以上入院していたフランシスコ教皇（８８）が、２３日に退院する見通しとなった。入院先の担当チームを率いる医師が２２日の記者会見で発表した。
+
+同医師が病院での会見で語ったところによると、教皇の容体は安定している。退院後も薬物治療を一部継続し、少なくとも２カ月の静養期間を設けることとする。
+
+ローマ教皇庁（バチカン）の報道官によると、教皇は２３日、バチカン敷地内の居宅「サンタマルタ館」に向...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230821.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/23/885f1006c94a66c88685562ca0f9bbb2/t/768/432/d/gettyimages-2179609537-20250218101558805.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35230820.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-23T10:30:00+09:00</dc:date>
+        <title>米特使、ウクライナ和平交渉のカギは「領土問題」</title>
+        <link>https://www.cnn.co.jp/usa/35230820.html?ref=rss</link>
+        <description>トランプ米政権のウィトコフ中東担当特使は２３日までに、ウクライナ和平交渉のカギはロシアが併合を宣言しているウクライナ南部クリミア半島と東部、南部４州の扱いだとの見方を示した。インターネット配信のインタビュー番組で語った。
+
+ウィトコフ氏はインタビューの中で、ロシアが占領し一方的に併合を宣言したウクライナ東部ドネツク、ルハンスク両州と南部ザポリージャ、ヘルソン両州に言及。「住民はロシア語を話す。住...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35230820.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/23/0f6693acb6d95322dba2e4e115c6938b/t/768/432/d/US-Middle-East-envoy-Witkoff.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35230811.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-22T18:30:00+09:00</dc:date>
+        <title>ウクライナ支援の資金が必要な欧州、ロシアの資産に手を付けない理由は</title>
+        <link>https://www.cnn.co.jp/business/35230811.html?ref=rss</link>
+        <description>３年に及ぶウクライナでの戦争で、欧州に高額な請求書が回ってきた。１２２０億ドル（約１８兆円）近い金額を直接的な支援に費やし、さらに数十億ドルが欧州大陸の軍事及び防衛産業に投じられた。
+
+しかし欧州はこれまでのところ、欧州連合（ＥＵ）が押さえているロシア中央銀行の現金２２９０億ドルに手を付けるのを拒んでいる。この現金は、ロシアのプーチン大統領が２０２２年にウクライナへの全面侵攻を行った後で凍結され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35230811.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/22/9534a0fcf25336b42654583f705cfcf3/t/768/432/d/gettyimages-1485073664.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35230813.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-22T18:06:00+09:00</dc:date>
+        <title>英ヒースロー空港、通常業務再開　大規模停電による混乱の翌日</title>
+        <link>https://www.cnn.co.jp/world/35230813.html?ref=rss</link>
+        <description>英ロンドン・ヒースロー空港を発着するフライトが２２日、通常の運航に戻った。前日には大規模停電で空港が閉鎖。航空機数百機が地上待機を余儀なくされ、世界的な空の移動に混乱が起きていた。
+
+２２日最初のフライトは、現地時間の午前６時に予定通り出発した。これに先駆け当局は、空港業務が通常に戻ると明らかにしていた。ヒースロー空港は世界で最も利用者の多い空港の一つ。
+
+ヒースロー空港のＸ（旧ツイッター）のアカ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35230813.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/22/6cb48a8e2c958e2fba61a97c162b6cf2/t/768/432/d/gettyimages-2205549000.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
