@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-03-31T18:35:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231194.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231190.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231183.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35231180.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35231181.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231174.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231171.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231169.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35231167.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231166.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231162.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231160.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231157.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231156.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35230987.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231153.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231152.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231151.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231150.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231149.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231148.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35231130.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231147.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35231146.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231145.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35231129.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231144.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35231140.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231142.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231141.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35231194.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T18:35:00+09:00</dc:date>
+        <title>米国防長官から「情けない」と評された欧州の軍事力、いよいよ覚醒か</title>
+        <link>https://www.cnn.co.jp/world/35231194.html?ref=rss</link>
+        <description>トランプ米大統領がホワイトハウスでウクライナのゼレンスキー大統領に厳しい態度で臨んだことは、北大西洋条約機構（ＮＡＴＯ）加盟国に衝撃を与え、米国が自分たちと共にロシアの侵略に対抗するという欧州の根強い幻想を払い去った。
+
+動揺し、おそらくは恐怖さえ感じながらも、欧州は「トランプ時代」における自衛の必要性についてようやく目を覚ましたかもしれない。
+
+欧州連合（ＥＵ）のラファエル・グリュックスマン欧州...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231194.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/42729420d42b8766c60c7d7e5e28feaa/t/768/512/d/001-.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231190.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T17:48:00+09:00</dc:date>
+        <title>韓国山火事、死者３０人に　墓参りの男性が失火か</title>
+        <link>https://www.cnn.co.jp/world/35231190.html?ref=rss</link>
+        <description>韓国の南東部を襲った大規模な山火事で、警察は３１日、家族の墓の世話をしていた男性が山火事を引き起こした可能性があると明らかにした。
+
+複数の山火事によって、３０人が死亡したほか、数千軒の建物に被害が出た。被災した建物には何百年もの歴史を誇る仏教の寺院も含まれる。
+
+警察によれば、今回の山火事に関連して５０代の男性から事情を聴いている。
+
+警察によれば、男性は今月２２日に、家族の墓参りに慶尚北道（キョ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231190.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/70a9227253e1fd8b10e02b1b00d12278/t/768/432/d/001-ap25087597606085.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231183.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T17:16:00+09:00</dc:date>
+        <title>英ヘンリー王子から「嫌がらせといじめ」、慈善団体の理事長が非難</title>
+        <link>https://www.cnn.co.jp/world/35231183.html?ref=rss</link>
+        <description>英ヘンリー王子が自身の設立した慈善団体「サンタバリー」のパトロン職を共同創設者らとともに辞任したことをめぐり、同団体の理事長は３０日、テレビ番組のインタビューでヘンリー王子から「大規模な嫌がらせといじめ」を受けていると非難した。
+
+チャンダウカ理事長は、ヘンリー王子が２５日にチャンダウカ氏やその周囲に知らせることなく、損害を与えるニュースを外界に公表することを許可したと語った。同氏は「その攻撃が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231183.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/f20835aa86f184cab668adc9633aea05/t/768/432/d/gettyimages-2148417470.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35231180.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T16:35:00+09:00</dc:date>
+        <title>竜巻で飛散した結婚式の写真、ＳＮＳの力で持ち主の手元に　米</title>
+        <link>https://www.cnn.co.jp/fringe/35231180.html?ref=rss</link>
+        <description>米ミズーリ州ポプラブラフを襲った竜巻で家が全壊し転居を余儀なくされた夫婦のもとに、強風で遠方に飛ばされた結婚式の写真が地域住民によって送り届けられる出来事があった。
+
+国立気象局によると、この竜巻は風速約６２メートルの強風をもたらし、何百もの家屋や事業所が損壊した。
+
+夫のトレンドールさんとともに転居を余儀なくされたダービー・ラッソムさんは屋根全体が吹き飛ばされるなどして「自宅が全壊した」と語った...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35231180.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/8683324db706552f36980b22a53943d6/t/768/432/d/main-photo-20250330181118795.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35231181.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T15:46:00+09:00</dc:date>
+        <title>米俳優リチャード・チェンバレンさん死去、９０歳　ＴＶドラマ「ドクター・キルデア」</title>
+        <link>https://www.cnn.co.jp/showbiz/35231181.html?ref=rss</link>
+        <description>１９６０年代のテレビドラマ「ドクター・キルデア」で人気を博し、その後、テレビドラマ「将軍　ＳＨＯＧＵＮ」などのミニシリーズで活躍した俳優のリチャード・チェンバレンさんが２９日、米ハワイ州で死去した。９０歳だった。チェンバレンさんの広報担当が明らかにした。
+
+広報担当によれば、死因は脳卒中の合併症。３月３１日が９１歳の誕生日だった。
+
+チェンバレンさんは６１～６６年に放送されたドクター・キルデアで医...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35231181.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/d5061100b9d1f06221f95173fb0c9fd7/t/768/432/d/gettyimages-689262346.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231174.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T14:33:00+09:00</dc:date>
+        <title>トランプ氏、合意なければ「爆撃」　イランとの核協議</title>
+        <link>https://www.cnn.co.jp/usa/35231174.html?ref=rss</link>
+        <description>米国のトランプ大統領は、イランとの核開発をめぐる協議で、合意に達しない場合にはイランに対して爆撃や追加関税を実施する可能性があると警告した。
+
+トランプ氏はＮＢＣニュースの電話インタビューに答え、「もし合意に達しなければ爆撃が行われるだろう」と語った。
+
+イランのペゼシュキアン大統領は３０日、急速に進む核開発計画をめぐって、米国との交渉を拒否した。トランプ氏はイランの最高指導者ハメネイ師に対して書...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231174.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/e3c90065bed549af0f46d16be505085d/t/768/512/d/gettyimages-2207074707.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231171.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T13:55:00+09:00</dc:date>
+        <title>衛星画像が見せつけるミャンマー地震の惨状、寺院の倒壊や橋の寸断</title>
+        <link>https://www.cnn.co.jp/world/35231171.html?ref=rss</link>
+        <description>ミャンマーで２８日に発生したマグニチュード（Ｍ）７．７の地震は、タイ全土や中国のミャンマーに近い地域でも大きな揺れを感じた。
+
+米地質調査所（ＵＳＧＳ）によると、ミャンマーを襲った地震としては過去１００年あまりで最大だった。地震の被害は、内戦に引き裂かれ、軍事政権が２０２１年に実権を握って以来、世界から孤立した状態にあるミャンマーに追い打ちをかけている。
+
+建物の倒壊現場では懸命の捜索救助活動が続...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231171.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/470c1f74a8b17ea63488068f515ae510/t/768/432/d/20250329-destroyedshacksandbuildingsmyanmar.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231169.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T12:54:00+09:00</dc:date>
+        <title>トランプ氏の移民政策に数千人が抗議デモ、拘束された留学生の釈放訴え　米テキサス州</title>
+        <link>https://www.cnn.co.jp/usa/35231169.html?ref=rss</link>
+        <description>米テキサス州ダラスで３０日、トランプ大統領の移民政策に反対するデモ行進が行われ、推定数千人が参加した。デモ参加者は、移民当局によって次々に拘束された留学生数人の釈放も求めている。
+
+デモ行進は中南米系市民団体のラテンアメリカ市民連合（ＬＵＬＡＣ）が主催。参加者に対しては、平和と連帯の証として白い衣類の着用や米国旗の掲揚を奨励した。ダラス市内の大聖堂を出発して市庁舎を目指したデモ行進の参加者は数ブ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231169.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/dc0430983d84e8a970616723c86ca425/t/768/576/d/img-0158-20250330190437602.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35231167.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T12:27:00+09:00</dc:date>
+        <title>ノルウェー宇宙港から打ち上げられたロケット、３０秒で墜落</title>
+        <link>https://www.cnn.co.jp/fringe/35231167.html?ref=rss</link>
+        <description>ドイツの新興企業イーザーエアロスペースの軌道ロケットが３０日、打ち上げから約３０秒後に墜落した。試験飛行はノルウェー北部の宇宙港で行われた。同社によると、軌道に到達可能なロケットがロシアを除く欧州大陸から打ち上げられたのは今回が初めて。
+
+「スペクトラム」と呼ばれるこのロケットは、わずか３０秒ほど空中にとどまった後、ノルウェー海に墜落した。
+
+イーザーエアロスペースなど欧州の新興企業は、急速に拡大...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35231167.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/83f2aada37ebed44141108c05bca2db7/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTh2cG9kYnowMDVvMmNxZDdpY2RocTRq-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtOHZwb2RiejAwNXQyY3FkM3h2OGRjODA=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231166.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T11:38:00+09:00</dc:date>
+        <title>トランプ氏、プーチン氏に「怒り」　ロシア産石油に追加関税の警告も</title>
+        <link>https://www.cnn.co.jp/usa/35231166.html?ref=rss</link>
+        <description>米国のトランプ大統領は３０日、ロシアのプーチン大統領に腹を立てていると語り、ウクライナでの戦争終結に向けた現在の交渉に協力しないのならば、ロシア産の石油に追加関税を課すと警告した。
+
+トランプ氏はＮＢＣニュースのインタビューに答え、「プーチン氏が（ウクライナの）ゼレンスキー大統領に言及し始めたとき、非常に腹が立った。なぜなら、それは正しい方向へ向かっていないからだ」と述べた。
+
+トランプ氏によれば...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231166.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/d8feed9a20334b6fb3f5b81ca7a63a3e/t/768/432/d/20250330-trrump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231162.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T11:09:00+09:00</dc:date>
+        <title>ミャンマー地震の死者１７００人超、バンコクでもビル倒壊　まだ多数ががれきの下敷きに</title>
+        <link>https://www.cnn.co.jp/world/35231162.html?ref=rss</link>
+        <description>２８日にミャンマーを襲った地震は、発生から２日以上過ぎた今も各地で懸命の捜索救助活動が続いている。遠く離れたタイの首都バンコクでもビルが倒壊するなど、被害は広範に及んでいる。
+
+ミャンマーでこれまでに確認された死者は１７００人を超えた。同国で発生した地震としては過去１００年あまりで最大だったと専門家は指摘しており、実際の死者はこの数字をはるかに上回る可能性がある。
+
+建物や橋が倒壊するなどの被害は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231162.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/60697862b1012edb03cd225cf19e8576/t/768/512/d/gettyimages-2206852711.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231160.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T10:10:00+09:00</dc:date>
+        <title>ガザ空爆で１０人死亡　イスラエル首相、ハマスへの圧力「効いている」</title>
+        <link>https://www.cnn.co.jp/world/35231160.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区南部で３０日、避難民が住んでいたテントと住宅に対してイスラエル軍による空爆があり、子どもを含む１０人が死亡した。現地ではラマダン（断食月）明けを祝うイスラム教の祭り「イード・アル・フィトル」の初日を迎えていた。
+
+イスラエル軍はガザでの軍事作戦を強めている。イスラエルのネタニヤフ首相は、人質のさらなる解放を求めて行っているイスラム組織ハマスへの圧力が効いているとの認識を示...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231160.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/b2f5cf5ba2762dbfcdee7a619c1ef452/t/768/432/d/gettyimages-2207072325.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231157.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T09:40:00+09:00</dc:date>
+        <title>トランプ米大統領、３期目追求の「手段ある」と言明　「冗談でなく」</title>
+        <link>https://www.cnn.co.jp/usa/35231157.html?ref=rss</link>
+        <description>米国のトランプ大統領が、合衆国憲法で禁じられている３期目について、実現する「手段はある」と述べ、「冗談ではない」と強調した。
+
+トランプ氏は３０日に放送されたＮＢＣの電話インタビューの中で、３期目について「私にそうしてほしいと思う人はたくさんいる。だがそうした人たちには先は長いと言っている」と語り、「私は現在（２期目）に集中している」と言い添えた。
+
+３期目を追求する戦略はあるのかと質問されると、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231157.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/8d4621ab7593b10b299fc19f02733015/t/768/512/d/2025-03-26t213137z-1663964607-rc29ldafi49a-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231156.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-31T09:16:00+09:00</dc:date>
+        <title>米国防総省の南部国境対応、１カ月半で４９０億円　政権が国防費削減目指すも</title>
+        <link>https://www.cnn.co.jp/usa/35231156.html?ref=rss</link>
+        <description>米国のトランプ政権が進める国境南部での移民と薬物の流入を抑制することを主眼とした軍事作戦で、すでに納税者に３億ドル（約４５０億円）以上の負担がかかっていることがわかった。会計監査官から説明を受けた情報筋が明らかにした。一方でトランプ政権は連邦政府機関の縮小や国防費の８％削減を進めている。
+
+情報筋によれば、国防総省は最初の１カ月だけで約２億５０００万ドルを費やした。こうした費用のなかには、米軍機...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231156.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/31/de62baa65743e8d1d6652a00353ca750/t/768/432/d/c-gettyimages-2197253649.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35230987.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T17:00:00+09:00</dc:date>
+        <title>靴下で睡眠が改善か、深部体温が下がり寝つきが良くなる可能性</title>
+        <link>https://www.cnn.co.jp/fringe/35230987.html?ref=rss</link>
+        <description>良質な睡眠を取れる可能性を高めたいなら、靴下をはいて寝ること――。そんな驚きのアイデアを提案するのは、行動睡眠障害の専門家ミシェル・ドレラップ氏だ。
+
+「逆説的に聞こえるが、寝るときに靴下をはいて足を温めることで、深部体温が下がり、より早く眠りにつける可能性がある」。クリーブランド・クリニックの睡眠障害センター所長を務めるドレラップ氏はそう説明する。
+
+その仕組みはこうだ。日中、一般的な成人の深部体...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35230987.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/26/d06503dca1058823ee5d2d835e23396d/t/768/432/d/gettyimages-1188399610.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231153.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T16:35:00+09:00</dc:date>
+        <title>小型機が住宅に墜落して炎上、１人死亡　米ミネソタ州</title>
+        <link>https://www.cnn.co.jp/usa/35231153.html?ref=rss</link>
+        <description>米ミネソタ州ブルックリンパークで２９日午後、小型飛行機が墜落して住宅に衝突して火災が発生し、当局によれば、少なくとも１人が死亡した。
+
+連邦航空局（ＦＡＡ）の発表によれば、飛行機は６人乗りのビジネス向け小型機で、アイオワ州のデモイン国際空港からミネアポリスの空港へ向かう途中、午後０時２０分ごろ住宅に墜落した。
+
+ブルックリンパーク消防署によれば、小型機の搭乗者に生存者はいない。搭乗者の正確な人数は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231153.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/30/51ce668c15b34cc04db3a228bba3878d/t/768/432/d/still-21502106-931-1819999999999-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231152.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T14:42:00+09:00</dc:date>
+        <title>トランプ氏、関税で自動車値上がりでも「一向に構わず」</title>
+        <link>https://www.cnn.co.jp/usa/35231152.html?ref=rss</link>
+        <description>トランプ米大統領は２９日、輸入車への関税で国内の自動車価格が上がっても「一向に構わない」と語り、むしろ値上がりは望ましいとの考えを示した。
+
+トランプ氏は来月３日以降、米国へ輸入される自動車や部品に２５％の関税を課すと発表している。２７日付の米紙ウォールストリート・ジャーナルは、トランプ氏が今月、自動車メーカーの最高経営責任者（ＣＥＯ）らとの電話協議で、関税を理由に値上げした場合はさらに高い関税...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231152.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/30/2b779f43a1710dc5d21a673517d56892/t/768/432/d/thumbnail-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231151.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T13:13:00+09:00</dc:date>
+        <title>タリバン、２月に拘束の米国人女性を解放</title>
+        <link>https://www.cnn.co.jp/world/35231151.html?ref=rss</link>
+        <description>２月にアフガニスタンでイスラム主義勢力タリバンに拘束された米国人女性フェイ・ホール氏が解放された。事情を知る関係者が明らかにした。
+
+同関係者によると、ホール氏は裁判所の命令に基づき、米国との交渉を仲介してきたカタールの支援を受けて釈放された。同氏はアフガンで許可なくドローン（無人機）を使用したとして拘束されていた。
+
+身柄は首都カブールのカタール大使館に引き渡され、検査の結果、良好な健康状態が確...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231151.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/30/57508822362db2ba3e4b3507e31630a1/t/768/432/d/image-from-ios-720.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231150.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T11:53:00+09:00</dc:date>
+        <title>ウクライナ軍、ロシア西部ベルゴロド州に大規模攻撃　地元当局発表</title>
+        <link>https://www.cnn.co.jp/world/35231150.html?ref=rss</link>
+        <description>ウクライナと国境を接するロシア南西部ベルゴロド州のグラトコフ知事は、州内で２０以上の村がウクライナの攻撃を受けたと発表した。ウクライナはこの作戦を公式に認めていない。
+
+ウクライナ軍は昨年８月、ベルゴロド州と隣接するクルスク州で１０００平方キロ以上の領土を掌握したが、ロシア軍が最近、北朝鮮の支援部隊とともに反撃を仕掛けて奪還した。春の訪れとともに、双方が前線での戦闘態勢を強化している。
+
+一方、ウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231150.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/30/52e9b185604b8946edced69114ddc66b/t/768/432/d/Zelensky-Putin-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231149.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T10:11:00+09:00</dc:date>
+        <title>ハマス、エジプトの停戦案に同意　イスラエルは対抗案</title>
+        <link>https://www.cnn.co.jp/world/35231149.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区での戦闘をめぐり、イスラム組織ハマスが仲介国エジプトの停戦案に同意した。ハマスの情報筋がＣＮＮに語った。
+
+停戦案は、ハマス側が米国系イスラエル人のエダン・アレクサンダー氏を含む人質５人を解放するのと引き換えに、ガザへの人道物資の搬入や第２段階の停戦に向けた交渉など、第１段階での条件を復活させる内容。
+
+トランプ米政権のウィトコフ中東担当特使が数週間前に提示した停戦案と似て...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231149.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/30/5e553d83e73851c9a9586e238c9d9438/t/768/432/d/gettyimages-2206902025.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231148.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T00:25:00+09:00</dc:date>
+        <title>ミャンマー地震、死者１６００人超に　当局発表</title>
+        <link>https://www.cnn.co.jp/world/35231148.html?ref=rss</link>
+        <description>ミャンマー中部で発生したマグニチュード（Ｍ）７．７の地震で、これまでに確認された死者は１６００人を超えた。実権を握る軍当局が国営テレビで発表した。
+
+死者数は、これまでの１００２人から急増した。
+
+軍事政権のトップ、ミンアウンフライン国軍最高司令官は国際社会に異例の支援要請を行っている。
+
+ミャンマーは軍事クーデターに端を発する４年間の内戦に苦しんでおり、軍政の部隊と反政府勢力が国内各地で戦闘を繰り...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231148.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/30/e7625da2409a4030bafcb99df2989a36/t/768/511/d/06-gettyimages-2206806947.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35231130.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-29T19:23:00+09:00</dc:date>
+        <title>セクシーシェフの料理動画、フォロワーを集める理由は　ネットの飽くなき欲望に照準</title>
+        <link>https://www.cnn.co.jp/tech/35231130.html?ref=rss</link>
+        <description>時には、ウインクや投げキスで動画が始まることもある。
+
+その後に続くのは、割れた腹筋のショットや、パスタ生地をこねる指先のクローズアップかもしれない。男性たちは果物をなで、舌で茎をもてあそぶ場面まである。食材にオイルや塩をすり込み、手があらゆる曲線とすき間をなぞっていく。
+
+あらゆる動作が強調され、料理のレシピを探しているのかどうかも分からない視聴者に対し目配せを見え隠れさせる。より露骨に言えば、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35231130.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/29/372d427e5433729244612b1ebb0102a2/t/768/432/d/internet-chefs-top.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231147.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-29T19:00:00+09:00</dc:date>
+        <title>バンス氏、デンマークのグリーンランド放置を非難　米国による領有を主張</title>
+        <link>https://www.cnn.co.jp/usa/35231147.html?ref=rss</link>
+        <description>米国のバンス副大統領は２８日、デンマーク自治領のグリーンランドを訪れ、これまでで最も明確な形で米国による同地の領有を主張した。
+
+バンス氏の訪問は事前から物議を醸す中で行われた。地元住民は反発し、現地の指導層も歓迎しない意向を表明していた。
+
+現地入りしたバンス氏は、グリーンランドの西端に位置する米軍施設、ピツフィク宇宙軍基地を視察。視察中、「我々は誰とでも良好な関係を築きたいと考えている」「しか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231147.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/29/ca7608643dbf94fdd5fb9f7581256b11/t/768/512/d/ap25043420451847.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35231146.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-29T18:00:00+09:00</dc:date>
+        <title>共に６０代のヤモリのペア、ニュージーランドで発見　世界最高齢か</title>
+        <link>https://www.cnn.co.jp/fringe/35231146.html?ref=rss</link>
+        <description>６４歳のアントワネットと６０歳のブルーシーベイビーは共に細身で、骨張った体をしている。肌は若い時分よりも垂れ下がっているが、その目は今も輝きを放ち、エネルギーに満ちている。
+
+ここで話題にしているのは、どこにでもいる６０代ではない。彼らはヤモリで、記録上世界最高齢と考えられている。ニュージーランドの小さな島で発見された。
+
+爬虫（はちゅう）類と両生類の専門家、マリエケ・レッティンク氏らのチームは、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35231146.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/29/0aeb17c5623127a04682c98f184d027c/t/768/432/d/antoinette-and-brucie-baby.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231145.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-29T17:29:00+09:00</dc:date>
+        <title>ミャンマー地震、「原子爆弾３３４発分」のエネルギー放出　地質学者</title>
+        <link>https://www.cnn.co.jp/world/35231145.html?ref=rss</link>
+        <description>ミャンマーを２８日に襲ったマグニチュード（Ｍ）７．７の地震で、地質学者のジェス・フェニックス氏はＣＮＮに対し、原子爆弾３００発分を超えるエネルギーが放出されたとの見解を示した。一帯が引き続き余震に見舞われる可能性が高いと警鐘も鳴らした。
+
+フェニックス氏はＣＮＮの取材に、「今回のような地震で放出される力は、原子爆弾およそ３３４発分に匹敵する」と指摘した。
+
+また、ミャンマーの地下ではインドプレート...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35231129.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-29T16:30:00+09:00</dc:date>
+        <title>テスラに打ち勝つ自動車メーカー、中国ＢＹＤについて知っておくべきこと</title>
+        <link>https://www.cnn.co.jp/business/35231129.html?ref=rss</link>
+        <description>電気自動車（ＥＶ）の世界では、中国の一企業が富豪のイーロン・マスク氏率いるテスラを打ち負かしている。しかもそれはまだ始まりに過ぎない。
+
+深圳に拠点を置く中国のＥＶ大手ＢＹＤは昨年、年間販売台数でテスラを上回った。先週にはわずか５分間の充電で約４００キロの走行を可能にするという革新的な充電システムを発表した。テスラの専用充電器「スーパーチャージャー」は、約３２０キロの走行を可能にするのに１５分か...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35231129.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/29/059bb2df68899f1e57da430c4fd621fa/t/768/432/d/gettyimages-2205788581.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231144.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-29T15:45:00+09:00</dc:date>
+        <title>ミャンマー地震、死者１００２人に　国営放送局</title>
+        <link>https://www.cnn.co.jp/world/35231144.html?ref=rss</link>
+        <description>ミャンマー中部で発生したマグニチュード（Ｍ）７．７の地震で、国営放送局ミャンマー・ラジオ＆テレビジョン（ＭＲＴＶ）は２９日、死者数が少なくとも１００２人に上ったと明らかにした。
+
+ＭＲＴＶは、この数字は「全国のすべての被災地」のものだと伝えている。</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35231140.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-29T15:00:00+09:00</dc:date>
+        <title>ファッション大手Ｈ＆Ｍ、自社モデルのＡＩクローン使用を計画　業界内から懸念の声も</title>
+        <link>https://www.cnn.co.jp/style/fashion/35231140.html?ref=rss</link>
+        <description>スウェーデンのアパレル大手ヘネス・アンド・マウリッツ（Ｈ＆Ｍ）が、自社のモデルのデジタルクローンを年内にも作り出す計画を立てていることが分かった。人工知能（ＡＩ）の潜在力とそれが労働者に与える影響の両方に取り組む業界にとって、多くの疑問が浮上する状況となっている。
+
+衣料品小売り世界最大手の一つであるＨ＆ＭはＣＮＮの取材に答え、自社モデルの「デジタルツインズ（双子）」３０体を年内に作り出す計画を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35231140.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/29/2c43cd989e4a197d4ab171523c3cb7af/t/768/432/d/gettyimages-1234068758.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231142.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-29T14:12:00+09:00</dc:date>
+        <title>ミャンマー地震、死者６９４人に</title>
+        <link>https://www.cnn.co.jp/world/35231142.html?ref=rss</link>
+        <description>ミャンマー中部を２８日に襲ったマグニチュード（Ｍ）７．７の地震の死者数が、６９４人に増加した。同国の軍事政権が２９日に明らかにした。
+
+死者数は同国中部で震源に近いマンダレー地方域のみで集計したもの。
+
+軍事政権によれば、同地方域では６８人が行方不明となっている。
+</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231141.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-29T13:45:00+09:00</dc:date>
+        <title>ミャンマー地震、国軍トップが国際社会に支援要請　異例の動きである理由</title>
+        <link>https://www.cnn.co.jp/world/35231141.html?ref=rss</link>
+        <description>ミャンマー第２の都市の近郊で発生した大規模地震を受け、軍事政権のトップ、ミンアウンフライン国軍最高司令官が国際社会に異例の支援要請を行った。
+
+ミンアウンフライン氏は２８日のテレビ演説で、「状況把握のため一部の被災地を個人的に訪問した。すべての方に対し、力を合わせて進行中の救援活動を支援するよう呼び掛けたい」と表明した。
+
+さらに「非常事態を宣言して国際支援を要請した」と続け、インドから支援が届く...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231141.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/03/29/7476f4ea85e3f6971a3c9b5d4f059ba6/t/768/512/d/gettyimages-2206632329-20250329004017322.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
