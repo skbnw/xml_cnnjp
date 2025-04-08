@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-04-08T07:50:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231471.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231470.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231468.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35231465.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35231463.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231452.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231445.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35231446.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231435.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231441.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35231440.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231427.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231434.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35231426.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231431.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35231410.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35231411.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231421.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231420.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35231419.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231418.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231416.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35231417.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231415.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231414.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231406.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35231403.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35231404.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231402.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35231401.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231471.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-08T07:50:00+09:00</dc:date>
+        <title>米国によるガザ支配、トランプ大統領が改めて意欲表明</title>
+        <link>https://www.cnn.co.jp/usa/35231471.html?ref=rss</link>
+        <description>トランプ米大統領は７日、米国によるパレスチナ自治区ガザ地区の支配を改めて希望し、同地を「信じられないほど重要な不動産」と呼んだ。
+
+「米国のような平和勢力がガザ地区を支配し、所有するのは良いことだ」。ホワイトハウスでトランプ氏は、イスラエルのネタニヤフ首相の隣でそう発言した。
+
+トランプ氏はガザの住民を強制移住させることを再び示唆し、ガザを追われた２１０万人のパレスチナ人を「多くの国」が受け入れて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231471.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/08/cce9df5d006eba82d54def327c1b26c8/t/768/511/d/c-gettyimages-2209064008.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231470.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-08T07:00:00+09:00</dc:date>
+        <title>トランプ氏、中国への５０％の追加関税示唆　貿易戦争激化する中</title>
+        <link>https://www.cnn.co.jp/usa/35231470.html?ref=rss</link>
+        <description>トランプ米大統領は７日、中国政府が先週発表した報復関税を受け、同国に新たに５０％の関税をかける用意があると明らかにした。市場を揺るがしている世界的な貿易戦争のさらなる激化を示唆した形だ。
+
+中国が８日までに３４％の報復関税を撤廃しなければ、追加関税は今週半ばに発効するとトランプ氏は述べた。
+
+また、中国が要求していた会議はキャンセルされるが、他の国々はすぐに貿易交渉を始めるだろうと述べた。
+
+トラン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231470.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/08/2c6acc728334d36f984c186359d2dbbe/t/768/575/d/ap25097494460104.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231468.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T19:10:00+09:00</dc:date>
+        <title>イラン大統領、「ぜいたく」な南極旅行で副大統領を解任</title>
+        <link>https://www.cnn.co.jp/world/35231468.html?ref=rss</link>
+        <description>イランのペゼシュキアン大統領は５日、南極への「ぜいたくな」私的旅行を理由に、副大統領の一人を解任した。
+
+ペゼシュキアン大統領は、シャフラム・ダビリ副大統領（国会担当）を解任し、南極旅行について、過度なぜいたくであり、到底擁護できないと批判した。
+
+ペゼシュキアン氏は「国民が深刻な経済的困難に直面している中、たとえ私費であっても当局者のぜいたくな旅行は容認できない」と述べた。
+
+国営イラン通信（ＩＲ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231468.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/07/35826466312b7055abe24422d706625e/t/768/432/d/2024-10-24t090652z-485901443-rc2wqaa6f81q-rtrmadp-3-russia-brics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35231465.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T18:14:00+09:00</dc:date>
+        <title>幸福感の向上にも、世間話がうまくなるコツとは　専門家がアドバイス</title>
+        <link>https://www.cnn.co.jp/fringe/35231465.html?ref=rss</link>
+        <description>スーパーマーケットやドラッグストアのレジで並んでいる時に見知らぬ人に声を掛けられ、世間話をすることがある。
+
+人によっては、この一見些細（ささい）な会話を恐れたり、時間の無駄だと考えたりするかもしれない。逆に、この軽い会話を楽しむ人もいるだろう。大抵の場合、特に見知らぬ人や知人が相手の場合は、互いの共通点を探ろうとするため、世間話は避けられない。
+
+世間話に不慣れな人にとっては、難しく感じられるか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35231465.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/07/7300dafe3a259d92ab6ca7380828995e/t/768/432/d/gettyimages-640126769.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35231463.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T17:31:00+09:00</dc:date>
+        <title>エジプト・アビドスで３６００年前の王墓発見、王の名は不明</title>
+        <link>https://www.cnn.co.jp/fringe/35231463.html?ref=rss</link>
+        <description>エジプトのアビドスで、３６００年前の王墓が発見されたことが分かった。米ペンシルベニア大学考古学人類学博物館が先月２７日に発表した報道発表で明らかになった。石灰岩でできた巨大な埋葬室には複数の区画と装飾された入り口があったが、この豪華な墓の主は謎のままだ。墓の盗賊が入り口のれんがに描かれた象形文字を破壊し、名前が判読できなくなっていたためだという。
+
+この墓には、埋葬された人物の特定につながりうる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35231463.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/07/e300b6c72103476b9dc396a78b892f95/t/768/432/d/ongoing-excavations-include-protection-site-management-and-conservation-of-these-structures-in-abydos-egypt-image-dr-josef-wegner-for-the-penn-museum.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231452.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T16:58:00+09:00</dc:date>
+        <title>「トランプ関税」は交渉の対象？、政権内でも意見はバラバラ</title>
+        <link>https://www.cnn.co.jp/usa/35231452.html?ref=rss</link>
+        <description>米国のトランプ大統領が先ごろ発表した関税政策をめぐり、政権内からは矛盾したメッセージが発信されている。今回の取り組みは経済の仕切り直しに必要なものと位置づけられ、市場の激しい変動と不確実性は軽視されている。
+
+トランプ氏は以前から自身について「ディール（取引）」の達人を自認しており、各国との関税をめぐる取引の可能性を残している。しかし、経済に対処する政権幹部が６日に発したメッセージによって、関税...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231452.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/07/22d0597264de0430b0ec92fe7e27153b/t/768/512/d/rose-garden.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231445.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T15:02:00+09:00</dc:date>
+        <title>パレスチナ系米国人の少年、イスラエル兵に撃たれて死亡　ヨルダン川西岸</title>
+        <link>https://www.cnn.co.jp/world/35231445.html?ref=rss</link>
+        <description>パレスチナ自治区ヨルダン川西岸地区で６日、イスラエル兵に撃たれてパレスチナ系米国人の少年１人が死亡したほか、２人が負傷した。パレスチナ当局が明らかにした。
+
+ヨルダン川西岸ラマラの当局者によれば、１４歳のパレスチナ系米国人の少年がトゥルムサヤの集落でイスラエル兵に撃たれて死亡した。１４歳と１５歳のパレスチナ系米国人の少年２人も今回の発砲で負傷した。
+
+イスラエル軍は、兵士がトゥルムサヤでの対テロ作...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231445.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/07/1aeefd95681ce96bbbc193db24a370fb/t/768/432/d/2025-04-07t005042z-474085138-rc2lsdaqxy2g-rtrmadp-3-israel-palestinians-west-bank-violence.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35231446.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T14:19:00+09:00</dc:date>
+        <title>人を次々に襲うアシカ　有毒な藻で発作、影響深刻化　米カリフォルニア州</title>
+        <link>https://www.cnn.co.jp/fringe/35231446.html?ref=rss</link>
+        <description>米カリフォルニア州南部の海岸沿いで、人がアシカに襲われる被害が続出している。専門家によると、アシカの生息する海で有害な藻が異常繁殖して病気になるアシカが増え、多くが命を落としている。
+
+ロングビーチに住むフィービー・ベルトランさん（１５）は３月３０日、ジュニアライフガードの泳力テストを受けている最中、アシカに襲われた。右腕はかみ傷やあざやひっかき傷だらけになったが、幸いにも縫わずに済んだという
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35231446.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/07/18558b1d9a683134b3bd5c75bf5dae53/t/768/432/d/gettyimages-2207286008.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231435.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T12:49:00+09:00</dc:date>
+        <title>ローマ教皇、公の場にサプライズ登場　退院後初</title>
+        <link>https://www.cnn.co.jp/world/35231435.html?ref=rss</link>
+        <description>ローマ・カトリック教会のフランシスコ教皇（８８）が６日、予告なく公の場に姿を現した。２週間前に退院して以降、教皇が公の場に姿を現すのは初めて。
+
+教皇はバチカンで群衆にあいさつし、元気そうな姿を見せた。車いすに座り、呼吸を助ける鼻カニューレのようなものを装着していた。
+
+フランシスコ教皇は２月から３月にかけて肺炎で５週間入院していた。医療チームによると、教皇は死にひんしていたという。
+
+教皇はローマ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231435.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/07/e2ad49e72cc72e1d1cc2edac1177ef72/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTk1Z242NXQwMDRiMjZwOGhrYzY5amty-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtOTVnbjY1dDAwNGkyNnA4ZnV6OWFpZmg=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231441.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T12:22:00+09:00</dc:date>
+        <title>住民を恐怖に陥れたタカをついに捕獲、襲われる被害者が続出　英</title>
+        <link>https://www.cnn.co.jp/world/35231441.html?ref=rss</link>
+        <description>英ロンドン近郊の村で次々に人を襲って住民を恐怖に陥れていたタカが、ついに捕獲された。この数週間で住民が襲われた回数は５０回前後。７５歳の男性は病院で手当てを受け、郵便配達にも支障が出て、９１歳の男性はニット帽２枚を盗まれる被害に遭っていた。
+
+場所はロンドン郊外の小さな村フラムステッド。住民のスティーブ・ハリスさんが３日、わなを仕掛けてタカをケージに閉じ込めることに成功した
+
+捕獲に協力したアラン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231441.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/07/6c59f5fd06e4c7683b2a747d32e3e348/t/768/432/d/001-shutterstock-editorial-15195711a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35231440.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T12:09:00+09:00</dc:date>
+        <title>アジア市場も急落、「トランプ関税」の影響広がる</title>
+        <link>https://www.cnn.co.jp/business/35231440.html?ref=rss</link>
+        <description>アジア市場は７日、急落した。トランプ米大統領による貿易戦争によって引き起こされた世界的な株式市場の下落はさらに深刻化している。
+
+日経平均株価は取引開始直後に８％あまり下落した。
+
+ロイター通信によれば、石破茂首相は７日、日本政府が引き続きトランプ氏に対し、関税の引き下げを求める考えを明らかにした。ただ、結果はすぐに得られるものでもないとも認めた。
+
+トランプ氏は２日、日本に対して２４％の相互関税を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35231440.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/07/498659dd2a26ebbb117bb8871ce3d8b1/t/768/432/d/ap25097009280005.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231427.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T11:10:00+09:00</dc:date>
+        <title>「市場急落でもゴルフ」、トランプ氏の最も記憶に残るイメージに　民主党議員</title>
+        <link>https://www.cnn.co.jp/usa/35231427.html?ref=rss</link>
+        <description>米民主党のアダム・シフ上院議員（カリフォルニア州選出）は６日、トランプ大統領の貿易政策が世界経済を揺るがす中、同氏がフロリダ州でゴルフに興じる様子を「トランプ大統領の任期中で最も記憶に残るイメージ」と評した。
+
+トランプ氏が２日に発表した関税政策により市場は急落。４日にはダウ工業株平均が昨年１２月の史上最高値から１０％あまり下落し、調整局面入りして取引を終えた。
+
+トランプ氏は発表以降、フロリダ州...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231427.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/07/57758a9bc7740bde2709c0ba202b2ece/t/768/512/d/ap25095463429326.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231434.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T10:54:00+09:00</dc:date>
+        <title>１７歳のパレスチナ人少年、イスラエルの留置場で死亡　長期の栄養失調が原因と推定</title>
+        <link>https://www.cnn.co.jp/world/35231434.html?ref=rss</link>
+        <description>イスラエルで長期間にわたって留置されていた１７歳のパレスチナ人少年が、留置場で死亡した。検視を行ったイスラエルの専門家は、「長期にわたる栄養失調」が原因だった可能性が大きいと指摘している。
+
+死亡したのはワリド・ハリド・アフマドさん。支援団体によると、２０２３年１０月にパレスチナの武装組織ハマスとイスラエルの衝突が始まって以来、イスラエルの刑務所や留置場で未成年が死亡したのは初めてだった。
+
+家族...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231434.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/07/8d6b0214a873700629027a3f42957820/t/768/432/d/screenshot-2025-04-04-at-5-44-53-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35231426.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T10:39:00+09:00</dc:date>
+        <title>米株価指数先物が大幅安、市場の売り圧力は継続</title>
+        <link>https://www.cnn.co.jp/business/35231426.html?ref=rss</link>
+        <description>米株価指数先物は６日夜、大幅安となった。市場は過去２日ですでに下落しており、時価総額が５兆４０００億ドル（約７８５兆円）消失した。７日の市場も下落して始まるとみられており、米大企業を幅広く網羅する株価指数「Ｓ＆Ｐ５００」も弱気相場が目前の状態だ。Ｓ＆Ｐ５００は最高値から２０％下落しており、投資家、そして経済全体にとって不吉な前兆となっている。
+
+ダウ先物は３．３％安、Ｓ＆Ｐ５００先物は３．７％安...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35231426.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/07/bb840f91b20540a91d2c934db3cbe082/t/768/512/d/gettyimages-2208186272.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231431.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-07T10:19:00+09:00</dc:date>
+        <title>ペンギンしか住まない島にも「トランプ関税」、米商務長官が理由説明</title>
+        <link>https://www.cnn.co.jp/usa/35231431.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領が発表した世界１８０カ国・地域に対する関税をめぐり、ある島がパロディーやジョークのネタになっている。
+
+いずれもオーストラリア領のハード島とマクドナルド諸島は、南極に近い無人島。住んでいるのはペンギンのみ。
+
+コメディアンのマイケル・コスタさんは番組の中で「ペンギンしかいない島に１０％の関税だって？　トランプはトム・ハンクスが漂着した島に関税をかけた方がまだマシだ」と...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35231410.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T18:20:00+09:00</dc:date>
+        <title>沖縄戦から８０年、今も戦跡から見つかる遺骨と爆弾</title>
+        <link>https://www.cnn.co.jp/travel/35231410.html?ref=rss</link>
+        <description>地元の言葉で「ガマ（自然洞窟）を掘る人」を意味する「ガマフヤー」の男性が、沖縄の密林にある丘陵の裂け目に入り込む。細身の体でさっと洞窟の入り口をすり抜けると、鋭い石灰岩の天井を注意深く避けながら、小石や土の散らばる地面を調べる。
+
+男性がしゃがみ込むと、額に装着したランプが足元の土を照らす。庭仕事用の道具で土をこすって探しているのは、人間の遺骨だ。第２次世界大戦中、沖縄戦が繰り広げられる間、人々...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35231410.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/05/1dffe81299eac3bb2cfb2ee2a0b0ad4b/t/768/432/d/okinawa01-img-2941-jpeg.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35231411.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T16:50:00+09:00</dc:date>
+        <title>世界へ売り込むキャッサバと食用イモムシ、アンゴラ発のスーパーフード</title>
+        <link>https://www.cnn.co.jp/business/35231411.html?ref=rss</link>
+        <description>カラフルで栄養豊富なトゲトゲのイモムシ「モパネワーム」。アフリカ南部の森林に生息し、地方では広く使われる食材でもある。現地の食品メーカーは、高たんぱくで低脂肪のスーパーフードとして海外市場へ売り込みをかけている。
+
+アフリカ南西部アンゴラの乾燥食品メーカー、フードケア（本社・首都ルアンダ）は、キャッサバやキノコ、各種フフ（でんぷん粉をこねて作る料理）、そしてモパネワームなど、２５種類の国産食品を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35231411.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/05/f6ee7d0f7485edfb3deb2edf41a46658/t/768/431/d/foodcare-cassava-angola.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231421.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T16:15:00+09:00</dc:date>
+        <title>死亡したガザ救急隊、最後を捉えた映像が明らかに　イスラエルの説明に疑問符</title>
+        <link>https://www.cnn.co.jp/world/35231421.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で先月、イスラエル軍によってパレスチナ人の救急隊員１０人以上が射殺された件で、救急隊の最後を捉えた映像が明らかになった。イスラエルは不審な車両が前進したため兵士が発砲したと主張しているが、今回明らかになった映像は、そうしたイスラエル側の説明に疑問を投げかけるものとなっている。
+
+今回の動画は車両の前方から撮影された。夜明けの道路に沿って、ヘッドライトと点滅する赤色灯をつけ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231421.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/06/1c5594cc8b45c952d4a94c5f95b146a3/t/768/432/d/62818199-42438204-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231420.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T15:27:00+09:00</dc:date>
+        <title>スクールバス目指した少年が洪水で死亡、他のバスは１時間以上前に運行中止に　米</title>
+        <link>https://www.cnn.co.jp/usa/35231420.html?ref=rss</link>
+        <description>ガブリエル・アンドリュース君（９）は春休み前の最後の登校日となった４日、スクールバスに乗るため夜明け前に目を覚ました。ガブリエル君はこの数時間後に命を落とすことになる。
+
+米ケンタッキー州が集中豪雨に見舞われ、国立気象局（ＮＷＳ）は４日、１３郡に対して洪水警報を発令した。発令の対象となった地域にはフランクリン郡全域が含まれる。ガブリエル君の家族は同郡にある州都フランクフォートに住んでいる。
+
+午前...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231420.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/06/95b4d220708ef87d9c58a359c76a6fde/t/768/432/d/gettyimages-2208554775.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35231419.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T15:11:00+09:00</dc:date>
+        <title>列聖予定の「神のインフルエンサー」、聖遺物のネット販売は悪魔の所業　大司教が警鐘</title>
+        <link>https://www.cnn.co.jp/fringe/35231419.html?ref=rss</link>
+        <description>２００６年に１５歳の若さで亡くなり、今月末にミレニアル世代で初めてローマ・カトリック教会の聖人に列せられる予定のカルロ・アクティスさん。だが、イタリア・アッシジの大司教はこのほど、「神のインフルエンサー」ことアクティスさんの聖遺物をオンラインで競売にかける行為は容認できないとの声明を発表した。
+
+声明の発表に先立ち、匿名の出品者がアクティスさんの髪の毛のオンライン販売を試みていた。入札額は２２０...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35231419.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/06/a6c07cfb7e4dadd7e8e8dd2400c08663/t/768/432/d/gettyimages-2205857758.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231418.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T13:24:00+09:00</dc:date>
+        <title>カナダ、訪米の旅行者に警告　米国境警備局には電子機器検査の権限</title>
+        <link>https://www.cnn.co.jp/world/35231418.html?ref=rss</link>
+        <description>カナダ政府は、米国への訪問を予定している国民に対して、米国の税関・国境警備局（ＣＢＰ）には理由を明らかにせずに旅行者の携帯電話やノートパソコン、タブレット端末などの電子機器を検査する権限があると警告している。
+
+カナダ政府はネットで公開されている改定された渡航勧告で、カナダ国民に対して、国境を越える際には綿密な検査を受けることがあると考えるよう促し、これに従わない場合には電子機器の没収や渡航の遅...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231418.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/06/fdf44acb17d35d69ef689f118163511a/t/768/432/d/gettyimages-2203479723.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231416.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T12:37:00+09:00</dc:date>
+        <title>マスク氏、米欧間で「関税ゼロの状況」望む　ナバロ大統領顧問を批判</title>
+        <link>https://www.cnn.co.jp/usa/35231416.html?ref=rss</link>
+        <description>トランプ米政権の政府効率化省（ＤＯＧＥ）で表の顔を務める世界一の富豪、イーロン・マスク氏は５日、米国と欧州の間で「関税ゼロの状況」を望んでいることを明らかにした。
+
+マスク氏はイタリア極右政党「同盟」の書記長を務めるサルビーニ副首相との動画インタビューで、「最終的には欧州も米国もゼロ関税状態へ移行することが理想で、欧州と北米の間に事実上の自由貿易圏を創設すべきだとの認識で一致していることを願う」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231416.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/06/999cc32d680ac4a55175f1051b3e46a7/t/768/432/d/shutterstock-editorial-15239341b.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35231417.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T12:35:00+09:00</dc:date>
+        <title>スペースＸの宇宙船帰還、民間人４人が初の両極上空飛行に成功</title>
+        <link>https://www.cnn.co.jp/fringe/35231417.html?ref=rss</link>
+        <description>米宇宙企業スペースＸの宇宙船が米カリフォルニア州の沖合に着水し、「フラム２」と名付けられた商用の有人宇宙飛行が無事終了した。今回のミッションでは、民間人４人が宇宙船に搭乗し、史上初めて地球の北極と南極を結ぶ軌道を周回した。
+
+今回のミッションは、暗号資産で財を成した億万長者チュン・ワン氏の資金拠出で実現した。宇宙船は３月３１日に打ち上げられ、今月４日に着水した。
+
+約５年にわたるスペースＸの有人宇...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35231417.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/06/f6f1c29e420be48e4fbdde1942942b1e/t/768/432/d/still-21518733-4790039-985-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231415.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T11:08:00+09:00</dc:date>
+        <title>「手を出すな！」、全米でトランプ氏とマスク氏に抗議　世界各地でも</title>
+        <link>https://www.cnn.co.jp/usa/35231415.html?ref=rss</link>
+        <description>全米５０州や世界各地で５日、トランプ米大統領と実業家のイーロン・マスク氏に対する抗議デモが行われ、大勢の人が参加した。デモを組織した民主主義運動は、「敵対的乗っ取り」や米国の権利と自由への攻撃に対抗して実施したとしている。
+
+全米各地の州議会議事堂や連邦政府庁舎、議員事務所、社会保障局、公園、市庁舎で、「手を出すな！」というスローガンを掲げた大規模デモが１４００件あまり開催された。主催者は、「私...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231415.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/06/f91d119c9068ed158bfb9b87263a3b30/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTk0Y2U4dXUwMDA3M2I2bWQ4M2VsaWhw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtOTRjZDVhNjAwMjIyN3FlMXI2dWhmanQ=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231414.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T10:39:00+09:00</dc:date>
+        <title>ウクライナ中部への攻撃、死者１９人に　停戦協議に進展見られず</title>
+        <link>https://www.cnn.co.jp/world/35231414.html?ref=rss</link>
+        <description>ロシア軍が４日にウクライナ中部クリビーリフに対して実施した攻撃による死者は、子ども９人を含む少なくとも１９人となり、今年に入って最も犠牲者の多い攻撃の一つとなった。トランプ米政権はウクライナ情勢をめぐって停戦へ向けた交渉を進めているものの、戦闘が早期に終結する見通しは立っていない。
+
+クリビーリフ市は、ウクライナのゼレンスキー大統領の出身地。クリビーリフの市長によれば、７２人が負傷した。負傷者の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231414.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/06/d34003ee7444317d8f72d743612b6e3b/t/768/432/d/3-ukraine-crisis-attack-kryvyi-rih.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231406.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-05T19:00:00+09:00</dc:date>
+        <title>関税で諸外国を罰すると語るトランプ氏、実際に罰せられているのはほぼ米国人</title>
+        <link>https://www.cnn.co.jp/usa/35231406.html?ref=rss</link>
+        <description>これは深刻な問題だ。我々は一体、何をやっているのか？
+
+市場は崩壊し、ビジネスリーダーたちはパニックに陥っている。消費者は、ニュースを読んでいればの話だが、当然混乱もしくは恐怖している。それともその両方か。エコノミストたちはトランプ政権の関税政策を凝視し、どうにかしてその意味を理解しようと試みる。
+
+ここで、その他の呆然（ぼうぜん）としている人たちに助言したい。意味を理解しようとするのはやめよう。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231406.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/05/42257a3d6718ca262f8b0fdce416ead5/t/768/432/d/usa-trump-tariffs.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35231403.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-05T16:30:00+09:00</dc:date>
+        <title>ローマ軍兵士の集団墓地が物語る、戦場での軍勢崩壊の惨状</title>
+        <link>https://www.cnn.co.jp/fringe/35231403.html?ref=rss</link>
+        <description>オーストリア首都ウィーンのサッカー場を改修中に見つかった大量の人骨について、現場はローマ時代の戦闘に参加した１００人を超える兵士たちの集団墓地だったことが分かった。
+
+ウィーン博物館に属する都市考古学局によると、これらの大量の人骨は昨年１０月下旬、現場で工事に携わる建設会社が発見した。
+
+同博物館並びに発掘企業から集まった考古学者と人類学者が発掘したところ、少なくとも１２９体分の人骨が出土した。ウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35231403.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/05/60d5aa55b0eb48a6ed4b04c6fd307e1b/t/768/432/d/pressefoto-variante-1-scaled.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35231404.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-05T15:25:00+09:00</dc:date>
+        <title>世界で最も細身の高層ビル、最上部の住宅が１６１億円で売りに　米ＮＹ</title>
+        <link>https://www.cnn.co.jp/style/luxury/35231404.html?ref=rss</link>
+        <description>米マンハッタンにそびえる「超高層」ビルの最上部の住宅が、１億１０００万ドル（約１６１億円６０００万円）で売りに出されている。
+
+売りに出されているのは「クアドプレックス」と呼ばれる４階構造の住宅。高さ約４３５メートルのビル「１１１ウェスト５７ｔｈストリート」の８０～８３階を占め、セントラルパークを一望できる。スタジオ・ソフィールドによる内装デザイン案では、１階に「エンターテインメント・スイート」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35231404.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/05/f3ef01c1d413f9fb0ec08f8a6e344d81/t/768/512/d/111-west-57th-street-quadplex-80-2-credit-to-hayes-davidson.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231402.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-05T12:55:00+09:00</dc:date>
+        <title>「バフェット氏がトランプ氏の関税支持」の動画は虚偽、バークシャーが声明</title>
+        <link>https://www.cnn.co.jp/usa/35231402.html?ref=rss</link>
+        <description>トランプ米大統領は４日、ＳＮＳ上に、著名投資家ウォーレン・バフェット氏が政権の関税計画を支持しているとの虚偽の主張を展開する動画を投稿した。トランプ政権の関税は米株式市場を直撃しており、景気後退（リセッション）入りの懸念が高まっている。
+
+トランプ氏が自身のＳＮＳに投稿した動画では、「トランプ氏は今月、株式市場を２０％下落させたが、これは故意の措置だ」とのナレーションが流れ、「だからこそバフェッ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35231401.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-05T11:45:00+09:00</dc:date>
+        <title>英人気コメディアン、レイプと性的暴行の罪で訴追</title>
+        <link>https://www.cnn.co.jp/showbiz/35231401.html?ref=rss</link>
+        <description>英警察が、コメディアンで俳優のラッセル・ブランドさん（５０）を４人の女性に対するレイプその他の性犯罪の罪で訴追した。
+
+ロンドン警視庁が４日に発表した声明によると、ブランドさんはレイプ１件、強制猥褻（わいせつ）１件、オーラルレイプ１件、性的暴行２件で訴追された。
+
+ロンドン警視庁によると、ブランドさんはロンドンの裁判所に来週出廷する予定。ブランドさんの現住所については特定しなかったが、イングランド...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35231401.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/05/03c006684e3e9cc018070502f7651b81/t/768/432/d/gettyimages-861359046.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
