@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-04-14T16:09:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231757.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231750.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231749.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231748.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231754.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35231739.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35231746.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231742.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231741.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231732.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231738.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231733.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231731.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35231721.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231720.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231718.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35231713.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231715.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35231712.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231714.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231710.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231711.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231709.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231707.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35231708.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231706.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231705.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35231704.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35231692.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35231703.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35231757.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T16:09:00+09:00</dc:date>
+        <title>イスラエルが緩衝地帯拡張　ガザの住宅や農地を破壊、立ち入れば射殺も</title>
+        <link>https://www.cnn.co.jp/world/35231757.html?ref=rss</link>
+        <description>イスラエル軍がイスラエルとの境界に面したパレスチナ自治区のガザ住民の領土を、不毛の地に変えている。
+
+装甲ブルドーザーが住宅を次々に破壊する。かつてフル稼働していた工場は、工兵が爆弾を仕掛けて計画的に解体していく。兵士がパレスチナ人住民の立ち入りを禁じて破壊していたのは、かつてその住民たちの生活と生計を支えた肥沃（ひよく）な農地だった。
+
+イスラエル軍はここに幅１キロほどの緩衝地帯を敷設している。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231757.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/08/099e28877e7d36494810faac61cc515d/t/768/512/d/Gaza-buffer-zone.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231750.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T15:37:00+09:00</dc:date>
+        <title>６人死亡のＮＹ遊覧ヘリ墜落、運航会社が営業停止に　米航空当局発表</title>
+        <link>https://www.cnn.co.jp/usa/35231750.html?ref=rss</link>
+        <description>米ニューヨーク市上空を飛行していた遊覧ヘリコプターがハドソン川に墜落して６人が死亡した事故で、連邦航空局（ＦＡＡ）は１３日、ヘリを運航していたツアー会社の即日営業停止を発表した。
+
+営業停止となったのはニューヨーク・ヘリコプター・ツアーズ。ＦＡＡはＸ（旧ツイッター）への投稿で、同社の免許と安全記録を検証すると表明し、引き続き国家運輸安全委員会（ＮＴＳＢ）の調査に協力すると付け加えた。
+
+同社が運航...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231750.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/14/23ff585584feb50cc395bef54d7500a1/t/768/432/d/ap25100750640331.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231749.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T14:44:00+09:00</dc:date>
+        <title>ノーベル賞作家マリオ・バルガス・リョサさん死去、８９歳　南米ペルー</title>
+        <link>https://www.cnn.co.jp/world/35231749.html?ref=rss</link>
+        <description>南米ペルーのノーベル文学賞受賞作家、マリオ・バルガス・リョサ氏が１３日、首都リマで死去した。８９歳だった。
+
+息子のアルバロさんは１３日、Ｘ（旧ツイッター）への投稿で、バルガス・リョサ氏が家族に見守られて安らかに亡くなったと明らかにした。
+
+バルガス・リョサ氏は１９８１年の「世界終末戦争」や７７年の「フリアとシナリオライター」などの作品で知られる。フリアとシナリオライターは９０年の映画「ラジオタウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231749.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/14/89c19702e001f15166e10c29940f6e85/t/768/432/d/gettyimages-162736435.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231748.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T14:05:00+09:00</dc:date>
+        <title>北朝鮮、同国史上最大かつ最も高度とみられる軍艦を建造中　衛星画像で明らかに</title>
+        <link>https://www.cnn.co.jp/world/35231748.html?ref=rss</link>
+        <description>新たな衛星画像によると、北朝鮮は西部にある南浦造船所で同国史上最大規模の軍艦を建造している。金正恩（キムジョンウン）総書記率いる海軍艦艇の倍以上の大きさになる可能性もある。画像は独立系衛星事業者マクサー・テクノロジーズとプラネット・ラボが今月６日に撮影した。
+
+アナリストによると、画像は艦艇の兵器やその他の内部システムの建造状況を示している。この艦艇は、陸上および海上の標的を攻撃するために垂直発...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231748.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/14/a12f062f58b9d1da4886b298a68c179d/t/768/432/d/02-close-up-of-new-frigate-and-shipyard-nampo-north-korea-06apr2025-wvl.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231754.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T13:35:00+09:00</dc:date>
+        <title>エクアドル大統領選、現職のノボア氏が勝利</title>
+        <link>https://www.cnn.co.jp/world/35231754.html?ref=rss</link>
+        <description>南米エクアドルで１３日に大統領選の決戦投票が行われ、選管の速報値によると現職のダニエル・ノボア大統領（３７）が左派の弁護士ルイサ・ゴンサレス氏を破って勝利した。
+
+選管の記者会見によると、開票率９０％の時点でノボア大統領の勝利が確実になった。
+
+エクアドルでは犯罪組織による薬物が絡む凶悪犯罪が横行し、エネルギー危機によって停電が頻発。ノボア氏は犯罪対策と経済の再活性化を公約に掲げていた。
+
+ＣＮＮの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231754.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/14/a94e55f160ccb1742709aa175eabf187/t/768/432/d/2025-04-14t020821z-537029695-rc2bxdajze7t-rtrmadp-3-ecuador-election-noboa.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35231739.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T12:16:00+09:00</dc:date>
+        <title>米株価指数先物が上昇、電子機器への関税除外受け</title>
+        <link>https://www.cnn.co.jp/business/35231739.html?ref=rss</link>
+        <description>トランプ米政権による中国からの電子機器に対する関税の一時除外を受け、米株価指数先物は１３日に上昇した。
+
+米東部時間１３日午後６時１８分時点でダウ先物は０．５％（２１２ポイント）、Ｓ＆Ｐ５００先物は０．７５％上昇。ハイテク株中心のナスダック総合指数先物は１．２６％上昇した。
+
+トランプ政権は１１日遅くに電子機器の輸入を相互関税の対象から除外した。ただし、コンピューターや携帯電話、半導体など中国で製...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35231739.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/14/5a8408c9cfcb30f9f41ae3ff36b65f42/t/768/432/d/ap25100535589269.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35231746.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T12:07:00+09:00</dc:date>
+        <title>ファンがトラウトのグラブからボールを「強奪」　米大リーグ</title>
+        <link>https://www.cnn.co.jp/showbiz/35231746.html?ref=rss</link>
+        <description>３度のＭＶＰに輝くエンゼルスのマイク・トラウト外野手はファウルゾーンで華麗なジャンプキャッチを見せたが、ファンの行為が物議を醸した。
+
+１２日に行われたロサンゼルス・エンゼルス対ヒューストン・アストロズの試合で、２―０とエンゼルスがリードしていた二回、打ち上げられた打球をトラウトがスタンド最前列でつかんだかに見えた。しかし同時に、観客がボールをつかもうと手を伸ばし、右手でトラウトのグラブを押さえ込...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35231746.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/14/3644d0b13fb10209d0fb61c8ca1ff5a2/t/768/432/d/ap25103036733621.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231742.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T12:03:00+09:00</dc:date>
+        <title>イスラエル、ガザ市で完全に機能していた最後の病院を攻撃　緊急避難で少年患者死亡</title>
+        <link>https://www.cnn.co.jp/world/35231742.html?ref=rss</link>
+        <description>イスラエル軍が１３日に行った空爆で、パレスチナ自治区ガザ地区北部のガザ市で完全に機能していた最後の病院が機能不全に陥った。イスラエル軍はガザ全土で攻撃を激化させている。
+
+今回の空爆による死傷者は報告されていない。しかし攻撃されたバプティスト病院を運営するエルサレムの教会によると、患者を急遽（きゅうきょ）避難させる中で、頭部を負傷していた少年１人が死亡した。病院に予告があったのは攻撃開始のわずか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231742.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/14/d1976a37f86938ab059e5b8b934609c6/t/768/432/d/gettyimages-2209405234.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231741.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T11:12:00+09:00</dc:date>
+        <title>米ペンシルベニア州知事公邸で火災、放火容疑で男を逮捕　知事一家は避難</title>
+        <link>https://www.cnn.co.jp/usa/35231741.html?ref=rss</link>
+        <description>米ペンシルベニア州ハリスバーグで知事公邸が放火される事件があり、３８歳の男が１３日に逮捕された。当時就寝中だった知事の一家は避難して無事だった。
+
+ペンシルベニア州警察によると、午前２時ごろ、ハリスバーグ消防局が出動して火災を消し止めた。しかし建物は大きく損傷した。
+
+ジョシュ・シャピロ州知事夫妻と４人の子ども、２匹の犬、別の一家は避難して無事だった。
+
+州警察は１３日午後の記者会見で、ハリスバーグ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231741.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/14/a9646031f7c25b874cfa073d2f8c46f8/t/768/512/d/ap25103614989058.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231732.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T11:04:00+09:00</dc:date>
+        <title>ウクライナ北東部にミサイル攻撃、３４人死亡　国際社会から非難の声</title>
+        <link>https://www.cnn.co.jp/world/35231732.html?ref=rss</link>
+        <description>ウクライナ北東部スーミで１３日、ロシアによるミサイル攻撃があり、少なくとも３４人が死亡した。ミサイルはキリスト教の行事のために集まった住民を襲った。今回の攻撃は、今年の戦闘で最も犠牲者の出たものとなった。
+
+ウクライナの緊急当局によれば、死者の中には２人の子どもも含まれる。そのほかに１１７人が負傷した。
+
+ウクライナのゼレンスキー大統領は今回の攻撃について、弾道ミサイルが使われたと明らかにした。１...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231732.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/14/c32c1d873a1b83c2bad14ff04f3a8052/t/768/513/d/missle-strike.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231738.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T10:27:00+09:00</dc:date>
+        <title>両親殺害の罪に問われた１７歳少年、目的はトランプ大統領暗殺か　米ＦＢＩ</title>
+        <link>https://www.cnn.co.jp/usa/35231738.html?ref=rss</link>
+        <description>米ウィスコンシン州で両親を殺害した罪に問われている１７歳の少年について、ドナルド・トランプ大統領の暗殺をはかった疑いがあるとして米連邦捜査局（ＦＢＩ）が捜査に乗り出した。
+
+ＣＮＮ提携局のＷＩＳＮが入手した宣誓供述書によると、捜査の結果、容疑者の少年がトランプ大統領の暗殺や米政府の転覆を呼びかける書き込みやメッセージが見つかった。両親の殺害は、大統領暗殺計画を実行に移すために自立して「経済的手段...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231738.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/14/29c6a45ef4932b3fa623d89453ab2bf7/t/768/432/d/gettyimages-1242409189.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231733.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T10:08:00+09:00</dc:date>
+        <title>不透明感増すトランプ関税、政権当局者の発言は</title>
+        <link>https://www.cnn.co.jp/usa/35231733.html?ref=rss</link>
+        <description>トランプ米政権による「相互関税」をめぐり、スマートフォンや半導体を含む主要な電子機器が除外されることが先週末に明らかになった。米国のテクノロジー業界では楽観的な見方が高まったが、政権当局者は、除外について明確な説明を行っていない。
+
+ラトニック商務長官は１３日、ＡＢＣニュースの番組に出演し、この除外は一時的なものであり、今後数カ月以内に電子機器を対象とした新たな関税が適用されるとの考えを示した。
+...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231731.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-14T09:47:00+09:00</dc:date>
+        <title>住宅で爆発、６人負傷　米テキサス州</title>
+        <link>https://www.cnn.co.jp/usa/35231731.html?ref=rss</link>
+        <description>米テキサス州オースティンで１３日午前、住宅の爆発があり、１軒が全壊したほか、隣接する住宅も激しく損傷し、少なくとも６人が負傷した。オースティンの消防当局が明らかにした。
+
+救急医療サービス（ＥＭＳ）の報道官によると、負傷者のうち２人は爆発が起きた住宅にいた。１人が重体で、もう１人が重傷という。
+
+隣家の住民１人も負傷し、重体となっている。現場で対応にあたった消防隊員２人も負傷した。さらに１人がけが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231731.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/14/d65a3c8d87ddd10b74c9929b050f26d8/t/768/432/d/still-21541350-6399-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35231721.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-13T17:38:00+09:00</dc:date>
+        <title>オーバーツーリズムに抗議するバルセロナ市民、都市が抱える新たな課題とは</title>
+        <link>https://www.cnn.co.jp/travel/35231721.html?ref=rss</link>
+        <description>その水鉄砲の一撃は、世界に鳴り響いた。
+
+昨年夏、スペイン北東部カタルーニャ州の州都バルセロナで、市民らがオーバーツーリズム（観光公害）への抗議として、「観光客は帰れ」と声を上げた。
+
+中でも注目されたのは、屋外カフェにいた観光客に水鉄砲を放った小さなグループだった。いたずら半分にも見えるこの行動は、写真とともに世界中へ拡散され、観光に対する市民の怒りを象徴するものとなった。
+
+バルセロナの観光地化...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35231721.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/13/51a0bbef2a4be331eea41252f75f991b/t/768/512/d/sipausa-54424182.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231720.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-13T16:24:00+09:00</dc:date>
+        <title>遺伝子改変ブタの腎移植、１３０日間の最長記録を樹立　米女性</title>
+        <link>https://www.cnn.co.jp/usa/35231720.html?ref=rss</link>
+        <description>米アラバマ州のトワナ・ルーニーさん（５３）は、遺伝子改変ブタの腎臓のおかげで、臓器の摘出手術を受けるまでの１３０日間、透析なしで過ごすことができた。これは、ブタの臓器を移植されたヒトとしては最長の記録であり、急成長を遂げている「異種移植」にとっての新たな前進となった。
+
+ルーニーさんは昨年１１月にブタの腎移植を受けるまで、９年間にわたって透析を受けていた。遺伝子改変されたブタの腎臓が生きた患者に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231720.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/13/181cac37abf9802280f420de8a141730/t/768/432/d/carrotta-kidneyxeno-7-002-20250411001526014.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231718.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-13T16:02:00+09:00</dc:date>
+        <title>デートアプリで「殺し屋」に元交際相手と娘の殺害依頼、女を訴追　米ニュージャージー州</title>
+        <link>https://www.cnn.co.jp/usa/35231718.html?ref=rss</link>
+        <description>デートアプリ「Ｔｉｎｄｅｒ（ティンダー）」で殺し屋を雇い、元交際相手の警官（５７）とその娘（１９）を殺害しようとしたとして、米ニュージャージー州在住の女が訴追されたことが分かった。
+
+ＣＮＮが入手した同州カムデン郡の訴追請求状と宣誓供述書によると、ジャクリン・ディオリオ容疑者（２６）はティンダーで知り合った人物と実際に会ったものの、この人物は捜査当局の覆面の情報提供者だった。
+
+ディオリオ容疑者は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231718.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/13/b214212a6a040a8a342aff85cc501a56/t/768/432/d/489928940-968566702119033-7303795415402884267-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35231713.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-13T14:55:00+09:00</dc:date>
+        <title>ＢＬＡＣＫＰＩＮＫリサの爬虫類風衣装、手掛けたデザイナーに話を聞く　</title>
+        <link>https://www.cnn.co.jp/style/fashion/35231713.html?ref=rss</link>
+        <description>米カリフォルニア州の焼け付くような日差しにもかかわらず、韓国ガールズグループＢＬＡＣＫＰＩＮＫ（ブラックピンク）のリサは１１日、大きな黒のダウンコートをまとってコーチェラ・フェスティバルのメーンステージに姿を現した。数分後には巨大なコートは脱ぎ捨てられ、頭から足先まで鱗（うろこ）で覆われた爬虫（はちゅう）類風のボディースーツがあらわに。衣装を手掛けたアッシャー・レビーン氏はロサンゼルスのスタジ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35231713.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/13/550d3c61cc40cf5dc68adfa00f7aa7e8/t/768/519/d/lisa-asher-levine-villain-4.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231715.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-13T14:36:00+09:00</dc:date>
+        <title>米国のブリンク駐ウクライナ大使の辞任、両国政府から圧力か　情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35231715.html?ref=rss</link>
+        <description>米国のブリンク駐ウクライナ大使が辞任したことがわかった。情報筋によれば、ブリンク氏は、ウクライナ大統領府からの圧力と、トランプ米大統領の下で働く重圧の両方を感じていた。
+
+ブリンク氏が駐ウクライナ大使として家族から離れて戦地に赴任してから約３年が経過した。情報筋によれば、こうした状況もブリンク氏にとって避けられない犠牲となっていた。米国務省報道官は、ブリンク氏の並外れた働きぶりを称賛した。
+
+トラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231715.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/13/2365e95bca73f10db98e214c84882ab8/t/768/432/d/gettyimages-2060746132.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35231712.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-13T13:17:00+09:00</dc:date>
+        <title>４月の満月は「マイクロムーン」、地球から最も離れた位置で「最小」に</title>
+        <link>https://www.cnn.co.jp/fringe/35231712.html?ref=rss</link>
+        <description>４月の満月が米東部時間１２日午後８時２２分ごろにピークを迎えるが、今回の満月がいつもより小さく見えることに気づく人もいるかもしれない。「ピンクムーン」とも呼ばれる４月の満月だが、今回は「マイクロムーン」として観測されるためだ。
+
+米航空宇宙局（ＮＡＳＡ）のノア・ペトロ博士によれば、マイクロムーンとは、月が軌道に沿って地球から最も遠い位置にあるか、その近辺に来るときに満月となる現象。ペトロ氏によれ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35231712.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/13/22d736659152961132834beb50b2570e/t/768/432/d/gettyimages-1463159006.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231714.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-13T12:35:00+09:00</dc:date>
+        <title>ブラジル前大統領、腹部の痛みで入院　以前選挙中に刺されて負傷</title>
+        <link>https://www.cnn.co.jp/world/35231714.html?ref=rss</link>
+        <description>南米ブラジルのボルソナーロ前大統領（７０）が激しい腹部の痛みのため入院した。ボルソナーロ氏は７年前の選挙運動中に刃物で襲われ腹部を負傷していた。
+
+痛みの原因は「小腸の合併症」であり、２０１８年の刺傷事件後に複数回受けた手術が影響しているという。ボルソナーロ氏が１１日にＳＮＳへの投稿で明かした。
+
+同氏は、さらなる手術や治療のために首都ブラジリアへの転院する可能性が高いとも述べた。
+
+ボルソナーロ氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231714.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/13/ef6abe81520c3a4940eabd78ed95311b/t/768/432/d/gettyimages-2209056630.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231710.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-13T10:57:00+09:00</dc:date>
+        <title>スマホやコンピューター、米政権の相互関税から除外　ハイテク大手は「安堵のため息」</title>
+        <link>https://www.cnn.co.jp/usa/35231710.html?ref=rss</link>
+        <description>米税関・国境警備局（ＣＢＰ）は１１日遅く、米国に輸入される電子機器はトランプ大統領の相互関税から除外されると通達した。
+
+スマートフォンやコンピュータのモニター、各種電子部品などの製品が除外の対象となる。通知によれば、除外措置は４月５日以降に米国に輸入された製品や、倉庫から搬出された製品に適用されるという。
+
+トランプ政権は９日、米国に輸入される中国製品に対して最低１４５％の関税を課すと表明してい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231710.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/13/0dba33eff3abb81f5fa4bd5e6acb4a26/t/768/526/d/smartphone.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231711.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-13T10:48:00+09:00</dc:date>
+        <title>エルサルバドルに誤って「国外追放」の男性、生存を確認　米司法省</title>
+        <link>https://www.cnn.co.jp/usa/35231711.html?ref=rss</link>
+        <description>米司法省は１２日、中米エルサルバドルに誤って国外追放された米メリーランド州の男性について、エルサルバドルの刑務所に収監されて、生存していると明らかにした。
+
+この男性はキルマー・アルマンド・アブレゴ・ガルシア氏。司法省は、現地の大使館からの報告として、男性がエルサルバドルの巨大刑務所「ＣＥＣＯＴ」に勾留されていると理解していると明らかにした。男性は安全な状態で生存しているという。
+
+米連邦最高裁は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231711.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/13/4bc51fcc4ce7d7a977ec12fd4746e756/t/768/512/d/El-Salvador-Terrorism-Confinement-Center.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231709.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-13T10:31:00+09:00</dc:date>
+        <title>米・イランが核開発めぐり協議、「建設的だった」　１９日に再協議</title>
+        <link>https://www.cnn.co.jp/world/35231709.html?ref=rss</link>
+        <description>米国とイランの代表団が１２日、中東オマーンで、イランの核開発をめぐって協議を行った。両国は１９日に再協議を行う。イランの国営通信は協議について「建設的」だったと伝えた。今回の協議は米国のトランプ政権とイラン当局者との間の初めての直接的な接触となった。
+
+イランのアラグチ外相は国営メディアの取材に答え、１９日にオマーンで次の協議が行われると明らかにした。今回の協議については、交渉の枠組みの合意に「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231709.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/13/cebb408bd7c3d03dcd9fc30d0db46e2b/t/768/432/d/02-gettyimages-2203660315.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231707.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T18:30:00+09:00</dc:date>
+        <title>体外受精で別の夫婦の子どもを出産、診療所が受精卵取り違え　豪</title>
+        <link>https://www.cnn.co.jp/world/35231707.html?ref=rss</link>
+        <description>体外受精を行うオーストラリアの大手診療所が、女性に誤った胚（はい＝受精卵）を移植したとして謝罪した。女性は結果的に別の夫婦の赤ちゃんを出産した。「人為的ミス」で胚の取り違えが起きたとしている。
+
+オーストラリア全土で１００カ所以上の診療所を運営するモナシュＩＶＦは声明で、職員らが取り違えに「打ちのめされている」と述べた。この種の医療ミスはオーストラリア国内で初めてとみられる。
+
+モナシュＩＶＦの最...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231707.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/12/287c87471521523e09eef1fee236ff88/t/768/432/d/gettyimages-136810267.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35231708.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T17:52:00+09:00</dc:date>
+        <title>豪華客船タイタニックの最期、３Ｄスキャンが新たな光　新ドキュメンタリー</title>
+        <link>https://www.cnn.co.jp/fringe/35231708.html?ref=rss</link>
+        <description>１１３年前に沈没した豪華客船「タイタニック」の３Ｄ水中スキャンを作成するプロジェクトの驚くべき成果が、新たなドキュメンタリーで明らかになる。
+
+ドキュメンタリーの名称は「デジタル・レザレクション：崩れゆくタイタニックの記録（原題Ｔｉｔａｎｉｃ：　Ｔｈｅ　Ｄｉｇｉｔａｌ　Ｒｅｓｕｒｒｅｃｔｉｏｎ）」。９日に発表された米誌ナショナル・ジオグラフィックの声明によると、深海マッピング企業のマゼラン社が「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35231708.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/12/779ed3fad16bb5bbe26cdbdea539501d/t/768/432/d/1-bow-4k-watermarked.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231706.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T16:45:00+09:00</dc:date>
+        <title>イスラエル軍内で高まる反戦の声、エリート部隊の予備兵も抗議に参加</title>
+        <link>https://www.cnn.co.jp/world/35231706.html?ref=rss</link>
+        <description>イスラエル軍のエリート諜報（ちょうほう）部隊に所属する予備兵の小集団が、パレスチナ自治区ガザ地区で拘束されている人質の即時帰還を求める声に加わっている。実現にはイスラム組織ハマスとの戦闘の即時終結が必要になるが、１年半以上戦闘が続く中、現状に異議を唱える抗議活動が一段と拡大していることが示唆される。
+
+イスラエル最大の諜報部隊「８２００部隊」の予備兵や退役軍人は公開書簡を発表し、現行の戦闘につい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231706.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/12/ceeedcf96a10da91dd2ad3cd9000ddb1/t/768/432/d/gettyimages-1855927874.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231705.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T15:15:00+09:00</dc:date>
+        <title>対中貿易戦争に直面、トランプ氏が仲間集めに躍起になる理由</title>
+        <link>https://www.cnn.co.jp/usa/35231705.html?ref=rss</link>
+        <description>米国は友人を取り戻したいのだろうか？
+
+３カ月にわたって主要同盟国を侮辱し、関税をかけ、併合までほのめかしていたトランプ政権が突然、助けを必要とする状況に陥っている。
+
+トランプ大統領はここにきて中国との全面的な貿易衝突をエスカレートさせているものの、勝利の方法は分かっていないようだ。そこで政権は、トランプ氏の威圧に屈する気配のない中国の習近平（シーチンピン）国家主席に対していかに優位に立つか、慌...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231705.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/12/ec759d447b0d36a1cd43947d33a71792/t/768/432/d/01-xx-gettyimages-2208680746.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35231704.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T14:15:00+09:00</dc:date>
+        <title>国連の人道支援機関、財務危機で５００人規模の削減へ</title>
+        <link>https://www.cnn.co.jp/world/35231704.html?ref=rss</link>
+        <description>緊急災害対応を担う国連人道問題調整事務所（ＯＣＨＡ）は１１日、世界規模で人員を２割削減し、９カ国での事業を縮小する意向を明らかにした。深刻な財務危機と世界的な活動要請の急増に直面しているという。
+
+ＯＣＨＡがウェブサイト上で共有した職員宛の書簡の中で、同機関を率いるフレッチャー所長は「乱暴な削減」に踏み切る理由として、６０００万ドル（約８６億円）近くに上る今年の資金不足に言及。人道活動の需要増加...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35231704.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/12/e3d980116a8623d0b1f7a1182a4969e0/t/768/432/d/gettyimages-1531116775.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35231692.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T13:15:00+09:00</dc:date>
+        <title>地図とスマホなしでどこまで行ける？　米人気ゲーマー、日本縦断の旅に挑戦</title>
+        <link>https://www.cnn.co.jp/travel/35231692.html?ref=rss</link>
+        <description>地図なし。スマートフォンなし。高速道路の使用なし。頼れるのは２台のバイクと少しの日本語だけ。
+
+米国人のゲームストリーマー、ラドウィグ・アーグレンさんとユーチューバー仲間のマイケル・リーブスさんは、自らにそんなルールを課し、バイクで日本縦断の旅に出た。
+
+世代の象徴ともいえるスマートフォンを手放し、ガイドブックさえ持たずに出発した２人。道を聞くには地元の人と関わるしかなく、交流を重ねる中で、日本人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35231692.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/11/d213cf81ed0c7ddefbca18b32821a7ce/t/768/432/d/screenshot-2025-04-03-at-8-51-08-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35231703.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T12:30:00+09:00</dc:date>
+        <title>拳突き上げるトランプ氏の肖像画、ホワイトハウスに掲示　暗殺未遂事件の象徴的場面</title>
+        <link>https://www.cnn.co.jp/usa/35231703.html?ref=rss</link>
+        <description>昨年７月、米ペンシルベニア州で発生した暗殺未遂事件の象徴的な場面を描いたトランプ大統領の肖像画が、現在ホワイトハウスのエントランスホール「グランド・ホワイエ」に飾られている。オバマ元大統領の公式の肖像画と入れ替えられた形だ。
+
+ホワイトハウスの公式ＳＮＳアカウントはトランプ氏の肖像画の画像を投稿。２人の当局者はＣＮＮに対し、画像が本物であることをそれぞれ確認した。オバマ氏の肖像画はグランド・ホワ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35231703.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/12/ad01db1c177fc6620b0f4355c5364d5b/t/768/432/d/trump-portrait-grand-foyer.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
