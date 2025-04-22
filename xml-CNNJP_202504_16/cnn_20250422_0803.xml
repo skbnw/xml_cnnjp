@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-04-22T17:01:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232142.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232126.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232138.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35232140.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232124.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35232125.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232120.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232119.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232118.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232112.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232109.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232106.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232102.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232097.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35232083.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232076.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232092.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232073.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232041.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232069.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232065.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232064.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232061.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232049.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232062.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232060.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232047.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232048.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232040.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232026.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35232142.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T17:01:00+09:00</dc:date>
+        <title>【分析】ロシアによる３０時間の休戦、目的はウクライナへの責任転嫁　トランプ氏は真に受けたのか？</title>
+        <link>https://www.cnn.co.jp/world/35232142.html?ref=rss</link>
+        <description>予想外だったその措置はほとんど実行に移されず、ましてや延長もされなかった。ただクレムリン（ロシア大統領府）による絶望的なまでに短命なイースター（復活祭）休戦の直接の狙いは、トランプ米大統領にあった。ウクライナ戦争での和平を目指す同氏の取り組みは悲惨な状況にあるが、その責任を自分たち以外に転嫁することがロシア側の目的だった。
+
+ロシアのプーチン大統領が驚くべき３０時間の休戦を１９日に発表したとき、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232142.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/1de24be86215dd58bf77383fb7e1aa9d/t/768/432/d/gettyimages-2210433471-20250421111431313.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232126.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T16:12:00+09:00</dc:date>
+        <title>【分析】トランプ氏、ウォールストリートを恐怖に陥れる新たな方法を発見</title>
+        <link>https://www.cnn.co.jp/business/35232126.html?ref=rss</link>
+        <description>トランプ米大統領が引き起こしている貿易戦争は混沌（こんとん）としていると思うなら注意したほうがいい。同氏の最新の攻撃は、経済にさらなる重大な脅威をもたらしているからだ。
+
+トランプ氏は数カ月にわたり、連邦準備制度理事会（ＦＲＢ）のパウエル議長を解任するつもりはないと断言していたが、１７日に方針を一転。パウエル氏は一刻も早く「退任」すべきとＳＮＳで述べた。これを受け、株価は急落した。
+
+その後、米国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232126.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/658661fa6463d66b03126fc3836d794a/t/768/432/d/gettyimages-2210704075.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232138.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T15:47:00+09:00</dc:date>
+        <title>プーチン氏、ウクライナとの直接協議に前向き　米からの圧力強まる</title>
+        <link>https://www.cnn.co.jp/world/35232138.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は２１日、ウクライナとの二国間協議の可能性について数年ぶりに前向きだとの考えを明らかにした。ウクライナ情勢をめぐっては、早期の和平合意を求める米国からの圧力が強まっている。
+
+今週は、米国と欧州、ウクライナの当局者がロンドンで会合を開くことが予定されている。米国は和平合意に進展が見られない場合には、和平協議を打ち切る可能性があると警告している。
+
+プーチン氏は記者団に対し、民...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232138.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/38d1341314d529f02dd585163c74ac6b/t/768/432/d/gettyimages-2210066245-20250422022838339.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35232140.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T15:29:00+09:00</dc:date>
+        <title>エベレストでドローンが物資を運搬　登山のあり方を一変させる可能性</title>
+        <link>https://www.cnn.co.jp/travel/35232140.html?ref=rss</link>
+        <description>世界最高峰エベレストで今年、物資の運搬などにドローン（無人機）が活用されることになった。登山に大きな変革をもたらす可能性がある。
+
+氷河が白く輝き、数々の岩がそびえる最高峰は、しんと静まり返っている。突然その静寂を破って、空からはしごが投下された。
+
+エベレスト・ベースキャンプに控えるミラン・パンデイ氏は、ドローンの操縦士。同氏の仕事が、エベレストの状況を一変させるかもしれない。
+
+パンデイ氏はドロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35232140.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/4456b96bcf01725e8023be77cda6cf60/t/768/432/d/milan-pandey-with-drone-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232124.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T13:38:00+09:00</dc:date>
+        <title>ローマ教皇が死去、新教皇選出へ　今後の動きを解説</title>
+        <link>https://www.cnn.co.jp/world/35232124.html?ref=rss</link>
+        <description>ローマ教皇庁（バチカン）が、フランシスコ教皇の死去を発表した。８８歳だった。フランシスコ教皇は、約１３００年ぶりの欧州以外出身の教皇で、史上最も高齢の教皇のひとりでもあった。フランシスコ教皇の死去を受けて、新たな教皇の選出に向けた動きが始まった。
+
+教皇の死去は「使徒座空位」の始まりを告げるものとなった。これは、教皇の死去から次の教皇が選出までの期間を指す。葬儀の日程はほぼ決まっており、「ノベン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232124.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/d3c43eddff452c61cc6179dc009c7583/t/768/512/d/vatican-pope.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35232125.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T13:33:00+09:00</dc:date>
+        <title>ボストン・マラソン　女子はシャロン・ロケディが大会新記録で優勝、男子はジョン・コリル </title>
+        <link>https://www.cnn.co.jp/showbiz/35232125.html?ref=rss</link>
+        <description>ボストン・マラソンが２１日、米ボストンで開催され、ケニアのシャロン・ロケディ（３１）が大会優勝経験のあるヘレン・オビリとの激闘を制し、女子の大会記録を塗り替えた。
+
+ロケディは終盤でオビリを突き放し、２時間１７分２２秒でフィニッシュ。２０１４年に樹立されたこれまでの記録を２分半以上更新した。
+
+ロケディにとっては２２年のニューヨークに続く主要マラソン２勝目で、昨年オビリに敗れた雪辱も果たした。
+
+「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35232125.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/28b8724de95e926a865988d0c792bfab/t/768/432/d/001-gettyimages-2211292762.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232120.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T12:30:00+09:00</dc:date>
+        <title>「マジックマッシュルーム」の使用、米で激増　毒物相談電話の件数も増加</title>
+        <link>https://www.cnn.co.jp/usa/35232120.html?ref=rss</link>
+        <description>幻覚キノコの成分のサイロシビン、いわゆる「マジックマッシュルーム」の使用が米国で急増しているという調査結果が、２１日の医学誌に発表された。特に若者や３０歳以上の成人の間で使用が急増しているという。
+
+論文を発表したコロラド大学のアンドルー・モンテ教授（救急医学）によると、サイロシビンは２０１９年に各州で自由化が始まったことを受け、２３年にかけて使用が急増した。
+
+調査の結果、１２年生（日本の高校３...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232120.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/98ec2da2578087437eae8694f1c9fc4e/t/768/432/d/psychedelic-athletes.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232119.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T11:53:00+09:00</dc:date>
+        <title>トランプ米政権、食品流通網から人工着色料排除の計画発表へ</title>
+        <link>https://www.cnn.co.jp/usa/35232119.html?ref=rss</link>
+        <description>米保健福祉省は２１日、トランプ政権が全米の食品供給網から人工着色料を排除する措置を講じる計画だと発表した。詳細については同省のロバート・Ｆ・ケネディ・ジュニア長官と食品医薬品局（ＦＤＡ）のマーティ・マカリー長官が２２日に記者会見して発表するとしている。
+
+ＦＤＡはトランプ大統領就任前の今年１月、人工着色料の赤色３号を食品や飲料および経口医薬品に使用することを禁じると発表した。赤色３号は３０年以上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232119.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/5f1d77071159571a60f0a96622639c51/t/768/432/d/gettyimages-519527618.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232118.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T11:10:00+09:00</dc:date>
+        <title>トランプ米大統領夫妻、ローマ教皇の葬儀に参列へ</title>
+        <link>https://www.cnn.co.jp/usa/35232118.html?ref=rss</link>
+        <description>トランプ米大統領は２１日、メラニア夫人と共にローマで行われるフランシスコ教皇の葬儀に出席すると発表した。
+
+「私たちは現地に行くことを楽しみにしている！」 。トランプ氏は自身のＳＮＳトゥルース・ソーシャルにそう投稿した。
+
+ローマ教皇庁（バチカン）の報道局は声明で、教皇が脳卒中と心不全で２１日に亡くなったと発表した。バチカン市国保健衛生局のアンドレア・アルカンジェリ局長の署名入りの声明によると、フラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232118.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/50d3219a3f31107f6bf13c815bffcdd4/t/768/511/d/gettyimages-687591528.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232112.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T10:15:00+09:00</dc:date>
+        <title>滑走路上の旅客機エンジンから出火、緊急脱出スライドで乗客避難　米フロリダ州</title>
+        <link>https://www.cnn.co.jp/usa/35232112.html?ref=rss</link>
+        <description>米フロリダ州のオーランド国際空港で２１日、出発予定だったデルタ航空の旅客機のエンジン火災が発生した。乗客は緊急脱出スライドを使って滑走路上に避難。米連邦航空局（ＦＡＡ）はこの火災について調査に乗り出した。
+
+ＦＡＡとデルタ航空の発表によると、火災が起きたのはエアバスＡ３３０型機。ジョージア州アトランタに向かう予定でゲートを離れた直後に、２基のエンジンのうち１基から出火した。
+
+ターミナルにいた乗客...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232112.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/2907fca5149fc2f794f19ac049c0eece/t/768/432/d/delta-smoke-cl-00-00-02-01-still001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232109.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T09:55:00+09:00</dc:date>
+        <title>ロシア、ウクライナに空爆　米国が和平計画進める中</title>
+        <link>https://www.cnn.co.jp/world/35232109.html?ref=rss</link>
+        <description>ウクライナは、イースター（復活祭）の休戦の終了に伴うロシアの空爆によって新たな被害を受けたことを明らかにした。米国は３年にわたる紛争に終止符を打つべく、ロシアとウクライナの間の協定を推進しているが、そうした中での攻撃となった。
+
+ウクライナ南部のへルソン州では、ロシアの攻撃により少なくとも３人が死亡、数人が負傷した。同州の軍政トップが述べた。
+
+２１日未明には近郊の南部の港町ミコライウでも爆発があ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232109.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/547eb81a89cbf6c7cadbc3b962bab300/t/768/432/d/2025-04-20t153132z-1506391362-rc2l1eaypnp5-rtrmadp-3-ukraine-crisis-easter-avdiivka.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232106.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T09:20:00+09:00</dc:date>
+        <title>米国土安全保障長官、現金４０万円入りのバッグ盗難被害　飲食店で食事中</title>
+        <link>https://www.cnn.co.jp/usa/35232106.html?ref=rss</link>
+        <description>米国土安全保障省のクリスティ・ノーム長官が、首都ワシントン市内のレストランで食事中に現金３０００ドル（約４２万円）の入ったバッグを盗まれる被害に遭った。本人が２１日に確認した。
+
+事件は２０日夜、ワシントン市内の飲食店「キャピタル・バーガー」で開かれたイースター（復活祭）のイベントの最中に発生した。ノーム長官によると、問題は今も解決していない。
+
+捜査関係者によれば、ノーム長官の警護を担当するシー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232106.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/bd2c3fb7ea5e65be535a96fa26ef82f9/t/768/432/d/ap25099707900433.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232102.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T08:30:00+09:00</dc:date>
+        <title>米ハーバード大学、トランプ政権を提訴　連邦資金と学問の自由巡る争いは法廷へ</title>
+        <link>https://www.cnn.co.jp/usa/35232102.html?ref=rss</link>
+        <description>米ハーバード大学が２１日、トランプ政権を提訴した。名門のアイビーリーグ校に対する制度的な監督、独立性、連邦政府からの資金援助を巡る争いが改めてエスカレートした形だ。
+
+アラン・Ｍ・ガーバー学長は、学内のコミュニティーに宛てた書簡の中で、同校に対する最近の政権の対応激化は、「患者、学生、教職員、研究者、そして世界における米国の高等教育の地位にとって、現実的に深刻な結果をもたらす」と述べた。
+
+ＣＮＮ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232102.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/2c6025e3ab46223c6bad5516b1c799af/t/768/432/d/gettyimages-2210108622.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232097.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-22T07:00:00+09:00</dc:date>
+        <title>世界が追悼、ローマ教皇死去について分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35232097.html?ref=rss</link>
+        <description>ローマ・カトリック教会のフランシスコ教皇の死去を受け、世界中から追悼の言葉が寄せられている。
+
+フランシスコ教皇は享年８８歳。２０日にイースター（復活祭）の祝福を行ったのが最後の姿となった。ローマ教皇庁（バチカン）によると、脳卒中と心不全で亡くなったという。
+
+以下、最新の情報と今後の予定。
+
+死因：フランシスコ教皇の死因は脳卒中と心不全だと、バチカンの報道局が声明で発表した。バチカン市国保健衛生局...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232097.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/22/8b4bddb0508509a7c82efb7edce84bcc/t/768/511/d/ap25111389337933.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35232083.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T18:02:00+09:00</dc:date>
+        <title>欧州で廃れる観光情報センター、日本や韓国で外国人客に人気の理由は</title>
+        <link>https://www.cnn.co.jp/travel/35232083.html?ref=rss</link>
+        <description>観光情報センターといえば大抵の旅行者は、地図や近くの公衆トイレ案内を思い浮かべる。
+
+しかし米国から訪れたタミー・マーメルスタインさんの場合、日本観光のハイライトの一つは観光情報センターめぐりだった。
+
+家族で日本を訪れた３週間の旅行。計画を立てるのに１年以上かけた。特別なお土産を手に帰国して、蚤（のみ）の市で見つけた着物の端切れをアートとして壁に飾ったりしているが、日本中の観光情報センターや案内...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35232083.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/b2efb88e55743cb1cea083d8a3e2baa0/t/768/432/d/001-gettyimages-672580384.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232076.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T17:39:00+09:00</dc:date>
+        <title>宇宙から撮影した息をのむ景色の数々、ＮＡＳＡのベテラン飛行士が撮影</title>
+        <link>https://www.cnn.co.jp/fringe/35232076.html?ref=rss</link>
+        <description>米航空宇宙局（ＮＡＳＡ）で長年にわたって活躍し、４回宇宙を旅した経験を持つ宇宙飛行士のドン・ペティ氏が１９日、国際宇宙ステーション（ＩＳＳ）から地球に帰還した。ペティ氏は、ロシアの宇宙機関ロスコスモスの宇宙飛行士アレクセイ・オブチニン、イワン・ワグネル両氏とともに有人宇宙船「ソユーズ」でカザフスタン領内に着陸した。
+
+今月２０日に７０歳の誕生日を迎えたペティ氏は「スペースカップ」や「無重力カップ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232076.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/ab316b2c23a2f48ce4d60fb5368b0a96/t/768/512/d/001-iss072e097446-large.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232092.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T17:14:00+09:00</dc:date>
+        <title>ローマ教皇が死去、８８歳　２月に肺炎のため入院</title>
+        <link>https://www.cnn.co.jp/world/35232092.html?ref=rss</link>
+        <description>ローマ・カトリック教会のフランシスコ教皇が死去した。８８歳だった。バチカンが明らかにした。
+
+フランシスコ教皇は２０１３年に中南米出身者としてはじめてローマ教皇に選出された。数週間前には両肺の肺炎の治療を終えて退院していた。
+
+教皇の死去はファレル枢機卿が２１日に発表した。午前７時３５分に息を引き取ったという。「フランシスコ教皇の生涯は主と教会への奉仕に捧げられた」とし、教皇が、最も貧しく、最も疎...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232092.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/36dc2af096860cead69997d55154602a/t/768/432/d/230607172558-02-pope-francis-lead-2022.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232073.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:41:00+09:00</dc:date>
+        <title>中国、対中貿易の制限求める米国に屈しないよう各国に警告　中国の利益犠牲なら「報復」</title>
+        <link>https://www.cnn.co.jp/business/35232073.html?ref=rss</link>
+        <description>中国政府は２１日、貿易相手国に対し、トランプ米大統領の「相互関税」の免除と引き換えに対中貿易の制限を求める米国の圧力に屈しないよう警告した。
+
+中国商務省の報道官は、米国が関税交渉を利用して中国経済を孤立させる計画があるとの最近の報道について、「宥和（ゆうわ）政策は平和をもたらさず、妥協すれば尊敬は得られない」と述べた。
+
+報道官は、「中国は、中国の利益を犠牲にして合意に達するすべての当事者に断固...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232073.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/0e217edff147eb9951840583420f81c4/t/768/432/d/2025-04-15t071029z-2062292163-rc2sxdajdiu9-rtrmadp-3-china-southeast-asia-vietnam.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232041.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T14:53:00+09:00</dc:date>
+        <title>「世界有数の怖ろしい空港」、啓徳空港の跡地に巨大スタジアム　香港</title>
+        <link>https://www.cnn.co.jp/business/35232041.html?ref=rss</link>
+        <description>それは「世界で最も怖ろしい着陸の一つ」と呼ばれていた。香港中心部への急降下には総毛立つような恐怖感があったためだ。
+
+空港の閉鎖から３０年近くが経過したいま、かつて象徴的な啓徳空港があった場所が復活を果たしている。ただし別の形で。
+
+跡地に建設されたスタジアムでは先日、７人制ラグビーのイベント「香港ラグビーセブンズ」が開催され、パーティーさながらの盛り上がりを見せていた。
+
+主催者によると、新スタジ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232041.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/20/6c02ba8dc1280e7dd27c9e7f62f5a6b4/t/768/432/d/gettyimages-542367942.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232069.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T14:23:00+09:00</dc:date>
+        <title>エルサルバドル大統領、米国から強制移送されたベネズエラ人の「囚人交換」持ちかけ</title>
+        <link>https://www.cnn.co.jp/world/35232069.html?ref=rss</link>
+        <description>中米エルサルバドルのナジブ・ブケレ大統領がベネズエラに対して囚人交換を提案した。米国からエルサルバドルに強制移送された数百人のベネズエラ人を、「政治犯」と引き換えにベネズエラへ送還すると持ちかけている。
+
+ブケレ大統領は、エルサルバドルの巨大刑務所に収容されているベネズエラ人２５２人について、ベネズエラで収監されている「数千人の政治犯のうち同数（２５２人）と交換する」とＸ（旧ツイッター）に投稿し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232069.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/2bcb88f6bea153457cc1fea755f1c26d/t/768/432/d/gettyimages-2183601264-20250420234426681.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232065.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T13:36:00+09:00</dc:date>
+        <title>ウクライナとロシア、「休戦」めぐり非難の応酬　トランプ氏は合意に向けた期待示す</title>
+        <link>https://www.cnn.co.jp/world/35232065.html?ref=rss</link>
+        <description>ロシアのプーチン大統領がイースター（復活祭）にあわせて唐突に宣言した「休戦」をめぐり、ウクライナのゼレンスキー大統領は、ロシア側が休戦を破ったと非難した。ゼレンスキー氏はまた、プーチン氏について、自身の宣伝にしか興味がないと批判した。
+
+プーチン氏は先に、「全ての戦闘行為」を、モスクワ時間の１９日午後６時から２１日午前０時まで停止すると発表していた。
+
+ウクライナの当局者はロシアに対して、休戦期間...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232065.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/a17860b27e74abc9f3beffbe39293635/t/768/432/d/gettyimages-2210449437.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232064.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T12:55:00+09:00</dc:date>
+        <title>トランプ米政権、ハーバード大の助成金さらに１４００億円削減の計画　ＷＳＪ報道</title>
+        <link>https://www.cnn.co.jp/usa/35232064.html?ref=rss</link>
+        <description>米紙ウォールストリート・ジャーナル（ＷＳＪ）は２０日、トランプ政権がハーバード大学からさらに１０億ドル（約１４００億円）の助成金と医療研究契約を引き揚げる計画だと伝えた。学術機関の統制と独立をめぐる政権とハーバード大の対立はさらにエスカレートしている。
+
+トランプ政権は１４日、方針の変更を求める政権の要求をハーバード大学が拒絶したことを受け、２２億ドルの助成金と６０００万ドル相当の契約の凍結を発...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232064.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/2c6025e3ab46223c6bad5516b1c799af/t/768/432/d/gettyimages-2210108622.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232061.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T12:46:00+09:00</dc:date>
+        <title>米最高裁の強制送還差し止め、政権が根拠とする「敵性外国人法」とは</title>
+        <link>https://www.cnn.co.jp/usa/35232061.html?ref=rss</link>
+        <description>トランプ米大統領はここ数カ月、１８世紀の戦時権限を行使し、不法滞在者を国外退去させるために取られる通常の手続きを回避している。この法律は「敵性外国人法」と呼ばれる。
+
+連邦最高裁が１９日、この法律に基づく強制送還を一時的に差し止める判断を下したことで、この法律に大きな注目が集まっている。
+
+敵性外国人法は、米国が他国と戦争状態に陥った場合、または侵略の脅威にさらされた場合に発動される。同法により、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232061.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/7e349edc5c7f4f36c6cd1ec438120454/t/768/512/d/gettyimages-2205531023.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232049.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T11:51:00+09:00</dc:date>
+        <title>ガザでのパレスチナ人救急要員死亡は「職務上の過失」、イスラエル軍報告</title>
+        <link>https://www.cnn.co.jp/world/35232049.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で３月に救急要員ら１５人が死亡したことをめぐり、イスラエル軍は２０日、調査報告書で「職務上の過失」によるものだと述べた。
+
+死亡した要員らの大半はパレスチナ赤新月社（ＰＲＣＳ）の隊員だった。射殺された後、集団墓地に埋葬されたことで国際的な非難が巻き起こっている。
+
+イスラエル国防軍（ＩＤＦ）は、事案が発生した当時、複数の過失や命令違反、事案の詳細報告の漏れがあったことが調査...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232049.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/8bfa8552ab1e0374a99f81edea408929/t/768/432/d/ap25110487425158.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232062.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T11:28:00+09:00</dc:date>
+        <title>ローマ教皇、復活祭に姿見せる　米副大統領と短時間面会も</title>
+        <link>https://www.cnn.co.jp/world/35232062.html?ref=rss</link>
+        <description>ローマ教皇フランシスコ（８８）は２０日、バチカンでサンピエトロ大聖堂のバルコニーから信者らの前に姿を見せ、毎年恒例のイースター（復活祭）の祝福を行った。それに先立ち、米国のＪ・Ｄ・バンス副大統領とも短時間面会した。
+
+フランシスコ教皇は１７日にローマ市内の刑務所で３０分過ごし、１９日夕にはサンピエトロ大聖堂を訪れるなど、イースターの行事をこなしていた。
+
+両肺の肺炎のため２月から３８日間入院し、一...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232062.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/32b2550e8037a9e4a18b8ffa4245a384/t/768/432/d/gettyimages-2210487477.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232060.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T11:16:00+09:00</dc:date>
+        <title>警察が薬物と武器の捜索、爬虫類も押収　英</title>
+        <link>https://www.cnn.co.jp/world/35232060.html?ref=rss</link>
+        <description>英国の警察が、ロンドン近郊エセックス州の住宅で薬物の捜索を行った際、中南米原産の肉食性爬虫（はちゅう）類「カイマン」１匹（体長約１．２メートル）も押収したことがわかった。
+
+警察によると、同州南部アブリーにある住宅で１８日に捜索が行われ、現場からは大量の大麻栽培設備が見つかったほか、ナイフなど複数の武器も押収された。
+
+男（３６）は大麻栽培や危険な野生動物に関する違反、武器所持の疑いで逮捕された。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232060.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/1ee5fe76b0fdb77f3491324ea4f5416c/t/768/432/d/01js3zs37tmwn3rh4k2wywkac4.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232047.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T10:39:00+09:00</dc:date>
+        <title>米国防長官、通信アプリで妻や兄弟とも軍事情報を共有　イエメンでの作戦めぐり</title>
+        <link>https://www.cnn.co.jp/usa/35232047.html?ref=rss</link>
+        <description>米国のヘグセス国防長官が、中東イエメンの反政府武装組織フーシに対する軍事作戦の詳細について、妻や弁護士、兄弟も参加していた二つ目の通信アプリ「シグナル」のグループチャットで共有していたことがわかった。このチャットに詳しい情報筋３人がＣＮＮに明らかにした。
+
+ヘグセス氏の判断力をめぐっては、同氏の側近からも警戒する声が上がり始めている。警鐘を鳴らしているのはヘグセス氏の元報道官のジョン・ウリオット...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232047.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/21/e03864a8d483c1c80d48b05497d80ae0/t/768/432/d/Secretary-Defense-Pete-Hegseth.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232048.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T10:02:00+09:00</dc:date>
+        <title>ライオンが家に侵入、１４歳少女死亡　ケニア</title>
+        <link>https://www.cnn.co.jp/world/35232048.html?ref=rss</link>
+        <description>ケニアの首都ナイロビ郊外の国立公園に隣接する農場で、１４歳の少女がライオンに襲われて死亡した。ケニア野生生物局が２０日に明らかにした。
+
+同局によれば、現地時間の１９日夜、メスのライオンがフェンスを乗り越えて住宅の敷地内に侵入し、家の中に入って少女に襲いかかった。少女がライオンを怒らせた形跡はなかった。
+
+一緒にいた１０代子どもの通報でレンジャーや救急隊が駆け付け、血痕をたどってたどり着いた川で、...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232040.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-20T17:25:00+09:00</dc:date>
+        <title>はしか流行、全米の半数の州に　感染者８００人超える</title>
+        <link>https://www.cnn.co.jp/usa/35232040.html?ref=rss</link>
+        <description>全米の半数の州からはしかの報告が寄せられ、今年の感染件数が８００件を超えたことがわかった。ＣＮＮの集計で明らかになった。
+
+保健当局の最新の情報によれば、感染のほとんどは、テキサス州やニューメキシコ州、オクラホマ州、そしておそらくカンザス州にまたがる流行に集中している。
+
+今回の流行に伴う感染は、テキサス州が５９７件、ニューメキシコ州が６３件など。
+
+専門家によれば、多くの症例が報告されていないため...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232040.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/20/68b51f863b18e7f5cd1ea932de9318c4/t/768/432/d/rtrmadp-3-usa-health-measles-20250418173714760.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232026.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-20T16:38:00+09:00</dc:date>
+        <title>傷ついたパレスチナ人の少年の肖像、年間の報道写真大賞に選出</title>
+        <link>https://www.cnn.co.jp/world/35232026.html?ref=rss</link>
+        <description>イスラエル軍によるパレスチナ自治区ガザ地区ガザ市への空爆で両腕を失った、パレスチナ人の少年の衝撃的な写真が、年間の報道写真大賞に選ばれた。
+
+自身もガザ出身の写真家、サマル・アブエルーフ氏が９歳のマフムード・アジョール君に出会ったのは、アジョール君が爆発で両腕を切断してから３カ月後のことだった。アジョール君は家族と共に、アブエルーフ氏が活動拠点とするカタールのドーハへ避難していた。現地で治療を受...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232026.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/19/2cbd94f4669d7f2467bc523fb6883d17/t/768/432/d/world-press-photo-of-the-year-samar-abu-elouf-for-the-new-york-times-20250418082100930.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
