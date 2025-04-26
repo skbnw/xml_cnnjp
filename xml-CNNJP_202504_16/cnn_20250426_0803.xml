@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-04-26T16:47:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232349.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232348.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232346.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232347.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232344.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232339.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232340.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232338.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232336.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35232335.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/architecture/35232321.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232301.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232318.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232320.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232319.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35232298.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232295.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232293.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232294.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232284.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232279.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232275.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232274.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232272.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232271.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232260.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232266.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232240.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35232244.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35232208.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35232349.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T16:47:00+09:00</dc:date>
+        <title>バチカンでフランシスコ教皇の葬儀、広場に群衆集まる</title>
+        <link>https://www.cnn.co.jp/world/35232349.html?ref=rss</link>
+        <description>２１日に死去したローマ教皇フランシスコの葬儀が２６日に営まれるのを受け、大勢の弔問者が最後の別れを告げるべく、バチカン市国に集まっている。フランシスコ教皇は移民や貧しい人々の擁護者、カトリック教会の改革者として記憶されるとみられる。
+
+フランシスコ教皇の葬儀のミサは、カトリック教会にとって最も重要な聖地の一つであるサンピエトロ大聖堂で執り行われる。参列者には５０を超える国々の首脳や１１カ国の君主...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232349.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/d9ba9936dfa24790d55a633a3692c93a/t/768/432/d/gettyimages-2212042889.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232348.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T16:15:00+09:00</dc:date>
+        <title>元判事とその妻を逮捕、ギャングとの関連疑われる移民の証拠を改竄か　米ニューメキシコ州</title>
+        <link>https://www.cnn.co.jp/usa/35232348.html?ref=rss</link>
+        <description>米ニューメキシコ州ドーニャアナ郡の元下級判事とその妻が、適切な書類を持たない移民の逮捕に関する証拠を改竄（かいざん）した罪に問われている。当該の移民はベネズエラの凶悪なギャング組織「トレン・デ・アラグア」の構成員である疑いをもたれている。２５日に提出された２件の刑事訴追状で明らかになった。
+
+裁判所の記録によれば、証拠改竄の罪に問われているのは元郡下級判事のジョエル・カノ容疑者。妻のナンシー・カ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232348.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/c3b92ed51b7494b9ccbe341e1c0e4549/t/768/432/d/20250425-judge-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232346.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T14:00:00+09:00</dc:date>
+        <title>犯罪組織の「絶滅キャンプ」、暴露に協力した母子が殺害される　メキシコ</title>
+        <link>https://www.cnn.co.jp/world/35232346.html?ref=rss</link>
+        <description>メキシコの組織犯罪と関連する恐るべき「絶滅キャンプ」の実態を暴露した活動家の母子２人が、同国ハリスコ州で殺害された。メキシコ当局と母子の関係していた活動団体が明らかにした。
+
+被害者はマリア・デル・カルメン・モラレスさん（４３）と息子のハイメ・ダニエル・ラミレス・モラレスさん（２６）。二人ともメキシコ国内の行方不明者の権利を擁護する活動に従事していた。
+
+今年３月、当該の活動団体は人間の遺体を秘密...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232346.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/c586b68116aae3be8bb0a4cf96696efa/t/768/432/d/2025-04-24t180909z-469633660-rc25hdaebyjx-rtrmadp-3-mexico-crime.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232347.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T12:54:00+09:00</dc:date>
+        <title>バージニア・ジュフリーさん死亡、４１歳　米富豪や英王子からの性被害告発</title>
+        <link>https://www.cnn.co.jp/world/35232347.html?ref=rss</link>
+        <description>１０代の頃に英アンドルー王子から虐待を受けたと告発していた女性、バージニア・ジュフリーさんが自殺したことが分かった。遺族が明らかにした。４１歳だった。
+
+警察によると、西オーストラリア州パース近郊にあるジュフリーさんの自宅で２５日夜、救急隊が意識のない女性を発見。応急処置のかいなく現場で死亡が確認された。
+
+警察はジュフリーさんの死に不審な点はないとしている。
+
+ジュフリーさんは３児の母。性犯罪に問...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232347.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/f16dfeea2add470fb4a7aa8e0cdb34b1/t/768/432/d/virginiagiuffre.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232344.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T12:16:00+09:00</dc:date>
+        <title>七面鳥がフロントガラスを突き破る、ドライバーに警戒呼び掛け　米ミシガン州</title>
+        <link>https://www.cnn.co.jp/usa/35232344.html?ref=rss</link>
+        <description>米ミシガン州を走る州間高速道路９６号線で今週、七面鳥が車のフロントガラスを突き破る事故が起き、州警察がドライバーに警戒を呼び掛けている。
+
+ミシガン州警察によると、９６号線を東へ向かっていた男性（１９）がファウラービル・ロード付近に差しかかった際、七面鳥がピックアップトラックの進路に飛び込んできた。
+
+七面鳥はピックアップトラックと衝突後、フロントガラスを突き破って運転席に飛び込んだ。
+
+運転者はピ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232344.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/41863b484102a45541c9239f111951d5/t/768/432/d/wxyzturkeywindshieldcautioninterstate425.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232339.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T11:00:00+09:00</dc:date>
+        <title>トランプ氏、ロシアとウクライナによる「ハイレベルの会談」求める　和平協定の締結に向け</title>
+        <link>https://www.cnn.co.jp/usa/35232339.html?ref=rss</link>
+        <description>米国のトランプ大統領は、ロシアとウクライナが戦争終結の「協定へ非常に近づいている」と明言し、両国による「極めてハイレベルの」会談の実施を求めた。
+
+自身のＳＮＳトゥルース・ソーシャルで述べた。ローマ教皇フランシスコの葬儀に参列するトランプ氏は、２５日夜にローマに到着した。
+
+「主要な論点の大半は合意に達する。流血の惨事を止めよう、今すぐに。我々は必要であればどこへでも行き、この残忍かつ無意味な戦争...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232339.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/2c0b3c5a7cabd90cd3d3b72e084b4d2b/t/768/512/d/ap25115770263803.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232340.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T10:26:00+09:00</dc:date>
+        <title>「クリミア半島はロシアにとどまる」、トランプ氏が発言　米誌インタビュー</title>
+        <link>https://www.cnn.co.jp/usa/35232340.html?ref=rss</link>
+        <description>トランプ米大統領は２５日掲載の米誌タイムとのインタビューで、ウクライナ戦争終結に向けた和平案の一環で「クリミア半島はロシアにとどまる」との見通しを示した。ウクライナのゼレンスキー大統領も「それは理解している」とも述べた。
+
+トランプ氏は「クリミアはロシアにとどまる。ゼレンスキー氏もそれは理解しているし、長い間ロシアのものだったことは誰もが承知している」などと述べた。
+
+ゼレンスキー氏はクリミア半島...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232340.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/57fb42bdd367b589af5a0209a11e6159/t/768/512/d/gettyimages-958696226.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232338.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T09:26:00+09:00</dc:date>
+        <title>米ＦＢＩ、ウィスコンシン州の判事を逮捕　移民摘発を妨害した容疑</title>
+        <link>https://www.cnn.co.jp/usa/35232338.html?ref=rss</link>
+        <description>米ウィスコンシン州ミルウォーキー郡巡回裁判所の判事が２５日、適切な書類を持たない移民の逮捕逃れをほう助したとして連邦捜査局（ＦＢＩ）に逮捕され、連邦裁判所で訴追された。
+
+逮捕されたハンナ・デュガン判事には、妨害容疑および逮捕対象者を隠匿した容疑がかけられている。デュガン判事は裁判所に出廷した後、釈放された。
+
+連邦の罪状に基づく今回の逮捕は、判事らの動き、とりわけ移民取り締まり関連の動きに目を光...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232338.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/496b30786985783d8556d92dfe6f2d5a/t/768/530/d/judgehannahdugan.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232336.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T22:12:00+09:00</dc:date>
+        <title>ロシア軍将官、モスクワ郊外の車爆発で死亡　米特使とプーチン氏の会談直前</title>
+        <link>https://www.cnn.co.jp/world/35232336.html?ref=rss</link>
+        <description>ロシアの都市バラシハで２５日に車が爆発し、当局によると、ロシア軍の有力な将官が死亡した。トランプ米大統領の特使、スティーブ・ウィトコフ氏がロシアの首都モスクワでプーチン大統領と会談する直前だった。
+
+トランプ氏が自らに課した「就任１００日以内にウクライナ戦争終結」という期限が迫る中、ウィトコフ氏は停戦の可能性について協議するためモスクワ入りしている。
+
+ロシア国営タス通信によれば、ウィトコフ氏は２...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232336.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/6aa903ae28e1dc937e7b30d9003b5965/t/768/432/d/russia_car_explosion.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35232335.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T19:26:00+09:00</dc:date>
+        <title>欧州のスキーリゾートで富裕層に仕える「シャレーガール」、どんな仕事なのか</title>
+        <link>https://www.cnn.co.jp/travel/35232335.html?ref=rss</link>
+        <description>フランス・アルプスのスキーリゾート、レ・ジェで迎える１月の寒い朝。時刻は７時、日の出までには１時間ある。だが目覚ましに気付かず寝過ごしたソフィー・クラウザーさんは、凍った山道を駆け上っていた。２５人の豪勢な宿泊客に朝食をつくるためだ。
+
+山での仕事はこれが初日。つい２～３日前、高級シャレー（貸別荘）の料理人として派遣されると連絡を受けたばかりだ。前夜に開いてもらった歓迎会の大騒ぎがまだ耳に残るな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35232335.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/cf52bf366ca78b51a32a52060ded8c0c/t/768/512/d/image00009-20250418201401813.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/architecture/35232321.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T17:25:00+09:00</dc:date>
+        <title>世界一高い未入居の超高層ビル、１０年ぶりに建設工事再開へ　中国・天津</title>
+        <link>https://www.cnn.co.jp/style/architecture/35232321.html?ref=rss</link>
+        <description>未入居の超高層ビルとして世界一の高さを誇る建物の建設工事が、早ければ来週にも再開する可能性がある。工事は１０年近く前に完全に停止していた。中国の国営メディアが明らかにした。
+
+このビルは高さ５９７メートルの「高銀金融１１７」。中国北部の港湾都市、天津で建設中だが、重大な財政難を理由に２０１５年から工事が停止していた。現在は２７年の完工を見込んでいる。
+
+１１７階建ての同ビルは０８年の着工時、中国で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/architecture/35232321.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/5544bcad41aa9822a9859f6ecbd2016e/t/768/432/d/shutterstock-editorial-14680209k.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232301.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T16:52:00+09:00</dc:date>
+        <title>米国立科学財団の長官が辞任、トランプ政権からの要求に対処する中</title>
+        <link>https://www.cnn.co.jp/usa/35232301.html?ref=rss</link>
+        <description>米国立科学財団（ＮＳＦ）のセスラマン・パンチャナタン長官が２４日、辞任したことがわかった。ＮＳＦは科学領域全般にわたる発見の促進を担う９０億ドル（約１兆３０００億円）規模の機関。長官の辞任はＮＳＦが、抜本的な改革を推し進めるトランプ政権と政府効率化省（ＤＯＧＥ）からの要求に対処する中で発表された。
+
+パンチャナタン氏は１期目のトランプ政権で起用され、２０２０年６月以降、同財団を率いてきた。
+
+同氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232301.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/1a00341e050c0e62537090cf295a95dc/t/768/432/d/gettyimages-1706000311-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232318.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T16:29:00+09:00</dc:date>
+        <title>トランプ氏が示した貿易戦争の「融和策」、中国国内では嘲笑と不信感</title>
+        <link>https://www.cnn.co.jp/world/35232318.html?ref=rss</link>
+        <description>トランプ米大統領は先ごろ、中国からの輸入品に対する関税を引き下げる可能性に言及し、世界の投資家を喜ばせた。しかし世界第２位の経済大国との貿易戦争を緩和するかに見えたトランプ氏の姿勢は、中国政府の当局者に一蹴され、インターネット上では「怖じ気づいた」と嘲笑されている。
+
+トランプ氏は２２日、ホワイトハウスの大統領執務室で記者団に対し、中国製品に対する高関税は今後「大幅に下がる」と発言した。強硬戦術...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232318.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/11d8de85c1ba756f413117e43282c9b9/t/768/512/d/trump.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232320.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T15:42:00+09:00</dc:date>
+        <title>子どものはしか予防接種、減少続けば２５年で数百万人が感染の可能性　米研究</title>
+        <link>https://www.cnn.co.jp/usa/35232320.html?ref=rss</link>
+        <description>米国ではしかの予防接種を受ける子どもが減り続けた場合、今後２５年で症例数が５１００万例に達する可能性があるとする研究結果が２４日の医学誌ＪＡＭＡに発表された。
+
+はしかは特定の地域や集団で定期的に発生するエンデミックが続いている国もある。米国の場合は３種混合ワクチンの効果で、２０００年にはしかの根絶を宣言した。
+
+しかし州の保健当局や米疾病対策センター（ＣＤＣ）のデータをＣＮＮが集計したところ、今...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232320.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/4768bfa9fc23b524aa8cb0c5c0536b90/t/768/432/d/gettyimages-2202122248-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232319.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T15:08:00+09:00</dc:date>
+        <title>中国、米国製半導体の一部で報復関税をひそかに撤回　輸入代理店が明らかに</title>
+        <link>https://www.cnn.co.jp/business/35232319.html?ref=rss</link>
+        <description>中国が米国製半導体の一部に対する１２５％の報復関税をひそかに撤回したとみられる。広東省深圳の輸入代理店３社が２５日、ＣＮＮに明らかにした。
+
+３社によると、この免除は半導体に適用される。代理店らはこの免除措置について２４日遅くに知ったという。公式発表は行われていない。
+
+中国は今月１２日、トランプ米大統領が中国製品への関税を１４５％に引き上げたことを受け、米国の全製品に対する報復関税を１２５％に引...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232319.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/8f4ba8b99eaf5042404c05a65efc9bd3/t/768/432/d/2025-02-15t045902z-1569210894-rc2vcz9qv2nu-rtrmadp-3-usa-trump-taiwan.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35232298.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T12:55:00+09:00</dc:date>
+        <title>フランシスコ教皇の葬儀とコンクラーベ、大混雑のローマを訪れるには</title>
+        <link>https://www.cnn.co.jp/travel/35232298.html?ref=rss</link>
+        <description>２１日に死去したローマ教皇フランシスコの葬儀が２６日に営まれる。イタリアのローマには教皇をしのんで世界中から信者らが詰めかける見通しだ。
+
+フランシスコ教皇は比較的リベラルな姿勢だったことから、世界で約１４億人のカトリック信者に加えて、信者以外の人も追悼したいと思うかもしれない。
+
+イタリアを訪れる外国人旅行者はただでさえ過去最高を記録している。しかもバチカン聖年にあたる今年のローマは例年以上の混...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35232298.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/280b60ebc6f51f1396f0333ffa028466/t/768/432/d/pope-francis.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232295.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T12:40:00+09:00</dc:date>
+        <title>【分析】経済政策支持率はわずか３７％、伝えたＦＯＸニュースをトランプ氏が痛罵</title>
+        <link>https://www.cnn.co.jp/business/35232295.html?ref=rss</link>
+        <description>米ＦＯＸニュースでさえ事態は芳しくないかもしれないと示唆したのだから、トランプ大統領にとってはひどい一日だろう。
+
+ＦＯＸニュースが関税導入によるインフレと経済の不確実性に対する国民の懸念を浮き彫りにした世論調査を発表したことを受け、トランプ氏は２４日、メディア王ルパート・マードック氏と同氏が名誉会長を務めるメディア企業２社を批判した。
+
+トランプ氏は自身のＳＮＳ「トゥルース・ソーシャル」で、マー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232295.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/beca01295c9857836d54a1b3bb5120a1/t/768/432/d/2025-04-24t151634z-730524119-rc2s3eara0e3-rtrmadp-3-usa-court-transgender.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232293.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T11:25:00+09:00</dc:date>
+        <title>第２次大戦で沈没の米空母「ヨークタウン」、船体から自動車発見　黒のフォード</title>
+        <link>https://www.cnn.co.jp/fringe/35232293.html?ref=rss</link>
+        <description>ミッドウェー海戦で沈んだ第２次世界大戦時の空母「ヨークタウン」の船体を調べていた調査チームが、予想もしなかった遺物を発見した。１台の自動車だ。
+
+動画には「なんと、驚きだ。行ってみよう」と漏らす調査員の声が捉えられている。
+
+海洋大気局（ＮＯＡＡ）のチームはこの車を、１９４０年代に作られた黒のフォード・スーパーデラックス「ウッディ」と特定。ヨークタウンが外国の港に寄港した際、上級将校が使用していた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232293.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/fd3de1d6a5e7ea505456c6a132c0bf75/t/768/432/d/yorktown.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232294.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T11:10:00+09:00</dc:date>
+        <title>ガザ攻撃で国連支援職員死亡、イスラエルが責任認める　「事実無根」の主張から一転</title>
+        <link>https://www.cnn.co.jp/world/35232294.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区の国連施設が３月に攻撃されて国連職員が死傷した問題をめぐり、イスラエル軍が２４日、一転して責任を認めた。当初は関与を否定していたが、イスラエルの関与を裏付ける証拠が集まる中で前言を撤回した。
+
+イスラエル軍は、これまでの調査の結果、「死者が出たのは同地で活動していたイスラエル国防軍の戦車による砲撃が原因だったことが示唆されている」と説明した。
+
+国連によると、この攻撃ではガ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232294.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/1664f54db7b493b26eb30471173ba850/t/768/432/d/a-united-nations-building-in-gaza-on-wednesday-after-being-struck-by-what-one-official-called-an-explosive-ordnance.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232284.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T10:05:00+09:00</dc:date>
+        <title>トランプ氏、中国への不満募らせる　自身が始めた貿易戦争長引くにつれ</title>
+        <link>https://www.cnn.co.jp/usa/35232284.html?ref=rss</link>
+        <description>トランプ米大統領は２４日、自ら始めた貿易戦争が続く中、中国への不満をあらわにした。
+
+同氏は自身のＳＮＳ「トゥルース・ソーシャル」に、中国が関税を理由にボーイング機納入の受け入れを停止し、同機を米国に返送していると怒りをぶつけた。
+
+「中国が購入を約束したにもかかわらず美しく仕上げられた航空機を受け取らないのであれば、ボーイングはそれを理由に中国を債務不履行にすべきだ。これは、中国が長年にわたり米...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232279.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T09:41:00+09:00</dc:date>
+        <title>曲芸飛行の著名パイロット、ロブ・ホランドさん事故死　米空軍基地</title>
+        <link>https://www.cnn.co.jp/usa/35232279.html?ref=rss</link>
+        <description>アクロバット飛行の著名パイロットだったロブ・ホランドさんが２４日、米バージニア州のラングレー空軍基地で起きた墜落事故のために死去した。ホランドさんはこの週末に開かれる航空ショーで曲芸飛行を披露する予定だった。
+
+米連邦航空局（ＦＡＡ）の発表によると、現地時間の午前１１時５０分ごろ、ホランドさんの操縦するＭＸＳの特注機が着陸しようとして事故に巻き込まれた。搭乗していたのはホランドさんだけだった。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232279.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/0d4b2499cbb3560c62ef0cedc951aac9/t/768/432/d/robhollandpilot.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232275.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T09:25:00+09:00</dc:date>
+        <title>ウクライナ戦争の終結、想定より困難　トランプ氏が非公式に認める</title>
+        <link>https://www.cnn.co.jp/usa/35232275.html?ref=rss</link>
+        <description>就任１００日目を５日後に控え、またウクライナでの紛争の解決に向けて自ら設定した期限から９３日が経過した今、トランプ米大統領は、ロシアとウクライナの和平交渉がこれまでのところ成果を上げていないことに苛（いら）立ちを募らせている。協議に詳しい関係筋がＣＮＮに語ったところによると、和平交渉の仲介は想定していた以上に困難だと、顧問たちに非公式に伝えたという。
+
+関係筋の一人によれば、トランプ氏は非公式の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232275.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/dacc6c8feefcf354f80d3fad612ecb7a/t/768/432/d/c-gettyimages-2211811911-20250424221516100.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232274.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T07:55:00+09:00</dc:date>
+        <title>トランプ氏、ロシアは「かなり大きな譲歩」　ウクライナの「全土は奪わず」と強調</title>
+        <link>https://www.cnn.co.jp/usa/35232274.html?ref=rss</link>
+        <description>トランプ米大統領は２４日、ロシアがウクライナとの和平交渉において相当の譲歩を提示したとの認識を明らかにした。「国全体を奪取」はしないというのが譲歩の内容だとした。
+
+ロシアが和平交渉で何を提案しているのかという記者の質問に対し、トランプ氏は「戦争の停止だ」と答えた。
+
+トランプ氏は同日、ノルウェーのストーレ首相と大統領執務室で会談。その際にロシアとウクライナの和平交渉に触れ「国全体を奪取しないとい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232274.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/017cb339a15fca6545fdde24268e2076/t/768/432/d/ukraine-crisis-attack-sloviansk.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232272.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T07:00:00+09:00</dc:date>
+        <title>ブラジル前大統領、健康状態が悪化　ＩＣＵで治療</title>
+        <link>https://www.cnn.co.jp/world/35232272.html?ref=rss</link>
+        <description>南米ブラジルのボルソナーロ前大統領の治療を担当している医師団は２４日、ボルソナーロ氏の健康状態が今月中旬に受けた手術以降、悪化していると明らかにした。
+
+ボルソナーロ氏は現在、首都ブラジリアの病院の集中治療室（ＩＣＵ）で治療を受けている。ボルソナーロ氏のＸ（旧ツイッター）のアカウントに２４日午前投稿された医師団の声明によると、症状悪化の兆候が見られることから新たに検査を行う。
+
+具体的には血圧の上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232272.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/7ed35956dfb22915f19483d728c07158/t/768/432/d/brazil-politics-bolsonaro.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232271.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T06:25:00+09:00</dc:date>
+        <title>トランプ氏、プーチン氏に「やめろ！」　キーウ攻撃受け</title>
+        <link>https://www.cnn.co.jp/usa/35232271.html?ref=rss</link>
+        <description>トランプ米大統領は２４日、ロシアが同日未明にウクライナの首都キーウを攻撃したことに不快感を示し、ロシアのプーチン大統領を名指しして攻撃を止めるよう求めた。
+
+トランプ氏は自身のＳＮＳに「キーウへのロシアの攻撃には不満だ」「不要で、タイミングが非常に悪い。ウラジーミル、やめろ！　週に５０００人の兵士が死んでいる。和平合意を成立させよう！」と書き込んだ。
+
+米国はウクライナとロシアに提案した和平案に、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232271.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/4bceba84dbb8608a0ea8bce41bd732b7/t/768/432/d/20250330-trrump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232260.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-24T18:33:00+09:00</dc:date>
+        <title>太古に生きた「恐怖のクロコダイル」、恐竜食べるほどに巨大化　科学者が分析</title>
+        <link>https://www.cnn.co.jp/fringe/35232260.html?ref=rss</link>
+        <description>かつて恐竜を捕食していた巨大な爬虫（はちゅう）類の口はアリゲーターのように幅が広かったが、今は絶滅したこの生物が隆盛を誇った要因は、現代のアリゲーターが持たない特徴を備えていた点にあった。それは塩水に対する耐性だ。
+
+デイノスクスと呼ばれるこの爬虫類は、これまで地球に生息したワニ類の中で最大の部類に属する。体長はほぼバス１台分で、生えている歯の大きさはバナナ並みだ。約８２００万前から７５００万年...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232260.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/24/b542d195bad7739d7696947d854ae006/t/768/432/d/deinosuchus-walter-et-al-commsbio.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232266.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-24T17:38:00+09:00</dc:date>
+        <title>ロシアがキーウ攻撃、９人死亡　トランプ氏とゼレンスキー氏の舌戦後</title>
+        <link>https://www.cnn.co.jp/world/35232266.html?ref=rss</link>
+        <description>ロシアは２４日未明、ウクライナの首都キーウに対する攻撃を実施した。この数時間前、トランプ米大統領はウクライナのゼレンスキー大統領が和平交渉を危機にさらしていると改めて非難していた。
+
+ドローン（無人機）とミサイルによる攻撃がキーウ全域の１３カ所を直撃し、ウクライナ救急当局によると、少なくとも９人が死亡、７０人以上が負傷した。
+
+キーウにいるＣＮＮのプロデューサーは２４日未明、約６時間にわたり空襲警...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232266.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/24/8348b99d3406206baf8f4e9882271618/t/768/432/d/rtrmadp_ukraine_crisis_attack.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232240.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-24T16:46:00+09:00</dc:date>
+        <title>絶滅の縁から復活した珍獣サイガ、中央アジアの草原を闊歩</title>
+        <link>https://www.cnn.co.jp/fringe/35232240.html?ref=rss</link>
+        <description>かつては毎年春と秋になると、サイガ（サイガアンテロープ）の大群が中央アジアの草原を川の流れのように移動していた。遊牧性のこの動物は２０万頭規模の群れをなし、新鮮な草と澄んだ天気を求めて数千キロを旅した。
+
+サイガの歴史は氷河期にまでさかのぼり、一時は現在の英国からカナダに至る広大な範囲をケブカサイやマンモスと並んで闊歩（かっぽ）していた。仏マルセイユ近郊の約１万９０００年前の洞窟壁画にもその姿が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232240.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/24/3d1c46fb12e97d20d25f5200ce0907ef/t/768/512/d/saigamale.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35232244.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-24T16:36:00+09:00</dc:date>
+        <title>写真特集：絶滅の縁から復活、珍獣サイガ</title>
+        <link>https://www.cnn.co.jp/photo/35232244.html?ref=rss</link>
+        <description>保護活動のかいあって絶滅の縁から復活したサイガ。中央アジアを闊歩する独特の姿を見ていく&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35232244.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/24/0ecdb561a843c1621795894a8eb29c7f/t/288/432/d/saiga-male-albert-salemgareyev-acbk.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35232208.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-24T16:00:00+09:00</dc:date>
+        <title>滑走路が溶けていく――世界最北端の空港で起きていること</title>
+        <link>https://www.cnn.co.jp/travel/35232208.html?ref=rss</link>
+        <description>北極圏の凍った原野が、最近にわかに世界の注目を集めている。
+
+トランプ米大統領はグリーンランドの獲得に意欲を示し、中国とロシアはシベリア沖を通る北極海航路の開発に関心を強めてきた。
+
+だが新たに注目されるのは、地政学的な側面ばかりではない。米アラスカからフィンランド北端のラップランドまで、北極圏では記録的な数の観光客が報告されている。
+
+一般の旅行者にとって北極はまだ遠い場所かもしれないが、そのすぐ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35232208.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/23/2358bae6a0c763add2a3a8a974c5ee6f/t/768/432/d/shutterstock-editorial-1310548a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
