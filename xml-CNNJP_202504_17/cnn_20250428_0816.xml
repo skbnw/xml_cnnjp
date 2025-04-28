@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-04-28T17:12:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232397.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232396.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232381.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232390.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232386.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232384.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232373.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35232379.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232377.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232374.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232370.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232371.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232369.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232363.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232360.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232362.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232361.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35232357.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232358.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232359.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232356.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232355.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232354.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232353.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232351.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232350.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232337.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232349.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232348.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232346.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35232397.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T17:12:00+09:00</dc:date>
+        <title>北朝鮮、ロシア派兵を認める　条約に基づき金総書記が指示</title>
+        <link>https://www.cnn.co.jp/world/35232397.html?ref=rss</link>
+        <description>ウクライナ情勢をめぐり、北朝鮮は２８日、ウクライナ軍と戦うロシアのために北朝鮮兵を派遣していたことを認めた。北朝鮮がロシアへの派兵を認めるのは今回が初めて。
+
+北朝鮮の朝鮮中央通信（ＫＣＮＡ）によれば、朝鮮労働党中央軍事委員会は、ウクライナ当局によるロシアへの侵攻を撃退するためのロシア・クルスク州解放作戦が勝利をおさめて終了したと明らかにした。
+
+ロシアのプーチン大統領は２６日、ウクライナが昨年越...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232397.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/28/1b10f305dc0660067af81cb28b164c71/t/768/432/d/ap25105543425918.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232396.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T16:48:00+09:00</dc:date>
+        <title>独国防相、トランプ氏の和平案はロシアへの「降伏」　領土の承認めぐり</title>
+        <link>https://www.cnn.co.jp/world/35232396.html?ref=rss</link>
+        <description>ウクライナ情勢をめぐり、ドイツのピストリウス国防相は２７日、トランプ米大統領が提案している和平案に基づいてウクライナの広大な領土をロシアに譲渡することは「降伏」に等しいと述べた。
+
+ピストリウス氏は公共放送ＡＲＤに対し、ウクライナは永続的な停戦合意に達するには領土の一部を譲渡しなければならない可能性を認識していたかもしれないが、トランプ氏の最新の提案ほど「踏み込まないだろうし、踏み込むべきでない...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232396.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/28/1b10f305dc0660067af81cb28b164c71/t/768/432/d/ap25105543425918.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232381.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T15:57:00+09:00</dc:date>
+        <title>ロシア軍、ドローン回避に「バイク部隊」を増強　高い機動性も損耗も激しく</title>
+        <link>https://www.cnn.co.jp/world/35232381.html?ref=rss</link>
+        <description>ウクライナ情勢をめぐり、ロシア軍が新たな侵攻を計画するなかで、前線では二輪や四輪のバイクによる小部隊の活用を増やす見通しであることがわかった。ウクライナ軍や専門家が明らかにした。
+
+ロシア国防省は２６日、部隊が２、３台のバイクの集団に分かれて戦術訓練を行う様子を撮影した動画を公開した。動画には音楽に合わせてバイクがコースを進む様子が捉えられている。
+
+ロシア軍は１年以上前から、ウクライナ軍のドロー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232381.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/28/acdc7d8fab0a695aed22a45446745f8b/t/768/432/d/001-gettyimages-2205227571.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232390.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T15:18:00+09:00</dc:date>
+        <title>カナダ総選挙、トランプ関税や「併合」の脅威が影を落とす</title>
+        <link>https://www.cnn.co.jp/world/35232390.html?ref=rss</link>
+        <description>カナダで現地時間２８日に総選挙が行われる。関税や経済の不確実性、米国による「併合」の脅威などが選挙戦に影を落としている。
+
+有権者は、与党・自由党を率いるカーニー首相に４年間の任期を与えるか、９年以上にわたる自由党政権の後に野党・保守党の政権交代を認めるかを決めることになる。
+
+投票は、最東端に位置するニューファンドランド・ラブラドール州で現地時間午前８時半から始まる。
+
+カナダと米国の不安定な関係...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232390.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/28/e24bfcf023f6086e4a77f984a54317d9/t/768/432/d/thumbnail-canada.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232386.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T13:44:00+09:00</dc:date>
+        <title>イスラエル軍、ベイルート南部を空爆　ヒズボラのミサイル保管施設が標的と主張</title>
+        <link>https://www.cnn.co.jp/world/35232386.html?ref=rss</link>
+        <description>イスラエル軍は２７日、レバノンの首都ベイルート南部ハダス地区を空爆した。イスラエル軍は空爆の直前に避難するよう警告を出していた。
+
+イスラエルのネタニヤフ首相とカッツ国防相による共同声明によると、標的は精密ミサイルを保管していたレバノンのイスラム教シーア派組織ヒズボラの施設だったという。
+
+ロイター通信の映像には、同日午後６時ごろに大きな黒煙が上がる様子が映っている。
+
+レバノン民間防衛隊によれば、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232386.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/28/4214e829e91fbca2eb23dc7251cc8225/t/768/432/d/gettyimages-2211714639.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232384.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T13:21:00+09:00</dc:date>
+        <title>米国籍持つ子ども３人、母親と一緒にホンジュラスへ強制移送　がん治療中の４歳児も</title>
+        <link>https://www.cnn.co.jp/usa/35232384.html?ref=rss</link>
+        <description>米国籍を持つ子ども３人が、それぞれの母親と一緒に移民当局に拘束され、ホンジュラスへ強制移送されたと支援団体が訴えている。子どものうち４歳のひとりはがんの転移で治療を受けている最中だったという。
+
+米自由人権協会（ＡＣＬＵ）など支持団体の２５日の発表によると、強制移送されたのは２歳の子どもとその母親、および４歳と７歳の子どもとその母親。いずれも米国に滞在する移民に対して定期的な出頭を義務付けたＩＳ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232384.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/28/b6f73fb0d55348540fcbc36211bd8111/t/768/432/d/ap25021729089144.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232373.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T12:12:00+09:00</dc:date>
+        <title>路上フェスティバルの群衆に車突っ込む、死者１１人に　カナダ</title>
+        <link>https://www.cnn.co.jp/world/35232373.html?ref=rss</link>
+        <description>カナダ・バンクーバーでフィリピン系住民の伝統を祝うストリートフェスティバルの現場に車が突っ込んだ事件で、少なくとも１１人が死亡したほか数十人が負傷した。警察は今回の事件について、バンクーバー市にとって「最も暗い日」と呼んだ。
+
+祭りの参加者も容疑者の追跡と拘束に協力した。警察によれば、容疑者は３０歳の男で、精神疾患の既往症があった。
+
+警察によれば、死者の年齢は５歳から６５歳。警察幹部は２７日、記...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232373.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/27/32eeed91305d9af1b2fd8033aafbb55c/t/768/432/d/canadavancouverstreetfestivalcrash.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35232379.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T12:10:00+09:00</dc:date>
+        <title>英ロンドン・マラソンで抗議運動、コースに粉体塗料投げた２人を逮捕</title>
+        <link>https://www.cnn.co.jp/showbiz/35232379.html?ref=rss</link>
+        <description>英ロンドン市内で２７日に行われたロンドン・マラソンで、男子エリート集団が通過する直前、コース上に赤い粉体塗料がぶちまけられる事件があり、ロンドン市警によると２人が逮捕された。
+
+「ユース・ディマンド」というグループがＳＮＳに投稿した映像では、「イスラエルの武装を止めろ」という文字の入ったＴシャツ姿の２人がタワーブリッジの上で柵を乗り越えて路上で立ち止まり、塗料を宙にぶちまけていた。
+
+マラソンをバ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35232379.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/28/12ccfda63da6ec8c58aac63922cbc806/t/768/432/d/shutterstock-editorial-15272121s.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232377.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T11:52:00+09:00</dc:date>
+        <title>違法営業のクラブに強制捜査、１００人以上の不法移民や現役兵を拘束と発表　米当局</title>
+        <link>https://www.cnn.co.jp/usa/35232377.html?ref=rss</link>
+        <description>米麻薬取締局（ＤＥＡ）は２７日、米コロラド州コロラドスプリングスで違法営業のナイトクラブの強制捜査を行い、１００人以上の不法移民を拘束したと発表した。
+
+当局が踏み込んだ時、同クラブには現役の兵士も数十人いたといい、一部は不法営業に関与していたと連邦当局はみている。
+
+米麻薬取締局ロッキーマウンテン支部はＸ（旧ツイッター）への投稿で、クラブ内にいた２００人のうち、少なくとも１１４人は不法滞在者だっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232377.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/28/eac02ffd55b3b938932375836c5c2003/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTl6dWdkcXcwMDBmM2I2bWwwY2JoMWk3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtOXpwMmVjNDAwNjkyNnBhZW5vOGc0MjM=.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232374.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T11:13:00+09:00</dc:date>
+        <title>米フロリダ州で８００人の移民逮捕、連邦と州が取り締まりで「初連携」</title>
+        <link>https://www.cnn.co.jp/usa/35232374.html?ref=rss</link>
+        <description>米移民税関捜査局（ＩＣＥ）は２６日、フロリダ州で４日間にわたり「複数機関による大規模な移民取り締まり」を実施し、約８００人を逮捕したと発表した。ＩＣＥのマイアミ支局は、今回の取り締まりについて「州と連邦機関が初めて連携」し「大きな成功を収めた」作戦と評している。
+
+フロリダ州のデサンティス知事は、Ｘ（旧ツイッター）の声明でこの作戦を「フロリダ州と（国土安全保障省が）協力して移民の取り締まりと強制...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232374.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/28/6153979306fb844f912ced2739e4f170/t/768/432/d/gpd8gotx0aapnmi.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232370.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T10:50:00+09:00</dc:date>
+        <title>トランプ氏、ゼレンスキー氏は「以前より冷静」　バチカンでの協議受け</title>
+        <link>https://www.cnn.co.jp/usa/35232370.html?ref=rss</link>
+        <description>バチカンで週末に行われたウクライナのゼレンスキー大統領との会談を受け、トランプ米大統領は２７日、ゼレンスキー氏が「以前より冷静」になり、和平合意への関心が高まっていると述べた。
+
+トランプ氏は会談について「素晴らしい」ものだったと総評。１５分間の会談でゼレンスキー氏から追加の武器供与の要請があったという。
+
+トランプ氏は、ロシアのプーチン大統領がウクライナ首都キーウへミサイル攻撃を行ったことへの不...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232370.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/28/4409b8f0b31c15e33eee1a9765305fa0/t/768/432/d/gettyimages-2211787003.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232371.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T09:50:00+09:00</dc:date>
+        <title>トランプ氏支持率、過去７０年の歴代大統領の中で最低　就任１００日控え</title>
+        <link>https://www.cnn.co.jp/usa/35232371.html?ref=rss</link>
+        <description>就任から１００日を迎える米国のドナルド・トランプ大統領の支持率が、ＣＮＮの世論調査で４１％に落ち込んだ。１００日目の支持率としては、１９５３～６１年に大統領を務めたドワイト・アイゼンハワー氏以降の歴代大統領（１期目のトランプ氏本人を含む）の中で最低だった。
+
+トランプ大統領の支持率は３月に比べて４ポイント低く、２月下旬に比べると７ポイント低下。「強い支持」は過去最低の２２％に減る一方、「強い不支...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232371.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/28/0cfc104ca07c0f08e2b91e29d4e17cc5/t/768/512/d/Donald-Trump.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232369.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-28T09:21:00+09:00</dc:date>
+        <title>大学で発砲　１人死亡、６人負傷　米ノースカロライナ州</title>
+        <link>https://www.cnn.co.jp/usa/35232369.html?ref=rss</link>
+        <description>米南部ノースカロライナ州にある伝統的に黒人学生を受け入れてきたエリザベスシティー州立大学のキャンパス中心部で２７日未明、発砲があり、１人が死亡、６人が負傷した。
+
+大学の発表によると、今回の発砲は学校行事「バイキング・フェスト」終了後に発生した。
+
+死亡したのは同大の学生ではない２４歳の男性で、身元は遺族への連絡を待って公表していない。
+
+負傷者は６人で、このうち４人が銃創を負った。銃創を負った３人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232369.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/28/f486c8e2876731672dc9830e55e26a76/t/768/432/d/ap25117736574575.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232363.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-27T17:29:00+09:00</dc:date>
+        <title>迷子の犬を５２９日ぶりに捕獲、決め手は「においのついたシャツ」　豪</title>
+        <link>https://www.cnn.co.jp/fringe/35232363.html?ref=rss</link>
+        <description>迷子になった犬が国際的な注目を集めることはほとんどないが、オーストラリアで行方不明になったミニチュアダックスフント「バレリー」の捜索をめぐっては、最新情報に世界中から関心が寄せられていた。オーストラリア南部に位置するカンガルー島で５２９日ぶりにバレリーが捕獲されると、インターネットは歓喜に沸いた。
+
+非営利団体「カンガラ・ワイルド・レスキュー」は２５日夜、フェイスブックへの投稿で、バレリーが安全...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232363.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/27/8ff4519b57d175962465f50b4953e9c1/t/768/432/d/x482321254-971223655140161-3205793905741577968-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232360.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-27T15:50:00+09:00</dc:date>
+        <title>ヨーダの奇妙な話し方には「正当な理由」、ジョージ・ルーカス氏が明かす</title>
+        <link>https://www.cnn.co.jp/fringe/35232360.html?ref=rss</link>
+        <description>映画史上、最も愛されるキャラクターの一人である「スター・ウォーズ」のヨーダ。人気の一因はその独特の話し方にある。
+
+「最高の師、失敗こそは」「学ぶべきこと多し、今なお」「９００歳になった時に見た目が今ほど良い、はずがない」――。こうしたせりふはいずれも、ジェダイ・マスターであるヨーダが思考を言語化するユニークな方法を示す。とりとめのなさと語順の乱れが魅力的だ。
+
+「スター・ウォーズ」シリーズの生みの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232360.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/27/6f01abf98dffc4a4b13efd9c4a27461b/t/768/432/d/starwars.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232362.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-27T14:54:00+09:00</dc:date>
+        <title>ストリートフェスティバルの群衆に車突っ込む、複数の死者　カナダ・バンクーバー</title>
+        <link>https://www.cnn.co.jp/world/35232362.html?ref=rss</link>
+        <description>カナダ西部バンクーバーで２６日夜、フィリピン系住民の伝統を祝うストリートフェスティバルの現場に車が突っ込み、市の当局者によると、死者が確認された。
+
+バンクーバー警察はＸ（旧ツイッター）へ投稿した声明で、「ストリートフェスティバルの人混みに車が突っ込み、複数人が死亡、多数が負傷した」と明らかにした。
+
+警察によると、車の運転者は身柄を拘束された。
+
+バンクーバーのシム市長は声明で哀悼の意を表明。「本...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232362.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/27/32eeed91305d9af1b2fd8033aafbb55c/t/768/432/d/canadavancouverstreetfestivalcrash.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232361.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-27T14:14:00+09:00</dc:date>
+        <title>米国土安全保障長官のバッグ盗難、容疑者を逮捕　現金４０万円も被害</title>
+        <link>https://www.cnn.co.jp/usa/35232361.html?ref=rss</link>
+        <description>高級ブランド「グッチ」のバッグが被害に遭ったノーム米国土安全保障長官の窃盗事件で、容疑者１人が逮捕されたことがわかった。情報筋が明らかにした。
+
+今回の事件は首都ワシントンのペンクォーター地区を狙った窃盗団による犯行とみられている。情報筋によれば、１人が拘束されたほか、さらに逮捕者が出るとみられている。
+
+当局は容疑者の詳細を公表していない。事件は２０日、ノーム氏が家族と夕食を取っていた際に発生し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232361.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/27/1b91a3e04e21ee7a143348184ff1920b/t/768/432/d/gettyimages-2206717045.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35232357.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-27T13:52:00+09:00</dc:date>
+        <title>アンディ・ウォーホルの作品、うっかり廃棄してしまった可能性　オランダ自治体が公表</title>
+        <link>https://www.cnn.co.jp/style/arts/35232357.html?ref=rss</link>
+        <description>ごみ箱から芸術作品を制作したことで有名なアンディ・ウォーホルだが、自作が本当にごみ捨て場行きになる可能性は想定していなかったかもしれない。
+
+だが、オランダのある自治体の当局者は、ウォーホルのシルクスクリーンプリント１点が「粗大ごみ」と一緒に誤って廃棄され、まさにごみ捨て場行きになった可能性があると考えている。
+
+マースホルストの自治体が２４日に出した声明によると、紛失したのはオランダのベアトリッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35232357.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/27/7cfe74142832ed498a2f98be674f5014/t/768/512/d/dutchtownhall.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232358.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-27T12:46:00+09:00</dc:date>
+        <title>米国とイラン、３度目の核協議終了　協議継続で合意も隔たり残る</title>
+        <link>https://www.cnn.co.jp/world/35232358.html?ref=rss</link>
+        <description>米国とイランの代表団は２６日、中東オマーンの首都マスカットで、イランの核開発をめぐって協議を行った。両国は協議について、前向きに受け止めつつ、慎重な見通しを示した。
+
+イランからはアラグチ外相らが参加。米国の代表団はウィトコフ中東担当特使が率いた。技術の専門家による協議も行われた。
+
+政府高官によれば、今回の協議は前向きで生産的なものだった。間接的・直接的な話し合いが４時間あまり行われた。合意に向...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232358.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/27/b69285767d45040811f351177a02b6ff/t/768/432/d/20250426-usiran-20250426163131845.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232359.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-27T12:34:00+09:00</dc:date>
+        <title>ハマス幹部、停戦協議でエジプト入り　トランプ米大統領「ガザに良くしなければ」</title>
+        <link>https://www.cnn.co.jp/world/35232359.html?ref=rss</link>
+        <description>イスラム組織ハマスの代表団が２６日、エジプトで、パレスチナ自治区ガザ地区での停戦合意を仲介するエジプト当局と協議を行った。ハマスが声明で発表した。
+
+代表団にはハマス指導評議会議長ら主要幹部が含まれる。
+
+声明によると、代表団は、停戦や人質と受刑者の交換、復興を実現するための包括的な合意に向けた考え方を説明した。これらの取り組みを成功させるため、協議を継続することで合意したという。協議ではガザ地区...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232359.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/27/ef07f975247f75632725f7a74fcf2fc0/t/768/432/d/gettyimages-2210336887.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232356.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-27T12:24:00+09:00</dc:date>
+        <title>ロシア、クルスク州の奪還を発表　ウクライナは否定</title>
+        <link>https://www.cnn.co.jp/world/35232356.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は２６日、昨夏にウクライナが越境攻撃を仕掛けたロシア・クルスク州について、奪還したと明らかにした。一方、ウクライナ側は現地では戦闘が継続していると主張している。
+
+プーチン氏は「ウクライナ政府の冒険は完全に失敗した」と述べ、ロシア軍を称賛した。プーチン氏は同州でのウクライナ軍の撃退について、戦争での重要な局面において、ロシアにとって象徴的な追い風となると指摘した。
+
+ウクライ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232356.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/27/0113cf1e03a27ee36febe1f5f06fb13f/t/768/432/d/gettyimages-2205227251.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232355.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-27T10:49:00+09:00</dc:date>
+        <title>ロシア、「ウクライナの特殊機関要員」を拘束　車爆発による軍将官死亡で</title>
+        <link>https://www.cnn.co.jp/world/35232355.html?ref=rss</link>
+        <description>ロシアで発生した車の爆発でロシア軍の将官ヤロスラブ・モスカリク氏が死亡した事件に関連し、 ロシア当局は「ウクライナの特殊機関要員」を拘束したと明らかにした。
+
+爆発は２５日に首都モスクワの東３２キロ以内に位置するバラシハで発生。国営タス通信がロシア連邦保安庁（ＦＳＢ）の情報として報じたところによると、容疑者は爆発した車を購入した人物とされる。国籍は不明だが、ＦＳＢによれば、ウクライナの滞在許可証を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232355.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/27/afc4bec6db53f82315e38793961f2883/t/768/432/d/carexplosions.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232354.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-27T10:46:00+09:00</dc:date>
+        <title>イランの港で爆発、１４人死亡　保管されていた化学物質が関係か</title>
+        <link>https://www.cnn.co.jp/world/35232354.html?ref=rss</link>
+        <description>イラン南西部バンダルアバスの港で大きな爆発があり、少なくとも１４人が死亡したほか、７５０人が負傷した。イランの国営メディアが内務省の話として報じた。
+
+ＣＮＮが位置を特定した動画によれば、爆発によって港湾施設の上空に濃い灰色の巨大な煙が立ち上っている。政府によれば、今回の爆発は保管されていた化学物質に関係している可能性が高い。
+
+地元メディアは内相の話として、６人が行方不明となっていると伝えた。消...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232354.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/27/bdfb53eee2879895d8dadab2b4ae6056/t/768/432/d/gettyimages-2211453859.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232353.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-27T09:46:00+09:00</dc:date>
+        <title>トランプ氏、プーチン氏を批判　「戦争を止める気がないかもしれない」</title>
+        <link>https://www.cnn.co.jp/usa/35232353.html?ref=rss</link>
+        <description>ウクライナ情勢をめぐり、米国のトランプ大統領は、ロシアのプーチン大統領が和平へ向けた合意を望んでいるかどうかについて疑問を呈した。トランプ氏はこれより前、ローマ教皇の葬儀に出席するために訪問していたバチカンで、ウクライナのゼレンスキー大統領と会談を行っていた。
+
+トランプ氏とゼレンスキー氏は２６日に対面で会談を行った。両者が直接顔を合わせるのは２月にホワイトハウスでの会談で衝突して以来。当時、ト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232353.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/27/a7278b4db44529a891a5a7b14dc63e68/t/768/433/d/13-20250426095528234.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232351.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T23:26:00+09:00</dc:date>
+        <title>ローマ教皇フランシスコ、葬儀終えて安らかな眠りに</title>
+        <link>https://www.cnn.co.jp/world/35232351.html?ref=rss</link>
+        <description>２５万人を超える礼拝者、聖職者、政治家が２６日、バチカンのサンピエトロ広場に列をなし、２１日に８８歳で死去したローマ教皇フランシスコへの弔意を示した。
+
+葬儀は現地時間午前１０時過ぎに始まり、２時間強続いた。
+
+カトリック教会の最高幹部の一人であるジョバンニ・バティスタ・レ枢機卿が、簡略化された式典の進行を務めた。式では賛美歌、感動的な説教、そして南米初の教皇であったフランシスコへの最後の別れの儀...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232351.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/ba93519e65c430e93a498f0822b4efdd/t/768/485/d/gettyimages-2211407171.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232350.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T21:20:00+09:00</dc:date>
+        <title>トランプ氏とゼレンスキー氏、大聖堂内で戦争巡り協議　ローマ教皇の葬儀を前に</title>
+        <link>https://www.cnn.co.jp/world/35232350.html?ref=rss</link>
+        <description>トランプ米大統領とウクライナのゼレンスキー大統領は２６日、ローマ教皇フランシスコの葬儀が始まる数分前に、バチカンの中心部でウクライナでの戦争に関する協議を行った。
+
+ウクライナ大統領府が公開した写真には、両首脳がサンピエトロ大聖堂の壮麗な雰囲気の中で、側近もつけずに身を寄せ合って緊密に話し合っている様子が写っていた。
+
+ゼレンスキー氏はソーシャルメディアへの投稿で、「良い会談」だったとトランプ氏に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232350.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/f9f5cff4116617651c58331b2948dd7a/t/768/432/d/13-20250426095528234.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232337.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T17:30:00+09:00</dc:date>
+        <title>人骨にライオンの噛み痕、剣闘士の死因示す初の証拠か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35232337.html?ref=rss</link>
+        <description>英イングランドにある興味深い古代ローマ時代の墓地から回収された１体の人骨は、当時の剣闘士と動物との間で繰り広げられた戦いを記録する史上初の物理的な証拠かもしれない。新たな研究から明らかになった。
+
+人骨の男性は死亡時の年齢が２６～３５歳。骨盤にはネコ科の大型動物（恐らくライオン）による噛（か）み痕が残されている。男性は今から１８２５～１７２５年前に死亡し、現在のイングランド北部ヨークに埋葬された...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232337.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/25/6d84569f2fd1441e6029269b06c4e3b3/t/768/432/d/shutterstock-editorial-5850752qs.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232349.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T16:47:00+09:00</dc:date>
+        <title>バチカンでフランシスコ教皇の葬儀、広場に群衆集まる</title>
+        <link>https://www.cnn.co.jp/world/35232349.html?ref=rss</link>
+        <description>２１日に死去したローマ教皇フランシスコの葬儀が２６日に営まれるのを受け、大勢の弔問者が最後の別れを告げるべく、バチカン市国に集まっている。フランシスコ教皇は移民や貧しい人々の擁護者、カトリック教会の改革者として記憶されるとみられる。
+
+フランシスコ教皇の葬儀のミサは、カトリック教会にとって最も重要な聖地の一つであるサンピエトロ大聖堂で執り行われる。参列者には５０を超える国々の首脳や１１カ国の君主...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232349.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/d9ba9936dfa24790d55a633a3692c93a/t/768/432/d/gettyimages-2212042889.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232348.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T16:15:00+09:00</dc:date>
+        <title>元判事とその妻を逮捕、ギャングとの関連疑われる移民の証拠を改竄か　米ニューメキシコ州</title>
+        <link>https://www.cnn.co.jp/usa/35232348.html?ref=rss</link>
+        <description>米ニューメキシコ州ドーニャアナ郡の元下級判事とその妻が、適切な書類を持たない移民の逮捕に関する証拠を改竄（かいざん）した罪に問われている。当該の移民はベネズエラの凶悪なギャング組織「トレン・デ・アラグア」の構成員である疑いをもたれている。２５日に提出された２件の刑事訴追状で明らかになった。
+
+裁判所の記録によれば、証拠改竄の罪に問われているのは元郡下級判事のジョエル・カノ容疑者。妻のナンシー・カ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232348.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/c3b92ed51b7494b9ccbe341e1c0e4549/t/768/432/d/20250425-judge-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232346.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T14:00:00+09:00</dc:date>
+        <title>犯罪組織の「絶滅キャンプ」、暴露に協力した母子が殺害される　メキシコ</title>
+        <link>https://www.cnn.co.jp/world/35232346.html?ref=rss</link>
+        <description>メキシコの組織犯罪と関連する恐るべき「絶滅キャンプ」の実態を暴露した活動家の母子２人が、同国ハリスコ州で殺害された。メキシコ当局と母子の関係していた活動団体が明らかにした。
+
+被害者はマリア・デル・カルメン・モラレスさん（４３）と息子のハイメ・ダニエル・ラミレス・モラレスさん（２６）。２人ともメキシコ国内の行方不明者の権利を擁護する活動に従事していた。
+
+今年３月、当該の活動団体は人間の遺体を秘密...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232346.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/04/26/c586b68116aae3be8bb0a4cf96696efa/t/768/432/d/2025-04-24t180909z-469633660-rc25hdaebyjx-rtrmadp-3-mexico-crime.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
