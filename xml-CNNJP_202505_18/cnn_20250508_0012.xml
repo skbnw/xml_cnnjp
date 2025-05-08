@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-05-08T07:51:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35232697.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232695.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35232692.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232691.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232690.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232686.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232688.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35232676.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232666.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232664.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232655.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232656.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232660.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232659.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232651.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232647.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232630.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232643.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232625.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232634.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232629.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232633.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232621.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232627.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232626.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232624.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232616.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232618.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35232614.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232617.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35232697.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T07:51:00+09:00</dc:date>
+        <title>ブッダゆかりの宝飾品、サザビーズの競売が延期に　インドが返還要求</title>
+        <link>https://www.cnn.co.jp/style/luxury/35232697.html?ref=rss</link>
+        <description>競売大手サザビーズは、ブッダの遺骨に関連するとされる宝石類の競売を延期した。インド政府が競売を非難し、宝石の返還を要求したことを受けた措置。
+
+サザビーズは７日にＣＮＮへ電子メールで送った声明で、インド当局者が提起した「諸問題を踏まえ」決定したと説明した。宝飾品はインドを植民地化していた英国の行政官が１世紀以上前に発掘したものだった。延期には売り手側も同意しており、「当事者間での協議を可能にする...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35232697.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/869c424f77c946a7d6453fa6406eb559/t/768/432/d/gettyimages-2081476732.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232695.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T07:48:00+09:00</dc:date>
+        <title>トランプ氏、ペルシャ湾を「アラビア湾」に変更か　イランは反発</title>
+        <link>https://www.cnn.co.jp/usa/35232695.html?ref=rss</link>
+        <description>トランプ米大統領がペルシャ湾をアラビア湾と呼称する計画を進めていることが分かった。協議に詳しい政権当局者２人がＣＮＮに明らかにした。
+
+当局者らによると、この発表は来週予定されている中東３カ国の歴訪と関連している。トランプ氏はサウジアラビア、カタール、アラブ首長国連邦（ＵＡＥ）を訪問する。変更に関する協議は続いており、発表のタイミングは不明だという。
+
+７日に名称変更について問われたトランプ氏は、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232695.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/69fad6e1be3c74b7de3b9689318915e6/t/768/432/d/c-ap23214626034588.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35232692.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T06:53:00+09:00</dc:date>
+        <title>米ネットフリックス、ホームページを大幅リニューアル　縦型動画フィードやＡＩ検索も</title>
+        <link>https://www.cnn.co.jp/tech/35232692.html?ref=rss</link>
+        <description>米動画配信大手ネットフリックスは７日、ホームページの大幅なリニューアルを発表した。２０１３年１１月に現在のホームページを公開して以降、刷新は初めて。
+
+人工知能（ＡＩ）を活用した検索とＴｉｋＴｏｋ（ティックトック）のような縦型動画フィードのテストもモバイルで開始する。同社はこれらの機能について、すべてのユーザーが利用できるわけではない「小規模なテスト」と位置付けているが、世界規模でのテストである...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35232692.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/5385a5f9e509160841eec713582ef50a/t/768/432/d/vertical-video-feed-asset.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232691.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T06:48:00+09:00</dc:date>
+        <title>新教皇、初日は決まらず　煙突から黒い煙</title>
+        <link>https://www.cnn.co.jp/world/35232691.html?ref=rss</link>
+        <description>世界に約１４億人の信者を抱えるローマ・カトリック教会のトップであるローマ教皇を決める秘密選挙「コンクラーベ」が７日、バチカンのシスティーナ礼拝堂で始まった。１回目の投票で新教皇は選出されず、８日以降に持ち越された。
+
+投票には１３３人の枢機卿が参加し、選出に必要な３分の２以上を得票した枢機卿はいなかった。次の投票は８日午前に行われ、先月死去した教皇フランシスコの後継者が決まるまで投票は続けられる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232691.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/e5b561271d00490b233f8727912d6ffb/t/768/432/d/-rtrmadp-3-pope-succession.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232690.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T06:25:00+09:00</dc:date>
+        <title>インド軍攻撃、パキスタンの死者３１人に</title>
+        <link>https://www.cnn.co.jp/world/35232690.html?ref=rss</link>
+        <description>パキスタン軍は７日、インドによるパキスタン領内およびパキスタンが実効支配するカシミール地方への攻撃で３１人が死亡、５７人が負傷したと発表した。
+
+カシミール地方をめぐってはパキスタンとインド双方が領有権を主張している。パキスタン軍のチョードリー報道官によると、カシミール地方のインド側とパキスタン側を分ける実効支配線に向けてインド軍が攻撃したため死傷者が増えたという。
+
+カシミール地方のインド側では...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232690.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/00782bfaba16667b714e89f6d3020956/t/768/510/d/gettyimages-2213276656.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232686.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T20:30:00+09:00</dc:date>
+        <title>初潮の低年齢化問題、子どもたちの食事が影響か　米研究</title>
+        <link>https://www.cnn.co.jp/fringe/35232686.html?ref=rss</link>
+        <description>子どもの弁当箱に何を詰めるかによって、その子が早すぎる初潮を迎えるかどうかが決まる可能性がある。新たな研究から明らかになった。
+
+炎症を起こしやすい食事の摂取は、子どもたちが翌月に初潮を迎える確率が１５％高くなることと関連していた。一方で、より健康的な食事はそうしたリスクを８％低減したという。６日付でヒューマン・リプロダクション誌に掲載された新たな研究論文で分かった。
+
+早くに月経が始まることは不...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232686.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/74a435922edda424e0fd38cf8bba7a23/t/768/432/d/gettyimages-573106637.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232688.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T20:12:00+09:00</dc:date>
+        <title>１４５％関税適用の中国製品を乗せた船、米ＬＡに到着　輸送量半減で近く品薄か</title>
+        <link>https://www.cnn.co.jp/business/35232688.html?ref=rss</link>
+        <description>トランプ米大統領の貿易戦争により、米国の消費者は厳しい選択を迫られている。
+
+中国から米国の港湾に現在入港している船は、中国製品の大半に課される大規模関税が適用される初のケースとなる。つまり、消費者は数週間以内に価格上昇と、一部商品の品不足に直面することになる。
+
+トランプ氏が高率の関税を課して以降、中国からの輸入は急減した。特に先月、報復合戦で大半の中国製品に最大１４５％の関税が課されてからはこ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232688.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/5129c29ec8f3ff35a707ee9a862731f9/t/768/432/d/chinatariff.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35232676.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T17:20:00+09:00</dc:date>
+        <title>ブッダゆかりの宝飾品、オークション出品にインドが抗議　返還を要求</title>
+        <link>https://www.cnn.co.jp/style/luxury/35232676.html?ref=rss</link>
+        <description>ブッダゆかりの宝飾品が出品されたオークションに対し、インド政府が強く抗議して返還を求めている。宝飾品はインドを植民地化していた英国の行政官が１世紀以上前に発掘したものだった。
+
+アメジスト、真珠、カーネリアン、貝殻、金箔（きんぱく）の工芸品などの「宝飾遺品」コレクションは、７日に香港でオークションにかけられる。
+
+オークションを主催するサザビーズは出品された宝飾品について「宗教的、考古学的、歴史的...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35232676.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/9e42b29aa8c4d3e7b544d68b0254b644/t/768/432/d/gettyimages-2081476732.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232666.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T16:25:00+09:00</dc:date>
+        <title>印パ衝突、高まる危険度　専門家が全面戦争突入に警鐘</title>
+        <link>https://www.cnn.co.jp/world/35232666.html?ref=rss</link>
+        <description>長年対立の歴史が続く二つの隣国、インドとパキスタンが危険な領域に入ったと、複数の専門家が警鐘を鳴らしている。パキスタン政府はインドによる攻撃への報復を約束。このまま報復の連鎖から全面戦争に突入するリスクが浮上しているという。
+
+７日にインドが実施した軍事作戦は、１９７１年の印パ戦争以降最もパキスタンの領土奥深くに達する攻撃となった。同戦争は両国が行った最大規模の戦争だった。
+
+状況は現在「明らかに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232666.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/861c10067c08d0837a94d8bcd46b2e8c/t/768/511/d/gettyimages-2213220072.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232664.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T14:40:00+09:00</dc:date>
+        <title>２０００年前の噴火で炭化した古代巻物、著者と題名が判明</title>
+        <link>https://www.cnn.co.jp/fringe/35232664.html?ref=rss</link>
+        <description>約２０００年前のベスビオ火山噴火で焼け焦げ、今なお巻かれたまま解読作業が進められている「ヘルクラネウムの巻物」のうちの１巻の著者と題名が、研究者によって明らかになった。
+
+巻物を開かずに解読を目指すコンペ「ベスビオ火山チャレンジ」によると、「ＰＨｅｒｃ．１７２」と名付けられたこの巻物は、古代ローマの都市ヘルクラネウムから出土した数百巻のうちのひとつ。ヘルクラネウムは、西暦７９年のベスビオ火山噴火...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232664.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/8ce56cd095a932adc958836e25330798/t/768/432/d/001-title-of-pherc-172-2025-vesuvius-challenge-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232655.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T13:55:00+09:00</dc:date>
+        <title>ＦＡＡ認定の自律着陸機能を搭載した航空機、フライトの未来を変えるか</title>
+        <link>https://www.cnn.co.jp/business/35232655.html?ref=rss</link>
+        <description>米航空機メーカーのシーラス・エアクラフトは、ピストンエンジン１基の航空機に連邦航空局（ＦＡＡ）が初めて認定した自律安全システムを搭載する。同社は安全性の観点で空の旅の未来を変えようとしている。
+
+「セーフ・リターン」と呼ばれるこのシステムは「ＳＲシリーズＧ７＋」機に光沢のある赤色のボタンの形で備え付けられる。シーラスは２０２０年８月、より大型で高価な「ビジョン・ジェット」で初めてセーフ・リターン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232655.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/e0e843ba0ff30160af4ffb1931d46f9a/t/768/432/d/horizontal-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232656.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T13:25:00+09:00</dc:date>
+        <title>習主席がロシア訪問へ、戦勝記念の式典に参加　中ロの結束示す</title>
+        <link>https://www.cnn.co.jp/world/35232656.html?ref=rss</link>
+        <description>ロシアのプーチン大統領が、９日に行われる「戦勝記念日」の軍事パレードの準備を進めるなか、招待客のトップが、中国の習近平（シーチンピン）国家主席であることは明白だ。
+
+習氏は７日から４日間の日程でロシアを公式訪問する。中国政府によれば、習氏はプーチン氏との「相互の信頼」を深めるほか、第２次世界大戦での連合軍のナチスドイツに対する勝利から８０年を記念する式典に出席する。
+
+トランプ米大統領による「米国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232656.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/f3486ea4ca8541c4df51db22fa4d3b86/t/768/432/d/3-china-southeast-asia-cambodia.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232660.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T12:55:00+09:00</dc:date>
+        <title>米空母トルーマン、またＦ／Ａ１８戦闘機を失う　１週間で２機目</title>
+        <link>https://www.cnn.co.jp/usa/35232660.html?ref=rss</link>
+        <description>紅海に展開している米空母ハリー・トルーマンがまたＦ／Ａ１８戦闘機「スーパーホーネット」を失ったことがわかった。同空母はわずか１週間前にもＦ／Ａ１８戦闘機を失ったばかりだった。事情に詳しい５人がＣＮＮに明らかにした。
+
+何が起きたのかまだはっきりしておらず、調査が進められている。情報筋によれば、戦闘機が空母に着艦しようとした際の制御に何らかの失敗があり、操縦士と兵装システム士官が脱出を余儀なくされ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232660.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/de40f5c40bb61b899cc33fe9d48eaf2b/t/768/432/d/9012423.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232659.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T12:34:00+09:00</dc:date>
+        <title>トランプ政権の通商担当者、中国側と会談へ　成否に世界経済の将来かかる</title>
+        <link>https://www.cnn.co.jp/business/35232659.html?ref=rss</link>
+        <description>トランプ米政権の通商担当高官らは、週内にも中国側の担当者らと会談し、激しさと悪影響に拍車がかかる両国の貿易戦争の緊張緩和について議論する。世界経済の将来が、これら高官の成功にかかっている。
+
+米中の当局者が対面での通商協議を行うのは関税の応酬が本格化した３月以降で初めてとなるが、この場で貿易協定が結ばれる公算は小さい。ベッセント米財務長官が６日に明らかにした。
+
+しかし現状で関税は極めて高水準に引...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232659.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/877014722667f372b197144897fc196c/t/768/432/d/gettyimages-2210645468.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232651.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T11:38:00+09:00</dc:date>
+        <title>ＥＵ、科学者誘致に８００億円拠出　米の科学政策を批判</title>
+        <link>https://www.cnn.co.jp/world/35232651.html?ref=rss</link>
+        <description>欧州連合（ＥＵ）は、「欧州を研究者にとって魅力的な場所にするため」、今後３年間で５億ユーロ（約８００億円）を拠出する。これは、トランプ米政権が進める研究資金の削減や科学政策の変更を受けたもの。
+
+フランスのマクロン大統領は、ＥＵのフォンデアライエン欧州委員長とともに登壇し、「世界最大の民主主義国の一つ」による数百件の研究助成金の取り消しといった行動を批判し、「間違い」と指摘した。
+
+マクロン氏とフ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232651.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/00f9bdf7cce89a9561dc97bda67fe591/t/768/432/d/p5-rtrmadp-3-europe-research.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232647.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T10:54:00+09:00</dc:date>
+        <title>米空港でまた旅客機の接触事故、翼の先端が脱落　米サンフランシスコ</title>
+        <link>https://www.cnn.co.jp/usa/35232647.html?ref=rss</link>
+        <description>米サンフランシスコ国際空港で６日、出発しようとしていた旅客機同士が接触して両機の翼の先端が脱落した。米連邦航空局（ＦＡＡ）が明らかにした。米国では４月にも、首都ワシントンの空港で旅客機２機の翼が接触する事故が起きたばかりだった。
+
+ＦＡＡによると、現地時間の午前０時半ごろ、サンフランシスコ国際空港のゲートを離れたオーストラリア・シドニー行きのユナイテッド航空８６３便の右の主翼の先端と、香港行きの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232647.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/18a8e66e958ff3274ea618ccdc47681d/t/768/512/d/United-Airlines.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232630.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T10:12:00+09:00</dc:date>
+        <title>新首相にメルツ氏、異例の２回目の投票で　独議会</title>
+        <link>https://www.cnn.co.jp/world/35232630.html?ref=rss</link>
+        <description>ドイツ連邦議会は６日、新たな首相を選出するための投票を行い、中道右派「キリスト教民主・社会同盟（ＣＤＵ・ＣＳＵ）」を率いるフリードリヒ・メルツ氏を首相に選出した。ただ、１回目の投票では新首相が選ばれない異例の事態も起きた。
+
+メルツ氏は２回目の投票では３２５票を獲得し、選出に必要な議会過半数の３１６票を上回った。
+
+メルツ氏は２月の総選挙で勝利し、先月には連立政権を発表していた。ただ、１回目の投票...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232630.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/3a007e893fe7237a34e5ad664e11c680/t/768/432/d/ap25126526794123.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232643.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T09:36:00+09:00</dc:date>
+        <title>ガザで拘束の人質、さらに３人死亡　残る生存者２１人に　トランプ米大統領</title>
+        <link>https://www.cnn.co.jp/usa/35232643.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領は６日、パレスチナ自治区ガザ地区で拘束されている人質について、さらに３人が死亡したと語った。ガザで生存している人質はこれで２１人になったとしている。
+
+イスラエルのベンヤミン・ネタニヤフ首相は先週、ガザで拘束されている人質のうち、生存者は「最大で２４人」と述べ、妻は「それより少ない」と発言していた。ガザには今も計５９人の人質が残されている。
+
+イスラエル当局者は人質の...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232625.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T09:20:00+09:00</dc:date>
+        <title>イスラエル軍が学校に空爆、子ども含む２２人死亡　ガザでの戦闘激化</title>
+        <link>https://www.cnn.co.jp/world/35232625.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区中部のブレジ難民キャンプにある学校施設に６日、イスラエル軍による空爆があり、子ども７人を含む少なくとも２２人が死亡した。病院当局者が明らかにした。学校施設には数千人が避難していた。
+
+病院によれば、数十人の負傷者も出ている。
+
+攻撃があった現場の映像には、巨大なクレーターが映っており、がれきの中から生存者を探す人々や、テントや所持品の残骸が捉えられている。
+
+イスラエル軍は６...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232625.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/e06cfa449b3d121db071453134f4617d/t/768/432/d/gettyimages-2213174632.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232634.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T09:03:00+09:00</dc:date>
+        <title>テスラの欧州販売は４月も不振　マスク氏の政治姿勢が逆風か、競争も激化</title>
+        <link>https://www.cnn.co.jp/business/35232634.html?ref=rss</link>
+        <description>欧州で電気自動車（ＥＶ）の購入が増える一方で、米テスラの販売は急減が続いている。
+
+４月の統計によると、英国、オランダ、デンマーク、ポルトガル、スウェーデン、フランスでテスラ車の販売が大幅に減少した。
+
+米国と同様に、テスラの最高経営責任者（ＣＥＯ）イーロン・マスク氏の政治姿勢は欧州でも反発や抗議を招いている。マスク氏はドイツや英国で一部の極右候補を支持している。トランプ米政権での目立った役割や、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232634.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/1f38b64e55a6a22863f61dcdaedd061d/t/768/432/d/gettyimages-2210820776.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232629.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T08:55:00+09:00</dc:date>
+        <title>トランプ氏、カナダ首相と会談　関税は「現状のまま」</title>
+        <link>https://www.cnn.co.jp/business/35232629.html?ref=rss</link>
+        <description>トランプ米大統領は６日、カナダのカーニー首相と初めてホワイトハウスの大統領執務室で会談を行い、カーニー氏から対カナダ関税の引き下げを納得させるような発言はなかったと述べた。
+
+トランプ氏は「いや、現状のままだ」と述べ、カナダが米国を不当に扱っていると不満を漏らした。同氏は会談前にもＳＮＳに「なぜ米国はカナダに年間２０００億ドル（約２９兆円）を支給しているのか。無償で軍事保護を提供し、その他にも多...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232629.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/40acb7ec7d6a6224344d7276930d2f8e/t/768/432/d/c-gettyimages-2213750236.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232633.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T08:52:00+09:00</dc:date>
+        <title>インドがパキスタンを攻撃　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35232633.html?ref=rss</link>
+        <description>インドは７日、パキスタンに対する軍事作戦を開始し、パキスタンとパキスタンが実効支配するカシミール地方の「テロインフラ」を攻撃したと発表した。
+
+カシミール地方の観光地で武装勢力の発砲により２６人が殺害された事件を受け、インドとパキスタンの関係はここ数週間で悪化している。犠牲者の大半はインド人観光客だった。
+
+これまでに分かっていることをまとめた。
+
+標的：インドは合計９カ所を標的としたと発表。パキス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232633.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/06607caf9c21b268ead31c1d0e76cbc8/t/768/512/d/ap25126786572134-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232621.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T08:13:00+09:00</dc:date>
+        <title>多様性促すＤＥＩ政策、株主からは支持　その理由は</title>
+        <link>https://www.cnn.co.jp/business/35232621.html?ref=rss</link>
+        <description>ＤＥＩ（多様性・公平性・包摂性）は米国の実業界で逆風にさらされているが、唯一の例外がある。実際に企業を保有している株主だ。
+
+今年、コストコやアップル、リーバイス、ジョンディア、ゴールドマン・サックスなど米国を代表する企業で、株主はＤＥＩを標的とする議案を圧倒的多数で否決した。議案は、企業にＤＥＩ方針の全面撤廃や経営陣の報酬から多様性目標を外すこと、ＤＥＩ推進に伴う法的リスクの監査を求めるといっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232621.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/06/4d8d461970b0c75401c35741596fcefa/t/768/432/d/001-gettyimages-2161665707.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232627.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T07:16:00+09:00</dc:date>
+        <title>米、フーシへの攻撃を停止　トランプ氏「船舶襲撃止めると約束」</title>
+        <link>https://www.cnn.co.jp/usa/35232627.html?ref=rss</link>
+        <description>トランプ米大統領は６日、イエメンの反政府武装組織フーシが紅海周辺を航行する民間船舶への攻撃を止めると約束したとして、フーシへの攻撃を停止すると明らかにした。
+
+イランを後ろ盾とするフーシによる貿易航路妨害への対応措置として、米軍は３月中旬以降、フーシを攻撃してきた。トランプ氏は「フーシは降伏した。今後、船舶を攻撃しないと言っており、その言葉を信用する」と述べた。
+
+国防当局者はＣＮＮに、米軍が５日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232627.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/bd5c0e0377274844a0d6e34745529a84/t/768/432/d/-3-usa-trump-egypt-sisi.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232626.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T07:06:00+09:00</dc:date>
+        <title>イスラエル、イエメン首都の空港を空爆　攻撃の応酬激化</title>
+        <link>https://www.cnn.co.jp/world/35232626.html?ref=rss</link>
+        <description>イスラエル軍は６日、イエメン首都サヌアの国際空港や周辺の大型発電所などを空爆したと発表した。空港にある反政府武装組織フーシのインフラは「完全」に使用不能になったという。フーシ側は報復としてイスラエル国内を攻撃するとしている。
+
+攻撃に先立ち、イスラエル軍はサヌア空港周辺から避難するよう警告していた。イエメンとイスラエルは約１６００キロメートル以上離れており、同軍がイエメンへの攻撃の警告を出すのは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232626.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/9d4c44add04f6dd31a193cd56d23c310/t/768/432/d/00-3-israel-yemen-strikes.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232624.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-07T06:12:00+09:00</dc:date>
+        <title>インド、パキスタンへの軍事作戦を実施　爆発音聞こえる</title>
+        <link>https://www.cnn.co.jp/world/35232624.html?ref=rss</link>
+        <description>インド国防省は７日、パキスタンおよびパキスタンが実効支配するカシミール地方の「テロインフラ」を標的とする軍事作戦を実施したと発表した。
+
+国防省は声明で、今回の攻撃について、カシミール地方のインドが実効支配する地域で先月発生した観光客が武装集団によって殺害された事案に対応したものだと説明した。
+
+国防省によれば、作戦は焦点を絞ったものであり、パキスタン軍の施設は標的にしていない。インドが目標の選定...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232624.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/07/d6aac2f57e87e4a2927da29e8e4f869c/t/768/432/d/pakistan-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232616.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-06T19:00:00+09:00</dc:date>
+        <title>【分析】アルカトラズ刑務所再開の指示、トランプ氏の２期目を表す完璧なメタファー</title>
+        <link>https://www.cnn.co.jp/usa/35232616.html?ref=rss</link>
+        <description>アルカトラズ刑務所の再開はまさにトランプ大統領らしいアイデアであり、これまでやろうとしなかったことは奇跡的だ。
+
+殺人的に渦巻く潮流に囲まれた島の小さな独房に犯罪者を閉じ込めることはトランプ氏のマッチョな見せ物への渇望を満たすことになるだろう。
+
+１９６３年の閉鎖から数年後、アルカトラズ刑務所はポップカルチャーの象徴となり、アル・カポネのようなギャングの受刑者たちの悪名高い物語や、無法者や残虐な司...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232616.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/06/1db80cdc5b625c7934e3267de546ec50/t/768/432/d/gettyimages-127967586.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232618.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-06T18:22:00+09:00</dc:date>
+        <title>第２次大戦時の米軍艦が南シナ海で沈没、米比合同軍事演習での攻撃前に</title>
+        <link>https://www.cnn.co.jp/world/35232618.html?ref=rss</link>
+        <description>退役した米軍艦船「ブラトルボロ」が５日、南シナ海で沈没したことがわかった。軍艦は先月２１日から今月９日まで米国とフィリピンの間で行われる年次合同軍事演習「バリカタン」で海上攻撃の主目標となるはずだった。
+
+第２次世界大戦時に二つの重要な戦闘を生き抜いたブラトルボロはフィリピン西岸沖で行われる実弾演習を前にゆっくりと海底に沈んでいった。
+
+フィリピン軍の声明によると、「この艦船が選ばれたのは、耐用年...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232618.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/06/3ee7f5b358a9a16e0acfc5df13e19e24/t/768/432/d/ap25125278225019-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35232614.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-06T17:37:00+09:00</dc:date>
+        <title>３０年前に撮影された母の旅行写真、娘がフィルムカメラで再現</title>
+        <link>https://www.cnn.co.jp/travel/35232614.html?ref=rss</link>
+        <description>英国人写真家のロージー・ラグさん（２３）と母親のヘイリー・チャンピオンさんは、普段ほとんどの時間を一緒に過ごしている。
+
+「母は親友みたい」とラグさんはＣＮＮ Ｔｒａｖｅｌに語る。「一緒に朝食を食べてジムに行く。散歩も一緒。何でもかんでもとにかくおしゃべりする」
+
+２２歳のとき、恋人と初めて遠出をしようと３カ月に及ぶ東南アジア旅行の計画を立て始めたラグさんはすぐに母親にそのことを伝えた。
+
+すると、母...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35232614.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/06/b260cca1c19f4565a6db0a08e5cfeb30/t/768/512/d/hayley-meal.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232617.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-06T17:17:00+09:00</dc:date>
+        <title>噴火の兆候に見える異常な活動、「ゾンビ火山」の復活はあり得るか</title>
+        <link>https://www.cnn.co.jp/fringe/35232617.html?ref=rss</link>
+        <description>通称「ゾンビ火山」と呼ばれる中央アンデス山脈の「ウトゥルンク」は、南米ボリビアの南西部にある最高峰。２５万年以上も噴火していないにもかかわらず、ガスの噴出や地震など、活火山と同じような活動の兆候がある。こうしたゾンビが目を覚ますことはあり得るのか。
+
+ウトゥルンクは２０年以上前に撮影された衛星レーダー画像から、内部の活動によって山頂付近のおよそ１５０キロの範囲が隆起した後に沈下していたことが分か...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232617.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/06/fe09d6637680739470a90bf17f57fbb9/t/768/432/d/001-cn7cj3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
