@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-05-09T19:30:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232810.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232809.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232795.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232792.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35232728.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232775.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232779.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232774.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232748.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232763.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232767.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35232762.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232757.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232758.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232751.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232750.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232747.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232730.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232742.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232712.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232725.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232720.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232705.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232717.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232718.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232719.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232714.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35232706.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232711.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232709.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35232810.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T19:30:00+09:00</dc:date>
+        <title>プーチン氏と習氏、友好国首脳とロシアの戦勝記念日祝う　モスクワでパレード</title>
+        <link>https://www.cnn.co.jp/world/35232810.html?ref=rss</link>
+        <description>ロシアのプーチン大統領が、９日に開催された戦勝記念日のパレードで主役を演じた。友好的な世界の指導者たちに囲まれて見事に演出されたショーを見守り、ロシアが全く孤立していないことを西側世界に向けて誇示した。
+
+数千人の兵士がモスクワの赤の広場を行進する中、プーチン氏は主賓である中国の習近平（シーチンピン）国家主席の隣に立った。
+
+第２次世界大戦でのソ連によるナチス・ドイツに対する勝利を記念する式典は、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232810.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/09/73ea954fbb97e2839c80db8ad642a27b/t/768/432/d/ap25129273809912.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232809.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T19:10:00+09:00</dc:date>
+        <title>新たな米大統領専用機、２７年に引き渡し　ボーイングが計画か</title>
+        <link>https://www.cnn.co.jp/usa/35232809.html?ref=rss</link>
+        <description>納入が大幅に遅れている米ボーイング製の新たな大統領専用機「エアフォースワン」は、２０２７年までに機体の引き渡しが行われる可能性がある。米空軍幹部が明らかにした。実現すればトランプ大統領が任期中に搭乗できる見通しだ。
+
+当初、機体の引き渡しは２２年を予定していた。それでも引き渡しが２７年に行われれば、ボーイングの直近の予測が１～２年前倒しとなる計算だ。
+
+トランプ氏はかねて引き渡しの遅れに対する怒り...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232809.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/09/5af909969a7ecb5918ed7c9f77e3ddb2/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWFmZWJhcTYwMDB5M2I2bXFuODJ6bTRr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYWZjMGRiZDAwMXAyNnFwZ3ZrZzR3eHI_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232795.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T18:00:00+09:00</dc:date>
+        <title>欧州戦勝８０年、元米兵が振り返るナチス降伏の瞬間</title>
+        <link>https://www.cnn.co.jp/world/35232795.html?ref=rss</link>
+        <description>フランス北東部のランスにある赤煉瓦（れんが）の小さな校舎の一室。８０年前、ドイツの将校らはこの部屋で欧州における第２次世界大戦の終結に合意した。
+
+当時その場にいた元米兵、ルチアーノ・「ルイス」・グラジアーノさんは、ナチスドイツが連合国に降伏する歴史的瞬間を目の当たりにした。現場にいた人々の中で、存命なのはグラジアーノさんのみと考えられている。
+
+８日は欧州戦勝記念日（ＶＥデー）とされているが、グ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232795.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/09/0706653e8ffc015fec8ea87206169050/t/768/584/d/ap20127219845062.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232792.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T17:00:00+09:00</dc:date>
+        <title>パキスタンによるインド軍機１機の撃墜、米国が確認　ラファール戦闘機か</title>
+        <link>https://www.cnn.co.jp/world/35232792.html?ref=rss</link>
+        <description>インドによるパキスタン領への空爆を巡り、米国はパキスタン軍がインド軍機１機を撃墜したとの評価を下していることが分かった。最新の評価を知りうる立場にいる米高官が明らかにした。
+
+パキスタン軍が撃墜にどの兵器システムを使用したのかは依然確認できていない。
+
+パキスタンは７日、インドの攻撃への報復でラファール戦闘機３機を含むインド空軍の５機を撃墜したと主張。インドの当局はこれまでのところ、この主張に応答...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35232728.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T16:35:00+09:00</dc:date>
+        <title>沈みゆくベネチアに都市全体を持ち上げる計画　革新的なアイデアは浸水から街を守るか</title>
+        <link>https://www.cnn.co.jp/travel/35232728.html?ref=rss</link>
+        <description>ベネチアは海に「浮かぶ都市」でもあり、沈みゆく都市でもある。過去１世紀の間にこの都市は約２５センチ沈下した。
+
+一方でベネチアの平均海水面は１９００年以降で約３０センチ上昇している。
+
+このやっかいな組み合わせは、一つのことを意味する。それは、この最も愛されている都市が定期的な洪水に見舞われるだけでなく、ラグーンへと容赦なく沈んでいくということだ。
+
+観光客にとって、この不安定な状況はベネチアの魅力...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35232728.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/75839e965778c3e5c0ea4ae8dd781ef8/t/768/512/d/gettyimages-1182108292.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232775.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T14:35:00+09:00</dc:date>
+        <title>米西部沖の海底火山に噴火の兆候、年内にも　発生すれば初のライブ中継</title>
+        <link>https://www.cnn.co.jp/fringe/35232775.html?ref=rss</link>
+        <description>米西部オレゴン州の沖合にある海底火山のアクシアル海山で、差し迫った噴火の兆候が確認された。米国立科学財団海洋観測所イニシアチブのワシントン大学が運営する施設が明らかにした。
+
+アクシアル海山の深さは海底およそ１．４キロ。マグマが地球のマントルから地殻へと押し上げられる地質学上のホットスポットにあり、しかも巨大な二つのプレートが動いてひずみが蓄積され続けるファンデフカ海嶺に位置している。
+
+海洋観測...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232775.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/09/33dd247e3045272d9f41c9fd1054e1a2/t/768/432/d/underwatervolcano.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232779.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T13:50:00+09:00</dc:date>
+        <title>親パレスチナのデモで８０人逮捕、警察呼んだコロンビア大の対応を米政権が賞賛</title>
+        <link>https://www.cnn.co.jp/usa/35232779.html?ref=rss</link>
+        <description>米コロンビア大学の図書館で行われた親パレスチナのデモに関連して、大学の要請で出動したニューヨーク市警（ＮＹＰＤ）が約８０人を逮捕した。トランプ政権は８日、大学の対応について「勇気づけられた」とコメントしている。
+
+コロンビア大学は７日、図書館でデモ隊が「大きな混乱」を生じさせ、学生やキャンパスの安全を脅かしているとして、ニューヨーク市警に警備応援を要請。同大はさらに、学生の逮捕や排除の権限をもつ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232779.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/09/2e60c61d2319e6f74fc2f1b9bc818f65/t/768/432/d/usa-columbia-protests.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232774.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T13:10:00+09:00</dc:date>
+        <title>新教皇レオ１４世について知っておきたい１０のこと</title>
+        <link>https://www.cnn.co.jp/world/35232774.html?ref=rss</link>
+        <description>新しいローマ教皇に選出され教皇名「レオ１４世」を名乗るロバート・フランシス・プレボスト枢機卿は、初の米国出身の教皇となる。
+
+プレボスト氏は６９歳。シカゴ出身で、国際経験を備えた指導者として知られる。キャリアの大半を南米での宣教に費やし、直近ではバチカンで司教の選出に携わる司教省の長官を務めた。
+
+同氏の選出は死去した前教皇フランシスコからの継続性を意味しており、引き続き教会改革や貧しい人々並びに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232774.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/09/ecf680dc6af19f58e35b037d58e27e11/t/768/513/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWFnMDcxNm8wMDJiM2I2bTV0N2U5bTA3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYWZ5dXN3ejAwMXgyNnFlZXFlMTBuamM_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232748.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T12:39:00+09:00</dc:date>
+        <title>【分析】戦勝記念日迎えるロシア、モスクワ上空にはドローンの脅威</title>
+        <link>https://www.cnn.co.jp/world/35232748.html?ref=rss</link>
+        <description>毎年、春の雨を含んだモスクワ上空の雲には、強力な化学物質が注意深く散布される。５月９日に開かれる第２次世界大戦の対独戦勝記念日のパレードに向け、晴れ渡った空を確保するためだ。パレードはロシアが国家の威信を示す最も重要なショーとなる。
+
+今年に関しては、上空からの脅威は降雨ではない。致命的な結果をもたらすことも可能な、ウクライナ軍のドローン（無人機）の大軍だ。
+
+既に今年の赤の広場でのパレードを控え...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232748.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/7935e30d09c24b50f5e47ef7e2b78a87/t/768/432/d/ww2-anniversary-russia-parade-rehearsal.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232763.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T11:39:00+09:00</dc:date>
+        <title>トランプ政権、米英の貿易合意を発表　自動車関税を一部引き下げ</title>
+        <link>https://www.cnn.co.jp/business/35232763.html?ref=rss</link>
+        <description>トランプ米政権は８日、英国との貿易協定に関する発表を行った。ラトニック商務長官によると、英国はエタノールや牛肉を含む複数の農産物や機械類の米国への貿易障壁を削減する。英国はトランプ氏が輸入車に課した２５％ではなく、１０％で１０万台を米国に輸出できるようになるという。また、英国は米国とともに外国産の鉄鋼とアルミニウムに２５％の関税を課す共同関税協定を締結する方針。この協定により、両国間にはこれら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232763.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/09/c2ee64bb7f274cf78e64c205d56a38c7/t/768/432/d/ap25127655869515.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232767.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T11:10:00+09:00</dc:date>
+        <title>新教皇のＳＮＳアカウント？　トランプ政権批判の投稿を共有</title>
+        <link>https://www.cnn.co.jp/usa/35232767.html?ref=rss</link>
+        <description>新しいローマ教皇に選出された米国出身のロバート・プレボスト枢機卿をめぐり、同氏の名でドナルド・トランプ大統領の移民政策やＪ・Ｄ・バンス副大統領の発言に対する批判を共有していたＸのアカウントがあることが分かった。そうした姿勢はフランシスコ前教皇とも一致しており、米政権との間で摩擦が生じる可能性もある。
+
+プレボスト名のＸアカウントでは、そうした批判を自身の言葉で書き込むよりも、別のアカウントの記事...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232767.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/09/9f552e3b9afbb40efcf31f435a5edf87/t/768/512/d/newpope.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35232762.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T10:43:00+09:00</dc:date>
+        <title>パリ五輪ラグビー７人制で銀メダル、フィジーのライスンゲ選手が事故死　３０歳</title>
+        <link>https://www.cnn.co.jp/showbiz/35232762.html?ref=rss</link>
+        <description>２０２４年パリ五輪でフィジー代表としてラグビー７人制男子の銀メダルに輝いたチョサイア・ライスンゲ選手が死亡したことが分かった。所属クラブのカストル・オランピックが８日、声明で明らかにした。３０歳だった。
+
+カストルはフランス１部の名門リーグ「トップ１４」に参加するラグビーユニオンのクラブ。ライスンゲ選手が「交通事故」で亡くなり、８日午前に訃報（ふほう）を受け取ったと明らかにした。
+
+ＣＮＮはフラン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35232762.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/09/7f7184fe37ff6840a70430c585473f4a/t/768/432/d/raisuqe.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232757.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T09:44:00+09:00</dc:date>
+        <title>ビル・ゲイツ氏、資産２９兆円を今後２０年以内に全額寄付　財団の慈善活動を加速</title>
+        <link>https://www.cnn.co.jp/business/35232757.html?ref=rss</link>
+        <description>米マイクロソフト創業者のビル・ゲイツ氏は８日、今後２０年以内に自身の資産「ほぼすべて」を分配する計画を発表した。同氏の資産は約２０００億ドル（約２９兆円）と推定される。慈善団体「ビル＆メリンダ・ゲイツ財団」は２０４５年１２月３１日に閉鎖するという。
+
+００年にゲイツ財団を設立した際、ゲイツ氏は遺族の財産を使い、死後数十年にわたり財団の活動を継続させる計画だった。しかし現在は自身の資産の大部分を寄...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232757.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/09/f4d0c7b18797772a5b5c4f0e4378f0ea/t/768/432/d/ap25127142709879.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232758.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T09:12:00+09:00</dc:date>
+        <title>米副大統領、インド・パキスタンの紛争は「我々に関係ない」</title>
+        <link>https://www.cnn.co.jp/usa/35232758.html?ref=rss</link>
+        <description>米国のバンス副大統領は８日、ＦＯＸニュースのインタビューで、インドとパキスタンの紛争は「基本的に我々には関係ない」と述べた。一方で同氏とトランプ大統領は両国に緊張緩和を促している。
+
+バンス氏は「我々にできることは、両国に多少の緊張緩和を促すことだが、戦争のまっただ中に関わるつもりはない。この戦争は基本的に我々には関係がなく、米国の制御能力でできることはない。米国はインドとパキスタンに武器を捨て...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232751.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T07:07:00+09:00</dc:date>
+        <title>パキスタン、「インド兵４０〜５０人を殺害」　攻撃の応酬激化</title>
+        <link>https://www.cnn.co.jp/world/35232751.html?ref=rss</link>
+        <description>パキスタンのタラル情報相は８日、カシミール地方のインド側とパキスタン側を分ける実効支配線沿いで、パキスタン軍がインド軍兵士４０〜５０人を殺害したと明らかにした。パキスタン側もインド軍の攻撃を受けており、攻撃の応酬が激化している。
+
+タラル氏がメディアに語ったところによると、カシミール地方の実効支配線付近にあるインド軍の施設を爆破したという。
+
+インド軍が７日未明にパキスタン領内およびパキスタンが実...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232750.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-09T06:44:00+09:00</dc:date>
+        <title>新ローマ教皇にプレボスト枢機卿　初の米国出身</title>
+        <link>https://www.cnn.co.jp/world/35232750.html?ref=rss</link>
+        <description>新しいローマ教皇を決める秘密選挙「コンクラーベ」が８日、前日に続きバチカンのシスティーナ礼拝堂で行われ、米国出身のロバート・フランシス・プレボスト枢機卿（６９）が選出された。教皇名は「レオ１４世」。初の米国出身の教皇となる。
+
+教皇が選出されたことを知らせる白い煙がシスティーナ礼拝堂の煙突から上がり、ほどなくしてプレボスト氏がサンピエトロ大聖堂のバルコニーに姿を現した。広場に詰めかけた大勢の信者...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232750.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/09/7d2768c80df9a052ede46cf20119dd9c/t/768/558/d/02-2025-05-08-pope-leo-xiv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232747.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T19:50:00+09:00</dc:date>
+        <title>礼拝堂上空に黒煙、８日午前の投票でも新教皇決まらず　コンクラーベ</title>
+        <link>https://www.cnn.co.jp/world/35232747.html?ref=rss</link>
+        <description>バチカンのシスティーナ礼拝堂の上空には８日、午前に行われた２回の投票でも枢機卿らが新たな教皇を選出できなかったことを示す黒煙が上がった。枢機卿らは午後に改めて集合する予定。
+
+枢機卿らは昼食休憩を取った後、午後にシスティーナ礼拝堂に戻り、４回目、場合によっては５回目の投票に臨む。
+
+投票権を持つ枢機卿は１３３人で、コンクラーベ（次のローマ教皇を決める秘密選挙）の期間中はバチカン市内で隔離される。ど...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232747.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/72ce24313ada312872674a542fc5ec77/t/768/432/d/sitine-black-smoke.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232730.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T19:30:00+09:00</dc:date>
+        <title>韓国・済州島の女性潜水士、水中活動向けに体質進化か　科学者が新たな証拠つかむ</title>
+        <link>https://www.cnn.co.jp/fringe/35232730.html?ref=rss</link>
+        <description>朝鮮半島の南端から８０キロ沖合に浮かぶ済州島（チェジュド）には、女性潜水士たちのユニークにして名高い共同体が存在する。彼女らは「ヘニョ（海女)」と呼ばれている。
+
+海女たちは年間を通じて海に潜り、ウニやアワビといった海産物を海底から採取する。海面から最大１８メートルの深さまで何度も潜る活動に、毎日４～５時間従事している。妊娠中も海に入り、高齢になってもこの仕事を続ける彼女らは、呼吸を確保するための...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232730.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/e207feb246f6dbd81effba116f8cc008/t/768/432/d/shutterstock-editorial-14223158c.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232742.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T18:15:00+09:00</dc:date>
+        <title>【分析】パキスタンとインドの空中衝突、立ちこめる「戦場の霧」</title>
+        <link>https://www.cnn.co.jp/world/35232742.html?ref=rss</link>
+        <description>インドがパキスタンおよびカシミール地方のパキスタン実効支配地域で「テロリスト」の拠点を空爆してから１日。戦況の大部分には依然として「戦場の霧」が立ちこめている。
+
+パキスタンの指導者は、自国の空軍による大勝利だと強調。１６０キロを超える距離を挟んで行われた１時間の交戦でインドの戦闘機５機を撃墜したとしている。
+
+インドの指導者はパキスタンの主張に対して特段何も言及していないが、自軍の攻撃で「テロリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232742.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/4aa9c1180df45d4c0f01299fefdd30e6/t/768/512/d/debrisofaircraft.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232712.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T17:00:00+09:00</dc:date>
+        <title>空母からヘリ投棄も、サイゴン陥落で命を救った米軍将校たち　指揮系統の外で英断</title>
+        <link>https://www.cnn.co.jp/usa/35232712.html?ref=rss</link>
+        <description>米海軍の空母ミッドウェーに乗り組む兵士たちが、何百万ドル分もの装備品を南シナ海へ投げ捨てていく。艦長のラリー・チェンバース大佐は、その作業を見ないことにした。
+
+飛行甲板からヘリコプターを投棄するよう指示したのはチェンバース氏だ。この命令を下したことで軍人としてのキャリアが台無しになる可能性を承知しつつ、それでも構わないと覚悟を決めていた。
+
+上空では、南ベトナム空軍のパイロット、ブアン・リー少佐...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232712.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/88493318e8bf9c37af6f33c2c81bbcf8/t/768/432/d/helicopterpushedoverthesideoftheaircraft.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232725.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T16:13:00+09:00</dc:date>
+        <title>超加工食品を毎日「１２食」、パーキンソン病の発症リスクが２倍か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35232725.html?ref=rss</link>
+        <description>超加工食品を毎日およそ「１２食」分食べるとパーキンソン病を発症するリスクが２倍以上に高まる可能性があるとの新たな研究結果が明らかになった。
+
+今回の研究で対象となった「１食分」は、ダイエットソーダあるいは砂糖入りのソーダ８オンス（約２３０ミリリットル）、ホットドッグ１個、包装されたケーキ１切れ、ケチャップ大さじ１杯、ポテトチップス１オンス（一般的な小さな袋のポテトチップスは１．５オンス）など。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232725.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/3d083e8ce3c93ee89a29e99c36deb00e/t/768/512/d/gettyimages-1283485467.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232720.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T15:15:00+09:00</dc:date>
+        <title>印パ戦闘機による「ドッグファイト」、近年の航空史上「最大かつ最長」規模　情報筋</title>
+        <link>https://www.cnn.co.jp/world/35232720.html?ref=rss</link>
+        <description>パキスタン安全保障当局の高位の情報筋はＣＮＮに対し、パキスタンとインドの戦闘機の間で発生したドッグファイト（空中戦）について「近年の航空史上、最大かつ最長」の戦いの一つとの見方を示した。パキスタンの当局者は、インド機５機を撃墜したとしている。
+
+情報筋によると、計１２５機の戦闘機が１時間超にわたり、双方とも自国の領空を離れずに交戦した。１６０キロ以上離れた距離でミサイルの応酬が起きたケースもある...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232705.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T14:27:00+09:00</dc:date>
+        <title>Ｔ・レックスの祖先、７０００万年前にアジアから北米に到達か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35232705.html?ref=rss</link>
+        <description>肉食恐竜ティラノサウルス・レックスの直系の祖先は、アジアから「陸橋」をわたって北米に到達したと考えられるとの新たな研究結果が発表された。今回の報告は、恐竜の王者の起源をめぐる激しい論争に新たな一石を投じるものだ。
+
+ユニバーシティー・カレッジ・ロンドン（ＵＣＬ）の博士課程の学生カシアス・モリソン氏が率いるチームが数学モデルを用いて、ティラノサウルス・レックスの祖先は約７０００万年前に現在のシベリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232705.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/fdf2dcb062c7a25370ac2a4e1ded7a14/t/768/432/d/dinopanorama-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232717.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T13:50:00+09:00</dc:date>
+        <title>【分析】印パ対立、次の展開はパキスタン次第か　勝利宣言や反撃の可能性</title>
+        <link>https://www.cnn.co.jp/world/35232717.html?ref=rss</link>
+        <description>パキスタンのシャリフ首相は７日、パキスタンおよびカシミール地方のパキスタン実効支配地域に対して行われたインドの攻撃に対応すると明言した。
+
+その対応が何を意味するのかによって、両国が出口を見つけられるのか、あるいは対立が激化し続けるのか決まることになるかもしれない。
+
+パキスタンにとって選択肢の一つは、撃墜したと主張している戦闘機を提示して勝利を宣言することだ。この選択肢は、フランス製のラファール...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232717.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/589730b634e9104fabbc7bdb8aa7a0c2/t/768/512/d/gettyimages-2184493497-20250507224103611.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232718.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T13:20:00+09:00</dc:date>
+        <title>大統領観覧の「レ・ミゼラブル」、出演者十数人がボイコット　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35232718.html?ref=rss</link>
+        <description>米首都ワシントンの文化施設ジョン・Ｆ・ケネディ舞台芸術センターで、ドナルド・トランプ大統領が観覧を予定している６月１１日に合わせ、ミュージカル「レ・ミゼラブル」の出演者がボイコットを予定している。
+
+関係者によると、トランプ氏が観覧する６月１１日の公演は、少なくとも１０～１２人の出演者がボイコットする予定。出演者にはこの夜の公演に出演しない選択肢が与えられており、ボイコットする俳優には主役級やそ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232718.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/cada6f88e4adc0e6bb37a5461ab47bdc/t/768/432/d/c-ap25125773778707.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232719.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T12:55:00+09:00</dc:date>
+        <title>トランプ氏、８日に英国との貿易協定を発表　情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35232719.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領が、８日に重要な貿易協定を発表すると明らかにした。情報筋によれば、協定は英国とのものだという。
+
+これは、米国と世界経済に深刻な打撃をもたらす恐れのあった歴史的に高水準の関税の緩和につながる可能性がある。
+
+トランプ氏は７日夜、ＳＮＳ「トゥルース・ソーシャル」に「重要な記者会見をあす午前１０時、大統領執務室で開く。尊敬される大国の代表者との主要な貿易協定に関するものだ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232719.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/e60a98f64dab674b63dfc3ad3307f60b/t/768/432/d/ap25127655869515.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232714.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T11:51:00+09:00</dc:date>
+        <title>米コロンビア大図書館に親パレスチナのデモ隊乱入　警察が出動、複数を拘束</title>
+        <link>https://www.cnn.co.jp/usa/35232714.html?ref=rss</link>
+        <description>米ニューヨーク市にあるコロンビア大学のキャンパスで７日、親パレスチナのデモ隊が図書館に詰めかけ、大学の要請で出動したニューヨーク市警（ＮＹＰＤ）が複数を拘束した。
+
+コロンビア大は７日夜に警察の応援を要請。クレア・シップマン学長代行は「建物の内外で大勢が騒乱に加わり、多数がバトラー図書館に押し入ろうとして危険を生じさせている。大学とは無関係の人物が相当いると思われる」と発表した。
+
+警察が拘束した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232714.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/14e08da7632c299d0c515339a8a3c58e/t/768/432/d/2025-05-07t232621z-1067079386-rc28deaxd5k3-rtrmadp-3-usa-columbia-protests.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35232706.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T11:27:00+09:00</dc:date>
+        <title>クルーズ船は「大きければ大きいほど良い」　大型化ブームに終焉はあるのか</title>
+        <link>https://www.cnn.co.jp/travel/35232706.html?ref=rss</link>
+        <description>クルーズ船の船尾が盛りすぎたバースデーケーキのようだと昨年話題になった画像を誰が忘れられるだろうか。カラフルで漫画のようなデッキは、曲がりくねったウォータースライダーやターコイズ色のプール、ネオンカラーの装飾にいろどられ、ちまたには一体どうやって浮かぶのかというコメントがあふれた。
+
+２０２４年１月に就航した世界最大のクルーズ船「アイコン・オブ・ザ・シーズ」（ロイヤル・カリビアン社製、全長約３６...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35232706.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/81d7c184b3bfa2ab3779992f7e0f2515/t/768/432/d/gettyimages-1983704497.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232711.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T10:56:00+09:00</dc:date>
+        <title>ロシアの「停戦」が発効、対独戦勝記念日控えて　ウクライナは拒否</title>
+        <link>https://www.cnn.co.jp/world/35232711.html?ref=rss</link>
+        <description>ロシアのプーチン大統領が一方的に宣言したウクライナ戦争をめぐる３日間の「停戦」が、現地時間８日午前０時に発効した。ロシアは９日に第２次世界大戦の対独戦勝記念日を控えている。
+
+ロシア国営タス通信によると、停戦は８日午前０時に始まった。
+
+しかし発効から約３時間後、ウクライナ空軍は北部スーミ州上空でロシア軍が誘導爆弾を投下したと主張した。ロイター通信が伝えたが、この主張を独自に確認できていないとして...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232711.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/eecf765f33868d9f3889da9aed41825d/t/768/432/d/-ww2-anniversary-russia-parade-rehearsal.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232709.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-08T10:34:00+09:00</dc:date>
+        <title>大自然の中で５４０日生き延びた小型犬、飼い主と涙の再会　豪</title>
+        <link>https://www.cnn.co.jp/fringe/35232709.html?ref=rss</link>
+        <description>南オーストラリア州のカンガルー島で行方不明になり、５４０日ぶりに保護されたダックスフント犬の「バレリー」が、ニューサウスウェールズ州に住む飼い主との再会を果たした。
+
+ジョージア・ガードナーさんとジョシュ・フィッシュロックさんは６日、ようやく愛犬を胸に抱き締めることができた。
+
+自分に向かってまっしぐらに走ってくるバレリーの姿に「大泣きした」とガードナーさん。「この子は尻尾を振ってうれしそうな声を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232709.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/08/622c84f331e05d691868d15f3144bfd7/t/768/432/d/valerie-with-family-kangala-wildlife-rescue-team.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
