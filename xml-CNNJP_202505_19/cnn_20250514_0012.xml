@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-05-14T07:34:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232921.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232917.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232916.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35232908.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232913.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232912.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35232911.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232907.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232906.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232905.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232891.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232873.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35232886.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232895.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232892.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232894.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232887.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232879.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232878.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35232881.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232876.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232877.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35232862.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232864.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35232865.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35232857.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35232851.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35232853.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35232852.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232850.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35232921.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-14T07:34:00+09:00</dc:date>
+        <title>イスラエル軍、ガザの病院を攻撃　ハマス最高幹が標的</title>
+        <link>https://www.cnn.co.jp/world/35232921.html?ref=rss</link>
+        <description>イスラエル軍は１３日、イスラム組織ハマスの最高幹部ムハンマド・シンワル氏を標的にパレスチナ自治区ガザ地区南部の病院を攻撃した。イスラエルの高官や情報筋が明らかにした。
+
+ムハンマド氏は、昨年１０月にイスラエル軍に殺害された当時のハマスの最高指導者ヤヒヤ・シンワル氏の弟。ヤヒヤ氏の死後、ムハンマド氏はハマスの事実上の指導者となっている。
+
+パレスチナの保健省によると、病院への攻撃で６人が死亡、少なく...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232921.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/14/f78c164647163fdcd2fb9ea93c15f05a/t/768/432/d/001e781524b.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232917.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-14T06:46:00+09:00</dc:date>
+        <title>トランプ氏、トルコでのロシア・ウクライナ和平協議にルビオ国務長官を派遣</title>
+        <link>https://www.cnn.co.jp/usa/35232917.html?ref=rss</link>
+        <description>トランプ米大統領は１３日、マルコ・ルビオ国務長官が、１５日に予定されているウクライナのゼレンスキー大統領とロシアのプーチン大統領との協議に出席するためトルコ・イスタンブールを訪問すると発表した。
+
+サウジアラビア首都リヤドで開催された米・サウジ投資フォーラムでの演説でトランプ氏は、ロシア・ウクライナ間の戦争を終わらせるため尽力していると述べ、１５日の協議ではとても良い結果を得られる可能性があると...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232916.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-14T06:29:00+09:00</dc:date>
+        <title>トランプ氏、対シリア制裁解除の意向を表明　暫定大統領と面会へ</title>
+        <link>https://www.cnn.co.jp/usa/35232916.html?ref=rss</link>
+        <description>トランプ米大統領は１３日、アサド前政権時代のシリアに科した制裁を解除する意向を訪問先のサウジアラビアで表明した。ルビオ国務長官が今週後半にシリア暫定政権の外相とトルコで会談するという。
+
+トランプ氏はサウジアラビアで開催された投資フォーラムでの演説で、「シリアに重大なチャンスを与える」と述べて制裁解除の方針を示した。サウジのムハンマド皇太子やトルコのエルドアン大統領との協議を踏まえての決断である...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232916.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/14/427fa148093d314d59e40fb6fcb59bc9/t/768/432/d/rtrmadp-3-usa-trump-gulf-saudi.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35232908.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T20:20:00+09:00</dc:date>
+        <title>搭乗２～３時間前の空港到着は本当に必要？　ＳＮＳチャレンジ「エアポート・セオリー」で検証</title>
+        <link>https://www.cnn.co.jp/travel/35232908.html?ref=rss</link>
+        <description>ＴｉｋＴｏｋ（ティックトック）でトレンドになっている「エアポート・セオリー」をご存じだろうか。搭乗時刻の１５分前に空港に到着するという、航空会社は絶対にお勧めしないＳＮＳチャレンジだ。
+
+このアイデアは、オンラインでチェックインを済ませ、手荷物だけで旅行する場合、保安検査をサクっと通過し搭乗ゲートへ直行すれば時間通りに機内に乗り込めるというもの。
+
+危険すぎるように思えるが、エアポート・セオリーを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35232908.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/e2afcb4b4b10701585e35bf7359de6a7/t/768/432/d/travel-airport-theory-tiktok-digvid-4.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232913.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T19:05:00+09:00</dc:date>
+        <title>トランプ米大統領、サウジアラビアに到着　中東歴訪スタート</title>
+        <link>https://www.cnn.co.jp/usa/35232913.html?ref=rss</link>
+        <description>米国のトランプ大統領は１３日、サウジアラビアの首都リヤドに到着し、中東歴訪をスタートさせた。大統領専用機（エアフォースワン）から空港に降り立つと、出迎えたムハンマド皇太子と親しげに挨拶（あいさつ）を交わした。 
+
+この後両氏は、サウジ王室が利用する空港のロイヤルターミナルでのセレモニーに臨んだ。米国側からはルビオ国務長官、ヘグセス国防長官、ラトニック商務長官、ライト・エネルギー長官も参加した。
+
+ト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232913.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/b302914cc78bdb176701791972b34e9e/t/768/511/d/ap25133262816728.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232912.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T18:10:00+09:00</dc:date>
+        <title>「理性が勝つことを願う」とパキスタン外相　インドとの停戦後に語る</title>
+        <link>https://www.cnn.co.jp/world/35232912.html?ref=rss</link>
+        <description>パキスタンのダール副首相兼外相は１２日、インドとの先週の戦闘で緊張が高まるなかでも、核兵器の配備は検討しなかったと言明した。ＣＮＮとのインタビューで語った。
+
+インドとパキスタンが１０日に停戦に同意してから、ダール氏がインタビューに臨んだのは初めて。同氏はこの中で、インドから７日に受けた越境攻撃に対する「自衛」として、パキスタン側も反撃する以外に「選択肢はなかった」と説明した。
+
+先週激化した攻撃...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232912.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/56c3aa71184c55e052439b4fe9aa0a19/t/768/432/d/still-21617419-19092-555-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35232911.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T16:50:00+09:00</dc:date>
+        <title>米刑務所で収監中のラッパーが襲われる、「１４回刺される」も回復中</title>
+        <link>https://www.cnn.co.jp/showbiz/35232911.html?ref=rss</link>
+        <description>米カリフォルニア州の刑務所に収監されているカナダのラップ歌手、トニー・レーンズ（本名：デイスター・ピーターソン）受刑者が１２日、刑務所内で襲撃され病院に搬送された。刃物で１４回刺されたものの容体は回復しており、神や支援者への感謝を口にしているという。
+
+レーンズ受刑者は２０２３年、ヒップホップのスター歌手、ミーガン・ジー・スタリオンさんの足を撃った罪で禁錮１０年の刑を言い渡されていた。
+
+本人のも...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35232911.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/62074efe027df02cd7e94068e27ca90b/t/768/432/d/ap22358034499572.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232907.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T16:00:00+09:00</dc:date>
+        <title>「息子は殺された」　留置場で抑制された男性死亡、遺族が看守の立件求める　米オハイオ州</title>
+        <link>https://www.cnn.co.jp/usa/35232907.html?ref=rss</link>
+        <description>米オハイオ州で逮捕され、留置場で看守らに押さえつけられて死亡した男性について、関与した看守らを殺人罪で立件するよう遺族が求めている。
+
+死亡したクリスティアン・ブラックさん（２５）は３月２４日、車の窃盗にかかわったとして逮捕され、同州モンゴメリー郡刑務所に留置された。家族側の弁護士が入手した留置場内の映像によると、ブラックさんは数時間後、監房内で興奮状態に陥っていた。
+
+看守ら少なくとも１０人は、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232907.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/f5df52660f6a0bc04023ef2a587e8b88/t/768/768/d/02christianblack.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232906.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T14:40:00+09:00</dc:date>
+        <title>クルド人武装組織ＰＫＫが解散宣言、長年にわたる武装闘争に幕</title>
+        <link>https://www.cnn.co.jp/world/35232906.html?ref=rss</link>
+        <description>トルコからの分離独立をめざして武装闘争を続けるクルド人の非合法組織「クルディスタン労働者党」（ＰＫＫ）が１２日、解散を宣言した。ＰＫＫとトルコとの長年の闘争で、数万人の死者が出ていた。
+
+ＰＫＫは声明で、組織の名前で行われていた「全ての活動」が終了したと発表した。
+
+ＰＫＫは、クルドの問題は「民主的な政治を通じて解決できる段階に達した」と述べた。組織解体の手続きは、収監中の指導者アブドラ・オジャラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232906.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/3b357b046e7f80c6a73ffc9aaecef085/t/768/432/d/2025-02-27t071428z-97040353-rc2nn6aqsxz9-rtrmadp-3-turkey-kurds-ocalan.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232905.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T14:20:00+09:00</dc:date>
+        <title>習氏「いじめは孤立招くだけ」、米中貿易摩擦の大幅緩和受け発言</title>
+        <link>https://www.cnn.co.jp/business/35232905.html?ref=rss</link>
+        <description>中国の習近平（シーチンピン）国家主席が１３日、「いじめ」と「覇権主義」を激しく攻撃した。関税を巡る米国との対立が一時休戦状態になってから初となる公式の発言の中で述べた。
+
+この前日、米国と中国は互いの製品に課す関税を今後９０日間、暫定的に大幅に引き下げることで合意した。
+
+習氏は１３日、北京で開かれた中南米及びカリブ海諸国の当局者らの会合で聴衆に対し、１世紀間にわたってみられなかった大きな複数の変...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232905.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/9ee432f90de375b4030806480ac8b06d/t/768/432/d/gettyimages-2214220784.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232891.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T13:31:00+09:00</dc:date>
+        <title>【分析】ロシアへの圧力強める欧米、そこに水を差したトランプ氏</title>
+        <link>https://www.cnn.co.jp/world/35232891.html?ref=rss</link>
+        <description>ウクライナ情勢をめぐる大西洋を横断した欧米の団結という幻想が維持されたのは約３０時間だった。
+
+欧州とウクライナは、トランプ米政権が２カ月前に提案した３０日間の無条件での停戦合意を要求していた。欧州首脳は、トランプ大統領が１０日の電話会談でこうした提案について支持を表明し、ロシアが１２日までに合意に達しなければ制裁を示唆したと明らかにした。電話会談の様子はウクライナ首都キーウからＳＮＳに投稿され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232891.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/c896ad8a7f6ff011f7904d7635f51f27/t/768/432/d/47577811-70069474-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232873.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T12:41:00+09:00</dc:date>
+        <title>男児が母親の携帯で誤ってキャンディー６２万円分を注文、その後に起きたことは？　米</title>
+        <link>https://www.cnn.co.jp/fringe/35232873.html?ref=rss</link>
+        <description>米ケンタッキー州でこのほど、母親の携帯電話を使っていた男児が誤ってネット通販「アマゾン」でキャンディー７万個近く、金額にして４２００ドル（約６２万円）分を注文してしまう出来事があった。
+
+「ヒステリーのようになった。完全にパニックだった」「お金もないのに、大量のキャンディーをどうしたらいいのかと」。母親のホーリー・ラフェイバーズさんはそう振り返る。
+
+息子の注文に最初に気付いたのは、銀行口座をチェ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232873.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/4c89b0da62a9dd52415c6ba04e0c9871/t/768/432/d/lollipopbox.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35232886.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T12:08:00+09:00</dc:date>
+        <title>カンヌ映画祭、レッドカーペットでの「裸」を禁止　定義に疑問噴出の可能性</title>
+        <link>https://www.cnn.co.jp/style/fashion/35232886.html?ref=rss</link>
+        <description>ここ数年にわたり、レッドカーペットを席巻してきたスタイリングのトレンドは、近年記憶に残るどのスタイリングよりも鮮烈だ。それは、着用した人の裸をイメージさせる「ネイキッド（裸の）ドレス」。セレブが注目を集める確実な手段としてネイキッドドレスは瞬く間にその地位を確立し、ショービジネス界の多くの関係者から全面的な支持を得てきた。
+
+しかし、カンヌ国際映画祭のドレスコードが１３日の開幕わずか２４時間前に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35232886.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/f62b36e12dce57f0863ce2c7745f3416/t/768/432/d/gettyimages-2153893959.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232895.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T11:26:00+09:00</dc:date>
+        <title>南アフリカの白人、トランプ米政権が難民認定　第１陣の５９人が米国に到着</title>
+        <link>https://www.cnn.co.jp/usa/35232895.html?ref=rss</link>
+        <description>トランプ米政権に難民と認定された南アフリカの白人５９人が１２日、米国に到着した。トランプ政権は今後、さらに多くの白人を受け入れる見通し。
+
+米首都近郊のワシントン・ダレス国際空港に到着した一行は、クリストファー・ランドー国務副長官とトロイ・エドガー国土安全保障省副長官の出迎えを受けた。
+
+トランプ政権は南アフリカの白人が差別を受けたとして難民と認定しただけでなく、認定の手続きも迅速化させている。一...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232895.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/9ae7f64afb0e0fd669ccfc5b26edf516/t/768/432/d/still-21617625-615258-885-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232892.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T11:17:00+09:00</dc:date>
+        <title>ゼレンスキー氏、ロシアとの協議に米国が参加なら「歓迎」　トランプ氏も出席を示唆</title>
+        <link>https://www.cnn.co.jp/world/35232892.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は１２日、トランプ米大統領がトルコ・イスタンブールでロシアとの和平交渉に同席してくれることを「歓迎する」と述べた。
+
+ゼレンスキー氏は、トランプ氏が自身とロシアのプーチン大統領との直接会談を呼びかけたことを支持し、１５日にトルコでプーチン氏と会談する用意があることを改めて表明した。
+
+ゼレンスキー氏はＸ（旧ツイッター）で「そしてもちろん、ウクライナの私たち全員はトラン...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232894.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T10:43:00+09:00</dc:date>
+        <title>登山客が滑落して３人死亡、アンカーの不備が原因か　米ワシントン州</title>
+        <link>https://www.cnn.co.jp/usa/35232894.html?ref=rss</link>
+        <description>米ワシントン州で登山客が滑落する事故があり、３人が死亡した。１人は脱出して無事だった。当局が１２日に明らかにした。
+
+オカノガン郡保安官事務所によると、同州レントンから登山に訪れた一行は１１日、ノースカスケード山脈の急斜面を下山中に滑落し、救助隊が現場に出動した。
+
+当局は、４人がロープを使って懸垂下降する途中、アンカーの不備で滑落したとみて詳しく調べている。
+
+４人のうち３人は現場で死亡が確認され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232894.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/ebce2879e5235cff44746ed6b7337983/t/768/681/d/001--8397723621896-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232887.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T09:51:00+09:00</dc:date>
+        <title>ハマス、人質の米国人男性を解放　１年半ぶりに家族と再会</title>
+        <link>https://www.cnn.co.jp/world/35232887.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区でイスラム組織ハマスの人質となっていたイスラエル系米国人のエダン・アレクサンダーさん（２１）が１２日に解放され、１年半ぶりに家族と再会を果たした。ガザで生存が確認されている米国人の人質は、アレクサンダーさんが最後だった。
+
+ハマスは１１日、数日間に及ぶ米国との交渉を経て、アレクサンダーさんを解放することで合意したと発表。合意はガザの停戦と人道支援再開を目指す一環として、イ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232887.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/91d7245a1070676d794751db9136cc97/t/768/432/d/c-0375b7ad-eeda-4305-aec5-3fcde89c10cb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232879.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T08:43:00+09:00</dc:date>
+        <title>トランプ氏、薬価引き下げの大統領令に署名</title>
+        <link>https://www.cnn.co.jp/usa/35232879.html?ref=rss</link>
+        <description>トランプ米大統領は１２日、米国の薬価を引き下げる大統領令に署名した。大統領令は米国民に対し処方薬に高額な費用を負担させる、外国の「不当かつ差別的な慣行」を取り締まることを約束するもの。
+
+署名式には、ロバート・ケネディ・ジュニア保健福祉省長官や公的医療保険責任者のメフメット・オズ長官らが同席した。
+
+「これは、我が国の歴史上、薬価の設定と医療に関する最も強力な大統領令だ」とオズ長官は述べた。
+
+米国...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232878.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T08:24:00+09:00</dc:date>
+        <title>市長選候補者、選挙集会の生配信中に撃たれて死亡　メキシコ</title>
+        <link>https://www.cnn.co.jp/world/35232878.html?ref=rss</link>
+        <description>メキシコ・ベラクルス州で１１日夜、市長選の候補者らがＳＮＳでの生配信中に銃撃を受け、４人が死亡した。
+
+フェイスブックのライブ配信が惨劇をとらえていた。映像は、イエセニア・ララ・グティエレス氏が支持者らのキャラバンに囲まれながら町中を行進して、住民にあいさつする様子を伝えていた。
+
+人々が笑顔で声を出す様子が映っていたが、突然カメラの外で銃声が鳴り響き、歓声はかき消された。動画では約２０発の銃声が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232878.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/1342d71b2976e2dc848d40f1d401e994/t/768/432/d/yesenia-lara-gutierrez.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35232881.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T08:06:00+09:00</dc:date>
+        <title>暴走したヤギ、選手に向かって突進　ジロ・デ・イタリアのレース中</title>
+        <link>https://www.cnn.co.jp/showbiz/35232881.html?ref=rss</link>
+        <description>国際自転車レース「ジロ・デ・イタリア」の第３ステージ（１６０キロ）が１１日、アルバニア・ブローラで行われ、ニュージーランド出身のディオン・スミス選手が暴走したヤギに自転車から落とされそうになる出来事があった。
+
+スミス選手は走行中、道路脇にいたヤギの小さな群れを見つけ、衝突を避けようと右側へ寄った。
+
+ところが、そのうち１頭が突然道路を横切り、スミス選手の進路に飛び込んだ。映像ではヤギが宙に跳び上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35232881.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/8026b08f734fe458cd9f73fcfd119955/t/768/432/d/gettyimages-2214346237.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232876.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T07:55:00+09:00</dc:date>
+        <title>米中貿易協議、トランプ大統領はいかにして切望していた勝利を手にしたのか</title>
+        <link>https://www.cnn.co.jp/usa/35232876.html?ref=rss</link>
+        <description>トランプ米大統領による衝撃的な関税政策は、世界の金融システムを崩壊させ、米経済を不況に陥れる恐れがあった。店舗の棚が空になり、インフレが再燃するという見通しに神経をとがらせていたトランプ氏は、勝利を勝ち取るために、冷静かつプロフェッショナルな交渉人をスイス・ジュネーブに送り込んだ。
+
+中国との間の予想していないかった劇的な緊張緩和は、米国の貿易赤字削減に向けた、十分とはいえないまでも、早急な二国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232876.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/13/5227ecdf5f555623fbdd7260c8fdc298/t/768/432/d/gettyimages-2213984413.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232877.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-13T07:26:00+09:00</dc:date>
+        <title>トランプ関税、米中間層に年間３３万円の負担　米中貿易摩擦緩和してもなお</title>
+        <link>https://www.cnn.co.jp/business/35232877.html?ref=rss</link>
+        <description>米中が両国間の関税を暫定的に大幅に引き下げることで合意した。しかし、トランプ米大統領による貿易戦争が緩和の方向に向かってもなお、米国の家庭や経済全体へのダメージを解消するには十分ではないことが分かった。１２日に発表された調査で明らかになった。
+
+イエール大学予算研究所の試算によると、米中貿易摩擦をめぐる進展を考慮しても、トランプ氏が今年課す関税は依然として短期的に物価を約２％押し上げ、典型的な中...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35232862.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-12T17:58:00+09:00</dc:date>
+        <title>中世のマーリンとアーサー王の写本を発見、本の表紙に転用　英</title>
+        <link>https://www.cnn.co.jp/fringe/35232862.html?ref=rss</link>
+        <description>中世の貴重な写本が、表紙に見せかけて別の本の装丁に縫いこまれているのが発見された。この断片にはマーリンとアーサー王に関する物語が記されていた。英ケンブリッジ大学図書館が明らかにした。
+
+見つかった２ページは１３世紀の「Ｓｕｉｔｅ　Ｖｕｌｇａｔｅ　ｄｕ　Ｍｅｒｌｉｎ」の写し。中世の写本作家が古フランス語で手書きしたこの写本はアーサー王伝説の続編として出版された。現在、続編の写しは３０点余りしか現存...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35232862.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/12/74f4d464c5b20b82743592e41a5b247c/t/768/432/d/001-inside-the-folds-of-the-manuscript-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232864.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-12T17:34:00+09:00</dc:date>
+        <title>【分析】米国の祝日を覆そうとするトランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35232864.html?ref=rss</link>
+        <description>兵役を果たさなかったトランプ米大統領が、退役軍人よりも戦勝を祝おうとすることに驚きはないかもしれない。
+
+トランプ氏は今月に入り、ＳＮＳに、１１月１１日を第１次世界大戦の戦勝記念日と宣言すると複数回にわたり書き込んだ。一方でこの日がすでに連邦の祝日である「退役軍人の日」であることには触れなかった。
+
+トランプ氏は同様に、６月１４日に米陸軍創設２５０年を祝うため、数千万ドルを投じる軍事パレードの開催...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232864.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/12/000fc23c23d7e5277560627ac3df6e1b/t/768/432/d/c-gettyimages-2153668723.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35232865.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-12T16:40:00+09:00</dc:date>
+        <title>米中、９０日間にわたる関税の大幅引き下げで合意</title>
+        <link>https://www.cnn.co.jp/business/35232865.html?ref=rss</link>
+        <description>米国と中国は１２日、互いの製品に課す関税を今後９０日間、暫定的に大幅に引き下げることで合意した。
+
+この発表は、週末にスイス・ジュネーブで行われた両国の当局者による貿易協議を経て明らかになった。
+
+共同声明によると、米国は中国製品に課す関税を１４５％から３０％に、中国は米国製品への関税を１２５％から１０％に、それぞれ一時的に引き下げる。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35232865.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/12/b3aeb2ca7492469be71c30ec5bb5f0c9/t/768/432/d/gettyimages-2213984413.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35232857.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-12T16:33:00+09:00</dc:date>
+        <title>【分析】ｉＰｈｏｎｅもグーグル検索もフェイスブックも長くもたない可能性――巨大テックのトップらついに認める</title>
+        <link>https://www.cnn.co.jp/tech/35232857.html?ref=rss</link>
+        <description>最近、フェイスブックで友達になる人が減っている。ｉＰｈｏｎｅ（アイフォーン）は１０年以内に必要なくなるかもしれない。そして、この世界で有数の人気スマホでのグーグル検索は減少している。
+
+これらは、メタとグーグルを相手取った２件の別々の反トラスト法訴訟で明かされた、率直な告白である。かつて最先端だった自社製品が、いつかその重要性を失う可能性があるとテック業界のトップらが認めたのは異例だ。
+
+シリコン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35232857.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/12/0e4a34f1514b5104e95254c22515ce85/t/768/432/d/gettyimages-1973655371-20240603172708256.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35232851.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-12T14:41:00+09:00</dc:date>
+        <title>ハマス、米国籍の人質の解放を発表　ガザへの人道支援再開に向けて</title>
+        <link>https://www.cnn.co.jp/world/35232851.html?ref=rss</link>
+        <description>イスラム組織ハマスは１１日、パレスチナ自治区ガザ地区で拘束されているエダン・アレクサンダー氏を近く解放すると発表した。アレクサンダー氏は生存している最後の米国人。
+
+ハマスの交渉団の責任者は、過去数日にわたって米政権と連絡を取っていると明らかにし、協議に前向きな進展が見られたとの認識を示した。
+
+２カ月以上にわたって続いているイスラエルによるガザの封鎖を受け、ハマスは人道支援物資のガザへの搬入につ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35232851.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/12/4b70423a2f1e5e536a6fdfe46e3d5a7c/t/768/432/d/394005421-10232722398907578-1641.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35232853.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-12T14:03:00+09:00</dc:date>
+        <title>殺害された被害者が加害者に語りかけ　遺族がＡＩで再現した生前の姿、法廷で再生</title>
+        <link>https://www.cnn.co.jp/tech/35232853.html?ref=rss</link>
+        <description>米アリゾナ州で２０２１年に殺害された被害者の男性の遺族が、生前の姿や声を人工知能（ＡＩ）で再現した映像を制作し、本人の証言として判決公判の法廷で再生した。法廷での証言のためにＡＩを使って被害者をよみがえらせた事例は、今回が初めてだったと思われる。
+
+３７歳だったクリストファー・ペルキーさんは２０２１年１１月、あおり運転事件で激高した相手に射殺された。
+
+姉のステイシー・ウェールズさんは量刑尋問の公...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35232853.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/12/11dc4f56f8dc1d9123b89cefcad2e71e/t/768/432/d/112130-ai-victim-statement-00-00-06-14-still001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35232852.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-12T13:00:00+09:00</dc:date>
+        <title>俳優ジェフ・ブリッジス、がん診断から５年も「気分は良い」　新型コロナの長期的な影響には苦労</title>
+        <link>https://www.cnn.co.jp/showbiz/35232852.html?ref=rss</link>
+        <description>映画「ビッグ・リボウスキ」などで知られる俳優のジェフ・ブリッジス（７５）が自身の健康状態について明らかにした。
+
+ブリッジスはピープル誌のインタビューで、悪性リンパ腫と診断されてからほぼ５年が経ったが、健康状態は「非常に良好」で「気分も良好」だと語った。
+
+「がんか、新型コロナウイルスのせいか、それともただの老化なのか、判断が難しいこともある」とブリッジスは語り、記憶障害もいくつか出ており、新型コ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35232852.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/12/0cea78b57519f1cb237481fa46e3841b/t/768/432/d/gettyimages-2208757481.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232850.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-12T11:46:00+09:00</dc:date>
+        <title>米ニューアーク空港でまた通信障害、トラブル続発で欠航や遅延相次ぐ</title>
+        <link>https://www.cnn.co.jp/usa/35232850.html?ref=rss</link>
+        <description>米ニューヨーク近郊のニューアーク・リバティー国際空港で、通信障害のために便が行き先を変更したり欠航や遅延が相次ぐトラブルが繰り返されている。１１日にも米連邦航空局（ＦＡＡ）が一時的に同空港を利用する便の運航を停止させた。
+
+ＦＡＡの発表によると、同空港に離着陸する便を誘導するシステムで通信障害が発生し、一時的に離着陸を遅らせた。ニューアーク行きの便が出発できない状態は４５分ほど続いたという。
+
+こ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232850.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/12/0de6e0a7de9f7702ce304e029efbbeb1/t/768/512/d/001-ap25129775243408.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
