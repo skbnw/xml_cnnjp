@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-05-18T17:00:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/architecture/35233109.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35233104.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233108.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233107.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233106.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233105.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233103.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233101.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233102.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233100.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233099.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233098.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35232619.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233097.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233096.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233095.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35233094.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233033.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35233028.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233092.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35233093.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35233090.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233091.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233089.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233087.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233086.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233083.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/architecture/35233063.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233058.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233057.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/style/architecture/35233109.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-18T17:00:00+09:00</dc:date>
+        <title>故エリザベス女王の公式追悼施設、ロンドンに建設へ　最終候補５案が公開</title>
+        <link>https://www.cnn.co.jp/style/architecture/35233109.html?ref=rss</link>
+        <description>故エリザベス女王の公式追悼施設が、英ロンドンに建設される計画だ。緩やかな曲線を描く２本の橋、ブロンズのオークの木、スイレンの葉をモチーフにした歩道など五つのデザインが最終候補に選ばれた。
+
+この国家追悼施設は、ロンドン中心部のバッキンガム宮殿近くにあるセントジェームズパークに建設される。
+
+７日に公開された最終候補には、ロンドン市庁舎や３０セント・メリー・アクス（通称ザ・ガーキン）を設計したフォス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/architecture/35233109.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/18/7a566167942abf519d00e8392315f069/t/768/408/d/001-heatherwick-studio-media-image-2-.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35233104.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-18T16:23:00+09:00</dc:date>
+        <title>公共交通で大音量垂れ流し、通勤客を苛立たせる「ベアビーティング」が流行　英</title>
+        <link>https://www.cnn.co.jp/travel/35233104.html?ref=rss</link>
+        <description>英国などの公共交通機関で、「ベアビーティング」と呼ばれるトレンドが通勤客をいら立たせている。
+
+この「ヘッドホンを使わず音楽や動画を大音量で流す」行為のことは恐らく読者も知っているだろう。すでに遭遇した経験がある可能性も高いのではないか。
+
+ひとりの「ベアビーター」の迷惑行為が次の行為を誘発して悪弊が広がり、世界中で列車や航空機、バスの乗客を怒らせる状況になっている。
+
+英国、少なくともロンドンでは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35233104.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/18/234429155661d0438e3ebbfcbeb977be/t/768/432/d/gettyimages-1175107074.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233108.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-18T15:30:00+09:00</dc:date>
+        <title>ウクライナ側で戦闘に参加、豪男性に禁錮１３年　ロシア裁判所</title>
+        <link>https://www.cnn.co.jp/world/35233108.html?ref=rss</link>
+        <description>ロシアが占領するウクライナ東部ルハンスク州の裁判所は１６日、ウクライナ軍に参加していたとしてオーストラリア人のオスカー・ジェンキンズ被告（３３）に対し、最高警備の刑務所での禁錮１３年を言い渡した。検察が発表した。
+
+検察によると、ジェンキンズ被告は昨年３月から１２月にかけ、ロシアに対してウクライナ側で戦闘に参加した傭兵（ようへい）と認定され、裁判所で有罪判決を受けた。
+
+オーストラリアのウォン外相...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233108.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/18/a022420fea2b475a92d6fd55dea9b5f2/t/768/432/d/photo-2025-05-16-16-41-11.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233107.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-18T14:52:00+09:00</dc:date>
+        <title>イラン、核協議の継続を表明　トランプ氏の「脅し」は一蹴</title>
+        <link>https://www.cnn.co.jp/world/35233107.html?ref=rss</link>
+        <description>イランのペゼシュキアン大統領は１７日、港湾都市バンダルアバスでのイベントで、「われわれは戦争を望まず、交渉と対話を支持する。しかし脅しを恐れてはいないし、合法的な権利から退くこともない」と述べ、トランプ米大統領によるものとされる「脅し」を一蹴した。
+
+ペゼシュキアン氏が、トランプ氏のどの発言に反応したのかは不明だが、トランプ氏は先の中東歴訪で、記者団に対し、イランの核開発をめぐる協議で、米国と早...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233107.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/18/8509bca45e468a28ca5574eedb7367fa/t/768/432/d/thumbnaill-Iranian-President-Masoud-Pezeshkian.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233106.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-18T14:20:00+09:00</dc:date>
+        <title>メキシコ海軍の練習帆船がブルックリン橋に衝突、２人死亡　ＮＹ市長</title>
+        <link>https://www.cnn.co.jp/usa/35233106.html?ref=rss</link>
+        <description>メキシコ海軍の練習帆船クアウテモックが１７日夜にブルックリン橋に衝突した事故で、米ニューヨークのアダムス市長によると、少なくとも２人が死亡した。
+
+アダムス氏はＸ（旧ツイッター）への投稿で、「現時点の情報では船に乗っていた２７７人のうち、１９人が負傷し、２人が依然重体になっている。悲しいことに、２人はけがのため亡くなった」と明らかにした。
+
+法執行当局者がＣＮＮに語ったところによると、死亡した２人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233106.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/18/1ccc7b2c8358f35c57e807ca1f5a6573/t/768/512/d/03-ap25138088633988.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233105.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-18T14:00:00+09:00</dc:date>
+        <title>ミズーリ州とケンタッキー州で竜巻　２５人死亡、建物にも被害</title>
+        <link>https://www.cnn.co.jp/usa/35233105.html?ref=rss</link>
+        <description>竜巻を伴う暴風雨が米国の中部を襲い、ミズーリ州とケンタッキー州南東部で少なくとも２５人が死亡したほか、各地で被害が出ている。
+
+ケンタッキー州では１８人が死亡。その発表の数時間前の１６日には、広範な被害を受けたミズーリ州セントルイスで７人の死亡が報告された。
+
+竜巻はミズーリ、ケンタッキー、イリノイ、インディアナ各州で報告された。
+
+中西部と五大湖周辺では家屋が損壊し、送電線が倒れるなどの被害が発生...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233105.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/18/2431d7da81910af18ead9e947d29ed44/t/768/432/d/still-21631520-3338-795-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233103.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-18T12:57:00+09:00</dc:date>
+        <title>不妊治療クリニックが「標的」、爆発で1人死亡　米カリフォルニア州</title>
+        <link>https://www.cnn.co.jp/usa/35233103.html?ref=rss</link>
+        <description>米カリフォルニア州パームスプリングスにある不妊治療のクリニックで１７日、爆発があり、少なくとも１人が死亡、４人が負傷した。米連邦捜査局（ＦＢＩ）の幹部が明らかにした。
+
+ＦＢＩは死亡した人物の身元確認を進めている。同幹部は「南カリフォルニアで過去最大級の爆破事件の捜査だ」と述べた。さらに「これは明白なテロ行為だ」とし、クリニックが狙われたとの見方を示した。捜査には、ＦＢＩのほか、地元警察やアルコ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233103.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/18/0cc91ac0bfbaffc1379db79cc8c9b931/t/768/432/d/001-usatsi-26208642.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233101.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-18T12:10:00+09:00</dc:date>
+        <title>ポンペイの住民、最期の状況が新たに判明　家具を使って寝室封鎖も逃げられず</title>
+        <link>https://www.cnn.co.jp/fringe/35233101.html?ref=rss</link>
+        <description>西暦７９年にベズビオ山の噴火に襲われた古代ローマの都市ポンペイで、子ども１人を含む４人が家具を使って寝室の扉を塞ぎ、噴火から身を守ろうとしていた証拠が発見された。
+
+４月に学術誌に発表された報告書によれば、最終的にこの家屋が４人の最後の安息の地となった。
+
+ベズビオ山は壊滅的な噴火の間、高温の致死的なガスと灰を空中に噴き出し、街の住民の大半をゆっくりと死に追い込んだ。その後、灰と軽石が街と住民を覆...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233101.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/18/fd9fe38d2d5cf3ac49cfba6b46880e0e/t/768/432/d/001-casa-di-elle-e-frisso-pompei-7.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233102.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-18T12:06:00+09:00</dc:date>
+        <title>ロシア、バスを攻撃して９人死亡　停戦協議から数時間後</title>
+        <link>https://www.cnn.co.jp/world/35233102.html?ref=rss</link>
+        <description>ウクライナ北東部スーミ州で１７日、ロシア軍の無人機がバスを攻撃し、少なくとも９人が死亡、７人が負傷した。ウクライナ当局が明らかにした。両国が約３年ぶりに直接の和平協議を行ったわずか数時間後の出来事だった。
+
+両国は首脳会談や停戦、捕虜交換の可能性などを協議したものの、大きな進展はなく、その後もロシアによる空からの攻撃は続いた。
+
+地元当局によると、攻撃は１７日午前、スーミ州ビロピリャ市で発生した。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233102.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/18/5e0e5feb94f34ae64d7ca1b9a1926b83/t/768/432/d/ap25137311640986.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233100.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-18T11:28:00+09:00</dc:date>
+        <title>メキシコ海軍の練習帆船、米ブルックリン橋に衝突　１９人負傷</title>
+        <link>https://www.cnn.co.jp/usa/35233100.html?ref=rss</link>
+        <description>米ニューヨークで１７日夜、メキシコ海軍の練習帆船がブルックリン橋の下部に衝突した。警察とメキシコ海軍が明らかにした。
+
+ニューヨーク市警の報道官がＣＮＮに語ったところによると、帆船は午後８時２６分ごろ橋に衝突した。複数人の「救助」が進められている。
+
+ニューヨークのアダムス市長によると、４人の重傷者を含む１９人が負傷したという。
+
+メキシコ海軍はＸ（旧ツイッター）にスペイン語で投稿し、「ニューヨーク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233100.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/18/ec9987d21dd024794bbd953b2821f267/t/768/432/d/still-21632354-589682-588.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233099.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-18T10:49:00+09:00</dc:date>
+        <title>トランプ氏、ウォルマートに「関税を負担する」よう要求　値上げ方針の発表後</title>
+        <link>https://www.cnn.co.jp/usa/35233099.html?ref=rss</link>
+        <description>トランプ米大統領は１７日、値上げの方針を発表した小売り大手ウォルマートについて、「関税のせいにしようとする」のはやめる必要があるとの考えを示した。
+
+ウォルマートのダグ・マクミロン最高経営責任者（ＣＥＯ）は値上げについて、トランプ氏の関税が「高すぎる」結果だと説明。とりわけ中国製品に対する関税が高いと指摘していた。
+
+マクミロン氏は１５日の決算会見で、「我々は可能な限り低価格を維持できるように最善...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233099.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/18/9cb9b21e34ccdf44f39eaaf7c0985066/t/768/511/d/wallmart.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233098.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-18T08:41:00+09:00</dc:date>
+        <title>トランプ氏、１９日にプーチン氏と電話会談　ウクライナ情勢めぐり</title>
+        <link>https://www.cnn.co.jp/usa/35233098.html?ref=rss</link>
+        <description>米国のトランプ大統領は１７日、ウクライナでの戦争の終結に向けて、１９日にロシアのプーチン大統領と電話会談を行うと発表した。
+
+トランプ氏は同日、ＳＮＳ「トゥルース・ソーシャル」に「電話会談の議題は、１週間にロシア軍とウクライナ軍合わせて平均５０００人以上が命を落としている『血の海』を止めることと、貿易だ」と投稿した。
+
+今回の発表の前には、ウクライナとロシアの代表団がトルコで、対面での協議を行って...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233098.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/18/d675689df4d92fe7a4d5cb8fe2078dac/t/768/432/d/20250517-trumpputin.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35232619.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T19:30:00+09:00</dc:date>
+        <title>水に溶ける外装用素材「アクアフェード」、電子廃棄物問題解決の救世主となるか</title>
+        <link>https://www.cnn.co.jp/tech/35232619.html?ref=rss</link>
+        <description>世界中でコンピューターやスマートフォンなどの電子機器に対する需要がますます高まる一方で、その裏側にある電子廃棄物の問題が深刻化しつつある。
+
+国連が昨年発表した報告書によると、２０２２年に世界で発生した電子廃棄物の量は６２００万トンに達し、これはトラック１５０万台分に相当するという。その大半はごみ埋め立て地や焼却場に送られたが、電子廃棄物には水銀や鉛といった有害物質が含まれていることもあるため、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35232619.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/06/a62288e03ec08d7afc536df957ee69ca/t/768/432/d/image-2-20250404155659841.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233097.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T19:00:00+09:00</dc:date>
+        <title>１９世紀の沈没船、豪州沿岸で発見　当時ならではの船員らの「副業」にも脚光</title>
+        <link>https://www.cnn.co.jp/fringe/35233097.html?ref=rss</link>
+        <description>南オーストラリア州沿岸の荒海の下で、海洋考古学者らが１７０年近く前に沈んだ船の残骸を発見したと明らかにした。見つかったのはオランダの商船で、１９世紀にオーストラリアで起きたゴールドラッシュにまつわる海の悲劇を今に伝えているという。
+
+８００トンの帆船「ウィレム２世号」は１８５７年６月、オランダへ戻る航海に出たところ激しい暴風雨に遭い、南オーストラリア州の港町ローブの近海で転覆した。豪国立海洋博物...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233097.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/17/2a73c55840c08647c3fa3e91e80ed18f/t/768/432/d/koning-willem-de-tweede-cropped.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233096.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T17:44:00+09:00</dc:date>
+        <title>トランプ氏、スプリングスティーンさんに応酬　「反逆的」と批判され</title>
+        <link>https://www.cnn.co.jp/usa/35233096.html?ref=rss</link>
+        <description>トランプ米大統領は１６日午前、海外公演中に自身を批判した米ロック界の重鎮ブルース・スプリングスティーンさんに応酬した。
+
+トランプ氏はＳＮＳトゥルース・ソーシャルへの投稿でスプリングスティーンさんに言及。「米大統領のことを悪く言うために外国へ行った」と批判した。
+
+スプリングスティーンさんは１４日、自身のバンドとの最新ツアーの初回公演でトランプ氏をこき下ろしていた。英マンチェスターで公演を行ったス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233096.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/17/6df4e65d9e1cef57449930cb15f4d84f/t/768/536/d/springsteen.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233095.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T16:30:00+09:00</dc:date>
+        <title>米ＮＹ大学、学生への卒業証書を保留　卒業スピーチでガザの戦闘非難</title>
+        <link>https://www.cnn.co.jp/usa/35233095.html?ref=rss</link>
+        <description>米ニューヨーク大学は、卒業式のスピーチでパレスチナ自治区ガザ地区の「ジェノサイド（集団殺害）」を糾弾した学生への卒業証書を保留する方針を明らかにした。当該の学生が大学の規則に従うとした当初の約束に違反したためとしている。
+
+１５日の卒業式で登壇した学部生のローガン・ロゾス氏は、卒業スピーチという場で大勢の人々へ向けて発言するのに唯一ふさわしい内容として、「現在パレスチナで起きている残虐行為を認識...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233095.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/17/ad9c20d80bdd298635aa316a27063dd2/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWFxZjg5Y2wwMDA1M2I2bW9oMHlpb2U3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYXFkc21obzAwNHIyN3A4OWI0ZDg5OGs_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35233094.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T15:50:00+09:00</dc:date>
+        <title>メラニア・トランプ氏のブロンズ像が行方不明に、警察が捜査　スロベニア</title>
+        <link>https://www.cnn.co.jp/style/arts/35233094.html?ref=rss</link>
+        <description>東欧のスロベニアで、メラニア・トランプ米大統領夫人の故郷の近くに立っていたブロンズ像が行方不明になっている。この像は５年前、放火で損傷した木製の像の代わりに設置された。
+
+スロベニア警察はＣＮＮに対し、像が設置されていたロズノ村で窃盗があったとの通報を受けたことを明らかにした。
+
+警察報道官は１６日の声明で、警官らが「現場検証と情報収集を実施した」と説明。「捜査判事と地区検察官が今回の窃盗について...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35233094.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/17/8d3898f71d0bc37abc5b576d92eac150/t/768/512/d/ap20259608194502.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233033.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T15:00:00+09:00</dc:date>
+        <title>危険水準のヒ素とカドミウム、市販の米から検出との報告　米健康団体</title>
+        <link>https://www.cnn.co.jp/fringe/35233033.html?ref=rss</link>
+        <description>米国内で市販されている異なるブランド１００以上の米のサンプルを調べたところ、危険な水準のヒ素とカドミウムが含まれていることが分かった。ＣＮＮに最初に公開された新たな報告で明らかになった。
+
+「低い水準でさえ、ヒ素もカドミウムも深刻な健康被害と関連している。糖尿病や発達の遅れ、生殖毒性、心臓病などだ」。報告の共著者で、子どもの有毒化学物質への暴露低減に取り組む団体、ヘルシー・ベビーズ・ブライト・フ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233033.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/16/546f0390f896b5575523a62da074fbbf/t/768/432/d/gettyimages-1141317711.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35233028.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T13:55:00+09:00</dc:date>
+        <title>貴ガスを吸入して「１週間以内」のエベレスト登頂に挑戦、専門家からは懸念の声</title>
+        <link>https://www.cnn.co.jp/travel/35233028.html?ref=rss</link>
+        <description>始まりはパブでビールを飲んでいたときだった。元軍人の友人４人が、退役軍人の慈善団体への寄付を集めるために冒険旅行に出かけるのはどうかと話していると、ひとりがエベレスト登頂を提案してきた。
+
+英国議員のアル・カーンズさんはＣＮＮに「みんな忙しいので、『エベレスト登頂に４～６週間、もしくは８週間も使うなんてむり。ありえない』と答えた」と語った。
+
+ところが、友人のひとりがこう切り返してきた。高度順応の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35233028.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/15/ffead4469c7aa15f02d41df52c704f51/t/768/432/d/gettyimages-1148628379.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233092.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T13:10:00+09:00</dc:date>
+        <title>殺人容疑者含む１０人が拘置所から脱走、トイレの壁破る　米ニューオーリンズ</title>
+        <link>https://www.cnn.co.jp/usa/35233092.html?ref=rss</link>
+        <description>米ニューオーリンズの拘置所に収容されていた１０人が、トイレの後ろの壁を破って脱走した。地元保安官が１６日に明らかにした。これまで発見されたのは２人のみとなっている。
+
+地元保安官は１６日の記者会見で、収容者の脱走を手助けした者が当局内部にいるとの見方を示した。
+
+保安官によれば、トイレの壁を破った収容者らは物資の搬入に使われるドアを通り抜け、午前１時前後に拘置所から出た。そのまま壁をよじ登り、幹線...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233092.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/17/753c49e8a8a7434c447cc1496bf69420/t/768/432/d/revised-new-orleans-inmates-escape.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35233093.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T13:00:00+09:00</dc:date>
+        <title>チャットボットが突然「白人ジェノサイド」に言及、背後に「不良社員」の関与　ｘＡＩ</title>
+        <link>https://www.cnn.co.jp/tech/35233093.html?ref=rss</link>
+        <description>米起業家イーロン・マスク氏の人工知能（ＡＩ）開発企業ｘＡＩは１６日、同社のチャットボットが南アフリカにおける「白人ジェノサイド（集団殺害）」について一方的に暴言を吐いた問題に触れ、背後に「不良社員」の関与があったと明らかにした。
+
+ｘＡＩのチャットボット「Ｇｒｏｋ」は今週、まったく無関係の話題の質問への回答として、根拠のないジェノサイド理論を連発し始めた。今回の説明はそれから４８時間も経たずに行...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35233093.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/17/60cc95403e4aebb46fb6fb352cd74960/t/768/432/d/shutterstock-editorial-15193864a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35233090.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T11:50:00+09:00</dc:date>
+        <title>ムーディーズ、米格付けを最高位から格下げ</title>
+        <link>https://www.cnn.co.jp/business/35233090.html?ref=rss</link>
+        <description>米格付け会社ムーディーズは１６日、米国債の格付けを最高位の「ＡＡＡ」から１段階格下げした。主要格付け機関の中で最後まで最高格付けを維持していた同社が格下げに踏み切ったことで金融市場は動揺し、金利を押し上げる可能性がある。
+
+既に関税とインフレに苦しむ米国に対し、新たな財政負担が生じかねない事態ともなっている。
+
+ムーディーズによる現在の格付けは「Ａａ１」で、主要格付け機関のフィッチ・レーティングス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35233090.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/17/2484449f9fe6f5f30527682836ef02d0/t/768/432/d/gettyimages-2215029521.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233091.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T11:10:00+09:00</dc:date>
+        <title>【分析】直接協議は停戦合意なく終了、ウクライナはロシアへの「圧力」強化を要請</title>
+        <link>https://www.cnn.co.jp/world/35233091.html?ref=rss</link>
+        <description>３年ぶりとなるロシアとウクライナの直接協議は１６日、イスタンブールの灰色の空のように漠然とした期待感とともに始まった。
+
+協議が進むにつれ空は明るくなったが、和平への見通しは晴れなかった。
+
+最終的に、今回の戦争で何度も繰り返されている大規模な捕虜交換と、将来の協議に向けた二つの議論のテーマ――ロシアのプーチン大統領とウクライナのゼレンスキー大統領の会談、および停戦の輪郭――が乏しい成果として残った。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233091.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/17/588d8753eb58b87cda11f8208dafdd0a/t/768/432/d/whatsapp-image-2025-05-16-at-11-02-31.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233089.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T09:15:00+09:00</dc:date>
+        <title>イスラエル軍、ガザ大規模攻勢の第１段階に着手と発表　トランプ氏中東歴訪終了と同日</title>
+        <link>https://www.cnn.co.jp/world/35233089.html?ref=rss</link>
+        <description>イスラエル軍は１６日、パレスチナ自治区ガザ地区で新たな大規模攻勢の第１段階に着手したと明らかにした。トランプ米大統領が停戦合意への成果なく中東歴訪を終えたその日の発表となった。
+
+イスラエル軍は現地時間午前０時前に出した声明で、「イスラエル国防軍（ＩＤＦ）はこの１日、ガザ地区戦略区域の奪取を目的とする大規模攻撃と部隊動員に着手した」と表明。「ギデオンの戦車」作戦の序盤戦の一環であり、人質解放やイ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233089.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/17/6a8157d28916d0ed0ddf8e44555513c2/t/768/432/d/gettyimages-2214740280.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233087.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-16T22:10:00+09:00</dc:date>
+        <title>ロシアとウクライナ、イスタンブールで高官級会談</title>
+        <link>https://www.cnn.co.jp/world/35233087.html?ref=rss</link>
+        <description>ロシアとウクライナの代表団は１６日、トルコのイスタンブールで会談を行った。
+
+両国の首脳が共に欠席する中、会談は２時間弱で終わった。
+
+ウクライナ側はウメロウ国防相が、ロシア側はメジンスキー大統領補佐官がそれぞれの代表団を率いた。議長はトルコのフィダン外相が務めた。
+
+会談冒頭のスピーチでフィダン氏は、当事国同士の直接の顔合わせは２０２２年３月以来だと言及。「平和への道を前進させるため、この機会をと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233087.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/16/6e9ba5a8604390114a1901a53900a189/t/768/512/d/gettyimages-2214733850.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233086.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-16T18:30:00+09:00</dc:date>
+        <title>「アミーゴ！　私たちの教皇」　ペルーで親しまれた米国出身の司教、レオ１４世就任に沸く「地元」</title>
+        <link>https://www.cnn.co.jp/world/35233086.html?ref=rss</link>
+        <description>チクラヨ中心部の広場にハンマー音と音楽が鳴り響く。大聖堂の前に巨大なデジタルスクリーンを設置する足場が組まれ、大勢の人が集まってくる。ローマ教皇レオ１４世の就任を祝う土曜の野外ミサは特別だった。新教皇は米国生まれだが、ペルー北部のここチクラヨでは、世界初のチクラヤーノ教皇ロベルトとして親しまれている。
+
+開かれた大聖堂の扉の向こうでは、一大イベントに備えて女性たちがざんげ室の前に行列を作っていた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233086.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/16/c07985c6d9f2ff0e7379e4beecc797de/t/768/492/d/prevost-in-piura-1986-courtesy-nicanor-palacios.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233083.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-16T17:50:00+09:00</dc:date>
+        <title>オランウータンの赤ちゃん２頭を密輸の容疑、男を逮捕　タイ</title>
+        <link>https://www.cnn.co.jp/world/35233083.html?ref=rss</link>
+        <description>タイの警察は１５日、野生生物密輸の疑いで男１人を逮捕したと発表した。男は首都バンコクのガソリンスタンドで、２頭のオランウータンの赤ちゃんをかごに入れているのを発見された。
+
+４７歳のこの容疑者は１４日、２頭のオランウータンを客に引き渡そうとしていたところを逮捕された。タイ警察が１５日の声明で明らかにした。 
+
+警察によると、オランウータンはプラスチックのかごに入れられていた。１頭は約１歳、もう１頭は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233083.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/16/f6822ec8626da8aa184b248a64c7a7c3/t/768/432/d/img-3427.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/architecture/35233063.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-16T16:30:00+09:00</dc:date>
+        <title>極細の超高層マンションに「数千カ所のひび割れ」、管理組合が提訴　ＮＹ</title>
+        <link>https://www.cnn.co.jp/style/architecture/35233063.html?ref=rss</link>
+        <description>米ニューヨーク・マンハッタンの超高級住宅街に立つ極細の超高層マンション「４３２パーク・アベニュー」の管理組合が、マンションのデベロッパーを相手取って訴訟を起こしている。「広範囲な詐欺」を行い、マンションの構造上の甚大な不具合を隠したというのがその主張だ。不具合にはマンションのファサードに生じた「数千カ所のひび割れ」も含まれるという。
+
+管理組合は不動産会社のＣＩＭグループに対し、水漏れにつながる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/architecture/35233063.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/16/cbf0abce38d1bc5a271360735a2e6a15/t/768/432/d/gettyimages-1305381700.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233058.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-16T15:45:00+09:00</dc:date>
+        <title>新たな「スーパー耐性菌」、多剤耐性真菌の脅威は既にそこに　克服さらに難しく</title>
+        <link>https://www.cnn.co.jp/fringe/35233058.html?ref=rss</link>
+        <description>ほとんどの治療薬が効かない超多剤耐性（スーパー耐性）を持った新たな病原体が、世界に広がりつつある。感染源は人の体表や体内、土壌、大気中に生息するコクシジオイデス属真菌の胞子だ。
+
+米カリフォルニア州パターソン在住のトレンス・アービン氏は２０１８年６月、自宅の裏庭でくつろいでいた時に、胞子が肺に入ったと思われる。
+
+それから１年近くたって、専門医がコクシジオイデス属菌による感染症「コクシジオイデス症...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233058.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/16/6f6d0063dbb538c3d36ce61b6d66a902/t/768/505/d/candidaalbican.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233057.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-16T15:00:00+09:00</dc:date>
+        <title>米ハーバード大がかつて安値で購入したマグナ・カルタの複製、「原本」だった</title>
+        <link>https://www.cnn.co.jp/fringe/35233057.html?ref=rss</link>
+        <description>ハーバード大学ロースクールが数十年前にわずか２７ドル５０セント（現在のレートで約４０００円）で購入したマグナ・カルタ（大憲章）の「写本」が、１３００年に作成された極めて希少な原本であることが分かった。
+
+キングス・カレッジ・ロンドンで中世史を専攻するデービッド・カーペンター教授は１５日、ＣＮＮの取材に対し、「自宅でマグナ・カルタの非公式な写本を探していたところ、かなりの数を見つけた」と、発見時の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233057.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/16/6be6f003d652c2bec9e05b48401716b5/t/768/432/d/ap25133613909943.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
