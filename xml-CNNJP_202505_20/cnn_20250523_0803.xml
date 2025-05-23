@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-05-23T16:30:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233363.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233358.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233351.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35233359.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35233355.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233347.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233348.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233344.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233337.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233342.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233341.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233339.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233338.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233332.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233329.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233323.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233325.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233317.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35233304.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233306.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233298.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35233303.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233295.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233297.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35233291.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233283.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35233288.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233285.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233284.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233281.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233363.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-23T16:30:00+09:00</dc:date>
+        <title>「シュリンキング・ニモ」？、体を縮めるカクレクマノミ　海水温上昇に順応と研究者</title>
+        <link>https://www.cnn.co.jp/fringe/35233363.html?ref=rss</link>
+        <description>映画「ファインディング・ニモ」で有名になったオレンジと白の小型の魚、カクレクマノミは、体を縮めることで海洋の熱波を生き延びる可能性を高めていることが分かった。
+
+パプアニューギニアの保護センターで、英ニューカッスル大学の科学者が率いるチームが、２０２３年の海洋熱波の間、１３４匹のカクレクマノミを５カ月間観察した。同大が２１日に発表した声明で明らかにした。
+
+研究論文の主執筆者であるニューカッスル大...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233363.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/23/daa9dc637a135705610aee3d77decc4e/t/768/432/d/20250208-1x5a0054.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233358.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-23T14:33:00+09:00</dc:date>
+        <title>保護区の動物たちも逃げ出す、ギャングの暴力横行する土地から大移動　メキシコ・シナロア州</title>
+        <link>https://www.cnn.co.jp/world/35233358.html?ref=rss</link>
+        <description>麻薬カルテルによる犯罪と暴力が猛威を振るうメキシコ・シナロア州では、地元の野生動物保護区も閉鎖を余儀なくされている。保護区に生息していた少なくとも７００頭の動物たちは、２１２キロ離れた新たな保護区に移動している。
+
+ゾウやトラ、ライオン、ダチョウ、ニワトリ、サル、ワニ、カバなどを含むこれらの動物は、シナロア州クリアカンにある保護区から州南部マサトランへ移された。理由は現地で発生している暴力だ。保...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233358.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/23/17b864ba559cad92fa9175960327d9f3/t/768/432/d/ap25140846498545.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233351.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-23T13:08:00+09:00</dc:date>
+        <title>オンライン小児性愛組織を大規模摘発、５５人逮捕　フランス</title>
+        <link>https://www.cnn.co.jp/world/35233351.html?ref=rss</link>
+        <description>小児性愛者のネットワーク撲滅を目的とした大規模摘発の一環として、フランスの警察は１９日から２２日午前にかけて国内全土で５５人を逮捕した。当該のネットワークはメッセージングアプリ「テレグラム」を通じて運営されていた。仏未成年保護局が明らかにした。
+
+２５～７５歳の容疑者らは、テレグラムを通じて「極めて危険な」児童性犯罪者とメッセージをやり取りしていた疑いをもたれている。この児童性犯罪者は昨年夏に収...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233351.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/23/4b8b492590af3c79d8593ad45c89f5ed/t/768/432/d/gettyimages-1230799221.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35233359.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-23T12:25:00+09:00</dc:date>
+        <title>トム・クルーズ、ポップコーンの食べ方を指摘され爆笑</title>
+        <link>https://www.cnn.co.jp/showbiz/35233359.html?ref=rss</link>
+        <description>米俳優トム・クルーズはあらゆることに全力投球するようだ。ポップコーンを食べるときでさえ。
+
+最新作『ミッション：インポッシブル／ファイナル・レコニング』の上映会で、クルーズが映画館のポップコーンを夢中で口に放り込む様子を捉えた動画がＳＮＳで話題になっている。
+
+２１日のトーク番組で出演者から「ポップコーンをこんな食べ方する人、見たことない」「トム、本当にポップコーンを食べてる？　それともふざけてる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35233359.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/23/ce93d6a7d6eb30a5b67bb93ed1a0f2da/t/768/432/d/gettyimages-2215271161.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35233355.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-23T11:42:00+09:00</dc:date>
+        <title>ビットコインが最高値更新、トランプ氏の暗号資産晩さん会控え</title>
+        <link>https://www.cnn.co.jp/business/35233355.html?ref=rss</link>
+        <description>暗号資産のビットコインが２２日、過去最高値を更新した。同日午前に１１万１９７０ドルの過去最高値を記録したあと、午後は１１万１８７０ドル前後で取引されている。
+
+暗号資産として世界最高の時価総額を誇るビットコインは７万５０００ドルをやや下回った４月初旬以降、およそ５０％上昇している。今週には初めて１１万ドルを超え、２２日には１１万２０００ドル近くまで上昇した。
+
+議会が暗号資産関連法案の審議を進めて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35233355.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/23/7802402debf683a14617614a19ef9582/t/768/479/d/2023-10-24t101911z-264334327-rc2yy3ajx1or-rtrmadp-3-fintech-crypto-bitcoin.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233347.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-23T10:55:00+09:00</dc:date>
+        <title>ロシア軍、ウクライナ国境に沿って「緩衝地帯」創設中　プーチン氏が明かす</title>
+        <link>https://www.cnn.co.jp/world/35233347.html?ref=rss</link>
+        <description>ロシア軍はロシアとウクライナの国境に沿う形で「安全緩衝地帯」を創設している。ロシアのプーチン大統領が２２日に明らかにした。
+
+「既に述べたように、必要な安全緩衝地帯を国境に沿って創設する決定が下った。我が軍が現在この問題を解決している。敵の発射地点を積極的に制圧している。作業は進行中だ」。そうプーチン氏は語った。
+
+ウクライナ外務省の報道官はこの計画について、「攻撃的」であり「ロシアが現行の和平に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233347.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/23/d266c2fcb69cdf68ecef0f0eb8c7d855/t/768/432/d/gettyimages-2215776733.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233348.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-23T10:33:00+09:00</dc:date>
+        <title>ガザ地区に支援物資の搬入再開、１１週間ぶり　国連「到底足りない」</title>
+        <link>https://www.cnn.co.jp/world/35233348.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区に２１日、３月初旬以降初めて食料が届けられた。しかし国連高官らは、深刻化する人道危機を食い止めるには「到底足りない」と警告している。
+
+国連当局者らは２２日にもさらに物資が搬入されることを期待しているとし、大量の物資の搬入が認められなければ、ガザの大部分の人々が飢饉（ききん）に直面すると訴える。
+
+イスラエルは３月２日以降今週までガザへの人道支援物資の搬入を全面的に禁止して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233348.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/23/5e95297105cfcb05a5e9f51c6af3ff93/t/768/512/d/gettyimages-2215740392.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233344.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-23T08:38:00+09:00</dc:date>
+        <title>電動キックボードで古代ローマの遺物持ち去った観光客、警察が拘束　イタリア</title>
+        <link>https://www.cnn.co.jp/world/35233344.html?ref=rss</link>
+        <description>イタリア警察は、レンタルした電動キックボードで古代ローマの遺物を持ち去るドイツ人観光客（２４）を追跡し、拘束したと発表した。
+
+２１日に拘束された男は古代の円柱の台座を足の間に挟み、米国大使館近くの通りを疾走しているのを目撃された。台座は大理石でできており、重さ３０キロだったという。
+
+ローマの考古学専門家は、この遺物を「歴史的に興味深い」ものと表現している。
+
+警察によると、この観光客は「土産」で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233344.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/23/7c2870a3875759b9fb1bf25057732a78/t/768/432/d/monopattino-con-base-colonna-in-marmo.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233337.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-23T08:01:00+09:00</dc:date>
+        <title>中国のレアアース輸出規制、米中「停戦」後も継続の様相</title>
+        <link>https://www.cnn.co.jp/world/35233337.html?ref=rss</link>
+        <description>米中間の関税戦争が９０日間の「停戦」に入った後も、中国は依然として、レアアース（希土類）輸出への厳しい規制を継続しているようだ。米国との戦略的競争が激化するなか、中国側は今後の交渉に向けた強力な切り札を握り続けることになる。
+
+トランプ米政権が先月２日に発表した「相互関税」に対し、中国は報復関税以外にも米国への対抗措置を発動。同４日には、希少性の高い重希土を中心とするレアアース７種類と磁石など関...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233337.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/340185c00b1797e7a72aa567b6c6d299/t/768/432/d/rtrmadp-3-china-rareearths-exports.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233342.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-23T07:09:00+09:00</dc:date>
+        <title>米下院、減税法案を僅差で可決　上院で修正か</title>
+        <link>https://www.cnn.co.jp/usa/35233342.html?ref=rss</link>
+        <description>米下院は２２日、大型減税や歳出削減などを盛り込んだ法案を僅差（きんさ）で可決した。個人所得減税の延長などトランプ大統領が昨年の選挙で掲げた公約を多く含む法案の下院通過はトランプ氏にとって大きな勝利となるが、上院でそのまま可決されるかは見通せない。
+
+採決結果は賛成２１５、反対２１４だった。数日前までは与党・共和党内でも法案に反対する声があったが、前日に修正を加えるなどして過半数を確保した。それで...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233342.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/23/b4d8032750a603900d20e5da551c82a6/t/768/523/d/c-gettyimages-2216476723.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233341.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-23T06:33:00+09:00</dc:date>
+        <title>米政権、ハーバード大の留学生受け入れ資格停止　在学生には転学要求</title>
+        <link>https://www.cnn.co.jp/usa/35233341.html?ref=rss</link>
+        <description>トランプ米政権は２２日、ハーバード大学の留学生受け入れ資格を取り消した。政権が求める政策変更を同大学が拒否したことに端を発した大学の独立性をめぐる対立がさらに深まった。
+
+国土安全保障省（ＤＨＳ）の声明には、「ハーバード大学はもはや留学生を受け入れることはできず、在学している留学生は他校に転学しなければ在留資格を失う」とある。
+
+同省のノーム長官が同大学の学生・交流訪問者プログラム（ＳＥＶＰ）の認...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233341.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/23/1a18633c54e6dfe6d9af7b517d30e74c/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWF6b2J6cDQwMGJsMjZwMzVyMGw0NnRr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYXpvYnpwNDAwYm0yNnAzOXJkMjduZGc_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233339.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T20:25:00+09:00</dc:date>
+        <title>米首都銃撃、ユダヤ博物館内で容疑者拘束　映像に「パレスチナ解放」叫ぶ姿</title>
+        <link>https://www.cnn.co.jp/usa/35233339.html?ref=rss</link>
+        <description>米首都ワシントンにあるユダヤ博物館付近で２１日夜、イスラエル大使館の職員２人が殺害された銃撃事件で、容疑者は博物館内で身柄を拘束された。ＣＮＮが目撃者から入手した映像には、連行される容疑者が「パレスチナを解放せよ、解放せよ」と叫んでいる様子が映っている。
+
+首都警察のスミス本部長は記者会見で、この銃撃事件の容疑者をシカゴ出身のエリアス・ロドリゲス容疑者（３０）と特定。銃撃は容疑者単独の犯行とみら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233339.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/237affc0cbc9371d6ee98cd300ee123d/t/768/432/d/still-21643109-14297-742-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233338.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T19:44:00+09:00</dc:date>
+        <title>イスラエル、殺害された大使館職員の身元特定　米首都銃撃</title>
+        <link>https://www.cnn.co.jp/usa/35233338.html?ref=rss</link>
+        <description>イスラエル外務省は、米首都ワシントンで２１日に発生した銃撃事件で殺害された大使館職員２人をヤロン・リシンスキー氏、サラ・ミルグリム氏と発表した。
+
+「ワシントン駐在のイスラエル大使館職員２名、ヤロン・リシンスキー氏とサラ・リン・ミルグリム氏が残忍なテロ攻撃で命を落としたという今朝の報道に、私たちは衝撃を受け、恐怖を感じている」と、同省は２２日、Ｘ（旧ツイッター）に投稿。今後は悲しみに暮れる遺族を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233338.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/e1227619d34ecc488da89f22be52ff2c/t/768/512/d/griqykbweaa6gtw.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233332.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T18:50:00+09:00</dc:date>
+        <title>旅客機がひょうの嵐に遭遇、機体に甚大な損傷も無事着陸　インド</title>
+        <link>https://www.cnn.co.jp/world/35233332.html?ref=rss</link>
+        <description>インドの格安航空会社インディゴ航空の旅客機が２１日、飛行中に雹（ひょう）の嵐に遭遇し、機体に甚大な損傷を被りながらも無事に目的地へ着陸した。途中の激しい揺れは、機内の乗客を恐怖に陥れた。
+
+インディゴ航空の声明によると、同機はインドの首都ニューデリーからカシミール地方のインド実効支配地域最大都市シュリーナガルへ向かっていた。通常の飛行時間は約１時間半だが、「途中で突然の雹の嵐」に遭遇したという。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233332.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/705443262d670bf5db04eee0ee8a6c38/t/768/432/d/gettyimages-1242115054.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233329.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T18:20:00+09:00</dc:date>
+        <title>北朝鮮の新造駆逐艦、進水失敗し損傷　式典出席の金総書記が激怒</title>
+        <link>https://www.cnn.co.jp/world/35233329.html?ref=rss</link>
+        <description>北朝鮮の最新鋭の軍艦が、２１日の進水式で著しく損傷したことが分かった。事故を目の当たりにした金正恩（キムジョンウン）総書記は国の威信に対する恥辱と非難。事故の責任が認められた人物を処罰する意向を示した。国営メディアが報じた。
+
+北朝鮮がこうした不手際を認めるのは異例。朝鮮中央通信（ＫＣＮＡ）によれば、進水メカニズムの不具合で５０００トン級の駆逐艦の船尾が想定より早く水中に入り、船体の一部が破損し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233329.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/6233a8310c98440ddcc3c0a569ba1161/t/768/432/d/new-frigate-before-launch-chongjin-north-korea-18may2025-wvl.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233323.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T16:54:00+09:00</dc:date>
+        <title>２４歳のベネズエラ人の男、１０代ホームレス移民になりすまし偽造文書で高校入学か　米当局者</title>
+        <link>https://www.cnn.co.jp/usa/35233323.html?ref=rss</link>
+        <description>米当局は２２日までに、偽造文書でオハイオ州の高校に入学した疑いで２４歳の男を逮捕した。当該の高校に１年以上在学した後、身分を偽っていたことが発覚したという。
+
+アンソニー・エマニュエル・ラブラドールシエラ容疑者は同州のペリーズバーグ高校に２０２４年１月に入学した。ベネズエラ人としての出生証明書には、本人の年齢が１６歳であることが示されていた。同容疑者は自身がホームレスの移民だったと説明。人身売買...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233323.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/7b478e0b6adc98b3bddeaa2c2f2e6695/t/768/432/d/still-21640531-16170-396-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233325.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T16:00:00+09:00</dc:date>
+        <title>新型コロナワクチン接種に伴う心疾患リスク、米ＦＤＡがメーカーに警告の拡大義務付け</title>
+        <link>https://www.cnn.co.jp/usa/35233325.html?ref=rss</link>
+        <description>米食品医薬品局（ＦＤＡ）は、新型コロナウイルスのワクチン接種に伴って稀（まれ）に起きる心疾患のリスクについて、警告表示を拡大してリスクに関する情報量を増やすことをメーカーに義務付ける。
+
+対象となるのはファイザーとビオンテックが共同開発したワクチンと、モデルナのワクチン。心筋炎や心膜炎といった心疾患のリスクについては、従来からそれぞれのワクチンの添付文書に記載されていた。
+
+米疾病対策センター（Ｃ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233325.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/b455e23da008e3428f654a4d7b7b50e1/t/768/512/d/30e86478-8b37-40f1-b64a-edec2aaa8cb0.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233317.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T14:30:00+09:00</dc:date>
+        <title>南ア大統領との会談で白人迫害の証拠とされる映像を流したトランプ氏　綿密に演出を計画</title>
+        <link>https://www.cnn.co.jp/usa/35233317.html?ref=rss</link>
+        <description>トランプ米大統領は２１日、南アフリカのラマポーザ大統領とホワイトハウスで会談した。トランプ氏がラマポーザ氏を大統領執務室に案内する直前、補佐官らが２台の大型テレビを運び込む姿が見られた。
+
+ラマポーザ氏は、目にすることになる光景について思いもよらなかっただろう。
+
+トランプ氏は照明を暗くするよう指示し、奇襲とも言える行動に出た。南アの白人が迫害と「ジェノサイド（集団殺害）」にさらされているという自...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233317.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/6f21412aa2cd6c8066661b11565dda7d/t/768/432/d/c-gettyimages-2216303358.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35233304.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T13:20:00+09:00</dc:date>
+        <title>２０歳の観客が球場スタンドから転落、アルコール提供の罪で２１歳男を訴追　米ピッツバーグ</title>
+        <link>https://www.cnn.co.jp/showbiz/35233304.html?ref=rss</link>
+        <description>米ペンシルベニア州ピッツバーグの球場で大リーグの試合中に２０歳の観客がスタンドから転落して重傷を負った事故をめぐり、２１歳の男が未成年にアルコール飲料を提供した罪に問われている。
+
+転落事故は４月３０日に行われたシカゴ・カブスとピッツバーグ・パイレーツの試合中に発生。この転落に関連してペンシルベニア州警察は、未成年にアルコール飲料を提供したとしてイーサン・カークウッド容疑者（２１）を訴追した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35233304.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/c574863f39579d85d814bb5903bb977d/t/768/432/d/ap25121094753852.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233306.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T12:42:00+09:00</dc:date>
+        <title>ユダヤ博物館付近で銃撃、イスラエル大使館職員２人死亡　米首都ワシントン</title>
+        <link>https://www.cnn.co.jp/usa/35233306.html?ref=rss</link>
+        <description>米首都ワシントンにあるユダヤ博物館付近で２１日夜、イスラエル大使館の職員２人が殺害された。ノーム国土安全保障長官が明らかにした。
+
+ノーム氏はＸ（旧ツイッター）への投稿で「イスラエル大使館の職員２人が今夜、首都ワシントンのユダヤ博物館付近で不当に殺害された」と説明。「我々は積極的に捜査を進めており、共有できる追加情報を入手すべく努めている」と述べた。
+
+事情に詳しい関係者や法執行当局の情報筋による...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233306.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/7cecfde4f5e353703bdd186153777232/t/768/432/d/firstreponder.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233298.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T12:24:00+09:00</dc:date>
+        <title>武装集団がアマゾン観光船乗っ取り、全員拉致して銀行口座から送金強要　ペルー</title>
+        <link>https://www.cnn.co.jp/world/35233298.html?ref=rss</link>
+        <description>南米ペルーのアマゾン地域で観光ボートが武装集団に乗っ取られ、乗船者１４人全員が拉致されて、モバイルアプリ経由で銀行口座から全額を奪われる事件があった。被害者の一人が明らかにした。
+
+事件についてはＴｉｋＴｏｋで２３万５０００のフォロワーを持つスペイン人のリサベト・デ・ラ・アルムデナさんが２０日、「人生最悪の日」として伝えた。
+
+アルムデナさんの投稿によると、両親や６歳の娘を含む１４人の一行は、アマ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233298.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/9bfba1fa30618facc130177d045340cd/t/768/432/d/gettyimages-480826353.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35233303.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T11:56:00+09:00</dc:date>
+        <title>ｉＰｈｏｎｅのデザイン手がけた元アップル幹部アイブ氏の企業、オープンＡＩと合併</title>
+        <link>https://www.cnn.co.jp/tech/35233303.html?ref=rss</link>
+        <description>米アップルのデザイン責任者だったジョニー・アイブ氏が、生成人工知能（ＡＩ）「チャットＧＰＴ」を開発したオープンＡＩに加わる。同氏とオープンＡＩのサム・アルトマン最高経営責任者（ＣＥＯ）が共同で、アイブ氏のテック企業ｉｏとオープンＡＩの合併を発表した。
+
+米各紙の報道によると、合併規模はおよそ６５億ドル（約９３００億円）。ニューヨーク・タイムズ紙によると、オープンＡＩは過去にｉｏ株の２３％を取得し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35233303.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/8384bbb9525aed6517d0656ae5ba7e6e/t/768/432/d/gettyimages-2213641214.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233295.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T11:28:00+09:00</dc:date>
+        <title>アイルランドのヒップホップトリオ「ニーキャップ」のメンバー、テロ容疑で訴追</title>
+        <link>https://www.cnn.co.jp/world/35233295.html?ref=rss</link>
+        <description>アイルランドのヒップホップトリオ「ニーキャップ」のメンバーが英ロンドン警視庁の捜査を受け、テロ容疑で訴追されたことが分かった。
+
+ロンドン警視庁は２１日、北アイルランド・ベルファスト在住のリアム・オハンナ容疑者（２７）を「禁止組織である（イスラム教シーア派組織）ヒズボラを支持する」旗を掲げた疑いで訴追したと発表した。
+
+警察の声明によると、モ・カラという名前で活動するオハンナ容疑者は２０２４年１１...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233295.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/7918f19eee74b55b76d680712203f034/t/768/432/d/ap24078426845397.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233297.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T10:50:00+09:00</dc:date>
+        <title>ヨルダン川西岸視察の欧州アラブ代表団にイスラエルが警告射撃、各国が非難</title>
+        <link>https://www.cnn.co.jp/world/35233297.html?ref=rss</link>
+        <description>イスラエル軍が２１日、パレスチナ自治区ヨルダン川西岸を訪れた欧州とアラブ諸国の代表団に対してジェニン難民キャンプ付近で警告射撃を行った。国際社会からは即座に非難の声が噴出している。
+
+パレスチナ自治政府外務省によると、英国、フランス、カナダなど２０カ国あまりの代表団は、西岸を公式訪問してジェニン難民キャンプ周辺の人道状況を視察した。
+
+この現場をとらえた映像には、イスラエル兵が代表団に向けて発砲し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233297.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/31825c6a7c022b740294379d8d4f7ae1/t/768/432/d/gettyimages-2215634962.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35233291.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T09:34:00+09:00</dc:date>
+        <title>７．２億円の外国人向け「ゴールドカード」ビザ、１週間以内に登録開始　米政権発表</title>
+        <link>https://www.cnn.co.jp/business/35233291.html?ref=rss</link>
+        <description>米国のラトニック商務長官は２１日、外国人はまもなく、米国に永住し、就労する権利を得られる新しい「ゴールドカード」ビザの登録を行えるようになると明らかにした。費用は５００万ドル（約７億２０００万円）。
+
+ラトニック氏はワシントンで開催されたアクシオス主催のイベントで、１週間程度で「トランプカード・ドット・ガブ」というウェブサイトが開設されると述べた。ゴールドカードビザプログラムの詳細は今後数週間以...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35233291.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/53165b014ca70f92e25a3c36ab747152/t/768/432/d/ap25128553912652-20250521222847775.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233283.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T08:48:00+09:00</dc:date>
+        <title>種の違う赤ちゃんを「誘拐」したサルの衝撃映像　理由は謎、退屈しのぎの流行か</title>
+        <link>https://www.cnn.co.jp/fringe/35233283.html?ref=rss</link>
+        <description>森の中に仕掛けておいたカメラが、１匹のオマキザルの背中にしがみつく小さな姿をとらえた。最初は単純にオマキザルの赤ちゃんだと思ったと行動生態学者のゾーイ・ゴールズボロ氏は振り返る。しかし何かがおかしかった。よく見ると想定外の色をしていた。この場面を見た共同研究者も首をひねるばかりだった。
+
+「我々がまだ見たことのない行動だと直感した」とゴールズボロ氏は言う。
+
+映像を詳しく調べ、研究者の間でも確認し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233283.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/21/a579f0798252189bdd2e1d2afb0aee4c/t/768/540/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWF2YW1iY2gwMDA5M2I2bXV3ZmxtZHdt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYXY5anp6NDAwYmYyN3FsOGZ1aTg4d20_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35233288.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T08:11:00+09:00</dc:date>
+        <title>米国の富裕層上位１０人、過去１年で純資産５３兆円増　半分以上はマスク氏</title>
+        <link>https://www.cnn.co.jp/business/35233288.html?ref=rss</link>
+        <description>国際ＮＧＯオックスファムの新たな分析によると、市場に短期的な混乱がみられたにもかかわらず、米国の富裕層上位１０人は過去１年で純資産を３６５０億ドル（約５３兆円）増やした。１日あたり約１０億ドル増加した形だ。
+
+対照的に、平均的な米国人労働者の２０２３年の年収は５万ドル強にすぎない。オックスファムの試算によると、こうした労働者１０人が同じ額の収入を得るには７２万６０００年かかる。
+
+この調査結果は、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35233288.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/18f96a9e47996f401666415126431a84/t/768/432/d/20250520-billionaires-10-richest-2025-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233285.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T07:01:00+09:00</dc:date>
+        <title>米政権、カタールからの航空機受領を発表　大統領専用機に</title>
+        <link>https://www.cnn.co.jp/usa/35233285.html?ref=rss</link>
+        <description>米国防総省は２１日、カタールが贈呈すると表明していたジャンボジェット機のボーイング７４７を受領したと発表した。同省が「適切なセキュリティ対策と機能」を備えるようアップグレードした後に大統領専用機として使用されるようになる。
+
+国防総省のパーネル報道官は声明で「ヘグセス国防長官がすべての連邦規則と規制に従ってカタールからボーイング７４７を受け取った」と明らかにした。
+
+だがこの件に詳しい情報筋は、ま...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233285.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/8b51c4443d9037478911818518a1d60a/t/768/432/d/gettyimages-2214055688.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233284.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-22T06:29:00+09:00</dc:date>
+        <title>イスラエル首相、ハマス指導者を「おそらく殺害」　ガザ全域の掌握まで戦闘継続を主張</title>
+        <link>https://www.cnn.co.jp/world/35233284.html?ref=rss</link>
+        <description>イスラエルのネタニヤフ首相は２１日、同国軍がイスラム組織ハマスの指導者ムハンマド・シンワル氏を「おそらく」殺害したと明らかにした。
+
+ネタニヤフ氏は記者会見で「我々は多くのテロリストを抹殺した」と述べ、ハマスの軍事部門トップだったムハンマド・デイフ氏、ハマスの最高幹部だったイスマイル・ハニヤ氏、ハニヤ氏の跡を継いだヤヒヤ・シンワル氏の名を挙げた。そしてヤヒヤ氏の弟のムハンマド・シンワル氏もおそら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233284.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/22/9e684b262d847c70b3d5c4433e6345af/t/768/432/d/2023-12-17t191413z-1059082817-rc27z4ahmwen-rtrmadp-3-israel-palestinians-tunnel-sinwar.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233281.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-21T20:45:00+09:00</dc:date>
+        <title>６５０年の歴史持つ楼閣が一部崩落、大量の瓦降り注ぐ　中国東部</title>
+        <link>https://www.cnn.co.jp/world/35233281.html?ref=rss</link>
+        <description>中国東部の歴史的観光地で、１４世紀の建造物の屋根瓦数百枚がはがれて２階以上の高さから滑り落ち、居合わせた観光客を驚かせる事態となった。
+
+国営メディアによると、この鳳陽鼓楼は１３７５年に建てられ、儀式の開始や時刻を知らせるために使用されていた。同種の建造物としては中国最大級のものだという。
+
+鳳陽鼓楼は安徽省の主要な観光名所。現地は首都北京から約３２０キロ離れている。
+
+鳳陽鼓楼の部分的な崩落が発生...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233281.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/21/8fc6c8d5f4d4b8ed7b939e11eb9bc8fe/t/768/432/d/xstill-21639776-9152-137-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
