@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-06-04T20:34:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233847.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233846.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233843.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233840.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233834.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233819.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35233832.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233807.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233812.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233813.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233811.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233802.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233803.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233797.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233794.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233780.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35233782.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233774.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233776.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233771.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233772.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233762.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35233752.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233765.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233756.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35233755.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233751.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233753.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35233754.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233743.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233847.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T20:34:00+09:00</dc:date>
+        <title>野生のゾウがコンビニでつまみ食い、店主「おやつが欲しかっただけだと思う」　タイ</title>
+        <link>https://www.cnn.co.jp/fringe/35233847.html?ref=rss</link>
+        <description>タイのコンビニエンスストアで２日、大きな野生のゾウが食べ物を求めて店内にのっそりと入り込み、店員を驚かせる出来事があった。
+
+防犯カメラの映像には、おなかをすかせたゾウが店内に入り、スナック菓子を勝手に食べる様子が映っている。
+
+店主によると、ゾウは午後２時ごろ、店に近づいてきた。外に出て「あっちへ行け、さっさと行け」と言って追い払おうとしたが、言うことを聞かなかったという。店主は「まるでわざと来...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233847.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/f577122864f04f7d6802df87fa3a64e6/t/768/432/d/29291346-86589965-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233846.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T20:17:00+09:00</dc:date>
+        <title>メーガン妃、長女リリベットちゃんの写真を珍しく公開　４歳の誕生日に</title>
+        <link>https://www.cnn.co.jp/world/35233846.html?ref=rss</link>
+        <description>英サセックス公爵夫人のメーガン妃が４日、長女リリベットちゃんの４歳の誕生日に合わせて珍しく写真を公開した。
+
+インスタグラムに投稿された白黒写真には、リリベットちゃんを抱きしめるメーガン妃の姿が写っている。母親の手と腕の後ろからリリベットちゃんの顔の一部が見える。
+
+メーガン妃は写真に添えたコメントに「私たちの美しい娘、誕生日おめでとう！　４年前の今日、彼女が私たちの生活に加わったおかげで、毎日が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233846.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/93fa30db2c410818b875b6945206162d/t/768/432/d/screenshot-2025-06-04-at-09-07-32-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233843.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T19:29:00+09:00</dc:date>
+        <title>悪名高い黒死病の病原体、何世紀にもわたり生き延びる仕組みが明らかに</title>
+        <link>https://www.cnn.co.jp/fringe/35233843.html?ref=rss</link>
+        <description>中世欧州で特に暗い時代の一つは、黒死病として知られるペストの大流行期だ。わずか５年の間にペストで死亡した人は２５００万人以上にのぼる。しかし、この疫病は終息しなかった。ペストは宿主をより長く生き延びさせるために適応し、より広範囲に広がり、何世紀にもわたり人々に感染し続けることに成功したのだ。今回、その仕組みが明らかになったという。
+
+この病気は、少なくとも５０００年にわたり人類の間で広まるペスト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233843.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/90dc2996a134a09f450915822a8fa39d/t/768/432/d/black-death-tooth-ravneet-sidhu-credit-mcmaster-university.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233840.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T18:44:00+09:00</dc:date>
+        <title>生物学的病原体の密輸試みた疑い、中国人研究者２人を訴追　米検察</title>
+        <link>https://www.cnn.co.jp/usa/35233840.html?ref=rss</link>
+        <description> 米ミシガン大学の実験室で研究する目的で生物学的病原体の密輸を試みたとして、中国人研究者２人が訴追されたことが、３日に提出された訴追請求状で明らかになった。
+
+ミシガン州東部地区連邦検察によると、ジアン・ユンチン容疑者（３３）とリウ・ズンヨン容疑者（３４）は、中国から「フザリウム・グラミネアルム」と呼ばれる真菌を持ち込んだとして、共謀や密輸、虚偽申告、ビザ（査証）関連詐欺の疑いで訴追された。
+
+連邦...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233840.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/35744c2f6e4f8f811f626566a5378495/t/768/512/d/ap25154663671197.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233834.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T18:29:00+09:00</dc:date>
+        <title>英、攻撃型原潜を最大１２隻建造へ　ロシアにらみ「戦闘準備態勢」入り</title>
+        <link>https://www.cnn.co.jp/world/35233834.html?ref=rss</link>
+        <description>英国は今後、新たな攻撃型原潜を建造し、核弾頭に投資して、「戦闘準備態勢」に入る方針を示している。スターマー首相が２日、スコットランドでの演説で明らかにした。
+
+スターマー氏が示した計画によると、米豪との安全保障枠組み「ＡＵＫＵＳ（オーカス）」の一環として原潜を「最大」１２隻建造し、２０３０年代末以降は現行の７隻と入れ替える。
+
+また核弾頭に１５０億ポンド（２兆９０００億円）を投資し、核抑止態勢の「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233834.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/46fbdcde85bbf5e0950c75eab005164a/t/768/432/d/ap25153364773945.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233819.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T17:34:00+09:00</dc:date>
+        <title>【分析】ウクライナの巧妙なドローン攻撃、ロシアの脆弱性あらわに　戦争の構図変える可能性も</title>
+        <link>https://www.cnn.co.jp/world/35233819.html?ref=rss</link>
+        <description>ロシアのドローン（無人機）が行った空爆によるがれきの中から子どもたちを救出する夜を何日も過ごした後、ロシア政府の軍事的プライドに対する週末の壊滅的な攻撃は、ウクライナの士気につかの間の休息の瞬間をもたらし、クレムリン（ロシア大統領府）が選択した戦争におけるまたしても予想外の展開を提示した。
+
+ウクライナ国境から数千キロ離れたロシア空軍基地に対するウクライナの巧妙なドローン攻撃が、どれほどの影響を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233819.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/266ecad8853348467a538d6bb38ca255/t/768/432/d/ap25153430208671.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35233832.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T16:54:00+09:00</dc:date>
+        <title>性的描写が施された１９世紀の希少なコンドーム、アムステルダム国立美術館で公開</title>
+        <link>https://www.cnn.co.jp/style/arts/35233832.html?ref=rss</link>
+        <description>１人の修道女と３人の聖職者が描かれたエロチックなエッチング（金属板に酸で描く版画技法）によって装飾された１９世紀の希少なコンドームが、オランダの美術館で公開された。
+
+アムステルダム国立美術館が発表した声明によると、１８３０年に羊の虫垂から作られたとみられるこのコンドームは、売春宿の土産品だった可能性が高いという。
+
+同美術館の版画キュレーター、ジョイス・ゼレン氏はＣＮＮに対し、当時コンドームは秘...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35233832.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/ea29857a296d9d230197427811181ec3/t/768/432/d/1-anonymous-condom-with-print-c-1830-acquired-through-the-f-g-waller-fonds.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233807.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T15:34:00+09:00</dc:date>
+        <title>カフェイン入りコーヒーを適度に摂取、女性の健康的な老化と関連か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35233807.html?ref=rss</link>
+        <description>明晰（めいせき）な頭脳と健康な体で老後を迎えたいのなら、その答えの一部はコーヒーカップにあるかもしれない――。そんな研究結果がこのほど報告された。
+
+「５０代でカフェイン入りのコーヒーを１日１～３杯飲んだ女性は、主要な慢性疾患に罹患（りかん）せず、認知や身体、精神の健康状態が良好で老後を迎えられる可能性が高い」。そう説明するのは、論文の主筆者で、トロント大学非常勤教授のサラ・マダビ博士。
+
+米栄養学...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233807.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/8f91d9789d1d4771290971530b1643eb/t/768/432/d/gettyimages-2213873017.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233812.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T14:25:00+09:00</dc:date>
+        <title>トランプ氏、新たな公式写真を公開　歴代大統領にみられた笑顔も米国旗もなし</title>
+        <link>https://www.cnn.co.jp/usa/35233812.html?ref=rss</link>
+        <description>トランプ米大統領の新しい公式写真が２日、公開された。そこには５０年あまりにわたる歴代大統領の写真に見られた二つの要素、つまり、幸せそうな表情と背景の米国旗が欠けていた。
+
+新たな写真は１月の就任式ごろに公開されたものに取って代わる。暗い背景の中でトランプ氏の顔の一部には影が差している。
+
+この写真は連邦政府の建物に掲示されており、現在はホワイトハウスのウェブサイトにも掲載されている。
+
+ホワイトハウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233812.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/110d066521f90cb6d2d3fdf62c876273/t/768/432/d/c-ap25153820144273.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233813.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T13:42:00+09:00</dc:date>
+        <title>米国防長官、著名な同性愛活動家にちなむ艦艇の改名命じる</title>
+        <link>https://www.cnn.co.jp/usa/35233813.html?ref=rss</link>
+        <description>米国のヘグセス国防長官は４日までに、海軍長官に対し補給艦「ＵＳＮＳハーベイ・ミルク」の名称を変更するよう命令した。国防当局者が明らかにした。
+
+２０２１年に進水した同艦の名称は、同性愛者の権利擁護のために活動したハーベイ・ミルク氏にちなむ。ミルク氏は海軍に入隊したものの、その後性的志向を理由に除隊を余儀なくされた。同艦の改名は月内にも公式に実施される見通しだと、当該の当局者は述べた。
+
+新たな名称...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233813.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/d903a341d903c01425e86b9bee104c57/t/768/432/d/8800544.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233811.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T13:04:00+09:00</dc:date>
+        <title>過度なカロリー制限でうつ症状悪化も、行き過ぎたダイエットに専門家が警鐘</title>
+        <link>https://www.cnn.co.jp/fringe/35233811.html?ref=rss</link>
+        <description>行き過ぎたダイエットは心の健康に深刻な影響を与えかねないという研究結果が、３日の米医学誌に発表された。研究チームは摂取カロリーの減らし過ぎとうつや不安の症状悪化との関係を指摘している。
+
+今回の研究では食生活とうつの症状について調べた全米健康栄養調査をもとに、成人２万８０００万人あまりのデータを調査した。
+
+その結果、カロリー制限のダイエットをしている人、中でも男性と体格指数（ＢＭＩ）で過体重に分...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233811.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/d93513c60e6313eba9ccec88a38457a1/t/768/432/d/gettyimages-2154102087.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233802.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T12:24:00+09:00</dc:date>
+        <title>極右活動家のルーマー氏、バンス米副大統領とホワイトハウス関連施設で会談　情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35233802.html?ref=rss</link>
+        <description>極右活動家のローラ・ルーマー氏が３日午前、ホワイトハウスの関連施設を訪れ、バンス米副大統領と非公式に会談した。会談の件に詳しい３人の情報筋がＣＮＮに明らかにした。ルーマー氏は過去に投稿した動画の中で２００１年９月１１日の同時多発テロを「内部の犯行」と主張したことのある人物。
+
+両氏による一対一の会談は非公開の形式を取り、ホワイトハウスに隣接するアイゼンハワー行政府ビルで行われた。情報筋らは会談の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233802.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/657ef645122bb866b9bd5efda6548884/t/768/432/d/usa-election-debate-arrivals.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233803.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T11:54:00+09:00</dc:date>
+        <title>米大統領暗殺の脅迫状でっち上げ、移民に罪着せようとした男を訴追　被害者の移民は強制送還の恐れ</title>
+        <link>https://www.cnn.co.jp/usa/35233803.html?ref=rss</link>
+        <description>強盗や傷害の罪に問われている米ウィスコンシン州の男が、被害者の移民男性に罪を着せて強制送還させる目的で、この男性の執筆を装ってドナルド・トランプ大統領暗殺の脅迫状をでっち上げたとして訴追された。
+
+ウィスコンシン州検察によると、デミトリック・スコット被告は２０２３年に起きたラモン・モラレスレイエスさんに対する傷害や強盗の罪で起訴された。被害者のモラレスレイエスさんは、スコット被告の裁判で証言に立...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233803.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/4947a881d813b4633c2b45478283ca5a/t/768/432/d/letter-20250529155814296.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233797.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T10:55:00+09:00</dc:date>
+        <title>１６０キロを旅した保護犬、島まで泳いで海上で救助　保護主と無事再会　英</title>
+        <link>https://www.cnn.co.jp/fringe/35233797.html?ref=rss</link>
+        <description>英国で４月から行方不明になっていた保護犬が、島へ泳いで渡るなどして１６０キロもさまよった末に海上で救助され、１カ月以上ぶりに保護主のもとへ無事戻った。
+
+中東カタールの路上で保護された５歳の「アンバー」は、カタールから英ロンドンに到着した翌日に行方不明になった。
+
+保護団体のサム・コリンズ代表によると、アンバーは４月２５日にイングランド南部ニューフォレストの経験豊富な保護主に預けられたが、翌日、高...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233797.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/16330be8159a1a6a716b4c8ce5b0601c/t/768/432/d/001-pxl-20250601-110255851.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233794.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T10:14:00+09:00</dc:date>
+        <title>容疑者の妻と子どもを移民当局が拘束、親イスラエルのデモ襲撃事件　米コロラド州</title>
+        <link>https://www.cnn.co.jp/usa/35233794.html?ref=rss</link>
+        <description>米コロラド州で親イスラエルのデモ参加者が襲撃された事件に関連して、逮捕された容疑者の家族が移民税関捜査局（ＩＣＥ）に拘束された。米国土安全保障省が３日、ＣＮＮに明らかにした。
+
+エジプト国籍のモハメド・ソリマン容疑者は１日、手製の火炎放射器や火炎瓶で親イスラエルのデモ参加者を襲撃したとして、殺人未遂などの容疑で逮捕された。
+
+裁判書面によると、同容疑者には妻と５人の子どもがいる。この６人の米在留資...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233794.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/c2a6f525d7c2d0407c47fae9665ca779/t/768/512/d/gettyimages-2217579650.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233780.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T09:55:00+09:00</dc:date>
+        <title>マスク氏、トランプ氏主導の法案を酷評　「むかつくほど嫌い」</title>
+        <link>https://www.cnn.co.jp/usa/35233780.html?ref=rss</link>
+        <description>米富豪のイーロン・マスク氏は３日、トランプ大統領が成立を目指す法案を酷評した。トランプ氏は連邦議会上院の共和党議員に対し法案を支持するよう圧力を掛けているが、マスク氏はその内容を「むかつくほど嫌い」と切って捨てた。
+
+「申し訳ないが、これ以上は耐えられない。この大規模で言語道断、バラマキまみれの議会の歳出法案は、むかつくほど嫌いだ」「賛成した人間は恥を知れ。間違いを犯したと自分で分かっているはず...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233780.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/bf3e7d0d3e7ab92b8f614737624ca16b/t/768/432/d/gettyimages-2217852566.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35233782.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T09:29:00+09:00</dc:date>
+        <title>マクロン氏のろう人形が美術館から盗まれる、ロシアへの抗議活動で　パリ</title>
+        <link>https://www.cnn.co.jp/style/arts/35233782.html?ref=rss</link>
+        <description>環境ＮＧＯ「グリーンピース」の活動家は２日、美術館から持ち出したエマニュエル・マクロン仏大統領のろう人形を在パリ・ロシア大使館の外に設置し、両国の継続的なビジネスとマクロン氏の気候変動政策に抗議した。
+
+グリーンピースの声明によれば、活動家が現地時間２日午前１０時半ごろ、パリ中心部にある「グレバン美術館」からマクロン氏の人形を「借りた」という。同美術館は２００人以上の著名人のろう人形を所蔵する。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35233782.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/3f7289a4ab6c0c837a9161af895ff1e6/t/768/432/d/001--3-ukraine-crisis-france-greenpeace.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233774.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T07:57:00+09:00</dc:date>
+        <title>韓国大統領選、革新系野党の李在明氏が勝利</title>
+        <link>https://www.cnn.co.jp/world/35233774.html?ref=rss</link>
+        <description>弾劾（だんがい）・罷免（ひめん）された尹錫悦（ユンソンニョル）前大統領の後任を選ぶ韓国の大統領選が３日行われ、進歩（革新）系最大野党・共に民主党の李在明（イジェミョン）前代表（６０）が当選を確実にした。主要な対立候補の保守系与党・国民の力の金文洙（キムムンス）氏（７３）氏は４日未明に敗北を認めた。
+
+李氏の勝利は、尹氏が戒厳令を宣言して国家を混乱に陥れてからちょうど半年後に訪れた。
+
+選挙管理委員...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233774.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/7fcf5f23e358854d4004d5f0c4a14b31/t/768/432/d/southkorea-election-inauguration.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233776.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T07:38:00+09:00</dc:date>
+        <title>ロシア軍、ウクライナ北部で前進　州都スーミを射程に</title>
+        <link>https://www.cnn.co.jp/world/35233776.html?ref=rss</link>
+        <description>ロシア軍がウクライナ北部スーミ州で前進を続けており、州都スーミをドローン（無人機）や砲撃の射程に捉えたことがわかった。ウクライナ当局者や専門家が明らかにした。
+
+ウクライナ軍の報道官によれば、ロシア軍はスーミ市への進軍を試みている。ロシア軍が砲撃を継続しており、民間人の避難も増えているという。
+
+報道官は「現時点で敵がすでに占領している地域は、前線に沿って約１５キロで、深さは約６～７キロ」と明らか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233776.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/9635b4a24516bfddf24015365e1b44b1/t/768/432/d/rtrmadp-3-ukraine-crisis-attack-sumy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233771.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T06:35:00+09:00</dc:date>
+        <title>ウクライナ、クリミア橋の基礎部分を爆破　「ロシア部隊への補給線」</title>
+        <link>https://www.cnn.co.jp/world/35233771.html?ref=rss</link>
+        <description>ウクライナ保安局（ＳＢＵ）は３日、ロシアの占領下にあるクリミア半島とロシア本土を結ぶ橋の基礎部分を爆破したと発表した。２０２２年にロシアがウクライナに全面侵攻して以降、ウクライナがロシア軍の兵站（へいたん）能力の麻痺（まひ）を狙ってクリミア橋を攻撃するのは３回目。
+
+ＳＢＵによると、車と鉄道が走るクリミア橋の水面下の橋脚部分に仕掛けた爆発物を早朝に爆発させた。計１１００キログラムの爆薬が使用され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233771.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/211713adab78d5e8b7689206b94538b4/t/768/432/d/screenshot-2025-06-03-at-12-32-45-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233772.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-04T06:31:00+09:00</dc:date>
+        <title>ガザ物資配給所付近で３日連続の発砲、２７人死亡　米コンサルが事業撤退</title>
+        <link>https://www.cnn.co.jp/world/35233772.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区の支援物資の配布拠点付近で３日、物資を受け取ろうと向かっていた住民が発砲を受け、少なくとも２７人が死亡した。ガザの保健省などが明らかにした。米国主導の「ガザ人道財団（ＧＨＦ）」が運営する物資配布拠点付近での発砲は３日連続。
+
+保健省によると、南部ラファにある物資配布拠点に向かっていた住民らにイスラエル軍が発砲した。
+
+同軍は声明で、複数回警告射撃を行い、その後部隊に近づいて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233772.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/04/ecb295e77b6ee3e3fc79dfa5c5b8dd0f/t/768/432/d/gettyimages-2217752329.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233762.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-03T18:00:00+09:00</dc:date>
+        <title>エルサレムで２３００年前の黄金の指輪、２個目を発見　ヘレニズム期の解釈に新視点</title>
+        <link>https://www.cnn.co.jp/fringe/35233762.html?ref=rss</link>
+        <description>エルサレム旧市街を取り囲む「エルサレムの壁」国立公園で最近、約２３００年前の黄金の指輪が発見された。約１年前にもよく似た指輪が見つかっていて、未婚女性たちの成人の儀式で意図的に埋められたとも考えられる。
+
+二つの指輪は国立公園南端の丘「ダビデの街」で、大きな建物の土台部分から見つかった。発掘を率いたイスラエル考古学庁のイフタフ・シャレブ氏とテルアビブ大学のユバル・ガドット氏によると、紀元前３世紀...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233762.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/03/d59e18918622d5756f91764dc7f37882/t/768/432/d/5-jpg.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35233752.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-03T17:00:00+09:00</dc:date>
+        <title>制裁下でも欧州を旅行し続けるロシア人、ビザ発給禁止に賛否の声</title>
+        <link>https://www.cnn.co.jp/travel/35233752.html?ref=rss</link>
+        <description>ロシア人インフルエンサーのエゴール・メロ氏は、２０２２年の初めから欧州各地を旅している。
+
+２２年２月にロシアがウクライナへ侵攻した後、ロシアと欧州連合（ＥＵ）間の直行便は運航停止となった。また同年９月には、ＥＵがロシアとのビザ円滑化協定を停止したため、ロシア国民はＥＵへの渡航に際し、より時間と費用のかかるビザ申請手続きを強いられることとなった。
+
+またビザ円滑化協定の停止に伴い、シェンゲンビザ（...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35233752.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/03/0c433d80d8b014d7452128c6a5cf46f4/t/768/513/d/gettyimages-1243906552.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233765.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-03T16:20:00+09:00</dc:date>
+        <title>政治的混乱から半年、大統領選の投票始まる　韓国</title>
+        <link>https://www.cnn.co.jp/world/35233765.html?ref=rss</link>
+        <description>半年前から続く政治的混乱と不確実さ、分断を経て、韓国の有権者は３日、新たな大統領を選ぶための投票を開始した。有権者は、昨年１２月に戒厳令を宣言して民主国家を混乱に陥れ、弾劾（だんがい）・罷免（ひめん）された尹錫悦（ユンソンニョル）前大統領の後任を選ぶことになる。
+
+今回の選挙は格別に重要だとみられている。韓国は米国の同盟国であり、アジアの経済・文化大国だが、尹氏の弾劾裁判とその後の暫定政権で６カ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233765.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/03/f31820262344ef5dec4ae92ca8126bac/t/768/432/d/gettyimages-2218329768.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233756.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-03T15:06:00+09:00</dc:date>
+        <title>ドローンを密輸してロシア空軍基地を攻撃、ウクライナの大胆な作戦はどのように行われたのか</title>
+        <link>https://www.cnn.co.jp/world/35233756.html?ref=rss</link>
+        <description>ウクライナが実施したロシアの飛行場へのドローン（無人機）攻撃は、大胆かつ勇敢なものだった。しかし、何よりも綿密に計画され、完璧に実行された。
+
+ウクライナは、軍用機に損傷を与えたり破壊したりすることで効果を発揮できる場所を攻撃した。ロシアはこうした軍用機を使って、ほぼ毎日空爆を行い、ウクライナの民間人に恐怖を与えてきた。
+
+ウクライナ保安局（ＳＢＵ）は戦略爆撃機や偵察機などロシアの航空機４１機が攻...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233756.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/03/f37cb606886987ae519731686d5e04cc/t/768/432/d/19780333-95350441-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35233755.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-03T14:12:00+09:00</dc:date>
+        <title>トランプ米大統領、米国企業のアップルとマテルに関税の脅し　真の狙いは？</title>
+        <link>https://www.cnn.co.jp/business/35233755.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領が大好きな関税を利用して、米国企業のアップルとマテルに脅しをかけている。
+
+この１カ月の間、トランプ大統領は、この２社の最高経営責任者（ＣＥＯ）の発言をめぐり、それぞれの主力製品を狙い撃ちにして関税の標的に据えてきた。
+
+特定企業を標的とする関税の脅しは法的問題に突き当たる可能性が大きい。米国際貿易裁判所は５月２８日、大統領が議会を通さず一方的に関税を課す権限に対して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35233755.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/03/2a0d6848214c9baf6a8bb17a74b8d035/t/768/432/d/usa-trump-tariffs-apple.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233751.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-03T12:53:00+09:00</dc:date>
+        <title>【分析】プーチン氏、ウクライナとの和平協議で譲歩せず　トランプ氏が動かざるを得ない可能性</title>
+        <link>https://www.cnn.co.jp/world/35233751.html?ref=rss</link>
+        <description>ロシアとウクライナの間には依然として大きな隔たりがある。交戦中の両国はトルコ・イスタンブールで直接の和平協議に望んだが、状況を大きく打開するには至らなかった。
+
+捕虜交換の拡大では合意したものの、多大な犠牲をもたらす陰惨なウクライナ戦争をどうやって終結させるかについて、ロシアとウクライナの立場はなお深く分断されている。
+
+とりわけロシア側は妥協のない姿勢を示した。ウクライナの交渉団に突きつけた覚書...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233751.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/03/7885cb0ffe4158ecceee3cb6b6d08559/t/768/432/d/gettyimages-2215428503.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233753.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-03T12:40:00+09:00</dc:date>
+        <title>世界の氷河の３９％、すでに消失の危機　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35233753.html?ref=rss</link>
+        <description>世界の氷河は危機的状況にあり、たとえ地球の気温上昇が直ちに止まったとしても、総量の約４０％がすでに消失の危機にあることが新たな研究でわかった。
+
+研究者の推計によれば、氷河は最終的に２０２０年と比較して質量の３９％が失われる。これは今後何が起ころうとも不可逆的な傾向であり、世界の海面上昇を１１３ミリ増加させる可能性が高いという。
+
+サイエンス誌に掲載された論文によれば、地球の温暖化を１．５度未満に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233753.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/03/9a82f8e0893eff3518de01796025c641/t/768/432/d/ap22351670865189.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35233754.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-03T12:19:00+09:00</dc:date>
+        <title>訪日客を困らせる「ごみ箱がない」問題　清潔さは評価、でも最大の不満</title>
+        <link>https://www.cnn.co.jp/travel/35233754.html?ref=rss</link>
+        <description>シンガポールで日本について教えている大学教授は、学生を連れて訪日するたびに必ず尋ねられることがある。「なぜごみ箱がどこにもないの？」
+
+増え続ける欧米からの訪日客も首をかしげる。公共の場でごみを捨てる所がないのに、なぜこれほど街がきれいに保たれているのか。
+
+日本政府観光局（ＪＮＴＯ）が今年、日本からの出国者を対象に実施した意識調査によると、訪日客を最も困らせたのはごみ箱の問題だった。
+
+ごみを捨て...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35233754.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/03/6346808e2e8fb188d084779bcf8c7feb/t/768/432/d/gettyimages-1650370729.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233743.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-03T10:18:00+09:00</dc:date>
+        <title>支援物資の配布拠点近くで発砲、死者３１人に　ガザ地区</title>
+        <link>https://www.cnn.co.jp/world/35233743.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で１日に米国主導の「ガザ人道財団（ＧＨＦ）」が運営する支援物資配布拠点近くで発砲があった件で、支援物資を求めて集まったパレスチナ人の群衆が銃撃を受け、少なくとも３１人が死亡した。パレスチナ保健省や病院当局者が明らかにした。
+
+イスラエル軍は、支援拠点の付近や内部で市民に向けて発砲していないと述べた。だが、イスラエル軍の情報筋は、拠点が開く前に、約１キロ離れた場所にいた人物...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233743.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/03/125fbebfdc1779668d92490210317695/t/768/432/d/palestinians-deadly-aid-shooting-0601.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
