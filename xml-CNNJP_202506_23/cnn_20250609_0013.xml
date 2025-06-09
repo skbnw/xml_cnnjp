@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-06-08T18:02:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233993.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35233989.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35233992.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233991.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233988.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233986.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233985.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35233984.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233976.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233983.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233981.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233982.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233979.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233978.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233975.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233974.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233972.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233971.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233970.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233969.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233967.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233966.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233954.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233963.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35233957.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35233958.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35233947.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233945.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35233943.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35233941.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35233993.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T18:02:00+09:00</dc:date>
+        <title>上院議員銃撃で１５歳少年逮捕、大統領は「首謀者」割り出し誓う　コロンビア</title>
+        <link>https://www.cnn.co.jp/world/35233993.html?ref=rss</link>
+        <description>来年のコロンビア大統領選への出馬意思を示していたウリベ上院議員（３９）が首都ボゴタで銃撃された事件で、当局は容疑者として１５歳の少年を逮捕した。ウリベ氏は重体に陥っている。
+
+ウリベ氏は中道右派の最大野党「民主中道党」の所属で、来年の大統領選に出馬する意向を示していた。
+
+検察によると、ウリベ氏は７日午後、ボゴタのフォンティボン地区で２回にわたって撃たれた。警察は容疑者の少年について、逮捕時にグロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233993.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/aa5db5443681b7036a8db59b00e8a2f8/t/768/512/d/gettyimages-2218500987-20250608005351920.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35233989.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T16:47:00+09:00</dc:date>
+        <title>１泊７８０万円から、メイフェア地区のマンダリンホテルにペントハウス新設　英</title>
+        <link>https://www.cnn.co.jp/travel/35233989.html?ref=rss</link>
+        <description>英ロンドン中心部に位置する最高級エリア、メイフェア地区。この地区の半分を見渡す１８０度の眺望の４ベッドスイートを探すのに苦心してないだろうか？
+
+名高いハノーバー・スクエアに１年前開業した五つ星ホテル「マンダリン・オリエンタル・メイフェア」は、まさにうってつけの場所だ。
+
+メイフェアで１０年ぶりとなる新築ホテルに新設されたこのペントハウスなら、床面積４６４平方メートルを超える高級物件を満喫できる。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35233989.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/de8943d1f00ef7beb6d890f93dd49323/t/768/512/d/mandarin-oriental-mayfair-penthouse-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35233992.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T16:45:00+09:00</dc:date>
+        <title>写真特集：１泊７８０万円から、ロンドンのホテルに新設のペントハウス</title>
+        <link>https://www.cnn.co.jp/photo/35233992.html?ref=rss</link>
+        <description>英ロンドン・メイフェア地区にある「マンダリン・オリエンタル・メイフェア」にペントハウスがオープンした。値段は１泊４万ポンド（約７８０万円）から&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35233992.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/2ae1ab1bbc0d26dcbd1cdf6cd267d648/t/768/512/d/mandarin-oriental-mayfair-penthouse-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233991.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T15:55:00+09:00</dc:date>
+        <title>パレスチナ武装組織の指導者が死亡、ハマスの襲撃に参加　イスラエル軍発表</title>
+        <link>https://www.cnn.co.jp/world/35233991.html?ref=rss</link>
+        <description>イスラエル軍は７日、パレスチナ武装組織の指導者アサド・アブ・シャリア容疑者が死亡したと発表した。今回の作戦にはイスラエルの国内諜報（ちょうほう）組織「シンベト」も加わった。同武装組織は、イスラム組織ハマスが２０２３年１０月に実施したイスラエル襲撃に参加していた。
+
+シャリア容疑者は「パレスチナ・ムジャヒディン運動」とその武装組織である「ムジャヒディン旅団」を率いていた。
+
+イスラエル軍によると、シ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233991.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/09e21938d7cc26231553227eb966d24c/t/768/432/d/gettyimages-1746123417.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233988.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T15:05:00+09:00</dc:date>
+        <title>米中通商協議、ロンドンであす開催　閣僚級</title>
+        <link>https://www.cnn.co.jp/usa/35233988.html?ref=rss</link>
+        <description>ドナルド・トランプ米大統領は、米中両国の高官が９日にロンドンで通商協議を再開すると明らかにした。
+
+トランプ氏は自身のＳＮＳ「トゥルース・ソーシャル」への投稿で、「スコット・ベッセント財務長官、ハワード・ラトニック商務長官、ジェミソン・グリア通商代表部（ＵＳＴＲ）代表が６月９日にロンドンで中国側代表と会談し、通商合意について協議することを発表する」と明らかにした。
+
+この発表に先立ち、トランプ氏は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233988.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/31554213eb64b9c9851d0c485bc4648e/t/768/432/d/trumpxi-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233986.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T14:30:00+09:00</dc:date>
+        <title>ロシア・ウクライナの捕虜交換が延期、非難合戦で先行き不透明に</title>
+        <link>https://www.cnn.co.jp/world/35233986.html?ref=rss</link>
+        <description>ロシアとウクライナによる捕虜交換は７日に予定されていたものの実現せず、ロシア政府は交換直前にウクライナが延期したと非難した。ウクライナ当局はこれを「汚い駆け引き」だとして一蹴した。
+
+ロシア側は、捕虜と死亡した兵士の遺体の引き渡しをウクライナが予告なく延期した結果、交換地点では冷凍トラックに収容されたウクライナ兵の遺体１２００体余りが引き取りを待ち続けたと主張した。
+
+ウクライナ側はロシアの説明を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233986.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/d9952aeb0b1ca47692f857e17f31acb6/t/768/432/d/gettyimages-2216154217.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233985.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T14:11:00+09:00</dc:date>
+        <title>マスク氏の行動は薬物使用疑惑に関連か、トランプ氏が側近に質問　情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35233985.html?ref=rss</link>
+        <description>米国のトランプ大統領と実業家のイーロン・マスク氏の蜜月関係が急速に破綻（はたん）したことをめぐり、トランプ氏が側近らに対して、マスク氏の過去４８時間の行動が薬物使用疑惑と関連している可能性があるかどうか質問していたことがわかった。会話に詳しい情報筋がＣＮＮに明らかにした。
+
+情報筋によれば、トランプ氏は内々にマスク氏からの非難を理解しようとしつつ、公の場では気にかけていない姿勢を示そうとしている...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233985.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/97382b3b8c324e67a1180d0d8beb5b56/t/768/432/d/p-3-usa-trump-musk-regulators.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35233984.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T13:46:00+09:00</dc:date>
+        <title>「これで終わりではない」、打倒テスラ運動続く　マスク氏のＤＯＧＥ離脱後も</title>
+        <link>https://www.cnn.co.jp/business/35233984.html?ref=rss</link>
+        <description>米電気自動車（ＥＶ）大手テスラのイーロン・マスク最高経営責任者（ＣＥＯ）は「政府効率化省（ＤＯＧＥ）」を率いる役割から身を引き、今週は大型減税法案を巡りトランプ大統領と全面衝突したが、マスク氏に対する抗議デモは続いている。
+
+マスク氏は昨年の大統領選でトランプ陣営の支援に２億８８００万ドル（現在のレートで約４１７億２０００万円）を投じた。連邦政府のコスト削減プロジェクト「ＤＯＧＥ」から離脱を表明...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35233984.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/aa48338d3227c4bf48c9a3449f18ccba/t/768/432/d/img-0031.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233976.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T13:22:00+09:00</dc:date>
+        <title>女性狙った殺人「フェミサイド」か、不審な包み持つ上司の映像拡散　メキシコ</title>
+        <link>https://www.cnn.co.jp/world/35233976.html?ref=rss</link>
+        <description>メキシコでこのほど、女性を標的にした殺人「フェミサイド」と疑われる事件が発生した。不審な包み持って階段を上る元上司を捉えた監視カメラの映像が拡散しており、検察が調べを進めている。
+
+殺害されたのはグアナフアト州レオンに住み、食料品店で働いていたロレナ・ジャクリーヌ・モラレスさん（２８）。当局によると、５月２３日に家族から行方不明届が出された。
+
+検察によると、モラレスさんの遺体は今月３日、スーツケ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233976.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/748d900bfcb9ab569a1eb8d4054db371/t/768/432/d/gsjoeqywwam5xvj.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233983.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T12:46:00+09:00</dc:date>
+        <title>トランプ米大統領、ロサンゼルスに州兵派遣　移民摘発めぐり抗議デモ</title>
+        <link>https://www.cnn.co.jp/usa/35233983.html?ref=rss</link>
+        <description>米国のトランプ大統領は、移民の摘発に端を発した抗議活動が続く米ロサンゼルスでの暴動を鎮圧するため、州兵２０００人の派遣を命じる大統領覚書に署名した。ホワイトハウスが７日に明らかにした。
+
+カリフォルニア州パラマウントでは同日、デモ参加者を追い払うため、催涙ガスと閃光（せんこう）弾が使用され、４人が逮捕された。同州議会のホセ・ルイス・ソラチェ議員が明らかにした。
+
+ホワイトハウスのレビット報道官は声...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233983.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/2fafe99c721162ea206a99974c664910/t/768/511/d/0011-usa-migration-protest-los-angeles.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233981.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T11:19:00+09:00</dc:date>
+        <title>イスラエル軍、ガザ南部でタイ人人質の遺体収容　最後のタイ人</title>
+        <link>https://www.cnn.co.jp/world/35233981.html?ref=rss</link>
+        <description>２０２３年１０月７日の襲撃で生きたまま拉致されたタイ人の人質ナッタポン・ピンタさん（３５）の遺体が６日、パレスチナ自治区ガザ地区南部での軍事作戦中に収容されたことが分かった。イスラエル軍とイスラエル総保安庁（シンベト）が声明で明らかにした。
+
+イスラエルは数日前、米国系イスラエル人の人質２人の遺体をガザ地区から収容していた。
+
+軍当局者によれば、ピンタさんはイスラエル南部のニルオズ・キブツ（農業共...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233981.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/74295fcb592fc6f2741e28f9d18f1db2/t/768/432/d/xgs1gum-w8aapzzb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233982.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T11:12:00+09:00</dc:date>
+        <title>生後２カ月の子グマを保護、クマの衣装で世話する理由は　米</title>
+        <link>https://www.cnn.co.jp/fringe/35233982.html?ref=rss</link>
+        <description>手袋に毛皮のコート、そして、クマのマスク。こうした服装は前衛的なファッションのように聞こえるかもしれない。だが、実は、米カリフォルニア州サンディエゴの動物愛護協会で親をなくした子グマを育てている飼育員のユニホームだ。
+
+ロス・パドレス国立森林公園で４月、キャンプをしていた人たちが子グマを発見した。カリフォルニア州魚類野生生物局の専門家が母親を見つけられなかったため、協会が子グマを引き取った。
+
+協...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233982.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/376dbdc93f0b396da8e558982495321d/t/325/432/d/bear-cub-242549-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233979.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T09:37:00+09:00</dc:date>
+        <title>コロンビア大統領候補、首都で銃撃受ける　容疑者逮捕</title>
+        <link>https://www.cnn.co.jp/world/35233979.html?ref=rss</link>
+        <description>コロンビア国家警察によると、大統領選候補のミゲル・ウリベ氏が７日、首都ボゴタでのイベントで銃撃された。
+
+ボゴタのガラン市長によると、ウリベ氏はフォンティボン地区で襲撃され、救急手当てを受けている。搬送が必要になった場合に備え、ボゴタの「病院ネットワーク全体」が警戒態勢に入っているという。
+
+市長は襲撃の容疑者が逮捕されたことも明らかにした。
+
+コロンビアのペトロ大統領はＸ（旧ツイッター）で家族への...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233979.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/ac5f7e159dc279f3ebf78cbbea595283/t/768/432/d/gettyimages-1590526376.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233978.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-08T08:41:00+09:00</dc:date>
+        <title>トランプ大統領、マスク氏が民主党候補支援なら「深刻な結果」と警告</title>
+        <link>https://www.cnn.co.jp/usa/35233978.html?ref=rss</link>
+        <description>トランプ米大統領は、自身の掲げる減税法案に賛成票を投じた共和党議員を標的にして実業家のイーロン・マスク氏が民主党候補を資金面で支援する場合、非常に深刻な結果に直面することになると警告した。ＮＢＣニュースとの電話インタビューで語った。
+
+トランプ氏は、「もし、マスク氏がそうしたら、そのときは非常に深刻な代償を払うことになるだろう」とＮＢＣの記者に語った。
+
+トランプ氏は、マスク氏との関係について「事...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233978.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/08/31f027e44f0edb6871d48b4582e84f59/t/768/512/d/gettyimages-2217125941-20250604162948664.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233975.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-07T18:48:00+09:00</dc:date>
+        <title>ウクライナ第２の都市ハルキウに攻撃、３人死亡　「最大規模の攻撃」と市長</title>
+        <link>https://www.cnn.co.jp/world/35233975.html?ref=rss</link>
+        <description>ロシアは７日未明、ウクライナ第２の都市ハルキウに対して大規模攻撃を実施した。ハルキウの市長が明らかにした。ロシアは前日、今回の戦争で最大規模となる攻撃を行っていた。
+
+ロシアはここ数日、ウクライナに対する広範な攻撃を続けている。ウクライナの大胆なドローン（無人機）作戦でロシアの戦略巡航ミサイル搭載機の３分の１あまりが無力化したことへの報復とみられている。
+
+ハルキウはロシアとの国境から約３０キロに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233975.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/07/55f66c02dd2be7c30615b3bdfcab20ff/t/768/432/d/gxeaopan2-rtrmadp-3-ukraine-crisis-attack-kharkiv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233974.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-07T18:25:00+09:00</dc:date>
+        <title>【分析】ロシアの爆撃機狙ったウクライナの大規模ドローン攻撃、米軍基地の脆弱性も浮き彫りに</title>
+        <link>https://www.cnn.co.jp/world/35233974.html?ref=rss</link>
+        <description>ロシアの戦略爆撃機を狙ったウクライナによる衝撃的なドローン（無人機）攻撃を受け、複数の将官やアナリストが高価値の米航空機に対する脅威について改めて検証している。こうした航空機は米本土や海外の基地に配備されているが、その状況は憂慮すべきものだ。
+
+デービッド・オールビン米空軍参謀長は、３日にワシントンで開かれた国防会議で現状への不安を吐露。米国は同様の攻撃に対して脆弱（ぜいじゃく）だと明言した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233974.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/07/dd225b353294b9e19533e7d1f384cccf/t/768/432/d/11-after-drone-strike-close.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233972.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-07T14:50:00+09:00</dc:date>
+        <title>「高さ世界一」の鉄道橋開通、モディ印首相が式典出席　カシミールの係争地</title>
+        <link>https://www.cnn.co.jp/world/35233972.html?ref=rss</link>
+        <description>インドとパキスタンが領有権を争うカシミール地方で６日、高さ世界一の鉄道橋が開通し、インドのモディ首相が式典に出席した。カシミール地方のインド支配地域では数週間前、観光客虐殺事件をきっかけに隣国パキスタンとの短い衝突が発生したばかり。
+
+モディ氏がカシミール地方のインド支配地域を訪れるのは、印パ間で短期衝突が発生してから初めて。インドは虐殺の責任は隣国パキスタンにあると主張し、パキスタンは否定した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233972.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/07/2c1c9b8b7b3e47ed426332c817ca8e88/t/768/432/d/gettyimages-2162585792.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233971.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-07T14:00:00+09:00</dc:date>
+        <title>米極右団体「プラウドボーイズ」のメンバー、司法省を提訴　議事堂襲撃関連の訴追巡り</title>
+        <link>https://www.cnn.co.jp/usa/35233971.html?ref=rss</link>
+        <description>２０２１年１月６日の米連邦議会議事堂襲撃事件に関連する複数の罪状で有罪判決を受けた極右団体「プラウドボーイズ」のメンバーが、「政治的迫害」を被ったとして司法省を提訴している。
+
+メンバーらは後にトランプ大統領によって恩赦、減刑された。
+
+提訴した人々には、プラウドボーイズのかつての指導者も複数含まれる。彼らは議事堂襲撃事件での訴追について「甚大で組織的な司法制度並びに合衆国憲法の乱用」に相当すると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233971.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/07/fc58dc586478b14bf0ed156b91a53917/t/768/432/d/usa-election-protest.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233970.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-07T13:05:00+09:00</dc:date>
+        <title>トランプ氏とマスク氏決裂、側近が仲介試みるも「エプスタイン文書」疑惑で暗礁に</title>
+        <link>https://www.cnn.co.jp/usa/35233970.html?ref=rss</link>
+        <description>トランプ米大統領と実業家イーロン・マスク氏が決裂した５日。板挟みとなった複数の側近は和解を仲介しようと慎重に動いていたが、そうした水面下のやり取りはＸ（旧ツイッター）への１本の投稿で打ち砕かれた。
+
+マスク氏は「大きな爆弾を落とす時が来た。＠ｒｅａｌＤｏｎａｌｄＴｒｕｍｐはエプスタイン文書に名を連ねている。文書が一般公開されていない真の理由はそれだ。良い１日を、ＤＪＴ！」と書き込み、双方に近い関...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233970.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/07/ae5d24b0ffdc28cc4fccf9aadf6b1c07/t/768/512/d/gettyimages-2205676057.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233969.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-07T12:00:00+09:00</dc:date>
+        <title>英国沖で１９世紀の沈没船発見、長年の海事の謎が明らかに </title>
+        <link>https://www.cnn.co.jp/fringe/35233969.html?ref=rss</link>
+        <description>１４０年前に沈んだ１９世紀の船舶がこのほど、「時が止まったかのような」状態のまま英国沖で発見された。
+
+当該の船舶「ＳＳナンテス」は、１８８８年１１月にコーンウォール沖で沈没。乗組員２３人が死亡した。船の残骸の所在はこれまで謎に包まれていた。
+
+素晴らしい発見は、ダイバーのドム・ロビンソンさん（５３）が水に沈んだ遺物の中から食器の破片を見つけたことがきっかけだった。
+
+破片を陸へ持ち帰ってみると、そ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233969.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/07/2f748c87c88587b2d915fb8ded9246a3/t/768/432/d/dsc-2156-20250606114205513.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233967.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-07T10:55:00+09:00</dc:date>
+        <title>誤ってエルサルバドル送還、アブレゴガルシア氏が米国に帰国　刑事訴追に直面</title>
+        <link>https://www.cnn.co.jp/usa/35233967.html?ref=rss</link>
+        <description>ボンディ米司法長官は６日、３月中旬に誤ってエルサルバドルへ強制送還された米メリーランド州在住のキルマー・アブレゴガルシア氏が、連邦刑事訴追を受けるため米国に戻されたと明らかにした。
+
+トランプ政権はアブレゴガルシア氏の帰国を「促進」させるよう求める裁判所命令をめぐり、数カ月にわたって連邦司法当局と激しく対立してきた。連邦判事の一人はこの状況について、行政府と司法府の間の「危機の発端」になりかねな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233967.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/07/925bdda83abe298186c9b8be735a34d0/t/768/433/d/thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233966.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-07T09:20:00+09:00</dc:date>
+        <title>トランプ氏、マスク氏のことは「考えてもいない」とＣＮＮに発言　当面話さない方針</title>
+        <link>https://www.cnn.co.jp/usa/35233966.html?ref=rss</link>
+        <description>トランプ米大統領は６日、ＣＮＮの取材に応じ、関係が悪化した富豪イーロン・マスク氏のことは「考えてもない」と述べ、マスク氏と話すことは当面ないとの見通しを示した。
+
+トランプ氏は短い電話で「イーロンのことは考えてもいない。彼は問題を抱えている。哀れなあの男には問題がある」と述べた。
+
+この前日、トランプ氏とマスク氏はＳＮＳ上で応酬を繰り広げ、関係悪化が衆目にさらされていた。
+
+トランプ氏は５日、マスク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233966.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/07/90193e5619f91de5c8f3e0130302e794/t/768/432/d/ap25156745321442.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233954.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-06T18:34:00+09:00</dc:date>
+        <title>賢さで知られるキバタン、飲用噴水操作して水飲む行動を研究　豪シドニー</title>
+        <link>https://www.cnn.co.jp/fringe/35233954.html?ref=rss</link>
+        <description>オーストラリアに広く分布するオウムの一種、キバタンは、まず蓋（ふた）付きのごみ箱を開けて食べ物をあさることを覚えた。今は一歩踏み込んで、飲用噴水の出し方を突き止め、食べ物を水で流し込んでいる。
+
+白い体に黄色いとさかが特徴的なキバタンは、甲高い金切り声で鳴くことで知られる。一方で大変に知能が高く、器用な足先を駆使して都市環境で生き延びるための新たな習性を身に着けてもいる。
+
+とりわけシドニー西部の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233954.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/06/1b30d5206626a9e0e375c5e4a093f112/t/768/432/d/photo-1-fountain-usage.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233963.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-06T17:44:00+09:00</dc:date>
+        <title>北朝鮮、横倒しになっていた駆逐艦の進水に成功　アナリストらに衝撃</title>
+        <link>https://www.cnn.co.jp/world/35233963.html?ref=rss</link>
+        <description>北朝鮮は、先月進水時に横倒しになった新型駆逐艦の進水作業に成功したと発表した。国営メディアによると、損傷した駆逐艦は修復のため別の造船所の乾ドックに移される予定だという。
+
+国営朝鮮中央通信（ＫＣＮＡ）は、「６月初めに駆逐艦のバランスを回復させた後、チームが５日午後に安全に進水作業を実施し、埠頭（ふとう）に係留した」と報じた。
+
+プラネット・ラボが５日に撮影した衛星写真には、横倒しになっていた駆逐...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233963.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/06/f0dffad9cb05a6b2faf5adae3fa238bc/t/768/432/d/nkorea-16x9-kju.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35233957.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-06T17:39:00+09:00</dc:date>
+        <title>エルメスの初代「バーキン」バッグが競売に、ジェーン・バーキンに触発</title>
+        <link>https://www.cnn.co.jp/style/fashion/35233957.html?ref=rss</link>
+        <description>セレブのステータスシンボルとして世界で憧れの的になっているエルメスのバッグ「バーキン」。その原型となった初代バーキンが来月、フランスの首都パリで競売に掛けられる。
+
+容量たっぷりのサドルステッチのハンドバッグは、２０２３年に亡くなった俳優で歌手のジェーン・バーキンに触発されたもの。競売会社サザビーズは５日の声明でこのバッグに触れ、来月１０日に予定されるサザビーズの競売「ファッション・アイコンズ」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35233957.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/06/f8212a871505749137522bd32ac7b394/t/768/613/d/shutterstock-editorial-255529e.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35233958.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-06T17:03:00+09:00</dc:date>
+        <title>未熟児の女の子が感染症で負った重傷、敗血症を起こすも「魚の皮」で劇的な治癒　米</title>
+        <link>https://www.cnn.co.jp/fringe/35233958.html?ref=rss</link>
+        <description>クリスタル・デボスさんは、幼い娘エリアナちゃんが人形で遊ぶ姿を感極まった表情で見つめる。
+
+デボスさんはエリアナちゃんを「小さな人魚姫と呼んでいる」。生後間もなく首に深い傷を負ったエリアナちゃんは、魚の皮の治癒力のおかげで回復したからだ。
+
+エリアナちゃんは約３年前に妊娠２３週、わずか４５０グラムほどで生まれた。新生児集中治療室で過ごした１３１日の間に、命に関わる感染症を首に発症し、重傷を負った。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35233958.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/06/4da77a054f6ed4e4ef54c0f490ec4a65/t/768/512/d/img-2854.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35233947.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-06T14:36:00+09:00</dc:date>
+        <title>【分析】トランプ米大統領と交わした激論、マスク氏が圧勝？　ＳＮＳの威力見せつけ</title>
+        <link>https://www.cnn.co.jp/business/35233947.html?ref=rss</link>
+        <description>最高ＳＮＳ司令官のドナルド・トランプ米大統領は、かつて大好きだったＳＮＳプラットフォームのＸ（旧ツイッター）を握るイーロン・マスク氏相手に、ついに敗北を喫したのかもしれない。
+
+マスク氏は５日、自身のＸアカウントを政治的武器のように利用して、矢継ぎ早にトランプ大統領を攻撃した。過去にバイデン前大統領など民主党陣営を激しく非難したのと同じやり方だった。
+
+トランプ氏も、はるかに規模が小さい自身のＳＮ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35233947.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/06/10c03cfa2289cceed845488e855f7903/t/768/432/d/gettyimages-2217853024-20250605203958411.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233945.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-06T13:26:00+09:00</dc:date>
+        <title>ドローン攻撃の現場に駆けつけたウクライナ消防士、妻・娘・孫３世代の死を目の当たりに</title>
+        <link>https://www.cnn.co.jp/world/35233945.html?ref=rss</link>
+        <description>ウクライナ中部プリルキを夜間に襲ったロシアの攻撃。現場に出動した地元消防署長と消防士らが目にしたのは、ドローン（無人機）が住居ビルに直撃して５人が死亡、９人が負傷した光景だった。
+
+犠牲者の中には消防署長の妻と娘、生後まもない孫が含まれていた。
+
+ウクライナ国家警察は５日の声明で「３世代…どんな言葉をもってしても、この痛みを和らげることはできない」と述べ、消防署長の娘で警察官だったダリナ・シギダさん...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233945.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/06/ec8406920c130558f7926681ca20535f/t/768/432/d/ukraine-crisis-attack-pryluky.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35233943.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-06T12:30:00+09:00</dc:date>
+        <title>「ａ―ｈａ」ボーカルのモートン・ハルケットさん、パーキンソン病を公表</title>
+        <link>https://www.cnn.co.jp/showbiz/35233943.html?ref=rss</link>
+        <description>１９８５年のヒット曲「テイク・オン・ミー」で知られるノルウェー出身のポップバンド「ａ―ｈａ」のボーカル、モートン・ハルケットさん（６５）がパーキンソン病を患っていることを公表した。バンドの伝記作家とのインタビューの中で明らかにした。
+
+「診断を受け入れることには何の問題もなかった」とハルケットさんは語る。「時が経つにつれ、体が徐々に衰えていくことに向き合う９４歳の父の姿勢を心に刻むようになった。『...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35233943.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/06/19f471ac8a61f64ecbafdcf1858c6a1a/t/768/432/d/ap22181504110589.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35233941.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-06T12:06:00+09:00</dc:date>
+        <title>米国防総省、重要な対ドローン技術をウクライナから転用　中東の米軍へ振り向け</title>
+        <link>https://www.cnn.co.jp/usa/35233941.html?ref=rss</link>
+        <description>米国防総省はこのほど、ウクライナに割り当てられていた重要な対ドローン（無人機）技術を中東の米空軍部隊に転用すると議会に通告した。ＣＮＮが入手した通信文書と、この件に詳しい関係者の話から分かった。
+
+この動きは、トランプ大統領の下で米国の国防の優先順位が中東や太平洋方面へと変化していること、そして防衛部品の備蓄がますます不足していることを反映している。
+
+上院と下院の軍事委員会に送られた５月２９日付...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35233941.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/06/a052d6cea6a3536835cc0247363bf07e/t/768/432/d/ukraine-crisis-air-defence.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
