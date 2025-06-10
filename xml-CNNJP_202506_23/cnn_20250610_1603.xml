@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-06-10T20:21:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234082.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234081.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234069.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234076.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234051.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234061.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35234056.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234050.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35234052.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234047.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234049.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234046.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35234040.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234043.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35234038.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234036.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234033.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234030.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234032.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35233973.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234025.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234023.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35234022.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234016.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35233998.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234012.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234013.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234002.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234005.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234007.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35234082.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T20:21:00+09:00</dc:date>
+        <title>グレタ・トゥンベリさん、フランス行きの飛行機でイスラエルを出国</title>
+        <link>https://www.cnn.co.jp/world/35234082.html?ref=rss</link>
+        <description>スウェーデンの環境活動家グレタ・トゥンベリさんが１０日、フランス行きの飛行機でイスラエルを出国した。トゥンベリさんは、パレスチナ自治区ガザ地区に支援物資を届けようとしていた船舶「マドリーン号」に乗船していた他の活動家らとともにイスラエル軍に拘束されていた。
+
+イスラエル外務省はＸ（旧ツイッター）に「グレタ・トゥンベリさんは、フランス経由スウェーデン行きの飛行機でイスラエルを出国した」と投稿。搭乗...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234082.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/8caf426298ed288f00e66ff821a16628/t/768/432/d/2025-06-10t080059z-685187748-rc2jzeau0sfd-rtrmadp-3-israel-palestinians-gaza-ship.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234081.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T19:47:00+09:00</dc:date>
+        <title>オーストリア南部の高校で銃撃、８人死亡</title>
+        <link>https://www.cnn.co.jp/world/35234081.html?ref=rss</link>
+        <description>オーストリア南部グラーツで１０日、高校で銃撃があり、１０代の若者を含む８人が死亡した。当局が明らかにした。
+
+オーストリア内務省はＣＮＮに対し、事件について確認し、犠牲者には１４歳から１８歳の子どもが含まれていると述べた。内務省とオーストリア警察によると、犯人も死亡し、学校の安全は確保されたという。
+
+現地時間午前１０時ころ、同市北西部の高校で「複数回」の銃撃があったとの通報を受け、現場には複数の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234081.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/8ee9effaa697754678799cdfe17b372d/t/768/432/d/gettyimages-2218892094.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234069.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T18:50:00+09:00</dc:date>
+        <title>ロサンゼルスで抗議しているのはどんな人々なのか</title>
+        <link>https://www.cnn.co.jp/usa/35234069.html?ref=rss</link>
+        <description>エストレラズル・コーラルさんは週末、ロサンゼルス中心部にある拘留センター外での抗議活動に連日参加し、数十人の移民らへの正義を求めた。これらの移民は、武装した移民税関捜査局（ＩＣＥ）の職員に拘留されている。装甲車両に乗った職員らは、中南米系の多い市内のオフィスを標的にしていた。
+
+コーラルさんによれば、平和的なデモが数時間続いた後、州兵が反撃を始めた。コーラルさんはソーシャルワーカーで、主に住居や...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234069.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/a434e359d3098c3788dab26bb9e144fa/t/768/432/d/usa-migration-los-angeles.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234076.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T18:20:00+09:00</dc:date>
+        <title>ロシア、ウクライナにドローン３１５機攻撃　ゼレンスキー氏「首都に対する最大規模の攻撃」</title>
+        <link>https://www.cnn.co.jp/world/35234076.html?ref=rss</link>
+        <description>ロシアは１０日にかけてウクライナに向け３１５機のドローン（無人機）を発射した。ウクライナのゼレンスキー大統領は、この攻撃について首都キーウに対する「最大規模」の攻撃だと述べた。南部オデーサの地元当局も、産科病棟が攻撃を受けたと報告している。
+
+キーウの軍政責任者ティムール・トカチェンコ氏によると、ロシアの攻撃により同市の七つの地区が被害を受け、高層ビルや住宅、車両、倉庫が焼失した。
+
+キーウのクリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234076.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/9bf9b67e8dd48e0b0be1029822e78b90/t/768/432/d/2025-06-10t034243z-339917532-rc2dzean6ftu-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234051.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T16:38:00+09:00</dc:date>
+        <title>ウクライナの大規模ドローン攻撃に報復誓うプーチン氏、現状残された手段は</title>
+        <link>https://www.cnn.co.jp/world/35234051.html?ref=rss</link>
+        <description>３年以上にわたり、ロシアは自軍の爆撃機を使ってウクライナに激しい空爆を行ってきた。今月１日、ウクライナ軍はこれらの爆撃機を狙うことで報復した。
+
+１年半がかりで準備したドローン（無人機）の大規模攻撃「クモの巣」作戦で、ウクライナはロシア国内に配備されていた爆撃機少なくとも１２機を破壊した。
+
+作戦はウクライナの士気を大いに高めたが、国民の多くはロシアによる報復を覚悟した。実際、プーチン氏は４日、ト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234051.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/9e1e1dd6e1bfb0a306c2aa276c575a67/t/768/432/d/gettyimages-2216966961.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234061.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T15:17:00+09:00</dc:date>
+        <title>ウクライナとロシアが捕虜交換を実施、戦争のほぼ全期間捕虜だった兵士も</title>
+        <link>https://www.cnn.co.jp/world/35234061.html?ref=rss</link>
+        <description>ウクライナとロシアの間で９日、新たな捕虜交換が始まった。両国の当局者が明らかにした。帰還者の中には戦争のほぼ全ての期間を捕虜として過ごしたウクライナ兵も含まれる。
+
+捕虜の交換については、先週トルコで行われた交渉の中で合意に達していた。２５歳未満や重傷者が対象となっている。ウクライナのゼレンスキー大統領がＳＮＳで明らかにした。
+
+捕虜交換をめぐっては、ロシア政府が週末に、ウクライナ側が遅らせている...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234061.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/bfdb93a899caaf5ad1928e331b2fb28a/t/768/432/d/2025-06-09t152113z-1434432806-rc20zea5z53y-rtrmadp-3-ukrane-crisis-prisoners.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35234056.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T14:23:00+09:00</dc:date>
+        <title>マスク氏、トランプ氏へ歩み寄り　米ＬＡの移民摘発抗議デモきっかけに</title>
+        <link>https://www.cnn.co.jp/business/35234056.html?ref=rss</link>
+        <description>米実業家イーロン・マスク氏は先週、トランプ大統領の弾劾（だんがい）を呼びかけた。ところが今週になって同氏は誰もが知る決裂を経て、政権を称賛する姿勢に戻り、態度を軟化させた。
+
+この急変は、カリフォルニア州ロサンゼルスで移民税関捜査局（ＩＣＥ）が滞在資格のない移民の一斉摘発を行ったことをきっかけとした抗議デモをめぐって起きた。
+
+マスク氏は週末、トランプ氏に対する特に過激な投稿のいくつかをＸ（旧ツイ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35234056.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/cb983d88dc82728dacac894e6a5567ed/t/768/432/d/gettyimages-2217852297.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234050.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T13:29:00+09:00</dc:date>
+        <title>ケネディ米保健福祉省長官、ワクチン諮問委員１７人全員解任　「利益相反ある」</title>
+        <link>https://www.cnn.co.jp/usa/35234050.html?ref=rss</link>
+        <description>米保健福祉省のロバート・ケネディ・ジュニア長官は９日、疾病対策センター（ＣＤＣ）の予防接種実施諮問委員会（ＡＣＩＰ）の全委員１７人を解任し、新たなメンバーに交代させると発表した。ウォールストリート・ジャーナル紙への論説で明らかにした。同委員会が「利益相反を抱えている」ことを理由に挙げている。
+
+ＡＣＩＰはＣＤＣに対しワクチン接種日程や予防接種の必要な対象範囲について助言する役割を担う。ケネディ氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234050.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/d4bfc25acf025985ddaf5f2f507efab4/t/768/432/d/gettyimages-2216099148.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35234052.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T13:00:00+09:00</dc:date>
+        <title>ＡＩで通話を同時通訳、詐欺防止も　外観は新デザイン採用　米アップル発表会</title>
+        <link>https://www.cnn.co.jp/tech/35234052.html?ref=rss</link>
+        <description>米アップルは９日、カリフォルニア州クパティーノの本社で始まった年次開発者会議（ＷＷＤＣ）で、人工知能（ＡＩ）を主力の全製品に搭載して電話の同時通訳や検索機能の向上に活用する計画を発表した。
+
+今回の発表会は、複合現実（ＭＲ）ヘッドセットの「Ａｐｐｌｅ　Ｖｉｓｉｏｎ　Ｐｒｏ（アップル・ビジョン・プロ）」や同社独自ＡＩの「アップルインテリジェンス」を披露した過去２年と比べると、華々しさに欠ける印象だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35234052.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/1c2e3663296be98c0035f5c9bf6ebe24/t/768/432/d/001-3-apple-developers.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234047.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T12:35:00+09:00</dc:date>
+        <title>ガザへの支援物資搬入は危機的状況　飢餓が拡大、略奪も急増</title>
+        <link>https://www.cnn.co.jp/world/35234047.html?ref=rss</link>
+        <description>イスラエルによるパレスチナ自治区ガザ地区の封鎖は部分的に解除された可能性があり、米国による新たな支援計画が始まった。だが、ガザの住民の状況が急速に悪化していることを示す兆候も出てきている。
+
+国連やその他の支援機関によれば、イスラエル軍による支援ルートの制限や継続的な空爆、治安の欠如、数万人の継続的な避難が、すでに憂慮すべき状況をさらに悪化させている。実際に搬送された支援物資も略奪の危険にさらさ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234047.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/3e337100b40762028e895afba95a0244/t/768/432/d/001-gettyimages-2217646049.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234049.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T11:55:00+09:00</dc:date>
+        <title>逃げたシマウマ捕獲、ヘリを使って空輸　米テネシー州</title>
+        <link>https://www.cnn.co.jp/fringe/35234049.html?ref=rss</link>
+        <description>米南部テネシー州で８日、飼い主から逃げ出していたシマウマが捕獲された。これを受けて地元の保安官事務所は異例の任務を割り当てられた。ヘリコプターを使ってのシマウマの空輸だ。
+
+逃走していたシマウマは「エド」。飼い主が購入した翌日に行方不明となっていた。ロイター通信が伝えた。エドが捕獲されるまでには約１週間を要した。エドはヘリコプターで、待機している動物用のトレーラーへと運ばれた。
+
+エドは現在、飼い...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234049.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/69a9256499f4113371610cb3d37d153c/t/768/432/d/112544-zebra-airlift-tennessee-v1-00-00-12-22-still003.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234046.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T11:12:00+09:00</dc:date>
+        <title>１万２０００人超の卒業生が結集、米ハーバード大支持の意見書を提出</title>
+        <link>https://www.cnn.co.jp/usa/35234046.html?ref=rss</link>
+        <description>米連邦政府の助成金２２億ドル（約３１８０億円）を凍結されたハーバード大学がトランプ政権を相手取って起こした裁判で、１万２０００人あまりの卒業生が署名した同大支持の第三者意見書が９日、裁判所に提出された。
+
+意見書には１９５０年から２０２５年までの卒業生が署名。ウィスコンシン州のビール醸造家やコメディアンのコナン・オブライエン氏、オハイオ州の戦闘機パイロット、作家のマーガレット・アトウッド氏、サウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234046.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/c7eb63cd04a3b79cf79eef4d6badb28e/t/768/432/d/c-gettyimages-2216836632.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35234040.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T10:25:00+09:00</dc:date>
+        <title>ボクシング世界王者、トランプ氏をウクライナに招待　「目を開けて人々を助けて」</title>
+        <link>https://www.cnn.co.jp/showbiz/35234040.html?ref=rss</link>
+        <description>ボクシングのヘビー級３団体統一王者オレクサンドル・ウシク選手は１０日までにＣＮＮのインタビューに答え、米国のドナルド・トランプ大統領に対し、ロシアの全面侵攻との戦いを続けるウクライナへの支援を呼び掛けた。
+
+「トランプ大統領、どうか目を開き、私の国民を助けてください」と、ウシク選手は語った。
+
+ヘビー級のＷＢＣ、ＷＢＡ、ＷＢＯ王者であるウシク選手は、米大統領選でトランプ氏が２４時間以内に戦争を終わ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35234040.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/09/e97e911bd157feea3070b39aff6dff34/t/768/432/d/thumbnail-004.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234043.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T09:44:00+09:00</dc:date>
+        <title>「州兵の派遣は違憲」　米カリフォルニア州、トランプ政権を提訴</title>
+        <link>https://www.cnn.co.jp/usa/35234043.html?ref=rss</link>
+        <description>米カリフォルニア州のギャビン・ニューサム知事は９日、ロサンゼルスの抗議デモ対応のためトランプ政権が州兵を派遣したのは違憲だと訴え、今後の配備差し止めを求めてトランプ政権を提訴した。
+
+訴えはドナルド・トランプ大統領、ピート・ヘグセス国防長官および国防総省を相手取り、サンフランシスコの連邦裁判所に起こされた。トランプ大統領にカリフォルニア州兵派遣の権限はないと主張している。
+
+これに対してアナ・ケリ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35234038.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T09:22:00+09:00</dc:date>
+        <title>ファンクミュージックのパイオニア、スライ・ストーンさんが死去　８２歳</title>
+        <link>https://www.cnn.co.jp/showbiz/35234038.html?ref=rss</link>
+        <description>強い影響力を持ちながらも謎めいた雰囲気を漂わせるファンク・ロックのスター、スライ・ストーンさんが死去した。８２歳だった。家族が９日に発表した。ソウルフルで社会を意識したストーンさんの楽曲はポピュラー音楽の流れをも変えることになったが、自身は突然表舞台から退き、「ロック界のＪ．Ｄ．サリンジャー」とも称された。
+
+家族の声明によると、ストーンさんはＣＯＰＤ（慢性閉塞＜へいそく＞性肺疾患）やその他の基...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35234038.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/4e594b629ea9e83eb2df9844d13e144d/t/768/533/d/c-gettyimages-121167425.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234036.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T08:17:00+09:00</dc:date>
+        <title>活動家乗船のガザ支援船拿捕、拘束した乗船者をイスラエルに搬送　外務省発表</title>
+        <link>https://www.cnn.co.jp/world/35234036.html?ref=rss</link>
+        <description>スウェーデンの環境活動家グレタ・トゥンベリさんらを乗せてパレスチナ自治区ガザ地区へ向かっていた船舶をイスラエル軍が阻止した件で、イスラエル外務省は、拘束した乗船者をアシュドッド港に搬送したと発表した。
+
+ガザに支援物資を届けようとしていた「マドリーン号」にはトゥンベリさんら活動家が乗船していた。イスラエル外務省によれば、乗船者は９日夜に健康診断を受けた。
+
+同船を運航する「自由船隊連合（ＦＦＣ）」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234036.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/290e81e85c4b645a1d596374359862ab/t/768/432/d/hztl-112543-thumb-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234033.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T08:02:00+09:00</dc:date>
+        <title>ウクライナの著名なオペラ歌手、スーミ州でのボランティア活動中に死亡</title>
+        <link>https://www.cnn.co.jp/world/35234033.html?ref=rss</link>
+        <description>ウクライナの著名なオペラ歌手、ウラジスラフ・ホライ氏が、同国北部スーミ州でのボランティア活動中に死亡した。同州では領土をめぐる最前線での戦闘が続いている。
+
+ホライ氏はオデーサ国立歌劇場のソリストだった。同歌劇場は声明で、ホライ氏は「ワールドクラスのテノール歌手」であり、「ウクライナの名誉ある芸術家」であり、その歌声は世界中に知られていたと述べた。
+
+８日にフェイスブックへ投稿された声明は、「この...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234033.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/ae1819bf7e158eb5535e6231bfa16091/t/768/432/d/468042121-10229602011568789-5187063461399464687-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234030.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T07:03:00+09:00</dc:date>
+        <title>米海兵隊員７００人動員、移民摘発抗議デモへの対応　情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35234030.html?ref=rss</link>
+        <description>米カリフォルニア州ロサンゼルスで発生した滞在資格のない移民の一斉摘発に抗議するデモへの対応として、海兵隊員７００人以上が動員された。同州の海兵隊空地戦闘センターを拠点とするこれらの隊員は、トランプ大統領が週末にかけて配備した州兵数千人に加わる。事情に詳しい人物３人が明らかにした。州兵の配備はカリフォルニア州知事やロサンゼルス市長の同意を得ていない。
+
+海兵大隊全員の配備は、トランプ氏による軍の使...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234030.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/fdcdc4f3d8ca5b0dc1f1d3fc19f04d88/t/768/512/d/2021-03-11t140045z-894655815-rc229m9786ju-rtrmadp-3-usa-defense.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234032.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-10T06:40:00+09:00</dc:date>
+        <title>小型機が海上に墜落、６人死亡　米サンディエゴ</title>
+        <link>https://www.cnn.co.jp/usa/35234032.html?ref=rss</link>
+        <description>米連邦航空局（ＦＡＡ）は９日、小型機が米カリフォルニア州サンディエゴの沖合に墜落し、搭乗していた６人が死亡したと発表した。
+
+操縦士１人と乗客５人を乗せたセスナ４１４型機は８日午後、サンディエゴ国際空港を離陸した直後に太平洋に墜落した。
+
+航空管制傍受サイト「ＬｉｖｅＡＴＣ．ｎｅｔ」が公開した交信記録によると、離陸から約５分後、操縦士が緊急信号を発し、針路と上昇の維持に苦慮していると管制官に伝えて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234032.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/10/3653d0debb1d44cb9ca26f78ef527d48/t/768/432/d/still-21689273-25957-333-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35233973.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-09T17:49:00+09:00</dc:date>
+        <title>完璧さよりも希少性、宝石ブランドが「醜い」石を売り出す理由</title>
+        <link>https://www.cnn.co.jp/style/luxury/35233973.html?ref=rss</link>
+        <description>宝石商はこれまで長年、「ＩＦ （インターナリーフローレス）タイプ２ａ」 のような科学的に厳密な用語を用いて、宝石の透明度やカットを重視する姿勢を強く打ち出してきた。この用語は１０倍に拡大しても内包物が見えないほど高純度なダイヤを指す。ファセット（研磨面）がより鋭く、輝きが完璧であればあるほど、価値が高い宝石だと従来は見られていた。
+
+あくまでこれまでは、の話だ。かつて傷が多すぎる、色が暗すぎる、変...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35233973.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/07/73ec53a09bcb9b74e59f41f2c7c3be04/t/768/512/d/pomellato-light-blue-reef-riviere-necklace-making.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234025.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-09T17:09:00+09:00</dc:date>
+        <title>進水失敗の北朝鮮駆逐艦、修復にロシアが関与か　国境付近に移動</title>
+        <link>https://www.cnn.co.jp/world/35234025.html?ref=rss</link>
+        <description>北朝鮮が、進水に失敗して損傷した新型駆逐艦をロシア国境付近の港に移動させたことがわかった。専門家によれば、今回の動きは、駆逐艦の修復にロシアが関与した可能性があることを示唆している。
+
+マクサー・テクノロジーズが８日に撮影した衛星画像には、北朝鮮の羅先経済特区にある羅津（ラジン）港の乾ドックに入った駆逐艦が捉えられている。同経済特区はロシア国境に隣接する位置にある。
+
+羅津の造船所は、事故が発生し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234025.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/09/a8c28a0e6b7aff2a96f2ea38722739ce/t/768/432/d/01-choe-hyon-class-destroyer-in-dock-rajin-north-korea-08jun2025-wvl.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234023.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-09T16:20:00+09:00</dc:date>
+        <title>筆跡をＡＩで分析、死海文書がこれまで考えられていたより古い可能性　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35234023.html?ref=rss</link>
+        <description>歴史上最も知名度のある考古学的発見の一つとされる「死海文書」の多くは、これまで考えられていたよりも古いものである可能性があることがわかった。
+
+放射性炭素年代測定法と人工知能（ＡＩ）を組み合わせた新たな分析により、聖書の写本の一部は著者と推定される人物が生きていた約２３００年前のものであることが判明した。米科学誌プロスワンに掲載された論文の主筆者であるオランダ・フローニンゲン大学のムラデン・ポポ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234023.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/09/262aa9ec5b1ff4cedb8baaf62a6796fc/t/768/432/d/001-gettyimages-1216932815.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35234022.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-09T15:26:00+09:00</dc:date>
+        <title>【分析】アップル、同社の未来に対する重大な疑問に答えられるか　ＷＷＤＣ開幕へ</title>
+        <link>https://www.cnn.co.jp/tech/35234022.html?ref=rss</link>
+        <description>米アップルは９日に開催される年次開発者会議（ＷＷＤＣ）で、主要製品に今後実装される機能を発表する。今年は例年よりもはるかに大きな注目が集まる。
+
+アップルは昨年のＷＷＤＣで、ｉＰｈｏｎｅ（アイフォーン）などの製品向けの人工知能（ＡＩ）「アップルインテリジェンス」を発表。待望の生成ＡＩへの進出を表明した。しかし、その遅さと期待外れの機能により、アップルは後じんを拝している。人々の働き方やコミュニケ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35234022.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/09/2f7df832c3885214c277ec481153b469/t/768/432/d/gettyimages-2208986397.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234016.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-09T12:58:00+09:00</dc:date>
+        <title>大統領批判のベテラン記者、トランプ政権に要求されＡＢＣニュースが停職処分</title>
+        <link>https://www.cnn.co.jp/usa/35234016.html?ref=rss</link>
+        <description>米ＡＢＣニュースのベテラン記者、テリー・モラン氏が８日未明、Ｘ（旧ツイッター）への投稿でドナルド・トランプ大統領とスティーブン・ミラー大統領次席補佐官を強く非難した。ＡＢＣは同日、トランプ政権の要求に応じ、モラン氏を停職処分とした。
+
+モラン氏は投稿の中で、トランプ氏とミラー氏の「世界級の憎悪」に言及。トランプ氏にとって憎悪は「目標を達成する唯一の手段であり、その目標は自らの栄光をたたえること。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234016.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/09/d60eed2ee6378efad4126b7e8de053f9/t/768/432/d/20250608-moran-miller-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35233998.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-09T12:21:00+09:00</dc:date>
+        <title>ドイツ、老朽化した地下シェルターの迅速な拡充を計画　ロシアの欧州侵略の懸念受け</title>
+        <link>https://www.cnn.co.jp/world/35233998.html?ref=rss</link>
+        <description>ドイツ連邦国民保護災害支援庁（ＢＢＫ）は９日までに、同国の老朽化した地下シェルター網について大規模な見直しを行うことを明らかにした。
+
+ＢＢＫのティースラー長官は南ドイツ新聞のインタビューで、「ドイツでは長い間、戦争は私たちが備える必要のあるシナリオではないという見方が広まっていた。しかし、状況は変わった。私たちは欧州での大規模な侵略戦争のリスクを懸念している」と述べた。
+
+長官の発言は、ロシアが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35233998.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/09/81bb17b047b5fe9474a7affba00b40e4/t/768/432/d/gettyimages-2209956058.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234012.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-09T12:05:00+09:00</dc:date>
+        <title>活動家トゥンベリさん乗船のガザ支援船、イスラエルが阻止　乗船者拘束</title>
+        <link>https://www.cnn.co.jp/world/35234012.html?ref=rss</link>
+        <description>スウェーデンの環境活動家グレタ・トゥンベリさんらを乗せてパレスチナ自治区ガザ地区へ向かっていた船「マドリーン号」が９日、イスラエル軍に阻止され、乗船者が拘束された。船はイスラエルへ連行されている。
+
+同船を運航する「自由船隊連合（ＦＦＣ）」はこれに先立ち、ガザへ援助物資を届けようとしたマドリーン号に、イスラエル軍が乗り込んできたと伝えていた。
+
+イスラエル外務省は「乗客は母国に帰国する見通し」とＸ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234012.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/09/3598ac6b204ae651aff5f54e630ec002/t/768/432/d/ap25152593271080.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234013.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-09T12:03:00+09:00</dc:date>
+        <title>州兵配備の米ロサンゼルス　衝突激化、移民摘発に抗議のデモ続く</title>
+        <link>https://www.cnn.co.jp/usa/35234013.html?ref=rss</link>
+        <description>米カリフォルニア州ロサンゼルスで滞在資格のない移民の一斉摘発に抗議するデモが８日も続き、ドナルド・トランプ大統領の命令を受けて州兵が派遣された。州知事の要請なしに州兵が配備されたのは１９６５年以来。州知事広報によると、現在、ロサンゼルス市内の３カ所に約３００人の州兵が配備されている。
+
+移民の一斉摘発に抗議するデモ隊と、警官隊や州兵との衝突は激化している。
+
+ロサンゼルス市警は、ロサンゼルス市中心...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234013.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/09/e2178da03ee001c7eb31cedd8ad2590d/t/768/512/d/02-gettyimages-2218526283.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234002.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-09T11:09:00+09:00</dc:date>
+        <title>ロシア軍、ウクライナ中部に進軍と発表　ウクライナは否定</title>
+        <link>https://www.cnn.co.jp/world/35234002.html?ref=rss</link>
+        <description>ロシアは８日、ロシア軍が過去数カ月にわたり到達を試みていたウクライナ中部ドニプロペトロウシク州に初めて進軍したと主張した。ウクライナ中部へのロシア軍の侵入は、疲弊しているウクライナ軍に新たな問題を引き起こす可能性がある。
+
+ロシア国防省によれば、ロシア軍の第９０親衛戦車師団の小隊がドネツク州とドニプロペトロウシク州の州境に到達した。ドネツク州の大部分はすでにロシア軍の占領下にある。部隊はその後、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234002.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/09/14f118171913fdb9715a21d7ede5f9ae/t/768/432/d/gettyimages-2204910436.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234005.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-09T10:46:00+09:00</dc:date>
+        <title>グレタ・トゥンベリさんら乗せた船のガザ到達、軍に阻止を指示　イスラエル国防相</title>
+        <link>https://www.cnn.co.jp/world/35234005.html?ref=rss</link>
+        <description>イスラエルは８日、スウェーデンの環境活動家グレタ・トゥンベリさんをはじめとする活動家が乗った援助船がパレスチナ自治区ガザ地区へ到達するのを阻止すると表明した。
+
+８日夜現在、英国船籍の民間船「マドリーン」号は地中海のエジプト北方を航行し、ガザ地区沿岸へ徐々に接近している。この船は、イスラエルによるガザ封鎖に反対し、船で封鎖解除を試みてきた組織「自由船隊連合（ＦＦＣ）」に所属する。
+
+トゥンベリさん...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234005.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/09/3598ac6b204ae651aff5f54e630ec002/t/768/432/d/ap25152593271080.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234007.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-09T10:40:00+09:00</dc:date>
+        <title>イスラエル軍、ハマス指導者の遺体を収容　５月に殺害を発表</title>
+        <link>https://www.cnn.co.jp/world/35234007.html?ref=rss</link>
+        <description>イスラエル軍は８日、パレスチナ自治区ガザ地区南部にある病院の地下トンネルで、イスラム組織ハマスの指導者ムハンマド・シンワル氏の遺体を収容したと明らかにした。遺体は身元確認の手続きを経たという。
+
+ムハンマド・シンワル氏は、昨年１０月にガザでイスラエル軍に殺害されたハマス最高幹部ヤヒヤ・シンワル氏の弟にあたる。
+
+行方がつかめなかったムハンマド・シンワル氏の死亡は、ハマス上層部を狙った一連の暗殺の最...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234007.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/09/c2abcceb5155551c06704bced27a483b/t/768/432/d/rc27z4ahmwen-rtrmadp-3-israel-palestinians-tunnel-sinwar.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
