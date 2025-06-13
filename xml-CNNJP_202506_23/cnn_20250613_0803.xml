@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-06-13T16:13:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234235.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35234225.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234237.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234238.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234236.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234233.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234226.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234224.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234222.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234221.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234214.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234212.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35232264.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234211.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35234200.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234206.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234202.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234201.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234199.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234129.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234180.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234197.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234196.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234193.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234181.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234179.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234171.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234176.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234177.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35234166.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234235.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T16:13:00+09:00</dc:date>
+        <title>【分析】イスラエルの攻撃望まなかったトランプ氏、それでも攻撃したイスラエル</title>
+        <link>https://www.cnn.co.jp/usa/35234235.html?ref=rss</link>
+        <description>イスラエルの軍用機がイランへの攻撃を実施した１３日未明から数時間前、中東における全面戦争への懸念を改めて強調しながら、米国のトランプ大統領はそのような結果を回避したいと明言していた。
+
+「彼らには踏み込んで欲しくない。というのも、それで事態が台無しになってしまうからだ」。トランプ氏はそう語った。念頭にあったのはイランの核兵器の野心を抑制するための外交努力だ。
+
+イスラエルがそれでも攻撃に踏み切った...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234235.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/13/a869c52db4eb7e737c2ec932f8929f05/t/768/432/d/gettyimages-2219823149.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35234225.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T15:44:00+09:00</dc:date>
+        <title>ローマ教皇レオ１４世、ホワイトソックスの野球帽姿で登場　伝統破る装いに注目</title>
+        <link>https://www.cnn.co.jp/style/fashion/35234225.html?ref=rss</link>
+        <description>ローマ教皇レオ１４世のスポーツウェア姿が目撃された。今回はＡＩ（人工知能）ではなかった。
+
+初の米国人ローマ教皇のレオ１４世（本名ロバート・プレボスト）はシカゴの出身。米大リーグの地元チーム、ホワイトソックスのベースボールキャップを着けた姿でバチカンの公の場に姿を見せた。こうしたカジュアルな装いを白い法衣に合わせたローマ教皇は初めて。１１日にベースボールキャップ姿で週に１度の一般との交流の場に現...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35234225.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/13/d55e1428d25e427a5da4deca53b353d8/t/768/512/d/gettyimages-2219033106.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234237.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T14:58:00+09:00</dc:date>
+        <title>イラン最高指導者の元側近もイスラエルの攻撃で死亡　国営メディア</title>
+        <link>https://www.cnn.co.jp/world/35234237.html?ref=rss</link>
+        <description>イラン国営メディアによると、イランの外交政策を統括する最高安全保障委員会のシャムハニ元事務局長が、イスラエルによるイランへの攻撃で死亡した。
+
+イラン国営テレビＩＲＩＮＮは１３日、「アリ・シャムハニ氏の暗殺も確認された」と報じた。
+
+シャムハニ氏はイランの最高指導者ハメネイ師の主要顧問で、最高安全保障委員会の事務局長を１０年近く務めた。
+
+シャムハニ氏はイラン外交における期待の星で、米国や欧州の外交...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234238.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T14:47:00+09:00</dc:date>
+        <title>イラン、イスラエルへ報復　ドローン１００機を発射</title>
+        <link>https://www.cnn.co.jp/world/35234238.html?ref=rss</link>
+        <description>イスラエル軍は１３日、イランがイスラエル領に向け１００機以上のドローン（無人機）を発射したと発表した。
+
+イスラエル国防軍（ＩＤＦ）の報道官は、すべての防空網が脅威を迎撃するために稼働していると述べた。
+
+「今回はこれまでに経験したものとは異なる出来事であり、困難な状況が続くと予想している」と報道官は述べた。</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234236.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T14:28:00+09:00</dc:date>
+        <title>イラン軍のバゲリ参謀総長も死亡、イスラエルの攻撃で　国営テレビ</title>
+        <link>https://www.cnn.co.jp/world/35234236.html?ref=rss</link>
+        <description>イラン国営テレビＩＲＩＮＮによると、イラン軍のバゲリ参謀総長がイスラエルの空爆で死亡した。
+
+バゲリ氏はイランで最高位の軍将校。１３日未明に実施されたイスラエルの攻撃で死亡が確認された高官としては２人目となる。
+
+複数のイラン国営メディアはこれに先立ち、イスラム革命防衛隊のサラミ総司令官がイスラエルの夜間攻撃で死亡したと伝えていた。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234236.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/13/d36331394af9875647a2b996169ff24a/t/768/512/d/2022-09-08t161226z-1778990593-rc2kbw9cnum3-rtrmadp-3-iran-military.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234233.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T13:50:00+09:00</dc:date>
+        <title>留置場でインフルエンサー死亡　警察発表に専門家が異議、市民の抗議デモ続く　ケニア</title>
+        <link>https://www.cnn.co.jp/world/35234233.html?ref=rss</link>
+        <description>ケニアの首都ナイロビで、教員の男性が警察の留置場で死亡したことに端を発する抗議デモが続いている。１２日には抗議デモに集まった市民らを解散させようと、警察が催涙弾を使用した。
+
+死亡したのは教員で活動家だったアルバート・オジュワン氏（３１）。抗議デモは９日から始まった。警察はこの前日、オジュワン氏は監房の壁に自分で頭を打ち付けて死亡したと説明していたが、専門家に反論されてその後、この説明を撤回した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234233.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/13/698ae2d988940a2434f36ceef088029f/t/768/486/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWJ0YndubmUwMDA1M2I2bTd5czNic3lp-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYnRhdWludjAwNWYyNnFkZWV6eDJucTg_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234226.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T13:00:00+09:00</dc:date>
+        <title>カリフォルニア州知事、トランプ氏誕生日の軍事パレード批判　「低俗な弱さの誇示」　</title>
+        <link>https://www.cnn.co.jp/usa/35234226.html?ref=rss</link>
+        <description>トランプ大統領は１４日に米陸軍創設２５０周年に合わせた軍事パレードを予定している。カリフォルニア州のニューサム知事は、このパレードをめぐり、「低俗な弱さの誇示」と評し、「世界中の弱々しい独裁者たち」が行う類いの行事になぞらえた。１４日はトランプ氏の誕生日でもある。
+
+ニューサム氏は「誕生日に軍隊を動員して、低俗に弱さを誇示するとは、どれほど弱腰なのだろう」「それがドナルド・トランプだ」と嘲笑。パ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234224.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T12:25:00+09:00</dc:date>
+        <title>トランプ米大統領のカリフォルニア州兵派遣、裁判所が違法と判断</title>
+        <link>https://www.cnn.co.jp/usa/35234224.html?ref=rss</link>
+        <description>米連邦裁判所は１２日、ドナルド・トランプ大統領が連邦政府の権限でカリフォルニア州の州兵を動員したのは違法だとの判断を示し、大統領に対して権限を同州に返還するよう命じた。
+
+同州ロサンゼルスではトランプ大統領の強硬な移民政策に抗議するデモが拡大。これを受けてトランプ大統領が連邦政府の権限で州兵を招集したことに対し、カリフォルニア州のギャビン・ニューサム知事がトランプ大統領とピート・ヘグセス国防長官...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234222.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T11:31:00+09:00</dc:date>
+        <title>イラン革命防衛隊の総司令官、イスラエルの攻撃で死亡</title>
+        <link>https://www.cnn.co.jp/world/35234222.html?ref=rss</link>
+        <description>イランのイスラム革命防衛隊（ＩＲＧＣ）のフセイン・サラミ総司令官がイスラエルによる夜間の攻撃で死亡したことが分かった。複数のイラン国営メディアが報じた。</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234221.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T11:26:00+09:00</dc:date>
+        <title>ＩＡＥＡ、核不拡散義務違反とする決議採択　イランはウラン濃縮施設の新設で対抗</title>
+        <link>https://www.cnn.co.jp/world/35234221.html?ref=rss</link>
+        <description>国際原子力機関（ＩＡＥＡ）の３５カ国からなる理事会は１２日、イランが核不拡散義務に違反しているとの決議を採択した。イランはこれに反発し、核開発を強化すると警告している。
+
+イランは対抗措置として、ウラン濃縮施設の新設と新型遠心分離機の設置を発表した。事態を激化させるこうした動きは、今週末に再開が予定されている米国との核に関する協議を複雑化する恐れがある。
+
+ロイター通信によると、オーストリア首都ウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234221.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/13/90d96cd145239b86cc7f5c6ff777ee1a/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWJ0N3N0cXEwMDAyMzU2bXJuNmx2amt2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYnQ2N3hvODAwNG8yNnA1YWZqMGU1bnI_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234214.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T10:55:00+09:00</dc:date>
+        <title>対イラン作戦、「何日も」続く　イスラエル首相が明言</title>
+        <link>https://www.cnn.co.jp/world/35234214.html?ref=rss</link>
+        <description>イスラエルのネタニヤフ首相は、イスラエルによるイランの核標的への攻撃を確認し、この作戦は何日も続くと述べた。
+
+テレビでの演説で明らかにした。標的を絞った軍事作戦であり、イスラエルの存続を脅かすイランの脅威を後退させるのが目的だとした。
+
+「この作戦は何日間でも継続する。こうした脅威を取り除くのに必要な限り続ける」（ネタニヤフ氏）
+
+ネタニヤフ氏によるとイランには核兵器開発計画があり、阻止しなければ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234214.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/13/d870c691a135db40a82890715545d8f2/t/768/511/d/gettyimages-2215670998.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234212.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T10:23:00+09:00</dc:date>
+        <title>１０００枚を超える歴史的金貨のコレクション、５億円で落札</title>
+        <link>https://www.cnn.co.jp/fringe/35234212.html?ref=rss</link>
+        <description>フランス・パリで開催された競売で、歴史的な金貨の膨大なコレクションが総額３００万ユーロ（約５億円）を上回る金額で落札された。金貨はある家屋の壁から所有者の死後に回収されたもの。競売会社のボーサン・ルフェーブル・アンド・アソシエイツが１２日に明らかにした。
+
+これらの金貨は、２０２４年に亡くなるまでフランス南西部の小さな村に住んでいたポール・ナルス氏が収集したものだという。
+
+硬貨専門家のティエリー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234212.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/13/8debdb210e7484deda432ba98b8f2529/t/768/431/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWJ0ZW8xZ2UwMDAyMzU2bW90eHBseXdz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYnRlbmVicjAwYTcyN3BjN2l6djI2ODE_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35232264.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T10:00:00+09:00</dc:date>
+        <title>トランプ米政権、移民数十万人の滞在・就労許可取り消し　中南米４カ国の出身者対象　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35232264.html?ref=rss</link>
+        <description>米国土安全保障省は１２日、中南米の４カ国から来た移民数十万人に対して滞在・就労許可の取り消しを通告し、米国からの退去を促した。ＣＮＮはこの通知のコピーを入手した。
+
+対象となるのはバイデン政権時代の保護措置を通じてキューバ、ハイチ、ニカラグア、ベネズエラから米国に入国した移民。この４カ国の国籍保持者は５０万人以上が同措置を利用していた。ただし、その後別の形で滞在資格を申請した移民の人数は分かって...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35232264.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/13/2387fb226a2b81572bdaa77f0dd0958c/t/768/432/d/c-gettyimages-1689521091.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234211.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T09:39:00+09:00</dc:date>
+        <title>イスラエル、イランに「先制攻撃」実施　カッツ国防相</title>
+        <link>https://www.cnn.co.jp/world/35234211.html?ref=rss</link>
+        <description>イスラエルのカッツ国防相は、イランに対する「先制攻撃」を実施したことを明らかにした。イスラエル国内には緊急事態宣言が出ているという。
+
+カッツ氏は声明で「イスラエルがイランに先制攻撃を行ったことを受け、今後近いうちにイスラエルの国家および民間人に対しミサイルやドローン（無人機）攻撃があることが予想される」と説明した。
+
+国営イラン通信（ＩＲＮＡ）によると、首都テヘランでは爆発音が繰り返し聞こえた。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234211.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/13/48af2852509095470c8acc3d9b60be06/t/768/432/d/150325082132-social-gfx-breaking-news.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35234200.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T09:00:00+09:00</dc:date>
+        <title>【分析】トランプ氏がうたう中国との「休戦」、その内実は</title>
+        <link>https://www.cnn.co.jp/business/35234200.html?ref=rss</link>
+        <description>米国は中国との貿易協議で、ようやく合意に達した。
+
+初の合意というわけではない。
+
+米中間で激しい非難の応酬が輸出規制合戦に発展した後、両国の当局者らは今週ロンドンで協議に臨んだ。目的はただひとつ。１カ月前にジュネーブで合意していたことについて、合意する道を見出すことだった。
+
+両国の通商担当閣僚らはその目的を果たしたようだ。双方の当局者らが１０日、５月のジュネーブ合意を履行する休戦の枠組みで合意し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35234200.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/12/d14e7ffe42bd34de34513827ac382bf1/t/768/432/d/gettyimages-2218882799.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234206.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T08:25:00+09:00</dc:date>
+        <title>奇跡の生還、エアインディア墜落事故の唯一の生存者について分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35234206.html?ref=rss</link>
+        <description>それは一見信じられない光景だった。インド西部アーメダバードでエアインディアの旅客機が墜落したというニュースが流れた直後、血の付いたシャツを着て現場から歩いてくる男性を映した動画がソーシャルメディアに出回り始めた。
+
+その後、生存者が１人いることが分かった。ヒンドゥスタン・タイムズ紙が特定したところによれば、事故から生還したのはインド系英国人の男性、ビシュワシュ・クマル・ラメシュさんだった。
+
+同紙...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234206.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/13/bf0ef9b5614167c4ff92b3661d426680/t/768/432/d/vishwash-kumar-ramesh-a-british-national-was-in-1749734351916.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234202.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T07:20:00+09:00</dc:date>
+        <title>トランプ氏、中東で近く大規模な紛争「十分起こり得る」</title>
+        <link>https://www.cnn.co.jp/usa/35234202.html?ref=rss</link>
+        <description>トランプ米大統領は１２日、中東地域で「間もなく」起こり得る紛争が大規模なものになる可能性があるとの考えを示した。
+
+米当局者らはイスラエルがイランを攻撃するとの懸念を募らせている。米高官がＣＮＮに明らかにしたところによると、国際原子力機関（ＩＡＥＡ）が同日、イランが核不拡散義務を順守していないとする決議を採択したことを受けて、同国は今後核開発を積極的に進めると表明した。
+
+トランプ氏はホワイトハウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234202.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/13/db6070854bc4b4c6e6732529cf5bfa4f/t/768/432/d/c-gettyimages-2219812833.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234201.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-13T06:31:00+09:00</dc:date>
+        <title>インド機墜落、２９０人死亡　地上でも多数巻き添えか</title>
+        <link>https://www.cnn.co.jp/world/35234201.html?ref=rss</link>
+        <description>インド西部アーメダバードで１２日に起きたエアインディア機の墜落事故で、これまでに少なくとも２９０人の死亡が確認された。機体は空港近くの建物に激突し、搭乗していた乗員・乗客のほか、建物の内外で事故に巻き込まれた人も多数いるもよう。
+
+エアインディアの発表では、事故機には乗客２３０人、乗員１２人が搭乗していた。男性乗客１人が生存しており、処置にあたった現地の医師によると、命に別条はないという。
+
+墜落...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234201.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/13/7765c2d3cec52962d2294786d2c5fbbf/t/768/511/d/gettyimages-2219155922.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234199.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-12T20:29:00+09:00</dc:date>
+        <title>インド旅客機墜落、これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35234199.html?ref=rss</link>
+        <description>インド西部グジャラート州アーメダバードで１２日、乗客乗員あわせて２４２人を乗せたエアインディア機が墜落した。
+
+これまでに分かっていることは以下の通り。
+
+犠牲者数：犠牲者の数は現時点で判明していない。エアインディアは、負傷者が地元の病院へ搬送されていると明らかにした。
+
+行き先：航空追跡サイトのフライトレーダー２４によると、エアインディアＡＩ１７１便（ボーイング７８７―８型機）は現地時間午後１時３８...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234129.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-12T19:48:00+09:00</dc:date>
+        <title>「足跡は心の中に」　ペットとの絆が宗教的な体験になる時</title>
+        <link>https://www.cnn.co.jp/fringe/35234129.html?ref=rss</link>
+        <description>カナダの著名な神学者ジェームズ・テイラーさんは信仰や喪失体験に関する１５冊の著書があり、複数の大学で宗教学を教えてきた。名誉神学博士号の学位を持つ。
+
+だが、そんなテイラーさんにとって最大の精神的指導者は、純血種のアイリッシュセッター「ブリック」だという。アヒルを追いかけたり、テイラーさんの下着を盗んだりするのが好きな、元気の良いいたずらっ子だった。
+
+ブリックは頼れる相棒だった。病気の時はそばに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234129.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/11/d4c441391a40ebf8f6bf98c6c17a6c57/t/768/432/d/001-john-blake-spiritua-connection-pets-final.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234180.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-12T19:30:00+09:00</dc:date>
+        <title>６千年前の遺骨から未知のＤＮＡ、既知の祖先や子孫存在せず　コロンビア</title>
+        <link>https://www.cnn.co.jp/fringe/35234180.html?ref=rss</link>
+        <description>コロンビアで出土した古代人類の遺骨を調べていた研究チームがこのほど、この集団にいかなる既知の祖先も現生人類の子孫も存在しないことを突き止めた。
+
+研究チームは科学誌サイエンス・アドバンシーズに掲載された論文で、中央コロンビアのボゴタ高原から遺骨が出土した２１人の遺伝子データについて報告。これによると、２１人は未知の集団に属しており、一部の人が生きた時代は６０００年前にさかのぼるという。
+
+以前の研...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234180.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/12/6bcbde44acf270a4801e38e46402a980/t/768/432/d/gettyimages-973964122.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234197.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-12T19:18:00+09:00</dc:date>
+        <title> 旅客機墜落、乗客乗員２４２人が搭乗　エアインディア発表</title>
+        <link>https://www.cnn.co.jp/world/35234197.html?ref=rss</link>
+        <description>インド北西部アーメダバードを離陸直後の旅客機が墜落した件で、エアインディアは１２日、乗客乗員あわせて２４２人が搭乗していたことを明らかにした。
+
+エアインディアは「このうち１６９人がインド国籍、５３人が英国籍、１人がカナダ国籍、７人がポルトガル国籍だ」と説明した。
+
+航空追跡サイト「フライトレーダー２４」によると、エアインディアＡＩ１７１便はアーメダバードのサルダール・バッラブバーイー・パテール国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234197.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/12/037face36fe7f01d06b8d066ee7b2681/t/768/576/d/ap25163346519590.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234196.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-12T18:34:00+09:00</dc:date>
+        <title>離陸直後の旅客機が墜落　インド西部　</title>
+        <link>https://www.cnn.co.jp/world/35234196.html?ref=rss</link>
+        <description>インド西部グジャラート州アーメダバードの空港で１２日、離陸直後の旅客機が墜落した。
+
+現場の写真からは、濃い黒煙が立ち上る様子が確認できる。
+
+搭乗者数や死傷者数についての詳しい情報は現時点では不明。
+
+インドの航空会社エアインディアは、英ロンドン行きの自社便が「インシデント」に見舞われたと明らかにした。
+
+声明は「アフマダーバードとロンドン・ガトウィックを結ぶＡＩ１７１便がきょう１２日、インシデント...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234196.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/12/0a9b11988a141addde3419019922d80d/t/768/432/d/still-21697925-0-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234193.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-12T18:13:00+09:00</dc:date>
+        <title>地球温暖化で大西洋海流システムに崩壊の恐れ、欧州では氷点下４８度に達する都市も</title>
+        <link>https://www.cnn.co.jp/fringe/35234193.html?ref=rss</link>
+        <description>大西洋の重要な海流ネットワークである「大西洋子午面循環（ＡＭＯＣ）」が崩壊した場合、世界各地が極寒に陥り、一部の都市では冬の気温が氷点下４８度まで低下するなど「深刻な気候的・社会的影響」をもたらす恐れがある。１１日にジオフィジカル・リサーチ・レターズ誌に掲載された研究で明らかになった。
+
+ＡＭＯＣの行方には懸念が高まっている。ＡＭＯＣは巨大なベルトコンベアのように機能し、南半球や熱帯地方から北半...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234193.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/12/d3c53600b65c4b0d49963016d8960d69/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWJxZWo3MW8wMDB2M2I2bXd6cWp0dDVm-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYnE5NTVsdTAwNHcyN3A1aGh3cDc1NjU_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234181.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-12T16:30:00+09:00</dc:date>
+        <title>ＴｉｋＴｏｋで流行の１０代向けスキンケア、皮膚トラブルと高コストの恐れ　米研究</title>
+        <link>https://www.cnn.co.jp/fringe/35234181.html?ref=rss</link>
+        <description>米在住のエイバ・ペーニャさんは、１０歳で携帯電話を手に入れると、スキンケアへの関心が爆発的に高まった。
+
+最初は、母親のジゼル・ペーニャさんと一緒にスパごっこをしたり、新製品を試すために買い物に出かけたりしていた。だが、エイバさんの引き出しから３００ドル（約４万３０００円）のアンチエイジングクリームを発見したとき、ジゼルさんは戸惑いを覚えたという。
+
+「肌が若返り、小じわ、しわ、ハリが改善すると書...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234181.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/12/090da76429aedc0f5d20de27fa98f87d/t/768/511/d/001-gettyimages-1137620371_1200w.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234179.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-12T14:47:00+09:00</dc:date>
+        <title>残留農薬ワーストランキング２５年版　トップ２はホウレンソウとイチゴ、ジャガイモも再浮上　米団体</title>
+        <link>https://www.cnn.co.jp/usa/35234179.html?ref=rss</link>
+        <description>米国で販売されている果実と野菜の残留農薬を調べたワーストランキングの２０２５年版が発表された。ランキング入りした１２種類はサンプル検査で９０％以上から有害な残留農薬が検出されている。
+
+ランキングは非有機農産物に関する米政府の検査データをもとに、非営利の環境保護団体「環境ワーキンググループ（ＥＷＧ）」が毎年まとめている。
+
+今年の調査で重量当たりの残留農薬が最も多かったのはホウレンソウで、以下イチ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234179.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/12/4d97c596b0011bc017c0b848d734f2d1/t/768/455/d/gettyimages-1012505734_1200w.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234171.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-12T14:04:00+09:00</dc:date>
+        <title>「至高の」難破船に積まれた財宝、新たな画像で明らかに　コロンビア沖</title>
+        <link>https://www.cnn.co.jp/fringe/35234171.html?ref=rss</link>
+        <description>新たな研究によって、コロンビア沖に沈んだ船から発見された金貨の詳細が明らかになった。これは当該の船が３００年前のスペインのガレオン船「サン・ホセ号」であることを示すさらなる証拠ともなっている。同船には数十億ドル相当の人工遺物が積み込まれていたと考えられている。
+
+１０日付のアンティクイティー誌に掲載された研究によると、科学者たちは無人水中探査艇を駆使して沈没船を調査。積荷の一部の画像を撮影した。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234171.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/12/2911b8140a346f0f235ae2c81e4a772f/t/768/432/d/optimisedimage-png-s0003598x25100951-figab.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234176.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-12T13:09:00+09:00</dc:date>
+        <title>客室乗務員装い無料搭乗券を入手、ただ乗り繰り返した男に有罪評決　米</title>
+        <link>https://www.cnn.co.jp/usa/35234176.html?ref=rss</link>
+        <description>米航空会社の従業員の男が客室乗務員や操縦士を装って無賃搭乗を繰り返していたなどとして、通信詐欺や保安区域への不法侵入の罪で有罪評決を言い渡された。
+
+フロリダ州南部連邦地区検察の１０日の発表によると、タイロン・アレクサンダー被告（３５）は客室乗務員や操縦士になりすまして３４回の無賃搭乗を繰り返した罪で、陪審団に有罪評決を言い渡された。フロリダ州のフォートローダーデール・ハリウッド国際空港の保安区...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234176.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/12/ed6397b451ed0b8bc5ec5fbf02375cfc/t/768/432/d/gettyimages-1238693862.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234177.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-12T12:26:00+09:00</dc:date>
+        <title>英加など５カ国、イスラエルの極右閣僚２人に制裁　米国は制裁を批判</title>
+        <link>https://www.cnn.co.jp/world/35234177.html?ref=rss</link>
+        <description>英国とカナダなど５カ国は１０日、パレスチナ人への暴力を繰り返し扇動したとして、イスラエルの極右閣僚２人に対し制裁を科すと発表した。占領下のパレスチナ自治区のヨルダン川西岸地区とガザ地区でのイスラエルの行動をめぐり、西側諸国からの批判の声が強まっている。
+
+対象はイスラエルのベングビール国家安全保障相とスモトリッチ財務相で、英政府によると、２人には渡航禁止と資産凍結が適用される。
+
+ベングビール氏と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234177.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/12/fd283d1fecbc1325bfa573a518096b67/t/768/432/d/20250610-bezalel-smotrich-ben-gvir-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35234166.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-12T11:47:00+09:00</dc:date>
+        <title>ビーチ・ボーイズのブライアン・ウィルソンさん死去　８２歳</title>
+        <link>https://www.cnn.co.jp/showbiz/35234166.html?ref=rss</link>
+        <description>米ロックバンド、ビーチ・ボーイズの共同創始者ブライアン・ウィルソンさんが死去した。遺族がインスタグラムと公式サイトを通じて１１日に発表した。８２歳だった。
+
+薬物乱用や精神疾患と闘いながら、何度も復活を遂げたウィルソンさん。その優れた才能と時間を超えて愛される名曲は、今も世界中に響き渡っている。
+
+幼少時に父親から虐待を受け、耳が不自由になり、統合失調感情障害の症状に苦しみながらも、グラミー賞を２...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35234166.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/12/737a14c150c197cba3ad844eedf58ed8/t/768/518/d/2012-06-15t120000z-682854812-gm2e86f1t8101-rtrmadp-3-usa_1200w.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
