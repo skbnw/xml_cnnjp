@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-06-17T19:24:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234360.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35234357.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35234372.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234361.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35234359.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35234363.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234347.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234355.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35234350.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234345.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234349.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35234343.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234340.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234336.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234331.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234332.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234325.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234322.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35234328.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234323.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35234310.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234317.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234315.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234308.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234307.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234305.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234295.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35234298.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234285.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234291.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234360.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T19:24:00+09:00</dc:date>
+        <title>ウーパールーパーが手足を再生させる仕組み、解明へ新たな一歩</title>
+        <link>https://www.cnn.co.jp/fringe/35234360.html?ref=rss</link>
+        <description>顔の両側にひらひらと揺れるえら、微笑みを浮かべたような口元。日本では「ウーパールーパー」の名で親しまれる両生類アホロートル（メキシコサンショウウオ）は、手足を失っても元通りに再生するという能力を持つ。その複雑な仕組みについて、新たな研究結果が報告された。
+
+米ノースイースタン大学の生物学者、ジェームズ・モナハン教授らのチームが、１０日付のオープンアクセス（ＯＡ）学術誌、ネイチャー・コミュニケーシ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234360.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/99484ffccfccbffb104260283ed4a987/t/768/512/d/large001-neu-ms36vz09x.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35234357.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T18:10:00+09:00</dc:date>
+        <title>ジョン・レノンが最初の妻に送った「卑猥な」ラブレターが競売に</title>
+        <link>https://www.cnn.co.jp/style/arts/35234357.html?ref=rss</link>
+        <description>ビートルズは一緒に、世界で最も長く愛されるラブソングをいくつか作曲した。一方、ジョン・レノンのラブレターは、より気取らない異なる種類の詩情を醸しだしているほか、ポール・マッカートニーへのやゆも含まれている。
+
+これらの手紙のうちの１通が７月９日にロンドンで、クリスティーズの競売に出品される。予想落札価格は最高で４万ポンド（約７８０万円）とみられている。
+
+当時２１歳だったレノンは独ハンブルクにいる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35234357.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/16/8cefb162abbc7234b735bf65d93683f5/t/768/542/d/largejohn-lennon-1940-1980-autograph-letter-signed-john-to-cynthia-powell-later-lennon-star-club-hamburg-n-d-19-24-april-1962-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35234372.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T17:27:00+09:00</dc:date>
+        <title>大谷翔平、２シーズンぶりに「二刀流」復活　ドジャース移籍後初登板</title>
+        <link>https://www.cnn.co.jp/showbiz/35234372.html?ref=rss</link>
+        <description>米大リーグ、ドジャースの大谷翔平が１６日、本拠でのパドレス戦で、「１番・投手兼指名打者」として出場した。公式戦の登板は６６３日ぶりだった。
+
+３度のＭＶＰに輝く大谷は、本拠のファンの歓声だけでなく、パドレスのフェルナンド・タティスとルイス・アラエスによる連続ヒットの「歓迎」も受けた。パドレスはマニー・マチャドの犠打で先制点を挙げた。
+
+大谷は制球に苦しみ、１イニングを抑えるのに２８球を要した。それ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35234372.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/bf398f05c67bf9fb76d3c8277c9393f3/t/768/432/d/001-ap25168092733497.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234361.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T16:53:00+09:00</dc:date>
+        <title>【分析】対イランで明確な出口戦略なし、イスラエルに新たな終わりなき戦争のリスク</title>
+        <link>https://www.cnn.co.jp/world/35234361.html?ref=rss</link>
+        <description>イスラエルによるイランへの未曽有の攻撃は初期段階こそ見事な成功を収めたものの、週末の集中爆撃と報復を通じ、ここへ来て出口戦略についての疑問が浮上しつつある。イスラエルはどのようにしてこの紛争に終止符を打ち、自国の野心的な目標を果たすことができるのか。
+
+イスラエルの軍用機は事実上無抵抗のイランの軍事施設及び核施設に大打撃を与えているが、報復攻撃により自国でもこれまで数十人の死傷者が出ている。
+
+一...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234361.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/80f88263a8c5ee876e61feca1eff92b7/t/768/432/d/iran-nuclear-israel.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35234359.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T15:40:00+09:00</dc:date>
+        <title>世界住みやすい都市ランキング、ウィーンが２位に後退　大阪もランク入り</title>
+        <link>https://www.cnn.co.jp/travel/35234359.html?ref=rss</link>
+        <description>世界の住みやすい都市ランキング２０２５年版が１７日に発表され、過去３年連続で首位を守っていたオーストリアの首都ウィーンが２位に後退した。代わって１位になったのはデンマークの首都コペンハーゲンだった。
+
+ランキングは英経済誌エコノミストの姉妹組織、エコノミスト・インテリジェンス・ユニット（ＥＩＵ）が毎年発表。世界１７３都市について、医療、教育、安定性、インフラ、環境などの項目について評価している。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35234359.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/39e7799401a44f9f35cd9d6ee0c3a1bf/t/768/512/d/liveable_10.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35234363.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T15:33:00+09:00</dc:date>
+        <title>写真特集：世界住みやすい都市ランキング上位の都市は？</title>
+        <link>https://www.cnn.co.jp/photo/35234363.html?ref=rss</link>
+        <description>世界の住みやすい都市ランキング２０２５年版が１７日に発表された。上位にランクインした都市を紹介する。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35234363.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/fa14f5345f31ad6867f5043fbcef7fa9/t/768/511/d/liveable_01.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234347.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T15:14:00+09:00</dc:date>
+        <title>トランプ政権抗議デモの参加者、「治安維持活動隊」の銃撃で死亡　殺人容疑で逮捕は別の男</title>
+        <link>https://www.cnn.co.jp/usa/35234347.html?ref=rss</link>
+        <description>米ユタ州で１４日、トランプ政権に抗議して全米に広がった「ノー・キングス（王はいらない）」デモの参加者が、「治安維持活動隊」に銃撃されて死亡する事件があった。目撃者によると、活動隊が狙ったのは、群衆にライフル銃の銃口を向けていた別の男だった。
+
+警察によると、死亡したのはアーサー・フォラサ・アー・ルーさん（３９）。遺族支援のクラウドファンディングページによると、妻と２人の子どもをもつ著名ファッショ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234347.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/911e2d3aa90ba580c10813210036ac3e/t/768/576/d/large_ap25166078207650.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234355.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T14:39:00+09:00</dc:date>
+        <title>Ｇ７共同声明　イスラエル自衛権を支持、イラン核兵器保有認めず　トランプ氏も署名</title>
+        <link>https://www.cnn.co.jp/world/35234355.html?ref=rss</link>
+        <description>主要７カ国（Ｇ７）首脳らは１６日に発表した共同声明で、中東危機の解決を求めた。事情に詳しい当局者によると、トランプ米大統領の支持を得るため、声明草案の文言が調整されたという。
+
+「Ｇ７首脳」によるものとされる声明は「我々はイラン危機の解決が、パレスチナ自治区ガザ地区での停戦を含む、中東における敵対行為のさらなる広範な緩和につながることを強く求める」と述べている。
+
+これは通常、全首脳が署名したこと...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35234350.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T13:23:00+09:00</dc:date>
+        <title>米中貿易戦争の最前線、海運業界に生じる混乱　米玩具業界にも深刻な打撃</title>
+        <link>https://www.cnn.co.jp/business/35234350.html?ref=rss</link>
+        <description>米国が４月２日に世界の大半の国々に対する包括的な関税を発表したことで、世界中の物品の自由な流通を可能にする複雑なグローバルサプライチェーン（供給網）、特に製造品の９０％を輸送する海運業界には混乱が生じた。
+
+大半の関税については別途９０日間停止されているにもかかわらず、企業幹部らは、関税が再び課される前提で事業を運営しなければならないと話す。
+
+米国企業は貿易戦争の休戦中に商品の備蓄に努めている。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35234350.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/f62c0aecb59d4b67203598130aad3ec9/t/768/576/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWJ5anZvNHAwMDRoMjhwY2Q1cTAwZnVo-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYnlqdm80cDAwNG0yOHBjOGk4dWZ1bW0_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234345.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T12:46:00+09:00</dc:date>
+        <title>トランプ氏、Ｇ７サミットを途中退席へ　イラン・イスラエル衝突５日目で知っておくべきこと</title>
+        <link>https://www.cnn.co.jp/world/35234345.html?ref=rss</link>
+        <description>米国のトランプ大統領が、主要７カ国首脳会議（Ｇ７サミット）開催中のカナダから米首都ワシントンへ１６日中に戻る見通しとなった。イスラエルとイランの紛争が５日目に突入する中、攻撃の応酬で死傷者が増え続けている。
+
+最新の展開は以下の通り。
+
+イランによる直近の攻撃：イスラエルの複数の地域で１７日未明、サイレンが鳴り響いた。イランが開始した第９陣の攻撃は夜明けまで続く見込みだと、同国のメディアは伝えた。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234345.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/240516f4d5aa72779e98063ac20c97da/t/768/512/d/2025-06-17t005248z-1338205556-rc204fam83ye-rtrmadp-3-g7-summit.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234349.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T12:37:00+09:00</dc:date>
+        <title>イスラエル、イラン放送局への攻撃を認める　生放送中に爆発音</title>
+        <link>https://www.cnn.co.jp/world/35234349.html?ref=rss</link>
+        <description>イスラエル軍（ＩＤＦ）は１６日、イラン国営テレビ局の「ＩＲＩＮＮ」のスタジオを攻撃したと発表した。ＩＲＩＮＮは国営イラン放送（ＩＲＩＢ）の一部。
+
+ＩＤＦによると、空軍が情報本部の提供した情報に基づき、イラン軍が軍事目的で使用していた通信センターを「精密攻撃」したという。
+
+ＩＤＦは「この建物は民間活動を装ってイラン軍に利用され、センターのインフラや資産を軍事利用していた。今回の攻撃でイラン軍の軍...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234349.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/473a399b42d7a78fab2c9cc5ad6b78c7/t/768/511/d/large_c-gettyimages-2219726680.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35234343.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T11:49:00+09:00</dc:date>
+        <title>レース中に小動物はねたハミルトン「悲しすぎる」　Ｆ１カナダＧＰ</title>
+        <link>https://www.cnn.co.jp/showbiz/35234343.html?ref=rss</link>
+        <description>１５日に開かれたＦ１カナダグランプリ決勝で、フェラーリのルイス・ハミルトンが車の損傷に見舞われた。当初、原因ははっきりしなかった。
+
+５番グリッドからスタートしたハミルトンはレースの序盤、突然車が減速して何かが起きたことを知った。しかし自分が小動物をひいてしまったと知らされたのは、後になってからだった。
+
+衝突したのはリスの仲間のグラウンドホッグ（ウッドチャック）だった。衝撃で車の床が損傷して１周...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35234343.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/b7f158cb3bdf7d365404d4e26d7ec437/t/768/432/d/gettyimages-2220289900.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234340.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T11:11:00+09:00</dc:date>
+        <title>州議員射殺で容疑者を逮捕、４３時間に及ぶ逃走劇の顛末は　ミネソタ州史上最大規模の捜査に</title>
+        <link>https://www.cnn.co.jp/usa/35234340.html?ref=rss</link>
+        <description>米中西部ミネソタ州で民主党の州議会議員らが射殺された事件で、当局は１５日、逃走中だったバンス・ボールター容疑者（５７）を逮捕した。捜査は約４３時間にわたり、ミネソタ州史上で最大規模となっていた。
+
+１４日午前３時３５分ごろ、ブルックリンパークの警察官２人がメリッサ・ホートマン州下院議員宅に向かっていた。
+
+１時間半前にジョン・ホフマン州上院議員の娘から通報があったことがきっかけだった。娘によれば、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234340.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/d8f66036fb432767a62f93d984bef1b3/t/768/509/d/largegettyimages-2219575329.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234336.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T10:47:00+09:00</dc:date>
+        <title>「世界から忘れ去られた」　イランとイスラエルの衝突でかき消されるガザの惨状</title>
+        <link>https://www.cnn.co.jp/world/35234336.html?ref=rss</link>
+        <description>幼い女の子が父親の靴にしがみついて泣き叫んでいた。父親は、飢えに苦しむ１１人の子どもたちの食べ物を手に入れようとして、殺害された。
+
+この場面はフォトジャーナリストのハレド・シャアスさんが１５日に撮影した。ビサン・クワイダーさんの父親のシャディさんは数日前、一家が暮らしていたパレスチナ自治区ガザ南部マワシ地区のテントを出て、ハンユニス東部のマアンへ向かった。
+
+危険は承知だった。マアンにはイスラエ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234336.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/7a2e0235136d192caa0b2e120d5591eb/t/768/432/d/gettyimages-2217892716.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234331.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T10:16:00+09:00</dc:date>
+        <title>伊美術館の来館者、展示作品の椅子に座る　監視カメラが破損の瞬間捉える</title>
+        <link>https://www.cnn.co.jp/world/35234331.html?ref=rss</link>
+        <description>オランダの画家ビンセント・ファン・ゴッホの最も有名な絵画の一つから着想を得たクリスタルで覆われた椅子が、深刻な損傷を被った。観光客１人が写真撮影のために座った際に破損したと、作品を展示するイタリアの美術館が発表した。
+
+伊北部ベローナのパラッツォ・マッフェイが公開した映像には、同美術館の「ゴッホ」の椅子と共に男女が交代でポーズを取る様子が映っている。
+
+ここで男性が椅子に腰掛けたところ、座面と前部...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234331.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/45112ae315f0b14a34a5866a51bcab17/t/768/432/d/italy-chair-00-00-13-16-still001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234332.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T09:20:00+09:00</dc:date>
+        <title>ゲーム愛好家の「神のインフルエンサー」、９月に列聖式　ミレニアル世代で初</title>
+        <link>https://www.cnn.co.jp/world/35234332.html?ref=rss</link>
+        <description>ローマ教皇レオ１４世は、１０代で亡くなったゲーム愛好家のイタリア人、カルロ・アクティスさんの列聖式（福者を聖人に加える式典）を９月７日に行うと明らかにした。
+
+アクティスさんは２００６年、白血病のため１５歳で死去した。アクティスさんは、カトリック教会で初めてミレニアル世代の聖人となる。列聖式はバチカンのサンピエトロ広場で行われ、若者を中心に数千人が参列するとみられる。
+
+バチカン（ローマ教皇庁）は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234332.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/44da24b7aa2ebe5864cd967a6852c989/t/768/432/d/gettyimages-2205838353.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234325.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T08:36:00+09:00</dc:date>
+        <title>イラン、モサドの浸透で募る疑心暗鬼　「マスク、帽子、サングラス」の人物に警戒促す</title>
+        <link>https://www.cnn.co.jp/world/35234325.html?ref=rss</link>
+        <description>イランでスパイ容疑による逮捕者が相次いでいる。イスラエルの情報機関モサドの浸透の度合いを巡り、懸念が高まっていることが背景にある。
+
+イスラエルの攻撃が１３日に始まって以来、イラン首都テヘランでは２８人が逮捕され、イスラエルのスパイとして告発されている。１６日には、２年前に同じ容疑で逮捕された男が絞首刑に処された。これはイスラエルへの協力を考える者へのメッセージと思われる。
+
+イラン政権はまた、「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234325.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/1080b05b13f7b0ae4d0571cc27732c7e/t/768/432/d/c-ap25167376256242.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234322.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T08:09:00+09:00</dc:date>
+        <title>トランプ氏、イラン巡るＧ７共同声明に署名しない方針</title>
+        <link>https://www.cnn.co.jp/usa/35234322.html?ref=rss</link>
+        <description>米国のトランプ大統領は、カナダで開催されている主要７カ国首脳会議（Ｇ７サミット）で、イスラエルとイランの緊張緩和を求める共同声明に署名しない方針だ。声明はＧ７首脳らが草案を作成した。事情に詳しい人物が明らかにした。ただ声明を準備した当局者らは、トランプ氏が最終的に納得して署名することを依然として期待している。
+
+欧州の当局者が先頭に立って作成した草案は、イスラエルの自衛権を認める一方、イランの核...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234322.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/307457862bb5ef3f059f1160ad58bf74/t/768/432/d/c-gettyimages-2219726418.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35234328.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T07:40:00+09:00</dc:date>
+        <title>大谷翔平、「二刀流」復活へ　パドレス戦で６６３日ぶりに投手復帰</title>
+        <link>https://www.cnn.co.jp/showbiz/35234328.html?ref=rss</link>
+        <description>米大リーグのロサンゼルス・ドジャースは１５日、「二刀流」のスター選手、大谷翔平（３０）が１６日のサンディエゴ・パドレス戦でドジャース移籍後初めてマウンドに立つと発表した。
+
+大谷が公式戦で投げるのは、エンゼルス所属時の２０２３年８月２３日以来、実に６６３日ぶり。
+
+大谷は５月下旬に最初の実戦形式の投球練習（ライブＢＰ）を行い、デーブ・ロバーツ監督は当時、大谷が投手として実戦に復帰するのは７月のオー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35234328.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/de366d970be784d8e97b3ae4fb3e322e/t/768/432/d/gettyimages-2219669422.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234323.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-17T07:03:00+09:00</dc:date>
+        <title>イスラエルとイランの応酬激化、衝突４日目に　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35234323.html?ref=rss</link>
+        <description>イスラエルとイランの衝突は４日目に入り、両国は最新の攻撃による被害の把握を急いでいる。
+
+イランのミサイルが夜間にイスラエルの製油所と送電網を攻撃した。一方、イスラエル軍（ＩＤＦ）はイランのミサイル発射装置のおよそ３分の１を破壊したと発表した。
+
+主な動きは次の通り。
+
+イランがイスラエルに３００発超のミサイル発射：イスラエル首相府によると、４日間で計３７０発の弾道ミサイルと数百機のドローン（無人機...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234323.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/47c65c6d8fa41c37c073e6011062d918/t/768/512/d/large_gettyimages-2219687755.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35234310.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-16T18:38:00+09:00</dc:date>
+        <title>米労働者の大部分がスケジュールで苦労、雇用主が気にすべき理由とは</title>
+        <link>https://www.cnn.co.jp/business/35234310.html?ref=rss</link>
+        <description>アリシア・コステロさんは米バージニア州の大型店で販売員として７年間勤務していたが、週ごとのスケジュールはばらばらで、有給休暇を申請するのも面倒だった。
+
+コステロさんはしばらくの間はなんとかやっていけていた。しかし、第１子を妊娠。医師の診察は少なくとも１カ月前には予約しなければならないのだが、承認される保証はなかった。
+
+「一生懸命働いてせっかくためた時間が限られ、その時間をいつ使えるのか、使えな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35234310.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/16/e7893edf4ea095522b0a6588f65cbe74/t/768/481/d/large_gettyimages-2032134544.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234317.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-16T17:40:00+09:00</dc:date>
+        <title>イラン核施設破壊、実現は困難か　地下深くに建設され爆弾到達できず</title>
+        <link>https://www.cnn.co.jp/world/35234317.html?ref=rss</link>
+        <description>イスラエルがイランの軍事施設や複数の核関連施設を攻撃するなか、イランの核計画を打倒することが現実的に可能かどうかという疑問が再び浮上している。
+
+英国の王立防衛安全保障研究所（ＲＵＳＩ）が３月にまとめた報告書は、その実現が容易ではないことを示している。
+
+イランの核施設の破壊には巨大な火力と米国からの支援が必要で、両国が共同で行っても、地下深くに設置されたイランの主要なウラン濃縮施設を貫くのは困難...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234317.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/16/884bed36d9bf40bb216ae51eddbc28b1/t/768/432/d/large-still-6009999999999-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234315.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-16T17:16:00+09:00</dc:date>
+        <title>イスラエルの死者、一晩で８人に　イランによるミサイル攻撃で</title>
+        <link>https://www.cnn.co.jp/world/35234315.html?ref=rss</link>
+        <description>イランによるミサイル攻撃で、イスラエル北部の都市ハイファでは一晩で新たに３人が死亡した。イスラエル当局が明らかにした。
+
+これにより、イランが１５日から行った夜間攻撃による死者は８人となった。イスラエル中部の都市ブネイブラクで１人、ペタクチクバで４人が死亡している。
+
+動画には、ハイファの製油所周辺で爆発が起こり、建物が損壊し、インフラが火災に見舞われる様子が映っている。
+
+イスラエル首相府によると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234315.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/16/b8b2708512b87f6e2709374c5d5a1c20/t/768/512/d/gettyimages-2219679681.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234308.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-16T16:00:00+09:00</dc:date>
+        <title>【分析】イスラエルの「ライジング・ライオン作戦」、イランはどう対処すべきか</title>
+        <link>https://www.cnn.co.jp/world/35234308.html?ref=rss</link>
+        <description>イスラエルによるイランに対する軍事・諜報（ちょうほう）作戦が１２日夜に開始された。その規模と範囲は前例のないものだ。筆者は当時、ＣＮＮのアンダーソン・クーパー氏の番組に生出演しており、攻撃の全容は次第に明らかになっていった。
+
+今後の展開を見据えて考慮すべき点を三つ挙げる。
+
+第一に、今回の作戦は規模、範囲、効果において前例のない、すべてを網羅した軍事・諜報作戦である。
+
+イスラエルはこれを「ライジ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234308.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/16/28f57a310f2b90b0011c1216c63db1bd/t/768/512/d/2025-06-13t023113z-1823656161-rc2e1faaw8kd-rtrmadp-3-iran-nuclear-20250613082918276.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234307.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-16T14:23:00+09:00</dc:date>
+        <title>中高年世代で虫垂がんの症例数が急増、親の世代に比べて３倍以上　米</title>
+        <link>https://www.cnn.co.jp/fringe/35234307.html?ref=rss</link>
+        <description>米国で虫垂がんと診断される患者が、中高年に差しかかったＸ世代とその下のミレニアル世代で、親の世代に比べて急増している。
+
+虫垂は腹部の右下にある大腸から伸びた小さな袋状の臓器で、免疫系を支えている。米国の患者は推定で年間１００万人に１～２人程度と比較的まれ。しかしこのほど医学誌に発表された最新の研究によれば、１９４１～４９年生まれの世代に比べると、虫垂がんの症例数は７６～８４年生まれの世代では３...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234307.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/16/3abfaca697df9e93ffc38da2118a9569/t/768/511/d/large_chris-in-fort-greene-photo-by-toni-dubois.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234305.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-16T13:02:00+09:00</dc:date>
+        <title>Ｇ７サミット開幕へ　貿易を「協議しないわけにはいかない」、中東情勢緊迫も</title>
+        <link>https://www.cnn.co.jp/world/35234305.html?ref=rss</link>
+        <description>米国のトランプ大統領をはじめとする各国首脳は、イスラエルによる前例のないイラン攻撃からわずか数日後、カナダで開催される主要７カ国首脳会議（Ｇ７サミット）に出席する。通常であれば、こうした紛争の進展が議論の焦点となるはずだが、各国首脳は今回、もう一つの喫緊の課題にも焦点を当てる必要があるだろう。すなわち、貿易だ。
+
+米シンクタンク「アトランティック・カウンシル」のジョシュ・リプスキー氏は「どの国の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234305.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/16/a09eff96d83be1b723ff6fd59f0f9e18/t/768/432/d/gettyimages-2208844252.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234295.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-16T11:51:00+09:00</dc:date>
+        <title>イスラエルによるイラン最高指導者の暗殺計画、トランプ氏が反対　米当局者</title>
+        <link>https://www.cnn.co.jp/usa/35234295.html?ref=rss</link>
+        <description>イスラエルとイランの軍事衝突が続くなか、米国のトランプ大統領が、イランの最高指導者ハメネイ師を暗殺しようとするイスラエルの計画に反対したことがわかった。情報筋２人が明らかにした。トランプ氏は今のところ、イスラエルとイランの対立に米国を介入させたくないとの考えを公の場でも非公開の場でも明確にしている。
+
+米政府高官は週末、ＣＮＮに対し、イスラエルにはハメネイ師を殺害する機会があったと語った。高官に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234295.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/16/044f44d14c12a14065a63cf693bb3c61/t/768/432/d/gettyimages-2219812824.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35234298.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-16T11:33:00+09:00</dc:date>
+        <title>米紙ワシントン・ポストにサイバー攻撃、記者の電子メールに不正侵入</title>
+        <link>https://www.cnn.co.jp/tech/35234298.html?ref=rss</link>
+        <description>米紙ワシントン・ポストの複数の記者を狙って何者かが電子メールアカウントに不正侵入しようとしていたことが、ＣＮＮが入手した社内通知で明らかになった。
+
+マット・マレー編集主幹から従業員に宛てた１５日付の通知によると、特定の記者の電子メールに標的を絞ったと思われる不正侵入を同紙が発見したのは１２日。これを受けて１３日、全従業員のパスワードをリセットした。
+
+「調査は継続しているが、限られた数の記者の電...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35234298.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/16/3139b9df896ca14d8e61f0edc2896c18/t/768/432/d/gettyimages-2155587395.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234285.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-16T10:34:00+09:00</dc:date>
+        <title>イラン国民を襲う紛争拡大の恐怖、多くが大都市から避難</title>
+        <link>https://www.cnn.co.jp/world/35234285.html?ref=rss</link>
+        <description>イランの核開発計画をめぐりイスラエルが攻撃を継続すると表明したことで、イラン国民の間に恐怖が広がっている。多くの人々は首都テヘランを含む大都市から安全な地域を求めて避難している。
+
+イスラエルの攻撃を受けたテヘラン北部の裕福な住宅街の住民はＣＮＮに対し、一晩中爆発音が鳴り響き、アパート全体が揺れるほど大きな爆発もあったと語った。
+
+イスラエルとは異なり、テヘランには近代的な防空ごうがないため、トン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234285.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/16/7b1c6df6101a57d83848ec2dcaa26056/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWJ4bXh2OHEwMDAzM2I2a3gxZDl0bDkx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtYnhteGZsNjAwNnAyNnA3ZzgwMDFmeWY_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234291.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-16T10:15:00+09:00</dc:date>
+        <title>イスラエルとイランの軍事衝突続く　死者イランで２２４人、イスラエルで１４人に</title>
+        <link>https://www.cnn.co.jp/world/35234291.html?ref=rss</link>
+        <description>イスラエルとイランの軍事衝突が１５日から１６日にかけても続いている。イスラエル軍のエヤル・ザミール参謀総長は、今後も一層作戦を強化すると宣言した。
+
+イラン国営メディアによると、イランは１５日深夜、ミサイルとドローン（無人機）で再びイスラエルを攻撃した。「トゥルー・プロミス３」と命名されたこの作戦では、イスラエルの住宅やインフラを狙って「数百発の弾道ミサイル」を発射したとイランのメフル通信は伝え...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234291.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/16/1f83fa54b6737a599ade487e473158f8/t/768/511/d/large_gettyimages-2219657550.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
