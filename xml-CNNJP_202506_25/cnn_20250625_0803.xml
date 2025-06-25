@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-06-25T16:28:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35234719.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234718.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234700.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234710.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234696.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234701.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234706.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234698.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234697.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234694.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234692.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234690.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234688.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234685.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234682.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234684.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35234663.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35234656.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234657.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35234660.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234668.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234667.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234659.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234651.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234622.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234647.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234646.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234644.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35234643.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234639.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/business/35234719.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T16:28:00+09:00</dc:date>
+        <title>ピクルス味のカップヌードル、期間限定で登場　米</title>
+        <link>https://www.cnn.co.jp/business/35234719.html?ref=rss</link>
+        <description>米国日清はこのほど、酸味の効いたピクルス味のカップヌードルを期間限定で発売した。同社は、ＳＮＳを席巻し、好奇心旺盛な消費者を引きつけているピクルスブームに乗りたい考えだ。
+
+「ディルピクルスは、特にＺ世代やミレニアル世代の若年層の間で人気を集めている」と、米国日清のマーケティング担当上級副社長、プリシラ・スタントン氏は指摘し、ＴｉｋＴｏｋ（ティックトック）や、ハンバーガーレストラン「シェイクシャ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35234719.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/5ec40a0bac3710ca4bc7e1f81cc7ecbb/t/768/432/d/cn-dill-pickle-3d-final-rendering-tilted-front-1-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234718.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T15:38:00+09:00</dc:date>
+        <title>トランプ氏がＣＮＮに反論　「イラン核開発の中枢破壊に至らず」との報道巡り</title>
+        <link>https://www.cnn.co.jp/usa/35234718.html?ref=rss</link>
+        <description>トランプ米大統領はＳＮＳトゥルース・ソーシャルへの投稿で、イラン核施設に対する攻撃を巡り、米情報機関の初期評価では核開発プログラムの中枢部分を破壊できなかったことが示唆されていると伝えたＣＮＮの報道に反論した。
+
+トランプ氏は今週の北大西洋条約機構（ＮＡＴＯ）首脳会議に出席するためオランダに滞在中。今回の攻撃を「歴史上最も成功した軍事作戦の一つ」と評し、「イランの核施設は完全破壊されている！」と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234718.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/b45ab0c67fdab0ed786c993bda1b347f/t/768/512/d/gettyimages-2221935138.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234700.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T15:18:00+09:00</dc:date>
+        <title>神秘的なシンボルが記された千年前の剣を発見、保存状態も良好　オランダ</title>
+        <link>https://www.cnn.co.jp/fringe/35234700.html?ref=rss</link>
+        <description>オランダ中部の川で行われた浚渫（しゅんせつ）作業中に偶然見つかった中世の剣が博物館で展示されている。
+
+この剣は昨年３月１日にリンスホーテンの地所の定期点検中に発見され、ライデンの国立古代博物館に寄贈された。博物館が２４日、声明で明らかにした。
+
+博物館によれば、この剣は１０５０年から１１５０年ごろに作られたもので、長さは１メートル。十字架と「終わりなき結び目」として知られる神秘的なシンボルを形成...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234700.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/1b1f8209d72d83555cdc4560b3f14872/t/768/432/d/001-zwaard-linschoten-foto-ruben-de-heer-4-copy.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234710.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T13:57:00+09:00</dc:date>
+        <title>トランプ政権、ＤＯＧＥ主導の連邦職員解雇をひそかに撤回　再雇用に奔走</title>
+        <link>https://www.cnn.co.jp/usa/35234710.html?ref=rss</link>
+        <description>米連邦政府機関が、トランプ大統領の就任後数週間で解雇された職員の一部を再雇用したり、休暇から復帰させたりしていることが分かった。政府効率化省（ＤＯＧＥ）が主導した連邦職員削減によって生じたサービス上の重大な空白を埋めるため各機関は奔走している。
+
+トランプ政権は、解雇や希望退職をひそかに撤回している。これには、欠員を補うための新規採用も含まれる。この動きは、連邦政府機関が歳出削減策の一環として「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234710.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/1966844d0e1a4fc9c22a7814e3f3676d/t/768/511/d/large_gettyimages-2204187813.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234696.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T13:13:00+09:00</dc:date>
+        <title>交代の仮眠と携帯トイレ、アンフェタミンも　長時間の爆撃任務完遂のために必要なこととは</title>
+        <link>https://www.cnn.co.jp/usa/35234696.html?ref=rss</link>
+        <description>米軍が２１日にイランの核施設３カ所を狙って実施した空爆は、使用されたステルス爆撃機Ｂ２のパイロットたちにとって人間の持久力の限界に挑戦する３７時間もの過酷な任務だった。
+
+それぞれ２人のパイロットが搭乗した７機のＢ２は、地球半周分の距離を連続飛行で往復。作戦は現代軍事史上最長の空爆の一つとなった。
+
+メルビン・ディエール氏は、今回のような長時間任務中のコックピットがどんな状況なのか理解する数少ない...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234696.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/6117fa6f4f1cf9cf87d2281f52a7619b/t/768/432/d/iran-nuclear.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234701.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T12:45:00+09:00</dc:date>
+        <title>英、核搭載可能なＦ３５Ａ戦闘機１２機を米から購入へ　ＮＡＴＯ核ミッションにも参加</title>
+        <link>https://www.cnn.co.jp/world/35234701.html?ref=rss</link>
+        <description>英国が核兵器搭載可能なＦ３５Ａ戦闘機１２機を米国から購入することが明らかになった。
+
+スターマー英首相が２５日の北大西洋条約機構（ＮＡＴＯ）首脳会議で発表する見通し。加盟国に対し、同盟の支援に向けたさらなる努力も呼びかけるとみられる。
+
+首相官邸によれば、スターマー氏は「英国のＮＡＴＯへのコミットメントは疑う余地がなく、英国の安全と安心の維持に対する同盟の貢献も同様だ」と表明する予定。
+
+その上で「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234701.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/1ab82f09c55c4df4e60d4ac00e85dd2f/t/768/432/d/8937622.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234706.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T12:08:00+09:00</dc:date>
+        <title>米東海岸を覆う異常な猛暑、ＮＹやボストンも記録的な気温　熱中症続出、交通にも支障</title>
+        <link>https://www.cnn.co.jp/usa/35234706.html?ref=rss</link>
+        <description>米中部から東部にかけての一帯で異常な猛暑が続いている。２３日から２４日にかけてはニューヨークやボストンなど東海岸の主要都市で記録的な最高気温を観測し、熱中症の症状で搬送される人が各地で続出した。
+
+上空の熱が閉じ込められるヒートドーム現象の影響で、米中部では数日前から酷暑が続き、２３日には東部で夏の最高気温と並ぶレベルに到達。２４日には暑さがピークに達した。
+
+警察によると、ミズーリ州セントルイス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234706.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/0c128c8ff3cb7ce782dc56a8ae2a598e/t/768/497/d/002-rtrmadp-3-usa-weather-1200.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234698.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T11:30:00+09:00</dc:date>
+        <title>ベゾス氏のベネチア豪華挙式、会場変更の情報　反対運動の市民が「勝利」宣言</title>
+        <link>https://www.cnn.co.jp/world/35234698.html?ref=rss</link>
+        <description>イタリアのベネチアで今月末に予定されている米アマゾン創業者ジェフ・ベゾス氏とジャーナリストのローレン・サンチェス氏の豪華挙式について、披露宴会場の変更が伝えられたことを受けて反対運動を展開していた市民らが「勝利」を宣言した。
+
+ベゾス氏とサンチェス氏は結婚式翌日の２８日、ベネチア中心部にある１４世紀の建造物「ミセリコルディア」で盛大な披露宴を開く予定だったとされ、これに反対する団体「ノー・スペー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234698.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/9214eb45fc7cd188ff23a8c8701616db/t/768/512/d/gettyimages-2220914020-1200w.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234697.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T11:09:00+09:00</dc:date>
+        <title>トランプ大統領のイラン空爆、米国民の５６％が不支持　ＣＮＮ世論調査</title>
+        <link>https://www.cnn.co.jp/usa/35234697.html?ref=rss</link>
+        <description>イランの核施設に対する空爆に踏み切った米国のドナルド・トランプ大統領の判断について、調査会社ＳＳＲＳが攻撃後に実施したＣＮＮの世論調査で「支持しない」が５６％を占め、「支持する」の４４％を上回った。
+
+イランに対する武力行使をめぐり、約１０人中６人は、米国に対するイランの脅威増大に懸念を示した。
+
+全般的に、民主党支持者は攻撃に反対、共和党支持者は賛成する傾向が顕著だった。ただ、共和党支持者や共和...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234697.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/761ce64e77a09198e28d3957133fc01c/t/768/512/d/large-ap25174727601670.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234694.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T10:02:00+09:00</dc:date>
+        <title>イラン大統領、米国との「問題解決」に前向き　サウジ皇太子と電話会談</title>
+        <link>https://www.cnn.co.jp/world/35234694.html?ref=rss</link>
+        <description>イランのペゼシュキアン大統領は２５日までに、米国と「問題解決」に向けた用意があると語った。国営イラン放送（ＩＲＩＢ）が報じた。
+
+サウジアラビアのムハンマド皇太子との電話会談で、ペゼシュキアン氏は、友好国からの「あらゆる支援」を歓迎すると語った。
+
+電話会談は、サウジのファイサル外相がカタール・ドーハで開催中の湾岸協力会議（ＧＣＣ）の緊急会合に出席している最中に行われた。同会議にはバーレーン、クウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234694.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/d3d238100ac7ca8f8854a1219af93ac0/t/768/512/d/large-Iranian-President-Pezeshkian.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234692.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T09:37:00+09:00</dc:date>
+        <title>犯罪組織と警察を批判の男性、ライブ配信中に射殺　ベネズエラ</title>
+        <link>https://www.cnn.co.jp/world/35234692.html?ref=rss</link>
+        <description>南米ベネズエラで犯罪組織や警官の汚職疑惑を批判していたインフルエンサーの男性が、ＴｉｋＴｏｋ（ティックトック）のライブ配信中に射殺された。当局が明らかにした。
+
+ベネズエラ公安省の発表によると、ガブリエル・ヘスス・サルミエントさんは２３日、アラグア州の州都マラカイ市で死亡した。
+
+サルミエントさんはネットを通じて犯罪組織を批判し、警察の汚職疑惑を追及していた。射殺される直前、犯罪組織のメンバーや警...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234692.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/a78cad0df0583c7ed0b88b1638d65ff3/t/768/432/d/untitled-1-20250624230323244.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234690.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T09:17:00+09:00</dc:date>
+        <title>イランの体制変更「望まない」　トランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35234690.html?ref=rss</link>
+        <description>トランプ米大統領は２４日、「混乱」を見たくないとしてイランでの「体制転換」を望んでいないと語った。
+
+トランプ氏は大統領専用機エアフォースワンで、イランの体制転換の可能性を示唆した週末のＳＮＳへの投稿について説明を求められた。トランプ氏は記者団に、体制転換を「望んでいない」とし、「できるだけ早くすべてが落ち着いてほしい」と述べた。
+
+トランプ氏は「体制転換は混乱を招く。理想的にはそのような混乱は避...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234690.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/a6b171541a0af772c26dad22a79cccb2/t/768/511/d/large-3-usa-iran-trump-khamenei.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234688.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T08:20:00+09:00</dc:date>
+        <title>ＮＡＴＯ事務総長、トランプ氏のイラン対応を称賛</title>
+        <link>https://www.cnn.co.jp/world/35234688.html?ref=rss</link>
+        <description>トランプ米大統領はＳＮＳ「トゥルース・ソーシャル」に北大西洋条約機構（ＮＡＴＯ）のルッテ事務総長から受け取ったメッセージの画像を投稿した。ルッテ氏は「イランでの決断力ある行動に感謝する。本当に素晴らしい行動だった。ほかの誰も敢行できなかった。われわれ全員をより安全にするものだ」とたたえた。
+
+トランプ氏はＮＡＴＯ首脳会議へ向かっている。公開されたメッセージによると、ルッテ氏はトランプ氏が加盟国の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234688.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/c71d4a7477b1ce038937626c202bbb0c/t/768/511/d/large-NATO-Secretary-General-Rutte.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234685.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T07:47:00+09:00</dc:date>
+        <title>ロシア、イラン・イスラエル停戦を歓迎　停戦の継続求める</title>
+        <link>https://www.cnn.co.jp/world/35234685.html?ref=rss</link>
+        <description>ロシアは２４日、イランとイスラエルの間で成立した停戦を歓迎した。前日には、イランのアラグチ外相がモスクワで、ロシアのプーチン大統領と会談していた。
+
+ロシアのペスコフ大統領報道官は定例記者会見で、もし停戦が実際に成立したのであれば、それは歓迎すべきことだと述べた。さらに「これはこの紛争の当初からロシア連邦が呼びかけてきたことだ。この停戦が持続的なものになることを期待する」と語った。
+
+イランはウク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234685.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/bc1ad8057afd81881cff2e073bb6e850/t/768/512/d/large_gettyimages-2221162712.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234682.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T07:02:00+09:00</dc:date>
+        <title>米軍のイラン空爆、核開発の中枢破壊に至らず　初期評価　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35234682.html?ref=rss</link>
+        <description>米軍が２１日に行ったイランの核施設への空爆について、初期評価ではイランの核開発プログラムの中枢部分を破壊するには至っておらず、開発計画を数カ月後退させた程度とみていることが情報筋の話で明らかになった。
+
+初期評価は米国防総省の国防情報局がまとめた。情報筋によると、空爆後に米中央軍が実施した被害評価に基づいているという。
+
+核施設のダメージの程度と核開発計画への影響の分析は継続中で、今後明らかになる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234682.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/0ee18ec171d49e6219d8a8bf5c3b2c94/t/768/467/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWNhczFqcWcwMDAyM2I2bWJzdXN0d2xj-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtY2FxY2RnYTAwMXcyNnFmZTFwemdwbTY_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234684.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-25T06:58:00+09:00</dc:date>
+        <title>ウクライナ中部に弾道ミサイル、１５人死亡　ＮＡＴＯ会議開催中に</title>
+        <link>https://www.cnn.co.jp/world/35234684.html?ref=rss</link>
+        <description>ウクライナ中部ドニプロペトロウスク州の州都ドニプロに２４日、ロシア軍のミサイル攻撃があり、１５人が死亡した。前日には首都キーウのアパートへの攻撃で９人が死亡しており、ロシア軍の攻撃が激化している。
+
+このほか、スーミ、ヘルソン、ドネツク、オデーサなど各州で少なくとも２４人が死亡した。
+
+ウクライナのゼレンスキー大統領は２４日、オランダで開催中の北大西洋条約機構（ＮＡＴＯ）の首脳会議に出席。ＮＡＴＯ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234684.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/25/fd296a7af34c80f5f3900582883b3dc7/t/768/432/d/c-2025-06-24t130357z-384679607-rc209fai6doi-rtrmadp-3-ukraine-crisis-attack-dnipro.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35234663.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T19:34:00+09:00</dc:date>
+        <title>生成ＡＩへの質問、隠れた環境コストがかかる可能性も</title>
+        <link>https://www.cnn.co.jp/tech/35234663.html?ref=rss</link>
+        <description>仕事のメールに返信したり、結婚の誓いを作成したりと、生成ＡＩ（人工知能）は多くの人々の生活において頼りになる副操縦士だ。だが、ＡＩが問題を解決するたびに隠れた環境コストが積み重なっていることを示す研究結果が増えている。
+
+ＡＩに出す指示（プロンプト）は「トークンＩＤ」と呼ばれる数字の集まりに分解され、石炭火力発電所や天然ガス発電所によって稼働する巨大なデータセンター（フットボールの競技場より大き...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35234663.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/23/fcf5fd5664ad8b9b177501bda85438c9/t/768/512/d/large-gettyimages-2087154880.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35234656.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T18:51:00+09:00</dc:date>
+        <title>新しいヌーディズム――２１世紀に服を脱ぐためのガイド</title>
+        <link>https://www.cnn.co.jp/travel/35234656.html?ref=rss</link>
+        <description>「ナチュリズムとは体を解放し、ありのまま自分を受け入れること」。立派な白いカイゼルひげをたくわえたカナダ人、ステファン・デシェーヌ氏は目を輝かせながらそう語る。
+
+取材班はブリティッシュ・ナチュリズムの施設「サンフォーク」のオープニング式典に合わせ、温水浴槽のそばに集まっていた。サンフォークは９４年の歴史を持つナチュリストための施設で、改修を経て再オープンの時を迎えている。
+
+国際ナチュリスト連盟...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35234656.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/24/0211a664be4f022dbe7bc161f5c09a21/t/768/512/d/nudism1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234657.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T17:44:00+09:00</dc:date>
+        <title>ベラ・ルービン天文台、史上最大級のカメラで撮影した画像を公開　数百万の銀河が明らかに</title>
+        <link>https://www.cnn.co.jp/fringe/35234657.html?ref=rss</link>
+        <description>米国立科学財団（ＮＳＦ）は２３日、ベラ・ルービン天文台で史上最大級のカメラによって撮影された多くの画像と動画を同財団のユーチューブチャンネルで公開した。天文台の名前は先駆的な天文学者ベラ・ルービン氏にちなんで名付けられている。
+
+映像はわずか１０時間の試験観測で撮影されたもの。これまでにない規模で数百万もの遠方の恒星や銀河からの光を捉え、数千もの未知の小惑星を明らかにした。
+
+  
+  
+三裂星雲の近く...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234657.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/24/55ef4afe9be295822914a1e6b814650a/t/768/432/d/rubin_01.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35234660.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T17:38:00+09:00</dc:date>
+        <title>写真特集：ベラ・ルービン天文台が捉えた、鮮やかな銀河や星形成領域</title>
+        <link>https://www.cnn.co.jp/photo/35234660.html?ref=rss</link>
+        <description>ベラ・ルービン天文台で史上最大のカメラによって撮影された鮮やかな銀河や星形成領域の画像を紹介する&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35234660.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/24/62c26fbeab962a63cff0331763af92d0/t/768/768/d/rubin_04.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234668.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T17:26:00+09:00</dc:date>
+        <title>トランプ氏、戦争のやまない中東に「永遠」の平和が訪れたと主張　現実か幻想か</title>
+        <link>https://www.cnn.co.jp/world/35234668.html?ref=rss</link>
+        <description>泥沼はこれで終わりだ。トランプ米大統領は、米国とイランの対立という最悪の危機から勝利を手に脱却したようだ。
+
+米国による核施設への攻撃に対し、イランが２３日に控えめなミサイル攻撃で報復したことを、トランプ氏はエスカレーションを終わらせようとする意思の表れと捉えた。「世界よ、おめでとう。平和の時だ！」と、トランプ氏は自身のＳＮＳ「トゥルース・ソーシャル」に書き込んだ。
+
+トランプ氏の喜びようは、米国...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234667.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T16:32:00+09:00</dc:date>
+        <title>イスラエル、停戦への同意を発表　イランへの攻撃は「多大な成功」</title>
+        <link>https://www.cnn.co.jp/world/35234667.html?ref=rss</link>
+        <description>イスラエルは声明で、イランにおける軍事的成功を受け、トランプ米大統領の停戦案に同意したと発表した。声明はネタニヤフ首相が率いる政府を代表する形で発表された。
+
+イスラエルが停戦について公式に言及したのはこの声明が初めて。約２週間にわたるイランへの攻撃でイスラエルは全ての目的を「はるかに超えて」達成したと述べた。
+
+声明は、「イスラエルは、核兵器と弾道ミサイルの両面において、差し迫った存亡に関わる二...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234659.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T15:41:00+09:00</dc:date>
+        <title>兵役逃れ疑惑で軍の問題点が露呈、改革求める声も　台湾</title>
+        <link>https://www.cnn.co.jp/world/35234659.html?ref=rss</link>
+        <description>台湾で俳優やインフルエンサー、ミュージシャンらが兵役逃れを図ったとの疑惑が浮上し、軍の問題点が改めて指摘されている。
+
+台湾では１９～３６歳の男性に兵役が義務付けられている。中国からの脅威が高まるなか、現在の兵役制度に対しては、実戦に向けた訓練が不十分だとする批判が集まっている。
+
+当局は１６日、兵役逃れにかかわる罪で２８人を起訴した。検察によると、２０１６年から今年初めにかけて、健康な男性２４人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234659.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/24/96f79aebe3c8b391f71011697d0edbac/t/768/432/d/001-gettyimages-1455723608.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234651.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T14:43:00+09:00</dc:date>
+        <title>シャチが道具を使って「グルーミング」、初の観察事例</title>
+        <link>https://www.cnn.co.jp/fringe/35234651.html?ref=rss</link>
+        <description>行動生態学者のマイケル・ワイス氏は、セイリッシュ海で研究しているシャチの群れの新しいドローン（無人機）の映像を眺めていたとき、緑色のものを口にくわえたシャチを１頭発見し、普通とは違う行動に気が付いた。一部のシャチは、一度に最長１５分間も互いに体をこすり合わせていた。
+
+ワイス氏は当初、シャチは奇妙な行動をとるものだからと気にしていなかった。しかし、観察を続けるうちにドローンカメラが似たような光景...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234651.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/24/00770c7d8ce507c067c5cc31d10e8b6b/t/768/432/d/whale-with-kelp-in-its-mouth-credit-center-for-whale-research-nmfs-noaa-permit-27038.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234622.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T13:35:00+09:00</dc:date>
+        <title>ウニの爆発的増加でサンゴ礁が「回復不能な水準」にまで破壊される恐れ　ハワイ島</title>
+        <link>https://www.cnn.co.jp/world/35234622.html?ref=rss</link>
+        <description>ダイビングなどで人気のハワイ島ホナウナウ湾にウニが大量に生息し、サンゴ礁を「回復の限界を超えて」破壊する恐れがあることが、新たな研究で明らかになった。
+
+科学誌プロスワンに先月掲載された研究によると、ウニの個体数が爆発的に増加しているのは、魚類が乱獲によって減少しているためだという。通常であれば魚類はウニの個体数を維持する役割を果たす。この状況は、汚染に加え、気候変動による海洋熱波や海面上昇の影...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234622.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/23/62f7964228353a08ddca802a7ef5990d/t/768/487/d/large_asner-gao-shot-asu-boats-in-honaunau-bay-25jan2020.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234647.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T12:27:00+09:00</dc:date>
+        <title>移民を南スーダンなど第三国に強制移送　トランプ米政権の措置、最高裁が認める判断</title>
+        <link>https://www.cnn.co.jp/usa/35234647.html?ref=rss</link>
+        <description>米最高裁は２３日、滞在資格のない移民をアフリカの南スーダンなど出身国以外の第三国へ最小限の通告で強制移送する措置について、再開を求めたドナルド・トランプ大統領側の訴えを認めた。政権にとっては大きな勝利だった。
+
+下級審では国土安全保障省に対し、移民を強制移送する場合は書面で移送先を通知し、拷問の恐れを理由とする不服申し立ての機会を与えるよう命じていた。この命令に対してトランプ政権側が不服を申し立...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234647.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/24/deb704522d9deedd39966ff219960beb/t/768/478/d/large-c-gettyimages-2218982473.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234646.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T12:04:00+09:00</dc:date>
+        <title>イラン外相、戦闘終結を示唆　対イスラエル軍事作戦は「最後の瞬間まで継続した」</title>
+        <link>https://www.cnn.co.jp/world/35234646.html?ref=rss</link>
+        <description>イランのアラグチ外相はイラン軍に謝意を示すとともに、イスラエルに対する軍事作戦は「最後の瞬間まで続いた」と述べ、戦闘終結の可能性を示唆した。
+
+アラグチ氏はＸ（旧ツイッター）に「イスラエルの侵略を罰することを目的とした我が軍の軍事作戦は最後の瞬間、午前４時まで続いた」と投稿した。
+
+アラグチ氏は先に、イスラエル時間より３０分早いテヘラン時間午前４時までにイスラエルが攻撃を停止すれば、イランも軍事対...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234644.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T11:30:00+09:00</dc:date>
+        <title>挙式直後の花嫁が撃たれて死亡、夫と子どもも重傷　フランス</title>
+        <link>https://www.cnn.co.jp/world/35234644.html?ref=rss</link>
+        <description>フランス南東部アビニヨンの近郊で、結婚式を終えたばかりの２７歳の花嫁が何者かに射殺される事件があった。
+
+地元検察の２２日の発表によると、事件は現地時間の同日午前４時半ごろ、アビニヨン近郊のグルト村で発生。２５歳の夫と１３歳の子どもも重傷を負った。
+
+２人は２１日、約１００人の招待客に囲まれて結婚式を挙げた後、車に乗って会場を後にしようとしたところ、１台の車が後ろに止まって妨害。車から出てきたフー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234644.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/24/3bed6e0a828cc7d82f0b922f162674db/t/768/432/d/gettyimages-2220705623.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35234643.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T10:43:00+09:00</dc:date>
+        <title>写真撮影の観光客、つまずいて絵画を破損　イタリアの美術館でまた被害</title>
+        <link>https://www.cnn.co.jp/travel/35234643.html?ref=rss</link>
+        <description>イタリアのフィレンツェにあるウフィツィ美術館で、写真のポーズを取っていた入場者がバランスを崩し、後ろにあった１７世紀の絵画にぶつかって破損させた。同美術館が２３日、ＣＮＮに明らかにした。
+
+破損したのは、イタリアの画家アントン・ドメニコ・ガッビアーニが１６９５～１７００年ごろに描いたトスカーナ公フェルディナンド・デ・メディチの肖像画。
+
+防犯カメラの映像には、この作品の前でポーズを取っていた男性が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35234643.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/24/fa6850660fc80faddab954b7c2ef0074/t/768/432/d/1748422219-mostra-settecento-uffizi-5-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234639.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-06-24T10:16:00+09:00</dc:date>
+        <title>イランが米提案の停戦に合意、カタール仲介　外交筋</title>
+        <link>https://www.cnn.co.jp/world/35234639.html?ref=rss</link>
+        <description>イランがカタール政府の仲介で行われた協議を受け、米国が提案したイスラエルとの停戦に合意した。この協議について説明を受けた外交官が明らかにした。
+
+同外交官によると、米国のドナルド・トランプ大統領がカタールの首長に対し、イランとの停戦合意を仲介するよう要請した。これは、イランがカタールの米軍基地を報復攻撃したことを受けたものだった。
+
+同外交官によれば、カタールのムハンマド首相が２３日にイランの同意...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234639.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/24/82d69797c9743f125ba52353e1a44d91/t/768/511/d/large-gettyimages-2179842150.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
