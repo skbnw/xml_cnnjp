@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-07-03T08:58:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235045.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235042.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235038.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235039.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235035.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235008.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235023.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235022.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235034.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235020.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235005.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235002.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235000.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234999.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235003.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234995.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234988.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234989.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234986.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234978.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234979.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234976.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234975.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35234974.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35234949.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234973.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234959.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234971.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35234945.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35234942.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/business/35235045.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-03T08:58:00+09:00</dc:date>
+        <title>テスラ４～６月期の販売台数、前年比１３．５％減　創業以来最大の減少</title>
+        <link>https://www.cnn.co.jp/business/35235045.html?ref=rss</link>
+        <description>米電気自動車（ＥＶ）大手テスラは２日、４～６月期の販売台数が前年同期比１３．５％減の３８万４１２２台だったと発表した。この減少幅は創業以来最大。販売台数減は２四半期連続で、最高経営責任者（ＣＥＯ）であるイーロン・マスク氏の政治活動が引き起こしたブランドの毀損（きそん）と競争の激化による打撃が続いている。
+
+販売台数の減少にもかかわらず、テスラの株価は２日の取引で４％近く上昇した。これは、一部のア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235045.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/03/cbc814e388257b2c43a623bfa3119a05/t/768/512/d/gettyimages-2212371203.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235042.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-03T08:11:00+09:00</dc:date>
+        <title>英キャサリン妃、がん治療後の「非常につらい」状況を語る</title>
+        <link>https://www.cnn.co.jp/world/35235042.html?ref=rss</link>
+        <description>英国のウィリアム王子の妻キャサリン妃は２日、エセックスのコルチェスター病院を訪れ、化学療法後の「非常につらい」状況について語った。キャサリン妃が公の場に姿を現したのは、２週間前に英王室が主催する競馬イベント「ロイヤルアスコット」への参加を急きょ取りやめて以降初めて。
+
+キャサリン妃は、患者らに対し「治療中はある種の気丈さや平静さを見せ、治療が終われば、前に進もう、元の状態に戻ろうという気持ちにな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235042.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/03/3151594e2308d20d97b1a4d09d49c884/t/768/512/d/gettyimages-2222465148.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235038.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-03T06:39:00+09:00</dc:date>
+        <title>トランプ氏、米・ベトナムの貿易交渉合意を表明　「相互関税２０％」</title>
+        <link>https://www.cnn.co.jp/business/35235038.html?ref=rss</link>
+        <description>米国が各国と進める貿易交渉に関し、トランプ米大統領は２日、米国がベトナムと合意したと明らかにした。トランプ氏が掲げる「相互関税」を９０日間停止するとした措置の期限が９日に迫る中、個別交渉での合意は３例目となる。
+
+トランプ氏が自身のＳＮＳに投稿したところによると、米国はベトナムからの輸入品に２０％の関税を課す。これは米国が現在各国に課している一律１０％の相互関税の２倍だ。米国は４月にベトナムに４...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235038.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/03/861b54c94d48e9a4144951399307b6bb/t/768/512/d/gettyimages-2207672593.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235039.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-03T06:24:00+09:00</dc:date>
+        <title>米音楽界の大物コムズ被告に有罪評決、売春関与で</title>
+        <link>https://www.cnn.co.jp/usa/35235039.html?ref=rss</link>
+        <description>米ニューヨーク連邦地裁の陪審は２日、米音楽界の大物、ショーン・コムズ被告（５５）に対し、売春に関与した罪で有罪評決を下した。性的人身売買などの罪については無罪とした。
+
+コムズ被告は性的人身売買の罪２件、売春に関与した罪２件、恐喝の共謀の罪１件で起訴されていた。
+
+有罪となった売春に関与した罪の最高刑は禁錮１０年。
+
+コムズ被告は昨年９月に逮捕・起訴され、罪状認否で無罪を主張していた。この間、保釈は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235039.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/03/1c051fda191bda192348c43711f1ecdf/t/768/507/d/2017-05-02t120000z-842525135-hp1ed52032brw-rtrmadp-3-fashion-metgala-20241010012536886.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235035.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T20:23:00+09:00</dc:date>
+        <title>１０代若者、いじめで有罪なら運転免許剥奪　米テネシー州で新法</title>
+        <link>https://www.cnn.co.jp/usa/35235035.html?ref=rss</link>
+        <description>米テネシー州で１日、新たな法律が施行された。いじめ及びネットいじめで有罪となった１０代の若者の運転免許証を裁判所が最長１年間停止することを認める内容。いじめで最も傷つく可能性のある１０代を対象にすることで、いじめそのものを撲滅することが目的だ。
+
+法案を提出したローウェル・ラッセル州議会議員は声明でＣＮＮの取材に答え、「いじめは長期的な害悪を引き起こす可能性があり、本人のその後の人生に精神的な問...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235035.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/3eb8a6186e8937dbf048cc4fffa13af7/t/768/511/d/large-ap25043182065214.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235008.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T19:26:00+09:00</dc:date>
+        <title>「アリゲーター・アルカトラズ」、米フロリダ州の新たな移民収容施設について知っておくべきこと</title>
+        <link>https://www.cnn.co.jp/usa/35235008.html?ref=rss</link>
+        <description>トランプ米大統領がフロリダ州マイアミに所有するリゾートから西へ８０キロ足らず、エバーグレーズ国立公園の湿地帯の奥深くに、政権が取り組む移民政策の最新の戦場が存在する。新たに設置された不法移民収容施設、通称「アリゲーター・アルカトラズ」がそれだ。
+
+ものの数日で、作業員らは現地の飛行場の滑走路を一時的な居住施設に作り替えた。トランプ氏は１日に当該の施設を視察した。
+
+拡張が完了すれば、強制送還を待つ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235008.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/2f3ce5ee4ba149e897fdc9fa67e925b1/t/768/511/d/large-gettyimages-2221823304.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235023.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T19:14:00+09:00</dc:date>
+        <title>米ＮＹ市長選　マムダニ氏が民主党予備選で勝利、３３歳の民主社会主義者</title>
+        <link>https://www.cnn.co.jp/usa/35235023.html?ref=rss</link>
+        <description>米ニューヨーク（ＮＹ）市の市長選をめぐり、ＮＹ州議会議員のゾーラン・マムダニ氏（３３）が１日、民主党の候補を決める予備選で勝利した。マムダニ氏はニューヨーク市クイーンズ地区を地盤としており、今年最も重要な選挙戦の一つで中心人物となる可能性が高い。
+
+マムダニ氏は６月２４日に投開票された予備選後、民主党候補となることはほぼ確実視されていた。しかし、マムダニ氏は１回目の投票で過半数を獲得できなかった...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235023.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/60d1406d73d39cd2e0981cd7c3b46232/t/768/432/d/Zohran-Mamdani.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235022.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T18:47:00+09:00</dc:date>
+        <title>トランプ氏、「甘やかされた」日本に警告　米国と貿易協定結べない可能性示唆</title>
+        <link>https://www.cnn.co.jp/business/35235022.html?ref=rss</link>
+        <description>トランプ米大統領が、日本との貿易協定締結に疑問を投げかけた。前日には日本の対米輸出品に高関税をかけると脅し、日本が米国産の米を購入しないと主張していた。
+
+トランプ氏は１日、大統領専用機エアフォースワンで記者団の取材に答え「我々は日本と取引してきた。取引が成立するかどうかは確信がなく、疑いを持っている」と語った。その上で日本や他の国々は「非常に甘やかされている」と指摘。３０～４０年にわたり米国を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235022.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/49d1f97a98b71119cc1b0fc2ada0b085/t/768/432/d/gettyimages-2221629718.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235034.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T18:35:00+09:00</dc:date>
+        <title>ＦＲＢ議長、トランプ関税がなければ利下げしていた</title>
+        <link>https://www.cnn.co.jp/business/35235034.html?ref=rss</link>
+        <description>米連邦準備制度理事会（ＦＲＢ）のパウエル議長は１日、ポルトガル・シントラで開かれた主要中央銀行トップのフォーラムで、トランプ米大統領による大幅な政策変更がなければ、ＦＲＢは今年、利下げに踏み切っていただろうとの認識を示した。
+
+ＦＲＢは今年に入って一度も利下げしていない。中央銀行の幹部らは、トランプ氏が課した関税が米経済に何らかの影響を与えるとの見方から、利下げを再開する前に事態が落ち着くのを見...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235034.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/cc76e394f42f1027de5277bdf9b7c3f6/t/768/432/d/gettyimages-2222093457.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235020.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T17:20:00+09:00</dc:date>
+        <title>チベット仏教の最後の指導者にはならず、ダライ・ラマが誓う</title>
+        <link>https://www.cnn.co.jp/world/35235020.html?ref=rss</link>
+        <description>チベット仏教の最高指導者ダライ・ラマ１４世は自身の死後、後継者が現れると明言し、何世紀にもわたる伝統が引き継がれていくとの認識を示した。こうした伝統はかねて、チベットの将来を巡る中国共産党との対立の火種となっている。
+
+ダライ・ラマは２日、インド北部ダラムサラに集まった宗教的指導層たちに向けた動画メッセージの中で上記の内容を宣言した。ノーベル平和賞受賞者でもあるダライ・ラマは、中国共産党の支配に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235020.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/6fa6c78f5b67c0b6825394b862e318b2/t/768/432/d/gettyimages-2222117722.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235005.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T16:08:00+09:00</dc:date>
+        <title>メキシコの海岸に漂着するスペースＸのロケット残骸、絶滅危惧のウミガメに影響の懸念</title>
+        <link>https://www.cnn.co.jp/world/35235005.html?ref=rss</link>
+        <description>メキシコ北東部タマウリパス州のメキシコ湾に面した砂浜に、溶けたプラスチックやアルミニウム、青い接着剤の破片など、ロケットの残骸が漂着した。この海岸には絶滅危惧種のウミガメが生息している。国境を隔てて隣接する米テキサス州には、米宇宙開発企業スペースＸの発射場がある。
+
+同州バグダッドのこの海岸では昨年１１月以来、非営利組織（ＮＧＯ）のコニビオ・グローバルが、スペースＸの残骸を回収する作業を続けてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235005.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/eef1cfb36d2742747e36bb59561a5c61/t/768/432/d/01jesus-elias-ibarra-space-x-debris_1200x675.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235002.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T14:46:00+09:00</dc:date>
+        <title> ＤＯＧＥはモンスター、「戻ってきてマスク氏を食い物にする」可能性　トランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35235002.html?ref=rss</link>
+        <description>米実業家イーロン・マスク氏とトランプ大統領の「休戦」は１カ月も続かなかった。
+
+上院が週末にトランプ氏の「大きな美しい法案」を審議入りさせる動議を僅差（きんさ）で可決したことを受け、マスク氏は６月３０日、自身の潤沢な資金を駆使して、法案に賛成した共和党議員への対抗馬を擁立する考えを表明した。マスク氏は３０日から７月１日未明にかけ、減税・歳出法案を批判する文章を繰り返し投稿。特に膨大なコストをやり...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235002.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/706b2d9d43fa60a0dba08732aa9900c8/t/768/512/d/trump_musk.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235000.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T14:15:00+09:00</dc:date>
+        <title>クイーンの「ライブエイド」、出演しなかった可能性も　メンバーが振り返る</title>
+        <link>https://www.cnn.co.jp/showbiz/35235000.html?ref=rss</link>
+        <description>英ロックバンド「クイーン」が１９８５年に開催された大規模なチャリティーコンサート「ライブエイド」で披露したパフォーマンスは歴史に残るものだった。だが、バンドメンバーのブライアン・メイとロジャー・テイラーは、出演しなかった可能性もあったと振り返った。
+
+メイとテイラーは英メディア「ラジオ・タイムズ」の取材に対し、ライブエイドの主催者だったボブ・ゲルドフ氏から声をかけられた際、リードシンガーのフレデ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235000.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/c5cc0f3e6ed124f8371514c049dda755/t/768/432/d/001-gettyimages-79031530.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234999.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T13:36:00+09:00</dc:date>
+        <title>人間の精液や卵胞液からもマイクロプラスチックを検出　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35234999.html?ref=rss</link>
+        <description>人間の精液と卵胞液からマイクロプラスチックが検出されたことが新たな研究でわかった。マイクロプラスチックは、海水、飲料水、食品のほか、生体組織にも広く見られるようになっている微小な破片を指す。
+
+ヒューマン・リプロダクション誌に１日に掲載された研究では、参加した女性２５人の卵胞液サンプルの６９％と男性１８人の精液サンプルの５５％からマイクロプラスチックが検出された。卵胞液は、卵巣内の卵胞にある卵子...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234999.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/a022ce210e61b6a4d89713304d574ceb/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWNsMjI3M2IwMDJhM2I2bXYycGt6OXEw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtY2wxbXdoMzAwNHUyN3FuYnVvdmhpMjg_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235003.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T13:06:00+09:00</dc:date>
+        <title>米、一部弾薬のウクライナへの搬送を停止　国防総省による対外支援の見直し受け</title>
+        <link>https://www.cnn.co.jp/usa/35235003.html?ref=rss</link>
+        <description>米国がウクライナに対する防空ミサイルを含む一部の弾薬の搬送を停止した。軍事費と対外支援の在り方を見直した結果だと、ホワイトハウス高官が明らかにした。
+
+米国のヘグセス国防長官が数カ月にわたる見直しの結果を承認したが、ほかの国への軍事支援が影響を受けるかどうかは現時点で不明だという。
+
+ホワイトハウスの報道官は声明で、今回の決定について、国防総省が実施した世界各国に対する軍事支援と援助の見直しを受け...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235003.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/b16e98c33fe5f99693403df0a9dec1cf/t/768/432/d/ap24267687278296.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234995.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T10:53:00+09:00</dc:date>
+        <title>フランスのビーチや公園が禁煙に、違反者は罰金　伝統文化に変化の兆し</title>
+        <link>https://www.cnn.co.jp/world/35234995.html?ref=rss</link>
+        <description>フランス全土で７月１日から、ビーチや公園、庭園、バス停、学校前、スポーツ競技場など、子どもの多い屋外の公共の場での喫煙が全面的に禁止された。エマニュエル・マクロン大統領は「たばこを吸わない初の世代」を２０３２年までに実現させると宣言している。
+
+禁煙区域で喫煙した場合は、観光客も含めて罰金の対象となる。罰金の額は１５日以内に支払えば９０ユーロ（約１万５０００円）、それを過ぎると１３５ユーロに跳ね...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234995.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/0510286e9bdab50beecce4549447fc12/t/768/512/d/gettyimages-1014490548.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234988.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T10:13:00+09:00</dc:date>
+        <title>人為的気候変動の最たる証拠を消そうとするトランプ政権、ハワイの観測所閉鎖を要求</title>
+        <link>https://www.cnn.co.jp/usa/35234988.html?ref=rss</link>
+        <description>トランプ政権が提出した予算案は、ハワイのマウナロア観測所の閉鎖を求めている。同観測所は１９５０年代以降、人為的な気候変動の最も決定的な証拠を収集してきた。
+
+マウナロア山の山頂にある同観測所は大気中の二酸化炭素を測定している。二酸化炭素は、他の地球温暖化を引き起こす汚染物質とともに、気候変動の直接的な要因となり、海面上昇を引き起こし、食料システムを破壊している。
+
+トランプ大統領の予算案は、アラス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234988.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/d797d068b1b5b39ec54379baa6b23c35/t/768/448/d/ap22334699842495.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234989.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T09:28:00+09:00</dc:date>
+        <title>性的暴行容疑で保育士の男を逮捕、子ども１２００人に感染症検査の勧告　豪</title>
+        <link>https://www.cnn.co.jp/world/35234989.html?ref=rss</link>
+        <description>オーストラリア東南部ビクトリア州警察は１日、同州メルボルンの保育所に勤務していた保育士の男を子どもに対する性的暴行などの容疑で逮捕したと発表した。この男が勤務する保育所に通っていた子ども１２００人の保護者に対しては、感染症の検査を受けさせるよう促している。
+
+警察の発表によると、逮捕されたのはジョシュア・デール・ブラウン容疑者（２６）。メルボルンの保育所で２０２２～２３年にかけ、生後５カ月から２...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234989.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/7fa3865aec4037fe5104edba3bfa096d/t/768/432/d/screenshot-2025-07-01-at-4-32-40-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234986.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T08:20:00+09:00</dc:date>
+        <title>イスラエル、ガザ６０日停戦に向けた必要条件に合意　トランプ氏発表</title>
+        <link>https://www.cnn.co.jp/world/35234986.html?ref=rss</link>
+        <description>トランプ米大統領は１日、イスラエルがパレスチナ自治区ガザ地区での停戦合意に必要な条件に同意したと述べた。イスラム組織ハマスがこの条件を受け入れるかどうかは現時点で明らかになっていない。
+
+トランプ氏は自身のＳＮＳ「トゥルース・ソーシャル」で、米国の代表団がイスラエルとガザについて長時間にわたる有意義な会談を行ったと投稿。「イスラエルは６０日間の停戦合意に必要な条件に同意した。この期間中、我々は全...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234986.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/d9c7fe16a4c3883c45ae114eb2f12566/t/768/512/d/gettyimages-2222325714.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234978.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T07:57:00+09:00</dc:date>
+        <title>仏エッフェル塔、酷暑で観光客の入場を禁止　欧州各地で初夏の熱波</title>
+        <link>https://www.cnn.co.jp/world/35234978.html?ref=rss</link>
+        <description>フランスの１６の地域で１日、最高レベルの熱波警報が発令された。対象にはパリのあるイル・ド・フランスも含まれる。エッフェル塔の頂上は１日と２日に観光客の立ち入りが禁止され、職員は訪れる予定の人々に猛暑対策を講じるよう呼びかけている。
+
+地中海の海洋熱波が強力なヒートドームと相まって、欧州は猛烈な初夏の熱波に見舞われている。
+
+地球温暖化に伴い、この現象は頻繁に発生している。近年の夏は、地中海の海洋熱...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234978.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/2b91f6906f4dacc5182e64c2fe54f0c9/t/768/512/d/gettyimages-2222191219.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234979.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T07:31:00+09:00</dc:date>
+        <title>トランプ氏肝いり法案へのマスク氏の批判、米高官が一蹴　「もう誰も取り合っていない」</title>
+        <link>https://www.cnn.co.jp/usa/35234979.html?ref=rss</link>
+        <description>米ホワイトハウス高官は１日、実業家イーロン・マスク氏によるトランプ大統領肝いりの法案への批判を一蹴し、政権内の誰も重視していないと述べた。
+
+この高官は「彼が何を言おうと、もはや誰も本気で取り合っていない」と説明。マスク氏が一度矛を収めたとみられる問題で再び批判を始めたきっかけが何かあったのか、ホワイトハウスの当局者には見当もつかないと言い添えた。
+
+ホワイトハウスに近い共和党関係者２人は、マスク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234979.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/9bd5360a76e43e843fea287e8777d0f4/t/768/512/d/gettyimages-2216312549-20250701190436976.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234976.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T06:27:00+09:00</dc:date>
+        <title>米国務長官、対外援助停止を宣言　５年で１４００万人死亡の分析も</title>
+        <link>https://www.cnn.co.jp/usa/35234976.html?ref=rss</link>
+        <description>ルビオ米国務長官は１日、国際開発局（ＵＳＡＩＤ）の対外援助が正式に終了すると宣言した。今後は米国の国益を促進する対外援助プログラムを実施するとしている。
+
+ルビオ氏は同日、「ＵＳＡＩＤの対外援助は７月１日をもって正式に終了する」とメルマガ配信サービス「サブスタック」に投稿した。「今後は政権の政策に沿い、かつ国益を促進する対外支援プログラムが説明責任や戦略、効率性を伴う形で実施される」と説明した。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234976.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/97a65280e74dede861298137ef121967/t/768/512/d/c-gettyimages-2214126997.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234975.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-02T06:22:00+09:00</dc:date>
+        <title>米上院、トランプ氏の大型減税法案を可決　下院で再採決へ</title>
+        <link>https://www.cnn.co.jp/usa/35234975.html?ref=rss</link>
+        <description>米上院は７月１日、トランプ大統領が目玉政策に掲げる大型減税や歳出削減を盛り込んだ減税・歳出法案を僅差（きんさ）で可決した。可決された法案は修正されているため、下院で再び採決が行われる。
+
+法案をめぐる審議は２日にわたって続いた。採決結果は賛成５０、反対５０と同数となったが、上院議長を務めるバンス副大統領が賛成票を投じて可決された。
+
+与党・共和党からはランド・ポール議員、スーザン・コリンズ議員、ト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234975.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/02/06420ef7e8398a74747b4e0d051fbae7/t/768/512/d/c-gettyimages-2222277953.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35234974.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-01T20:12:00+09:00</dc:date>
+        <title>オリビア・マンさん、「抜毛症」と共に生きる経験を語る</title>
+        <link>https://www.cnn.co.jp/showbiz/35234974.html?ref=rss</link>
+        <description>俳優のオリビア・マンさんはこのほど、あまり知られていない健康上の問題を抱えたうえで生活していることを明かした。
+
+マンさんは６月３０日に配信されたポッドキャストの番組で、「抜毛症（トリコチロマニア）」と呼ばれる精神疾患について、自身の経験を語った。米メイヨー・クリニックによると、抜毛症では「頭皮や眉毛など体の毛を抜きたいという抑えられない衝動に繰り返し襲われる」という。
+
+「頭のてっぺんの髪の毛か...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35234974.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/01/454e365140c26bdc4b61a2804f572b0e/t/768/432/d/gettyimages-2212487192.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35234949.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-01T19:45:00+09:00</dc:date>
+        <title>６０年近く動作していなかった人工衛星から強力な電波信号、天文学者を悩ませる</title>
+        <link>https://www.cnn.co.jp/fringe/35234949.html?ref=rss</link>
+        <description>オーストラリアの天文学者らは２０２４年６月、奇妙な電波信号を捉えた。それは地球に近い位置から発せられた非常に強力な電波信号で、一瞬の間、空にある他のすべてのものよりも輝きを放った。その発生源の探査は、地球周回軌道上のゴミ問題の増加をめぐる新たな疑問を引き起こした。
+
+当初、研究者らは自分たちが何らか新種の天体を観測していると考えていた。
+
+西オーストラリア州カーティン大学電波天文学研究所の准教授、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35234949.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/01/2eaec50c396348214817004afa28eda3/t/768/512/d/unknown-1-20250626134501571.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234973.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-01T19:03:00+09:00</dc:date>
+        <title>米上院、大型減税法案めぐり審議続く</title>
+        <link>https://www.cnn.co.jp/usa/35234973.html?ref=rss</link>
+        <description>米上院は、トランプ大統領が掲げる大型減税法案をめぐり審議を続けている。「ボート・ア・ラマ」と呼ばれる手続きでは、政治的なものから実質的なものまで、さまざまな修正案についての制限のない投票が行われる。６月３０日午前から始まった審議は、７月１日に入っても終わっていない。
+
+こうした手続きは、共和党にとっては土壇場で法案に修正を加える機会となる一方、民主党にとっては共和党の弱点を突き、議員を窮地に追い...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234973.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/01/66fa62382aeb16853d5a0421167d148a/t/768/432/d/c-still-21655708-1087318-699-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234959.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-01T18:15:00+09:00</dc:date>
+        <title>英王室への助成金、１７０億円で変わらず　年次報告書で明らかに</title>
+        <link>https://www.cnn.co.jp/world/35234959.html?ref=rss</link>
+        <description>英王室は６月３０日に財務諸表を公表し、政府から年間で受け取る王室助成金「ソブリン・グラント」が８６３０万ポンド（約１７０億円）のままだったことを明らかにした。
+
+ソブリン・グラントは、王宮の維持費や王室メンバーの公務に充てられ、英国の納税者の税金から賄われている。その見返りとして王室は、ロンドン中心部の広大な土地、アスコット競馬場、イングランド、ウェールズ、北アイルランド周辺の海底を含むクラウン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234959.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/01/ecde92a6ef776b2b9e21bc049f0474ef/t/768/432/d/gettyimages-2222729442.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234971.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-01T17:20:00+09:00</dc:date>
+        <title>タイ首相が職務停止、倫理違反の疑い　カンボジア前首相との電話会談が流出して物議</title>
+        <link>https://www.cnn.co.jp/world/35234971.html?ref=rss</link>
+        <description>タイのペートンタン・シナワット首相（３８）は１日、カンボジアの強権的指導者だったフン・セン前首相とかわした電話会談の内容をめぐり職務を停止された。倫理調査の結果次第では解任される可能性もある。
+
+ペートンタン氏が首相の座に就いたのはわずか１０カ月前。ペートンタン氏の職務停止は、長年にわたって政治的混乱が続くタイに新たな不確実性をもたらした。
+
+憲法裁判所は、流出した電話会談をめぐり、倫理規範に違反...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234971.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/01/2d517cb44aec0c815725e81f64d8ca19/t/768/432/d/gettyimages-2222243788.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35234945.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-01T16:36:00+09:00</dc:date>
+        <title>ＦＢＩ、北朝鮮から潜入した技術労働者の活動取り締まり強化　米国内の協力者も摘発</title>
+        <link>https://www.cnn.co.jp/usa/35234945.html?ref=rss</link>
+        <description>北朝鮮が国外で働く技術労働者を使って秘密裏に兵器開発資金を獲得しようとする中、米国の法執行機関はこれを徹底的に取り締まるべく、このほどニュージャージー州の男１人を逮捕した他、１６州でノートパソコンの隠し場所を捜索した。司法省が６月３０日に発表した。
+
+検察当局によると、この計画では北朝鮮の技術労働者が米国、中国、その他の国の人々の協力を得て１００社以上の米国企業に雇用されていたことが分かった。こ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35234945.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/01/6b6cf3f033f1eb72794630221f97011f/t/768/432/d/25cr10273-ind-redacted-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35234942.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-01T15:49:00+09:00</dc:date>
+        <title>トルコ警察、風刺画家４人を拘束　預言者ムハンマド描き抗議運動刺激か</title>
+        <link>https://www.cnn.co.jp/world/35234942.html?ref=rss</link>
+        <description>トルコ警察は６月３０日、少なくとも４人の風刺画家を拘束した。当局と抗議活動家は、４人が預言者ムハンマドとモーセの風刺画を描き、広めたと非難している。
+
+政治風刺雑誌に掲載されたこの風刺画には、翼と光輪を持つイスラム教徒とユダヤ教徒と思われる男性が、爆弾が落下する中、握手して挨拶（あいさつ）を交わす様子が描かれている。
+
+この風刺画は掲載から４日後、ソーシャルメディアで拡散した。数百人がイスタンブー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35234942.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/01/a6c77f6f10619c8351c08a4b0749e75f/t/768/432/d/gettyimages-2222226560.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
