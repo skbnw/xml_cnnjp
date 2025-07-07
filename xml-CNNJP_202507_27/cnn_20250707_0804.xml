@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-07-07T16:45:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235200.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235187.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235192.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235163.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235188.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235184.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235174.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235173.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235170.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235169.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235162.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235161.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235160.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235158.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235159.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235157.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235156.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235155.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235154.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235153.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235152.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35235151.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235080.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35235090.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235149.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235150.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235147.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235142.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235148.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235146.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/business/35235200.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-07T16:45:00+09:00</dc:date>
+        <title>トランプ氏、ＢＲＩＣＳの「反米政策」支持の国には追加関税と警告</title>
+        <link>https://www.cnn.co.jp/business/35235200.html?ref=rss</link>
+        <description>トランプ米大統領は６日、新興国グループ「ＢＲＩＣＳ」の「反米」政策を支持する国に対し、新たな関税を課すと警告した。また、関税の９０日間の一時停止期限となる９日を前に７日から多数の国に関税に関する書簡を送付すると発表した。
+
+トランプ氏は自身のＳＮＳトゥルース・ソーシャルに「ＢＲＩＣＳの反米政策に同調する国」に対し、「例外なく」１０％の追加関税を課すと述べたが、どの政策を指しているかは現時点で明ら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235200.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/07/a965bdcf509b31ff59fc4f5c79544489/t/768/510/d/gettyimages-2223265203.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235187.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-07T15:17:00+09:00</dc:date>
+        <title>トランプ氏の大統領執務室での新たな会談手法、外交官らが対策を助言　「気まぐれな子ども」のように扱うべき</title>
+        <link>https://www.cnn.co.jp/usa/35235187.html?ref=rss</link>
+        <description>これまでの外国首脳のホワイトハウス訪問は、対面で外交を行い、親愛の情を示し、礼儀正しく写真撮影に臨む対面外交の場だった。
+
+しかし、トランプ米大統領が２月にウクライナのゼレンスキー大統領を公然と非難したことで、大統領執務室での慣例は覆され、一部の外国首脳はパニックに陥った。
+
+この会談以外にも南アフリカのラマポーザ大統領に対するトランプ氏の根拠のないジェノサイド（集団殺害）非難、そしてカナダのカー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235187.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/07/945562436d707cb779d5623b5e4f9b5d/t/768/512/d/c-gettyimages-2201827132.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235192.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-07T14:25:00+09:00</dc:date>
+        <title>オジー・オズボーンが最後の公演、ブラック・サバスのオリジナルメンバーも集結</title>
+        <link>https://www.cnn.co.jp/showbiz/35235192.html?ref=rss</link>
+        <description>「ヘビーメタルの帝王」とも呼ばれるオジー・オズボーンさんが最後となる公演でパフォーマンスを披露し、ステージに別れを告げた。公演にはロックバンド「ブラック・サバス」のオリジナルメンバーも集結した。
+
+オズボーンさんは５日、英バーミンガムで開かれたコンサート「バック・トゥ・ザ・ビギニング」で、ベースのギーザー・バトラーさん、ドラムのビル・ワードさん、ギターのトニー・アイオミさんとステージに立った。４...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235192.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/07/b2156c844872325979202694d2747d31/t/768/432/d/001-gettyimages-2179738837.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235163.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-07T13:09:00+09:00</dc:date>
+        <title>中国の空母「山東」を間近に見る　全長３００メートル超、艦載機４０機を搭載可能</title>
+        <link>https://www.cnn.co.jp/world/35235163.html?ref=rss</link>
+        <description>中国最大級の兵器である空母「山東」がこのほど、５日間の日程で香港に寄港した。訪問初日となった３日、ＣＮＮの記者は山東を間近で見る珍しい機会を得た。
+
+山東の全長はアメリカンフットボールのフィールド三つ分を超え、艦載機４０機あまりを搭載できる。艦載機の多くはＪ１５戦闘機で、記者が近づいた際もＪ１５が甲板に並んでいた。
+
+航空作戦の際、これらの戦闘機は、艦首部分の傾斜した「スキージャンプ台」から発艦す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235163.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/06/5e439e5be3dc02240f381e832e6f5299/t/768/432/d/112914-pla-fleet-hongkong-dirty-00-00-12-24-still002.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235188.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-07T12:28:00+09:00</dc:date>
+        <title>授乳中の母親を乳児から引き離した米移民当局、妻の解放求め戦い続ける元海兵隊員の夫</title>
+        <link>https://www.cnn.co.jp/usa/35235188.html?ref=rss</link>
+        <description>２歳の息子のノア君から母親のことを聞かれるたびに、エイドリアン・クロアトルさん（２６）は「ママはもうすぐ戻るよ」と答えることしかできない。ノア君は笑顔でうなずいて見せるが、悲しい思いをしていることは父親にも分かる。ノア君と、生後３カ月の妹のリンちゃんのために、エイドリアンさんは頑張り続けようと思う。妻は５月、米移民税関捜査局（ＩＣＥ）に拘束され、まだ授乳が必要なリンちゃんから引き離された。
+
+元...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235188.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/07/0f23a7d229e11509e68dc95610010f4c/t/768/432/d/thumbnail-001-clouatre2-20250701191837472.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235184.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-07T11:55:00+09:00</dc:date>
+        <title>「ジュラシック」シリーズ新作、２１０億円で興収首位　公開初週の５日間</title>
+        <link>https://www.cnn.co.jp/showbiz/35235184.html?ref=rss</link>
+        <description>ユニバーサル・ピクチャーズの恐竜映画シリーズの新作「ジュラシック・ワールド／復活の大地」が米独立記念日を含む連休の５日間で、１億４７００万ドル（約２１０億円）を稼ぎ出して北米興行収入のランキングで首位に立った。
+
+同作は、３日間で約８０００万ドル、５日間で１億３５００万ドルとの事前予測を上回った。２０２２年公開の前作「ジュラシック・ワールド／新たなる支配者」が公開から３日間で１億４５００万ドルを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235184.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/07/e9c6a1bf27f3f4902181af93597e2419/t/768/432/d/28-2583-tp-00061.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235174.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-07T10:57:00+09:00</dc:date>
+        <title>ダライ・ラマ１４世、９０歳に　誕生祝賀式典に信者ら詰めかけ</title>
+        <link>https://www.cnn.co.jp/world/35235174.html?ref=rss</link>
+        <description>チベット仏教最高指導者のダライ・ラマ１４世が６日、９０歳の誕生日を迎え、チベット亡命政府のあるインドのダラムサラで行われた式典に数千人が集まって誕生日を祝った。
+
+モンスーンの大雨と濃霧にもかかわらず、早朝から集まった信者らは狭い通りを埋め尽くし、ツクラカン寺院でダライ・ラマを一目見ようと行列に並んだ。
+
+寺院は式典が始まる前から満員になり、インド警察や警備員が厳重な警備を固めた。
+
+伝統装束をまと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235174.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/07/ac6844db81fb3c0a2d81f0587d69d984/t/768/512/d/2025-07-06t032639z-1778398908-rc2rgfadbxb8-rtrmadp-3-tibet-dalai-lama.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235173.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-07T10:30:00+09:00</dc:date>
+        <title>シリアで大規模な山火事、新政権にとっての試練に　国際社会に支援要請</title>
+        <link>https://www.cnn.co.jp/world/35235173.html?ref=rss</link>
+        <description>シリア・ラタキア県のジャバル・トルクマン山地で３日から大規模な森林火災が発生し、数千ヘクタールの森林が焼失した。
+
+ラタキア県の当局者によれば、強風や険しい地形、長年の内戦で残された地雷の危険が消火活動を難しくしている。
+
+内戦と経済制裁で疲弊したシリアでは、新政権が復興を目指しているものの、多くの地域で基礎的な公共サービスが機能していない。
+
+
+  
+  
+消火にあたる消防隊＝５日、シリア・ラタキア県/all...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235173.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/07/9af757cab80c715134e3d55bdacc0a74/t/768/432/d/001-ap25186683481116.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235170.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-07T09:42:00+09:00</dc:date>
+        <title>イスラエル軍、フーシ標的にイエメン攻撃　イランとの停戦以降初</title>
+        <link>https://www.cnn.co.jp/world/35235170.html?ref=rss</link>
+        <description>イスラエルが現地時間の６日深夜から７日未明にかけ、イランを後ろ盾とする反政府武装組織フーシを狙ってイエメンの港湾や発電所を攻撃した。イスラエルとイランの停戦が発効して以降、イスラエルによるフーシ攻撃は初めて。
+
+イスラエル軍は、これに先立ちフーシがイスラエルに向けて弾道ミサイル少なくとも３発を発射し、うち１発を５日に迎撃したと発表した。
+
+イスラエル軍は今回、紅海に面したホデイダなどの港湾や発電所...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235170.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/07/f375b883c13c1d327b56f60e7f0bee48/t/768/432/d/150325082132-social-gfx-breaking-news.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235169.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-07T09:31:00+09:00</dc:date>
+        <title>米テキサス州で洪水、死者８０人に　キャンプ場では１１人が行方不明者</title>
+        <link>https://www.cnn.co.jp/usa/35235169.html?ref=rss</link>
+        <description>米テキサス州中部で４日未明に発生した鉄砲水による洪水で、当局によれば、少なくとも８０人が死亡した。犠牲者にはカー郡の子ども２８人が含まれ、同郡のサマーキャンプ場「キャンプ・ミスティック」では女子１０人とカウンセラー１人がなお行方不明だという。
+
+テキサス州のアボット知事は、一部地域で鉄砲水の危険が続いており、今後も降雨が予想されると述べた。当局はカー郡ハントの住民に対し、洪水に備えて高台へ避難す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235169.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/07/21b92f9e794ed3c5aefefcbef33e92c8/t/768/511/d/large-gettyimages-2223018766.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235162.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-06T16:49:00+09:00</dc:date>
+        <title>洪水で子ども２７人不明、「キャンプ・ミスティック」について分かっていること　米テキサス州</title>
+        <link>https://www.cnn.co.jp/usa/35235162.html?ref=rss</link>
+        <description>米テキサス州を襲った豪雨による洪水。州内を流れるグアダルーペ川の水位は２時間足らずの間に６メートルあまり上昇し、付近に位置する民間のキリスト教系女子専用サマーキャンプ場「キャンプ・ミスティック」では、子ども少なくとも２７人が行方不明と報告されている。
+
+キャンプ場はカー郡西部の未編入地域ハントに位置する。全体でおよそ７５０人の子どもが利用できる。
+
+４日未明には、猟区管理人１００人超と航空関係のグ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235162.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/06/989dd8da25acdf2e94907fdce194b5b4/t/768/512/d/gettyimages-2223018766.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235161.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-06T16:26:00+09:00</dc:date>
+        <title>「答えが知りたい」　火葬場に積み上げられた数百の遺体、家族がいるかもと恐れる人々　メキシコ</title>
+        <link>https://www.cnn.co.jp/world/35235161.html?ref=rss</link>
+        <description>メキシコ北部チワワ州シウダーフアレスの火葬場で、３８３体の遺体が長期間放置されていたことが判明し、遺族は当局に「答え」を求めている。
+
+事態が発覚したのは６月２６日。警察官が霊きゅう車内で遺体２体を見つけたほか、建物の中庭の一室で多数の遺体が積み重なっているのを確認した。
+
+検察によると、このたくさんの遺体は２０２０年以降に放置されたとみられ、火葬場が市内の六つの葬儀社から請け負った火葬を実施して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235161.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/06/c43a992ecff51d83bffd380206fcacb1/t/768/432/d/gettyimages-2222085126-20250704192541154.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235160.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-06T15:37:00+09:00</dc:date>
+        <title>ドジャースが本拠地で歴史的大敗、アストロズに１７点差で敗れる</title>
+        <link>https://www.cnn.co.jp/showbiz/35235160.html?ref=rss</link>
+        <description>米大リーグのロサンゼルス・ドジャースは４日夜、本拠地ドジャースタジアムでヒューストン・アストロズに１―１８で大敗し、本拠地での史上最悪の黒星を喫した。
+
+ドジャースが本拠で１７点差をつけられて負けたのは、当時ブルックリンを本拠にしていた１９４７年７月３日、ニューヨーク・ジャイアンツに２―１９で敗れて以来となる。スポーツ専門局ＥＳＰＮが伝えた。
+
+デーブ・ロバーツ監督は「できるだけ早く忘れたい試合だっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235160.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/06/39f67331f4b1c85e48035b9ec2e69d5d/t/768/432/d/ap25186089485349.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235158.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-06T14:58:00+09:00</dc:date>
+        <title>地球は太陽から最も遠くにあるのに、こんな暑いのはなぜ？</title>
+        <link>https://www.cnn.co.jp/fringe/35235158.html?ref=rss</link>
+        <description>北半球では夏本番が迫っている。ただ、私たちが一段と強い日差しやうだるような暑さに備えているいま、地球は太陽から最も遠い位置で自転中だ。
+
+米東部時間３日午後３時５５分、地球は「遠日点」と呼ばれる位置に到達した。遠日点とは太陽を周回する軌道上で最も遠い点のことで、太陽からの距離は最接近時に比べ約４８０万キロ遠くなる。　
+
+この現象は毎年７月上旬に発生するが、もしかしたら逆説的に思えるかもしれない。太...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235158.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/06/09fae2e2b80e3742c575a7f566346555/t/768/510/d/iss043e093710-large.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235159.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-06T14:29:00+09:00</dc:date>
+        <title>【分析】米テスラのサイバートラックが大失敗に終わった理由</title>
+        <link>https://www.cnn.co.jp/business/35235159.html?ref=rss</link>
+        <description>米実業家イーロン・マスク氏の大胆な予測にもかかわらず、米電気自動車（ＥＶ）大手テスラのピックアップトラック「サイバートラック」は、はっきり言って失敗作だ。
+
+テスラは特定のモデルの販売台数を意図的に公表していないため、サイバートラックが現実の世界でどれほど販売不振なのかを理解するには、目を細めてみる必要がある。
+
+だが、ある程度の予想は間違いなくつく。
+
+先ごろ発表されたテスラの納車代数（販売台数の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235159.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/06/476b314d4c32601b9b2ce6841145a444/t/768/432/d/gettyimages-2182162258-20250703184946622.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235157.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-06T13:34:00+09:00</dc:date>
+        <title>マスク氏、新党「アメリカ党」結成へ　トランプ大統領とは決裂</title>
+        <link>https://www.cnn.co.jp/usa/35235157.html?ref=rss</link>
+        <description>米起業家のイーロン・マスク氏は５日、ドナルド・トランプ大統領との対立が深まったことを受け、第三の政党となる「アメリカ党」を新たに結成すると自身のＳＮＳ「Ｘ」で表明した。マスク氏はトランプ氏が掲げた大型減税法案が成立した場合に新党を立ち上げると警告しており、それを実行に移す形となった。
+
+マスク氏は「国を無駄遣いと汚職で破産させる点で、わたしたちは民主主義ではなく一党制に生きている」とし、「きょう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235157.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/06/3036fcd44a75cddf8867a42f3732ce23/t/768/432/d/gettyimages-2216312549-20250701190436976.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235156.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-06T11:52:00+09:00</dc:date>
+        <title>ジョーイ・チェスナットさん、ホットドッグ早食い大会に復帰して王座奪還　女性部門は須藤美貴さんが優勝</title>
+        <link>https://www.cnn.co.jp/showbiz/35235156.html?ref=rss</link>
+        <description>米独立記念日にあたる４日に恒例のホットドッグ早食い大会がニューヨークのコニーアイランドで開催され、昨年欠場していた早食い王者のジョーイ・チェスナットさん（４１）が大会に復帰し、１０分間で７０個半を食べて優勝した。女子部門では世界記録保持者の須藤美貴さんが１０分間で３３個を食べ、１１度目の優勝を飾った。
+
+晴天で気温は約２５度という絶好のコンディションのもと、チェスナットさんの圧勝だった。２位の選...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235156.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/06/edcd73630149528a4c26c8a6937411ae/t/768/511/d/large-3-usa-julyfourth-nathans-weigh-in.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235155.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-06T11:01:00+09:00</dc:date>
+        <title>トランプ氏、関税は最大７０％　各国・地域に通知へ</title>
+        <link>https://www.cnn.co.jp/business/35235155.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領は４月に世界各国に対し、米国との貿易協定締結を求める３カ月の猶予を提示し、応じなければより高い「相互関税」を科すと警告した。猶予期間の終了まで残り数日となり、ホワイトハウスは十数カ国に対し「期限切れ」と新たな関税率を通知する構えだ。
+
+トランプ氏は４日、メリーランド州のアンドルーズ空軍基地で記者団に対し、今後５日間にわたり１日当たり１０～１２カ国へ順次書簡を送り、詳...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235155.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/06/1ed913960fbf61173bf750070af3fce5/t/768/432/d/gettyimages-2217886286.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235154.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-06T10:34:00+09:00</dc:date>
+        <title>ハメネイ師が公の場に、イスラエルとの衝突後初めて</title>
+        <link>https://www.cnn.co.jp/world/35235154.html?ref=rss</link>
+        <description>国営プレステレビによると、イランの最高指導者ハメネイ師は５日、宗教関係の集まりに参加した。ハメネイ師が公の場に姿を現すのは数週間ぶり。
+
+イスラエルが先月１３日にイランの軍事施設や核施設を一方的に爆撃し、軍事衝突に突入して以降、ハメネイ師は公の場に姿を見せていなかった。今回の衝突では米国も後から参戦し、イランの主要核施設３カ所を爆撃。その後、トランプ大統領が停戦を宣言した。
+
+プレステレビがＸ（旧...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235154.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/06/9c145a0fd0b6d016c6eca3b3b41a4ae0/t/768/432/d/still-21760293-31612-417-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235153.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-06T08:59:00+09:00</dc:date>
+        <title>洪水の死者４３人に、不明者の捜索続く　米テキサス州</title>
+        <link>https://www.cnn.co.jp/usa/35235153.html?ref=rss</link>
+        <description>米南部テキサス州カー郡を襲った洪水で、少なくとも４３人が死亡した。同郡のラリー・ライサ保安官が５日の記者会見で明らかにした。
+
+死者の内訳は成人２８人、子ども１５人。子ども５人と成人１２人については身元の確認が取れていない。
+
+同州カービル市では、キャンプ場が氾濫（はんらん）した川に襲われ、行方不明者が出ている。
+
+テキサス州のグレッグ・アボット知事は、災害宣言を拡大し、新たに６郡を対象に加えた。今...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235153.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/06/c779d63d3f1ccfb03286e1e022a8e4a7/t/768/512/d/large-texas-flood-20250704224944069.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235152.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-05T19:30:00+09:00</dc:date>
+        <title>孤独の代償は死？　気の合う友人を見つけるためのノウハウ</title>
+        <link>https://www.cnn.co.jp/fringe/35235152.html?ref=rss</link>
+        <description>在宅勤務の一日を終え、宅配の食事を注文して、お気に入りの番組を一人で一気見する――。最高と思えるかもしれないが、これがルーティンになった場合、寿命が縮みかねない。
+
+その根拠は、寿命を延ばす最善の方法は強固で前向きな人間関係を築くこと、という研究結果にある。
+
+「人間という種の根本は社交にある。我々は根本的に、どこかに属している必要がある」。テキサス大学オースティン校のアミット・クマール准教授はそう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235152.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/05/f0cdb12a39197b8091ef90fccd9cc847/t/768/432/d/gettyimages-1254765923.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35235151.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-05T18:50:00+09:00</dc:date>
+        <title>英王室の専用列車が１８０年の歴史に幕を下ろす理由</title>
+        <link>https://www.cnn.co.jp/travel/35235151.html?ref=rss</link>
+        <description>１８４０年代初頭、英ビクトリア女王は自身専用の特別車両で旅をした初の英国君主となった。しかしそれから１８０年以上が経過した後、チャールズ国王はこの高貴な伝統に終止符を打とうとしているようだ。
+
+豪華なワインレッドの塗装で飾られた現行の王室専用列車は、２０２７年３月までに廃止される。その意図について王室の最新の財務報告書は、「公金の最大限の価値を確保するため」としている。今後高位の王室メンバーは国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35235151.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/05/1530a12e1faa7c834238ce079346ad52/t/768/432/d/gettyimages-1258645974.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235080.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-05T17:45:00+09:00</dc:date>
+        <title>「大絶滅」で生命の９割が死滅、その後５００万年にわたって猛暑　新たな化石がその理由を解明</title>
+        <link>https://www.cnn.co.jp/fringe/35235080.html?ref=rss</link>
+        <description>約２億５２００万年前、地球上の生命はそれまでで最も壊滅的な打撃を受けた。「大絶滅」として知られる大量絶滅により生命の約９０％が死滅した。
+
+その後の出来事は長い間、科学者を困惑させてきた。地球は致命的な高温となり、その状態が５００万年も続いたのだ。
+
+国際的な研究チームが膨大な数の化石を使ってその理由を解明したと明らかにした。そのすべてが熱帯林に関係しているという。
+
+ネイチャー・コミュニケーション...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235080.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/03/70fa0b01a5783ecb361f7ea5ea62a79a/t/768/431/d/large-001-post-extinction-lycopods.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35235090.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-05T16:35:00+09:00</dc:date>
+        <title>住まいをクルーズ船に移した米国人女性、１５年間の世界周航へ</title>
+        <link>https://www.cnn.co.jp/travel/35235090.html?ref=rss</link>
+        <description>６月半ば、クルーズ船「ビラ・ビ・オデッセイ」の船内に足を踏み入れたシャロン・レーンさんは、喜びと安堵（あんど）の気持ちで胸がいっぱいになった。
+
+「長年の夢がついに叶（かな）った」とＣＮＮ Ｔｒａｖｅｌに語った。
+
+これは短期のクルーズ旅行ではない。米カリフォルニア出身で７７歳のレーンさんは、今後１５年間この船で世界の海を巡り、日本からニュージーランドまでさまざまな場所に立ち寄る予定だ。
+
+ビラ・ビ・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35235090.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/03/f639c4877152a637ec7cd8c10acbb7e5/t/768/576/d/img-4003.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235149.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-05T15:50:00+09:00</dc:date>
+        <title>トランプ氏、集会で「シャイロック」に言及　反ユダヤ用語と認識せず</title>
+        <link>https://www.cnn.co.jp/usa/35235149.html?ref=rss</link>
+        <description>米国のトランプ大統領は４日未明、一部の人々が「シャイロック」という言葉を反ユダヤ主義的と捉えていることについて、自身はそのような認識を持っていないと明らかにした。これに先立つ集会で同氏は、この言葉を発して不道徳な貸金業者を非難していた。
+
+大統領専用機エアフォースワンを降りる際、トランプ氏は「そのように捉えたことは一度もない。私にとってシャイロックとは、高金利で金を貸す人のことだ」「私とは違う見...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235149.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/05/712bcb624c4e591a47112d0ecde8f77a/t/768/432/d/ap25185174066172.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235150.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-05T15:15:00+09:00</dc:date>
+        <title> 米テキサス州で洪水、２４人死亡　トランプ氏は「ひどい」事態と形容</title>
+        <link>https://www.cnn.co.jp/usa/35235150.html?ref=rss</link>
+        <description>トランプ米大統領は４日、テキサス州中部を襲った洪水を「ひどい」事態と形容し、連邦政府による支援を約束した。
+
+トランプ氏はニュージャージー州のゴルフクラブへ向かう際、大統領専用機エアフォースワンの機内で記者団の取材に応じ「ひどい事態だ。洪水？　衝撃的だ。被害者が何人かはまだ分からないが、若者が亡くなったようだ」と語った。
+
+連邦支援を行う方針かとの質問には、「その通りだ、対応する。州知事と協力して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235150.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/05/fe28cda1549c9b130dfd8206188fe28c/t/768/511/d/2025-07-05t030741z-170327542-rc23gfab3ik7-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235147.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-05T14:25:00+09:00</dc:date>
+        <title>ドイツに１２万５０００年前の「脂肪工場」、ネアンデルタール人による抽出作業の痕跡と研究者</title>
+        <link>https://www.cnn.co.jp/fringe/35235147.html?ref=rss</link>
+        <description>現在のドイツに位置する湖のそばで暮らしていた石器時代の人類は、系統立ったやり方で動物の骨を煮込み、脂肪を多く含んだ栄養素を獲得していたようだ。その工程は事実上、大掛かりな「脂肪工場」だったと、科学者らは形容する。新たな研究で明らかになった。 
+
+考古学者らは、ドイツ中部ハレ南郊のノイマルク・ノルドと呼ばれる遺跡から数年の間に出土した約１２万点の骨片及び１万６０００点の石器を分析。２日付の科学誌サイ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235147.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/05/4e6e36e4dc8036d7d3ed4fe49252dee5/t/768/432/d/pressfig-03.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235142.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-05T13:15:00+09:00</dc:date>
+        <title>太陽系内を猛スピードで移動する「恒星間天体」、天文学者が発見　３例目</title>
+        <link>https://www.cnn.co.jp/fringe/35235142.html?ref=rss</link>
+        <description>太陽系内を猛スピードで移動する新発見の天体が、天文学者たちの間で興奮を巻き起こしている。太陽系外から飛来したことが判明したためだ。彗星（すいせい）とみられる天体は、太陽系内で観測された恒星間天体としてはわずか３例目となる。
+
+この恒星間天体の正式名称は「３Ｉ／ＡＴＬＡＳ」。米航空宇宙局（ＮＡＳＡ）から資金提供を受けるチリのＡＴＬＡＳ（小惑星地球衝突最終警報システム）望遠鏡が今月１日に発見を報告し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235142.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/05/a51c95cbc2dc652e5aaf3397849ceda4/t/768/512/d/3i-atlas-c2025n1-2july2025-masi.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235148.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-05T12:52:00+09:00</dc:date>
+        <title>ケイティ・ペリーとオーランド・ブルーム、破局を認める　婚約発表から３年</title>
+        <link>https://www.cnn.co.jp/showbiz/35235148.html?ref=rss</link>
+        <description>３年前に婚約を発表した俳優のケイティ・ペリーとオーランド・ブルームが破局を迎えたことが分かった。
+
+２人には娘が１人いる。関係の現状を巡る臆測が高まったことを受け、すでに別々の道を歩んでいることを認めた。
+
+破局の正式確認について最初に報じたＵＳウィークリーによると、ブルームとペリーの代理人は声明を出し、「オーランドとケイティはここ数カ月、共同養育に専念するため関係を変化させてきた」と説明。
+
+「家...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235148.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/05/d1a845a03a1fd5ebc857fdd030c4652f/t/768/432/d/gettyimages-2147786341-20250704082204949.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235146.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-05T11:10:00+09:00</dc:date>
+        <title>俳優ジュリアン・マクマホンさん死去、５６歳　「ファンタスティック・フォー」のドクター・ドゥーム役</title>
+        <link>https://www.cnn.co.jp/showbiz/35235146.html?ref=rss</link>
+        <description>米ＦＸネットワークの人気テレビシリーズ「Ｎｉｐ／Ｔｕｃｋ マイアミ整形外科医」でダブル主演の一角を担い、２０００年代の映画「ファンタスティック・フォー」シリーズではドクター・ドゥーム役を演じた俳優、ジュリアン・マクマホンさんが死去した。５６歳だったと報じられている。
+
+「Ｎｉｐ／Ｔｕｃｋ」の公式フェイスブックページに発表された声明で死亡が確認された。妻ケリー・マクマホンさんも４日、芸能メディアのデ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235146.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/05/12a43d6259621293354c4512e1587896/t/768/432/d/gettyimages-1231739132.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
