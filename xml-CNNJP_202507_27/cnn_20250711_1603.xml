@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-07-11T18:00:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235433.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235430.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235429.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235423.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235420.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235422.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235415.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235412.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235413.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235409.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235411.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35235404.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235401.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235397.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235390.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/architecture/35235366.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235375.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235351.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235370.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235367.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35235363.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235356.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235359.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235360.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235345.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235350.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235354.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235349.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235341.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235340.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235433.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T18:00:00+09:00</dc:date>
+        <title>米国の子どもの死亡率、他国比で突出　銃の犠牲は１５倍、慢性疾患や精神疾患も急増</title>
+        <link>https://www.cnn.co.jp/fringe/35235433.html?ref=rss</link>
+        <description>米国の子どもの健康状態が過去数十年で著しく悪化している。子どもの死亡率は同程度の所得の他国に比べて米国の方がはるかに高いことが、最新の研究で明らかになった。
+
+この研究は７日の医学誌ＪＡＭＡに発表された。論文共著者でフィラデルフィア小児病院教授のクリス・フォレスト氏は、「この国の子どもたちは苦しんでいる」と指摘する。
+
+研究チームは全米規模の数億件の健康記録や電子カルテなどを分析した。その結果、２...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235433.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/08a4ca970c3ea183c21ef8cd610650f7/t/768/512/d/gettyimages-2191636722.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235430.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T16:59:00+09:00</dc:date>
+        <title>イラン、対イスラエル紛争後の１６日間でアフガン人５０万人追放　国連発表</title>
+        <link>https://www.cnn.co.jp/world/35235430.html?ref=rss</link>
+        <description>国連によれば、イスラエルとの紛争が終結してからの１６日間で、イランは５０万人以上のアフガニスタン人を国外追放したという。
+
+イラン政府は数カ月前から、適正な書類を持たずに入国したアフガン人数百万人を排除する意向を表明してきた。これらのアフガン人はイラン全土で低賃金労働に従事。しばしば過酷な条件下に置かれているとされる。
+
+国際移住機関（ＩＯＭ）は、６月２４日から７月９日までの間に、５０万８４２６人...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235429.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T16:00:00+09:00</dc:date>
+        <title>エンジン音や警報音を音楽に、英ヒースロー空港の収録音でサントラ構成</title>
+        <link>https://www.cnn.co.jp/business/35235429.html?ref=rss</link>
+        <description>英ロンドンのヒースロー空港がこの夏、旅行者にホリデー気分を満喫してもらおうと、本物のジェットエンジン音やエレベーターの操作音、荷物搬入の警報音などを取り入れたサウンドトラック「ミュージック・フォー・ヒースロー」を制作した。
+
+同空港の８日の発表によると、制作を手がけたのはグラミー賞ノミネートの経験をもつジョーダン・ラカイさん。１つの空港で収録された音声だけでサウンドトラックを構成するのは世界初だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235429.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/4c588daafdc50ff7e918dfcfa467fe66/t/768/432/d/musicforheathrow-edit-03-59bd5.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235423.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T14:40:00+09:00</dc:date>
+        <title>人間だけじゃなかった、流行追いかけるチンパンジー　みんなを真似て仲間入り</title>
+        <link>https://www.cnn.co.jp/fringe/35235423.html?ref=rss</link>
+        <description>アフリカの野生生物保護区に生息するチンパンジーの間で、耳の穴やお尻の穴に草木を差し込んでぶら下げる「ファッション」が流行する現象が観察された。
+
+この行動は、ザンビアの保護区でオランウータンを観察していた研究チームが２０１０年に発見した。１頭のメスのチンパンジーが耳の穴から草木をぶら下げ始めたところ、すぐに群れの仲間が真似して同じ行動をするようになったという。論文筆頭著者でオランダのユトレヒト大...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235423.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/5fb0edfb864346067095de10a7923e0d/t/768/558/d/low-res-image5-klein.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235420.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T13:45:00+09:00</dc:date>
+        <title>建設中のトンネルが一部崩落、３１人が地下１２０メートルに一時閉じ込められる　米ＬＡ</title>
+        <link>https://www.cnn.co.jp/usa/35235420.html?ref=rss</link>
+        <description>米カリフォルニア州ロサンゼルスで現地時間の９日夜、約１２０メートルの地下で建設中のトンネルの一部が崩落し、作業員の男性３１人が一時的に閉じ込められた。消防などが懸命の救助活動を行った結果、全員が無事に脱出した。
+
+トンネルは何の予兆もなく突然崩落。閉じ込められた３１人は、唯一の出入り口から約８キロの地点で作業していた。
+
+トンネルの幅は約５．５メートル、全長約１１キロ。自治体の下水道プロジェクトの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235420.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/76c01a373ef6815bf2fb13fb5e342fe3/t/768/432/d/still-21772064-0-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235422.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T13:15:00+09:00</dc:date>
+        <title>米政府、パレスチナ人権担当の国連高官に制裁　国際刑事裁判所通じた追求を「不当」と非難</title>
+        <link>https://www.cnn.co.jp/usa/35235422.html?ref=rss</link>
+        <description>米国務省のマルコ・ルビオ長官は９日、パレスチナ人の人権状況調査を担当している国連高官のフランチェスカ・アルバネーゼ特別報告者に対して制裁を科すと発表した。
+
+ルビオ長官はＸ（旧ツイッター）への投稿で、アルバネーゼ氏が米国やイスラエルの同意を得ずに、国際刑事裁判所（ＩＣＣ）と直接的にかかわって、両国の政府関係者や企業、幹部らを追及していると述べ、「不当かつ恥ずべき行為」と非難した。
+
+パレスチナ自治...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235422.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/4a7aa5a7aedb60fbf4971b39a8aa0a9d/t/768/432/d/c-gettyimages-2222131426.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235415.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T12:15:00+09:00</dc:date>
+        <title>ルビオ米国務長官、ロシアのラブロフ外相と会談　トランプ米大統領の「失望と不満」伝える</title>
+        <link>https://www.cnn.co.jp/usa/35235415.html?ref=rss</link>
+        <description>ルビオ米国務長官は１０日、マレーシアでロシアのラブロフ外相と「率直な対話」を行い、その中でトランプ米大統領の「失望と不満」を伝えたと明らかにした。またロシア・ウクライナ間の紛争終結に向けた新たな構想についても話し合ったと、記者団に述べた。
+
+マレーシアでの会談は、東南アジア諸国連合（ＡＳＥＡＮ）の会合の傍らで行われた。当該地域における同盟関係の強化に焦点を当てることを意図していた今回の訪問だった...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235415.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/be3d2adf6460f971c30ebe17ab612ca1/t/768/432/d/gettyimages-2223749511.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235412.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T11:28:00+09:00</dc:date>
+        <title>トランプ氏、カナダ製品に３５％の関税適用表明　他国にも最大２０％課税へ</title>
+        <link>https://www.cnn.co.jp/business/35235412.html?ref=rss</link>
+        <description>米国のトランプ大統領は１０日夜、カナダからの輸入品に３５％の関税を課す意向を表明した。これは米国にとって最も重要な貿易相手国のひとつである北の隣国との貿易戦争が劇的に激化することを意味する。
+
+トランプ氏はソーシャルメディアに投稿した書簡の中で「２０２５年８月１日から、我々はカナダから米国に送られるカナダ製品に対し、すべての分野別関税とは別に３５％の関税を課す」と明らかにした。
+
+またＮＢＣニュー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235412.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/7ef91eb4ec7e12391083c346ddf78df7/t/768/432/d/usa-trump-tariffs-lumber.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235413.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T10:50:00+09:00</dc:date>
+        <title>トランプ氏、ＮＡＴＯを通じたウクライナへの武器供与で合意　費用は同機構が全額負担</title>
+        <link>https://www.cnn.co.jp/world/35235413.html?ref=rss</link>
+        <description>トランプ米大統領は１０日、ＮＢＣニュースに対し、米国が北大西洋条約機構（ＮＡＴＯ）を通じてウクライナに武器を供与することでＮＡＴＯと合意し、ＮＡＴＯがそれらの費用を「１００％」負担すると述べた。
+
+ＮＢＣは、トランプ氏が「ＮＡＴＯに（地対空ミサイル）パトリオットを送り、ＮＡＴＯがそれを配布する」と述べたと伝えている。
+
+１０日にトランプ氏と電話会談を行ったＮＡＴＯのルッテ事務総長は、Ｘ（旧ツイッタ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235413.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/e3e750252a186feab996b615b2adbfb3/t/768/512/d/c-ap25169385959127.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235409.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T10:24:00+09:00</dc:date>
+        <title>フーシの攻撃により紅海で船舶沈没　３人死亡、１０人救助</title>
+        <link>https://www.cnn.co.jp/world/35235409.html?ref=rss</link>
+        <description>海洋安全保障を担う欧州連合（ＥＵ）の部隊によると、イエメン近海で同国の反政府組織フーシから攻撃を受けた船舶が沈没し、紅海から１０人が救助された。
+
+フーシは船舶への攻撃後、乗組員の何人かを非公開の場所に連れて行ったと述べた。海上安全情報筋がロイター通信に語ったところによると、フーシは６人の乗組員を拘束している模様。フーシが紅海で商船を狙う事態が発生したのは今週に入って２度目となる。
+
+紅海で海洋安...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235409.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/2c95f446528b3616ced9f4094083c02d/t/768/432/d/houthis-16x9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235411.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T09:33:00+09:00</dc:date>
+        <title>ウクライナ情報機関職員が銃撃され死亡、暗殺か</title>
+        <link>https://www.cnn.co.jp/world/35235411.html?ref=rss</link>
+        <description>ウクライナ保安庁（ＳＢＵ）の職員が１０日、首都キーウで射殺された。当局は暗殺との見方を示している。
+
+ＳＢＵの広報担当者はＣＮＮに対し、捜査が進められていると説明したが、職員の身元に関する詳細は明らかにしていない。
+
+事件の様子が映っているとされる無音の防犯カメラ映像が現地のテレグラムで共有された。ＣＮＮは映像の真偽を独自に確認できていないが、映像の場所はキーウ警察が公開した現場の公式写真と一致し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235411.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/3ad07806d3ccbab8820b88b0df2bfce4/t/768/432/d/2025-07-10t121702z-1658499332-rc2njfa9i34o-rtrmadp-3-ukraine-crisis-sbu.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35235404.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T08:01:00+09:00</dc:date>
+        <title>エルメスの初代バーキン、１４．７億円で落札　日本人の手に</title>
+        <link>https://www.cnn.co.jp/style/luxury/35235404.html?ref=rss</link>
+        <description>すり切れや引っかき傷、汚れのついた黒のレザー製バッグ「バーキン」が、手数料込み８６０万ユーロ（約１４億７０００万円）で落札され、ハンドバックとしてのオークション史上最高額を樹立した。落札価格は７００万ユーロだった。
+
+エルメスが初めて手掛けたバーキンは、英国人俳優で歌手のジェーン・バーキンのためにデザインされたもの。ジェーン・バーキンは、このバッグが究極のラグジュアリーの象徴となる前の１９８５年...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35235404.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/99387de2d95b57c45d667bce267969a7/t/768/512/d/shutterstock-editorial-255529e-20250709195728060.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235401.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T07:05:00+09:00</dc:date>
+        <title>国籍の「出生地主義」修正する米大統領令、再び差し止め　連邦地裁</title>
+        <link>https://www.cnn.co.jp/usa/35235401.html?ref=rss</link>
+        <description>米東部ニューハンプシャー州の連邦地裁は１０日、米国で生まれればほぼ無条件で米国籍を得られる「出生地主義」を大幅に制限するトランプ大統領の大統領令について、発効を全米で一時的に差し止める命令を出した。
+
+出生地主義を修正する大統領令をめぐっては、複数の連邦地裁が全米で一時的に差し止める命令を出した。だが最高裁が先月、これらの差し止め命令の全国適用を制限する判断を示した。その一方で集団訴訟を通じて全...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235401.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/ddd06e3b553969ff0b2ff169d1c753a0/t/768/512/d/c-gettyimages-2214588000.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235397.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T06:26:00+09:00</dc:date>
+        <title>保健センターに空爆、子ども含む１５人死亡　ガザ</title>
+        <link>https://www.cnn.co.jp/world/35235397.html?ref=rss</link>
+        <description>イスラエル軍は１０日、パレスチナ自治区ガザ地区中部の保健センター近くを空爆し、女性や子どもを含む少なくとも１５人が死亡した。
+
+保健センターが立地するデイルアルバラのアクサ殉教者病院によると、死者には２〜１４歳の子ども８人が含まれる。その他、女性３人、男性４人が死亡した。
+
+ＣＮＮが入手した映像には、悲鳴が上がる中、数人の子どもが身動きせずに横たわっており、負傷しているとみられる人も映っている。別...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235397.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/6ec64e4d636cb01f61236d3a05c7057d/t/768/514/d/01-2025-07-10t084801z-1348633936-rc2gjfanlyyx-rtrmadp-3-israel-palestinians-gaza.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235390.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T20:30:00+09:00</dc:date>
+        <title>ジェフリー・エプスタイン事件について知っておくべきこと</title>
+        <link>https://www.cnn.co.jp/usa/35235390.html?ref=rss</link>
+        <description>米司法省と連邦捜査局（ＦＢＩ）が７日に公開したメモは、トランプ大統領に批判的な人々と同氏の最も熱心な支持者の両方から激しい怒りを引き起こした。
+
+そのメモは性的人身売買の罪で起訴され、公判前に拘置所で死亡した米国の富豪ジェフリー・エプスタイン氏に関するもの。性的人身売買と小児性愛の裏社会に関与していたとされる有力者のリストを同氏が持っていた証拠はないと主張する内容だ。また本人の死因についても、ニ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235390.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/32595af8f09123449ec1dc9e5a46dcef/t/768/432/d/c-gettyimages-587969572.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/architecture/35235366.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T19:00:00+09:00</dc:date>
+        <title>溶岩を使って都市をつくる――活火山地帯に生きるアイスランド企業の野心的な構想</title>
+        <link>https://www.cnn.co.jp/style/architecture/35235366.html?ref=rss</link>
+        <description>燃え盛る火山から噴出する溶岩は歴史的に、流れた跡の建物や街区を破壊する制御不能な力とされてきた。だがその力を別方向に活用することで、都市を丸ごとつくれるとしたら？　アイスランド企業「ｓ．ａｐアルキテクタル」が今年の「ベネチア・ビエンナーレ国際建築展」（１１月２３日まで開催中）で、まさにそんな野心的プロジェクトを提案した。
+
+自然状態の溶岩は、地表でそのまま冷えて玄武岩のような火成岩になる。これに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/architecture/35235366.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/7a552bc65be554c4c19b15260c9581d7/t/768/512/d/lavaforming-saparkitektar-04.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235375.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T18:00:00+09:00</dc:date>
+        <title>７月の満月は雄鹿にちなみ「バックムーン」、１１日早朝にピーク</title>
+        <link>https://www.cnn.co.jp/fringe/35235375.html?ref=rss</link>
+        <description>天文サイトのアーススカイによると、「バックムーン」とも呼ばれる７月の満月は米東部時間１０日午後４時３７分（日本時間１１日午前５時３７分）ごろ、ピークを迎える。
+
+ただし米農事暦によると、北米住民にとってはこの時間帯、月は地平線の下にあることから、最も良い形でピークを観測できるのは日没の数時間後になる。
+
+米航空宇宙局（ＮＡＳＡ）惑星地質学・地球物理学・地球化学研究所のノア・ペトロ所長は「ありがたい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235375.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/6b5b29e02f9ee5f32b6550cf4cdf967a/t/768/432/d/shutterstock-editorial-14597650s.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235351.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T17:00:00+09:00</dc:date>
+        <title>３０億光年離れた「化石銀河」を発見、太古の宇宙の姿を垣間見る</title>
+        <link>https://www.cnn.co.jp/fringe/35235351.html?ref=rss</link>
+        <description>宇宙では珍しい７０億年間にわたって変化のない銀河が見つかり、宇宙の歴史を垣間見る貴重な機会となりそうだ。今回の発見によって、「化石宇宙」と呼ばれる謎めいた天体に新たな事例が加わった。
+
+こうした宇宙の奇妙な銀河は、激しい星形成の初期段階の後、予想される進化の道を逸脱した銀河だ。他の銀河が膨張して互いに合体する一方で、化石銀河は事実上、活動を停止したままだ。天体のタイムカプセルのように、これらは太...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235351.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/09/4fc79713b5f3f50be150f2b8607ec8c7/t/768/432/d/001-lbt-exterior.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235370.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T16:15:00+09:00</dc:date>
+        <title>ロシア、２夜連続でウクライナ爆撃　首都キーウで死者</title>
+        <link>https://www.cnn.co.jp/world/35235370.html?ref=rss</link>
+        <description>ロシアは１０日未明、ウクライナの首都キーウへの大規模な空爆を開始した。ウクライナに対する猛烈な攻撃は２夜連続。戦争が３年以上続く中で、ロシアは爆撃を強化している。
+
+キーウ当局によると、複数のドローン（無人機）と巡航ミサイルが使用されたこの攻撃で、少なくとも２人が死亡、１０人以上が負傷した。
+
+キーウで空爆の様子を撮影していたＣＮＮ取材班によると、大規模な爆発が夜空を照らしたという。煙が空気を満た...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235370.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/7e564f8fb5b42c059cf190ad26f133f6/t/768/432/d/ap25191107714982.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235367.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T15:10:00+09:00</dc:date>
+        <title>【分析】ウクライナへの大規模攻撃はトランプ氏の批判に対するプーチン氏の反撃なのか</title>
+        <link>https://www.cnn.co.jp/world/35235367.html?ref=rss</link>
+        <description>米国のトランプ大統領の発言と、ロシアのプーチン大統領による行動との間には直接的な関係があるのだろうか？
+
+なるほど、前者の辛辣（しんらつ）な物言いと、ここ数日のウクライナにおける過酷な暴力とを念頭に置けば、答えは関係ありということになりそうだ。
+
+最初は、トランプ氏が自身の不満のはけ口をプーチン氏の責任の欠如に向けた。ウクライナとの和平協議について、プーチン氏は真剣に取り組んでいないという認識だ。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235367.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/c501a469fabccdd60172ac633e919195/t/768/432/d/gettyimages-1000100034.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35235363.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T14:21:00+09:00</dc:date>
+        <title>米エヌビディア時価総額、世界初の４兆ドル突破　アップルとマイクロソフト抜く</title>
+        <link>https://www.cnn.co.jp/tech/35235363.html?ref=rss</link>
+        <description>米半導体大手エヌビディアの時価総額が９日、一時的に４兆ドル（約５８５兆円）に到達した。上場企業の４兆ドル突破は初めてだった。
+
+エヌビディアの株価はこの日の取引開始後に２．７６％上昇。取引時間中の過去最高値を更新して時価総額４兆ドルを突破した。
+
+上げ幅はその後縮小して１．８％高でこの日の取引を終え、時価総額は終値で４兆ドルを切った。
+
+エヌビディアは時価総額でアップルとマイクロソフトを抜いた。アッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35235363.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/6fea683bd153a0b993de7213d6bcbc72/t/768/432/d/gettyimages-2219025937.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235356.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T13:30:00+09:00</dc:date>
+        <title>トランプ氏、ダフィー運輸長官をＮＡＳＡ暫定長官に任命</title>
+        <link>https://www.cnn.co.jp/usa/35235356.html?ref=rss</link>
+        <description>米国のトランプ大統領は９日、ショーン・ダフィー運輸長官を米航空宇宙局（ＮＡＳＡ）の暫定長官に任命すると発表した。
+
+トランプ氏は自身のＳＮＳ、トゥルース・ソーシャルへの投稿で「ショーンは最先端の航空管制システムの構築をはじめ、我が国の運輸問題において素晴らしい仕事をしている。同時に道路や橋を再建し、効率的で美しい状態に戻す取り組みも行っている。たとえ短期間であっても、重要性を増す宇宙機関にとって...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235356.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/6d3e143ada2dd3ce2e4564809e530200/t/768/432/d/gettyimages-2223538388.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235359.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T12:46:00+09:00</dc:date>
+        <title>「あと数時間で大勢が死ぬ」　保育器１台に複数の乳児、ガザの燃料不足が危機的状況に</title>
+        <link>https://www.cnn.co.jp/world/35235359.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ各地の病院で燃料が底を突きかけ、１台の保育器に複数の乳児を詰め込まなければならない状況に追い込まれている。救命に欠かせない処置の停止を強いられる病院も相次ぎ、患者の命が危険にさらされているとして、医師が危機感を募らせている。
+
+国連人道問題調整事務所（ＯＣＨＡ）によると、病院の燃料不足は危機的な状況に陥り、救急車も使えなくなって、水道は停止寸前の状態にある。「こうした状況の中...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235359.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/665d597994acb389d60ed4c970e86543/t/768/432/d/still-21770940-0-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235360.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T12:28:00+09:00</dc:date>
+        <title>【分析】トランプ氏、ウクライナへの武器供与めぐり突然の方針転換　戦争は振り出しに</title>
+        <link>https://www.cnn.co.jp/world/35235360.html?ref=rss</link>
+        <description>ウクライナでの戦争は今この瞬間、振り出しに戻ってしまったかもしれない。
+
+まずはウクライナへの武器供与をめぐるトランプ氏の発言から見てみよう。ロシアの軍事侵攻には対抗するという、米外交の数十年来の基本原則に立ち返る発言だった。同氏は７日、ウクライナに「もう少し武器を送る」と表明。「送らなければならない。ウクライナには自衛の能力が必要だ。とてもひどい攻撃を受けている」と述べた。
+
+トランプ政権が数日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235360.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/b179c51e410fd0dee8ffa4cca577cabd/t/768/432/d/01-gettyimages-2221934968.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235345.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T11:36:00+09:00</dc:date>
+        <title>米軍が捉えたＵＦＯ？　円盤形の「未確認異常現象」の映像、ジャーナリストが公開</title>
+        <link>https://www.cnn.co.jp/fringe/35235345.html?ref=rss</link>
+        <description>ジャーナリストでＵＦＯ（未確認飛行物体）愛好家のジェレミー・コーベル氏がこのほど、円盤形の未確認異常現象（ＵＡＰ）を捉えた映像を公開した。２０２０年に米軍が撮影した映像とされる。
+
+コーベル氏は「この映像に関して本当に興味深いのは、何が見えて、何が見えないかという点だ。最初はただ象徴的な形状だけが見える。（ＵＦＯ襲来をテーマにした）映画『ＮＯＰＥ／ノープ』のようだったと言わねばならない」と振り返...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235345.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/e73e9e631c996081bdfb5e02771490bf/t/768/432/d/disc-uap-circle.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235350.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T11:07:00+09:00</dc:date>
+        <title>上空から数億匹のハエを投下、米政府が計画　その理由は</title>
+        <link>https://www.cnn.co.jp/usa/35235350.html?ref=rss</link>
+        <description>米農務省はこのほど、テキサス州とメキシコの国境付近のいずれかの町に「ハエ工場」を開設する計画を発表した。不妊化させたハエを繁殖させ、上空から散布する狙い。同国の畜産業は現在、南西部の国境から侵入しようとしている肉食生物の脅威に直面している。
+
+上空の飛行機から何億匹ものハエが降ってくると聞けば、恐ろしい悪夢のように感じられるかもしれない。しかしこのような大群こそが畜産業にとって最善の防御策になり...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235350.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/65e8a6aaf0c1f5dddfa48dfb0bc722a5/t/768/512/d/20250609-screwworm-mm-417.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235354.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T10:40:00+09:00</dc:date>
+        <title>緊急災害対応を阻んだ米政府の新規定、一刻を争う状況で長官の承認待ち　テキサス州洪水で</title>
+        <link>https://www.cnn.co.jp/usa/35235354.html?ref=rss</link>
+        <description>米テキサス州中部を襲った大規模な洪水。連邦緊急事態管理庁（ＦＥＭＡ）は即座に捜索救助隊を派遣して救命のためのリソースを配備できる態勢を整えた。過去の災害で数えきれないほど繰り返してきた措置だった。
+
+しかし同庁の職員４人がＣＮＮに語ったところによると、今回、この対応が手続き上の壁に突き当たった。
+
+国土安全保障省のクリスティ・ノーム長官（ＦＥＭＡは同省の傘下にある）は最近、支出削減を目的として、１...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235354.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/3a2b7c295d14391eb500d4636fd6abc5/t/768/432/d/ap25190637004041.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235349.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T10:08:00+09:00</dc:date>
+        <title>トランプ氏、リベリア大統領の「流暢な英語」を称賛　英語は公用語なのに…批判の声</title>
+        <link>https://www.cnn.co.jp/usa/35235349.html?ref=rss</link>
+        <description>トランプ米大統領がアフリカ５カ国の首脳と行った９日の会談で、リベリアのボアカイ大統領の英語力を称賛する場面があった。だが、ボアカイ氏は英語を公用語とするリベリアで教育を受けた人物だった。
+
+トランプ氏はホワイトハウスにアフリカの首脳５人を迎えた際、ボアカイ氏に「とても流暢（りゅうちょう）できれいな英語だ。どこで学んでこれ程きれいに話せるようになったのか」と尋ねた。
+
+ボアカイ氏が教育を受けた場所を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235349.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/54ddc4a800a50085818a3e63fa2529ad/t/768/512/d/c-2025-07-09t202901z-675160421-rc25jfad3lv5-rtrmadp-3-usa-africa-trump-liberia__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235341.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T08:48:00+09:00</dc:date>
+        <title>シャチが人間にえさを分け与えてくれた瞬間の映像　その理由は？</title>
+        <link>https://www.cnn.co.jp/fringe/35235341.html?ref=rss</link>
+        <description>カナダの海洋生物学者チーム「ベイ・セトロジー」のエグゼクティブディレクターを務めるジャレッド・タワーズ氏が、一対のシャチを観察するため水中にカメラを設置したところ、奇妙な光景を目にした。若いメスのシャチが「弟シャチを撮影するために水中に設置していたカメラに近づき、口を開けて死んだ海鳥を出した」というのだ。
+
+シャチは口を閉じ、タワーズ氏の反応をうかがうように動きを止め、死んだ海鳥が頭上に浮かんで...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235341.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/a305f2eaffb910cf021557047d8f7370/t/768/512/d/enp.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235340.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-10T06:47:00+09:00</dc:date>
+        <title>トランプ氏、ブラジルに５０％関税を警告　ボルソナーロ前大統領への「魔女狩り」裁判理由に</title>
+        <link>https://www.cnn.co.jp/usa/35235340.html?ref=rss</link>
+        <description>トランプ米大統領は９日、一部の貿易相手国に対し最大５０％の関税を通告する書簡を送付した。
+
+トランプ氏はブラジル右派のボルソナーロ前大統領の起訴をめぐり特に同国を名指しし、「ブラジルは我々に良くしてくれなかった。全く良くしてくれなかった」と述べた。
+
+トランプ氏との親密さを強調してきたボルソナーロ氏は、ルラ現大統領に対するクーデター未遂の罪で起訴されている。
+
+トランプ氏は、ブラジルへの新たな関税を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235340.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/8db395d4158a0f0056ff79fb05f31865/t/768/512/d/gettyimages-2213289064.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
