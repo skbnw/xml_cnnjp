@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-07-13T17:58:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235463.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235464.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35235459.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235462.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235461.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235460.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235457.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235458.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235456.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235455.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235450.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235437.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35235447.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235448.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235445.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235446.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235442.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235441.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235440.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235433.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235430.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235429.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235423.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235420.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235422.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235415.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235412.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235413.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235409.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235411.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235463.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-13T17:58:00+09:00</dc:date>
+        <title>ハドリアヌスの長城近くで見つかった巨大な靴、古代ローマの兵士をめぐる謎が深まる</title>
+        <link>https://www.cnn.co.jp/fringe/35235463.html?ref=rss</link>
+        <description>ローマ帝国の北西の辺境を侵略者から守っていたことで知られる全長約１１７キロの石造りの防壁「ハドリアヌスの長城」の近くにあった１世紀の軍事要塞（ようさい）の遺跡から非常に大きな靴が発見された。今回の発見によって、要塞の住民の生活と起源について新たな疑問が浮上している。
+
+巨大な革の靴底は、５月にスコットランド国境のすぐ南に位置するマグナ要塞で発見された３４足の履物のひとつ。これ以外にも作業靴や幼児...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235463.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/13/8b9f6b9dea528b37046645496889f6c9/t/768/432/d/001-roman-shoe-32-6cm-c-the-vindolanda-trust.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235464.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-13T16:34:00+09:00</dc:date>
+        <title>金総書記、ロシア外相と会談　ウクライナ情勢めぐり「無条件の支持」を表明</title>
+        <link>https://www.cnn.co.jp/world/35235464.html?ref=rss</link>
+        <description>北朝鮮の金正恩（キムジョンウン）総書記は、訪朝したロシアのラブロフ外相を元山（ウォンサン）の新設リゾートに迎え、ウクライナでのロシアの「全ての行動」を無条件で支持し続けると改めて表明した。北朝鮮は３年に及ぶこの戦争に一段と深く組み込まれつつある。
+
+ロシア外務省が公開した写真では、金総書記とラブロフ外相がヨットの船室内の小さな円卓をはさんで笑顔で握手する姿が確認できる。
+
+ラブロフ外相は３日間の日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235464.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/13/d29c8e4686105f257ee7e36f32df6653/t/768/432/d/rtrmadp-3-northkorea-russia-lavrov-visit.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35235459.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-13T15:15:00+09:00</dc:date>
+        <title>米空港の保安検査、汗で身体検査される場合も　その理由は？</title>
+        <link>https://www.cnn.co.jp/travel/35235459.html?ref=rss</link>
+        <description>このところ猛暑が続く米国と欧州。だが、こうした暑さにはあまり知られていない「副作用」がひとつある。
+
+大量に汗をかくと、空港の保安検査場で身体検査をされるケースがあるのだ。特に、下着に汗がたまっている場合は問題になる。
+
+検査装置が反応して、警備員から探知棒で体をなぞられた経験はないだろうか。その原因は湿気だったのかもしれない。
+
+理由を説明してもらうため、取材班は米運輸保安庁（ＴＳＡ）に話を聴いた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35235459.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/13/b660fdd98f75822f7cf1fb6ad2e24ce1/t/768/512/d/gettyimages-2223567619.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235462.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-13T14:36:00+09:00</dc:date>
+        <title>映画「スーパーマン」、予想上回る滑り出し　オープニング興収１９０億円に迫るか</title>
+        <link>https://www.cnn.co.jp/showbiz/35235462.html?ref=rss</link>
+        <description>新作映画「スーパーマン」の興行収入が好調だ。１０日のプレビュー上映で２２５０万ドル（約３３億円）の興収を挙げたのに続き、１１日には北米興収で推計５６５０万ドルを稼いだ。
+
+スーパーマンは１９３８年に登場したコミックのキャラクターで、シリーズ映画が始まったのは７８年。今週末の北米興収は１億３０００万ドル（約１９１億円）近くに上るとみられている。
+
+映画チケット販売会社ファンダンゴの分析責任者で、興収...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235462.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/13/15fddfd69c8581b817ba46d367c8e725/t/768/402/d/screen-shot-2024-12-19-at-10-42-58-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235461.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-13T13:42:00+09:00</dc:date>
+        <title>パレスチナ系米国人、イスラエル人入植者に殴打され死亡　ヨルダン川西岸</title>
+        <link>https://www.cnn.co.jp/world/35235461.html?ref=rss</link>
+        <description>イスラエルの占領下にあるパレスチナ自治区ヨルダン川西岸で、パレスチナ系米国人がイスラエル人入植者に殴打されて死亡した。パレスチナ保健省と目撃者が明らかにした。
+
+死亡したのはサイフォラ・ムサレット氏（２０）。占領地ではパレスチナ人に対するイスラエル人入植者の暴力が激しさを増している。
+
+パレスチナ保健省は１１日、声明で、ムサレット氏がラマラ北方のシンジルで、イスラエル人の入植者に全身を激しく殴打さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235461.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/13/f85b1b07d6f5fee44a1ff11db891a8dd/t/768/432/d/502976762-1282149893333459.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235460.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-13T12:43:00+09:00</dc:date>
+        <title>トランプ氏の関税通知、ミャンマー軍政には朗報　軍政の「承認」として歓迎</title>
+        <link>https://www.cnn.co.jp/world/35235460.html?ref=rss</link>
+        <description>世界の首脳の多くにとって、米国のトランプ大統領から届く関税をめぐる書簡は頭痛の種だ。しかし、ミャンマー国軍のミンアウンフライン最高司令官は、孤立して国際社会から非難を浴びる軍政への「承認」として書簡を歓迎している。
+
+２０２１年にクーデターで権力を掌握したミンアウンフライン氏は、７日に送られたトランプ氏からの新たな関税を通知する書簡を受け取る「栄誉」を得たと述べた。国営紙「グローバル・ニュー・ラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235460.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/13/c75477d818fc5791e2ece468b188ea69/t/768/432/d/gettyimages-2206547747.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235457.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-13T12:04:00+09:00</dc:date>
+        <title>インド旅客機墜落、一つの問いに答え　浮かび上がったさらなる疑問</title>
+        <link>https://www.cnn.co.jp/world/35235457.html?ref=rss</link>
+        <description>ここ１０年で最悪の航空事故となったエアインディア旅客機の墜落。公式報告書は一つの重要な問いに答えを出したものの、さらなる疑問が浮かび上がった。
+
+エアインディア１７１便は先月、滑走路を離陸した直後に失速し、インド西部アーメダバードの人口密集地域に墜落した。搭乗していた２４２人のうち１人を除く全員と、地上の１９人が死亡した。
+
+今回、インド航空事故調査局（ＡＡＩＢ）による暫定報告書で、機体が上昇する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235457.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/13/7caf521ac712d813672b3ba806dabdd8/t/768/432/d/gettyimages-2219148016-20250712154822864.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235458.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-13T11:43:00+09:00</dc:date>
+        <title>クルド人組織ＰＫＫ、武器を燃やす式典　武装闘争終結へ前進</title>
+        <link>https://www.cnn.co.jp/world/35235458.html?ref=rss</link>
+        <description>トルコからの分離独立をめざして武装闘争を続けてきたクルド人の非合法組織、クルディスタン労働者党（ＰＫＫ）は１１日、拠点があるイラク北部で、戦闘員が武器を放棄する式典を開催した。半世紀近く続き、数万人の犠牲者を出したトルコ政府との武装闘争の終結へ向けた象徴的な第一歩となった。
+
+式典には政治家や各界の関係者が出席。ＰＫＫの戦闘員約３０人が武器を大釜に収め、その後、火を放った。戦闘員は声明で「民主的...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235458.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/13/2b81943c3fd0afbce72040251f1a679f/t/768/511/d/large-gettyimages-2223902366.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235456.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-13T10:28:00+09:00</dc:date>
+        <title>ロシア外相、金総書記と会談　北朝鮮がウクライナでの戦争への関与深める</title>
+        <link>https://www.cnn.co.jp/world/35235456.html?ref=rss</link>
+        <description>ロシアのラブロフ外相は１２日、北朝鮮東部の港湾都市・元山で、金正恩（キムジョンウン）総書記と会談した。北朝鮮はロシアとの関係を強めるなか、ウクライナでの戦争への関与を深めつつある。
+
+ロシア外務省は同日、ＳＮＳ「テレグラム」にラブロフ氏と金氏が写る写真を投稿した。ラブロフ氏は１１日に北朝鮮入りし、３日間滞在する。
+
+ロシア外務省によると、ラブロフ氏は１２日、崔善姫（チェソンヒ）外相とも会談した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235456.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/13/fc50021e676ec6a60cd3abb29f6de5ba/t/768/432/d/gettyimages-2223165124-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235455.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-13T08:59:00+09:00</dc:date>
+        <title>ＥＵとメキシコに３０％の関税、トランプ米大統領が発表</title>
+        <link>https://www.cnn.co.jp/business/35235455.html?ref=rss</link>
+        <description>トランプ米大統領は１２日、メキシコと欧州連合（ＥＵ）からの輸入品に３０％の関税を課すと発表した。メキシコとＥＵはいずれも米国にとっての主要な貿易相手であり、今年１月の再就任以降続くトランプ氏の関税攻勢は世界の貿易秩序を揺さぶっている。
+
+トランプ氏は、欧州委員会のフォンデアライエン委員長宛ての書簡をＳＮＳ「トゥルース・ソーシャル」に投稿し、「米国はＥＵとの貿易赤字が過去最大規模であるにもかかわら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235455.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/13/7c760dfb5c6bfbd18b94702677093d32/t/768/432/d/gettyimages-2223603775.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235450.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-12T17:40:00+09:00</dc:date>
+        <title>ポーランド、Ｋ２戦車の調達契約締結　韓国は米同盟国への主要な兵器供給国に</title>
+        <link>https://www.cnn.co.jp/world/35235450.html?ref=rss</link>
+        <description>ポーランドはこのほど、韓国製のＫ２戦車１８０両を調達する契約を締結した。２０２２年の合意に基づく２回目の調達となる。最終的に、ポーランドが保有するＫ２戦車の数は１０００両近くに上る見通しだ。
+
+今回の契約は、ポーランドが欧州有数の軍事大国として台頭しつつあること、韓国が主要な兵器供給国としての地位を確立したことを浮き彫りにする。世界各地の紛争で米国の兵器在庫が枯渇する中、韓国はとりわけ米同盟国へ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235450.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/12/078135df743777d942954ed33a4e83bb/t/768/432/d/2025-07-02t182700z-540192693-rc2z8fad8m5h-rtrmadp-3-southkorea-poland.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235437.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-12T16:30:00+09:00</dc:date>
+        <title>南極氷床から検出された「奇妙な」電波信号、物理法則に従わず？　科学者が解明に挑む</title>
+        <link>https://www.cnn.co.jp/fringe/35235437.html?ref=rss</link>
+        <description>科学者たちは、南極の氷床から検出された異常な電波信号の正体を突き止めることで、１０年来の謎の解明に挑んでいる。
+
+この奇妙な電波は、高エネルギー宇宙粒子「ニュートリノ」の探索中に発生した。宇宙の果てから地球に飛来するニュートリノは、極めて実態を捉えにくく、あらゆる物質を変化することなく通過できることから、「幽霊粒子」とも呼ばれている。
+
+過去１０年間、研究者らはニュートリノの検出を目的とした実験を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235437.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/12/5aa737f836d4ca07d3e00ab26d625e29/t/768/432/d/anita-internal1-sized.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35235447.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-12T15:40:00+09:00</dc:date>
+        <title>日本のパンダのメッカ、白浜　パンダが去った後に待つものは</title>
+        <link>https://www.cnn.co.jp/travel/35235447.html?ref=rss</link>
+        <description>黒と白の服に身を包み、彼らはやって来た。頭にフワフワの帽子、手には旗とぬいぐるみを握りしめて。目に涙をため、声を詰まらせて泣きながら、炎天下で辛抱強く列に並ぶ。そうして最後の姿を一目見ようと待っている。全てが終わってしまうその前に。
+
+ここ白浜で、パンダは絶大な人気を誇ってきた。３０年以上にわたって、パンダのいる地元の動物園「アドベンチャーワールド」は多くの来園者を引きつけた。彼らの愛情がパンダ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35235447.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/12/55b13339c868f20db892916942eaaa94/t/768/432/d/panda-town-shirahama-sign-yumi-asada.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235448.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-12T14:55:00+09:00</dc:date>
+        <title>南カリフォルニアでの相当な理由なき移民逮捕に停止命令　連邦地裁</title>
+        <link>https://www.cnn.co.jp/usa/35235448.html?ref=rss</link>
+        <description>米カリフォルニア州の連邦地裁は１１日、国土安全保障省が同州ロサンゼルスの移民捜査において相当な理由なく職務質問や逮捕を行っていると判断し、人種、話し言葉、職業のみを理由に個人を拘束することを停止するよう命じた。
+
+バイデン前大統領によって任命されたマアメ・エウシメンサ・フリンポン連邦地裁判事は、国土安全保障省に対し、人物の見かけ上の人種や民族、話す言語やアクセント、バス停などの「特定の場所にいる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235448.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/12/ccef1c79f2a33364e53ae0cde30d10b5/t/768/432/d/ap25188669068024.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235445.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-12T13:47:00+09:00</dc:date>
+        <title>トランプ氏が洪水の被災地視察、災害対応への疑問を一蹴　「民主党は批判したいだけ」</title>
+        <link>https://www.cnn.co.jp/usa/35235445.html?ref=rss</link>
+        <description>洪水に見舞われた米テキサス州の被災地の視察に訪れたトランプ大統領は１１日、現地の災害対応に向けられた批判の声を一蹴し、州並びに連邦の当局者らは「素晴らしい仕事」をしていると主張した。
+
+トランプ氏は災害対応や復旧作業について、これほど見事な仕事ぶりは見たことがないと称賛。作業に当たる人々への驚嘆を表明し、「ヒーローであり、ヒロインだと思う」などと述べた。
+
+一方で、洪水前に早期警戒警報が発せられな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235445.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/12/00a7f94b1b1959d83f9e2d43795ca0fa/t/768/511/d/c-ap25192667189507.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235446.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-12T13:05:00+09:00</dc:date>
+        <title>ロシアの攻撃続くキーウ、空爆下で小児ドナーの心臓を運んだ医師　移植手術で命を救うため</title>
+        <link>https://www.cnn.co.jp/world/35235446.html?ref=rss</link>
+        <description>ウクライナの首都キーウは炎に包まれていた。大きな爆発音や上空を飛行するロシアのドローン（無人機）の恐ろしい音をものともせず、ボリス・トドゥロフ医師は救急車で街を走り抜けた。
+
+トドゥロフ氏が届けようと決意していた大切な荷物は、人間の心臓だった。
+
+トドゥロフ氏の患者は幼い子どもで、病院で重篤な状態にある。猶予は数時間だった。
+
+その子は数年前から心臓病を患っていたが、今週に入って容体が悪化した。トド...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235446.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/12/d4859941ce82a67f4cfd9daba3878c77/t/768/432/d/screenshot-2025-07-11-at-10-36-05-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235442.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-12T11:32:00+09:00</dc:date>
+        <title>ＦＢＩ副長官、辞任の考えを周辺に示唆と情報筋　エプスタイン事件の情報公開が影響か</title>
+        <link>https://www.cnn.co.jp/usa/35235442.html?ref=rss</link>
+        <description>米連邦捜査局（ＦＢＩ）のダン・ボンジーノ副長官は、ＦＢＩと司法省が深刻な対立に陥る中で辞任を検討していることを周辺に示唆している。事情に詳しい情報筋がＣＮＮに明らかにした。
+
+両者の対立は、性的人身売買の罪で起訴され、公判前に拘置所で死亡した米国の富豪ジェフリー・エプスタイン氏に関するメモが公開された影響によるもの。内紛が表面化した９日の会合にはボンジーノ氏の他、ボンディ司法長官、パテルＦＢＩ長...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235442.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/12/39231e80747214c978bf1de56c92271b/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWN6NHluN3cwMHRuMjdxZDlsNng0MW1z-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtY3o0eW43dzAwdHUyN3FkaHRzdmU3OG4_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235441.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-12T10:34:00+09:00</dc:date>
+        <title>米国務省、職員１３００人超の解雇に着手　抜本的な組織再編の一環</title>
+        <link>https://www.cnn.co.jp/usa/35235441.html?ref=rss</link>
+        <description>米国務省は１１日、抜本的な組織再編の一環で、１３００人を超える職員の解雇に着手した。国務省の当局者が明らかにした。
+
+ＣＮＮが確認した内部通知によると、解雇対象となるのは首都ワシントンに勤める公務員１１０７人や外交官２４６人。連邦政府の縮小を目指すトランプ政権の大規模施策の一環として、国務省は抜本的な再編を実施する。
+
+１１日に解雇された職員は、暴力的な過激主義への対策、イスラム主義勢力タリバンに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235441.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/12/b8e7d36f4d8806f016cc0f19b034bfc8/t/768/432/d/usa-trump-statedept.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235440.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-12T09:30:00+09:00</dc:date>
+        <title>エアインディア機墜落、直前にエンジンへの燃料供給遮断か　暫定報告書</title>
+        <link>https://www.cnn.co.jp/world/35235440.html?ref=rss</link>
+        <description>インド航空会社エアインディアの旅客機が６月に墜落した事故で、インド航空事故調査局は暫定報告書を公表し、エンジンへの燃料供給が断たれていたとの見解を示した。
+
+ロンドン行きのエアインディア機は、インド西部アーメダバードの空港の滑走路から離陸した直後に墜落した。搭乗者は１人を除き全員死亡した。
+
+ＣＮＮが入手した報告書によれば、ボーイング７８７型機のコックピットにある燃料制御スイッチが切り替わり、エン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235440.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/12/c9eec68c3b038835981cc5a87e6ae329/t/768/432/d/gettyimages-2219145356-20250711205458003__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235433.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T18:00:00+09:00</dc:date>
+        <title>米国の子どもの死亡率、他国比で突出　銃の犠牲は１５倍、慢性疾患や精神疾患も急増</title>
+        <link>https://www.cnn.co.jp/fringe/35235433.html?ref=rss</link>
+        <description>米国の子どもの健康状態が過去数十年で著しく悪化している。子どもの死亡率は同程度の所得の他国に比べて米国の方がはるかに高いことが、最新の研究で明らかになった。
+
+この研究は７日の医学誌ＪＡＭＡに発表された。論文共著者でフィラデルフィア小児病院教授のクリス・フォレスト氏は、「この国の子どもたちは苦しんでいる」と指摘する。
+
+研究チームは全米規模の数億件の健康記録や電子カルテなどを分析した。その結果、２...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235433.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/08a4ca970c3ea183c21ef8cd610650f7/t/768/512/d/gettyimages-2191636722.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235430.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T16:59:00+09:00</dc:date>
+        <title>イラン、対イスラエル紛争後の１６日間でアフガン人５０万人追放　国連発表</title>
+        <link>https://www.cnn.co.jp/world/35235430.html?ref=rss</link>
+        <description>国連によれば、イスラエルとの紛争が終結してからの１６日間で、イランは５０万人以上のアフガニスタン人を国外追放したという。
+
+イラン政府は数カ月前から、適正な書類を持たずに入国したアフガン人数百万人を排除する意向を表明してきた。これらのアフガン人はイラン全土で低賃金労働に従事。しばしば過酷な条件下に置かれているとされる。
+
+国際移住機関（ＩＯＭ）は、６月２４日から７月９日までの間に、５０万８４２６人...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235429.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T16:00:00+09:00</dc:date>
+        <title>エンジン音や警報音を音楽に、英ヒースロー空港の収録音でサントラ構成</title>
+        <link>https://www.cnn.co.jp/business/35235429.html?ref=rss</link>
+        <description>英ロンドンのヒースロー空港がこの夏、旅行者にホリデー気分を満喫してもらおうと、本物のジェットエンジン音やエレベーターの操作音、荷物搬入の警報音などを取り入れたサウンドトラック「ミュージック・フォー・ヒースロー」を制作した。
+
+同空港の８日の発表によると、制作を手がけたのはグラミー賞ノミネートの経験をもつジョーダン・ラカイさん。一つの空港で収録された音声だけでサウンドトラックを構成するのは世界初だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235429.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/4c588daafdc50ff7e918dfcfa467fe66/t/768/432/d/musicforheathrow-edit-03-59bd5.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235423.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T14:40:00+09:00</dc:date>
+        <title>人間だけじゃなかった、流行追いかけるチンパンジー　みんなを真似て仲間入り</title>
+        <link>https://www.cnn.co.jp/fringe/35235423.html?ref=rss</link>
+        <description>アフリカの野生生物保護区に生息するチンパンジーの間で、耳の穴やお尻の穴に草木を差し込んでぶら下げる「ファッション」が流行する現象が観察された。
+
+この行動は、ザンビアの保護区でオランウータンを観察していた研究チームが２０１０年に発見した。１頭のメスのチンパンジーが耳の穴から草木をぶら下げ始めたところ、すぐに群れの仲間が真似（まね）して同じ行動をするようになったという。論文筆頭著者でオランダのユト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235423.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/5fb0edfb864346067095de10a7923e0d/t/768/558/d/low-res-image5-klein.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235420.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T13:45:00+09:00</dc:date>
+        <title>建設中のトンネルが一部崩落、３１人が地下１２０メートルに一時閉じ込められる　米ＬＡ</title>
+        <link>https://www.cnn.co.jp/usa/35235420.html?ref=rss</link>
+        <description>米カリフォルニア州ロサンゼルスで現地時間の９日夜、約１２０メートルの地下で建設中のトンネルの一部が崩落し、作業員の男性３１人が一時的に閉じ込められた。消防などが懸命の救助活動を行った結果、全員が無事に脱出した。
+
+トンネルは何の予兆もなく突然崩落。閉じ込められた３１人は、唯一の出入り口から約８キロの地点で作業していた。
+
+トンネルの幅は約５．５メートル、全長約１１キロ。自治体の下水道プロジェクトの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235420.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/76c01a373ef6815bf2fb13fb5e342fe3/t/768/432/d/still-21772064-0-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235422.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T13:15:00+09:00</dc:date>
+        <title>米政府、パレスチナ人権担当の国連高官に制裁　国際刑事裁判所通じた追及を「不当」と非難</title>
+        <link>https://www.cnn.co.jp/usa/35235422.html?ref=rss</link>
+        <description>米国務省のマルコ・ルビオ長官は９日、パレスチナ人の人権状況調査を担当している国連高官のフランチェスカ・アルバネーゼ特別報告者に対して制裁を科すと発表した。
+
+ルビオ長官はＸ（旧ツイッター）への投稿で、アルバネーゼ氏が米国やイスラエルの同意を得ずに、国際刑事裁判所（ＩＣＣ）と直接的にかかわって、両国の政府関係者や企業、幹部らを追及していると述べ、「不当かつ恥ずべき行為」と非難した。
+
+パレスチナ自治...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235422.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/4a7aa5a7aedb60fbf4971b39a8aa0a9d/t/768/432/d/c-gettyimages-2222131426.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235415.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T12:15:00+09:00</dc:date>
+        <title>ルビオ米国務長官、ロシアのラブロフ外相と会談　トランプ米大統領の「失望と不満」伝える</title>
+        <link>https://www.cnn.co.jp/usa/35235415.html?ref=rss</link>
+        <description>ルビオ米国務長官は１０日、マレーシアで、ロシアのラブロフ外相と「率直な対話」を行い、その中でトランプ米大統領の「失望と不満」を伝えたと明らかにした。またロシア・ウクライナ間の紛争終結に向けた新たな構想についても話し合ったと、記者団に述べた。
+
+マレーシアでの会談は、東南アジア諸国連合（ＡＳＥＡＮ）の会合の傍らで行われた。当該地域における同盟関係の強化に焦点を当てることを意図していた今回の訪問だっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235415.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/be3d2adf6460f971c30ebe17ab612ca1/t/768/432/d/gettyimages-2223749511.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235412.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T11:28:00+09:00</dc:date>
+        <title>トランプ氏、カナダ製品に３５％の関税適用表明　他国にも最大２０％課税へ</title>
+        <link>https://www.cnn.co.jp/business/35235412.html?ref=rss</link>
+        <description>米国のトランプ大統領は１０日夜、カナダからの輸入品に３５％の関税を課す意向を表明した。これは米国にとって最も重要な貿易相手国のひとつである北の隣国との貿易戦争が劇的に激化することを意味する。
+
+トランプ氏はソーシャルメディアに投稿した書簡の中で「２０２５年８月１日から、我々はカナダから米国に送られるカナダ製品に対し、すべての分野別関税とは別に３５％の関税を課す」と明らかにした。
+
+またＮＢＣニュー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235412.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/7ef91eb4ec7e12391083c346ddf78df7/t/768/432/d/usa-trump-tariffs-lumber.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235413.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T10:50:00+09:00</dc:date>
+        <title>トランプ氏、ＮＡＴＯを通じたウクライナへの武器供与で合意　費用は同機構が全額負担</title>
+        <link>https://www.cnn.co.jp/world/35235413.html?ref=rss</link>
+        <description>トランプ米大統領は１０日、ＮＢＣニュースに対し、米国が北大西洋条約機構（ＮＡＴＯ）を通じてウクライナに武器を供与することでＮＡＴＯと合意し、ＮＡＴＯがそれらの費用を「１００％」負担すると述べた。
+
+ＮＢＣは、トランプ氏が「ＮＡＴＯに（地対空ミサイル）パトリオットを送り、ＮＡＴＯがそれを配布する」と述べたと伝えている。
+
+１０日にトランプ氏と電話会談を行ったＮＡＴＯのルッテ事務総長は、Ｘ（旧ツイッタ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235413.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/e3e750252a186feab996b615b2adbfb3/t/768/512/d/c-ap25169385959127.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235409.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T10:24:00+09:00</dc:date>
+        <title>フーシの攻撃により紅海で船舶沈没　３人死亡、１０人救助</title>
+        <link>https://www.cnn.co.jp/world/35235409.html?ref=rss</link>
+        <description>海洋安全保障を担う欧州連合（ＥＵ）の部隊によると、イエメン近海で同国の反政府組織フーシから攻撃を受けた船舶が沈没し、紅海から１０人が救助された。
+
+フーシは船舶への攻撃後、乗組員の何人かを非公開の場所に連れて行ったと述べた。海上安全情報筋がロイター通信に語ったところによると、フーシは６人の乗組員を拘束している模様。フーシが紅海で商船を狙う事態が発生したのは今週に入って２度目となる。
+
+紅海で海洋安...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235409.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/2c95f446528b3616ced9f4094083c02d/t/768/432/d/houthis-16x9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235411.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-11T09:33:00+09:00</dc:date>
+        <title>ウクライナ情報機関職員が銃撃され死亡、暗殺か</title>
+        <link>https://www.cnn.co.jp/world/35235411.html?ref=rss</link>
+        <description>ウクライナ保安庁（ＳＢＵ）の職員が１０日、首都キーウで射殺された。当局は暗殺との見方を示している。
+
+ＳＢＵの広報担当者はＣＮＮに対し、捜査が進められていると説明したが、職員の身元に関する詳細は明らかにしていない。
+
+事件の様子が映っているとされる無音の防犯カメラ映像が現地のテレグラムで共有された。ＣＮＮは映像の真偽を独自に確認できていないが、映像の場所はキーウ警察が公開した現場の公式写真と一致し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235411.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/11/3ad07806d3ccbab8820b88b0df2bfce4/t/768/432/d/2025-07-10t121702z-1658499332-rc2njfa9i34o-rtrmadp-3-ukraine-crisis-sbu.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
