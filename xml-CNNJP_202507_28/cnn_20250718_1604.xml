@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-07-18T18:30:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235667.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35235668.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235707.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235704.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235702.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235698.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235701.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235693.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235686.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235691.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235682.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235678.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235680.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235674.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235672.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235670.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235639.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235659.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235650.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235649.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235637.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235641.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235633.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235631.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235629.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35235625.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235624.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235621.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235619.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235616.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235667.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T18:30:00+09:00</dc:date>
+        <title>写真で見る、７０年前に開園した米ディズニーランド　「地上でいちばん幸せな場所」</title>
+        <link>https://www.cnn.co.jp/showbiz/35235667.html?ref=rss</link>
+        <description>「地上でいちばん幸せな場所」――。そう銘打たれた米ディズニーランドが１９５５年７月１７日に開園し、近代テーマパーク産業の幕開けを告げた。
+
+ウォルト・ディズニーは、親子で一緒に楽しめる場所をつくり出したいと考えていた。自身の物語や映画に着想を得たアトラクションを備え、家族連れが凝ったテーマに存分に浸れる、そんな清潔な空間だ。
+
+資金提供者の見方は懐疑的で、約６５ヘクタールのオレンジ畑を切り開くという...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235667.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/a81f83fd720531c983f6b3576ecf287d/t/768/512/d/shutterstock-editorial-12485039a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35235668.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T18:25:00+09:00</dc:date>
+        <title>写真特集：「地上でいちばん幸せな場所」、７０年前に開園の米ディズニーランド</title>
+        <link>https://www.cnn.co.jp/photo/35235668.html?ref=rss</link>
+        <description>「地上でいちばん幸せな場所」――。そう銘打たれたディズニーランドが１９５５年７月１７日に開園し、近代テーマパーク産業の幕開けを告げた。開園当日の様子を写真で見ていく&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35235668.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/97efb812c6669867df71d198559bfecc/t/768/768/d/shutterstock-editorial-12122896c.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235707.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T18:00:00+09:00</dc:date>
+        <title>トランプ米大統領が題材の広東オペラ、中国の伝統芸能に新風</title>
+        <link>https://www.cnn.co.jp/showbiz/35235707.html?ref=rss</link>
+        <description>定番の青いスーツと赤いネクタイを着けた米国のドナルド・トランプ大統領が、スポットを浴びて香港の舞台に登場した。やり合う相手はウクライナのボロディミル・ゼレンスキー大統領。
+
+２人はウクライナ大統領の服装をめぐって口論になり、宙に向けてパンチを繰り出し、トランプ大統領がゼレンスキー大統領に水鉄砲を発射した。
+
+このやり取りは、お笑い演劇公演「トランプ、双子の大統領」の一場面。政治の舞台で起きた最近の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235707.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/15/996bc290d94ba0644e3ce8d872694f15/t/768/432/d/01-dsc03723-cropped.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235704.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T16:30:00+09:00</dc:date>
+        <title>洪水で死者１７０人、半数は子ども　パキスタン</title>
+        <link>https://www.cnn.co.jp/world/35235704.html?ref=rss</link>
+        <description>パキスタン東部で洪水が猛威を振るい、ここまで１７０人以上が死亡した。その約半数が子どもだった。同国では気候危機の深刻化に対する脆弱（ぜいじゃく）性を浮き彫りにする大規模災害が相次いで発生している。
+
+国家防災管理庁（ＮＤＭＡ）によると、最も人口の多いパンジャブ州を豪雨が襲い、家屋の倒壊、道路の破壊などの被害が出た。この２４時間で少なくとも５４人が死亡したという。
+
+６月２６日に洪水が始まって以来、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235704.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/eaf83478c82a626fd68ab20c485d45d2/t/768/432/d/gettyimages-2224810741.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235702.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T15:37:00+09:00</dc:date>
+        <title>米下院、１．３兆円規模の予算削減法案を可決　トランプ氏に新たな立法上の勝利</title>
+        <link>https://www.cnn.co.jp/usa/35235702.html?ref=rss</link>
+        <description>米下院共和党は１８日未明、対外援助と公共放送への９０億ドル（約１兆３０００億円）規模の支出を削減するための法案を最終承認した。トランプ大統領に勝利が与えられた形だ。
+
+法案は政府効率化省（ＤＯＧＥ）がまとめた支出削減の一部。下院は、上院の議事妨害（フィリバスター）を回避するために使用される不明瞭な大統領予算法に基づき、このパッケージを可決した。法案は今後、大統領に提出されて法制化される。
+
+法案内...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235702.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/306177893613594fee06edfd24a6c309/t/768/432/d/gettyimages-2224847849.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235698.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T15:00:00+09:00</dc:date>
+        <title>灯台下暗し、博物館の駐車場の地中深くから恐竜化石見つかる　米デンバー</title>
+        <link>https://www.cnn.co.jp/fringe/35235698.html?ref=rss</link>
+        <description>米コロラド州にあるデンバー自然科学博物館の科学者らが、特別な恐竜の化石を意外な場所で発見した。それは自分たちが勤務する博物館の駐車場の地中から見つかった。 
+
+「灯台下暗し」を地で行く発見があったのは今年１月。博物館地下の岩石層を調べる掘削プロジェクトを実施していたときだった。博物館が今月９日に明らかにした。 
+
+岩や堆積（たいせき）物のサンプルを採取する際に偶然見つかった化石は、直径約６．４センチ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235698.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/2ed874c361d199911db64be099f1eefb/t/768/432/d/eas2025-2-025-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235701.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T14:06:00+09:00</dc:date>
+        <title>飛行中にドア開けようとした乗客　乗員と言い争い、旅客機が緊急着陸　米アイオワ州</title>
+        <link>https://www.cnn.co.jp/usa/35235701.html?ref=rss</link>
+        <description>米国内便の旅客機内で１７日夜、飛行中に乗客が非常口のドアを開けようとして客室乗務員と言い争いになり、同機が米アイオワ州シーダーラピッズの空港に緊急着陸した。
+
+米連邦航空局（ＦＡＡ）によると、事案は現地時間の午後７時ごろ、スカイウェスト航空が運航するオマハ発デトロイト行きのデルタコネクション３６１２便の機内で発生した。
+
+航空管制傍受サイトのＬｉｖｅＡＴＣ．ｎｅｔによると、操縦士からシーダーラピッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235701.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/552e24d861b2e2a9f5a66b34b4df1c39/t/768/432/d/plane_0718.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235693.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T12:24:00+09:00</dc:date>
+        <title>トランプ氏　エプスタイン元被告に誕生日祝う手紙、裸の女性の絵と署名入り　米紙報道</title>
+        <link>https://www.cnn.co.jp/usa/35235693.html?ref=rss</link>
+        <description>勾留中に死亡した米富豪ジェフリー・エプスタイン元被告が２００３年に５０歳の誕生日を迎えた際、贈られた手紙の中に、トランプ米大統領の名前と裸の女性の輪郭が描かれたメモが含まれていたことが分かった。米紙ウォールストリート・ジャーナルが１７日に報じた。
+
+手紙を確認した同紙によると、女性の胸が描かれ、陰毛の代わりに「ドナルド」の署名が書かれた絵が、タイプライターで打たれた数行の文章を囲んでいた。手紙は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235693.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/19c2c4d7bbc8c70428e3edb63dad1459/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWQ4MHFhbHUwMDNrMjZwMmcwMXFnNXo3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZDgwcWFsdTAwM3IyNnAyMXlhNDZnbHE_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235686.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T12:07:00+09:00</dc:date>
+        <title>保護犬３１頭、洪水被害のテキサス州からシカゴへ　被災ペットの救助で全米の団体が連携</title>
+        <link>https://www.cnn.co.jp/usa/35235686.html?ref=rss</link>
+        <description>米テキサス州で起きた大規模な洪水で、被災地の保護施設にいた子犬や成犬３１頭が、里親を探すために空路イリノイ州シカゴの施設に到着した。
+
+洪水で被災した動物の救助では各地の保護団体が連携して対応に当たっており、ＰＡＷＳシカゴはテキサス州の施設にいた３１頭を引き取った。
+
+同団体は「この犬たちをシカゴに連れてくることで、テキサス州の施設は洪水で被災したペットを助けて家族と再会させる余裕ができる」とＳＮ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235686.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/85d63593c952c87a324aa88888d40c0c/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWQ3cXZkZTIwMDE1M2I2b20zamdqdHdw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZDdoMG1zejAwMXoyN20zZ29jeTk5eXY_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235691.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T11:27:00+09:00</dc:date>
+        <title>国際空港での小型機乗っ取り　男を逮捕、「思想的な同機」と警察　カナダ</title>
+        <link>https://www.cnn.co.jp/world/35235691.html?ref=rss</link>
+        <description>カナダの国際空港で小型機が乗っ取られた事件をめぐり、男が逮捕された。この事件をめぐっては、別の航空機などに突っ込む事態を恐れ、空港周辺では便の遅れや運航停止などの影響が相次いだ。
+
+カナダ警察によると、バンクーバーから約６４キロ南にあるビクトリア国際空港の飛行訓練校で１５日、男が教官を脅して小型機のセスナ１７２を乗っ取った。
+
+乗っ取られたのは遊覧飛行ツアーやチャーター便などを運航しているビクトリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235691.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/a814327fb60f90342be06b4c76036932/t/768/512/d/still-21790299-98440-18147860537-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235682.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T10:49:00+09:00</dc:date>
+        <title>レース中の落車で１９歳の自転車選手死亡　イタリア</title>
+        <link>https://www.cnn.co.jp/showbiz/35235682.html?ref=rss</link>
+        <description>イタリアの自転車選手、サムエレ・プリヴィテーラさんが自転車ロードレース「ジロ・デッラ・ヴァッレ・ダオスタ」での落車により死亡した。所属チームが明らかにした。１９歳だった。
+
+プリヴィテーラさんはイタリア北西部のポンテイで開催された２３歳以下のレースの第１ステージに出場していた。
+
+所属チームのオーナー兼ゼネラル・マネジャー、アクセル・メルクス氏は、チームのインスタグラムに声明を出し、プリヴィテーラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235682.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/70091155ac71335df57b97c7aa91b03d/t/768/432/d/gettyimages-2207333543.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235678.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T09:56:00+09:00</dc:date>
+        <title>スカイダイビングのフェリックス・バウムガートナーさん墜落死　成層圏ジャンプで世界記録</title>
+        <link>https://www.cnn.co.jp/showbiz/35235678.html?ref=rss</link>
+        <description>成層圏からのジャンプを世界で初めて成功させたオーストリアのスカイダイバー、フェリックス・バウムガートナーさんが１７日、イタリアで起きたパラグライダーの墜落事故で死亡した。５６歳だった。現地のメディアが伝えた。
+
+ＣＮＮ提携局ＳｋｙＴＧ２４によると、沿岸部の町ポルト・サンテルピーディオを飛行していたバウムガートナーさんのパラグライダーが制御できなくなり、ホテルのプールに墜落した。
+
+この事故で女性が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235678.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/1245505695925c741ca6db6efe26a6e6/t/768/432/d/cgettyimages-1421371881.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235680.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T09:45:00+09:00</dc:date>
+        <title>米ＮＦＬのブライアン・ブラマンさん、３８歳で死去　「非常にまれな癌」と闘病</title>
+        <link>https://www.cnn.co.jp/showbiz/35235680.html?ref=rss</link>
+        <description>米プロフットボールＮＦＬで７シーズンにわたり２チームでプレーし、スーパーボウルを制した経験もある元ラインバッカー、ブライアン・ブラマンさんが「非常にまれな種類のがん」との闘病の末、亡くなった。３８歳だった。代理人が１７日、ＣＮＮ Ｓｐｏｒｔｓに確認した。
+
+「ブライアン・ブラマンは、フィールドでも人生においても、あらゆる意味で戦士だった。揺るぎない気概と熱意を持って、すべての戦いに立ち向かった」「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235680.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/a58be2f50f6c863f71d8a4bd7ee47279/t/768/432/d/ap67085622928.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235674.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T08:44:00+09:00</dc:date>
+        <title>イスラエル首相、トランプ氏にガザ教会攻撃は「誤り」と認める</title>
+        <link>https://www.cnn.co.jp/world/35235674.html?ref=rss</link>
+        <description>イスラエルのネタニヤフ首相は１７日、トランプ米大統領と電話会談を行い、パレスチナ自治区ガザ地区唯一のカトリック教会へのイスラエル軍による攻撃が「誤り」だったと認めた。米ホワイトハウスが明らかにした。
+
+この攻撃では３人が死亡し、複数の負傷者もでている。ホワイトハウスのレビット報道官によると、教会への攻撃を受けて、トランプ氏がネタニヤフ氏に電話した。協議では、ネタニヤフ氏が誤って教会を攻撃したとの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235674.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/cf79c72e1de91d7c6a5c01badccacc32/t/768/432/d/gettyimages-2224810588.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235672.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T07:59:00+09:00</dc:date>
+        <title>トランプ氏、慢性静脈不全と診断　「すべての検査結果は正常値」</title>
+        <link>https://www.cnn.co.jp/usa/35235672.html?ref=rss</link>
+        <description>米ホワイトハウスは１７日、トランプ大統領（７９）が足のむくみで主治医の診察を受け、慢性静脈不全と診断されたと発表した。血栓や心臓病などの病状はなかったという。
+
+レビット報道官が発表した主治医の見解によると、超音波検査などを行った結果、トランプ氏が慢性静脈不全を抱えていることがわかった。「特に７０歳を超えた人には一般的な症状」としている。
+
+レビット氏は、トランプ氏がこのところ足が腫れていることに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235672.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/dcaeca2ecd247adae1b18ce86e87ec91/t/768/512/d/gettyimages-2224350852.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235670.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T07:14:00+09:00</dc:date>
+        <title>「トランプのごみ捨て場ではない」、アフリカ南部エスワティニ国民に怒り　米移民犯罪者の受け入れめぐり</title>
+        <link>https://www.cnn.co.jp/world/35235670.html?ref=rss</link>
+        <description>アフリカ全土、そして南部の小国エスワティニ（旧スワジランド）では、米国から国外追放された外国人の入国をめぐり、激しい怒りが爆発している。エスワティニ政府が、米国土安全保障省の報道官が「邪悪な怪物」と表現した移民らが自国の刑務所に送られたことを認めたためだ。
+
+ニュージャージー州ほどの面積を持つエスワティニは、絶対的な権力を持つ国王によって統治されている。当局は１６日、米国から追放された５人が、刑...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235670.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/ef080adbe09246cc03fe110f311b4337/t/768/432/d/gettyimages-2196166924.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235639.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-18T05:00:00+09:00</dc:date>
+        <title>地球最古の岩を特定？、地球史の未知の章が明らかになる可能性も　カナダ</title>
+        <link>https://www.cnn.co.jp/fringe/35235639.html?ref=rss</link>
+        <description>カナダのケベック州北部、ハドソン湾の東岸にある人里離れた岩の露頭（ろとう）には、不思議な静けさが漂っている。
+
+この岩は、「ヌブアギトゥク・グリーンストーン帯」と呼ばれる古代の海底の一部であり、過去２０年にわたり、地球最古の岩石をめぐる科学的論争の舞台となってきた。
+
+新たな研究では、このヌブアギトゥク・グリーンストーン帯に、現存する地球の地殻の中で最古とされる破片が含まれていることが示唆されてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235639.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/d2d23c8f54d2a9b935932295c56acdf3/t/768/432/d/nunavik.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235659.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T19:30:00+09:00</dc:date>
+        <title>米コカ・コーラが甘味料変更、トランプ氏は功績主張　「本物のサトウキビ糖を使用」</title>
+        <link>https://www.cnn.co.jp/usa/35235659.html?ref=rss</link>
+        <description>トランプ米大統領は１６日、自身の働きかけにより、コカ・コーラが米国向け製品の甘味料を変更することになったと発表した。
+
+トランプ氏はＳＮＳへの投稿で、「米国内の製品に『本物』のサトウキビ糖を使用することについてコカ・コーラと話し合ってきたが、彼らは同意してくれた。コカ・コーラの全ての責任者に感謝したい」とコメント。「非常に良い動きになるだろう。やがて分かる。単純にその方がおいしい！」と述べた。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235659.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/fde68a7dc29ca928f6f5e1db9c40dde2/t/768/432/d/gettyimages-2212000723.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235650.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T18:45:00+09:00</dc:date>
+        <title>ヘンリー王子、ダイアナ元妃が地雷原歩く象徴的場面を再現　アンゴラ視察で</title>
+        <link>https://www.cnn.co.jp/world/35235650.html?ref=rss</link>
+        <description>英国のチャールズ国王の次男、ヘンリー王子がアフリカ・アンゴラの地雷原を訪れた。地雷除去に取り組む慈善団体で、ヘンリー王子が協力する「ヘイロー・トラスト」の活動を視察する目的。
+
+同地は２８年前に母であるダイアナ元妃も訪れている。今回、ヘンリー王子は母の足跡をたどり、ダイアナ元妃が地雷原を歩く象徴的な場面を再現した。
+
+アンゴラで続いた内戦は２００２年に終結したものの、今も内戦によって埋められた地雷...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235650.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/33720039e6f8f14442aaad32b5d65f9f/t/768/432/d/20250716-diana-harry-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235649.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T18:15:00+09:00</dc:date>
+        <title>米上院、トランプ氏の予算削減法案を下院に送付　通過期限迫る</title>
+        <link>https://www.cnn.co.jp/usa/35235649.html?ref=rss</link>
+        <description>米国のトランプ大統領は現在、政府効率化省（ＤＯＧＥ）がまとめた支出削減の一部を連邦議会に正式に承認させる一歩手前のところまで来ている。上院共和党は１７日早朝、対外援助と公共放送への９０億ドル（約１兆３０００億円）の資金提供を中止することに合意した。
+
+法案は今後下院に戻されて、最終的な承認を受ける。可決の期限は１８日。共和党は民主党の投票なしで法案を可決する予算規則を使用している。予算削減法案が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235649.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/f31a3271b1ad90e1554fa678c183043e/t/768/432/d/still-21668488-25552-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235637.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T17:00:00+09:00</dc:date>
+        <title>世界最大の火星の隕石、７．９億円で落札　重さ２４．５キロ</title>
+        <link>https://www.cnn.co.jp/fringe/35235637.html?ref=rss</link>
+        <description>地球上で最大とされる火星の隕石（いんせき）が１６日、米ニューヨークで開催された競売会社サザビーズのオークションで、税・手数料込み５３０万ドル（約７億９０００万円）で落札された。落札した人の身元は公表されていない。
+
+サザビーズは今月８日の声明で、「ＮＷＡ　１６７８８」と呼ばれるこの隕石の重さは２４．５キロで、他の火星の隕石と比べ巨大だと述べた。火星の隕石は小さな破片であることが多い。
+
+隕石とは、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235637.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/9229c9e2f102b30f6ea3d4f6cd21e7a5/t/768/432/d/nwa-16788-courtesy-of-sotheby-s-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235641.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T16:38:00+09:00</dc:date>
+        <title>イラク東部の多層階商業ビルで大規模火災、５０人死亡</title>
+        <link>https://www.cnn.co.jp/world/35235641.html?ref=rss</link>
+        <description>イラク東部の都市クトで大規模な火災が発生し、地元当局が１７日に明らかにしたところによると数十人が死亡した。
+
+ワーシト県のマヤヒ知事は、夜通し続いた火災により女性や子どもを含む約５０人が死亡したと発表した。複数のイラクメディアの報道によると現場はクトのショッピングモール。
+
+フェイスブックで共有され、ＣＮＮが位置情報を確認したビデオ映像では、大きな多層階ビルが炎に包まれている。消防士が消火活動をす...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235641.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/07/f375b883c13c1d327b56f60e7f0bee48/t/768/432/d/150325082132-social-gfx-breaking-news.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235633.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T15:15:00+09:00</dc:date>
+        <title>シリアへ大規模攻撃、イスラエルが守るドルーズ派とは</title>
+        <link>https://www.cnn.co.jp/world/35235633.html?ref=rss</link>
+        <description>シリアが新たな暴力の波に襲われている。宗派対立に根差す暴力で死者が出る中、注目を集めているのがアラブ系の少数派ドルーズ派だ。今や彼らは、イスラエルとの緊張が高まる現地情勢の中心を占めている。
+
+シリア南部の都市スウェイダでは今週、政権支持派とドルーズ派の民兵が衝突。数十人が死亡し、シリア軍が介入する事態となった。すると今度はイスラエルが、ドルーズ派を守るとの名目で空爆を実施。シリア南部での勢力圏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235633.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/2449608f1ba0f180bf60c941295a7d1f/t/768/432/d/gettyimages-2224553582.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235631.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T14:22:00+09:00</dc:date>
+        <title>トランプ氏、自身の忠実な支持者を「弱虫」呼ばわり　エプスタイン騒動めぐり</title>
+        <link>https://www.cnn.co.jp/usa/35235631.html?ref=rss</link>
+        <description>トランプ米大統領は１６日、かつての支持者の一部について、勾留中に死亡した米富豪のジェフリー・エプスタイン元被告をめぐる民主党の「たわ言」に取り込まれた「弱虫」と非難し、もはやこうした人々からの支持は望んでいないと結論づけた。
+
+この発言は、大統領支持層に亀裂が生じつつあることを示す、これまでで最も明白な兆候だった。支持者の多くは、２０１９年に自殺して以降、数々の陰謀論がささやかれるエプスタイン元...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235631.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/bfccd24e5b966c69cb5dffaad60cec29/t/768/432/d/ap25196845624562.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235629.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T13:15:00+09:00</dc:date>
+        <title>ガザ配給所に殺到した住民、２０人死亡　群衆閉じ込め催涙スプレー噴射と目撃者証言</title>
+        <link>https://www.cnn.co.jp/world/35235629.html?ref=rss</link>
+        <description>イスラエルと米国が主導するガザ人道財団（ＧＨＦ）は１６日、同財団が運営するパレスチナ自治区ガザの援助物資配給所で群衆雪崩が起き、少なくとも２０人が死亡したと発表した。配給所で死者が出たことを同財団が認めたのは初めて。
+
+ＧＨＦによると、配給所に集まった人たちが「群衆の中の扇動者にあおられて」混乱状態に陥り、１９人が踏みつけられて死亡、１人は刃物で刺されて死亡した。
+
+「武装した（イスラム組織）ハマ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235629.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/6fb32d699d91465378bdd06ec2a42f11/t/768/432/d/2025-07-16t074501z-144342183-rc2infamyfd1-rtrmadp-3-israel-palestinians-khan-younis-gaza.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35235625.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T12:09:00+09:00</dc:date>
+        <title>ナチス将校が戦時中に盗んだエッチなモザイク画、ポンペイに返還</title>
+        <link>https://www.cnn.co.jp/style/arts/35235625.html?ref=rss</link>
+        <description> 第２次世界大戦中にナチスの大尉によってイタリアのポンペイ遺跡から盗み出されたエロチックなモザイク画が今月１５日、ようやく返還された。
+
+小さなモザイク画には寝椅子にもたれる男性と、男性に付き添う半裸姿の女性が描かれている。ポンペイ考古学公園の声明によると、ローマ時代の邸宅で寝室の床を飾っていた可能性があるという。
+
+ポンペイは西暦７９年のベスビオ火山噴火で壊滅的な被害を受け、建物や数千人の住民とと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35235625.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/454bf6beb81c4f2f09baf93036cde4e0/t/768/512/d/restituzione-mosaico-pompei-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235624.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T11:55:00+09:00</dc:date>
+        <title>エクアドル首都で深刻な水不足、日常生活に支障　絶望感募らせる住民</title>
+        <link>https://www.cnn.co.jp/world/35235624.html?ref=rss</link>
+        <description>南米エクアドルの首都キトで深刻な水不足が続き、住民が絶望感を募らせている。過去２５年で最悪の水不足は、発生から１週間が経過した。
+
+キト南部への水の供給に使われていたパイプランは土砂崩れで激しく損傷。住民約４０万人の日常生活に大きな支障が出た。
+
+寒さの中で通りに並んで水の配給を待つ住民からは、「水がなければ生きられない」と叫び声が上がる。
+
+当局は断水した６地区の住民への給水を急ぎながら、破損した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235624.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/2a07c6861a685bf93c59d7db31ce61b4/t/768/432/d/waiting-for-tanker-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235621.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T11:12:00+09:00</dc:date>
+        <title>米政府、緊急援助用の食料５００トンを賞味期限切れで廃棄　負担は納税者に</title>
+        <link>https://www.cnn.co.jp/usa/35235621.html?ref=rss</link>
+        <description>米政府が世界各地の食料援助に充てる目的で蓄えていた非常用の食料約５００トンが、賞味期限切れで廃棄される。こうした食料の備蓄には米国民の税金が使われていた。
+
+米国際開発局（ＵＳＡＩＤ）の元職員によると、廃棄されるのは高エネルギーで栄養価の高いビスケットで、アラブ首長国連邦ドバイの倉庫に何カ月もの間保管されていた。
+
+今月で賞味期限が切れるため廃棄しなければならず、米国の納税者の負担はさらに１０万ド...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235621.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/2dec32f4952a8e637484e7577180869a/t/768/432/d/2013-11-13t120000z-1163899963-gm1e9bd1cqj01-rtrmadp-3-philippines-typhoon.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235619.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T10:38:00+09:00</dc:date>
+        <title>世界最大規模の音楽フェス会場で火災、開幕直前にメインステージ全焼　ベルギー</title>
+        <link>https://www.cnn.co.jp/world/35235619.html?ref=rss</link>
+        <description>ベルギーのボームで開かれる世界最大規模の音楽フェスティバル「トゥモローランド」のメインステージで、１８日の開幕を直前に控えて大規模な火災が発生した。
+
+主催者は１６日夜、この火災でメインステージが激しく損傷したことを明らかにした。負傷者はなかったとしている。
+
+火災の発生は現地時間の１６日。現場をとらえた映像では巨大な黒煙が立ち上り、遠くで花火がはじける音が聞こえている。
+
+ベルギーの公共放送ＶＲＴ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235619.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/20353d2ccb24c02d5149704186fada83/t/768/432/d/gettyimages-2224706744.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235616.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-17T10:18:00+09:00</dc:date>
+        <title>イスラエル、ダマスカスに強力な攻撃　シリア軍はスウェイダから撤収開始</title>
+        <link>https://www.cnn.co.jp/world/35235616.html?ref=rss</link>
+        <description>イスラエルは１６日、シリア首都ダマスカスに対して相次ぎ強力な攻撃を実施し、軍事作戦をエスカレートさせた。シリア政府軍と衝突するアラブ系の少数派ドルーズ派を支援するためとしている。
+
+シリア保健省がＣＮＮに明かしたところによると、一連の攻撃で少なくとも３人が死亡、３４人が負傷した。
+
+シリアの国際的孤立の解消に動く米国からの圧力にもかかわらず、イスラエルは軍事作戦を強化している。
+
+シリアは１６日、ダ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235616.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/17/8c8b633dcaec4efac590fdc32d88db93/t/768/512/d/syria.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
