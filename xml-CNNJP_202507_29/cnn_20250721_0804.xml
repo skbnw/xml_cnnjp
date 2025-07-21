@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-07-21T15:45:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235742.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235741.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235739.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235738.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235737.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235736.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235735.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235734.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235733.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235732.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235731.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235730.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235729.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235728.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235727.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235726.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235724.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235725.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235723.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235722.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235721.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235720.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235712.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235719.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35235717.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235718.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235715.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235716.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235714.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235705.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235742.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T15:45:00+09:00</dc:date>
+        <title>勘違いから同じ宝くじを購入、２枚当選の幸運　米男性</title>
+        <link>https://www.cnn.co.jp/fringe/35235742.html?ref=rss</link>
+        <description>米マサチューセッツ州に住む幸運な男性が、二つの異なる店舗で購入した宝くじ２枚が当選し、２００万ドル（約３億円）の当選金を獲得した。
+
+宝くじに当選したのは同州のフィッチバーグに住むポール・コーコランさん。今月９日の「パワーボール」の抽選に参加するために、まず７回分の複数抽選に対応するチケットを購入した。しかし、このチケットの最終抽選がすでに終わったと勘違いし、そこから１０分も離れていない別の店で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235742.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/3654b575005e2e3499c10529d0c2d6fd/t/768/432/d/07-09-2025-powerball-drawing-two-1m-prizes-paul-corcoran-800.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235741.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T15:00:00+09:00</dc:date>
+        <title>金価格高騰、最も恩恵を受けたのは南アジアの女性たちか</title>
+        <link>https://www.cnn.co.jp/business/35235741.html?ref=rss</link>
+        <description>米フロリダ州マイアミに住むファルザナ・ガニさん（５６）が所有する金の一つひとつにはそれぞれの思い出が詰まっている。
+
+パキスタンでの結婚式で義母からもらった精巧な宝石のセット、サウジアラビア・メッカへの大巡礼（ハッジ）を終えた母親から贈られた金の鎖、娘の誕生を祝ってもらった金貨などだ。
+
+金が記録的な高値を付けている今、ガニさんは金への投資を続けるつもりだ。
+
+「債券や現金を保有するのと比べると、金...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235741.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/eb1c0684eed8880d0c810ae85305d098/t/768/432/d/large-001-20250708-india-women-gold-gfx.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235739.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T13:16:00+09:00</dc:date>
+        <title>エクアドルの麻薬王、米国に身柄を引き渡し　刑務所から脱走も再拘束</title>
+        <link>https://www.cnn.co.jp/world/35235739.html?ref=rss</link>
+        <description>エクアドルの悪名高い麻薬王が、米国に身柄を引き渡された。エクアドルの刑務所を脱走して国内を騒がせていたが、今年６月に再び身柄を拘束されていた。
+
+米国に身柄が引き渡されたのはホセ・アドルフォ・マシアス受刑者（通称「フィト」）。マシアス受刑者は、港湾都市グアヤキルの最高警備の刑務所から同市の空港に移送され、手続きのために到着していた米当局者に引き渡された。エクアドル当局が明らかにした。
+
+市当局によ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235738.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T12:22:00+09:00</dc:date>
+        <title>ＮＦＬチーム名「レッドスキンズ」に戻せ、トランプ大統領が要求　応じなければスタジアム契約制限の脅し</title>
+        <link>https://www.cnn.co.jp/showbiz/35235738.html?ref=rss</link>
+        <description>米国のトランプ大統領が２０日、米プロフットボールリーグ（ＮＦＬ）のワシントン・コマンダーズに対し、チーム名を変更前の「レッドスキンズ」に戻すよう要求した。要求に応じなければ同チームのスタジアム契約を制限すると脅している。
+
+トランプ氏は自身のＳＮＳに、「彼らが名称を変更して元の『ワシントン・レッドスキンズ』に戻し、あの馬鹿馬鹿しい『ワシントン・コマンダーズ』の呼び名を変えなければ、彼らがワシント...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235738.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/a19c14524964b85af26d0dfcba1beb3e/t/768/432/d/gettyimages-2182748197.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235737.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T11:53:00+09:00</dc:date>
+        <title>米旅客機にＢ５２爆撃機が接近、「乱暴な操縦」で衝突回避　操縦士が謝罪</title>
+        <link>https://www.cnn.co.jp/usa/35235737.html?ref=rss</link>
+        <description>米デルタ航空の乗り継ぎ便を運航する地域航空会社の旅客機が、米空軍のＢ５２爆撃機との衝突を避けるために急旋回を強いられた。操縦士は機内放送を通じ、「乱暴な操縦」について乗客に謝罪していた。
+
+事態はミネソタ州ミネアポリスからノースダコタ州マイノットへ向かっていたスカイウェスト３７８８便で１８日に発生。スカイウェスト航空の発表によると、３７８８便は飛行経路に別の航空機が見えたことからゴーアラウンド（...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235737.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/b68b757768309f37fcb7fe091b527f0e/t/768/511/d/large-ap24229655280085.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235736.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T11:21:00+09:00</dc:date>
+        <title>身に着けていた「金属製の鎖」がＭＲＩに引っ張られる、男性が死亡　米ＮＹ州</title>
+        <link>https://www.cnn.co.jp/usa/35235736.html?ref=rss</link>
+        <description>米ニューヨーク州ナッソー郡で、首につけていた「金属製の鎖」によって磁気共鳴断層撮影（ＭＲＩ）装置に引っ張られた６１歳の男性が死亡した。今回の事案は、ＭＲＩに近づく前に金属がないかを確認することの重要性を浮き彫りにしている。
+
+警察によれば、１７日にロングアイランドのウェストベリーにある「ナッソー・オープン・ＭＲＩ」で、男性が首につけていた「大型の金属製の鎖」によって装置に引っ張られた。当時は診断...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235736.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/391fe5181b82160a1bd041fb8e968276/t/768/432/d/large-still-21793909-6406-241-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235735.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T10:19:00+09:00</dc:date>
+        <title>ベトナム観光船転覆、死者３７人　エアポケットに逃れた１０歳少年を救出</title>
+        <link>https://www.cnn.co.jp/world/35235735.html?ref=rss</link>
+        <description>ベトナム北部の観光地ハロン湾で起きた観光船の沈没事故で、転覆した船内のエアポケットに逃げ込んでいた１０歳の男の子が救出された。
+
+観光船は１９日、航行中に突然の悪天候に見舞われて沈没。家族と共に乗船していた男の子は、船内のエアポケットに避難して助けを待っていた。
+
+現地メディアによると、男の子は精神的ショックを受けているものの大きなけがはなく、近くの病院に搬送された。「あまりにも急な出来事だった」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235735.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/04a1fffda577b3d727ecb498531e7a28/t/768/432/d/ap25200558594948.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235734.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T08:39:00+09:00</dc:date>
+        <title>支援求める市民にイスラエル軍が発砲、７３人死亡　ガザ保健省</title>
+        <link>https://www.cnn.co.jp/world/35235734.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で２０日、支援物資を求めていた市民がイスラエル軍の銃撃を受け、パレスチナの保健省によれば、少なくとも７３人が死亡し、約１５０人が負傷した。
+
+保健省によれば、ガザ北部で６７人が死亡したほか、南部ハンユニスで６人が死亡した。北部の６７人全員が同じ場所で犠牲になったのか、複数の場所なのかは不明。支援を求める人々が死亡する事案が繰り返されており、今回の死者数はこれまでで最大規模...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235734.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/4783d1d5948604fd21e6af0e1748c6aa/t/768/432/d/gettyimages-2225251899.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235733.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T17:16:00+09:00</dc:date>
+        <title>現代史上初の危機、首都が「水枯れ」の瀬戸際に　アフガニスタン</title>
+        <link>https://www.cnn.co.jp/world/35235733.html?ref=rss</link>
+        <description>アフガニスタン首都カブールの乾き切った山並みに朝日が差すころ、一家の「水探し」と「節水」のための闘いの一日が始まる。
+
+カブールに住むラヒーラさん（４２）は、給水車の轟音（ごうおん）が近づくたび、４人の子どもたちのためにぼろぼろのバケツやポリタンクを抱えて通りに飛び出す。家族の水は常に底を突きかけており、１リットルでも高価なため、神経も家計も限界まで追い詰められている。
+
+「飲み水がまったく手に入...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235733.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/1dfc76e30c018fbbb001d4561d6be915/t/768/432/d/001-ap21317589340175.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235732.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T16:19:00+09:00</dc:date>
+        <title>米国でおなじみになったタトゥー、除去希望者が増加　その理由は？</title>
+        <link>https://www.cnn.co.jp/fringe/35235732.html?ref=rss</link>
+        <description>今や日常の光景になったタトゥー。何百万人もの米国人が少なくとも一つ、タトゥーを入れていると推定されている。
+
+タトゥーの愛好者は多いが、一方で考えが変わったという人もいる。最近では歌手で俳優のマイリー・サイラスさんが、体に入れたボディーアートの約８割を後悔していると吐露した。
+
+デトロイト都市圏のタトゥーアーティスト、ラナ・ケインさんはタトゥーのことを熟知している。体に入れたタトゥーには意味がある...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235732.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/e73f2241735e87a4790985ed06491156/t/768/324/d/WXYZTattooSleeve.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235731.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T15:02:00+09:00</dc:date>
+        <title>米テキサス州洪水、行方不明者の人数を３人に大幅修正　多くの無事を確認</title>
+        <link>https://www.cnn.co.jp/usa/35235731.html?ref=rss</link>
+        <description>テキサス州カー郡を襲った壊滅的な洪水で行方不明になっていた人について、州当局は１９日、これまでの９７人から３人へと大幅に変更した。
+
+カー郡カービル市はニュースリリースで、州と地元機関の照合作業により、行方不明とされていた多くの人の無事が確認されて名簿から削除されたと説明した。
+
+今回の豪雨災害では、独立記念日の週末に洪水が発生し、州全体で少なくとも１３５人が死亡した。州中央を流れるグアダルーペ川...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235731.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/6096e42a5a5ed894cd02903e793ec91e/t/768/511/d/large-gettyimages-2225125450.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235730.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T14:07:00+09:00</dc:date>
+        <title>観客がチームカーと接触か、地面にたたきつけられる様子がテレビに　ツール・ド・フランス</title>
+        <link>https://www.cnn.co.jp/showbiz/35235730.html?ref=rss</link>
+        <description>国際自転車レース「ツール・ド・フランス」の第１４ステージが１９日、ピレネー中部の山岳コル・ド・ペイルスルドで行われ、沿道の観客がイネオス・グレナディアーズのチームカーに接触して転倒したとみられる映像がテレビで放映された。
+
+ロイター通信によると、事故は峠の頂上から約２００メートル下った車道中央で発生した。観客の容体は不明で、ＣＮＮはイネオス・グレナディアーズと大会主催者にコメントを求めている。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235730.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/389ab7a1ebf092d770274df9a32d7281/t/768/432/d/2025-07-19t152020z-528034747-up1el7j13rchw-rtrmadp-3-cycling-france.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235729.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T13:19:00+09:00</dc:date>
+        <title>ケイティ・ペリー、公演中に巨大なチョウから落っこちそうに　セットに不具合</title>
+        <link>https://www.cnn.co.jp/showbiz/35235729.html?ref=rss</link>
+        <description>人気歌手ケイティ・ペリーが１８日、米サンフランシスコの「チェイス・センター」で開かれた「ライフタイムズ・ツアー」の公演中、観客席の上空を飛ぶ巨大な蝶（ちょう）のセットに乗ってパフォーマンスしていたところ、装置が突然揺れて高度を失い、落下しかける出来事があった。
+
+ＳＮＳで共有された複数の映像によると、ペリーが２０１３年のヒット曲「Ｒｏａｒ」を歌っている最中、乗っていた蝶が急に落下した。
+
+ペリーは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235729.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/ca4c3172b96b766b685adb203838ae7f/t/768/432/d/gettyimages-2211713461.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235728.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T12:36:00+09:00</dc:date>
+        <title>イスラエル軍、食料求めるガザ住民に発砲か　３２人死亡とガザ保健省</title>
+        <link>https://www.cnn.co.jp/world/35235728.html?ref=rss</link>
+        <description>パレスチナ保健省と目撃者によれば、ガザ地区で食料支援を求めていた住民にイスラエル軍が発砲し、少なくとも３２人が死亡した。
+
+保健省によれば、遺体は数十人の負傷者とともにナセル病院へ搬送された。
+
+病院からのＣＮＮの映像には、並べられた遺体が映っている。男性が死亡した息子を抱きながら、「息子はただ食べ物がほしかっただけなのに。私に何ができたというのか」と語る様子も確認できる。
+
+発砲が起きた正確な場所...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235728.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/f11ae60f6aeabaa9decc90f108bcb0c5/t/768/512/d/gettyimages-2225049842.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235727.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T11:43:00+09:00</dc:date>
+        <title>米退役軍人からＴｉｋＴｏｋの人気者に、ジェイク・ラーソンさん死去　１０２歳</title>
+        <link>https://www.cnn.co.jp/usa/35235727.html?ref=rss</link>
+        <description>第２次世界大戦の退役軍人で、動画投稿アプリ「ＴｉｋＴｏｋ（ティックトック）」で人気を集めたジェイク・ラーソンさんが１７日に死去した。１０２歳だった。孫娘のマッカエラ・ラーソンさんが１９日、ラーソンさんのＳＮＳアカウントに訃報（ふほう）を投稿した。
+
+マッカエラさんは投稿で「最愛のパパ・ジェイクが７月１７日に１０２歳で永眠しました。彼は安らかに旅立ちました。最後まで冗談を飛ばすほどでした」と述べた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235727.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/db92f54ab95e547d93164c74325a55c8/t/768/432/d/gettyimages-1258479290-20250719220323559.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235726.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T10:56:00+09:00</dc:date>
+        <title>観光船が転覆、３４人死亡　ベトナム世界遺産のハロン湾</title>
+        <link>https://www.cnn.co.jp/world/35235726.html?ref=rss</link>
+        <description>ベトナム北部の観光地ハロン湾で観光船が転覆し、乗客ら多数が死亡した事故で、行方不明者の捜索が続けられている。国営メディアによると、２０日午前の時点で３４人の遺体が収容され、１１人が救助された。
+
+地元紙ＶＮエクスプレスによると、転覆した船には乗客４８人、乗員５人の計５３人が乗っていた。乗客の国籍は明らかにされていない。
+
+現場で捜索活動にあたっている潜水士は地元メディアの取材に対し、客室部分の大半...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235726.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/44a1e2698d9cb9c4c6bcc43bca54e508/t/768/432/d/gettyimages-2225080670.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235724.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T10:30:00+09:00</dc:date>
+        <title>米アストロノマーＣＥＯが辞任、コールドプレイのライブでの親密な動画拡散</title>
+        <link>https://www.cnn.co.jp/business/35235724.html?ref=rss</link>
+        <description>米ＩＴ企業アストロノマーのアンディ・バイロン最高経営責任者（ＣＥＯ）が英ロックバンド「コールドプレイ」のライブ中に女性従業員を抱き寄せる姿を目撃された問題で、バイロン氏が辞任したことが分かった。１９日にＣＮＮに寄せられた声明で明らかになった。
+
+声明によると、アストロノマーの取締役会はバイロン氏の辞任を受理した。後任探しに着手する方針だという。
+
+バイロン氏の映像が拡散した後、事態を認めた本人のも...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235724.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/4699879a89fb2d188c576efe574b446e/t/768/432/d/coldplaycouple0__2_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235725.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T10:20:00+09:00</dc:date>
+        <title>ウクライナ、ロシアに来週にも協議を呼び掛け　停戦交渉前進へ</title>
+        <link>https://www.cnn.co.jp/world/35235725.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は１９日、停戦交渉を前進させるため、ロシアとの会談を呼びかけていると明らかにした。
+
+ゼレンスキー氏は定例のビデオ演説で、ウクライナのウメロウ国家安全保障防衛会議書記が、すでにロシアに対し、来週にも次回の会談を行うことを提案したと述べた。
+
+ゼレンスキー氏は「交渉のダイナミクスを改善しなければならない。停戦を実現するために、可能な限りのことをする必要がある。ロシア側は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235725.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/7c9363b7712fd0ab72ef95588afce635/t/768/432/d/gettyimages-2223806606.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235723.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T09:03:00+09:00</dc:date>
+        <title>車が群衆に突っ込んで３０人負傷、運転手は撃たれる　米ロサンゼルス</title>
+        <link>https://www.cnn.co.jp/usa/35235723.html?ref=rss</link>
+        <description>米カリフォルニア州ロサンゼルスで１９日、車が群衆に突っ込み、消防当局によれば、少なくとも３０人が負傷した。負傷者のうち７人が重体。
+
+車は１９日午前２時ごろ、市内の音楽会場「ザ・バーモント・ハリウッド」の外で並んでいた人たちに突っ込んだ。
+
+ロサンゼルス警察によれば、転手は事件前に騒ぎを起こしたため会場から退去させられていた。
+
+警察が映像を確認したところ、運転手は少し離れた歩道まで進んでおり、通行...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235723.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/909f1862ae892b40cd73e338a7e4cf02/t/768/432/d/still-21797591-13756-615-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235722.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-19T17:09:00+09:00</dc:date>
+        <title>映画「プライドと偏見」から２０年、今なお観客を魅了する理由は？</title>
+        <link>https://www.cnn.co.jp/showbiz/35235722.html?ref=rss</link>
+        <description>２００５年の映画「プライドと偏見」の中でも特に象徴的なのが、最初のプロポーズのシーンだ。
+
+まだこの名作映画を観たことがない人でも、あのシーンのことは何となく知っているだろう。雨に打たれ、濡れた髪を額に垂らしたダーシー（マシュー・マクファディン）は気丈なヒロイン、エリザベス・ベネットに愛を告白し、「あなたを愛している。心から」と告げる。
+
+原作になじみのある人には、この先の展開は周知の通りだ。エリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235722.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/19/db1aa9e849484d9fdd2133ccdec1b8d1/t/768/432/d/shutterstock-editorial-8511801h.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235721.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-19T16:10:00+09:00</dc:date>
+        <title>「絵描いたことない」とトランプ氏、過去には慈善オークションに自作出品も</title>
+        <link>https://www.cnn.co.jp/usa/35235721.html?ref=rss</link>
+        <description> 勾留中に死亡した米富豪ジェフリー・エプスタイン元被告が２００３年に５０歳の誕生日を迎えた際、贈られた手紙の中にトランプ米大統領の名前と裸の女性の輪郭が描かれたメモが含まれていたとする記事を米紙ウォールストリート・ジャーナル（ＷＳＪ）が掲載した後、トランプ氏はその内容を否定した。
+
+否定の範囲は広く、同紙に対し「人生で絵を描いたことは一度もない。女性の絵も描かない」と断言。手紙の文面についても「そ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235721.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/19/416f154a6698fd1220680bf59073d78d/t/768/432/d/shutterstock-editorial-9139428g.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235720.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-19T14:54:00+09:00</dc:date>
+        <title>米ＬＡ出航のクルーズ船、１３４人が胃腸の不調訴え　原因不明</title>
+        <link>https://www.cnn.co.jp/usa/35235720.html?ref=rss</link>
+        <description>今月４日に米ロサンゼルスを出航したロイヤル・カリビアンのクルーズ船「ナビゲーター・オブ・ザ・シーズ」で、１３０人を超える乗客が胃腸の不調を訴えたことが分かった。現時点で原因は特定されていない。
+
+米疾病対策センター（ＣＤＣ）によると、体調不良を訴えたのは１３４人。これは乗客名簿に記載された全３９００人の３．４％に当たる。乗員全１２６６人のうち７人も体調を崩したという。
+
+今回の集団発症については１...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235720.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/19/045f47c051eeaf5663658b5c4f4e0f92/t/768/432/d/gettyimages-1304973420.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235712.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-19T14:24:00+09:00</dc:date>
+        <title>２４００万年前のサイの化石からたんぱく質取り出す、次は恐竜？</title>
+        <link>https://www.cnn.co.jp/fringe/35235712.html?ref=rss</link>
+        <description>科学者らがサイの歯の化石からたんぱく質を取り出し、太古の地球の生命に関する研究で新境地を開いた。
+
+カナダの北極圏で発掘された２４００万年前の歯の化石に含まれるこのたんぱく質は、これまで知られている最古のＤＮＡよりも１０倍古い。このサンプルを使い、科学者らは記録上最も古い詳細なたんぱく質配列の分析を行った。
+
+歯のエナメル質は極めて硬く、膨大な年月が経過する間これらのたんぱく質を守っていると、デン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235712.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/58144227baf7392adcb64228fd124f3a/t/768/432/d/researchers.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235719.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-19T13:25:00+09:00</dc:date>
+        <title>希少なケラトサウルスの化石、４５億円で落札</title>
+        <link>https://www.cnn.co.jp/fringe/35235719.html?ref=rss</link>
+        <description>現存するわずか４体のうちの１体であるケラトサウルスの化石が競売にかけられ、３０５０万ドル（約４５億円）で落札された。
+
+オークション会社のサザビーズは１６日に発表した声明で、この希少な恐竜の化石は「これまで見つかった同種の化石の中で、最も状態が良好かつ完全なものの一つ」だと述べている。
+
+当該の標本は、４体中で唯一の幼体の化石。サザビーズ・ニューヨークでの予想落札価格は４００万～６００万ドルだった...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235719.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/19/39b8fc4f8c6e416372c2bd258552af58/t/768/432/d/credit-matthew-sherman-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35235717.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-19T12:22:00+09:00</dc:date>
+        <title>映画「市民ケーン」に登場する「バラのつぼみ」のそり、２２億円で落札</title>
+        <link>https://www.cnn.co.jp/style/arts/35235717.html?ref=rss</link>
+        <description>オーソン・ウェルズの監督・主演で知られる１９４１年の名作映画「市民ケーン」で、物語の中核的な存在として登場した「バラのつぼみ」の木製そりが競売にかけられ、１４７５万ドル（約２２億円）で落札された。
+
+ダラスに拠点を置くオークションハウス、ヘリテージ・オークションズは１６日に発表した声明で、この「象徴的な小道具」に対する「並外れた」価格だと述べた。
+
+同社によるとこのそりは、競売前に科学的な検査を受...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35235717.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/19/8c16c7aa9c0ed8eb1c2c330b0e6e4500/t/768/432/d/gettyimages-2221672301.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235718.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-19T11:54:00+09:00</dc:date>
+        <title>コールドプレイのライブでＣＥＯの不倫発覚？、映像出回り休職処分に　米企業</title>
+        <link>https://www.cnn.co.jp/business/35235718.html?ref=rss</link>
+        <description>今週開催された英ロックバンド「コールドプレイ」のライブ中、米ＩＴ企業アストロノマーのアンディ・バイロン最高経営責任者（ＣＥＯ）が女性従業員を抱きしめる姿が大型スクリーンに映し出された問題で、アストロノマーは１８日夜、バイロン氏を休職処分としたことを発表した。
+
+アストロノマーの声明によると、共同創業者で最高製品責任者（ＣＰＯ）を務めるピート・デジョイ氏が暫定ＣＥＯに就任するという。
+
+声明では「当...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235718.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/19/9a64e155b605795be606bf9af04100bd/t/768/432/d/coldplaycouple0__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235715.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-19T10:45:00+09:00</dc:date>
+        <title>トランプ氏、名誉毀損で米紙を提訴　エプスタイン元被告への誕生祝いの手紙巡り</title>
+        <link>https://www.cnn.co.jp/usa/35235715.html?ref=rss</link>
+        <description>勾留中に死亡した米富豪ジェフリー・エプスタイン元被告が２００３年に５０歳の誕生日を迎えた際、贈られた手紙の中にトランプ米大統領の名前と裸の女性の輪郭が描かれたメモが含まれていたとする米紙ウォールストリート・ジャーナル（ＷＳＪ）の記事を巡り、トランプ氏が同紙の発行元と記事を執筆した記者を名誉毀損（きそん）で提訴した。
+
+少なくとも２００億ドル（約３兆円）の支払いを求めるこの訴訟は、トランプ氏が敵視...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235715.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/19/a675099f315f37c587edc2f77f462a71/t/768/432/d/gettyimages-2224966729.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235716.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-19T10:03:00+09:00</dc:date>
+        <title>米司法省、エプスタイン事件巡る大陪審証言の公開請求　トランプ氏の要請で</title>
+        <link>https://www.cnn.co.jp/usa/35235716.html?ref=rss</link>
+        <description>米司法省は１８日、性犯罪で起訴され拘置所で死亡した富豪、ジェフリー・エプスタイン元被告を巡り非公開で行われた大陪審証言を公開するよう裁判所に請求した。「エプスタイン文書」を巡るトランプ政権の混乱した対応はこの日も続いた。
+
+司法省は請求の申立書で、これまで秘匿されてきた証拠の公開について「公益性の問題」と正当化した。
+
+申立書では「エプスタイン問題に対する国民の関心は衰えていない。長年続く正当な関...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235716.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/19/7be8b071a8493c9b6e0e42adebde7f9e/t/768/432/d/bondi_epstein.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235714.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-19T08:45:00+09:00</dc:date>
+        <title>イスラエルとシリアが停戦で合意、駐トルコ米大使発表　「ドルーズ派保護」名目で攻撃</title>
+        <link>https://www.cnn.co.jp/world/35235714.html?ref=rss</link>
+        <description>米国のトム・バラック駐トルコ大使は１８日、イスラエルとシリアが停戦で合意したと明らかにした。
+
+バラック氏は米国のシリア担当特使を兼務する人物。Ｘ（旧ツイッター）への投稿で、停戦合意はトルコやヨルダンなどの周辺国から「受け入れられた」と説明した。
+
+バラック氏は「ドルーズ派とベドウィン（遊牧民）、スンニ派に対し、武器を置いて他の少数派と協力し、隣国との平和と繁栄の中で新たな統一シリアの国民意識を築...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235714.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/19/3b54c1d73594b8a6f82a9a5f3454f480/t/768/432/d/syria-security-druze-damascus.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235705.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-19T05:00:00+09:00</dc:date>
+        <title>観測史上最大のブラックホール同士が衝突、国際チームが重力波を観測</title>
+        <link>https://www.cnn.co.jp/fringe/35235705.html?ref=rss</link>
+        <description>太陽百個分以上の質量を持つブラックホール同士の衝突と合体が観測されたとの研究結果を、国際研究チームが発表した。観測史上最大規模の合体とされる。
+
+米国のレーザー干渉計重力波天文台（ＬＩＧＯ）がルイジアナ州リビングストンとワシントン州ハンフォードで運用する一対の観測装置が、二つのブラックホールの衝突で生じた重力波を検出した。この現象は「ＧＷ２３１１２３」と名付けられた。
+
+アインシュタインは１９１５...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235705.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/18/fd3f438ba3ba51b895d68762390d49e2/t/768/432/d/gettyimages-1359393581.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
