@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-07-22T20:05:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235780.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35235782.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235783.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235774.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235781.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235777.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235776.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235767.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235768.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235763.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235762.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235758.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235754.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35235750.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235747.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235743.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235740.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235742.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235741.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235739.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235738.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235737.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235736.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235735.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235734.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235733.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235732.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235731.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235730.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235729.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235780.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T20:05:00+09:00</dc:date>
+        <title>【分析】共和党支持者はエプスタイン文書をどれだけ気にかけているのか</title>
+        <link>https://www.cnn.co.jp/usa/35235780.html?ref=rss</link>
+        <description>トランプ米大統領の２期目に現時点で暗い影を落としている最大の問題の一つは、勾留中に死亡した米富豪ジェフリー・エプスタイン元被告に関連する文書について、トランプ氏の支持者らが実際のところどの程度気にかけているのかだ。
+
+大いに気にかけているのと、少しは気にかけているとの違いは、極めて重要だ。前者であれば問題は長く残り、中間選挙にまで広がる可能性がある。普段は本人に忠実な支持基盤の投票結果に影響を及...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235780.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/2358cfdf942a8bdd174158fb26ce7b75/t/768/432/d/c-gettyimages-2225897590.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35235782.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T18:52:00+09:00</dc:date>
+        <title>壁に貼った芸術作品のバナナ、また食べられる</title>
+        <link>https://www.cnn.co.jp/style/arts/35235782.html?ref=rss</link>
+        <description>イタリア人芸術家、マウリツィオ・カテランさんが手掛けた本物のバナナをモチーフにした作品について、フランスの文化施設を訪れた来館者が壁に貼った作品の中のバナナを食べてしまう出来事があった。
+
+２１日に発表された施設からの声明によると、「コメディアン」と題されたこの作品は１２日、フランス東部にあるポンピドゥーセンター・メスの来館者に食べられた。
+
+施設は声明の中で、「警備チームが内部の手順に従い、迅速...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35235782.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/030504a24efe05b4bd6f6d3f6c63b38d/t/768/511/d/large-gettyimages-2213257697.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235783.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T18:44:00+09:00</dc:date>
+        <title>中世イングランドの口承物語、スペルミスによる誤解を解く新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35235783.html?ref=rss</link>
+        <description>中世からルネサンス期にかけてのイングランドで口伝えに広がっていた物語が、断片的に書き留められた際のスペルミスで大きく誤解されていたとする研究結果を、英ケンブリッジ大学のチームが発表した。
+
+この物語は１２世紀に生まれた「ソング・オブ・ウェイド」。怪物と戦った英雄の話と考えられてきた。当時は広く人気を集め、英文学の父と呼ばれる１４世紀の詩人ジェフリー・チョーサーの作品にも２回登場したほどだが、今で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235783.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/666f66d30add87c16e618eba20db1448/t/768/432/d/001--peterhouse-university-of-cambridge-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235774.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T18:08:00+09:00</dc:date>
+        <title>【分析】「第三の政党」を求める米国人、ただしイーロン・マスク氏の党ではない</title>
+        <link>https://www.cnn.co.jp/usa/35235774.html?ref=rss</link>
+        <description>米国の政界で最も不人気な人物の一人が、民主党と共和党に対抗するため新たに政党を立ち上げると表明した。これはおそらく失敗するだろう。
+
+起業家のイーロン・マスク氏とマスク氏が率いる新党「アメリカ党」に関するデータから導き出せる唯一の結論がこれだ。
+
+マスク氏とその政治的野心について調べたＣＮＮの最新の世論調査を見てみよう。マスク氏が率いる第三の政党が民主党と共和党に対抗することを支持する人の割合は全...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235774.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/5a6052fdba31f6edde5265e713884bf0/t/768/432/d/gettyimages-2202932390-20250717162416625.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235781.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T17:12:00+09:00</dc:date>
+        <title>小型機墜落、現場特定にスマートウォッチが一役買う　米モンタナ州</title>
+        <link>https://www.cnn.co.jp/usa/35235781.html?ref=rss</link>
+        <description>米モンタナ州ウェストイエローストーン近郊の深い森林に墜落した小型機をめぐり、犠牲者の一人が着用していたスマートウォッチの位置情報が救助隊による墜落現場特定の助けとなったことがわかった。当局が２１日に明らかにした。
+
+ガラティン郡保安官事務所の発表によると、現場で機内にいた３人全員の死亡が確認された。
+
+犠牲者は、テネシー州出身の６０歳と２３歳、ユタ州出身の５５歳の３人だった。
+
+保安官事務所によれば...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235781.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/531456b30b2b3a6cd0be058e70c59708/t/768/574/d/large-gettyimages-2164658092.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235777.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T16:28:00+09:00</dc:date>
+        <title>イスラエルのガザでの軍事作戦、「完全に正当化できる」は２３％にとどまる　ＣＮＮ世論調査</title>
+        <link>https://www.cnn.co.jp/usa/35235777.html?ref=rss</link>
+        <description>米国民はパレスチナ自治区ガザ地区におけるイスラエルの軍事行動に対し、懐疑的な見方を強めていることがわかった。イスラエルへの軍事支援についても縮小すべきとの声が増えつつある。調査会社ＳＳＲＳが実施したＣＮＮの世論調査で明らかになった。
+
+イスラエルの軍事行動が「完全に正当化される」と答えた米国民は２３％にとどまり、２０２３年１０月のイスラム組織ハマスによる攻撃直後の５０％から、２７ポイント低下した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235777.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/0f7c5e66094b2216b28a3b221f46937b/t/768/432/d/c-gettyimages-2223423623.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235776.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T15:34:00+09:00</dc:date>
+        <title>空軍機墜落、死者２７人に　バングラデシュ首都</title>
+        <link>https://www.cnn.co.jp/world/35235776.html?ref=rss</link>
+        <description>バングラデシュの首都ダッカで２１日、空軍の戦闘機が学校に墜落し、少なくとも２７人が死亡した。多くは子どもで、近年最悪の航空事故となった。
+
+墜落が起きたのはダッカ北部ディアバリ地区にある学校の構内で、バングラデシュ軍によると、１７１人が負傷した。ほとんどが生徒で、ダッカ市内の病院で治療を受けているという。
+
+国営ＢＳＳニュースによると、現地時間の午後１時１８分ごろ、空軍の訓練機「ＢＡＦ　Ｆ７」が機...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235776.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/cddc514ad5ac215d455ee704367ef1f0/t/768/511/d/large-03-gettyimages-2225398962.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235767.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T14:09:00+09:00</dc:date>
+        <title>中国、米ウェルズ・ファーゴ幹部の出国を禁止</title>
+        <link>https://www.cnn.co.jp/world/35235767.html?ref=rss</link>
+        <description>米金融大手ウェルズ・ファーゴの幹部社員が、訪問先の中国からの出国を禁じられた。世界第２位の経済大国である中国への訪問がもたらす潜在的影響について、欧米の企業幹部たちの懸念を増幅させかねない最新の事案となっている。
+
+中国当局は２１日、ウェルズ・ファーゴの幹部、マオ・チェニュエ氏に対する出国禁止令について、犯罪捜査の一環だと発表した。
+
+中国外務省の報道官は定例記者会見後、マオ氏は中国当局が扱ってい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235767.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/cd305a22ee17977c444191e13d773341/t/768/432/d/wells-fargo-banker-china.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235768.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T13:08:00+09:00</dc:date>
+        <title>トランプ氏、イスラエルの行動に「不意を突かれる」　ネタニヤフ氏への懐疑的な見方強まる</title>
+        <link>https://www.cnn.co.jp/usa/35235768.html?ref=rss</link>
+        <description>トランプ米大統領が先週、イスラエルによるパレスチナ自治区ガザ地区とシリアでの軍事行動に「不意を突かれた」とし、いずれの場合もイスラエルのネタニヤフ首相に電話をかけて事態の「是正」を要請していたことがわかった。ホワイトハウスが明らかにした。
+
+複数の情報筋によれば、こうしたやりとりは、両首脳の関係が緊張を増していることを示唆している。
+
+１７日にガザで唯一のカトリック教会が攻撃されたことを受け、トラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235768.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/0f7c5e66094b2216b28a3b221f46937b/t/768/432/d/c-gettyimages-2223423623.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235763.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T12:25:00+09:00</dc:date>
+        <title>日本を含む２５カ国外相がイスラエル非難、ガザ市民の「非人道的な殺害」指摘</title>
+        <link>https://www.cnn.co.jp/world/35235763.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区への食料援助をめぐり、西側２５カ国の外相が２１日、イスラエルを非難する声明を発表した。パレスチナ保健省によると、人道支援物資を受け取ろうとして死亡した住民は今年５月下旬以来で１０００人を超えた。
+
+国連によると、死傷者のほとんどは、イスラエルと米国を後ろ盾とする「ガザ人道財団（ＧＨＦ）」運営の援助物資配給所へ向かう途中だった。同財団は５月２７日から運営を開始している。
+
+パ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235763.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/432e11222603ca8e27de9bdcad50ea69/t/768/432/d/gettyimages-2218526426-20250721152205589.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235762.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T12:17:00+09:00</dc:date>
+        <title>ビリー・ジョエルさんが近況報告、「治療中」だが「元気」　脳疾患でツアー中止</title>
+        <link>https://www.cnn.co.jp/showbiz/35235762.html?ref=rss</link>
+        <description>脳に影響を及ぼす正常圧水頭症（ＮＰＨ）と診断され、ツアーをキャンセルした米国のシンガーソングライター、ビリー・ジョエルさんが近況を明らかにした。
+
+ジョエルさんは２１日のポッドキャストの番組で、症状は治っておらず、治療中ではあるが、全体的には「元気」だと明らかにした。
+
+「バランス感覚がひどい。まるで船に乗っているような感じだ」とジョエルさんは述べた。「気分はいい。脳障害と言われ続けるから実際より...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235762.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/87fd8f0ab6ce99817a5970c279faf7e2/t/768/432/d/billy-joel-20250721213828853.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235758.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T11:45:00+09:00</dc:date>
+        <title>「不義の」関係理由に男女を「名誉殺人」か　１１人逮捕　パキスタン</title>
+        <link>https://www.cnn.co.jp/world/35235758.html?ref=rss</link>
+        <description>パキスタンの警察はこのほど、部族の長老の命令により、「不義の」関係にあった男女が白昼堂々殺害されたとみられる事件で、複数の容疑者を逮捕した。
+
+先月、南西部のバルチスタン州で起きたこの殺人事件は、中央アジアや南アジアでこのような犯罪が衝撃的かつ執拗（しつよう）に起きていることを浮き彫りにした。これらの地域では、不義を働いた当事者を殺害することで家族や共同体の成員の「名誉」が回復できると考えられて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235758.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/5358032d400e7fd7b647391b70955657/t/768/432/d/gettyimages-1450380337.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235754.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T10:50:00+09:00</dc:date>
+        <title>米俳優マルコム・ジャマル・ワーナーさん、コスタリカで溺死　５４歳</title>
+        <link>https://www.cnn.co.jp/showbiz/35235754.html?ref=rss</link>
+        <description>米人気コメディー番組「コスビー・ショー」（１９８４～９２年）で子役として有名になった俳優のマルコム・ジャマル・ワーナーさんが、訪問先のコスタリカで急死した。５４歳だった。
+
+関係者によると、ワーナーさんは休暇のため家族とコスタリカを訪問。現地時間の２０日午後２時半ごろ、カリブ海に面したリモン州の海岸で遊泳中に、深い場所へ押し流されておぼれた。
+
+コスタリカの司法捜査警察が２１日にＣＮＮに語ったとこ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235754.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/1d32837ba5bababea497fd44a182ffd2/t/768/432/d/ap23034188986351.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35235750.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T10:10:00+09:00</dc:date>
+        <title>米国観光や商用の非移民ビザ、手数料に２５０ドルの料金上乗せへ</title>
+        <link>https://www.cnn.co.jp/travel/35235750.html?ref=rss</link>
+        <description>非移民ビザで米国へ入国する渡航者から、現在の申請料金に加えて少なくとも２５０ドル（約３万７０００円）の「ビザ・インテグリティ料金」を徴収することを盛り込んだトランプ米政権の「国内政策法」が、このほど成立した。
+
+ビザ・インテグリティ料金は同法に基づき、非移民ビザの申請者全員から徴収される。対象となるのは観光・商用ビザや学生ビザなど一時的な滞在のためのビザ申請者。米国務省によると、２０２４年度に発...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35235750.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/ca0883e445f6ccf510ae5cd435b2c35a/t/768/432/d/gettyimages-2221941098.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235747.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-22T09:30:00+09:00</dc:date>
+        <title>空軍機が学校に墜落、生徒ら２０人死亡、１７１人負傷　バングラデシュ</title>
+        <link>https://www.cnn.co.jp/world/35235747.html?ref=rss</link>
+        <description>バングラデシュの首都ダッカで２１日、空軍のジェット機が学校のキャンパスに墜落し、空軍によると少なくとも２０人が死亡、１７１人が負傷した。
+
+負傷者の大半は児童や生徒で、現地の病院に運ばれて手当てを受けている。
+
+国営ＢＳＳニュースによると、現地時間の午後１時１８分ごろ、空軍の訓練機「ＢＡＦ　Ｆ７」が機械系の故障のため、学校の２階建てのキャンパスに突っ込んだ。子どもたちは午後の授業中だった。
+
+空軍は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235747.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/22/2656f512cc85789303fa1467cb8e541d/t/768/432/d/04-gettyimages-2225399245.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235743.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T17:30:00+09:00</dc:date>
+        <title>参院選で参政党が躍進、ネットから始まった右派ポピュリズム政党がどのようにして大勝したか</title>
+        <link>https://www.cnn.co.jp/world/35235743.html?ref=rss</link>
+        <description>代表はスーパーマーケットの元店長で、新型コロナウイルスが流行するさなかに党を結党し、トランプ米大統領のようなメッセージ「日本人ファースト」を掲げて選挙戦を戦った。
+
+週末の参院選では、日本で急成長を続けている右派ポピュリストの「参政党」が思わぬ躍進を遂げた。
+
+近年台頭してきた他のポピュリスト右翼団体に刺激を受け、参政党は１４議席を獲得した。
+
+全２４８議席の参議院においては少数派にとどまるものの、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235743.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/6271ed383d86aa8dba84dbaf5b9b6f30/t/768/432/d/001-3-japan-election.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235740.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T17:14:00+09:00</dc:date>
+        <title>ガザの４歳女児が餓死、イスラエルの阻止で食料欠乏　住民の飢餓極限状態に</title>
+        <link>https://www.cnn.co.jp/world/35235740.html?ref=rss</link>
+        <description>４歳のラザン・アブ・ザヘルちゃんが２０日、力尽きた。
+
+ラザンちゃんはパレスチナ自治区ガザ中地区部の病院で、飢えと栄養失調に伴う合併症のため死亡した。骨と皮のようになった遺体は石板の上に安置された。
+
+パレスチナ保健省によると、２０２３年１０月に衝突が始まって以来、ガザの子ども少なくとも７６人と大人１０人が栄養失調のために命を落とした。世界保健機関（ＷＨＯ）によれば、ほとんどはイスラエルが今年３月...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235740.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/c6bfd6834f27f180e40b7c361731601c/t/768/432/d/001-still-21799021-652174-681-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235742.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T15:45:00+09:00</dc:date>
+        <title>勘違いから同じ宝くじを購入、２枚当選の幸運　米男性</title>
+        <link>https://www.cnn.co.jp/fringe/35235742.html?ref=rss</link>
+        <description>米マサチューセッツ州に住む幸運な男性が、二つの異なる店舗で購入した宝くじ２枚が当選し、２００万ドル（約３億円）の当選金を獲得した。
+
+宝くじに当選したのは同州のフィッチバーグに住むポール・コーコランさん。今月９日の「パワーボール」の抽選に参加するために、まず７回分の複数抽選に対応するチケットを購入した。しかし、このチケットの最終抽選がすでに終わったと勘違いし、そこから１０分も離れていない別の店で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235742.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/3654b575005e2e3499c10529d0c2d6fd/t/768/432/d/07-09-2025-powerball-drawing-two-1m-prizes-paul-corcoran-800.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235741.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T15:00:00+09:00</dc:date>
+        <title>金価格高騰、最も恩恵を受けたのは南アジアの女性たちか</title>
+        <link>https://www.cnn.co.jp/business/35235741.html?ref=rss</link>
+        <description>米フロリダ州マイアミに住むファルザナ・ガニさん（５６）が所有する金の一つひとつにはそれぞれの思い出が詰まっている。
+
+パキスタンでの結婚式で義母からもらった精巧な宝石のセット、サウジアラビア・メッカへの大巡礼（ハッジ）を終えた母親から贈られた金の鎖、娘の誕生を祝ってもらった金貨などだ。
+
+金が記録的な高値を付けている今、ガニさんは金への投資を続けるつもりだ。
+
+「債券や現金を保有するのと比べると、金...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235741.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/eb1c0684eed8880d0c810ae85305d098/t/768/432/d/large-001-20250708-india-women-gold-gfx.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235739.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T13:16:00+09:00</dc:date>
+        <title>エクアドルの麻薬王、米国に身柄を引き渡し　刑務所から脱走も再拘束</title>
+        <link>https://www.cnn.co.jp/world/35235739.html?ref=rss</link>
+        <description>エクアドルの悪名高い麻薬王が、米国に身柄を引き渡された。エクアドルの刑務所を脱走して国内を騒がせていたが、今年６月に再び身柄を拘束されていた。
+
+米国に身柄が引き渡されたのはホセ・アドルフォ・マシアス受刑者（通称「フィト」）。マシアス受刑者は、港湾都市グアヤキルの最高警備の刑務所から同市の空港に移送され、手続きのために到着していた米当局者に引き渡された。エクアドル当局が明らかにした。
+
+市当局によ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235738.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T12:22:00+09:00</dc:date>
+        <title>ＮＦＬチーム名「レッドスキンズ」に戻せ、トランプ大統領が要求　応じなければスタジアム契約制限の脅し</title>
+        <link>https://www.cnn.co.jp/showbiz/35235738.html?ref=rss</link>
+        <description>米国のトランプ大統領が２０日、米プロフットボールリーグ（ＮＦＬ）のワシントン・コマンダーズに対し、チーム名を変更前の「レッドスキンズ」に戻すよう要求した。要求に応じなければ同チームのスタジアム契約を制限すると脅している。
+
+トランプ氏は自身のＳＮＳに、「彼らが名称を変更して元の『ワシントン・レッドスキンズ』に戻し、あの馬鹿馬鹿しい『ワシントン・コマンダーズ』の呼び名を変えなければ、彼らがワシント...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235738.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/a19c14524964b85af26d0dfcba1beb3e/t/768/432/d/gettyimages-2182748197.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235737.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T11:53:00+09:00</dc:date>
+        <title>米旅客機にＢ５２爆撃機が接近、「乱暴な操縦」で衝突回避　操縦士が謝罪</title>
+        <link>https://www.cnn.co.jp/usa/35235737.html?ref=rss</link>
+        <description>米デルタ航空の乗り継ぎ便を運航する地域航空会社の旅客機が、米空軍のＢ５２爆撃機との衝突を避けるために急旋回を強いられた。操縦士は機内放送を通じ、「乱暴な操縦」について乗客に謝罪していた。
+
+事態はミネソタ州ミネアポリスからノースダコタ州マイノットへ向かっていたスカイウェスト３７８８便で１８日に発生。スカイウェスト航空の発表によると、３７８８便は飛行経路に別の航空機が見えたことからゴーアラウンド（...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235737.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/b68b757768309f37fcb7fe091b527f0e/t/768/511/d/large-ap24229655280085.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235736.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T11:21:00+09:00</dc:date>
+        <title>身に着けていた「金属製の鎖」がＭＲＩに引っ張られる、男性が死亡　米ＮＹ州</title>
+        <link>https://www.cnn.co.jp/usa/35235736.html?ref=rss</link>
+        <description>米ニューヨーク州ナッソー郡で、首につけていた「金属製の鎖」によって磁気共鳴断層撮影（ＭＲＩ）装置に引っ張られた６１歳の男性が死亡した。今回の事案は、ＭＲＩに近づく前に金属がないかを確認することの重要性を浮き彫りにしている。
+
+警察によれば、１７日にロングアイランドのウェストベリーにある「ナッソー・オープン・ＭＲＩ」で、男性が首につけていた「大型の金属製の鎖」によって装置に引っ張られた。当時は診断...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235736.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/391fe5181b82160a1bd041fb8e968276/t/768/432/d/large-still-21793909-6406-241-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235735.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T10:19:00+09:00</dc:date>
+        <title>ベトナム観光船転覆、死者３７人　エアポケットに逃れた１０歳少年を救出</title>
+        <link>https://www.cnn.co.jp/world/35235735.html?ref=rss</link>
+        <description>ベトナム北部の観光地ハロン湾で起きた観光船の沈没事故で、転覆した船内のエアポケットに逃げ込んでいた１０歳の男の子が救出された。
+
+観光船は１９日、航行中に突然の悪天候に見舞われて沈没。家族と共に乗船していた男の子は、船内のエアポケットに避難して助けを待っていた。
+
+現地メディアによると、男の子は精神的ショックを受けているものの大きなけがはなく、近くの病院に搬送された。「あまりにも急な出来事だった」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235735.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/04a1fffda577b3d727ecb498531e7a28/t/768/432/d/ap25200558594948.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235734.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-21T08:39:00+09:00</dc:date>
+        <title>支援求める市民にイスラエル軍が発砲、７３人死亡　ガザ保健省</title>
+        <link>https://www.cnn.co.jp/world/35235734.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で２０日、支援物資を求めていた市民がイスラエル軍の銃撃を受け、パレスチナの保健省によれば、少なくとも７３人が死亡し、約１５０人が負傷した。
+
+保健省によれば、ガザ北部で６７人が死亡したほか、南部ハンユニスで６人が死亡した。北部の６７人全員が同じ場所で犠牲になったのか、複数の場所なのかは不明。支援を求める人々が死亡する事案が繰り返されており、今回の死者数はこれまでで最大規模...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235734.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/21/4783d1d5948604fd21e6af0e1748c6aa/t/768/432/d/gettyimages-2225251899.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235733.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T17:16:00+09:00</dc:date>
+        <title>現代史上初の危機、首都が「水枯れ」の瀬戸際に　アフガニスタン</title>
+        <link>https://www.cnn.co.jp/world/35235733.html?ref=rss</link>
+        <description>アフガニスタン首都カブールの乾き切った山並みに朝日が差すころ、一家の「水探し」と「節水」のための闘いの一日が始まる。
+
+カブールに住むラヒーラさん（４２）は、給水車の轟音（ごうおん）が近づくたび、４人の子どもたちのためにぼろぼろのバケツやポリタンクを抱えて通りに飛び出す。家族の水は常に底を突きかけており、１リットルでも高価なため、神経も家計も限界まで追い詰められている。
+
+「飲み水がまったく手に入...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235733.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/1dfc76e30c018fbbb001d4561d6be915/t/768/432/d/001-ap21317589340175.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235732.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T16:19:00+09:00</dc:date>
+        <title>米国でおなじみになったタトゥー、除去希望者が増加　その理由は？</title>
+        <link>https://www.cnn.co.jp/fringe/35235732.html?ref=rss</link>
+        <description>今や日常の光景になったタトゥー。何百万人もの米国人が少なくとも一つ、タトゥーを入れていると推定されている。
+
+タトゥーの愛好者は多いが、一方で考えが変わったという人もいる。最近では歌手で俳優のマイリー・サイラスさんが、体に入れたボディーアートの約８割を後悔していると吐露した。
+
+デトロイト都市圏のタトゥーアーティスト、ラナ・ケインさんはタトゥーのことを熟知している。体に入れたタトゥーには意味がある...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235732.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/e73f2241735e87a4790985ed06491156/t/768/324/d/WXYZTattooSleeve.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235731.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T15:02:00+09:00</dc:date>
+        <title>米テキサス州洪水、行方不明者の人数を３人に大幅修正　多くの無事を確認</title>
+        <link>https://www.cnn.co.jp/usa/35235731.html?ref=rss</link>
+        <description>テキサス州カー郡を襲った壊滅的な洪水で行方不明になっていた人について、州当局は１９日、これまでの９７人から３人へと大幅に変更した。
+
+カー郡カービル市はニュースリリースで、州と地元機関の照合作業により、行方不明とされていた多くの人の無事が確認されて名簿から削除されたと説明した。
+
+今回の豪雨災害では、独立記念日の週末に洪水が発生し、州全体で少なくとも１３５人が死亡した。州中央を流れるグアダルーペ川...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235731.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/6096e42a5a5ed894cd02903e793ec91e/t/768/511/d/large-gettyimages-2225125450.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235730.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T14:07:00+09:00</dc:date>
+        <title>観客がチームカーと接触か、地面にたたきつけられる様子がテレビに　ツール・ド・フランス</title>
+        <link>https://www.cnn.co.jp/showbiz/35235730.html?ref=rss</link>
+        <description>国際自転車レース「ツール・ド・フランス」の第１４ステージが１９日、ピレネー中部の山岳コル・ド・ペイルスルドで行われ、沿道の観客がイネオス・グレナディアーズのチームカーに接触して転倒したとみられる映像がテレビで放映された。
+
+ロイター通信によると、事故は峠の頂上から約２００メートル下った車道中央で発生した。観客の容体は不明で、ＣＮＮはイネオス・グレナディアーズと大会主催者にコメントを求めている。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235730.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/389ab7a1ebf092d770274df9a32d7281/t/768/432/d/2025-07-19t152020z-528034747-up1el7j13rchw-rtrmadp-3-cycling-france.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235729.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-20T13:19:00+09:00</dc:date>
+        <title>ケイティ・ペリー、公演中に巨大なチョウから落っこちそうに　セットに不具合</title>
+        <link>https://www.cnn.co.jp/showbiz/35235729.html?ref=rss</link>
+        <description>人気歌手ケイティ・ペリーが１８日、米サンフランシスコの「チェイス・センター」で開かれた「ライフタイムズ・ツアー」の公演中、観客席の上空を飛ぶ巨大な蝶（ちょう）のセットに乗ってパフォーマンスしていたところ、装置が突然揺れて高度を失い、落下しかける出来事があった。
+
+ＳＮＳで共有された複数の映像によると、ペリーが２０１３年のヒット曲「Ｒｏａｒ」を歌っている最中、乗っていた蝶が急に落下した。
+
+ペリーは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235729.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/20/ca4c3172b96b766b685adb203838ae7f/t/768/432/d/gettyimages-2211713461.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
