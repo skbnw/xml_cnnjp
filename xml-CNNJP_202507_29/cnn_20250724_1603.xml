@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-07-24T20:00:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235839.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235891.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235887.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235890.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235885.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235881.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235876.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235878.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235877.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235872.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235848.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235869.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235870.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235860.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235862.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235854.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235849.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235846.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235844.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235843.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35235842.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235841.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235837.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235832.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235838.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235815.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35235820.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35235811.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235808.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35235810.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235839.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T20:00:00+09:00</dc:date>
+        <title>地球の自転速度が上昇、「うるう秒」めぐり前代未聞の対応が必要か</title>
+        <link>https://www.cnn.co.jp/fringe/35235839.html?ref=rss</link>
+        <description>この夏、地球の自転の速度が速くなって１日の時間がわずかに短くなったことが科学者や時間の管理を行う人たちからの注目を集めている。
+
+今月１０日は今年に入って最も短い１日となり、２４時間よりも１．３６ミリ秒短かった。この数字は、「ｔｉｍｅａｎｄｄａｔｅ．ｃｏｍ」がまとめた国際地球回転・基準系事業（ＩＥＲＳ）と米海軍天文台のデータによるものだ。さらに異常に短い日が８月５日にも訪れ、１．２５ミリ秒短い日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235839.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/d4eea0c40f34c6144b201873af409abc/t/768/432/d/001-gettyimages-2217397675.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235891.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T19:15:00+09:00</dc:date>
+        <title>タイとカンボジアが武力衝突、民間人１１人死亡　衝突拡大の懸念も</title>
+        <link>https://www.cnn.co.jp/world/35235891.html?ref=rss</link>
+        <description>タイとカンボジアが領有権を争う国境地帯で２４日、武力衝突が発生し、少なくとも民間人１１人が死亡した。両国の国境をめぐる緊張が高まり、より広範な武力衝突へと発展する可能性が懸念されている。
+
+今回の武力衝突の前日には、タイ兵１人が地雷の爆発で片脚を失っていた。両国の関係は過去数年来で最悪の水準にまで悪化し、タイ側はカンボジアとのすべての国境検問所を閉鎖した。
+
+北東部に拠点を置くタイ軍第２軍管区はフ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235891.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/cd64e357ff6fe71ab2690ed7385ffef4/t/768/576/d/large-ap25205177133335.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235887.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T18:19:00+09:00</dc:date>
+        <title>ロシア極東で飛行機墜落、搭乗者４９人絶望か　国営メディア</title>
+        <link>https://www.cnn.co.jp/world/35235887.html?ref=rss</link>
+        <description>ロシア極東アムール州で旧ソ連時代の旅客機が墜落し、子どもを含む４９人の生存が絶望視されている。国営メディアが２４日、地元当局の話として報じた。
+
+ロシア非常事態省がテレグラムに投稿した声明によると、墜落したアントノフＡｎ２４型機はハバロフスクからブラゴベシチェンスク、ティンダに向かう地方路線を飛行中、レーダーから消えたという。
+
+アムール民間防衛・消防安全センターはテレグラムで、捜索救助ヘリコプタ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235887.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/9fd40cfe7e68e21497122b36b4dc7310/t/768/432/d/untitled-1-20250724082405018.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235890.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T17:49:00+09:00</dc:date>
+        <title>アイスクリーム店跡から中世の騎士の全身骨格を発見　ポーランド</title>
+        <link>https://www.cnn.co.jp/fringe/35235890.html?ref=rss</link>
+        <description>東欧ポーランドのグダニスク市にある閉店したアイスクリーム店の下から、中世の騎士の遺体が発見された。
+
+ポーランドの考古学企業アーキオスキャンは２２日、ＣＮＮに宛てた声明で、専門家が２０２３年から市の中心部に位置する歴史の古い地区の遺跡で作業していたと明らかにした。最初は騎士の彫像で飾られた中世の墓石を発見したという。
+
+墓石は今月に入り撤去され、１３世紀か１４世紀ごろに生きていたと考えられる成人男...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235890.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/e1bdb671368d62b392cbdd08a4268eb4/t/768/388/d/large-001-tombstone-preserved-in-anatomical-alignment.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235885.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T17:26:00+09:00</dc:date>
+        <title>中国とＥＵが首脳会談、習氏「正しい戦略的選択」促す</title>
+        <link>https://www.cnn.co.jp/world/35235885.html?ref=rss</link>
+        <description>中国の習近平（シーチンピン）国家主席は、同国を訪れている欧州連合（ＥＵ）首脳に対し、欧州は「正しい戦略的選択」を行い、世界の「安定」のために中国との協力を強化すべきだと述べた。双方は重要な首脳会談の場で、相互の根深い不満に対処している。
+
+習氏は２４日午前、北京でコスタ欧州理事会議長、フォンデアライエン欧州委員長と会談した。中国国営中央テレビ（ＣＣＴＶ）が報じた。
+
+中国とＥＵは深刻な貿易不均衡、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235885.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/fdfaa3222e27a89f5cb4c7b138e35248/t/768/512/d/china_eu_summit_resized.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235881.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T16:30:00+09:00</dc:date>
+        <title>米コロンビア大学、トランプ政権へ３２０億円支払いで合意　連邦資金の回復念頭</title>
+        <link>https://www.cnn.co.jp/usa/35235881.html?ref=rss</link>
+        <description>米コロンビア大学は２３日、数カ月にわたる交渉を経てトランプ政権との間で連邦政府の資金援助を回復する合意に至ったと発表した。政権側はこの動きを、エリート高等教育機関との闘いにおける「劇的な転換」と表現している。
+
+今回の合意の条件は、差別禁止法違反疑惑に関する複数の連邦捜査の解決を念頭に置く。コロンビア大学は不正行為を認めなかったものの、３年間で２億ドル（約２９０億円）の和解金を政府に支払うこと、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235881.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/ecc3f523525beeb68a4969fe22dd58b7/t/768/511/d/processed_image.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235876.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T16:01:00+09:00</dc:date>
+        <title>ガザ住民と共に飢えて力尽きる医師や記者、支援１１１団体がイスラエルに封鎖解除を要求</title>
+        <link>https://www.cnn.co.jp/world/35235876.html?ref=rss</link>
+        <description>イスラエルがパレスチナ自治区ガザへの援助物資運搬を封鎖しているために、医師や支援スタッフの命が危険にさらされているとして、国際支援団体１１１団体が連名で２３日、封鎖の全面的な解除をイスラエルに要求した。
+
+大手報道機関は、到底見過ごせる状態ではなくなったとして、同地に残るフリーランスのジャーナリストを避難させようとしていることを明らかにした。
+
+国際支援団体１１１団体はイスラエルに対し、ガザに搬入...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235876.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/2a21379d08d8c163e706bc5791a31bd7/t/768/511/d/processed_image.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235878.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T14:46:00+09:00</dc:date>
+        <title>汚職捜査機関が独立性失うおそれ、法改正に大規模な抗議デモ　ウクライナ</title>
+        <link>https://www.cnn.co.jp/world/35235878.html?ref=rss</link>
+        <description>ロシアによる全面侵攻から３年以上が経過したウクライナで、戦争開始後初となる大規模な反政府抗議活動が発生した。ゼレンスキー大統領が反汚職機関の権限を制限する動きを見せたことに対し、国民の怒りが噴き出した形だ。
+
+２２日には、首都キーウをはじめ西部のリビウ、東部のドニプロ、南部のオデーサでも市民が集まり抗議の声を上げた。議会が、汚職を捜査する国家反汚職局（ＮＡＢＵ）と訴追権限を持つ反汚職専門検察（Ｓ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235878.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/d384522b884ace57dff5b8307f9dcd67/t/768/432/d/001-gettyimages-2225647686.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235877.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T14:45:00+09:00</dc:date>
+        <title>タイが戦闘機を発進、カンボジアの軍事目標攻撃　係争中の国境地帯</title>
+        <link>https://www.cnn.co.jp/world/35235877.html?ref=rss</link>
+        <description>タイは２４日、係争中の国境沿いに位置するカンボジア軍の目標に対して戦闘機を発進させた。緊張が劇的に増幅した形で、より広範な紛争に発展する恐れがある。
+
+この前日、タイの兵士が地雷の爆発で片脚を失い、隣国カンボジアとの関係は近年最悪の水準に落ち込んでいた。
+
+北東部に拠点を置くタイ軍第２軍管区はフェイスブックへの投稿で、Ｆ１６戦闘機を発進させたと説明。カンボジア軍の地域拠点２カ所を「破壊した」とも主...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235877.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/027b2fb4892bf126585ef9942c2dda9a/t/768/512/d/gettyimages-2221276108.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235872.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T13:35:00+09:00</dc:date>
+        <title>小型機墜落、原因は過剰に積まれたヘラジカの肉と角　米ＮＴＳＢ</title>
+        <link>https://www.cnn.co.jp/usa/35235872.html?ref=rss</link>
+        <description>米アラスカ州で起きた小型機の墜落事故について、米国家運輸安全委員会（ＮＴＳＢ）は２２日、原因は機体に積まれた過剰なヘラジカの肉と角だったとする調査報告書を公表した。この事故ではアラスカ州選出の下院議員メアリー・ペルトラ氏の夫ユージーン・ペルトラ氏が死亡していた。
+
+報告書によると、小型のパイパーＰＡ１８型機は２０２３年９月１２日、ハンターの一団をアラスカ州セントメアリーズ近郊に運んだ。ハンターら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235872.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/0c3ae56f1c80a0cc898f7810da6789d3/t/768/423/d/plane-with-antlers.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235848.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T13:06:00+09:00</dc:date>
+        <title>新作映画「スーパーマン」は「意識高すぎ」？　監督の「移民」発言めぐり論争</title>
+        <link>https://www.cnn.co.jp/showbiz/35235848.html?ref=rss</link>
+        <description>危機に陥った故郷から米国へ送られ、中西部カンザス州の家庭で育てられた赤ちゃん――。コミックやテレビ、映画で何度も紹介されてきたスーパーマンの生い立ちだ。ところが新作映画「スーパーマン」のジェームズ・ガン監督が最近、「スーパーマンは移民」と発言したことに対して右派メディアなどが反発し、論争に発展している。
+
+ガン氏は英紙タイムズとのインタビューで、「スーパーマンは米国の物語だ」と語った。「よそから来...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235848.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/3c95e0d9d0cdca52125382f736771dfe/t/768/432/d/screen-shot-2024-12-19-at-10-12-12-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235869.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T12:36:00+09:00</dc:date>
+        <title>米スタバＣＥＯの報酬、一般社員の給与の６６６６倍</title>
+        <link>https://www.cnn.co.jp/business/35235869.html?ref=rss</link>
+        <description>米スターバックスで量が増したのは、店舗で提供されるコーヒーだけではない。
+
+スターバックスのブライアン・ニコル最高経営責任者（ＣＥＯ）は昨年、同社の平均的な従業員に支払われる給与の６６６６倍の報酬を受け取った。米労働総同盟・産別会議（ＡＦＬ―ＣＩＯ）が２３日に発表した年次報告書で明らかになった。この給与格差は、報告書に掲載された米国内の上場企業５００社の中で最大だった。
+
+ニコル氏は昨年９月に同社の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235869.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/432ee34e8b2291a383ede35ed5cbd185/t/768/432/d/gettyimages-2217512119.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235870.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T12:06:00+09:00</dc:date>
+        <title>米テスラが４～６月期決算、売上高１２％減　苦境続く</title>
+        <link>https://www.cnn.co.jp/business/35235870.html?ref=rss</link>
+        <description>米電気自動車（ＥＶ）大手テスラは２３日、２０２５年４～６月期決算を発表したが苦境が続いている。純利益は前年同期比１６％減の１２億ドル（約１７５０億円）。主力の自動車部門の売上高が１６％減少したほか、全体の売上高も１２％減となり、いずれも市場予想を下回った。
+
+ウォール街が重視する調整後純利益は、４億１９００万ドル減少し、１４億ドルだった。
+
+１台あたりの売上高も５００ドル下がり、４万２２３１ドルと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235870.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/4833d959de81d195c2907966bd7b09b7/t/768/432/d/gettyimages-2225503603.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235860.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T11:30:00+09:00</dc:date>
+        <title>印旅客機墜落、英国の一部遺族に別人の遺体送られる　弁護士が明かす</title>
+        <link>https://www.cnn.co.jp/world/35235860.html?ref=rss</link>
+        <description>ここ１０年で最悪の航空事故となった先月のエアインディア旅客機の墜落に関して、インド当局が家族を亡くした英国の遺族の一部に誤った遺体を送付したとの見方が浮上している。当該の遺族の弁護士が明らかにした。
+
+国際航空法の専門家で、英国人の遺族の一部を代表するジェームズ・ヒーリープラット弁護士によると、少なくとも２人の英国人については人違いだったことが遺体の返還後に判明したという。
+
+あるケースでは、ロン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235860.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/2eee9b3e820a16a88f794d3be3d096f2/t/768/432/d/air-india-restoration.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235862.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T11:10:00+09:00</dc:date>
+        <title>ロシアとウクライナが直接協議、捕虜交換で合意も進展乏しく　イスタンブール</title>
+        <link>https://www.cnn.co.jp/world/35235862.html?ref=rss</link>
+        <description>トルコのイスタンブールで２３日、ロシアとウクライナによる３回目の直接協議が行われた。両国は捕虜交換に合意したものの、停戦条件や首脳会談の実現に向けた進展はほとんどなかった様子で、協議は１時間足らずで終了した。
+
+今回の協議の先立ち、トランプ米大統領はロシア政府に５０日以内に和平に応じるか、さもなければ「非常に厳しい関税」に直面すると告げていた。
+
+ロシアのプーチン大統領はこれまで、トランプ氏の最後...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235862.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/fb5e78ed48d612afe8c201650b00cb3f/t/768/432/d/2025-07-23t180852z-620258357-rc2isfarjvq0-rtrmadp-3-ukraine-crisis-russia-talks.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235854.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T10:10:00+09:00</dc:date>
+        <title>仏大統領、右派のポッドキャスターを提訴　妻が男性だとの主張巡り</title>
+        <link>https://www.cnn.co.jp/world/35235854.html?ref=rss</link>
+        <description>フランスのエマニュエル・マクロン大統領と妻のブリジットさんは２３日、右派のポッドキャスター、キャンディス・オーウェンズ氏に対し、米国で２２件の名誉毀損（きそん）訴訟を起こした。ブリジットさんが男性ではないかとするオーウェンズ氏の主張が名誉毀損に当たると訴えている。
+
+デラウェア州上位裁判所に提出された訴訟では、オーウェンズ氏が「マクロン夫妻に対する１年間にわたる執拗（しつよう）な誹謗（ひぼう）中...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235854.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/2c8739d4d3a1757d93d61df53aa8e1e1/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWRnNnpkYTQwMDA5M2I2bjF5aDVwbXR3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZGc2dXhuYTAwMnEyNnFmY285eDJrZGk_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235849.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T09:15:00+09:00</dc:date>
+        <title>ガザを覆う「人為的な集団飢餓」　子どもが餓死、イスラエル軍は１０００人超を殺害</title>
+        <link>https://www.cnn.co.jp/world/35235849.html?ref=rss</link>
+        <description>イスラエルがパレスチナ自治区ガザで戦争を始めてから１年９カ月がたち、ガザを覆う死と飢餓の惨状がエスカレートしている。食料を手に入れようとして殺害される住民や、餓死する住民が増え続ける中で、イスラエルを支持してきた同盟国でさえも、イスラエルに対する非難の声を強めている。
+
+世界保健機関（ＷＨＯ）のテドロス・アダノム事務局長は２３日、ガザのパレスチナ人はイスラエルによる封鎖のために、人為的な「集団飢...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235849.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/fa5c644e2899b7e532d76bb659102c5b/t/768/511/d/large-gettyimages-2225506468.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235846.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T07:52:00+09:00</dc:date>
+        <title>エプスタイン元被告に関する資料にトランプ氏の名前、司法長官が本人に報告</title>
+        <link>https://www.cnn.co.jp/usa/35235846.html?ref=rss</link>
+        <description>ボンディ米司法長官が今年５月、ジェフリー・エプスタイン元被告の事件に関する文書の精査結果をトランプ大統領に伝えた際、資料の中にトランプ氏の名前が記載されていると報告していたことが分かった。事情に詳しい情報筋がＣＮＮに明らかにした。
+
+エプスタイン元被告は性犯罪で起訴され、２０１９年、ニューヨークの拘置所で勾留中に死亡した。
+
+５月の協議にはブランチ司法副長官も同席しており、ホワイトハウスの当局者２...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235846.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/8796c4a0b9490fcb677acd84284e20ec/t/768/432/d/ap25189610482708-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235844.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T07:11:00+09:00</dc:date>
+        <title>米連邦地裁、エプスタイン元被告巡る大陪審文書の公開認めず</title>
+        <link>https://www.cnn.co.jp/usa/35235844.html?ref=rss</link>
+        <description>米フロリダ州の連邦地裁の判事は２３日、性犯罪で起訴され、勾留中に死亡したジェフリー・エプスタイン元被告の刑事捜査を巡り、大陪審文書の追加公開を認めない判断を示した。司法省はエプスタイン事件への対応を巡る国民の反発を鎮めようと躍起だが、その取り組みは最初の壁に突き当たっている。
+
+今回の開示請求は複数の大陪審の一つに関するもので、他の請求については依然として審査中。
+
+ローゼンバーグ判事は今回の判断...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235844.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/24/04d1bc2ce8cc321c9b2e203c8a729b27/t/768/512/d/230602133543-jeffrey-epstein-court-2008-file.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235843.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-24T05:00:00+09:00</dc:date>
+        <title>写真で見る、「ヘビーメタルの帝王」オジー・オズボーンさんの人生</title>
+        <link>https://www.cnn.co.jp/showbiz/35235843.html?ref=rss</link>
+        <description>英国のバンド「ブラック・サバス」のリーダーを務め、後にリアリティーテレビで人気を博した伝説的なロックスター、オジー・オズボーンさんが７６歳で死去した。
+
+オズボーンさんは数週間前に故郷のイングランド・バーミンガムでブラック・サバスとステージを共にしたばかりだった。これはブラック・サバスにとって２０年ぶりのステージで、オズボーンさんの「最後のお辞儀」と銘打たれていた。
+
+「ヘビーメタルのゴッドファー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235843.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/d98681ca1013a8f0fcd6df895dc0a001/t/350/432/d/gettyimages-1097899134.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35235842.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-23T23:28:00+09:00</dc:date>
+        <title>写真特集：「メタルの帝王」、オジー・オズボーンさんの人生</title>
+        <link>https://www.cnn.co.jp/photo/35235842.html?ref=rss</link>
+        <description>ロックバンド「ブラック・サバス」のボーカルを務め、リアリティー番組でも人気を集めたオジー・オズボーンさん。７６歳で亡くなったオズボーンさんの人生を写真で振り返る&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35235842.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/f3c419cb7dd02df49dda37ec6730bf17/t/768/512/d/29-gettyimages-74135804.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235841.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-23T20:02:00+09:00</dc:date>
+        <title>ガザでは「飢餓が扉をたたいている」　国際ＮＧＯが警告</title>
+        <link>https://www.cnn.co.jp/world/35235841.html?ref=rss</link>
+        <description>国際ＮＧＯオックスファムの平和・安全保障担当ディレクター、スコット・ポール氏は２３日、ＣＮＮに対し、パレスチナ自治区ガザ地区に駐留するスタッフが支援対象の民間人とともに飢えに苦しんでいると警告した。イスラエルはガザへの支援物資の流入を制限し続けている。
+
+ポール氏は「時間は尽きた。飢餓が迫っている。まさに今、扉をたたき壊そうとしている」と述べた。
+
+「ガザ地区全域で見られるのは、家族が毎日、栄養価...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235841.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/fa5c644e2899b7e532d76bb659102c5b/t/768/511/d/large-gettyimages-2225506468.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235837.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-23T18:27:00+09:00</dc:date>
+        <title>米テスラが抱える、あまり注目されない大問題</title>
+        <link>https://www.cnn.co.jp/business/35235837.html?ref=rss</link>
+        <description>米電気自動車（ＥＶ）メーカーのテスラは長年、ただＥＶを販売するだけで競合他社から数十億ドルもの利益を得てきた。しかしその棚ぼた的な収入は、同社が最も必要としているまさにこの時、消え去ろうとしている。
+
+テスラによる規制クレジットの販売は、売り上げと利益の低迷に直面する同社にとって大きな収入源であり続けている。既存の自動車メーカーは、テスラからクレジットを購入することでガソリン車の販売を続けている...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235837.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/e13556bcde124fa1db83c11ecbbf2dbf/t/768/432/d/business-tesla-earnings-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235832.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-23T18:04:00+09:00</dc:date>
+        <title>空軍機墜落で学校が「死のトラップ」に、答えを求める生徒たち　バングラデシュ</title>
+        <link>https://www.cnn.co.jp/world/35235832.html?ref=rss</link>
+        <description>軍用機が学校に墜落して大勢の子どもたちが犠牲になったバングラデシュの首都ダッカ。焼け焦げた校舎の外では２２日、数百人の生徒が集まり、答えを求める声を上げた。
+
+バングラデシュ空軍の機体は２１日、空中で機械的な不具合に見舞われ、ダッカのマイルストーン・スクール・アンド・カレッジに墜落。２階建ての校舎は炎と煙に包まれ、普段通りだった登校日は恐怖の一日と化した。
+
+事故機が墜落したのは、生徒が午後の授業...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235832.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/840ab3f52d40ac527dd087645582de7c/t/768/512/d/cnn-crash.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235838.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-23T17:47:00+09:00</dc:date>
+        <title>気候変動による異常気象で食料品価格が高騰、社会に広範なリスクもたらす　新研究</title>
+        <link>https://www.cnn.co.jp/world/35235838.html?ref=rss</link>
+        <description>気候変動による異常気象が、世界各地で基本的な食料品の価格を押し上げ、社会全体への深刻なリスクをもたらしている――。そんな研究結果が新たに発表された。
+
+バルセロナ・スーパーコンピューティング・センターのマクシミリアン・コッツ氏が主導した研究によると、米カリフォルニア州の野菜からブラジル産のコーヒーに至るまで、多くの品目で近年、価格が急騰したが、これは２０２０年以前の記録を超える「極端な」異常気象に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235838.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/5617938489375d763e32c33b250387cd/t/768/432/d/gettyimages-2216319626.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235815.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-23T16:19:00+09:00</dc:date>
+        <title>米五輪・パラ委員会、トランプ氏の大統領令順守へ　トランスジェンダー選手の女子競技出場禁じる内容</title>
+        <link>https://www.cnn.co.jp/showbiz/35235815.html?ref=rss</link>
+        <description>米国オリンピック（五輪）・パラリンピック委員会（ＵＳＯＰＣ）は、トランプ政権の大統領令に従い、トランスジェンダーの女性選手が女子競技に出場するのを禁止すると約束した。その内容は選手の安全に関する方針の改訂に盛り込まれた。女子カテゴリーにおけるトランスジェンダーの女性選手の競技参加を禁止した他の団体に追随する動きとなる。
+
+「女性スポーツから男性を排除する」としたトランプ大統領の大統領令は２月に発...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235815.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/77bdc79dd0c9e833bbf2adaf105e0398/t/768/432/d/gettyimages-2198190922.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35235820.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-23T15:25:00+09:00</dc:date>
+        <title>オープンＡＩのアルトマン氏、ＡＩによる「詐欺危機」を警告</title>
+        <link>https://www.cnn.co.jp/tech/35235820.html?ref=rss</link>
+        <description>米オープンＡＩのサム・アルトマン最高経営責任者（ＣＥＯ）は２２日、人工知能（ＡＩ）によって悪意のある人物が他人になりすますことができるようになる可能性があり、世界は「詐欺危機」の瀬戸際にいるかもしれないと警告した。
+
+アルトマン氏は、「私が恐れているのは、どうやらまだ一部の金融機関が多額の資金の移動やそのほかのことについて、音声認証を受け入れているということだ。チャレンジフレーズを言えば処理され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35235820.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/bb97d3c8832e5a52f4b5e421df2be63c/t/768/432/d/OpenAI-CEO-Sam-Altman.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35235811.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-23T14:23:00+09:00</dc:date>
+        <title>世界最強パスポートはシンガポール、日本と韓国が２位　米はトップ１０陥落の瀬戸際</title>
+        <link>https://www.cnn.co.jp/travel/35235811.html?ref=rss</link>
+        <description>世界各国のパスポートについて、ビザなしで訪問できる国・地域の数を比較した２０２５年版のランキングが更新され、シンガポールが首位に立った。日本と韓国が２位。かつて首位に立ったこともある米国はトップ１０から陥落する瀬戸際にある。
+
+英国のコンサルティング会社「ヘンリー＆パートナーズ」が毎年、ＩＡＴＡ（国際航空運送協会）のデータから世界各地の移動の自由度を調べ、ビザなしで行ける国・地域の数を示す「パス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35235811.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/9032f076a2b8127654d56ef01cf842da/t/768/511/d/large-001-gettyima.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235808.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-23T13:05:00+09:00</dc:date>
+        <title>マンハッタンの橋や集合住宅に手製爆弾、器物損壊未遂で男を起訴　米ＮＹ</title>
+        <link>https://www.cnn.co.jp/usa/35235808.html?ref=rss</link>
+        <description>米ニューヨーク市在住の男が２２日、手製の爆弾を製造して市内各所に少なくとも７個を仕掛けたとして起訴された。爆弾はマンハッタンとブルックリンを結ぶウィリアムズバーグ橋の地下鉄線路や集合住宅の屋上などに仕掛けられていた。
+
+起訴されたのはマンハッタンのインウッド地区に住むマイケル・ガン被告。起訴状によると、ネットで注文した化学物質を組み合わせて爆弾を製造したとされ、爆発物を使った器物損壊未遂、爆発物...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235808.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/e73cab47ad164540dee33a2cc3d6a37f/t/768/432/d/picture1-1-7.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35235810.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-23T12:44:00+09:00</dc:date>
+        <title>写真特集：世界最強パスポートはシンガポール</title>
+        <link>https://www.cnn.co.jp/photo/35235810.html?ref=rss</link>
+        <description>世界各国のパスポートについて、ビザなしで訪問できる国・地域の数を比較した２０２５年版のランキングが更新され、シンガポールが首位に立った&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35235810.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/23/9032f076a2b8127654d56ef01cf842da/t/768/511/d/large-001-gettyima.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
