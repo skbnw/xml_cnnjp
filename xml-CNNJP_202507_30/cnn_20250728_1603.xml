@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-07-28T18:23:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236017.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35236005.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236009.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235954.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236008.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235990.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235996.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235994.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235988.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235981.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235987.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235980.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235974.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235968.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235969.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235964.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235967.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35235965.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235963.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235962.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235961.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235960.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235959.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235958.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35235956.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235955.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235953.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35235945.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35235952.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35235950.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35236017.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T18:23:00+09:00</dc:date>
+        <title>北朝鮮、韓国は依然として「敵」　対話に「興味なし」</title>
+        <link>https://www.cnn.co.jp/world/35236017.html?ref=rss</link>
+        <description>北朝鮮の金正恩（キムジョンウン）総書記の妹で影響力を持つ金与正（キムヨジョン）氏は２８日、韓国について、依然として「敵」であり、いかなる提案があっても対話には「関心がない」と明らかにした。国営の朝鮮中央通信（ＫＣＮＡ）が声明を発表した。
+
+与正氏の発言は、韓国政府が朝鮮半島情勢の緊張緩和に向けた動きを見せている中でのもの。６月に韓国で新たに李在明（イジェミョン）政権が発足してから、北朝鮮側が公式...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236017.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/28/50f9b8352a3baeb9052012686b3078ac/t/768/432/d/001-northkorea-southkorea-20250728040224442.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35236005.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T17:26:00+09:00</dc:date>
+        <title>カッテージチーズ人気が米国で復活、たんぱく質重視の若者がＳＮＳでおいしく食べるレシピ考案</title>
+        <link>https://www.cnn.co.jp/business/35236005.html?ref=rss</link>
+        <description>長年にわたりカッテージチーズは見過ごされ、古風な食事メニューや１９５０年代の健康食レシピのコーナーに追いやられてきた。しかし最近になって、タンパク質を重視する若年層が新しいレシピを考案し、ネット上に投稿したことで、このそぼろ状のチーズが注目の的になっている。今や人気ブランドやメーカーは、急増する需要に対応しようと躍起になっている。
+
+市場調査会社サーカナのデータによると、６月１５日までの５２週間...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35236005.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/28/eeebd3edf8b9e6a8b49f86a6aabd2d31/t/768/432/d/gettyimages-494477684.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236009.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T16:57:00+09:00</dc:date>
+        <title>海を見つけるのに苦労するカメの赤ちゃん、州間高速道路の巨大な照明が原因　米ジョージア州</title>
+        <link>https://www.cnn.co.jp/fringe/35236009.html?ref=rss</link>
+        <description>米南部ジョージア州の海岸では今夏、アカウミガメの赤ちゃんが海にたどり着けずに苦しんでいる。その原因は、巨大な州間高速道路沿いの照明だと専門家が警鐘を鳴らしている。
+
+７月上旬、人気のガソリンスタンドチェーン「バッキーズ」が、ジョージア州最大規模の店舗を州南部の州間高速道路９５号線沿いにオープンさせた。しかし、アカウミガメの赤ちゃんたちを引きつけているのは、ビーバーのロゴやバーベキューの香りではな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236009.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/28/0760d743c8b6103dcf0f5691f2ed87ca/t/768/512/d/large-dsc-0203-20250724185503744.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235954.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T16:33:00+09:00</dc:date>
+        <title>駆け落ちした英国貴族とレイプの前科を持つ男、赤子の死で逮捕されるまで</title>
+        <link>https://www.cnn.co.jp/world/35235954.html?ref=rss</link>
+        <description>その気になれば、コンスタンス・マーテン被告とマーク・ゴードン被告の２人は、温かく思いやりのある親になることもできた。
+
+家庭裁判所の判事は、２人の子どもとの関わり方は「申し分なく」、「愛情深く親身な態度」で接することもできたとの見方を示す。
+
+だが、ベテランの法律関係者も驚かせた注目の裁判は、まったく別の側面を浮き彫りにした。浮かび上がったのは、お互いのことに執着して外部の権威を疑うあまり、わが子...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235954.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/26/aec153a0d8e1c8b5e20b995fd5327096/t/768/432/d/20250718-marten-gordon-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236008.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T15:21:00+09:00</dc:date>
+        <title>中国少林寺の住職が捜査対象に、横領や女性との不適切な関係めぐり</title>
+        <link>https://www.cnn.co.jp/world/35236008.html?ref=rss</link>
+        <description>中国の名刹・少林寺は２７日、住職である釈永信氏（５９）が資金の横領や複数の女性との「不適切な関係」などの疑いで捜査を受けていると発表した。約１０年前にも同様のうわさが浮上しており、再び注目が集まっている。
+
+釈氏は仏教寺院を巨大な商業帝国に育てた実業家としても知られ、「少林ＣＥＯ」などの異名を持つ。少林寺の声明によると、プロジェクト資金や寺院資産の流用などの刑事犯罪の疑いが持たれている。そのほか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236008.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/28/5834e33f706e4acbdee5b13406fb2b5c/t/768/510/d/large-gettyimages-1251920152.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235990.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T14:44:00+09:00</dc:date>
+        <title>米ウォルマートで無差別刺傷事件、買い物客がカートをぶつけて容疑者逮捕に貢献</title>
+        <link>https://www.cnn.co.jp/usa/35235990.html?ref=rss</link>
+        <description>米中西部ミシガン州トラバースシティにある米小売り大手ウォルマートの店舗で男が折りたたみ式ナイフで「無差別」に人々を刺し、１１人が負傷した事件をめぐり、グランドトラバース郡の保安官は、駐車場で容疑者を追い詰め、警察が到着するまで拘束した買い物客を称賛した。
+
+同州在住の容疑者は２６日、午後４時１０分ごろに店内に入り、３５分間店内で待機した後、襲撃に及んだ。被害者は２９歳から８４歳までで全員生存の見...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235990.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/28/d71fa553513f6ec08b0d3e5099cadaa3/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWRsOTZsd20wMDJkM2I2bmdvNjRlbzRo-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZGw4eHRnMTAwZXQyN3AyNzRlZDBrMno_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235996.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T13:46:00+09:00</dc:date>
+        <title>州立公園で夫妻が死亡　容疑者の行方追う、娘２人は保護　米アーカンソー州</title>
+        <link>https://www.cnn.co.jp/usa/35235996.html?ref=rss</link>
+        <description>米アーカンソー州の州立公園で夫婦が遺体で見つかった事件で、警察は２７日、容疑者の行方を追っていると明らかにした。
+
+死亡が確認されたのは、クリントン・デービッド・ブリンクさん（４３）とクリステン・アマンダ・ブリンクさん（４１）。２人はデビルズ・デン州立公園で７歳と９歳の娘とともにハイキングをしていた。娘２人は無傷で、現在は親族とともに保護されているという。
+
+公園は人里離れた山間地にあり、地形は険...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235996.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/28/d1dd6c4bb8a3f18fb59d7559f839e4b7/t/768/576/d/large-gettyimages-1191382698.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235994.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T12:40:00+09:00</dc:date>
+        <title>涙ながらにペットを手放す飼い主、全米で急増　景気悪化の痛ましい兆候</title>
+        <link>https://www.cnn.co.jp/usa/35235994.html?ref=rss</link>
+        <description>ペットを手放す飼い主が増えると景気が悪化する――。米ノースカロライナ州の動物保護施設に勤務する職員は長年の経験から、そんな痛ましい兆候があることを学んだ。
+
+２０００年代後半の金融危機や、地元で大量解雇があった時、直近ではインフレが急上昇した時にもそれが起きた。
+
+そして今回再び、ペットを手放す飼い主が増えている。
+
+同施設が飼い主からペットを引き取った件数は、前年より約４３％増えているという。
+
+「景...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235994.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/28/93cfcbb55eb0cf8c8a410e6c2b8c516b/t/768/520/d/large-gettyimages-2203822524.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235988.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T12:05:00+09:00</dc:date>
+        <title>「ファンタスティック４」新作、初週の興収１７４億円で首位</title>
+        <link>https://www.cnn.co.jp/showbiz/35235988.html?ref=rss</link>
+        <description>ディズニーの新作映画「ファンタスティック４：ファースト・ステップ」が、北米市場の週末興行収入ランキングで「スーパーマン」を抑え、１億１８００万ドル（約１７４億円）を記録して首位に立った。
+
+今回のリブート作品はシリーズにとって大きな復活劇となった。アナリストの予測の範囲内に収まったものの、期待されていた１億３０００万ドルには届かなかった。ただ、今年公開されたマーベル映画の中では最高の週末成績を記...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235988.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/28/7d001023fc17343dff4b4b660bc0ac3c/t/768/432/d/large-mfb1420-trl-comp-ddo-v0137-138cd848.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235981.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T11:40:00+09:00</dc:date>
+        <title>トランプ氏、ビヨンセさんの起訴を要求　１６億円の民主党支持対価受け取り主張するも根拠なし</title>
+        <link>https://www.cnn.co.jp/usa/35235981.html?ref=rss</link>
+        <description>トランプ米大統領は２６日、実際には存在していない事実を根拠に、米人気歌手ビヨンセさんの起訴を求めた。
+
+トランプ氏はＳＮＳで、ビヨンセさんが２０２４年１０月にテキサス州ヒューストンで開かれたイベントで民主党大統領候補カマラ・ハリス氏を支持する見返りに１１００万ドル（約１６億円）を受け取ったことは違法行為にあたると主張した。しかし、ハリス陣営の選挙活動に関連して、ましてや支持そのものに関して１１０...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235981.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/28/18653161b3c9ca1b22ba7e12ceaa96d4/t/768/512/d/2024-10-26t035001z-95027265-rc22saadwj3p-rtrmadp-3-usa-election-harris-beyonce.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235987.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T10:55:00+09:00</dc:date>
+        <title>タイとカンボジア、停戦に向けマレーシアで協議へ　国境地帯で衝突続く</title>
+        <link>https://www.cnn.co.jp/world/35235987.html?ref=rss</link>
+        <description>カンボジアとタイが領有権を争う国境地帯での武力衝突は４日連続となった。これに先立ち、米国のトランプ大統領が両国の停戦協議入りを発表し、戦闘の継続が米国との貿易協定に悪影響を及ぼすと警告していた。
+
+タイとカンボジアの当局の発表を基にしたＣＮＮの集計によると、２４日から続く戦闘で少なくとも３５人が死亡し、２００人以上が負傷した。２０万人超が避難を強いられている。
+
+双方は衝突の責任を互いに押し付け合...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235987.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/28/a0e70f76d3e74256e7402031616a02a8/t/768/511/d/large-gettyimages-2226267882.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235980.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T10:22:00+09:00</dc:date>
+        <title>米とＥＵ、貿易協定の枠組みで合意　車などに１５％の関税</title>
+        <link>https://www.cnn.co.jp/business/35235980.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領は２７日、英スコットランドで、欧州連合（ＥＵ）のウルズラ・フォンデアライエン委員長と会談し、米国とＥＵが貿易協定の枠組みで合意したと発表した。
+
+トランプ大統領の発表によると、ＥＵ加盟２７カ国から米国への輸入品に対しては一律に１５％の関税を課す。米国最大の貿易パートナーであるＥＵは、数カ月に及んだ交渉の中で、ベースライン関税を１０％に据え置くよう求めていた。
+
+トラン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235980.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/28/a5f635d5a13ec7674e95d009400f6a0c/t/768/511/d/large-gettyimages-2226577442.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235974.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-28T09:40:00+09:00</dc:date>
+        <title>イスラエルが一部で戦闘休止、陸と空からガザに支援物資搬入</title>
+        <link>https://www.cnn.co.jp/world/35235974.html?ref=rss</link>
+        <description>イスラエルは２７日、パレスチナ自治区ガザ地区の一部地区で一時的に戦闘を停止する「戦術的休止」を開始し、人道支援物資を積んだトラック１００台あまりがガザに入った。ヨルダンとアラブ首長国連邦（ＵＡＥ）は上空から支援物資を投下した。
+
+ガザで餓死者が増え続ける事態を目の当たりにして世界各国が憤りを強める中で、イスラエルはガザ封鎖をある程度緩和する措置に出た。
+
+ＣＮＮの映像には、ヨルダン軍とＵＡＥ軍が数...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235974.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/28/c0e3feedbba430ea2fda840bb8c2aef5/t/768/512/d/ap25208483315949.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235968.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-27T17:08:00+09:00</dc:date>
+        <title>美しかった山々が危険な場所に、世界各地で崩落相次ぐ　温暖化で氷河融解</title>
+        <link>https://www.cnn.co.jp/fringe/35235968.html?ref=rss</link>
+        <description>ヤン・ボイテル氏は、スイス・アルプスの山、クライネス・ネストホルンのライブ映像を眺めていた時、山から聞こえてくるきしむ音やゴロゴロという轟音（ごうおん）が次第に大きくなっていることに気付いた。ボイテル氏は作業の手を止め、音量を上げ、気が付くとその映像に見入っていた。
+
+「画面全体が爆発した」
+
+ボイテル氏はそう表現した。山岳監視を専門とするコンピューター技術者のボイテル氏が目撃したのは氷河の崩落だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235968.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/27/33bb2d9d8000ec078b3b119e515083b4/t/768/432/d/26-gettyimages-2216969175.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235969.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-27T16:39:00+09:00</dc:date>
+        <title>イスラエル軍、ガザの３カ所で「戦術的休止」　軍事行動を１０時間停止</title>
+        <link>https://www.cnn.co.jp/world/35235969.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区の飢餓の蔓延（まんえん）をめぐって国際社会からの非難が強まるなか、イスラエル軍は２７日、ガザの３地域で、軍事行動を１０時間停止する「戦術的休止」を実施すると発表した。
+
+イスラエル軍は声明で、ガザ地区への人道支援物資の供給規模を拡大するため、人道目的による局地的な軍事行動の戦術的休止を行うと述べた。
+
+今回の戦術的休止は、マワシとデイルアルバラ、ガザ市の一部を対象とし、２７...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235969.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/27/9b3fe471a3a2da24567868339d132740/t/768/533/d/large--rtrmadp-3-israel-palestinians-gaza.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235964.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-27T16:01:00+09:00</dc:date>
+        <title>つらく危険な酷暑、老化を加速させる可能性　その仕組みは？</title>
+        <link>https://www.cnn.co.jp/fringe/35235964.html?ref=rss</link>
+        <description>この夏の北半球各地を襲っている、じめじめした息苦しい高温。私たちの体への負担は大きく、吐き気やめまい、脱水症状を引き起こし、臓器に深刻な健康被害をもたらす場合がある。
+
+しかし、酷暑にはあまり知られていないもう一つの影響がある。老化を早めるのだ。
+
+新たな研究の蓄積によると、高温に長期間さらされると細胞や組織が劣化し、生物学的老化が加速する可能性があるという。
+
+「暦年齢」が生まれてからの年数を指す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235964.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/27/65d4894479fbbd8f67009cf65e316dae/t/768/432/d/20250722-sun-aging-gfx-test07.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235967.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-27T15:15:00+09:00</dc:date>
+        <title>希少なユキヒョウの赤ちゃん誕生、９４年の歴史で初　英動物園</title>
+        <link>https://www.cnn.co.jp/fringe/35235967.html?ref=rss</link>
+        <description>英国のチェスター動物園がこのほど、同園で誕生した希少なユキヒョウの赤ちゃんが初めて歩く様子を捉えた動画を公開した。この赤ちゃんは、同園の９４年の歴史の中で初めて誕生したユキヒョウとなった。
+
+動物園によると、ユキヒョウの赤ちゃんは６月１０日に生まれた。３歳の両親にとっても初めての子どもだという。
+
+ユキヒョウは、国際自然保護連合（ＩＵＣＮ）のレッドリストにおいて「危急種」に分類されており、絶滅の危...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235967.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/27/fe7b2df8ddc474201b2aad6342ad1475/t/768/432/d/snow-leopard-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35235965.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-27T14:13:00+09:00</dc:date>
+        <title>ライアンエア、超過手荷物の持ち込み「撲滅」へ　特定した職員にボーナス支給</title>
+        <link>https://www.cnn.co.jp/business/35235965.html?ref=rss</link>
+        <description>アイルランドの格安航空会社大手ライアンエアが、規定を超えた大きさの手荷物を特定して料金を請求したスタッフに対して、手荷物１個につき約１．５ユーロ（約２６０円）のボーナスを支払っていることがわかった。
+
+ライアンエアのマイケル・オライリー最高経営責任者（ＣＥＯ）は地元メディアの取材に答え、乗客の超過手荷物という問題の撲滅に積極的に取り組んでいるとし、ボーナスの増額を検討していると語った。
+
+オライリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35235965.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/27/537734486abff60da54c8813a20cd886/t/768/473/d/large-gettyimages-2089601552.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235963.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-27T12:51:00+09:00</dc:date>
+        <title>栄養失調の生後５カ月の乳児、母親の腕の中で死亡　飢餓が広がるガザ</title>
+        <link>https://www.cnn.co.jp/world/35235963.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で２５日、重度の栄養失調に苦しんでいた生後５カ月の女児が母親の腕の中で死亡した。悪化の一途をたどるガザの人道状況をめぐって国際的な非難が高まる中、ガザでの飢餓の新たな犠牲者となった。
+
+死亡したのはゼイナブ・アブ・ハリブちゃん。母親がガザ南部の病院に連れて行こうとした途中で死亡した。
+
+母親のイスラ・アブ・ハリブさんは２６日、ＣＮＮの取材に対し、「ゼイナブはこの３カ月間、入...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235963.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/27/426c2f9e4217698a03d63fb89283bec7/t/768/432/d/4e3018a8-7e0b-4d4e-96af-cc6037d428e7-20250726171657544.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235962.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-27T12:22:00+09:00</dc:date>
+        <title>高温の車内に数時間取り残される、米３歳児死亡　州契約業者の管理下で</title>
+        <link>https://www.cnn.co.jp/usa/35235962.html?ref=rss</link>
+        <description>米アラバマ州でこのほど、高温の車内に取り残された３歳の男児が死亡する出来事があった。保育園への送り迎えを担当する州契約業者の職員は、男児を車内に放置したまま私用を済ませていたとみられる。
+
+死亡したのはカトリアス・スタークス・ジュニア君。ジェファーソン郡検視局と州の人材資源省によると、州の児童保護サービス機関と契約する職員の管理下にあった際、高温の車内に閉じ込められて死亡した。
+
+検視局によると、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235962.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/27/40fd77798a79310e04ba43af0de456bc/t/768/512/d/kj-photo-2-crop.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235961.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-27T12:01:00+09:00</dc:date>
+        <title>ガザへ向かう支援船、イスラエル軍が拿捕</title>
+        <link>https://www.cnn.co.jp/world/35235961.html?ref=rss</link>
+        <description>イスラエル軍は２６日、パレスチナ自治区ガザ地区に向かっていた支援船「ハンダラ号」を目的地の７０カイリ（約１３０キロ）以内の海域で拿捕（だほ）した。
+
+「自由船隊連合（ＦＦＣ）」の広報担当者はＣＮＮに、イスラエル軍がカメラを停止させ、全ての通信手段を遮断したと述べた。
+
+「ユーチューブ」のライブ配信には、武装した兵士が船に乗り込み、甲板にいた活動家たちは救命胴衣を身に着け、両手を挙げて降伏を示す様子...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235961.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/27/7c902766658807be8ea147d69a69c840/t/768/432/d/armed-personnel-intercepted-the-handala-with-those-aboard-surrendering-immediately-freedom-flotilla-coalition-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235960.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-27T11:15:00+09:00</dc:date>
+        <title>旅客機の着陸装置に不具合、乗員乗客が避難　米デンバー空港</title>
+        <link>https://www.cnn.co.jp/usa/35235960.html?ref=rss</link>
+        <description>米コロラド州のデンバー国際空港で２６日、アメリカン航空の旅客機が着陸装置に関する可能性のあるトラブルに見舞われたため、乗客乗員が機外へ避難する出来事があった。米連邦航空局（ＦＡＡ）が明らかにした。
+
+アメリカン航空の発表によれば、この機体は離陸前にタイヤに関連する「整備上の問題」を経験した。
+
+空港によると、緊急対応の要員とデンバー消防局が現場に駆けつけ、乗客らは滑走路上で避難した。
+
+現場で５人が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235960.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/27/eb45077a1753ce119b6ddcf91a62c664/t/768/511/d/large-gettyimages-1485857636.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235959.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-27T10:24:00+09:00</dc:date>
+        <title>刃物で無差別に襲撃、１１人負傷　米ミシガン州</title>
+        <link>https://www.cnn.co.jp/usa/35235959.html?ref=rss</link>
+        <description>米中西部ミシガン州トラバースシティにある米小売り大手ウォルマートの店舗で２６日、男が折りたたみ式ナイフで「無差別」に人々を刺し、１１人が負傷した。グランドトラバース郡の保安官が明らかにした。
+
+容疑者はミシガン州在住の４２歳の男で、現場で身柄を拘束された。保安官は記者会見で、容疑者の氏名は公表せず、単独での犯行とみられ、共犯者がいた形跡はないと説明した。被害者は無作為に選ばれたとみられるという。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235959.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/27/b741e064bfc6b3d5364e41aa2c9bfb2c/t/768/576/d/large-ap25207838125134.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235958.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-27T10:22:00+09:00</dc:date>
+        <title>カンボジアとタイ、停戦協議の実施で合意　国境地帯での衝突経て</title>
+        <link>https://www.cnn.co.jp/world/35235958.html?ref=rss</link>
+        <description>国境地帯での軍事衝突を数日間続けていたカンボジアとタイの首脳は、停戦協議のため会談することで合意した。両国と米国のトランプ大統領が２６日、声明で明らかにした。
+
+トランプ氏はこれに先立ち、平和の回復に向けてカンボジアのフン・マネット首相、タイのプームタム暫定首相の双方と会談したと明らかにしていた。
+
+トランプ氏はこの日、ＳＮＳトゥルース・ソーシャルに自身の外交努力を説明する内容を相次ぎ投稿し、「両...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235958.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/27/85a2337aa2da7ac0d5e6978245363b47/t/768/509/d/thailand.png'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35235956.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-27T08:49:00+09:00</dc:date>
+        <title>イスラエル、ガザで支援物資の空中投下を開始　一部で戦闘の「人道的休止」も</title>
+        <link>https://www.cnn.co.jp/world/35235956.html?ref=rss</link>
+        <description>イスラエル軍がパレスチナ自治区ガザ地区への人道支援物資の空中投下を開始した。イスラエル軍がＣＮＮに認めた。軍はまた、ガザの一部地域で現地時間２７日から戦闘の「人道的休止」が始まると明らかにした。だが休止の期間については明言しなかった。
+
+イスラエルの治安当局者は２５日、ＣＮＮに対し、イスラエルが外国によるガザへの支援物資の空中投下を認める予定だと述べていた。ガザをめぐっては、住民が飢餓の危機に直...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35235956.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/27/f93a8a3f2e55a720930678cd50732ea0/t/768/511/d/large-idf-5.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235955.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-26T18:10:00+09:00</dc:date>
+        <title>トランプ氏、ワシントンの論争逃れゴルフ三昧のスコットランド外遊へ</title>
+        <link>https://www.cnn.co.jp/usa/35235955.html?ref=rss</link>
+        <description>ワシントンの重苦しい湿気と、過熱する論争に絡む質問攻めから逃れる形で、トランプ米大統領は今週末、またしても自身の所有するゴルフクラブに避難する。ただ今回向かう先は、４８００キロ離れた英スコットランドだ。
+
+ホワイトハウスは５日間の旅行を「業務視察」と呼ぶが、公式な予定はずいぶんと少ない。トランプ氏は２７日に欧州連合（ＥＵ）のトップと通商協議を行う。２８日には英国のスターマー首相と会談することにな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235955.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/26/aa00b0c16e8c9b7558896b801ade5b0a/t/768/432/d/c-gettyimages-2226198931.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235953.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-26T17:15:00+09:00</dc:date>
+        <title>ネアンデルタール人の食生活、ウジ虫三昧だった？　新たな研究が示唆</title>
+        <link>https://www.cnn.co.jp/fringe/35235953.html?ref=rss</link>
+        <description>ネアンデルタール人は肉に目がなく、狩りで捕らえたマンモスをステーキにしては、火を囲みながら皆で食べた。石器時代を研究する多くの考古学者は、かつてそう考えていた。
+
+しかし研究の量が増えるにつれ、実際のところ新鮮な肉は唯一のメニューなどでは全くなく、ネアンデルタール人は豆類や甲殻類を含む多様な食物を食べていたことが分かってきた。
+
+それでもネアンデルタール人の骨に残る化学的特徴は、依然として強力な肉...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235953.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/26/a36c11f6a56816333043c05ca501076f/t/768/432/d/dp2jx1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35235945.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-26T14:00:00+09:00</dc:date>
+        <title>５億年前の爆発的な生命進化、グランドキャニオンで発掘した化石から詳細判明</title>
+        <link>https://www.cnn.co.jp/fringe/35235945.html?ref=rss</link>
+        <description>古生物学者らがグランドキャニオンで発見した見事な化石から、５億年前に起きた複雑な生命の出現に関する詳細が明らかになった。
+
+新たに見つかった現地の動物相の痕跡は、当時の環境が生命の繁栄と多様化にとって理想的だったことを示唆する。この進化上の好機を活用する形で、様々な初期の動物群が出現したことが新たな研究により判明した。
+
+この期間の「カンブリア爆発」と呼ばれる現象は、約５億４０００万年前に地球上の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35235945.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/26/41ee1a16284e8cc4b191bd831b26d8c5/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWRoeHZtcDMwMDM0MjZueDJ0OG44OHg2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZGh4dm1wNDAwM2oyNm54OThnbTVoeGI_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35235952.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-26T12:50:00+09:00</dc:date>
+        <title>エプスタイン元被告の協力者、恩赦要望か　弁護士が司法副長官と面会後に示唆</title>
+        <link>https://www.cnn.co.jp/usa/35235952.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した米富豪ジェフリー・エプスタイン元被告の協力者、ギレーヌ・マクスウェル受刑者の弁護士が２５日、記者団の取材に応じ、トランプ大統領による恩赦に言及した。受刑者が恩赦を求めていることを示唆したとみられる。
+
+マクスウェル受刑者は恩赦を求めているのかと記者団から聞かれ、弁護士のデビッド・オスカー・マーカス氏は「これまでのところ、大統領とも誰とも恩赦について話をしていない。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35235952.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/26/903fc21fbc4ac568acb405df242b6de7/t/768/512/d/ap25206635248024.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35235950.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-07-26T11:30:00+09:00</dc:date>
+        <title>死去のハルク・ホーガンさん、ドキュメンタリー番組の制作中だった</title>
+        <link>https://www.cnn.co.jp/showbiz/35235950.html?ref=rss</link>
+        <description>プロレスラーのハルク・ホーガン（本名テリー・ボレア）さんは、自身を題材としたＮｅｔｆｌｉｘ向けのドキュメンタリー番組を制作中に死去していたことがＣＮＮの取材で分かった。
+
+レスラー界のレジェンドとして知られるホーガンさんは２４日、７１歳で亡くなった。
+
+ドキュメンタリーはここまで未発表のプロジェクトで、ワールド・レスリング・エンターテインメント（ＷＷＥ）との提携により制作される。ホーガンさんの輝か...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35235950.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/26/a04dfbf4fde2551ef4d60602942959f7/t/768/432/d/ap25205576985487.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
