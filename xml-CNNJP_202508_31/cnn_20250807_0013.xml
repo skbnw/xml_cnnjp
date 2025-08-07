@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-08-07T09:02:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236435.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35236433.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236429.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236426.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236425.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236421.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236418.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236419.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35236410.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236417.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236398.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35236407.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236392.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236395.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236391.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236389.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236388.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236383.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236382.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236378.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236376.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236370.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236368.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35236364.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236362.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236338.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35236356.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35236345.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236348.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35236355.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35236435.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-07T09:02:00+09:00</dc:date>
+        <title>ガーナ軍のヘリ墜落、閣僚２人を含む８人死亡</title>
+        <link>https://www.cnn.co.jp/world/35236435.html?ref=rss</link>
+        <description>西アフリカのガーナで６日、軍のヘリコプターが墜落し、閣僚２人を含む乗客乗員８人が死亡した。大統領首席補佐官が発表した。
+
+死亡したのはエドワード・オマネ・ボアマ国防相とイブラヒム・ムルタラ・モハメド環境相を含む乗客５人と、乗員３人。
+
+ガーナ国軍はこれに先立ち、首都アクラから同国南部の鉱山の町オブアシに向かっていたＺ９ヘリコプターとの連絡が途絶えたと明らかにしていた。
+
+大統領首席補佐官は墜落事故を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236435.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/07/f779a310c0bb2e900ef4e54c937bd424/t/768/432/d/150325082132-social-gfx-breaking-news.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35236433.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-07T08:32:00+09:00</dc:date>
+        <title>米女子バスケで「大人のおもちゃ」の投げ込み相次ぐ、選手に直撃も</title>
+        <link>https://www.cnn.co.jp/showbiz/35236433.html?ref=rss</link>
+        <description>米女子プロバスケットボールＷＮＢＡのロサンゼルス・スパークスとインディアナ・フィーバーの試合中、「大人のおもちゃ」がコートへ投げ込まれる出来事があった。こうした出来事は１週間で３度目で、リーグに影響が出ている。
+
+カリフォルニア州ロサンゼルスの「クリプトドットコム・アリーナ」で５日に行われた試合の第２クォーター、緑色のおもちゃがフィーバーのガードを務めるソフィー・カニンガム選手（２８）へ向けて投...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35236433.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/07/f77b739a595cee41bdcab2c4fa44990b/t/768/512/d/wnba-indiana-fever-at-los-angeles-sparks.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236429.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-07T07:53:00+09:00</dc:date>
+        <title>陸軍基地で現役兵士が発砲、兵士５人が病院搬送　米ジョージア州</title>
+        <link>https://www.cnn.co.jp/usa/35236429.html?ref=rss</link>
+        <description>米南部ジョージア州フォート・スチュワートの陸軍基地で６日、現役兵士が発砲し、米兵５人が撃たれ、病院に搬送された。
+
+全員容体は安定しており、回復が見込まれているという。
+
+容疑者は、フロリダ州ジャクソンビル出身のコーネリウス・ラドフォード軍曹（２８）。発砲から約４０分後の午前１１時３５分に拘束された。
+
+軍によると、容疑者は私物の拳銃で銃撃したとされ、同僚の兵士らが即座に組み付き、抑え込んだ。
+
+ラド...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236429.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/07/4333f58f6839e4421eb5cb5ec1ea89db/t/768/586/d/jail-inmate-radford-quornelius-samentrio-front-08062025-032701-151-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236426.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-07T06:50:00+09:00</dc:date>
+        <title>トランプ氏、インドへ合計５０％の関税を発表　ロシア産原油購入を非難</title>
+        <link>https://www.cnn.co.jp/usa/35236426.html?ref=rss</link>
+        <description>トランプ米大統領は６日、インドに対し７日に発効予定の２５％関税に加え、ロシア産石油・ガスの輸入に対する罰則として、２７日にも２５％の追加関税を課すと発表した。
+
+これらの制裁措置を合わせると、インドに対する関税は、米国が課す関税の中でも最高水準の５０％に達することになる。インドは世界第５位の経済大国。
+
+ホワイトハウスのウェブサイトに掲載された文書によると、今回の大統領令は、インドとの貿易戦争を激...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236426.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/07/2a1ffe2981db9f605e8d089a293967ea/t/768/512/d/gettyimages-1704957970.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236425.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-07T06:47:00+09:00</dc:date>
+        <title>トランプ氏、来週にもプーチン・ゼレンスキー両氏と会談する意向　米特使のロシア訪問後表明</title>
+        <link>https://www.cnn.co.jp/usa/35236425.html?ref=rss</link>
+        <description>トランプ米大統領が欧州の首脳らとの電話で、ロシアのプーチン大統領と早ければ来週にも会談し、その後ウクライナのゼレンスキー大統領を交えた３者協議を行うとの意向を伝えたことが分かった。事情に詳しい情報筋２人が明らかにしたほか、欧州政府筋も電話の内容について確認した。
+
+ホワイトハウスの当局者は、トランプ氏は早ければ来週にもプーチン氏と会談する意向だが、今後必要となる交渉やロジスティクス面のハードルを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236425.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/07/10fed44ea202f1fd08ee7007d89af85d/t/768/512/d/gettyimages-2228050009.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236421.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T22:10:00+09:00</dc:date>
+        <title>プーチン氏と米特使が会談、ロシア大統領府は「建設的」と評価</title>
+        <link>https://www.cnn.co.jp/world/35236421.html?ref=rss</link>
+        <description>米国の対ロシア交渉の窓口を務めるウィトコフ中東担当特使とロシアのプーチン大統領が６日、会談した。ロシア国営タス通信によると、クレムリン（ロシア大統領府）は「建設的で有益」な会談だったとの認識を示した。
+
+ロシア国営ＲＩＡノーボスチ通信はクレムリンの説明をもとに、両氏はウクライナで続くロシアの戦争について協議したと伝えた。
+
+ＲＩＡノーボスチはＳＮＳへの投稿で、「プーチン氏はウクライナ問題で米国にい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236421.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/888f4e33c0099c1c933681bf6995a7d0/t/768/536/d/gettyimages-2228050052.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236418.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T19:48:00+09:00</dc:date>
+        <title>グレートバリアリーフのサンゴ白化、過去最悪の水準に　新たな報告書で判明</title>
+        <link>https://www.cnn.co.jp/fringe/35236418.html?ref=rss</link>
+        <description>オーストラリアを象徴するサンゴ礁「グレートバリアリーフ」は、その鮮やかな色彩と生物多様性でよく知られる。しかし昨年、海洋熱波によって広大な硬質サンゴの白化が起こり、過去最大の減少に見舞われた。新たな報告書で明らかになった。
+
+２０２４年の夏は珍しい地球規模のサンゴ白化現象が発生。数十カ国に影響が及び、グレートバリアリーフは記録的な被害を受けた。海水温の上昇にエルニーニョ現象が重なり、ストレスを受...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236418.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/79a59a76f08dd153771e30eebc18d93e/t/768/672/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWR6Z2h4bWQwMDFrMjdxbTJ3MmI4djBo-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZHpnaHhtZDAwMXoyN3FtY3R4YmdoZHE_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236419.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T19:05:00+09:00</dc:date>
+        <title>仏南部で山火事、高齢女性死亡　１万１０００ヘクタール焼失</title>
+        <link>https://www.cnn.co.jp/world/35236419.html?ref=rss</link>
+        <description>フランス南部で発生した山火事が急速に拡大し、１５市町村で１万１０００ヘクタール以上を焼いたほか、１人が死亡した。地元当局が６日に明らかにした。
+
+地元当局者はＣＮＮ提携局ＢＦＭＴＶに対し、サン・ローラン・ド・ラ・カブレリスで、自宅を離れたくなかったとみられる高齢女性が死亡したと明らかにした。
+
+火災は５日午後、オード県で発生し、市民２人と消防士７人が負傷した。
+
+約１５００人の消防士が夜通し消火活動...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236419.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/67191c143a62cd3f56e26bd58d0ccfcb/t/768/511/d/large-gettyimages-2227960397.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35236410.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T18:24:00+09:00</dc:date>
+        <title>「ウォーキング・デッド」出演、女優のケリー・マックさんが死去　３３歳</title>
+        <link>https://www.cnn.co.jp/showbiz/35236410.html?ref=rss</link>
+        <description>世界の終末を描いたゾンビ物のテレビシリーズ「ウォーキング・デッド」への出演で知られる女優のケリー・マックさんが死去した。３３歳だった。
+
+ソーシャル・ネットワーキング・サイト「ケアリングブリッジ」に投稿された声明によると、マック（本名ケリー・クレベノウ）さんは、中枢神経系の神経膠腫（こうしゅ）との闘病生活の末、２日に故郷シンシナティで「安らかに息を引き取った」。神経膠腫とは、脳や脊髄（せきずい）...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35236410.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/e17ca2f827a879dbc5711e9d230cceeb/t/768/519/d/large-gettyimages-1346739989.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236417.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T18:11:00+09:00</dc:date>
+        <title>タイタニック潜水艇事故は「防げた」、沿岸警備隊が報告書　深海産業は将来を見据える</title>
+        <link>https://www.cnn.co.jp/world/35236417.html?ref=rss</link>
+        <description>２０２３年に英豪華客船タイタニック号の残骸を見るツアー中に潜水艇「タイタン」が水圧でつぶれた事故をめぐり、米沿岸警備隊は５日、３００ページ超の報告書を公開し、タイタン号と運航会社が抱える問題点を指摘した。報告書では、適切な対応をしていれば事故は「防げた」としている。
+
+オーシャン・ゲート社が運航する潜水艇は２３年、タイタニック号の残骸へ向かう途中で圧壊し、乗員５人が死亡した。事故では、創業者で最...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236417.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/26c761baa9eb7112848871cecd40dc39/t/768/512/d/large-001trmadp-3-titanic-submersible.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236398.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T16:58:00+09:00</dc:date>
+        <title>親ロシア派の地方政治家に選挙不正で禁錮刑、重要な議会選迫る中　モルドバ</title>
+        <link>https://www.cnn.co.jp/world/35236398.html?ref=rss</link>
+        <description>モルドバの裁判所は、政党資金をロシアから流用したとして、ロシア寄りの地方政治家に禁錮７年の判決を下した。
+
+５日の判決を受けたエフゲニア・グシュル被告は、歴史的に親ロシア的な民族地域とされるモルドバ南部ガガウズ自治区の指導者。選挙不正の疑いで３月に拘束された。
+
+ロイター通信によると、検察当局はグシュル被告が２０１９年から２２年にかけて、イラン・ショル氏が設立した政党への資金提供のため、未申告の資...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236398.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/5d376f023ba18270683f8ed50e23d741/t/768/506/d/large--3-moldova-politics-leader.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35236407.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T16:35:00+09:00</dc:date>
+        <title>米大衆紙ニューヨーク・ポスト、西海岸で姉妹紙を２６年に発刊</title>
+        <link>https://www.cnn.co.jp/showbiz/35236407.html?ref=rss</link>
+        <description>米大衆紙ニューヨーク・ポストが、２０２６年前半に西部のカリフォルニア州で姉妹紙「カリフォルニア・ポスト」を発刊すると明らかにした。
+
+カリフォルニア・ポスト紙は、ニューヨーク・ポスト・メディア・グループの下で独立して運営され、本社はロサンゼルスに置く。ニューヨーク・ポスト・メディア・グループは、「メディア王」として知られるルパート・マードック氏が率いるニューズ・コープの傘下にある。
+
+紙面では、ニ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35236407.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/96635294723548dd692bc67b192ad03a/t/768/511/d/large-ap16314500648309.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236392.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T14:31:00+09:00</dc:date>
+        <title>米保健福祉省、ｍＲＮＡワクチン開発の資金を削減</title>
+        <link>https://www.cnn.co.jp/usa/35236392.html?ref=rss</link>
+        <description>米保健福祉省（ＨＨＳ）は５日、ｍＲＮＡ技術を使ったワクチンを「段階的に縮小」していることを明らかにした。今後は生物医学先端研究開発局（ＢＡＲＤＡ）を通じ、別のワクチンプラットフォームへ資金を拠出する方針だという。
+
+ＨＨＳのロバート・ケネディ・ジュニア長官は声明で、ＢＡＲＤＡが２２件のｍＲＮＡワクチン開発向け投資を打ち切る予定だと発表。当該のワクチンは「新型コロナウイルス感染症やインフルエンザの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236392.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/c3173ad076326d682cc8d128e2ff830d/t/768/511/d/large-ap22178768545419.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236395.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T13:48:00+09:00</dc:date>
+        <title>米中西部と北東部で深刻な大気汚染、西部とカナダから山火事の煙</title>
+        <link>https://www.cnn.co.jp/usa/35236395.html?ref=rss</link>
+        <description>米西部と隣国カナダで続く山火事の影響で、米各地で大気汚染が深刻化している。広い範囲が山火事の煙に覆われる状況は、今後もしばらく続きそうだ。
+
+５日には米中西部と北東部の１１州で、カナダの山火事の煙を原因とする大気質警報が出された。４日に比べると煙の濃度は低下したものの、呼吸器疾患のある人や子ども、高齢者にとっては深刻な健康被害の恐れがある。
+
+大規模な山火事は米西部でも続いており、カリフォルニア州...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236395.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/0596cbd26b9c0b855b5d4004d30a574e/t/768/512/d/large-ap25216670721074.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236391.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T13:05:00+09:00</dc:date>
+        <title>レジオネラ菌に５８人が感染、２人死亡　米ＮＹ市</title>
+        <link>https://www.cnn.co.jp/usa/35236391.html?ref=rss</link>
+        <description>米ニューヨーク市でレジオネラ菌の集団感染が確認され、患者は５８人、うち２人が死亡した。市保健局が発表した。
+
+原因と見られるレジオネラ菌は、セントラル・ハーレム地区の建物の屋上に設置された冷却塔から放出されるミストを介して拡散した疑いがある。冷却塔は大型ビルの冷却に用いられ、内部の水が高温になったり、滞留したり、十分に消毒されなかったりすると菌が繁殖し、ミストを吸い込んだ人が感染する可能性がある...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236391.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/76465fa375f90db9a9072736e10a5b5b/t/768/504/d/large-ap25217487211936.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236389.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T12:33:00+09:00</dc:date>
+        <title>米特使がロシア訪問へ、プーチン氏と会談の可能性も　トランプ氏はウクライナ大統領と電話会談</title>
+        <link>https://www.cnn.co.jp/usa/35236389.html?ref=rss</link>
+        <description>トランプ米政権で対ロシア協議の窓口も務めるウィトコフ中東担当特使が６日、ロシア首都モスクワを訪問する。情報筋によれば、ロシア側がウィトコフ氏との会談を要請した。ウクライナ情勢をめぐっては、トランプ大統領はロシアが和平交渉で停戦に応じない場合、ロシアの取引国に制裁として関税を課すと警告している。
+
+ウィトコフ氏はロシア高官と協議を行う予定で、ロシアのプーチン大統領との会談の可能性もあるという。
+
+プ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236389.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/1feed4afe4cae6a54162cd613e4e2316/t/768/511/d/large-ap25194638069345.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236388.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T12:00:00+09:00</dc:date>
+        <title>メキシコ検察官、通りかかった車から銃撃され死亡　瞬間の映像がネットで拡散</title>
+        <link>https://www.cnn.co.jp/world/35236388.html?ref=rss</link>
+        <description>メキシコ北東部のタマウリパス州で、連邦検察の検察官が通りすがりの車から銃撃されて死亡する事件が発生した。この瞬間をとらえた映像がネットに出回って国民に衝撃を与えている。
+
+事件は米国との国境に面したタマウリパス州レイノサで４日に発生。ネットで拡散した映像には道路に座り込む検察官の姿が映っている。この直前、検察官の乗った車が発火していた。その横を白い車が通り過ぎ、数発の銃声が鳴り響く。検察官は地面...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236388.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/4c3e526b8b6bfd37043ce9805e3a947a/t/768/512/d/still-21842024-2850-689486529319-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236383.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T11:31:00+09:00</dc:date>
+        <title>日本への原爆投下から８０年、世界の大国が今なお核の脅威振りかざすなか</title>
+        <link>https://www.cnn.co.jp/world/35236383.html?ref=rss</link>
+        <description>第２次世界大戦末期、広島で核兵器が初めて使用されてから８０年を迎える中、専門家や被爆者らは、核兵器が再び使用される日がこの数十年で最も近づいていると警告している。
+
+広島平和記念公園では６日午前、１９４５年８月６日に米軍のＢ２９爆撃機が原子爆弾「リトルボーイ」を投下した瞬間を追悼した。３日後には長崎が２発目の米軍原子爆弾によって破壊された。式典に参加する被爆者の数は年々減少している。
+
+これらの攻...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236383.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/b5b9c42541bba6af2a6fad94b8aae5ca/t/768/432/d/ap25216527319312.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236382.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T10:44:00+09:00</dc:date>
+        <title>山間部の村を襲った濁流　４人死亡、行方不明者多数　インド</title>
+        <link>https://www.cnn.co.jp/world/35236382.html?ref=rss</link>
+        <description>インド北部ウッタラカンド州で５日、山間部の集落を襲う鉄砲水が発生し、住宅やホテルが押し流されて少なくとも４人が死亡、多数が行方不明になっている。
+
+ヒマラヤ山脈の山麓（さんろく）にあるダーラリ村の現場をとらえた映像には、土石流が山腹を下って集落を突き抜け、住宅などの建物を次々に押し流す様子が映っている。
+
+州によると、発生は現地時間の５日午後１時４５分ごろ。現場は宿泊施設や飲食店なども多く、州は捜...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236382.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/127b5e6ea9e2622de8dbe3041e88450a/t/768/432/d/india-mudslide-newsflare-0805.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236378.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T10:03:00+09:00</dc:date>
+        <title>医療輸送用小型機が墜落、４人死亡　米アリゾナ州先住民居住地</title>
+        <link>https://www.cnn.co.jp/usa/35236378.html?ref=rss</link>
+        <description>米アリゾナ州にある先住民ナバホ族の居住地で５日、医療輸送用の小型機が墜落し、現地の警察によると４人が死亡した。
+
+ナバホ・ネーション警察がフェイスブックに掲載した情報によると、墜落事故は現地時間の午後０時４０分ごろ、同州チンル近郊で発生。同機は患者を搬送するため近くの病院へ向かう途中だった。
+
+米国家運輸安全委員会（ＮＴＳＢ）によると、墜落したのはビーチクラフト３００型機。ＮＴＳＢの調査団が現場へ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236378.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/8df9e71a213463412ee5fa30d78ebf1c/t/768/711/d/528394529-1081671360817212.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236376.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T09:28:00+09:00</dc:date>
+        <title>月面に原発を、中ロに先駆け建設目指す　ＮＡＳＡ暫定長官が指示</title>
+        <link>https://www.cnn.co.jp/fringe/35236376.html?ref=rss</link>
+        <description>米航空宇宙局（ＮＡＳＡ）のショーン・ダフィー暫定長官は、月面に原子炉を建設する計画の実現を急ぐよう指示した。
+
+ＣＮＮが入手した７月３１日付の指令書によると、月面に原子炉を設置して月探査のための電力を確保することで、米国が引き続き中国とロシアの先を行くことを狙う。中ロは２０３０年代半ばまでにこうしたプロジェクトを共同で実現する計画を「少なくとも３回発表している」という。
+
+もしも他国に先行された場...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236376.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/86ad4880e4ac02cf69eaadaff7804a16/t/768/512/d/c-gettyimages-2222903422.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236370.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T08:37:00+09:00</dc:date>
+        <title>遺棄された乳児の親族４人を殺害した容疑で男を逮捕　米テネシー州</title>
+        <link>https://www.cnn.co.jp/usa/35236370.html?ref=rss</link>
+        <description>米テネシー州ジャクソンの警察によると、先週遺棄された乳児の親族４人を殺害した容疑者が５日、１週間にわたる捜索の末に逮捕された。
+
+オースティン・ロバート・ドラモンド容疑者（２８）は５日午前、複数の住民の目撃情報をもとに森林地帯で逮捕された。
+
+同州捜査当局は、「数丁」の銃器を押収したが、殺害に使用されたかどうかは不明。
+
+ドラモンド容疑者は、凶悪なストリートギャングとのつながりが疑われる重罪犯で昨年...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236370.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/b945552f815b76b428006ed5981ef50d/t/768/768/d/image-5-20250805143159927.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236368.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T08:18:00+09:00</dc:date>
+        <title>タイタニック見学ツアーの潜水艇、乗船者は「瞬時」に死亡　米沿岸警備隊報告書</title>
+        <link>https://www.cnn.co.jp/world/35236368.html?ref=rss</link>
+        <description>２０２３年に英豪華客船タイタニック号の残骸を見るツアー中に潜水艇「タイタン」が水圧でつぶれた事故で、米沿岸警備隊の海洋委員会は５日、乗船者は即死だったとする報告書を発表した。
+
+船体がつぶれた原因については、「圧力容器の構造的健全性が失われたこと」が原因と指摘し、これが「船体の壊滅的な圧壊」を引き起こしたと結論づけた。
+
+破損箇所はおそらく、潜水艇の二つの部位をつなぎ合わせる接着接合部か、炭素繊維...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236368.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/6cd8d03a5f7069275bfd4965cc55756c/t/768/512/d/gettyimages-1258975074.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35236364.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T07:21:00+09:00</dc:date>
+        <title>標識無視して遭難した英国人男性に２４０万円の救助費用請求　伊ドロミテ</title>
+        <link>https://www.cnn.co.jp/travel/35236364.html?ref=rss</link>
+        <description>イタリア・ドロミテ山塊で先月３１日に標識を無視して警告柵を越え、ヘリコプターで搬送された英国人男性（６０）に、救助に要した費用１万４２２５ユーロ（約２４０万円）が請求された。国家山岳救助隊（ＣＮＳＡＳ）が明らかにした。費用は救助ヘリコプター２機と十数人の専門救助隊員および支援スタッフの使用料だという。
+
+ＣＮＳＡＳによると、６月２１日から７月２３日の間にイタリアのアルプス山脈とドロミテ山塊で山歩...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35236364.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/535d3b4fd87316f73c60b8ffe5e257ec/t/768/432/d/526059086-1155112113309546-4156824494289884143-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236362.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-06T07:01:00+09:00</dc:date>
+        <title>米下院監視委、司法省にエプスタイン文書の提出求める召喚状　元高官の証言も要求</title>
+        <link>https://www.cnn.co.jp/usa/35236362.html?ref=rss</link>
+        <description>米下院監視委員会は５日、性犯罪で起訴され勾留中に死亡した米富豪、ジェフリー・エプスタイン元被告に関する資料と情報の提供を求め、司法省や民主・共和両党の有力人物を対象に召喚状を発出した。多くの共和党議員がエプスタイン事件を巡る透明性の向上を求める中、大きな動きとなった。
+
+司法省宛ての召喚状では、同省が保有するあらゆる「エプスタイン文書」を被害者名を黒塗りにして議会へ提出するよう要求。また、この事...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236362.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/69b9bcdc3b8fffa93f81dc6bf8039148/t/768/648/d/ap25181618363746.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236338.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-05T20:00:00+09:00</dc:date>
+        <title>【分析】ウクライナは今やトランプ氏の戦争</title>
+        <link>https://www.cnn.co.jp/world/35236338.html?ref=rss</link>
+        <description>始めたのはロシアのプーチン大統領だった。バイデン前米大統領もそれを止めなかった。しかし、どれほどその流れに対抗しようとしても、この１週間でロシアによるウクライナ侵攻はトランプ現米大統領の戦争になる。
+
+世界で最も強大な力を持つ役職も、常に選択権を行使できるとは限らない。トランプ氏は第２次世界大戦以降で起きた欧州最大の紛争に対処する義務を負う。米国は同氏の前任者の下、ウクライナの主要な提携国、資金...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236338.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/05/ee7eed36aae61ebc1d26bb907931aed9/t/768/511/d/large-gettyimages-2225437135.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35236356.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-05T19:00:00+09:00</dc:date>
+        <title>ジャガーの「問題」にまつわる誤った認識</title>
+        <link>https://www.cnn.co.jp/business/35236356.html?ref=rss</link>
+        <description>１年近く前、英高級車ブランドのジャガーはブランドアイデンティティーの刷新を発表した。それは同社の未来を告げるものになるとみられていたが、これまでのところ、主に頭痛の種となっている。
+
+１０２年の歴史を持つジャガーは、上記のアイデンティティー刷新を謳（うた）った広告キャンペーン開始前から既に問題に悩まされていた。経営陣の交代、新味のないラインアップによる売り上げ減少、そしてドイツの高級車メーカーや...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35236356.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/05/11f46ba99dcd145120419643884230cd/t/768/511/d/ap25194402860242_w1200.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35236345.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-05T18:19:00+09:00</dc:date>
+        <title>リトアニアの奥深い森に隠された、旧ソ連の核ミサイル基地を訪ねる</title>
+        <link>https://www.cnn.co.jp/travel/35236345.html?ref=rss</link>
+        <description>リトアニア北西部、バルト海東岸から約５０キロ離れたジェマイティア国立公園は、湖や湿地、古い村が点在するのどかな土地だ。ここにかつて、「プロクシュティネ・ミサイル基地」と呼ばれるソビエト連邦の秘密基地があった。
+
+基地はその後「冷戦博物館」に改修され、今では園内随一の観光名所となった。昨年は世界各地から３万５０００人が訪れた。
+
+来訪者をまず出迎えるのは、数本の有刺鉄線だ。続いて、森の緑と対照的な４...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35236345.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/05/0bff628e8407008eb6683a725e237a6d/t/768/432/d/a-silicon-mannequin-at-the-underground-corridor-of-the-missile-base.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236348.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-05T17:23:00+09:00</dc:date>
+        <title>エプスタイン事件、大陪審証言の公開請求は「政治闘争」　被害者が非難</title>
+        <link>https://www.cnn.co.jp/usa/35236348.html?ref=rss</link>
+        <description>性犯罪で起訴され拘置所で死亡した米富豪、ジェフリー・エプスタイン元被告による虐待の被害者２人が、裁判所に提出した書簡の中で司法省による大陪審証言の公開請求を非難した。トランプ大統領とその政権が自分たちへの敬意を欠いているとの見方にも言及した。
+
+４日に提出された書簡の中で、被害者２人は共に匿名となっている。このうちの一人は、いわゆるエプスタイン文書に関する最近の対応を「政治闘争」だと主張する。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236348.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/05/de9168aee17a0a696242d1c2d4bda7fa/t/768/511/d/c-usatsi-15933805_1200.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35236355.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-05T17:18:00+09:00</dc:date>
+        <title>ゴルフ全英女子オープン、山下美夢有が初優勝</title>
+        <link>https://www.cnn.co.jp/showbiz/35236355.html?ref=rss</link>
+        <description>女子ゴルフの今季メジャー最終戦、ＡＩＧ全英女子オープンは３日、英ポースコールのロイヤル・ポースコール・ゴルフクラブで最終ラウンドが行われ、山下美夢有（２４）が通算１１アンダーで優勝を遂げた。
+
+２位のチャーリー・ハル（イングランド）、勝みなみに２打差だった。２４歳の誕生日の翌日に訪れたメジャー初制覇でもあった。
+
+山下選手は最終ラウンドをほぼノーミスで乗り切った。１７番でボギーをたたいたものの危な...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35236355.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/05/6e95941acddc6d48e6b16fdee03529c1/t/768/511/d/ap25216230699636_1200.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
