@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-08-14T08:06:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236664.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236662.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236660.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236659.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236655.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236652.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236658.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236657.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236656.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236648.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236650.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236647.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35236643.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236646.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35236641.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236640.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236638.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236635.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236632.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236630.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236625.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35236622.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236620.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236621.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236609.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236618.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236612.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236563.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35236614.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236608.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35236664.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-14T08:06:00+09:00</dc:date>
+        <title>トランプ氏は無条件停戦迫る意向か、ウクライナの領土については交渉せず　欧州外交官</title>
+        <link>https://www.cnn.co.jp/world/35236664.html?ref=rss</link>
+        <description>トランプ米大統領は１５日にロシアのプーチン大統領と会談する際、ウクライナでの無条件停戦を迫る意向とみられる。トランプ氏が欧州首脳と行った電話会談の内容に詳しい欧州の外交官２人が明らかにした。
+
+複数の当局者によると、トランプ氏は「無条件」という言葉こそ使わなかったものの、停戦が成立すればそれはロシアからの善意の表れだとの考えを示した。また、ウクライナの領土については自身が交渉する立場にないとの認...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236664.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/14/17761bb5eac0b234af28c251b2c1fdd7/t/768/512/d/gettyimages-2229177827.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236662.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-14T07:06:00+09:00</dc:date>
+        <title>米政権、首都への州兵配備を強化　２４時間体制に</title>
+        <link>https://www.cnn.co.jp/usa/35236662.html?ref=rss</link>
+        <description>米首都ワシントンへの州兵の配備が１３日夜から強化される。ホワイトハウス関係者が明らかにした。
+
+この関係者によると、「かなりの数」の州兵が配備されることが予想され、現在の夜間のみの配置から２４時間体制になるという。ワシントンでは装甲兵員輸送車５台がワシントン記念塔の近くに駐留するなど、１２日から州兵の姿が見られるようになっている。
+
+トランプ大統領は１１日にワシントンの警察を連邦政府の管理下に置く...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236662.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/14/8a357fd0205a6aa25ad6877d1816f1c4/t/768/512/d/2025-08-13t001624z-1019732776-rc206gatxs02-rtrmadp-3-usa-trump-crime.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236660.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-14T06:22:00+09:00</dc:date>
+        <title>トランプ氏、停戦拒めばロシアは「厳しい結果」に直面　首脳会談前に圧力</title>
+        <link>https://www.cnn.co.jp/usa/35236660.html?ref=rss</link>
+        <description>トランプ米大統領は１３日、米アラスカ州で１５日に予定されている米ロ首脳会談でロシアのプーチン大統領がウクライナとの停戦に同意しなければ、ロシアは「厳しい結果」に直面することになると述べた。
+
+トランプ氏はまた、会談がうまく運んだ場合、ウクライナのゼレンスキー大統領を交えた３者会談を「早急に」設定する用意があると明らかにした。
+
+これより前にトランプ氏はゼレンスキー氏や欧州各国の首脳らと電話会談を行...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236660.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/14/56235a78070232e225175d0e73741b02/t/768/512/d/ap25225544908289.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236659.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-14T01:06:00+09:00</dc:date>
+        <title>ＥＵ首脳、トランプ氏、ゼレンスキー氏が電話会談　米ロ会談控える中</title>
+        <link>https://www.cnn.co.jp/world/35236659.html?ref=rss</link>
+        <description>欧州各国の当局者、ウクライナのゼレンスキー大統領、そして米国のトランプ大統領との間で１３日、電話会談が行われた。
+
+会談後、ゼレンスキー氏と共に記者会見に臨んだドイツのメルツ首相は、１５日に予定されているトランプ氏とロシアのプーチン大統領との会談が「正しい方向に進むよう」、欧州各国の首脳が全力を尽くしていると述べた。
+
+会談後のコメントで、ゼレンスキー氏は「まず停戦、そして安全の保証、真の安全の保...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236659.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/14/c99b3478922a17738b98389d43c45721/t/768/511/d/gettyimages-2229156737.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236655.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T20:45:00+09:00</dc:date>
+        <title>インドネシア・スラウェシ島で見つかった石器、古代人類の謎を解く新たな手掛かりか</title>
+        <link>https://www.cnn.co.jp/fringe/35236655.html?ref=rss</link>
+        <description>インドネシアのスラウェシ島で原始の鋭利な刃物が発見されたことで、「ワラセア」として知られる地域に住んでいた謎の古代人類に関する進化のパズルに新たなピースが加わった。
+
+ワラセアはアジアとオーストラリアの間にある島々からなり、その中で最大の島がスラウェシ島だ。研究者は以前、「フローレス原人」と呼ばれる珍しい小柄な人類種が７０万年前から約５万年前まで、近くのフローレス島に生息していたという証拠を発見...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236655.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/eb73b85c2982c7dc70da1900fb6d4d50/t/768/511/d/large-stone-tools-from-calio.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236652.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T20:15:00+09:00</dc:date>
+        <title>極端な暑さが熱帯鳥類脅かす、手つかずの森林でも危険　科学者が警告</title>
+        <link>https://www.cnn.co.jp/fringe/35236652.html?ref=rss</link>
+        <description>中南米の熱帯雨林からオーストラリア北部のサバンナに至るまで、世界の赤道地域には、コンゴウインコ、オオハシ、ハチドリなど、高温多湿の環境で繁栄する数千種もの固有の鳥類が生息している。
+
+しかし、気候変動が加速するにつれ、熱帯地域では４０年前と比べて危険なほど暑い日の数が１０倍に増加しており、世界で最も色鮮やかな鳥類の生存が脅かされていることが、新たな研究で明らかになった。
+
+ネイチャー・エコロジー・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236652.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/acc80eae8f59391a1966173b5978e618/t/768/512/d/shutterstock-editorial-15339177a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236658.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T19:45:00+09:00</dc:date>
+        <title>ゼレンスキー氏、ベルリンに到着　オンラインでトランプ氏と会談へ</title>
+        <link>https://www.cnn.co.jp/world/35236658.html?ref=rss</link>
+        <description>ウクライナ国営メディア「ウクルインフォルム」によると、ゼレンスキー大統領は１３日、独ベルリンに到着し、トランプ米大統領と欧州各国首脳の間で開かれるオンライン会議に参加する予定だ。
+
+このビデオ会議の２日後、トランプ氏はアラスカでロシアのプーチン大統領と会談し、ウクライナにおけるクレムリン（ロシア大統領府）の戦争終結について話し合う。
+
+プーチン氏は、アラスカ州都アンカレッジの北端にあるエルメンドル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236658.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/7dc9f69714347b1af517e34f371a4e11/t/768/512/d/2025-07-10t165905z-229686325-rc2sjfagffcf-rtrmadp-3-ukraine-crisis-reconstruction.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236657.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T19:14:00+09:00</dc:date>
+        <title>【分析】フィリピン船追跡で「行き過ぎ」、中国の艦船２隻が損傷　さらに深刻な事態になり得た理由</title>
+        <link>https://www.cnn.co.jp/world/35236657.html?ref=rss</link>
+        <description>排水量数千トンの艦船２隻が衝突する事態を「幸運」と呼ぶのは難しいが、南シナ海での今週の出来事について、専門家はまさにそう評している。中国海警局の船が人民解放軍海軍の誘導ミサイル駆逐艦に衝突し、船首が大きく損傷した。
+
+フィリピン沿岸警備隊が公開した映像には、衝突の瞬間が捉えられており、中国海警局船の船首の主要部分が失われた様子が確認できる。
+
+フィリピン沿岸警備隊のジェイ・タリエラ准将によると、衝...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236657.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/bea0a015b18a7825412caf9ea42423d2/t/768/432/d/scs-collision-16x9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236656.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T18:13:00+09:00</dc:date>
+        <title>ポケモンカード目当てにセット大量購入、食品廃棄が問題に　日本マクドナルド</title>
+        <link>https://www.cnn.co.jp/world/35236656.html?ref=rss</link>
+        <description>先週末、日本のマクドナルド店舗外の歩道には、セットメニューの食べ残しが山積みの状態で廃棄された。熱心な客たちが、人気のポケモンカード付きの限定セットに殺到した結果だった。
+
+マクドナルドとポケモンのコラボレーション企画は、９日に開始されてからわずか数時間で終了した。転売目的で限定カードセットを入手しようと、客がセットメニューの「ハッピーセット」を大量注文。食べ物の方を丸々捨ててしまう事態となった...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236656.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/14130e1a4f2579b5f532ae5d73bcd8a9/t/768/512/d/image001-20250813042704293.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236648.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T16:30:00+09:00</dc:date>
+        <title>深さ９５００メートルに及ぶ超深海帯で生態系を発見、光のない極限環境で繁栄</title>
+        <link>https://www.cnn.co.jp/fringe/35236648.html?ref=rss</link>
+        <description>超深海を探査する海洋研究者らのチームが、ロシアと米アラスカ半島の間に位置する海溝での潜水艇調査で、海底に生物群を発見した。太陽光エネルギーを使う「光合成」の代わりに、海底の割れ目から湧き上がるガスを使って有機物を合成する「化学合成」の生態系としては、最も深い場所での観測とされる。
+
+中国科学院深海科学・工程研究所の杜夢然（ドゥモンラン）研究員らが先月３０日、英科学誌ネイチャーに発表した。
+
+ドゥ氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236648.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/61ccd3ac1937945dcf463ea17120b71c/t/768/512/d/figure-5.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236650.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T15:33:00+09:00</dc:date>
+        <title>トランプ米政権、スミソニアン博物館に見直し通告　大統領の見解に沿った展示の徹底へ</title>
+        <link>https://www.cnn.co.jp/usa/35236650.html?ref=rss</link>
+        <description>米国立博物館を運営するスミソニアン協会の展示内容や収蔵品について、ホワイトハウスが包括的な見直しを行うと通告した。狙いは博物館で展示すべきものとすべきではないものについて、ドナルド・トランプ大統領の指示に従わせることにある。
+
+トランプ政権高官はスミソニアン協会のロニー・バンチ事務局長に宛てた１２日の書簡の中で、調査の目的について「米国の例外主義をたたえ、分断的あるいは党派の偏る表現を排除し、我...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236650.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/2af9b559ef42df1c352b7fcbe3f9e79e/t/768/432/d/ap151555834555.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236647.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T13:35:00+09:00</dc:date>
+        <title>イスラエル軍、援助活動家装った武装集団を空爆と発表　ガザ中部</title>
+        <link>https://www.cnn.co.jp/world/35236647.html?ref=rss</link>
+        <description>イスラエル軍は、援助活動家を装った武装集団を空爆したと明らかにした。武装集団が使用していた車両には、米国に拠点を置く非営利団体ワールド・セントラル・キッチン（ＷＣＫ）のロゴが描かれていたという。
+
+イスラエル国防軍（ＩＤＦ）は１２日に声明を発表。先週行われたこの空爆で「武装テロリスト５人」が死亡したと述べている。
+
+ＩＤＦが公開した動画には、少なくとも８人の人物が黄色いベストを着て、ＷＣＫのロゴが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236647.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/54ad527718938cfefdb52593b13f9356/t/768/432/d/still-21861717-28047-988041204437-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35236643.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T12:55:00+09:00</dc:date>
+        <title>トランプ氏、ゴールドマンＣＥＯに新たなエコノミスト雇うよう提言　関税コストにまつわる同行の報告受け</title>
+        <link>https://www.cnn.co.jp/business/35236643.html?ref=rss</link>
+        <description>米投資銀行ゴールドマン・サックスのトップエコノミストが、関税引き上げによる物価上昇の負担は間もなく主に消費者に転嫁されるだろうという調査結果を発表してから数日後、トランプ大統領は同行のデービッド・ソロモン最高経営責任者（ＣＥＯ）に対し、新しいエコノミストを起用するよう促している。
+
+「関税はインフレを引き起こしていない。その他米国にとってどんな問題も起きていない。巨額の現金が財務省に流入している...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35236643.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/9be9a0f7ede0c6ca82fd3679fc06fabb/t/768/512/d/gettyimages-2224716121.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236646.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T12:35:00+09:00</dc:date>
+        <title>３年連続で氷河の決壊、洪水に警戒呼びかけ　米アラスカ州</title>
+        <link>https://www.cnn.co.jp/usa/35236646.html?ref=rss</link>
+        <description>米アラスカ州で氷河の決壊が発生し、３年連続となる記録的な洪水の発生が予想されるとして、当局が警戒を呼びかけている。
+
+州南東部ジュノーの当局は１２日、スーサイド盆地で氷河の決壊があり、メンデンホール湖とメンデンホール川の流域で１２日から１３日にかけて洪水の発生が予想されると発表した。浸水が予想される地域の住民に対しては避難を呼びかけている。
+
+氷河湖の決壊は、雪解け水や氷、雨水で湖の水位が上昇し、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236646.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/0351013ab4defd5f84e32d2c9a8d2ff0/t/768/432/d/noaa-alaska.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35236641.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T12:02:00+09:00</dc:date>
+        <title>創業１３３年の米コダック、事業停止の危機か</title>
+        <link>https://www.cnn.co.jp/business/35236641.html?ref=rss</link>
+        <description>創業１３３年の写真メーカー、イーストマン・コダックは１１日の決算報告で、約５億ドル（約７４０億円）に上る債務を返済するための「確約された融資または利用可能な流動性」がないと述べた。「こうした状況は、当社の企業としての継続能力に重大な疑義を生じさせる」としている。
+
+コダックは、退職年金制度への支払いを停止することで現金を捻出することを目指している。関税については、カメラやインク、フィルムなど多く...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35236641.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/ea41b499a50f347a4bc93a34452834f8/t/768/432/d/2012-01-10t120000z-577591873-gm1e81b0hjr01-rtrmadp-3-kodak_1200x675.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236640.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T11:22:00+09:00</dc:date>
+        <title>イスラエル軍のパレスチナ人に対する性暴力、国連報告書に記載の可能性　事務総長が通告</title>
+        <link>https://www.cnn.co.jp/world/35236640.html?ref=rss</link>
+        <description>国連のアントニオ・グテーレス事務総長がイスラエルに対し、国連がまとめている性暴力に関する次回報告書で、イスラエル軍と治安部隊による性暴力に言及する可能性があると通告した。
+
+グテーレス事務総長はイスラエルのダニー・ダノン国連大使に宛てた１１日の書簡で、「イスラエル軍と治安部隊を次の報告書に記載する可能性があることを通告する。国連によって繰り返し記録されている特定の形態の性暴力について重大な懸念が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236640.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/5ad536cfdbac30c5a112328d3c7e9e0a/t/768/512/d/gettyimages-2218892365-20250812151630451.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236638.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T10:41:00+09:00</dc:date>
+        <title>中国の艦船同士が衝突、瞬間の映像公開　南シナ海でフィリピン船を追跡中</title>
+        <link>https://www.cnn.co.jp/world/35236638.html?ref=rss</link>
+        <description>中国人民解放軍海軍の軍艦と中国海警局の巡視船が高速で衝突した瞬間の映像が、このほど公開された。
+
+今回の衝突が発生したのは、中国の巡視船が南シナ海でフィリピン沿岸警備隊の巡視船を追跡していた時のこと。この際、中国の巡視船は突然、中国海軍の艦艇に突っ込んだ。
+
+中国政府は、中国の艦船はいずれも合法的に行動していたと述べ、衝突には一切触れなかった。
+
+一方、フィリピン側は危険な動きだったと指摘。中国船に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236638.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/ea2f92f859ea0a3bddcd27d0158f9f49/t/768/432/d/scs-collision-16x9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236635.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T10:01:00+09:00</dc:date>
+        <title>米首都ワシントンの治安は中南米より悪い？　トランプ大統領の主張は本当か</title>
+        <link>https://www.cnn.co.jp/usa/35236635.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領が首都ワシントンの治安について、中南米のメキシコ市やボゴタ（コロンビア）、リマ（ペルー）よりも殺人事件の発生率が高いと主張している。
+
+トランプ大統領は１１日の記者会見で、首都警察を連邦政府の直轄下に置き、州兵８００人を派遣して「首都を取り戻す」と発表した。
+
+その上で、「ワシントンの殺人事件発生率は、世界最悪といわれるコロンビアのボゴタやメキシコ市などよりも高い」と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236635.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/845be13a227ef9f54d8df772578af270/t/768/481/d/gettyimages-96263851.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236632.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T09:24:00+09:00</dc:date>
+        <title>ピークを迎えたペルセウス座流星群、観測のポイントは　ＮＡＳＡ流星責任者が解説</title>
+        <link>https://www.cnn.co.jp/fringe/35236632.html?ref=rss</link>
+        <description>１年の中でも特に見事な流星群、「ペルセウス座流星群」がついに見ごろを迎えた。
+
+ペルセウス座流星群は長い尾を引く明るい流星を大量に生み出すことで知られ、今年は米東部時間１２日午後４時（日本時間１３日午前５時）にピークに達する。
+
+例年は１時間におよそ４０～５０個の流星が生み出されるが、米航空宇宙局（ＮＡＳＡ）流星体環境室の責任者ビル・クーク氏によると、今年は夜空を見上げてもそれほど多くは見えないと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236632.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/866b38cc18fa7b124142e9424965c8f8/t/768/512/d/gettyimages-2166009919.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236630.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T08:50:00+09:00</dc:date>
+        <title>欧州各地で記録的な山火事、市長は「生きたまま焼かれている」と訴え　スペインでは４３度越え予想</title>
+        <link>https://www.cnn.co.jp/world/35236630.html?ref=rss</link>
+        <description>欧州大陸の山火事による焼失面積が今年に入り、過去１９年間で最大となっている。ＣＮＮが欧州森林火災情報システムのデータを分析して明らかになった。
+
+フランス、スペイン、アルバニア、ポルトガル、ギリシャを含む欧州大陸の広い地域では気温が３７度を超え、猛烈な山火事が発生している。
+
+欧州での山火事は珍しくないが、気候危機による気温の上昇と乾燥の深刻化が山火事の激しさを助長している。
+
+これまでに約９７万ヘ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236630.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/7f000cb4985e035305c920e05dfe149d/t/768/512/d/gettyimages-2228893493.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236625.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T07:39:00+09:00</dc:date>
+        <title>ロシア軍、ドネツク州でウクライナの防御突破　米ロ首脳会談前に領土奪取する狙いか</title>
+        <link>https://www.cnn.co.jp/world/35236625.html?ref=rss</link>
+        <description>ロシア軍の小規模部隊がウクライナ東部ドネツク州の防御を一部突破したことが、地元当局者の話から明らかになった。ロシアは１５日に予定されるプーチン大統領とトランプ米大統領の会談を前に、可能な限り多くの領土の奪取しようと最後の追い込みをかけているとみられる。
+
+ウクライナの戦況監視団体ディープステートも１２日、ロシア軍がドブロピッリャへ向け進軍を進めていると報告した。ドブロピッリャは、ロシアが１年以上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236625.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/d8883ed32eda4256484b2c0c1f7a8f68/t/768/512/d/2025-08-07t064002z-1233079642-rc2z0gaj8fow-rtrmadp-3-ukraine-crisis-frontline-20250812135448646.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35236622.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T07:21:00+09:00</dc:date>
+        <title>トランプ氏、パウエル議長の提訴を検討　ＦＲＢの建物改修めぐり</title>
+        <link>https://www.cnn.co.jp/business/35236622.html?ref=rss</link>
+        <description>ホワイトハウスのレビット報道官は１２日、トランプ大統領が連邦準備制度理事会（ＦＲＢ）のパウエル議長を提訴することを検討していると述べた。
+
+レビット氏の発言は、トランプ氏が１２日に「パウエル氏に対する大規模な訴訟の提起を認めることを検討している」と投稿したことを受けてのもの。
+
+トランプ氏は自身のＳＮＳに「幸いにも経済はきわめて好調で、我々はパウエル氏と自己満足に浸るＦＲＢを乗り越えた。しかしパウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35236622.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/0d1c096bc59a486262e33f28ed90d96e/t/768/512/d/gettyimages-2227060861.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236620.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T06:23:00+09:00</dc:date>
+        <title>ゼレンスキー氏、東部ドンバス地方の割譲を拒否　「新たな侵攻につながる」</title>
+        <link>https://www.cnn.co.jp/world/35236620.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は１２日、ロシア側が近く停戦と引き換えに要求するとみられるウクライナ東部ドンバス地方の割譲を拒否すると述べた。ドンバス割譲はロシアのプーチン大統領がウクライナで「３度目の戦争を開始する」ことにつながると指摘した。
+
+ゼレンスキー氏によると、米国、ウクライナ、そして「欧州全ての国」による話し合いが１３日に行われるという。
+
+ウクライナとロシアの戦争をめぐっては、停戦の仲...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236620.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/dbf72ae57248279665bcf94b56b19135/t/768/528/d/2025-06-10t084948z-2107073715-rc2jyea4inhu-rtrmadp-3-ukraine-crisis-east-frontline.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236621.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-13T06:20:00+09:00</dc:date>
+        <title>米ロ首脳会談、目的は「意見の聴取」　米アンカレジで１対１で開催へ</title>
+        <link>https://www.cnn.co.jp/world/35236621.html?ref=rss</link>
+        <description>米ホワイトハウスのレビット報道官は１２日、トランプ米大統領が１５日にロシアのプーチン大統領と会談する目的は意見の聴取だと述べ、和平合意への期待を牽制（けんせい）した。また、会談にはウクライナのゼレンスキー大統領は出席しないとの見方を示した。
+
+レビット氏によると、会談は米アラスカ州最大都市アンカレジで行われ、両首脳が高官などを同席させずに２人で協議する見通しという。
+
+会談の目的を意見の聴取とした...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236609.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-12T20:00:00+09:00</dc:date>
+        <title>長寿の鍵は毎日１５分の早歩き、週１５０分の中程度の運動と同じ効果か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35236609.html?ref=rss</link>
+        <description>忙しくてジムにいけない人も心配いらない。毎日の習慣に少なくとも１５分の早歩きを取り入れることで健康を維持できるとの研究結果が発表された。
+
+一般的に、十分な健康の効果を得るには週に１５０分程度の中程度の運動を行うことが推奨されている。今回の研究の著者で、バンダービルト大学のウェイ・ジャン博士が明らかにした。だが、１５０分を維持することが難しい場合には毎日少なくとも１５分の早歩きをすることで同様の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236609.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/12/893bc68caf035db24b07eb404cce2e86/t/768/437/d/gettyimages-1192508928.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236618.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-12T17:53:00+09:00</dc:date>
+        <title>氷河の後退で南極研究者の遺体発見、６６年前に行方不明</title>
+        <link>https://www.cnn.co.jp/world/35236618.html?ref=rss</link>
+        <description>６６年前に南極の氷河のクレバスに転落した英国人研究者の遺体が回収された。英国南極観測局（ＢＡＳ）が明らかにした。
+
+当時２５歳だったデニス・ベル氏は、１９５９年７月２６日、南極半島の北に位置するサウス・シェトランド諸島の一つ、キング・ジョージ島のエコロジー氷河を登っている最中に氷の中に姿を消した。ベル氏は最初の転落（推定３０メートル）を生き延びたものの、救出は失敗。その後行方不明となった。
+
+ＢＡ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236618.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/12/9849bba5ccaf76f462ffd7ea4ee7eeed/t/768/677/d/sipausa-63247930.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236612.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-12T17:51:00+09:00</dc:date>
+        <title>【分析】首都ワシントンへの州兵派遣が極めて常軌を逸している二つの理由</title>
+        <link>https://www.cnn.co.jp/usa/35236612.html?ref=rss</link>
+        <description>過去数年の様子から、トランプ米大統領は米国国内での軍隊派遣を本気で望んでいるように思える。後はそれを実行に移す適切な機会を探っているだけなのではないか。
+
+ここへ来て状況はエスカレートしている。それもトランプ氏の打つ手がどれほど異常かつ緊迫感に満ちたものかを裏付ける形で。
+
+トランプ氏は１１日、首都ワシントンの警察を連邦政府の管理下に置くとともに、市内に州兵を派遣すると発表した。首都での犯罪に対処...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236612.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/12/f4ffc58cb678ccdc9597783bbc843184/t/768/512/d/c-gettyimages-2229562944.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236563.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-12T16:53:00+09:00</dc:date>
+        <title>８０歳なのに５０歳並みの脳機能、「スーパーエイジャー」の脳が衰えない理由は？</title>
+        <link>https://www.cnn.co.jp/fringe/35236563.html?ref=rss</link>
+        <description>人間の脳は加齢とともに萎縮（いしゅく）し、記憶力に影響が出る――。これは人生の一部だ。しかし、「スーパーエイジャー」と呼ばれる一握りの幸運な人たちは、衰えに抵抗する脳を持つ。こうした人の記憶は３０年以上前と変わらず鮮明に保たれている。
+
+米シカゴ郊外パラタインに住むキャロル・シーグラーさんは、スーパーエイジャーだ。８２歳のとき、年代別の全米クロスワードパズル大会で優勝した。本人によれば、「冗談で」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236563.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/10/c52559291450179288df534d3c8b12d1/t/322/432/d/img-5942.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35236614.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-12T15:35:00+09:00</dc:date>
+        <title>イーロン・マスク氏、米アップルに法的措置へ　アプリのランキングで「独禁法違反」</title>
+        <link>https://www.cnn.co.jp/tech/35236614.html?ref=rss</link>
+        <description>米実業家イーロン・マスク氏は１１日、自身の人工知能（ＡＩ）新興企業ｘＡＩが、米アップルに対して法的措置を取ると明らかにした。マスク氏は、アップルがアプリストアのランキングをめぐって競合他社を優遇しており、このことが反トラスト法（独占禁止法）に違反していると主張している。
+
+マスク氏は所有するＳＮＳ「Ｘ」に、一連の投稿を行い、アップルがモバイルアプリのランキングで、ｘＡＩの競合である米オープンＡＩ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35236614.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/12/bbddcd4b6903567b6710603973528477/t/768/511/d/large--3-usa-trump-gulf-investment.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236608.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-12T15:00:00+09:00</dc:date>
+        <title>ヒトゲノムに取り込まれた古代ウイルスのＤＮＡ、人間の進化に重要な役割か</title>
+        <link>https://www.cnn.co.jp/fringe/35236608.html?ref=rss</link>
+        <description>ヒトのゲノム（全遺伝情報）は人間の設計図ともいえる２３対の染色体から構成される。その染色体に格納されているＤＮＡのうち約８％は古代ウイルスに由来し、人類が進化する過程でゲノムに取り込まれた。
+
+古代ウイルスの断片は、「動くＤＮＡ」とも呼ばれる転移因子（ＴＥ）のひとつ。ＴＥは、自身をコピーしてゲノム上の別の場所に挿入できる。ヒトゲノムの半分近くを占め、かつては生物学的な機能を持たない「ジャンク（が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236608.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/12/3687b0c6cddb6b0d2711c66b1de9cde4/t/768/432/d/gettyimages-2148703240.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
