@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-08-17T16:47:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236742.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236749.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236748.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236747.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236746.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236745.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236744.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236743.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236741.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236740.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236739.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236420.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236738.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236736.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236737.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236733.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35236735.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236731.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236734.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236732.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236730.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236729.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236726.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236725.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35236722.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236720.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35236718.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236716.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236714.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35236712.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236742.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-17T16:47:00+09:00</dc:date>
+        <title>疫病が４０００年前に欧州からアジアへ謎の蔓延、原因を解明か</title>
+        <link>https://www.cnn.co.jp/fringe/35236742.html?ref=rss</link>
+        <description>古代のユーラシア大陸では、ある疫病が数千年にわたって繰り返し発生し、急速に広まった。ネズミに寄生する感染したノミにかまれることで人間にも広がるペストは、１４世紀には「黒死病」として悪名をはせた。ノミにかまれることが現在でも最も一般的な感染経路だ。
+
+青銅器時代のころは、ペスト菌である「エルシニア・ペスティス」は、後の系統がノミによって拡散することを可能にする遺伝子ツールをまだ開発していなかった。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236742.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/0c79480d07d8677f8a19c46419980cc1/t/768/431/d/thumbnail-excavation.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236749.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-17T16:15:00+09:00</dc:date>
+        <title>ハリケーン「エリン」、急速に勢力強める　大西洋を北上</title>
+        <link>https://www.cnn.co.jp/world/35236749.html?ref=rss</link>
+        <description>大西洋で発生したハリケーン「エリン」が、記録的な速さで急速に勢力を強め、カリブ海を北上している。
+
+エリンは１６日、勢力が一時は５段階で一番上の「カテゴリー５」に発達し、その後「カテゴリー４」となってカリブ海北方の大西洋を進んでいる。１５日午前１１時には風速約３３メートルの「カテゴリー１」だったが、２４時間あまりで風速約７１メートルに迫るカテゴリー５に達した。これにより、エリンは、記録上最も急速...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236749.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/17/df37075e4bdee5fa6791647290723dd2/t/768/432/d/still-21872432-2861204-253-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236748.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-17T15:38:00+09:00</dc:date>
+        <title>米国人の飲酒率、過去最低に　過半数が「アルコールは健康に悪い」と回答</title>
+        <link>https://www.cnn.co.jp/fringe/35236748.html?ref=rss</link>
+        <description>今週発表された米ギャラップの最新の世論調査で、米国人の飲酒率が過去最低になったことが分かった。アルコール飲料を飲むと答えた人は５４％にとどまった。
+
+ギャラップは１９３９年から米国人の飲酒行動を調査しており、２００１年からは健康への影響に関する認識も尋ねている。今回初めて、過半数に当たる５３％の米国人が「１日１～２杯の適度な飲酒も健康に悪い」と回答した。
+
+アルコール消費の傾向を研究するコロンビア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236748.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/17/2a807a6b45f48957aac658b07362ae2a/t/768/540/d/gettyimages-1308615816.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236747.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-17T14:22:00+09:00</dc:date>
+        <title>インドやパキスタンを襲った洪水、死者４００人超に</title>
+        <link>https://www.cnn.co.jp/world/35236747.html?ref=rss</link>
+        <description>パキスタンや、インドが実効支配するカシミール地方、ネパールで発生した豪雨による鉄砲水や洪水で、少なくとも４００人以上が死亡した。各国当局が明らかにしたもので、行方不明者も多数にのぼっている。
+
+パキスタン北西部では４８時間の間に少なくとも３２１人が死亡した。現地当局が１６日に明らかにした。カイバル・パクトゥンクワ州ブネルでは１０を超える集落が鉄砲水で壊滅的な被害を受けた。
+
+道路の流失や地滑りで救...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236747.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/17/ed3e51854a7ef29857fd680c7c096a23/t/768/513/d/large-dp-3-asia-weather-india-flood.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236746.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-17T13:15:00+09:00</dc:date>
+        <title>ゼレンスキー氏、数日内のロシア軍の攻撃激化を警告</title>
+        <link>https://www.cnn.co.jp/world/35236746.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は１６日、ＳＮＳ「Ｘ」への新たな投稿で戦況を伝えるとともに、今後数日のうちにロシア軍による攻撃が激化する可能性があると警告した。
+
+ゼレンスキー大統領は「ウクライナを取り巻く政治的・外交的状況、そしてロシアの裏切りの常とう手段を踏まえると、今後数日のうちにロシア軍はウクライナ側陣地への圧力や攻撃を強め、国際社会との交渉に有利な政治的環境をつくろうとする可能性がある」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236746.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/17/dcb960d0b4a92480f7bf8fa5c65b7567/t/768/519/d/large-madp-3-ukraine-crisis-attack-kyiv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236745.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-17T12:29:00+09:00</dc:date>
+        <title>迅速な和平合意、「停戦よりも価値」がある可能性　独首相</title>
+        <link>https://www.cnn.co.jp/world/35236745.html?ref=rss</link>
+        <description>ドイツのメルツ首相は１７日、ロシアとウクライナの迅速な和平合意は「停戦よりも価値がある」可能性があるとの見方を示した。
+
+メルツ首相は独公共放送ＺＤＦのインタビューで、米国のトランプ大統領が１８日にウクライナのゼレンスキー大統領と会談した後、和平合意に達するために、ロシアのプーチン大統領を交えた３者会談を「できるだけ早く」開催すべきだと述べた。
+
+「もしそれがうまくいけば、政治的、外交的な努力がさ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236745.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/17/555dd0fcdab31b4a40494d907e1076b9/t/768/511/d/large-rtrmadp-3-ukraine-crisis-trump-europe.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236744.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-17T12:16:00+09:00</dc:date>
+        <title>早産児２人が相次いで死亡、食器用洗剤の汚染が原因か　イタリア</title>
+        <link>https://www.cnn.co.jp/world/35236744.html?ref=rss</link>
+        <description>イタリア北部ボルツァーノ市のサン・マウリツィオ病院で、生後間もない早産児２人が相次いで死亡した。食器用洗剤が原因とみられる汚染の可能性があるとして、当局は刑事事件として捜査を開始した。
+
+新生児が死亡したのは今月１２日と１３日。生後３週間の新生児２人で、妊娠２３週と２７週で誕生し、体重はいずれも約７００グラムだった。「セラチア・マルセッセンス菌」による感染と診断された。この菌は水や土壌、植物、動...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236744.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/17/0ec432254672c1eebb95cfa64b32224f/t/768/512/d/large-001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236743.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-17T11:52:00+09:00</dc:date>
+        <title>最後の言葉は「次はモスクワで」、プーチン氏が珍しく英語を披露　記者の質問には困惑の表情も</title>
+        <link>https://www.cnn.co.jp/world/35236743.html?ref=rss</link>
+        <description>米アラスカ州で行われた米ロ首脳会談。ロシアのプーチン大統領が笑顔を浮かべながら最後に発した言葉は、珍しく英語だった。
+
+トランプ米大統領が近くまた会うことになるだろうと示唆したのに対し、プーチン氏は「次はモスクワで」と応じた。通訳の必要はなかった。
+
+プーチン氏はドイツ語に堪能なことで知られる。冷戦期には旧ソ連国家保安委員会（ＫＧＢ）の将校として、東ドイツ（当時）のドレスデンに赴任していた。ドイツ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236743.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/17/be6166ed080e5b027c5a605f9b355949/t/768/452/d/rc2u7ga7k522-rtrmadp-3-ukraine-crisis-summit.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236741.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-17T10:34:00+09:00</dc:date>
+        <title>漁師が川で車両を発見、１９６７年の未解決事件の解明の助けに　米</title>
+        <link>https://www.cnn.co.jp/usa/35236741.html?ref=rss</link>
+        <description>米ミネソタ州で漁をしていた男性２人がミシシッピ川に沈む車を発見したことをきっかけに、１９６７年から行方不明となっていた男性の未解決事件が解明される可能性が出てきた。
+
+猟師のひとり、ブロディー・ロッホさんはＣＮＮ提携局ＷＣＣＯの取材に対し、ソナーを使っていたところ、川で車両を発見したと明らかにした。車両が見つかってから３日後の今月１３日にダイバーが車両の位置を特定し、車内で遺体を発見した。スター...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236741.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/17/29a5ee03478ce2544d7a935960eb956b/t/768/432/d/still-21870217-8591-416000000001-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236740.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-17T09:57:00+09:00</dc:date>
+        <title>ゼレンスキー氏とトランプ氏の首脳会談、バンス氏も同席へ　２月に口論起きた大統領執務室</title>
+        <link>https://www.cnn.co.jp/world/35236740.html?ref=rss</link>
+        <description>米ホワイトハウスの大統領執務室で１８日に予定されるトランプ大統領とウクライナのゼレンスキー大統領の首脳会談に、バンス副大統領も同席する見通しであることが分かった。事情に詳しい情報筋がＣＮＮに明らかにした。
+
+ゼレンスキー氏が前回２月に大統領執務室を訪れた際、バンス氏は感謝の気持ちが足りないとしてゼレンスキー氏を批判し、「一度でもありがとうと言ったことがあるのか」と問いかけていた。
+
+ただし５月には...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236740.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/17/3a5b2909b4c477d16c356ec37b131f09/t/768/512/d/gettyimages-2202530385.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236739.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-17T08:52:00+09:00</dc:date>
+        <title>トランプ大統領、プーチン氏・ゼレンスキー氏との３者会談を模索　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35236739.html?ref=rss</link>
+        <description>ウクライナ情勢をめぐって、米アラスカ州アンカレジで米ロ首脳会談が開催された。首脳会談開催後に明らかになった主な動きは次の通り。
+
+３者会談の調整：米国のトランプ大統領は、ロシアのプーチン大統領およびウクライナのゼレンスキー大統領との３者会談を２２日までに開催したい考えを欧州の首脳らに伝えた。実現には、１８日に予定されているゼレンスキー氏との会談が円滑に進むことが条件とされる。
+
+ゼレンスキー氏の訪...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236739.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/17/4b93803f648d57d2f92851670c68349a/t/768/432/d/20250319-zelensky-trump-putin-20250810012027667-20250816215850468.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236420.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-17T05:00:00+09:00</dc:date>
+        <title>「善良な人」とは一味違う、「クールな人」によく見られる六つの特徴は</title>
+        <link>https://www.cnn.co.jp/fringe/35236420.html?ref=rss</link>
+        <description>「クールな人」とは一体どんな人か。この謎が、ある国際的な研究チームによってついに解明されたかもしれない。
+
+実験心理学ジャーナルに掲載された研究論文によると、「クールな人」の性格的特徴はどの国でも同じようだ。
+
+「クール」と思われている人々は、「善良な」あるいは「好ましい」とされる人々に比べ、より外交的、快楽的で、影響力があり、冒険的で、開放的で、自立していると見なされていることが、同研究で明らか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236420.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/06/6114d7afac69ee788ccad0b445ae032d/t/768/431/d/20250703-cool-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236738.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-16T18:30:00+09:00</dc:date>
+        <title>ウクライナ大統領、１８日にワシントンでトランプ大統領と会談へ</title>
+        <link>https://www.cnn.co.jp/world/35236738.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は、米国のトランプ大統領と米首都ワシントンで１８日に会談する予定だと明らかにした。これに先駆けトランプ氏とは「長時間にわたる実質的な協議」を行い、その後は欧州の首脳とも会談。アラスカで行われた米ロ首脳会談の結果を確認するのが目的だったとしている。
+
+「ウクライナは平和実現のために最大限の努力を払う用意があることを改めて表明する。トランプ大統領は、ロシア首脳との会談と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236738.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/16/b3115a33681dfc8c9e69e72c16b398cf/t/768/512/d/gettyimages-2229186417.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236736.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-16T18:04:00+09:00</dc:date>
+        <title>小惑星「２０２４ ＹＲ４」、地球ではなく月に衝突する可能性　そのとき何が起きるのか？＜上＞</title>
+        <link>https://www.cnn.co.jp/fringe/35236736.html?ref=rss</link>
+        <description>小惑星「２０２４　ＹＲ４」は見えない位置に飛び去ったものの、依然として科学者の頭から離れていない。
+
+「２０２４　ＹＲ４」はビルほどの大きさの天体で、当初は地球に衝突する可能性があると見られていた。現在は、太陽周回軌道上の望遠鏡では観測不可能な位置を移動中だ。しかし、ＹＲ４が再び見える位置に戻ってくるのを科学者が待つ間、その軌道は修正され、今度は月に衝突する可能性に注目が集まっている。
+
+２０２４...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236736.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/16/e72beba69e34893460401d793d5cd742/t/768/432/d/as11-44-6609-orig.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236737.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-16T17:25:00+09:00</dc:date>
+        <title>アラスカでのトランプ・プーチン会談、主なポイント</title>
+        <link>https://www.cnn.co.jp/usa/35236737.html?ref=rss</link>
+        <description>複数の戦闘機とレッドカーペット、そして壁に貼られた「和平の追求」という希望に満ちたスローガンで、トランプ米大統領はロシアのプーチン大統領を１５日のアラスカでの首脳会談に迎えた。会談は突然終了し、結果は全体的に不透明なままとなっている。
+
+３時間近くに及んだ会談の後で両氏は姿を現し、進展があったと宣言した。しかし予定された記者会見では、具体的に何を達成したのか説明しないままその場を後にした。
+
+一つ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236737.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/16/2563957ea9bb715ae56a861ff5c72f83/t/768/432/d/007-gettyimages-2229450192.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236733.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-16T14:00:00+09:00</dc:date>
+        <title>極右のイスラエル閣僚、投獄中のパレスチナ人指導者を嘲笑　動画に怒り噴出</title>
+        <link>https://www.cnn.co.jp/world/35236733.html?ref=rss</link>
+        <description>イスラエルのベングビール国家安全保障相が今週、刑務所にいる著名なパレスチナ人の受刑者と面会した際に、その人物を嘲笑する自身の動画を投稿し、支持者から激しい非難を浴びている。
+
+投獄中のマルワン・バルグーティ氏（６６）は、２００２年にイスラエル民間人５人を殺害した攻撃計画に関与した罪で有罪判決を受け、現在五つの終身刑に服している。今回の動画に映るまで、長年その姿を見せていなかった。バルグーティ氏は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236733.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/16/00325b61f921ed4530b1a9eff8f58c1a/t/768/432/d/still-21870135-7900-201-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35236735.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-16T12:53:00+09:00</dc:date>
+        <title>チェスの神童、１０歳でグランドマスター破る　女子プレーヤーで史上最年少</title>
+        <link>https://www.cnn.co.jp/showbiz/35236735.html?ref=rss</link>
+        <description>英国のボダナ・シバナンダンさん（１０）がこのほど、女子プレーヤーとして史上最年少でグランドマスターを破り、チェスの歴史に名を刻んだ。
+
+ロンドン北西部出身のシバナンダンさんは１０日、リバプールで行われた２０２５年英国チェス選手権の最終ラウンドで、グランドマスターのピート・ウェルズさん（６０）を破った。
+
+国際チェス連盟（ＦＩＤＥ）によると、シバナンダンさんの年齢は１０歳５カ月と３日。２０１９年に１...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35236735.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/16/aa39718b0752956b85d111803cef944b/t/768/512/d/gettyimages-2228948685.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236731.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-16T11:45:00+09:00</dc:date>
+        <title>【分析】米ロ首脳会談、プーチン氏へのレッドカーペットに有頂天のロシアメディア</title>
+        <link>https://www.cnn.co.jp/world/35236731.html?ref=rss</link>
+        <description>トランプ米大統領とロシアのプーチン大統領が行った会談に対するロシア側の反応は、前向きなどというものではすまなかった。ロシアのメディアは、自国のリーダーが米国の大統領から称賛を受けたことに有頂天になっている。会談が開かれた米アラスカ州のエルメンドルフ・リチャードソン統合基地では、プーチン氏のために文字通りレッドカーペットが敷かれていた。
+
+「長年彼らはロシアの孤立化について口にしてきたが、今日はレ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236731.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/16/9992803a60462b9e12f5713c1b10a97a/t/768/512/d/gettyimages-2229450178.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236734.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-16T11:19:00+09:00</dc:date>
+        <title>「合意妥結はゼレンスキー氏次第」、 トランプ氏が発言　首脳会談「１０点満点」の自己評価も</title>
+        <link>https://www.cnn.co.jp/usa/35236734.html?ref=rss</link>
+        <description>トランプ米大統領は１５日夜、アラスカでの米ロ首脳会談後にＦＯＸニュースのインタビューに応じ、停戦交渉の責任はウクライナのゼレンスキー大統領にあるとの認識を示した。ゼレンスキー氏とロシアのプーチン大統領の会談が近く設定されるだろうとの見通しも示した。
+
+トランプ氏はインタビューで、「合意をまとめられるかどうかは今や、ゼレンスキー氏次第だ」と発言。「ゼレンスキー大統領とプーチン大統領、それに私を交え...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236734.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/16/7430a6f7f9ad4d8d36fb574cea92a06d/t/768/432/d/still-21870546-1310805-007-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236732.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-16T10:29:00+09:00</dc:date>
+        <title>「トランプ氏は負けなかったが、勝者は明らかにプーチン氏」　ボルトン氏が米ロ首脳会談を分析</title>
+        <link>https://www.cnn.co.jp/usa/35236732.html?ref=rss</link>
+        <description>第１次トランプ米政権で国家安全保障担当大統領補佐官を務めたジョン・ボルトン氏は１５日、トランプ大統領とロシアのプーチン大統領の会談に触れ、どちらが勝利したのかは明白だとの見方を示した。両首脳はアラスカでの重要会談を終えた後、短い発言を行った。
+
+ボルトン氏は「トランプ氏は負けなかったが、勝利したのは明らかにプーチン氏だ」と指摘。「追加会談を除けば、トランプ氏が得たものは何もなかった」と言い添えた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236732.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/16/8d3199e1bd2dfe566f2ed9a12ce9dcd5/t/768/512/d/gettyimages-2229503962.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236730.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-16T09:35:00+09:00</dc:date>
+        <title>トランプ氏が大統領ならウクライナ戦争は避けられた、プーチン氏が発言</title>
+        <link>https://www.cnn.co.jp/world/35236730.html?ref=rss</link>
+        <description>トランプ米大統領との会談を終えたロシアのプーチン大統領は１５日、アラスカで記者会見に臨み、２０２２年にトランプ氏が大統領であれば、ウクライナでの戦争は起きなかっただろうとの認識を示した。
+
+トランプ氏はかねて、バイデン前政権下でロシアのウクライナ侵攻に伴い発生した全面紛争について、自分なら回避できたと主張してきた。プーチン氏は今回、トランプ氏の主張は正しいと述べ、以前から示してきた立場を改めて表...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236730.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/16/3c8302295e9276b63182bb74e3e12c6f/t/768/512/d/ap25227837473035.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236729.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-16T08:43:00+09:00</dc:date>
+        <title>米ロ首脳、会談終え共同記者会見　トランプ氏「大きな進展あった」</title>
+        <link>https://www.cnn.co.jp/world/35236729.html?ref=rss</link>
+        <description>トランプ米大統領とロシアのプーチン大統領は１５日、米アラスカ州での重要会談を終え、共同記者会見に臨んだ。トランプ氏は合意に向けて「大きな進展があった」としつつも、「妥結には至らなかった」との認識を示した。
+
+プーチン氏は会見の冒頭、近年の米ロ関係の悪化を認め、「ロシアと米国の間で４年間、首脳会談が行われていなかったのは周知の事実だ。これは長い時間だ。この間、二国間関係は非常に困難な状況にあり、率...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236729.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/16/fb49ef3620651e9db2428a5db748e0d3/t/768/512/d/trmadp-3-ukraine-crisis-summit.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236726.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-15T18:40:00+09:00</dc:date>
+        <title>カシミール地方のインド支配地域で豪雨　数十人死亡、不明者２００人以上</title>
+        <link>https://www.cnn.co.jp/world/35236726.html?ref=rss</link>
+        <description>カシミール地方のインド支配地域で突発的な豪雨が発生し、数十人が死亡したことが分かった。懸命の救助活動が行われている。ヒマラヤの住民が異常気象の影響にいかに脆弱（ぜいじゃく）かを改めて浮き彫りにする災害となった。
+
+ロイター通信が地元当局者の話として伝えたところによると、ヒンドゥー教徒に人気の巡礼地チャショッティでは少なくとも４６人が死亡、２００人あまりが行方不明になっている。
+
+ＳＮＳで共有された...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236726.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/15/94ee6c53f852f443871438e41019afd4/t/768/431/d/madp-3-asia-weather-india-flood.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236725.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-15T17:19:00+09:00</dc:date>
+        <title>米アラスカ州、ウクライナ支持のデモ隊が集結　米ロ首脳会談を前に</title>
+        <link>https://www.cnn.co.jp/usa/35236725.html?ref=rss</link>
+        <description>米アラスカ州アンカレジ中心部では１４日、郊外の米軍基地で翌日予定されるトランプ大統領とロシアのプーチン大統領の首脳会談を前に、ウクライナを支持するデモ隊が沿道に繰り出した。
+
+デモ参加者はウクライナ国旗や、ウクライナの青と黄色を使った横断幕を掲げ、ウクライナでの戦争を終わらせる見返りにプーチン氏に譲歩しないようトランプ氏に求めた。
+
+一部の参加者は、「王はいらない」など反トランプ氏のスローガンを記...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236725.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/15/be58421f81351ef5de09793cc306ebc2/t/768/512/d/rmadp-3-ukraine-crisis-summit-rally.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35236722.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-15T15:58:00+09:00</dc:date>
+        <title>【分析】鳴り物入りのＣｈａｔＧＰＴ最新版、「博士級」のはずが簡単な地名や人名も間違えた</title>
+        <link>https://www.cnn.co.jp/tech/35236722.html?ref=rss</link>
+        <description>人工知能（ＡＩ）の誇大広告の達人、オープンＡＩのサム・アルトマン最高経営責任者（ＣＥＯ）がダメージコントロールモードに入っている。
+
+米オープンＡＩが誇る最新モデル「ＧＰＴ―５」は、「博士並み」の頭脳明晰（めいせき）さを持つはずだった。投資家が数十億ドルを注ぎ込んだ同社にとって、次なる大きな飛躍にもなるはずだった。
+
+しかし、ＣｈａｔＧＰＴ（チャットＧＰＴ）は淡々として素っ気ない性格になり、基本的な...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35236722.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/15/05caddccb8ba63a496b2b34f734af9cf/t/768/512/d/gettyimages-2198379497.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236720.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-15T15:00:00+09:00</dc:date>
+        <title>豪州への「もがみ」型護衛艦輸出、緊張高まる太平洋地域に及ぼす影響は？</title>
+        <link>https://www.cnn.co.jp/world/35236720.html?ref=rss</link>
+        <description>豪州政府は５日、豪海軍が導入を計画している新型艦をめぐり、日本製の最新鋭の護衛艦を採用すると発表した。総額６５億ドル（約９５００億円）を見込む。この動きは、豪州を太平洋の海洋大国に、日本を主要な武器輸出国へと押し上げる契機になり得るとアナリストらは指摘している。
+
+豪国防省は、新型艦１１隻の調達計画に際し、ステルス性能に優れた日本の「もがみ」型護衛艦（ＦＦＭ）を導入すると明らかにした。アナリスト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236720.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/15/2bc9182c1fee0842b685fd998e2bb6f4/t/768/432/d/20250801-adf-8701323-4-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35236718.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-15T13:25:00+09:00</dc:date>
+        <title>トランプ米政権、インテルへの出資を検討　米報道</title>
+        <link>https://www.cnn.co.jp/business/35236718.html?ref=rss</link>
+        <description>トランプ米政権が、半導体大手インテルへの出資を検討していると報じられている。
+
+ドナルド・トランプ大統領は１１日にインテルのリップブー・タン最高経営責任者（ＣＥＯ）と会談。ブルームバーグ通信は１４日、米政府がインテルに出資する可能性について協議していると報じた。詳細についてはまだ詰めている段階だとしている。
+
+政府による出資は競合に対して後れを取ったインテルのてこ入れにつながる可能性がある。米政権...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35236718.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/15/1742a858bb1abc369b34fa0d0a2f9aab/t/768/503/d/c-gettyimages-2225440824.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236716.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-15T12:20:00+09:00</dc:date>
+        <title>１９９６年の少女失踪事件、３０年近くの時を経て男逮捕　米イリノイ州</title>
+        <link>https://www.cnn.co.jp/usa/35236716.html?ref=rss</link>
+        <description>米イリノイ州西部に住む少女（当時１１）が失踪した３０年近く前の事件。地元大陪審はこのほど、ジェイソン・フィッシャー被告（５０）を殺人罪などで起訴した。
+
+失踪したトルーディ・アップルビーさんは１９９６年８月２１日、同州モリーンにある自宅近くで最後に姿が目撃されていた。
+
+地元警察トップによると、アップルビーさんが身元不明の男とグレーの車に乗り込むのを見たとの目撃証言がある。この日、アップルビーさん...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236716.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/15/6c35b674a41e1f919a8a6ed820a429e6/t/353/432/d/WBBM2manarrest1996disappearance11yo.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236714.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-15T11:52:00+09:00</dc:date>
+        <title>ガザ住民をアフリカへ　イスラエル、受け入れめぐり複数カ国と協議</title>
+        <link>https://www.cnn.co.jp/world/35236714.html?ref=rss</link>
+        <description>イスラエルのベンヤミン・ネタニヤフ首相は、パレスチナ自治区ガザの戦争で住む場所を失った住民の受け入れについて、アフリカなどの複数カ国と協議を進めていることを明らかにした。
+
+イスラエル高官がＣＮＮに語ったところによると、協議を行っているのはアフリカの南スーダン、ソマリランド、エチオピア、リビアとインドネシア。ガザの住民２００万人の一部を受け入れることと引き換えに、各国は「多額の金銭的・国際的補償...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236714.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/15/b5a44397cb814f6c90fb0906a4747316/t/768/512/d/ap25225651234109.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35236712.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-15T11:24:00+09:00</dc:date>
+        <title>テイラー・スウィフト、新作アルバムで魅惑的な「ショーガールの時代」へ</title>
+        <link>https://www.cnn.co.jp/style/fashion/35236712.html?ref=rss</link>
+        <description>テイラー・スウィフトにとって、新作アルバムは新たな「時代」を告げ、新たな衣装を決定づける。今回、スウィフトはニューアルバム「ザ・ライフ・オブ・ア・ショーガール」で、ラスベガスのダンサーの魅惑的なスピリットを体現している。
+
+これは、「フォークロア」（２０２０年）で見せたウールのオーバーコートと英国刺しゅうのドレス、あるいは「レッド」（１２年）のコッパーのキャスケットとは大きく異なる。しかし、この...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35236712.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/15/8353b89e3cf8936dcfafc3a6144d8205/t/768/379/d/swift-20250814141010620.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
