@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-08-20T16:35:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236863.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236915.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236897.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236904.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236908.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236899.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35236900.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35236895.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35236894.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236876.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236881.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236877.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35236875.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236870.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236869.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236867.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236866.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236857.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236862.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236861.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236860.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236849.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236855.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236842.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236827.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236846.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236843.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236835.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236837.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236828.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236863.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T16:35:00+09:00</dc:date>
+        <title>２種類の人類の祖先、同じ地域と年代に共存か　一方は未知の種の可能性も　エチオピア</title>
+        <link>https://www.cnn.co.jp/fringe/35236863.html?ref=rss</link>
+        <description>エチオピア北東部での数十年がかりの考古学プロジェクトで発見された太古の歯の化石は、二つの異なる種類のホミニン（ヒト族＝人類の祖先）が２６０万～２８０万年前に同じ地域で暮らしていたことを示唆する。そのうちの一方は、従来知られていなかった種である可能性がある。
+
+今回の発見は、人類進化の複雑な網の目に対する新たな知見を提供する。２０１８～２０年にかけて見つかった歯の化石１０点は、初期人類の系統に位置...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236863.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/cffdb816a22984851b5e30431b697642/t/768/576/d/2018-turtle-flat.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236915.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T16:00:00+09:00</dc:date>
+        <title>社会保障給付欲しさに友人の遺体と２年暮らした夫婦が逮捕、飼い犬が遺体かじる　米　</title>
+        <link>https://www.cnn.co.jp/usa/35236915.html?ref=rss</link>
+        <description>死亡した友人の社会保障給付金を受け取るため、遺体とともに暮らしていた疑いで米コロラド州レイクウッド在住の夫婦が逮捕された。遺体は夫婦が飼っていたペットのチワワにかじられていたという。現地メディアのデンバー７が１９日に入手した逮捕状請求資料で明らかになった。
+
+ジェームズ・アグニュー容疑者（５５）とスザンヌ・アグニュー容疑者（５７）は先月、ジェームズ・フランシス・オニールさん（６４）の遺体への虐待...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236915.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/8aabc87c8fe4aac2803fb9fea69710cb/t/768/432/d/kmghcouplecorpsedogchewed081925.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236897.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T14:30:00+09:00</dc:date>
+        <title>元人質のイスラエル人が語る、自由の罪悪感　解放後の心にのしかかる</title>
+        <link>https://www.cnn.co.jp/world/35236897.html?ref=rss</link>
+        <description>エリヤ・コーエンさんは拘束状態から生還したにもかかわらず、今なお自らの人生を取り戻せずにいる。イスラム組織ハマスの武装集団が防空壕（ごう）に手榴弾（しゅりゅうだん）を投げ込む中、コーエンさんは人々の遺体の下に隠れて無事だったが、その後人質となった。
+
+パレスチナ自治区ガザ地区で５０５日間鎖につながれ、他の人質とピタパンの切れ端や缶詰の豆を分け合いながら監禁生活を送った。やがて解放され、喜びに満ち...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236897.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/46834576096e9d8f77cef4a3b993ea90/t/768/432/d/still-21880331-1008-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236904.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T13:55:00+09:00</dc:date>
+        <title>ウクライナへの「安全の保証」、日本も関与の用意　石破首相</title>
+        <link>https://www.cnn.co.jp/world/35236904.html?ref=rss</link>
+        <description>日本の石破茂首相は、ウクライナの「安全の保証」をめぐる取り組みに関与する意向を示した。ただし具体的な内容については言及しなかった。
+
+石破首相は１９日、記者団に対し、日本の法律や能力の観点から何をすべきか、何ができるかを議論し、しかるべき役割を果たしていくと述べた。その上で、現時点では、どのような支援が可能かについて詳細を語れる段階にはないとした。
+
+日本は北大西洋条約機構（ＮＡＴＯ）の正式な加盟...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236904.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/fab56b1b5c9cd7a82872443bda1fc622/t/768/511/d/large-2kl-rtrmadp-3-eu-japan.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236908.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T13:11:00+09:00</dc:date>
+        <title>米特使、ロシアが「ほぼ即座に譲歩」と主張　米ロ首脳会談めぐり</title>
+        <link>https://www.cnn.co.jp/usa/35236908.html?ref=rss</link>
+        <description>トランプ米政権で対ロシア交渉の窓口を務めるウィトコフ中東担当特使は２０日までに、米アラスカ州で先週開かれたトランプ大統領とロシアのプーチン大統領の会談について、新たな詳細を明らかにし、ロシア側が「ほぼ即座に」譲歩したと述べた。
+
+ウィトコフ特使は米ＦＯＸニュースに対し、「アラスカでの最初の会談で、ロシア側からほぼ即座に譲歩があった」と語った。「その譲歩を引き出す一環として、ロシア側がより歩み寄る...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236908.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/a78d2489b7ec4bc49042898ad1983a72/t/768/511/d/large-ap25194638069345.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236899.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T12:32:00+09:00</dc:date>
+        <title>ウクライナ情勢めぐる首脳会談、複数の開催地を検討　米ホワイトハウス</title>
+        <link>https://www.cnn.co.jp/world/35236899.html?ref=rss</link>
+        <description>ウクライナでの戦争終結に向けたウクライナのゼレンスキー大統領とロシアのプーチン大統領による２者会談や、両氏に米国のトランプ大統領を加えた３者会談をめぐり、複数の候補地が検討されている。米ホワイトハウス当局者が明らかにした。
+
+当局者によれば、候補地にはハンガリーの首都ブダペストやスイスなどが含まれている。
+
+当局者のひとりは、トランプ大統領が最近の電話会談でハンガリーのオルバン首相とブダペスト開催...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236899.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/0547f9346f6c16b5f7caf7e8ccb699d8/t/768/432/d/20250807-zeltruput-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35236900.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T12:15:00+09:00</dc:date>
+        <title>米ホワイトハウスがＴｉｋＴｏｋの公式アカウント開設、９月に迫る禁止法の期限</title>
+        <link>https://www.cnn.co.jp/tech/35236900.html?ref=rss</link>
+        <description>米ホワイトハウスは１９日、動画投稿アプリ「ＴｉｋＴｏｋ（ティックトック）」の公式アカウントを開設した。中国企業バイトダンスの傘下にあるＴｉｋＴｏｋは、米国企業に買収されるか、米国での利用を禁止されるかの選択を迫られている。
+
+ＴｉｋＴｏｋ禁止の法律はバイデン前政権下で成立。しかしドナルド・トランプ大統領は繰り返し期限を先延ばししてきた。現時点での期限は９月１７日に迫っている。
+
+米国でＴｉｋＴｏｋ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35236900.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/279abc8b08ac4b5932fbf3211d2de3fd/t/768/432/d/gettyimages-2203684118-20250418164902721.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35236895.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T11:55:00+09:00</dc:date>
+        <title>テイラー・スウィフトも「カセットテープ」で新アルバム、どんな人が購入？</title>
+        <link>https://www.cnn.co.jp/showbiz/35236895.html?ref=rss</link>
+        <description>米歌手テイラー・スウィフトが１０月にリリースする新アルバム「Ｌｉｆｅ　ｏｆ　ａ　Ｓｈｏｗｇｉｒｌ」は、ストリーミング配信に加えてレコード、さらにはカセットテープも発売される。
+
+音楽を聴く手段としてのカセットテープは１９８０年代にレコードを抜き、その後ＣＤに取って代わられた。便利な音楽配信が普及した今、そうした物理媒体は過去の遺物になったと思われていた。
+
+しかしエンターテインメント関連のデータを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35236895.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/7b79c8204956ebfa63aa5121d9c73673/t/768/512/d/gettyimages-2188862186.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35236894.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T10:54:00+09:00</dc:date>
+        <title>タランティーノ監督、自身の「最高傑作」を明かす</title>
+        <link>https://www.cnn.co.jp/showbiz/35236894.html?ref=rss</link>
+        <description>ハリウッドのクエンティン・タランティーノ監督（６２）が、自身の最高傑作を明かした。
+
+タランティーノ氏は、「パルプ・フィクション」（１９９４年）、「ジャンゴ　繋（つな）がれざる者」（２０１２年）でアカデミー賞脚本賞を２度受賞している。
+
+しかし、本人はどちらも最高傑作とも一番好きな映画とも思っていない。
+
+タランティーノ氏は１５日に公開されたポッドキャスト番組で、最高傑作は「イングロリアス・バスター...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35236894.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/9d1c3fd4d278b6fb6294a683d7f517e3/t/768/536/d/gettyimages-1258226645.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236876.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T10:18:00+09:00</dc:date>
+        <title>トランプ氏、スミソニアン博物館への攻撃を激化　「奴隷制のひどさ」を強調しすぎている</title>
+        <link>https://www.cnn.co.jp/usa/35236876.html?ref=rss</link>
+        <description>トランプ米大統領は１９日、自身のＳＮＳトゥルース・ソーシャルで、弁護士に対し博物館の調査を指示したと述べた。トランプ氏は自身の政治方針に反する題材を文化施設から排除する取り組みを激化させ、博物館が「奴隷制のひどさ」など、米国の歴史の負の側面を強調しすぎていると主張している。
+
+「スミソニアンは制御不能だ。そこで議論されるのは、我が国や奴隷制のひどさ、虐げられた人々の無力さばかりだ。成功や輝き、未...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236876.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/82a890d3520551da76ba99c6767ea62c/t/768/512/d/gettyimages-2210057359.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236881.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T09:19:00+09:00</dc:date>
+        <title>切断された６人の頭部、メキシコ中部で発見</title>
+        <link>https://www.cnn.co.jp/world/35236881.html?ref=rss</link>
+        <description>メキシコ中部プエブラ州とトラスカラ州の州境付近で、６人の人間の頭部が切断された状態で発見され、当局が捜査に乗り出した。トラスカラ州検察が明らかにした。
+
+トラスカラ州検察のＸによると、見つかった頭部は男性のものだった。
+
+メキシコでは犯罪組織による凄惨（せいさん）な殺人事件が後を絶たない。
+
+シナロア州では今年、銃で撃たれた傷跡のある男性２０人の遺体が高速道路に架かる橋の上で発見された。うち５人は頭...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236881.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/8c5dca75e920e86ce73c23276e8c2d00/t/768/432/d/still-21880751-30090-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236877.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T08:45:00+09:00</dc:date>
+        <title>トランプ氏、地上部隊派遣は否定も航空支援など排除せず　ホワイトハウス報道官</title>
+        <link>https://www.cnn.co.jp/usa/35236877.html?ref=rss</link>
+        <description>米ホワイトハウスのレビット報道官は１９日、ロシアとの和平合意に向けウクライナの安全を保証する措置の一環として、米軍地上部隊派遣する可能性をトランプ大統領は「完全否定している」と改めて説明したものの、航空支援を含む他の軍事的選択肢については排除しなかった。
+
+ホワイトハウスで記者会見を行ったレビット氏は、ウクライナの安全保証の一形態として「航空」支援を提供する可能性について問われ、「それは一つの選...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236877.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/6ec3551d753ad0943603a6273bf0c6ae/t/768/512/d/rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35236875.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T07:52:00+09:00</dc:date>
+        <title>巧妙な窃盗にあった３７億円相当のピンクダイヤ、ただちに回収される　ドバイ</title>
+        <link>https://www.cnn.co.jp/style/luxury/35236875.html?ref=rss</link>
+        <description>アラブ首長国連邦（ＵＡＥ）のドバイで巧妙な窃盗犯によって盗まれた２５００万ドル（約３７億円）相当のピンクダイヤモンドが、わずか数時間後に警察によって回収された。
+
+ドバイ警察は１８日の声明で、「極めて」希少なダイヤモンドが、購入希望者の仲介人を装った窃盗犯によって宝石商から盗まれたと述べた。
+
+警察によると、２１．２５カラットもの大粒ダイヤには「並外れた透明度、対称性、光沢」がみられるほか、独自の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35236875.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/da9d1e08d75888b293b857c612eeb9dc/t/768/432/d/gettyimages-2197242082.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236870.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T07:15:00+09:00</dc:date>
+        <title>トランプ氏、戦争を始めたのはウクライナと非難か　「１０倍の規模の国に挑むべきではない」</title>
+        <link>https://www.cnn.co.jp/usa/35236870.html?ref=rss</link>
+        <description>トランプ米大統領は１９日、米ＦＯＸニュースの番組で、「自国の１０倍の規模の国に挑んではならならい」と述べ、ウクライナがロシアとの戦争を始めたと非難するかのような姿勢を示した。
+
+２０２２年２月に主権国家であるウクライナに侵攻したのは、ロシアの方だった。
+
+トランプ氏は「これは始めるべきでなかった戦争だ。こんなことはすべきでない。自国の１０倍の規模の国に挑んではならない」と発言した。
+
+トランプ氏はイ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236870.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/203dc04156c6685e7401f2c5f405998f/t/768/432/d/ap25230687576836.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236869.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T06:57:00+09:00</dc:date>
+        <title>トランプ氏、プーチン氏と自身の間には「温かさ」があると発言</title>
+        <link>https://www.cnn.co.jp/usa/35236869.html?ref=rss</link>
+        <description>トランプ米大統領は、自身とロシアのプーチン大統領の間には「温かさ」があり、米アラスカ州アンカレジで１５日に行われた首脳会談でもその温かさが感じられたと述べた。
+
+トランプ氏は「彼が飛行機を降り、私も降りた時、そこには他には見られない温かさがあった。それは、好ましい感情だった。それは良いことであって、悪いことではない」と述べた。
+
+ホワイトハウスで１８日に７人の欧州首脳陣とウクライナのゼレンスキー大...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236869.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/48fe865480955b8a0fb8ed57b4ec8b2e/t/768/526/d/gettyimages-2230320579.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236867.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T06:26:00+09:00</dc:date>
+        <title>トランプ氏、ウクライナ和平合意の履行支援のための米軍派遣否定</title>
+        <link>https://www.cnn.co.jp/usa/35236867.html?ref=rss</link>
+        <description>トランプ米大統領は１９日、ウクライナとロシアの和平が実現した場合に、和平合意の履行を支援するために米軍を派遣することはないとの考えを示した。米ＦＯＸニュースとの電話インタビューで述べた。
+
+ウクライナ国境を守るために米軍が駐留することはないか問われたトランプ氏は「私が保証する。大統領だ」と答えた。
+
+ホワイトハウス当局者は同日、トランプ氏が「断固として」米軍をウクライナに派遣しない考えであることを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236867.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/fdd0a9b16b044d547166b9f392a85d35/t/768/512/d/2025-05-15t110457z-2086595916-rc2aiealovoi-rtrmadp-3-usa-trump-gulf.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236866.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T06:16:00+09:00</dc:date>
+        <title>プーチン氏、ゼレンスキー氏との会談を約束　米報道官</title>
+        <link>https://www.cnn.co.jp/world/35236866.html?ref=rss</link>
+        <description>米ホワイトハウスのレビット報道官は１９日、ロシアのプーチン大統領がウクライナのゼレンスキー大統領と会談することを米国に約束したと明らかにした。両首脳の会談を実現すべく、米国が現在開催場所など詳細を検討しているという。
+
+レビット氏は会見で記者の質問に応える形で、プーチン氏がゼレンスキー氏と直接会談することを約束したと述べた。これより前に、ロシアのラブロフ外相は両首脳の会談について明言を避けていた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236866.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/dbfb07590e49ce4856faf248ba099665/t/768/512/d/gettyimages-2229498195.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236857.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T20:30:00+09:00</dc:date>
+        <title>ケンブリッジ辞典に新語登場　「ｓｋｉｂｉｄｉ」「ｄｅｌｕｌｕ」「ｔｒａｄｗｉｆｅ」など追加</title>
+        <link>https://www.cnn.co.jp/world/35236857.html?ref=rss</link>
+        <description>ＴｉｋＴｏｋのトレンドやソーシャルメディア用語が日常会話で使われる機会が増えていることから、ケンブリッジ辞典は過去１年間でオンライン版に追加した６０００語の新語に「ｓｋｉｂｉｄｉ」「ｄｅｌｕｌｕ」「ｔｒａｄｗｉｆｅ」を加えた。
+
+この英国発の辞典はこれらの新語をつかった例文を示しているが、オンラインで過ごす時間が短い人にとっては意味不明なものもあるかもしれない。
+
+ケンブリッジ辞典はｓｋｉｂｉｄｉ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236857.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/dea03cbcea48098aeb11ba6d2743825a/t/768/512/d/gettyimages-520069764.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236862.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T19:28:00+09:00</dc:date>
+        <title>米ウ首脳会談　安全保障を議論、領土再編には触れず　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35236862.html?ref=rss</link>
+        <description>ウクライナ情勢をめぐり、米国のトランプ大統領とウクライナのゼレンスキー大統領、欧州諸国の首脳が米ホワイトハウスで会談を行った。
+
+ロシアによるウクライナでの戦争の終結を模索するなか、欧州当局者によると、急きょ設定された今回の会合は、トランプ氏との歩調を合わせる必要性を各国首脳が強く感じる一方、欧州が脇に置かれることへの警戒感もにじませたものとなった。
+
+これまでに分かっていることをまとめた。
+
+会談...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236862.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/ac0b62551125f5109513ff5eccf344c0/t/768/511/d/large-gettyimages-2230151487.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236861.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T18:18:00+09:00</dc:date>
+        <title>ロシアがウクライナに大規模攻撃、無人機２７０機とミサイル１０発を発射</title>
+        <link>https://www.cnn.co.jp/world/35236861.html?ref=rss</link>
+        <description>ロシアは１９日、大規模な空爆をウクライナに対して実施した。前日には、米国のトランプ大統領がウクライナのゼレンスキー大統領や欧州の首脳らとウクライナ情勢をめぐり協議を行っていた。
+
+ウクライナ空軍によると、ロシアは夜間に無人機２７０機とミサイル１０発を発射した。ＣＮＮの集計によれば、今回の攻撃は７月３１日以降で最大規模の空爆だった。
+
+空軍の発表によれば、防空網を突破したのはミサイル４発と無人機１６...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236861.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/3269d56d69237f3cca6853e88439af68/t/768/511/d/large-gettyimages-2230100186.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236860.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T17:42:00+09:00</dc:date>
+        <title>父親が子ども３人と一緒に行方不明になって４年、残された家族が帰宅を呼び掛け　ＮＺ</title>
+        <link>https://www.cnn.co.jp/world/35236860.html?ref=rss</link>
+        <description>約４年間にわたりニュージーランドの人里離れた荒野で３人の子どもと行方をくらましている父親について、その家族が初めて公に語った。
+
+トーマス・カラム・フィリップス容疑者は２０２１年１２月、子どもたちとともに姿を消した。複数回の目撃情報や捜査当局による捜索、協力要請があったものの、依然として所在は不明のままだ。フィリップス容疑者は銀行強盗など複数の事件で指名手配を受けている。
+
+警察は、母親と連絡が絶...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236860.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/7f7bc43ede80a04c8bb2f72444799388/t/768/431/d/001-20250818-new-zealand.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236849.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T17:19:00+09:00</dc:date>
+        <title>元学生が１５０億円の損害賠償求め大学を提訴、研究中の有毒化学物質への暴露理由に　米</title>
+        <link>https://www.cnn.co.jp/usa/35236849.html?ref=rss</link>
+        <description>米ミシガン州立大学の元学生が、自身と他の研究補助を行った学生が研究活動中に有毒な化学物質に暴露されたとして、大学を相手取り１億ドル（約１５０億円）の損害賠償を求める訴訟を起こした。
+
+リンロン・ウェイさんは２００８年から１１年までミシガン州立大学に在籍し、園芸学の修士課程を履修していた。弁護士によると、ウェイさんは２４年７月に甲状腺がんと診断されたという。
+
+弁護士らの声明は「研究補助として、ウェ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236849.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/737cc3d5df6a8c04838b947505d88800/t/768/432/d/wwjformMSUstudentsueschemicals081825.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236855.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T15:59:00+09:00</dc:date>
+        <title>【分析】ウクライナの暗雲が晴れる、トランプ氏の次の動きまでは</title>
+        <link>https://www.cnn.co.jp/world/35236855.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領とウクライナのボロディミル・ゼレンスキー大統による混乱した米大統領執務室での記者会見の直後、ウクライナ首都キーウの上空から一斉に安堵（あんど）のため息が漏れたように思えた。
+
+ウクライナの国会議員ヤロスラフ・ゼレジニャク氏はＸ（旧ツイッター）への投稿で、「良いニュースもある。彼らは争わなかった」と反応した。
+
+２月の米大統領執務室での口論のような正面衝突は回避された。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236855.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/cd9e583c7f7e1122e052cbaa9b18c25c/t/768/487/d/large-001-rtrmadp-3-ukraine-crisis-summit.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236842.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T15:07:00+09:00</dc:date>
+        <title>イスラエル軍の元諜報トップ、ガザでは５万人の死が「必要」と発言　録音が流出</title>
+        <link>https://www.cnn.co.jp/world/35236842.html?ref=rss</link>
+        <description>イスラエル軍諜報（ちょうほう）部門の元トップが、パレスチナ自治区ガザ地区で数万人のパレスチナ人が死亡するのは「必要なことであり、将来世代のために求められている」と発言していたことが分かった。流出した音声記録によって確認された。
+
+イスラエル国防軍（ＩＤＦ）のアハロン・ハリバ少将は、イスラエルのチャンネル１２が１５日に公開した録音の中で、「（２０２３年）１０月７日に起こったあらゆる出来事を踏まえ、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236842.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/b9b7e169e37ddf1f43eea0f80b018840/t/768/512/d/gettyimages-2229126286.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236827.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T14:27:00+09:00</dc:date>
+        <title>「避暑休暇」はもう無理、今後は北極旅行でも汗だくに</title>
+        <link>https://www.cnn.co.jp/fringe/35236827.html?ref=rss</link>
+        <description>かつては暑さから逃れる目的で出かける、夏季休暇の旅行先というものが複数存在した。例えばノルウェーで世界的に有名なフィヨルドを眺める、ほどよく温暖な気候の英スコットランドでゴルフを楽しむ、スウェーデンのラップランド地方を訪れてトナカイと間近で触れ合うといった過ごし方がそれに該当する。
+
+しかし、地球温暖化に伴い北極圏の氷は溶けつつあり、こうした冷涼な遠隔の目的地も熱波の影響を一段と受けやすくなって...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236827.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/0a7cfdce072d20053c3ea5321faf911f/t/768/432/d/gettyimages-2227521646.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236846.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T13:59:00+09:00</dc:date>
+        <title>ゼレンスキー氏、プーチン氏との会談は「無条件」で</title>
+        <link>https://www.cnn.co.jp/world/35236846.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は、ロシアがウクライナとの２者会談を提案し、その後に３者会談を行う意向を示したと語った。
+
+ゼレンスキー大統領はホワイトハウスでのトランプ米大統領と会談後の記者会見で、ロシアのプーチン大統領との会談について「あらゆる形式」で会談に応じる用意があると述べた。最初の会談の成り行きによっては、その後の３者会談にも参加する考えを示した。
+
+ゼレンスキー大統領は提案された二国間...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236846.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/92820e675c8ddb1a8d86fc6b53910f23/t/768/512/d/large-ap25230840801153.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236843.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T13:13:00+09:00</dc:date>
+        <title>仏大統領、米国による安全保障への関与が最大の成果</title>
+        <link>https://www.cnn.co.jp/world/35236843.html?ref=rss</link>
+        <description>フランスのマクロン大統領は１８日、米ホワイトハウスで行われたウクライナ情勢をめぐる会談の最も重要な成果は、米国がウクライナに対する「安全の保証」の内容作りに取り組む意欲を示したことだと述べた。
+
+マクロン大統領は「数日前、あるいは数週間前にはそれほど明確でなかった重要な点について、いくつか合意に至った」とし、その「第一で最も重要なもの」は安全保障計画をさらに発展させるという米国の関与だと語った。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236843.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/dabaff0d8166b6a90e2a1e8194d5ffeb/t/768/511/d/largel-gettyimages-2230171768.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236835.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T12:43:00+09:00</dc:date>
+        <title>米ホワイトハウス、トランプ氏が電話でプーチン氏と会談する写真を公開</title>
+        <link>https://www.cnn.co.jp/usa/35236835.html?ref=rss</link>
+        <description>米ホワイトハウスは、米国のトランプ大統領が大統領執務室で、ロシアのプーチン大統領とスピーカーフォンで会話している写真を公開した。
+
+写真には、米国のルビオ国務長官とバンス副大統領も写っており、ルビオ氏とバンス氏は執務机の向かい側の椅子に座っている。
+
+ホワイトハウス関係者２人によると、通訳がトランプ氏の机の反対側に座り、ノートに記入していた。
+
+別のホワイトハウス当当局者によれば、トランプ氏は大統領...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236835.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/97a9b2b9af36372f7129dd563ccb6246/t/768/512/d/large-gyrbu0pxqaiof1u.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236837.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T12:24:00+09:00</dc:date>
+        <title>米国務省、学生ビザ６千件取り消し　留学生の「法律違反」取り締まり続く</title>
+        <link>https://www.cnn.co.jp/usa/35236837.html?ref=rss</link>
+        <description>米国務省は１８日、今年に入って失効させた学生ビザが６０００件を超えたと発表した。トランプ政権は違法行為を理由として一部の留学生に対する取り締まりを続けている。
+
+当局者によると、ビザ取り消しの理由は期限切れ後の滞在や違法行為などで、暴行や酒気帯び運転、窃盗、「テロ支援」が圧倒的多数を占める。取り消されたビザ６０００件のうち約４０００件は、そうした「法律違反」が理由だった。
+
+テロ関連とみなされて取...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236837.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/fa00db15b2c0e44a0a7b1d28e253c0d3/t/768/512/d/gettyimages-2223532566.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236828.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-19T11:17:00+09:00</dc:date>
+        <title>ガザの新たな停戦案、ハマスが受け入れ表明</title>
+        <link>https://www.cnn.co.jp/world/35236828.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区のイスラム組織ハマスは、カタールとエジプトから１７日に提示されたガザの新たな停戦案を受け入れたと発表した。
+
+ハマス政治部門幹部のバセム・ナイム氏はＳＮＳへの投稿で、「仲介者からの新たな提案を受け入れた。我々の人民に対する戦争の炎を神が消し去ってくれることを祈る」とした。
+
+イスラエルの当局者２人はＣＮＮに対し、ハマスからの返答を受け取ったことを確認した。うち１人は、人質全...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236828.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/33a929ab9fa2786430da8e99cc7be63a/t/768/432/d/gettyimages-2228093992_1200x675.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
