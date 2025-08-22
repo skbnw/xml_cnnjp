@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-08-22T07:59:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237000.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236998.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236997.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/architecture/35236990.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236996.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236995.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236993.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236989.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236981.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236980.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236977.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236974.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236967.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236966.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35236965.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236961.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236956.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236955.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236942.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236939.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236930.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236932.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236934.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236931.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236922.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236863.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236915.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236897.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236904.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236908.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237000.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T07:59:00+09:00</dc:date>
+        <title>トランプ氏、ウクライナの攻撃への転換支持示す投稿　「侵略国を攻撃せずして勝つのは難しい」</title>
+        <link>https://www.cnn.co.jp/usa/35237000.html?ref=rss</link>
+        <description>トランプ米大統領は２１日、ウクライナがロシアに対して攻撃に転じる根拠を示したとみられる。和平交渉の機運が停滞する中、この発言は注目に値する。
+
+トランプ氏は自身のＳＮＳトゥルース・ソーシャルで「侵略国を攻撃せずして戦争に勝つのは、不可能ではないにしても非常に難しい。素晴らしい守備力を持つスポーツチームに攻撃が許されないようなものだ。これでは勝てる見込みはない！　ウクライナとロシアのようだ」と述べ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237000.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/2fca27624efeb0ffd7771a2ed465bd17/t/768/533/d/2025-08-20t155312z-1857033674-rc2yagaytq4c-rtrmadp-3-ukraine-crisis-south-frontline.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236998.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T07:05:00+09:00</dc:date>
+        <title>トランプ氏への６９０億円支払い命令、控訴裁が破棄　詐欺の法的責任は認める</title>
+        <link>https://www.cnn.co.jp/usa/35236998.html?ref=rss</link>
+        <description>米ニューヨーク州の控訴裁は２１日、同州の司法長官が起こしたトランプ大統領とその関連会社の不正をめぐる民事訴訟で、トランプ氏側に４億６４００万ドル（約６９０億円）の支払いを命じた判決を破棄した。
+
+控訴裁はトランプ氏の詐欺に関する法的責任は認めたものの、支払いを命じられた額は違法なまでに過剰だとした。
+
+同州のジェームズ司法長官は控訴裁の判断を不服とし、上訴する方針。
+
+控訴裁の判断を受けて、トランプ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236998.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/1ba8433e164acbf9dd0bae60524fe82c/t/768/512/d/gettyimages-1924982222.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236997.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T06:32:00+09:00</dc:date>
+        <title>ウクライナに大規模攻撃、９人死亡　米国に本社置く企業も標的に</title>
+        <link>https://www.cnn.co.jp/world/35236997.html?ref=rss</link>
+        <description>ウクライナは２１日、ロシアによる大規模な攻撃を受け、９人が死亡した。両国の戦争に関してはこのほど米ロ首脳会談が行われ、ウクライナと欧州の首脳らが停戦を実現しようとトランプ米大統領と協議したばかりだが、進展がない中でロシアの攻撃は激しさを増している。
+
+今回の攻撃はここ１カ月超で最大規模。ウクライナのゼレンスキー大統領が明らかにしたところによると、ロシアは５７４機のドローン（無人機）とミサイル４０...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236997.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/0b739d23f7602a40fd51577e1e4e7353/t/768/510/d/gettyimages-2230478040.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/architecture/35236990.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+        <title>ＮＹの超高層ビルが「１６分の１の確率で倒壊」――事実を知った唯一の人物が取った行動は</title>
+        <link>https://www.cnn.co.jp/style/architecture/35236990.html?ref=rss</link>
+        <description>１９７７年１０月１２日、米金融大手シティコープはニューヨーク市に、３０年代初頭以降で最も高いビルをオープンした。高さ約２８０メートルのビルを遠くから望むと、傾斜した独特の屋根がメスのようにミッドタウンの空に切り込んでいた。地上で近くから見ると、一段低くなった広場の上に５９階の建物が浮かんでいるようで、通行人に十分なスペースを提供する建築姿勢が表れていた。
+
+シティコープ・センターは今もそこに建っ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/architecture/35236990.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/ede15a73f9333b19ec36c44f2aad1c1d/t/768/432/d/kekhfj.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236996.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T21:15:00+09:00</dc:date>
+        <title>北朝鮮で死にたい――越境を試みた９５歳の元兵士、韓国は帰還認めず</title>
+        <link>https://www.cnn.co.jp/world/35236996.html?ref=rss</link>
+        <description>朝鮮戦争中に韓国で捕虜となり、政治的信念を捨てることを拒み続けて４０年以上も投獄されていた北朝鮮出身の男性が、北朝鮮へ帰還して死にたいと訴えている。
+
+アン・ハクソプさん（９５）は北朝鮮軍の兵士だった時も、韓国の捕虜となって「反体制派」となってからも、米国による韓国の「占領」に対して抵抗を続けてきた。４２年半にわたった投獄は、北朝鮮をかたくなに支持し続け、転向を拒み続けたためだった。
+
+衰弱して車...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236996.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/74fec484069c75792afd3b1c3ffdc24e/t/768/432/d/img-9137-2-20250820034256851.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236995.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T20:10:00+09:00</dc:date>
+        <title>ウクライナ大統領、停戦の実現巡り「ある程度の妥協」を準備</title>
+        <link>https://www.cnn.co.jp/world/35236995.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は、ロシアのプーチン大統領との会談前に停戦を実現させるという自身の要求について、「ある程度の妥協」をする用意があると述べた。ただしウクライナの安全の保証が何らかの形で成立するならという条件を付けた。
+
+ゼレンスキー氏が上記の言葉を口にする一方、ロシア政府はプーチン氏とゼレンスキー氏の二者会談の計画が「進行中」だとするホワイトハウスの見解を公然と否定している。
+
+ウクラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236995.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/9a09a1d54880439bc7caf385bf95518b/t/768/512/d/gettyimages-2230141769.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236993.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T19:00:00+09:00</dc:date>
+        <title>北朝鮮に秘密のミサイル基地、東アジアや米国へ「潜在的な核の脅威」　新報告書</title>
+        <link>https://www.cnn.co.jp/world/35236993.html?ref=rss</link>
+        <description>北朝鮮は北部の中国国境付近に未申告の秘密ミサイル基地を保有しており、東アジアや米国の大部分へ「潜在的な核の脅威」を突きつけている可能性がある――。２０日公表の新たな報告書で、そんな現状が明らかになった。
+
+このミサイル基地は中国国境からわずか２７キロに位置する。米戦略国際問題研究所（ＣＳＩＳ）の報告書によると、核搭載可能な大陸間弾道ミサイル（ＩＣＢＭ）最大９発と、移動式の発射装置が保管されていると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236993.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/5624b7749d56e049e76c86f65b36098f/t/768/512/d/gettyimages-2157769730.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236989.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T18:39:00+09:00</dc:date>
+        <title>中国軍、最新兵器の公開を準備　第２次大戦終結祝うパレードでお披露目へ</title>
+        <link>https://www.cnn.co.jp/world/35236989.html?ref=rss</link>
+        <description>北京の街中を運ばれていく兵器群の一部は、巨大な防水シートで覆われている。それでもそこに浮かぶシルエットは紛れもなくミサイル、戦車、潜水艇のものだ。中国は現在、６年ぶりの大規模な軍事パレードに向けた準備を進めている。
+
+軍事ウォッチャーにとって、ベールに包まれた兵器の列は９月３日に行われる大規模な軍事パレードで何が披露されるのかを類推する上で貴重な手がかりを提供する。中国は、このパレードで人民解放...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236989.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/9a01e81bcd8420a7ca5efe718369ff46/t/768/576/d/img-9898.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236981.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T17:10:00+09:00</dc:date>
+        <title>保安官が店舗で空腹の強盗に遭遇、アイスクリーム欲しがる熊だった　米加州</title>
+        <link>https://www.cnn.co.jp/fringe/35236981.html?ref=rss</link>
+        <description>米カリフォルニア州サウスレークタホにあるアイスクリームショップへの通報を受け、駆けつけた保安官たちは恐ろしい犯罪に遭遇した。店内には甘いアイスクリームを探し求める１頭の熊が侵入していた。
+
+エルドラド郡保安官事務所は、１７日早朝に当該の店舗に駆けつけたと発表した。
+
+熊は店のカウンターの後ろに隠れていた。保安官事務所が公開した写真には、大きなアメリカグマが前足をカウンターに乗せている様子が写ってい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236981.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/667ecb455cf91174cb012c7b562584c9/t/768/576/d/KCRABear.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236980.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T16:00:00+09:00</dc:date>
+        <title>米カリフォルニア州の住民、ペストの感染確認　キャンプでノミに噛まれたか</title>
+        <link>https://www.cnn.co.jp/fringe/35236980.html?ref=rss</link>
+        <description>米カリフォルニア州の保健当局はこのほど、タホ湖周辺の住民がペストの検査で陽性反応を示したと明らかにした。当局者の間ではこの住民について、サウスレイクタホ地域でキャンプ中、感染したノミに噛（か）まれ伝染したとの見方が出ている。
+
+感染が公表されたのは１９日。エルドラド郡の複数の当局者が声明で明らかにしたところによると、この住民は自宅療養中で、医療の専門家の治療を受けているという。
+
+エルドラド郡公衆...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236980.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/d8697fb13efa5a4cf6c67d293d63dc28/t/768/512/d/gettyimages-925863758-20250821021816494.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236977.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T15:25:00+09:00</dc:date>
+        <title>インド、核搭載可能なミサイルの発射実験に成功　モディ首相の訪中１週間前に</title>
+        <link>https://www.cnn.co.jp/world/35236977.html?ref=rss</link>
+        <description>インドが国産弾道ミサイルの発射実験に成功した。ミサイルは地政学的ライバルである中国の領土の奥深くまで、核弾頭を搭載して到達が可能。モディ首相が数年ぶりに中国を訪問する準備を進める中での成功となった。
+
+インド国防省は２０日の声明で、弾道ミサイル「アグニ５」が東部オリッサ州で発射され、「すべての運用上および技術上のパラメータを検証した」と述べた。
+
+戦略国際問題研究所（ＣＳＩＳ）のミサイル防衛プロジ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236977.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/d7af56f2ef37452171cedb116b0a8728/t/768/426/d/gettyimages-159910781.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236974.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T13:56:00+09:00</dc:date>
+        <title>中国、ロシア産原油買い増し　トランプ関税によるインドの需要減少を好機に</title>
+        <link>https://www.cnn.co.jp/world/35236974.html?ref=rss</link>
+        <description>中国の製油所がロシア産原油を買い増している。これらの原油は通常インドに供給している港から輸送される分だ。トランプ米大統領が課した関税の影響で、インドのロシア産原油に対する需要が減少していることが背景にある。
+
+アナリストによると、中国の製油所は１０月と１１月引き渡し分のロシア産原油を少なくとも１５カーゴ分確保しているという。
+
+ロシアによる２０２２年のウクライナ侵攻を受け、西側諸国がロシアからの原...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236974.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/ad8cb87cda4d9c2f80cab90f194c03de/t/768/500/d/2025-08-19t112601z-153752102-rc2syx9brvu7-rtrmadp-3-china-russia-oil.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236967.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T12:48:00+09:00</dc:date>
+        <title>イスラエル、西側協力国に外交攻撃を開始　各国のパレスチナ国家承認を前に</title>
+        <link>https://www.cnn.co.jp/world/35236967.html?ref=rss</link>
+        <description>国際紛争が激化する中、イスラエルは来月パレスチナ国家を承認する準備を進める西側の協力国に対し、一連の外交攻撃を開始した。
+
+イスラエルのネタニヤフ首相はフランスとオーストラリアの首脳に対し、厳しい内容の書簡を２通送付。両国首脳がパレスチナ国家を承認する決定によって反ユダヤ主義を煽（あお）っていると非難した。どちらの書簡でも、ネタニヤフ氏はここ数カ月に発生した反ユダヤ主義および反イスラエル的な事件...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236967.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/6a6e68fb11ed737d264cbd35de179705/t/768/561/d/2025-04-04t123007z-589779649-rc2yqdaap7xr-rtrmadp-3-israel-palestinians-hungary.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236966.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T12:22:00+09:00</dc:date>
+        <title>フードブロガーが窓際で食事中にＳＵＶが突っ込む瞬間の映像　「死ぬかと思った」　米</title>
+        <link>https://www.cnn.co.jp/fringe/35236966.html?ref=rss</link>
+        <description>米テキサス州ヒューストンの飲食店でフードブロガーの男女が食事中のテーブルにＳＵＶ（スポーツ用多目的車）が突っ込む出来事があった。
+
+ニーナ・アンレーティッドさんとパトリック・ブラックウッドさんは窓際に面したテーブルで食事をする様子を録画していた。いつものように食べながら写真を撮っていると、突如ＳＵＶが窓を突き破り、窓ガラスが砕け散った。ふたりは投げ出されるように慌てて席から離れた。
+
+この衝突で大...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236966.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/6c87c8e543baf98a9b614cc883b97bbc/t/768/432/d/foodie.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35236965.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T11:38:00+09:00</dc:date>
+        <title>英当局、シャワージェルのＣＭを放送禁止に　肌の色の優劣比較と解釈</title>
+        <link>https://www.cnn.co.jp/business/35236965.html?ref=rss</link>
+        <description>英国で放送されたボディーケア用品のテレビＣＭをめぐり、英国の広告基準協議会（ＡＳＡ）は２０日、「白い肌の方が黒い肌よりも優れているかのように受け止められる可能性がある」と判断して、放送を禁止したと発表した。
+
+問題となったのは、米日用品大手コルゲート・パーモリーブ傘下のサネックスが販売しているシャワージェルのＣＭ。ＡＳＡによると、このＣＭをめぐって「肌の色が濃い人々に関する否定的な固定観念を助長...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35236965.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/61aa7f8a18cc1af96fd0fa0d95e525b7/t/768/433/d/2025-08-18t094921z-762473505-rc2g9gaascew-rtrmadp-3-asia-weather-pakistan-rain.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236961.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T10:48:00+09:00</dc:date>
+        <title>ライブ配信中に男性死亡、過酷な「チャレンジ」で暴行や虐待　フランス警察が捜査</title>
+        <link>https://www.cnn.co.jp/world/35236961.html?ref=rss</link>
+        <description>フランスで過酷なチャレンジの様子をほぼ１２日間にわたってライブ配信していた男性が、暴行や虐待を受けて死亡したとみられる事件があり、警察が捜査に乗り出した。
+
+ストリーマーのジャン・ポルマノーブ（ＪＰ）ことラファエル・グラベンさん（４６）は１８日に死亡した。「Ｋｉｃｋ」など複数の配信プラットフォームで１００万を超すフォロワーを獲得し、ゲームの動画や過酷なチャレンジの動画で注目されていたストリーマー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236961.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/45f3c24bfdb94b4a1e62ebe4b5dbd885/t/768/512/d/344240489-184797371134941-8043807940523697895-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236956.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T10:09:00+09:00</dc:date>
+        <title>イスラエル、ガザ市への大規模攻撃に向け展開　消耗した軍は兵力の限界に直面か</title>
+        <link>https://www.cnn.co.jp/world/35236956.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区北部ガザ市への大規模攻撃を実行するため、軍が同市郊外に展開する中、イスラエルはこの軍事作戦に参加する数万人の予備役を招集している。
+
+イスラエルのネタニヤフ首相がイスラム組織ハマスの最後の拠点の一つと評したガザ市の制圧と占領には、６万人の予備役の追加投入に加え、２万人の兵役延長が必要となる。
+
+イスラエル国防軍（ＩＤＦ）の報道官は２０日、大規模作戦の第１段階として軍がすでに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236956.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/ecfefa5f1d56d3a5efcb378c3242376b/t/768/512/d/gettyimages-2230862034.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236955.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T10:09:00+09:00</dc:date>
+        <title>旅客機の主翼後縁フラップ、飛行中に脱落しかける　米</title>
+        <link>https://www.cnn.co.jp/usa/35236955.html?ref=rss</link>
+        <description>米テキサス州でこのほど、ボーイング７３７型機の主翼に取り付けられたフラップ（高揚力装置）が着陸前に脱落しかける出来事があり、連邦航空局（ＦＡＡ）が調査を進めている。
+
+この出来事が発生したのは１９日。デルタ航空１８９３便がフロリダ州のオーランド国際空港からテキサス州のオースティン・バーグストロム国際空港へ向かっていた際、主翼の後部が脱落しかけているのに乗客が気付いた。
+
+乗客のシャニラ・アリフさん...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236955.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/9f2632ab69ef65c369a05be360c096a9/t/768/432/d/still-21884083-2843-109-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236942.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T09:11:00+09:00</dc:date>
+        <title>米連邦地裁、エプスタイン事件の大陪審証言の公開認めず</title>
+        <link>https://www.cnn.co.jp/usa/35236942.html?ref=rss</link>
+        <description>米ニューヨーク州の連邦地裁は２０日、性犯罪で起訴され拘置所で死亡した米富豪、ジェフリー・エプスタイン元被告の事件に関する大陪審証言の公開を認めない判断を示し、司法省の公開要求を却下した。
+
+バーマン判事は、公開しないとの判断に至った理由について、「大陪審証言に含まれている情報は司法省が持っているエプスタイン事件に関する捜査情報や文書に比べれば取るに足りないもの」と説明した。
+
+バーマン氏の判断につ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236942.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/acaeb6e8a02b894b551a6765d7f00dbe/t/768/480/d/c-2223410052.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236939.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T08:48:00+09:00</dc:date>
+        <title>トランプ氏、クックＦＲＢ理事の辞任要求　住宅ローンでの不正疑惑で</title>
+        <link>https://www.cnn.co.jp/usa/35236939.html?ref=rss</link>
+        <description>トランプ米大統領は２０日、米連邦準備理事会（ＦＲＢ）のクック理事の辞任を要求した。トランプ氏に近い高官が、クック氏が住宅ローンの申請で不正を行ったと主張していることを受けてのもの。
+
+米連邦住宅金融局のパルテ局長は１５日付の書簡で、クック氏が数年前に申請した２件の住宅ローンについて調べるよう、司法省に求めていた。
+
+トランプ氏はＳＮＳでこうした指摘に言及し、「クック氏は今すぐ辞任すべきだ」と書き込...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236939.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/384a290096a206b0e1250ea4a554f6da/t/768/512/d/gettyimages-2221380431.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236930.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T20:15:00+09:00</dc:date>
+        <title>インカ帝国以前の失われた社会の秘密、古代神殿が謎を解明か　ボリビア</title>
+        <link>https://www.cnn.co.jp/fringe/35236930.html?ref=rss</link>
+        <description>西暦１０００年ごろに消滅した謎のアンデス文明の「ティワナク」に属する古代神殿の境界とみられる遺跡が南米ボリビアで発見された。
+
+研究チームは、現在のボリビアのカラコロ市にあたる高地で、巨大な神殿群を発掘した。遺跡はチチカカ湖の南東に位置しており、失われた社会の秘密を解き明かす手掛かりを求めてこれまで重点的に調査が行われてきた地域とは別の場所だった。
+
+今回の遺跡は、インカ帝国以前の強大な帝国の首都...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236930.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/27987f6e98d890043e21d50eb444b388/t/768/576/d/large-tiwanaku-landscape.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236932.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T19:30:00+09:00</dc:date>
+        <title>米南部国境の壁を黒塗りに、国土安全保障長官が発表　炎天下で登る人減らす狙い</title>
+        <link>https://www.cnn.co.jp/usa/35236932.html?ref=rss</link>
+        <description>米国土安全保障省のクリスティー・ノーム長官は１９日、南部国境沿いの壁を黒く塗ると発表した。壁表面の高熱化により、登れなくなるようにする狙いがある。トランプ大統領からの提案だったという。
+
+ノーム氏はニューメキシコ州サンタテレサで行われた記者会見で、実際に壁の前に立ち、「壁は高さがあるので登るのは極めて困難であり、ほぼ不可能。また地中深くに埋め込まれているため、下を掘るのも不可能ではないとしても至...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236932.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/afe372ad03aa5f9bb895a89e07755f9f/t/768/512/d/ap25176633203611.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236934.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T19:00:00+09:00</dc:date>
+        <title>米ＦＤＡ、ウォルマートで販売の冷凍エビを食べないよう呼び掛け　放射性物質に汚染の疑い</title>
+        <link>https://www.cnn.co.jp/usa/35236934.html?ref=rss</link>
+        <description>米食品医薬品局（ＦＤＡ）は１９日、米小売り大手ウォルマートで販売された一部の冷凍エビについて、放射性物質による汚染の疑いがあるなどとして食べないよう呼びかけた。
+
+ＦＤＡによると、問題のエビはインドネシアの企業ＢＭＳフーズが供給したもので、米国の港（ロサンゼルス、ヒューストン、サバンナ、マイアミ）で差し止められたエビのサンプルから、放射性物質セシウム１３７が検出された。
+
+汚染が確認された輸入品は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236934.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/99c29b0e62b494a691c1fcccaa69b9c1/t/768/511/d/large-gettyimages-2185459708.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236931.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T17:50:00+09:00</dc:date>
+        <title>イランから強制送還されたアフガン人を乗せたバスが事故、７６人死亡</title>
+        <link>https://www.cnn.co.jp/world/35236931.html?ref=rss</link>
+        <description>イランから強制送還されたアフガニスタン人を乗せたバスが１９日に衝突事故を起こして炎上し、数十人が死亡した。
+
+ヘラート州知事の報道官によると、幹線道路での衝突事故により少なくとも７６人が死亡した。犠牲者には男性、女性、子どもが含まれているという。
+
+報道官によれば、バスはイランとの国境に近いイスラムカラを出発し、首都カブールに向かっていたところで事故に遭った。
+
+現場の映像には炎に包まれたバスと黒煙...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236931.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/0559ec34a2dcff3276633ba6e87c02df/t/768/432/d/large-gyu7y3nwmaazz-d.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236922.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T17:25:00+09:00</dc:date>
+        <title>米、移民申請で「反米主義」審査へ　マッカーシズムさながらと批判の声</title>
+        <link>https://www.cnn.co.jp/usa/35236922.html?ref=rss</link>
+        <description>米当局は１９日、米国での居住または就労を申請する人は今後「反米主義」の有無について審査を受けると発表した。これにはソーシャルメディアのチェックも含まれるという。移民擁護団体や弁護士は、こうした規制強化に警戒感を抱いている。
+
+米市民権・移民業務局（ＵＳＣＩＳ）の政策更新によると、入国管理官は申請者が「反米組織やテロ組織に関与したことがあるか」、あるいは「反ユダヤ主義活動の証拠があるか」を審査でき...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236922.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/af9b42ddec02ec21e17837cb916815d6/t/768/512/d/ap25231818865397.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236863.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T16:35:00+09:00</dc:date>
+        <title>２種類の人類の祖先、同じ地域と年代に共存か　一方は未知の種の可能性も　エチオピア</title>
+        <link>https://www.cnn.co.jp/fringe/35236863.html?ref=rss</link>
+        <description>エチオピア北東部での数十年がかりの考古学プロジェクトで発見された太古の歯の化石は、二つの異なる種類のホミニン（ヒト族＝人類の祖先）が２６０万～２８０万年前に同じ地域で暮らしていたことを示唆する。そのうちの一方は、従来知られていなかった種である可能性がある。
+
+今回の発見は、人類進化の複雑な網の目に対する新たな知見を提供する。２０１８～２０年にかけて見つかった歯の化石１０点は、初期人類の系統に位置...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236863.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/19/cffdb816a22984851b5e30431b697642/t/768/576/d/2018-turtle-flat.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236915.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T16:00:00+09:00</dc:date>
+        <title>社会保障給付欲しさに友人の遺体と２年暮らした夫婦が逮捕、飼い犬が遺体かじる　米　</title>
+        <link>https://www.cnn.co.jp/usa/35236915.html?ref=rss</link>
+        <description>死亡した友人の社会保障給付金を受け取るため、遺体とともに暮らしていた疑いで米コロラド州レイクウッド在住の夫婦が逮捕された。遺体は夫婦が飼っていたペットのチワワにかじられていたという。現地メディアのデンバー７が１９日に入手した逮捕状請求資料で明らかになった。
+
+ジェームズ・アグニュー容疑者（５５）とスザンヌ・アグニュー容疑者（５７）は先月、ジェームズ・フランシス・オニールさん（６４）の遺体への虐待...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236915.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/8aabc87c8fe4aac2803fb9fea69710cb/t/768/432/d/kmghcouplecorpsedogchewed081925.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236897.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T14:30:00+09:00</dc:date>
+        <title>元人質のイスラエル人が語る、自由の罪悪感　解放後の心にのしかかる</title>
+        <link>https://www.cnn.co.jp/world/35236897.html?ref=rss</link>
+        <description>エリヤ・コーエンさんは拘束状態から生還したにもかかわらず、今なお自らの人生を取り戻せずにいる。イスラム組織ハマスの武装集団が防空壕（ごう）に手榴弾（しゅりゅうだん）を投げ込む中、コーエンさんは人々の遺体の下に隠れて無事だったが、その後人質となった。
+
+パレスチナ自治区ガザ地区で５０５日間鎖につながれ、他の人質とピタパンの切れ端や缶詰の豆を分け合いながら監禁生活を送った。やがて解放され、喜びに満ち...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236897.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/46834576096e9d8f77cef4a3b993ea90/t/768/432/d/still-21880331-1008-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236904.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T13:55:00+09:00</dc:date>
+        <title>ウクライナへの「安全の保証」、日本も関与の用意　石破首相</title>
+        <link>https://www.cnn.co.jp/world/35236904.html?ref=rss</link>
+        <description>日本の石破茂首相は、ウクライナの「安全の保証」をめぐる取り組みに関与する意向を示した。ただし具体的な内容については言及しなかった。
+
+石破首相は１９日、記者団に対し、日本の法律や能力の観点から何をすべきか、何ができるかを議論し、しかるべき役割を果たしていくと述べた。その上で、現時点では、どのような支援が可能かについて詳細を語れる段階にはないとした。
+
+日本は北大西洋条約機構（ＮＡＴＯ）の正式な加盟...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236904.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/fab56b1b5c9cd7a82872443bda1fc622/t/768/511/d/large-2kl-rtrmadp-3-eu-japan.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236908.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-20T13:11:00+09:00</dc:date>
+        <title>米特使、ロシアが「ほぼ即座に譲歩」と主張　米ロ首脳会談めぐり</title>
+        <link>https://www.cnn.co.jp/usa/35236908.html?ref=rss</link>
+        <description>トランプ米政権で対ロシア交渉の窓口を務めるウィトコフ中東担当特使は２０日までに、米アラスカ州で先週開かれたトランプ大統領とロシアのプーチン大統領の会談について、新たな詳細を明らかにし、ロシア側が「ほぼ即座に」譲歩したと述べた。
+
+ウィトコフ特使は米ＦＯＸニュースに対し、「アラスカでの最初の会談で、ロシア側からほぼ即座に譲歩があった」と語った。「その譲歩を引き出す一環として、ロシア側がより歩み寄る...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236908.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/20/a78d2489b7ec4bc49042898ad1983a72/t/768/511/d/large-ap25194638069345.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
