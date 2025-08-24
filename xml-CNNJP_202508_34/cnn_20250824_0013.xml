@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-08-23T18:24:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237069.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237066.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237070.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237068.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237067.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237064.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35237061.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237063.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237060.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237058.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237059.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237052.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237030.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237040.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237044.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237038.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237035.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237027.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237028.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237004.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237005.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237000.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35236998.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236997.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/architecture/35236990.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236996.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236995.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236993.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35236989.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35236981.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237069.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T18:24:00+09:00</dc:date>
+        <title>小惑星「２０２４ ＹＲ４」、地球ではなく月に衝突する可能性＜下＞　衝突への備え</title>
+        <link>https://www.cnn.co.jp/fringe/35237069.html?ref=rss</link>
+        <description>カナダのウェスタン・オンタリオ大学の教授を務めるポール・ウィーガート氏によると、小惑星「２０２４ ＹＲ４」と月の衝突で生じた数百～数千個の微細な破片が降り注げば、地球の人工衛星群に影響が出かねない。こうした人工衛星は、最大１０年分に相当する量の隕石（いんせき）にわずか数日でさらされる可能性もある。
+
+
+  
+     小惑星「２０２４ ＹＲ４」、地球ではなく月に衝突する可能性＜上＞　そのとき何が起きるのか？...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237069.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/737bf456bb8db48820e2219919f82046/t/768/549/d/2024yr4-moon-june2025-v2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237066.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T17:45:00+09:00</dc:date>
+        <title>人口減少の韓国は兵力も縮小、北朝鮮は軍事力を増強　これは問題か？</title>
+        <link>https://www.cnn.co.jp/world/35237066.html?ref=rss</link>
+        <description>予兆はかなり前から明らかだった。韓国の出生率は過去１０年間のほとんどで低下しており、アジア地域での脅威が増し、世界各地で紛争がくすぶるなか、韓国軍にとっての問題となっている。
+
+新たな報告書によれば、過去６年間で韓国軍の兵力は２０％減少している。その主な原因は若い兵士の減少で、世界で最も急速に高齢化が進む国の一つである韓国での労働力の減少と高齢者人口の増加を反映している。
+
+国防省の報告書は兵力の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237066.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/1dc3c2059badd941bbb89e167881a8dd/t/768/511/d/gettyimages-669024680.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237070.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T16:55:00+09:00</dc:date>
+        <title>観光バスが横転し５人死亡、数十人負傷　米ニューヨーク州</title>
+        <link>https://www.cnn.co.jp/usa/35237070.html?ref=rss</link>
+        <description>２２日午前、ナイアガラの滝の息を呑（の）むような景色を堪能した後、観光客の一団がバスに乗り込み、ニューヨーク市への帰路に就いた。しかしその約１時間後、バスはニューヨーク州の高速道路脇の溝に横転する事故を起こした。
+
+当局によると、バスの運転手は不注意から車両を制御できなくなり、バスは州間高速道路上で横転した。場所はバッファローの東郊ペンブロークの近く、ナイアガラの滝からは東へ約６４キロの地点だっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237070.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/5b2fc26c81ef08731790a69e37e81f53/t/768/432/d/still-21889639-1026994-7930000001-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237068.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T15:40:00+09:00</dc:date>
+        <title>新種の恐竜発見、背中に帆を思わせる際立った特徴　英</title>
+        <link>https://www.cnn.co.jp/fringe/35237068.html?ref=rss</link>
+        <description>古生物学者たちが、背中に帆のような構造を持つ非常に特徴的な新種の恐竜を発見した。ロンドン自然史博物館が２２日に発表した。
+
+英国のセーリング選手として数々の記録を塗り替えたエレン・マッカーサー氏にちなんで命名された恐竜、イスティオラキス・マカルトゥーラエの骨は、英イングランド南岸沖の小さな島、ワイト島で発見された。この恐竜は１億２０００万年以上前、イグアノドンの近縁種（ジュラ紀後期から白亜紀前期...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237068.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/9d8d9635e0885abf7d6139bae84d5a94/t/768/432/d/istiorachis-artist-impression-credit-james-brown-university-of-portsmouth.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237067.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T14:30:00+09:00</dc:date>
+        <title>今週末に発生、「ブラックムーン」とは？　１カ月に起きる２度目の新月</title>
+        <link>https://www.cnn.co.jp/fringe/35237067.html?ref=rss</link>
+        <description>月には様々な呼び名がある。今年８月には「スタージョン（チョウザメ）ムーン」と呼ばれる満月が観測され、３月に夜空を見上げた人は、月食の際に月が赤く染まる「ブラッドムーン」を目にしたかもしれない。１カ月に起きる２度目の満月「ブルームーン」について聞いたことがある人もいるだろう。
+
+そして今週末に起きるのが、珍しい「ブラックムーン」だ。これは目には見えない。
+
+この現象は米国時間２３日夜から２４日未明に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237067.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/57c886e54b41f89b9de51b18340bcbb2/t/768/431/d/black_moon.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237064.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T14:15:00+09:00</dc:date>
+        <title>トランプ氏、プーチン氏に再度「数週間」の猶予与える　ウクライナ和平交渉に進展の兆し見えず</title>
+        <link>https://www.cnn.co.jp/usa/35237064.html?ref=rss</link>
+        <description>米国のトランプ大統領は２２日、ロシアのプーチン大統領に「数週間」の猶予を与える意向を表明した。戦争終結を目指してウクライナ大統領との会談を促した後、ロシア側に対する潜在的な制裁措置の期限をさらに延長した形だ。
+
+ＣＮＮとの会見で明らかにした。プーチン氏が交渉のテーブルに着かない場合に何の措置も講じない可能性はあるかと問われたトランプ氏は「様子を見よう。誰の責任か見極めるつもりだ」と答えた。
+
+「も...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237064.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/1db87dd55b1113510b8fde9b5cdb03fa/t/768/510/d/usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35237061.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T13:00:00+09:00</dc:date>
+        <title>ほぼすべての乗客が機内に持ち込むリチウム電池、熱暴走で何が起きるか　米当局が実証試験</title>
+        <link>https://www.cnn.co.jp/travel/35237061.html?ref=rss</link>
+        <description>ほぼすべての乗客が、リチウムイオン電池を飛行機内に持ち込む。携帯電話、ノートパソコン、充電式バッテリー、さらには電子タバコなどでそうした電池が使われている。これらの電池に何か不具合が生じた場合、壊滅的な被害をもたらす恐れがあることが米連邦航空局（ＦＡＡ）の実証試験で明らかになった。
+
+先月、デルタ航空１３３４便がアトランタからフォートローダーデールへ飛行中、バックパックから煙と炎が噴き出した。パ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35237061.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/1708e40b147d19d1d5ddfe2127580ef3/t/768/432/d/still-21881631-2426-667-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237063.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T12:25:00+09:00</dc:date>
+        <title>ＦＢＩ、ボルトン元大統領補佐官の自宅など捜索　国家安全保障巡る捜査の一環</title>
+        <link>https://www.cnn.co.jp/usa/35237063.html?ref=rss</link>
+        <description>米連邦捜査局（ＦＢＩ）は２２日、裁判所の許可を得てボルトン元大統領補佐官（国家安全保障担当）の自宅や事務所を捜索した。事情に詳しい情報筋２人によると、ボルトン氏の２０２０年の著書で機密情報の漏洩（ろうえい）がなかったかどうかを巡る再捜査の一環。
+
+今回の捜査に対しては直ちに、トランプ大統領が政府の力を利用して政敵を狙っているとの批判が寄せられたものの、捜索の具体的な根拠は明らかになっていない。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237063.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/a2c7cd88716cbaf32183c90326e18bf9/t/768/512/d/gettyimages-2231476680.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237060.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T10:56:00+09:00</dc:date>
+        <title>珍しい有毒のウミウシ「ブルードラゴン」、スペイン観光地で発見　海水浴場が一時閉鎖に</title>
+        <link>https://www.cnn.co.jp/fringe/35237060.html?ref=rss</link>
+        <description>スペイン南東部の海辺の町グアルダマル・デル・セグラで今週、海中から有毒のウミウシが２匹発見され、地元当局が海水浴場の閉鎖を発表した。
+
+地元警察はフェイスブックへの２０日の投稿で、「ブルードラゴン（アオミノウミウシ）」の出現を受け、「住民の安全上の理由から、新たな指示があるまで公営の海水浴場での遊泳を全面禁止する」と明らかにした。
+
+「ブルードラゴン」の俗称は神話上の青い竜に似ていることに由来する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237060.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/8a878fda60892c5e474524b31c63fccc/t/768/432/d/shutterstock-editorial-1464529a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237058.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T10:20:00+09:00</dc:date>
+        <title>ガザ市で「人為的な」飢饉、国連支援組織が確認　今後拡大の可能性</title>
+        <link>https://www.cnn.co.jp/world/35237058.html?ref=rss</link>
+        <description>国連が支援するイニシアティブが２２日に発表した報告書によると、パレスチナ自治区ガザ地区の一部地域では「人為的な」飢饉（ききん）が公然と展開されている。また数カ月にわたる容赦ない紛争の後で、状況は一段の悪化が予想される。
+
+食料危機の程度を検証する枠組み「総合的食料安全保障レベル分類（ＩＰＣ）」が、ガザ地区（ガザ市を含む）で飢饉を確認した。ガザ市は現在、イスラエルによる新たな大規模攻撃の拠点となっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237058.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/5beca8babf54a58e6d65fb24e80e60f4/t/768/512/d/gettyimages-2229129206.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237059.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T09:31:00+09:00</dc:date>
+        <title>エプスタイン元被告の交際相手への聴取、米司法省が記録公開　トランプ氏の不適切行動は把握せず</title>
+        <link>https://www.cnn.co.jp/usa/35237059.html?ref=rss</link>
+        <description>米司法省は２２日、性犯罪で起訴され勾留中に死亡した米富豪ジェフリー・エプスタイン元被告の元交際相手、ギレーヌ・マクスウェル受刑者に対して先月行った聞き取り調査の記録を公開した。マクスウェル受刑者とエプスタイン元被告の関係について新たな詳細が明らかになった。
+
+マクスウェル受刑者はブランチ司法副長官から数時間に及ぶ質問に答えた。
+
+全３７７ページの文書の主な内容は以下の通り。
+
+カメラ：マクスウェル受...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237059.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/ed5cf483a7451da2595d04e5e2c7f483/t/768/537/d/c-2211362529.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237052.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T18:10:00+09:00</dc:date>
+        <title>郵便配達員の小さな親切に称賛の声、防犯カメラに洗濯物取り込む姿映る　豪</title>
+        <link>https://www.cnn.co.jp/fringe/35237052.html?ref=rss</link>
+        <description>一人の郵便配達員が、並外れた行動に出た「ヒーロー」として称賛を浴びている。もっともその素晴らしさを十分に理解できるのは、ベッドシーツを外で天日干しする人たちだけかもしれないが。
+
+郵便配達員のグルプリート・シンさんは今月１４日、ブリスベン南郊ローガンにある住宅へ配達に訪れた。その姿を家の防犯カメラが捉えていた。
+
+あまりプロ意識の高くない一部の配達員とは異なり、シンさんは荷物をドアに向かって放り投...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237052.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/62d492ab4823d023e43357afbf325dbd/t/768/576/d/17454.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237030.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T17:00:00+09:00</dc:date>
+        <title>遭難し負傷した米国人ハイカー、自分の尿飲み荒野で生き延びる　ノルウェー</title>
+        <link>https://www.cnn.co.jp/world/35237030.html?ref=rss</link>
+        <description>ノルウェーの急峻（きゅうしゅん）な崖から転げ落ちた時、アレック・ルーン氏は命の危険を感じた。
+
+「『これは本当にまずい。まるで災害映画の始まりだ』と思ったのを覚えている」とルーン氏はＣＮＮのインタビューで振り返った。
+
+米ウィスコンシン州出身の３８歳の気候ジャーナリスト、ルーン氏は７月下旬、ノルウェー南西部のフォルゲフォンナ国立公園への４日間のハイキングに出発した。この広大な土地は氷河で知られてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237030.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/437c17ffe02e4072684886458074216e/t/768/512/d/whatsapp-image-2025-08-05-at-17-13-41.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237040.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T16:00:00+09:00</dc:date>
+        <title>ジェームズ・ウェッブ宇宙望遠鏡、天王星の新たな衛星を発見　天王星の環の謎解明する手がかりに</title>
+        <link>https://www.cnn.co.jp/fringe/35237040.html?ref=rss</link>
+        <description>米航空宇宙局（ＮＡＳＡ）によると、ジェームズ・ウェッブ宇宙望遠鏡によって、これまで知られていなかった天王星の衛星が発見された。この発見により、天王星の衛星は２９個に増えたことになる。
+
+この衛星は、ジェームズ・ウェッブ宇宙望遠鏡の近赤外線カメラが２月２日に撮影した４０分間の長時間露光画像によって明らかになった。
+
+コロラド州ボルダーにあるサウスウエスト研究所太陽系科学探査部門の主任科学者、マリアム...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237040.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/2b6a613662bf7dc1ebef70c269112951/t/768/768/d/pia18182-orig.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237044.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T15:00:00+09:00</dc:date>
+        <title>イスラエルの攻撃迫るガザ市、恐怖を募らせる住民　強制退去に危機感</title>
+        <link>https://www.cnn.co.jp/world/35237044.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区北部のガザ市にイスラエルの攻撃が迫っている。住民や避難民は恐怖を募らせながらも、強制退去を拒んで抗議運動を展開している。
+
+２１日に行われた数十人規模の抗議デモには、これ以上の避難を強いられることや、攻撃がエスカレートすることを恐れ、男性も女性も子どもも加わった。参加者はパレスチナの旗を振り、「ジェノサイド（集団殺害）を止めろ」「ガザは死にかけている」などの横断幕を掲げて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237044.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/72ff8c68e7830b85d72c4c62309dd192/t/768/512/d/gettyimages-2230475003.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237038.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T13:45:00+09:00</dc:date>
+        <title>ロシアのために命落とした北朝鮮兵士、「心が痛む」と金正恩氏　損失認める</title>
+        <link>https://www.cnn.co.jp/world/35237038.html?ref=rss</link>
+        <description>北朝鮮の金正恩（キムジョンウン）朝鮮労働党総書記は、ウクライナとの戦争でロシアのために戦死した自国の兵士たちに哀悼の意を表し、「心が痛む」と述べた。金氏が北朝鮮の軍事的損失について認めるのは異例。
+
+上記の発言は２１日、平壌で行われた式典でのもの。北朝鮮の国営メディア、朝鮮中央通信（ＫＣＮＡ）が伝えた。式典に臨んだ金氏は、クルスク州西部でロシアのために戦った部隊の指揮官らと面会。兵士たちを「英雄...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237038.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/8c4cad61a0f8b8ddb372a5d1a8f972fd/t/768/501/d/9e9de07d8e8180d9a16f0e7fe9a-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237035.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T11:55:00+09:00</dc:date>
+        <title>「悪質なデマ」でキャンパス封鎖、米大学で銃撃事件発生の虚偽通報相次ぐ</title>
+        <link>https://www.cnn.co.jp/usa/35237035.html?ref=rss</link>
+        <description>米ペンシルベニア州で２１日、ビラノバ大学の構内で銃撃事件が発生しているという虚偽通報があり、学生らが構内に閉じこもって身を潜める行動を強いられた。現場は警察や消防が詰めかけて捜索を行うなど、一時騒然となった。
+
+同大のピーター・Ｍ・ドノヒュー学長から関係者に届いた通知によると、負傷者の報告はなく、武器も見つからなかった。
+
+キャンパスに警報が出されたのは現地時間の午後４時３５分ごろ。同大のウェブサ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237035.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/1532c1086056d8ac960ef9d8e2689d96/t/768/432/d/still-21887113-966229-052-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237027.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T11:11:00+09:00</dc:date>
+        <title>リル・ナズ・Ｘ、警察官への暴行で逮捕</title>
+        <link>https://www.cnn.co.jp/showbiz/35237027.html?ref=rss</link>
+        <description>グラミー賞受賞歴のあるラッパー、シンガーソングライターのリル・ナズ・Ｘが逮捕された。米ロサンゼルス郡保安官事務所の被収容者記録で明らかになった。
+
+広報担当官のチャールズ・ミラー氏によると、リル・ナズ・Ｘ（本名モンテロ・ラマー・ヒル）は２１日早朝、スタジオシティー地区のベンチュラ・ブールバードで発見された。
+
+ミラー氏は、「到着後、容疑者は警官に突進し、拘束された。薬物の過剰摂取の疑いで地元の病院...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237027.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/e2d9154015b3716c123f046cb22aecc0/t/768/512/d/gettyimages-2202987039.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237028.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T10:22:00+09:00</dc:date>
+        <title>空港カウンターで放火　利用客パニック、２８歳男を逮捕　イタリア</title>
+        <link>https://www.cnn.co.jp/world/35237028.html?ref=rss</link>
+        <description>イタリア・ミラノのマルペンサ国際空港で現地時間の２０日、チェックインカウンターが放火される事件があり、２８歳の男が逮捕された。近くにいた利用客らはパニック状態になって逃げまどい、空港は一時騒然となった。
+
+警察によると、この事件で空港施設などは激しく損傷し、少なくとも１人が負傷した。
+
+当局によると、容疑者の男は１番ターミナルのカウンターにガソリンをまいて火を付けた。警官が体当たりして男を取り押さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237028.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/1c7e957bd6b39a67674ffe0adcb8d409/t/768/432/d/airport-thumb-wide.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237004.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T09:57:00+09:00</dc:date>
+        <title>警察のヘリ攻撃、軍の基地では爆発　コロンビアで１４人死亡　テロとみて捜査</title>
+        <link>https://www.cnn.co.jp/world/35237004.html?ref=rss</link>
+        <description>南米コロンビアで２１日、国家警察のヘリコプターが攻撃されて８人が死亡した。同じ日に軍の基地でも爆発が起きて６人が死亡。当局はいずれもテロ事件とみて捜査を続けている。この二つの事件が関係しているかどうかは分かっていない。
+
+警察のヘリコプターは、北西部のアンティオキア県で違法農業の摘発を支援していたところをドローンで攻撃され、グスタボ・ペトロ大統領によると、少なくとも８人が死亡、８人が負傷した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237004.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/d3a8eaf14e11d3fd7d91611a9ed764bb/t/768/432/d/still-21886891-9720-537-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237005.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T09:20:00+09:00</dc:date>
+        <title>２２年９月のノルドストリーム爆破でウクライナ人の男を逮捕　ドイツ検察発表</title>
+        <link>https://www.cnn.co.jp/world/35237005.html?ref=rss</link>
+        <description>イタリアの警察が、２０２２年９月にロシアとドイツを結ぶ天然ガスの海底パイプライン「ノルドストリーム」への攻撃を調整した疑いで、ウクライナ人の男を逮捕した。
+
+ロシアがウクライナへの本格的な侵攻を開始した後に発生したこの爆発をめぐっては、容疑者確保に向け大規模な捜査が行われた。
+
+爆発の原因は激しい臆測の的となり、ロシアのウクライナ侵攻後、欧州での政治的緊張をさらにあおってきた。ウクライナとロシアは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237005.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/22e8e476c87d5747ac65a4f2c7763845/t/768/432/d/gettyimages-1243544531.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237000.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T07:59:00+09:00</dc:date>
+        <title>トランプ氏、ウクライナの攻撃への転換支持示す投稿　「侵略国を攻撃せずして勝つのは難しい」</title>
+        <link>https://www.cnn.co.jp/usa/35237000.html?ref=rss</link>
+        <description>トランプ米大統領は２１日、ウクライナがロシアに対して攻撃に転じる根拠を示したとみられる。和平交渉の機運が停滞する中、この発言は注目に値する。
+
+トランプ氏は自身のＳＮＳトゥルース・ソーシャルで「侵略国を攻撃せずして戦争に勝つのは、不可能ではないにしても非常に難しい。素晴らしい守備力を持つスポーツチームに攻撃が許されないようなものだ。これでは勝てる見込みはない！　ウクライナとロシアのようだ」と述べ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237000.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/2fca27624efeb0ffd7771a2ed465bd17/t/768/533/d/2025-08-20t155312z-1857033674-rc2yagaytq4c-rtrmadp-3-ukraine-crisis-south-frontline.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35236998.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T07:05:00+09:00</dc:date>
+        <title>トランプ氏への６９０億円支払い命令、控訴裁が破棄　詐欺の法的責任は認める</title>
+        <link>https://www.cnn.co.jp/usa/35236998.html?ref=rss</link>
+        <description>米ニューヨーク州の控訴裁は２１日、同州の司法長官が起こしたトランプ大統領とその関連会社の不正をめぐる民事訴訟で、トランプ氏側に４億６４００万ドル（約６９０億円）の支払いを命じた判決を破棄した。
+
+控訴裁はトランプ氏の詐欺に関する法的責任は認めたものの、支払いを命じられた額は違法なまでに過剰だとした。
+
+同州のジェームズ司法長官は控訴裁の判断を不服とし、上訴する方針。
+
+控訴裁の判断を受けて、トランプ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35236998.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/1ba8433e164acbf9dd0bae60524fe82c/t/768/512/d/gettyimages-1924982222.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236997.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T06:32:00+09:00</dc:date>
+        <title>ウクライナに大規模攻撃、９人死亡　米国に本社置く企業も標的に</title>
+        <link>https://www.cnn.co.jp/world/35236997.html?ref=rss</link>
+        <description>ウクライナは２１日、ロシアによる大規模な攻撃を受け、９人が死亡した。両国の戦争に関してはこのほど米ロ首脳会談が行われ、ウクライナと欧州の首脳らが停戦を実現しようとトランプ米大統領と協議したばかりだが、進展がない中でロシアの攻撃は激しさを増している。
+
+今回の攻撃はここ１カ月超で最大規模。ウクライナのゼレンスキー大統領が明らかにしたところによると、ロシアは５７４機のドローン（無人機）とミサイル４０...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236997.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/22/0b739d23f7602a40fd51577e1e4e7353/t/768/510/d/gettyimages-2230478040.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/architecture/35236990.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+        <title>ＮＹの超高層ビルが「１６分の１の確率で倒壊」――事実を知った唯一の人物が取った行動は</title>
+        <link>https://www.cnn.co.jp/style/architecture/35236990.html?ref=rss</link>
+        <description>１９７７年１０月１２日、米金融大手シティコープはニューヨーク市に、３０年代初頭以降で最も高いビルをオープンした。高さ約２８０メートルのビルを遠くから望むと、傾斜した独特の屋根がメスのようにミッドタウンの空に切り込んでいた。地上で近くから見ると、一段低くなった広場の上に５９階の建物が浮かんでいるようで、通行人に十分なスペースを提供する建築姿勢が表れていた。
+
+シティコープ・センターは今もそこに建っ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/architecture/35236990.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/ede15a73f9333b19ec36c44f2aad1c1d/t/768/432/d/kekhfj.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236996.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T21:15:00+09:00</dc:date>
+        <title>北朝鮮で死にたい――越境を試みた９５歳の元兵士、韓国は帰還認めず</title>
+        <link>https://www.cnn.co.jp/world/35236996.html?ref=rss</link>
+        <description>朝鮮戦争中に韓国で捕虜となり、政治的信念を捨てることを拒み続けて４０年以上も投獄されていた北朝鮮出身の男性が、北朝鮮へ帰還して死にたいと訴えている。
+
+アン・ハクソプさん（９５）は北朝鮮軍の兵士だった時も、韓国の捕虜となって「反体制派」となってからも、米国による韓国の「占領」に対して抵抗を続けてきた。４２年半にわたった投獄は、北朝鮮をかたくなに支持し続け、転向を拒み続けたためだった。
+
+衰弱して車...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236996.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/74fec484069c75792afd3b1c3ffdc24e/t/768/432/d/img-9137-2-20250820034256851.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236995.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T20:10:00+09:00</dc:date>
+        <title>ウクライナ大統領、停戦の実現巡り「ある程度の妥協」を準備</title>
+        <link>https://www.cnn.co.jp/world/35236995.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は、ロシアのプーチン大統領との会談前に停戦を実現させるという自身の要求について、「ある程度の妥協」をする用意があると述べた。ただしウクライナの安全の保証が何らかの形で成立するならという条件を付けた。
+
+ゼレンスキー氏が上記の言葉を口にする一方、ロシア政府はプーチン氏とゼレンスキー氏の２者会談の計画が「進行中」だとするホワイトハウスの見解を公然と否定している。
+
+ウクラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236995.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/9a09a1d54880439bc7caf385bf95518b/t/768/512/d/gettyimages-2230141769.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236993.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T19:00:00+09:00</dc:date>
+        <title>北朝鮮に秘密のミサイル基地、東アジアや米国へ「潜在的な核の脅威」　新報告書</title>
+        <link>https://www.cnn.co.jp/world/35236993.html?ref=rss</link>
+        <description>北朝鮮は北部の中国国境付近に未申告の秘密ミサイル基地を保有しており、東アジアや米国の大部分へ「潜在的な核の脅威」を突きつけている可能性がある――。２０日公表の新たな報告書で、そんな現状が明らかになった。
+
+このミサイル基地は中国国境からわずか２７キロに位置する。米戦略国際問題研究所（ＣＳＩＳ）の報告書によると、核搭載可能な大陸間弾道ミサイル（ＩＣＢＭ）最大９発と、移動式の発射装置が保管されていると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236993.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/5624b7749d56e049e76c86f65b36098f/t/768/512/d/gettyimages-2157769730.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35236989.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T18:39:00+09:00</dc:date>
+        <title>中国軍、最新兵器の公開を準備　第２次大戦終結祝うパレードでお披露目へ</title>
+        <link>https://www.cnn.co.jp/world/35236989.html?ref=rss</link>
+        <description>北京の街中を運ばれていく兵器群の一部は、巨大な防水シートで覆われている。それでもそこに浮かぶシルエットは紛れもなくミサイル、戦車、潜水艇のものだ。中国は現在、６年ぶりの大規模な軍事パレードに向けた準備を進めている。
+
+軍事ウォッチャーにとって、ベールに包まれた兵器の列は９月３日に行われる大規模な軍事パレードで何が披露されるのかを類推する上で貴重な手がかりを提供する。中国は、このパレードで人民解放...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35236989.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/9a01e81bcd8420a7ca5efe718369ff46/t/768/576/d/img-9898.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35236981.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-21T17:10:00+09:00</dc:date>
+        <title>保安官が店舗で空腹の強盗に遭遇、アイスクリーム欲しがる熊だった　米加州</title>
+        <link>https://www.cnn.co.jp/fringe/35236981.html?ref=rss</link>
+        <description>米カリフォルニア州サウスレークタホにあるアイスクリームショップへの通報を受け、駆けつけた保安官たちは恐ろしい犯罪に遭遇した。店内には甘いアイスクリームを探し求める１頭の熊が侵入していた。
+
+エルドラド郡保安官事務所は、１７日早朝に当該の店舗に駆けつけたと発表した。
+
+熊は店のカウンターの後ろに隠れていた。保安官事務所が公開した写真には、大きなアメリカグマが前足をカウンターに乗せている様子が写ってい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35236981.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/21/667ecb455cf91174cb012c7b562584c9/t/768/576/d/KCRABear.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
