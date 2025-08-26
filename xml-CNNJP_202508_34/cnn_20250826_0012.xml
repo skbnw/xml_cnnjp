@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-08-26T09:04:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237134.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237131.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237124.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237125.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237115.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35237107.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237106.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237103.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237102.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237094.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237092.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237091.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237090.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237087.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35237065.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237081.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237079.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35237080.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237078.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237077.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35237075.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237076.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237074.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35237073.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237069.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237066.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237070.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237068.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237067.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35237137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T09:04:00+09:00</dc:date>
+        <title>フランス・セーヌ川から腐敗した４体の遺体、ホームレスの男を拘束</title>
+        <link>https://www.cnn.co.jp/world/35237137.html?ref=rss</link>
+        <description>フランス・パリのセーヌ川で１３日に４人の遺体が発見されたことを受け、男が殺人容疑で拘束された。
+
+クレテイユの検察当局はＣＮＮへの声明で、「２０代のホームレスの男」が２４日に裁判所に出廷したと述べた。容疑者は４人の被害者に対する「複数の殺人罪」で捜査を受けている。被害者は全員男性だという。
+
+４人の遺体はパリ近郊のショワジー・ル・ロワで１３日に腐敗した状態で発見された。腐敗の状態はそれぞれ異なって...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/650d8fae4605b56eb7c9cfd91dbe5b0a/t/768/512/d/gettyimages-2229264130.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237134.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T08:06:00+09:00</dc:date>
+        <title>トランプ氏、「非常に重大な結果」を警告　ロシアが戦争をやめない場合</title>
+        <link>https://www.cnn.co.jp/world/35237134.html?ref=rss</link>
+        <description>トランプ米大統領は２５日、大統領執務室で記者団に対し、ロシアがウクライナでの戦争を止めなければ「非常に重大な結果を招く可能性がある」とし、今後２週間以内に戦闘終結の合意が得られなければ「非常に強力な介入」を行うと述べた。
+
+紛争が続く状態をいつまで許容するかを問われると、トランプ氏は、「今後１、２週間で何が起こるか見守る。その時点で非常に強力な介入を行う」と語った。
+
+トランプ氏は２２日、ロシアの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237134.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/3e30b7204fa4bc53084949a22279dfcf/t/768/512/d/gettyimages-2230594704.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237131.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T07:07:00+09:00</dc:date>
+        <title>ガザの病院に連続攻撃、記者ら２０人死亡　イスラエルに激しい非難</title>
+        <link>https://www.cnn.co.jp/world/35237131.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で２５日、病院に２度の攻撃があり、ジャーナリスト５人と医療従事者などが死亡した。イスラエルはこの攻撃をめぐり、激しい非難に直面している。
+
+パレスチナ保健省によると、この攻撃で少なくとも２０人が死亡し、さらに多数が負傷した。
+
+同省によると、イスラエルは南部ハンユニスのナセル病院に対し、わずか数分のうちに連続して攻撃を仕掛けた。ナセル病院によると、２度目の攻撃により、最初の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237131.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/81be4bed2ca9d0b5253a2d2b4d8c86a8/t/768/576/d/gettyimages-2231244461.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237124.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T18:01:00+09:00</dc:date>
+        <title>公の場に姿を見せないメラニア夫人、水面下で影響力を発揮　子どもたちの安全と未来を動機に</title>
+        <link>https://www.cnn.co.jp/usa/35237124.html?ref=rss</link>
+        <description>トランプ米大統領の妻、メラニア夫人は１カ月あまりホワイトハウスで目撃されていなかった。しかし、夫がウクライナ戦争の終結を目指し、プーチン・ロシア大統領との米アラスカ州での首脳会談の準備を進める中、ファーストレディーは外交手腕を発揮していた。
+
+メラニア夫人は「親愛なるプーチン大統領」から始まる手紙でロシア大統領に直接訴えかけた。「生まれた場所が田舎であっても、壮大な都会であっても、すべての子ども...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237124.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/92d6115886bebbe1cf5afe09ed56605c/t/768/523/d/gettyimages-2203333220.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237125.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T17:11:00+09:00</dc:date>
+        <title>無法地帯と化した廃虚、遺体を食べる野良犬　イスラエルの攻撃迫るガザ市の現状は</title>
+        <link>https://www.cnn.co.jp/world/35237125.html?ref=rss</link>
+        <description>２年前、パレスチナ自治区ガザ地区の最大都市ガザ市は人々の活気にあふれていた。教室は児童でいっぱいになり、市場は買い物客でにぎわい、海辺のカフェは封鎖下の重圧から逃れてきた人々の憩いの場となっていた。
+
+ガザ市は豊かな歴史を誇り、数千年にわたって人が住み続け、古代文明からの相次ぐ侵略によって形づくられてきた。１９４８年のイスラエル建国の際に故郷を追われたパレスチナ人の主要な避難先となり、過去を物語...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237125.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/5be4c6aafd24f082f3d540815001a1ff/t/768/511/d/large-p-3-israel-palestinians-gaza.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237115.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T14:57:00+09:00</dc:date>
+        <title>「母さん、泣かないで。すぐ家に帰るから」　ウクライナ人記者が解放される、ロシアが秘密裏に３年間拘束</title>
+        <link>https://www.cnn.co.jp/world/35237115.html?ref=rss</link>
+        <description>ロシアによって外部との連絡を３年以上絶たれたまま拘束されていたウクライナ人記者が２４日、ウクライナとロシアとの間の最新の捕虜交換の一環として解放された。
+
+解放されたのはドミトロ・ヒリウク記者（５０）。ロシアで拘束されている数千人にのぼる民間人のひとりだ。民間人の拘束は国際法上違法とされる
+
+ヒリウクさんの高齢の両親は、息子の消息を一切知らされないまま、国内外の政治家に面会したり、抗議活動に参加し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237115.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/b5c15204408a864f4e47e0467e5a752d/t/768/576/d/large-gzhwohtw8aef3-d.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35237107.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T13:56:00+09:00</dc:date>
+        <title>世界で人気の「ラブブ」人形、偽物「ラフフ」も人気に</title>
+        <link>https://www.cnn.co.jp/business/35237107.html?ref=rss</link>
+        <description>多くの「ラブブ」ファンと同様、ジョセリン・チャモロさん（２８）もこの熱狂にはうんざりしている。
+
+３０ドル（約４５００円）もするいたずらっ子の顔をした人形を買うために夜通し並んだり、転売屋に１００ドルも大金を払ったりすることに魅力を感じなくなってしまったのだ。フロリダ州レイクランドのガソリンスタンドで、模造品のラブブ（通称ラフフ）が２０ドルで売られているのを見た時、チャモロさんは迷わず購入した。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35237107.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/9f7c4a59bd9cb066ab26d5457f92b7e4/t/768/512/d/2025-07-22t211726z-1708165001-rc2wrfaxtmdd-rtrmadp-3-usa-dailylife.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237106.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T12:42:00+09:00</dc:date>
+        <title>イスラエル、イエメンを空爆　反体制派による新型ミサイル攻撃受け</title>
+        <link>https://www.cnn.co.jp/world/35237106.html?ref=rss</link>
+        <description>イスラエル軍は２４日、イランの支援を受けるイエメンの反政府武装組織フーシが新型のミサイルをイスラエルに向けて発射したことを受け、イエメンを空爆した。
+
+イスラエル軍によると、標的は大統領宮殿のある軍事施設のほか、発電所２カ所と燃料貯蔵施設だった。フーシ系メディアは、保健省の発表として、首都サヌアでの攻撃で、少なくとも４人が死亡し、６７人が負傷したと伝えた。
+
+イスラエル国防軍（ＩＤＦ）は「今回の空...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237106.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/d7bb64532f23c769bcc4c80e5de39bf2/t/768/511/d/large-gettyimages-2231032463.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237103.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T11:59:00+09:00</dc:date>
+        <title>米首都ワシントンに配備の州兵が武器を携行、長銃を持つ兵士が人気スポットにも</title>
+        <link>https://www.cnn.co.jp/usa/35237103.html?ref=rss</link>
+        <description>米首都ワシントンに配備された州兵が、２４日から武器の携行を始めた。作戦を遂行している合同本部が明らかにした。
+
+州兵はドナルド・トランプ大統領が進める首都の犯罪対策の一環として派遣され、ピート・ヘグセス国防長官は先週、州兵には武器を携行させると述べていた。
+
+この措置は目に見えた方針転換だった。国防総省は先に、州兵は状況に応じて必要があれば武器を携行できると説明していた。
+
+ＣＮＮ記者は２４日夕、ウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237103.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/04714e1d9e0b5079e11af58d96ab4d14/t/768/511/d/large-zm-rtrmadp-3-usa-trump-guard.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237102.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T11:38:00+09:00</dc:date>
+        <title>フランス外務省が米大使を召還、反ユダヤ主義対策を批判した書簡めぐり</title>
+        <link>https://www.cnn.co.jp/world/35237102.html?ref=rss</link>
+        <description>フランス外務省は、米国のチャールズ・クシュナー駐フランス大使が執筆した書簡をめぐり、同大使を２５日に外務省に召還すると発表した。クシュナー大使は書簡の中で、反ユダヤ主義に対するフランス政府の対策が不十分だとする批判を展開していた。
+
+フランスはこの批判を「受け入れがたい」として強く抗議。書簡の内容は両国間の良好な関係にそぐわないと述べ、「２０２３年１０月７日以来、フランスで反ユダヤ行為が増加して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237102.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/4c13f95edc8e1cd8fc714fb98f82e8f2/t/768/512/d/large-sipausa-61119802.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237094.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T10:47:00+09:00</dc:date>
+        <title>キルギス山中で骨折の登山家　１２日以上も身動きできず、救助難航　助けようとした１人が死亡</title>
+        <link>https://www.cnn.co.jp/world/35237094.html?ref=rss</link>
+        <description>中央アジア・キルギスの高峰に挑んでいた登山家の女性が下山途中に骨折し、１２日以上も身動きできなくなっている。悪天候に阻まれて救助活動は難航し、救助隊に加わった別の登山家１人が命を落とした。
+
+身動きできなくなっているのは登山家のナタリア・ナゴビツィナさん。今月１２日、中国との国境にまたがる天山山脈のジェンギシュ・チョクス（勝利峰）頂上から下山する途中で脚を骨折した。
+
+キルギスタン緊急事態省は、救...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237094.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/4f1bbe91d0979566923b2ae311ec0bc1/t/768/510/d/gettyimages-1232606526.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237092.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T10:19:00+09:00</dc:date>
+        <title>通報受けて警察出動、学生避難　銃撃犯見つからず　米サウスカロライナ大学</title>
+        <link>https://www.cnn.co.jp/usa/35237092.html?ref=rss</link>
+        <description>米サウスカロライナ大学は２４日、サウスカロライナ州コロンビアの同大キャンパス内で銃撃事件が発生したという通報について、学内に銃撃犯がいる形跡はないと発表した。
+
+大学広報はＣＮＮ提携局のＷＩＳ―ＴＶに対し、「図書館に銃撃犯がいるという未確認の通報があった」と説明。「現時点でけが人はいない。本当に図書館に銃撃犯がいたのかどうかは確認できていない」と述べた。
+
+通報を受けて避難する際に数人の学生が軽傷を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237092.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/6d26cae22f295a16a52ade770ba3d899/t/768/432/d/large-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237091.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T10:15:00+09:00</dc:date>
+        <title>ジョーダンとブライアントのバスケットボールカード、史上最高の１９億円で落札　サインやロゴパッチあしらう</title>
+        <link>https://www.cnn.co.jp/showbiz/35237091.html?ref=rss</link>
+        <description>米プロバスケットボールＮＢＡのスター選手だったマイケル・ジョーダンとコービー・ブライアントのサインなどがあしらわれたバスケットボールカードが２３日に１２９３万２０００ドル（約１９億円）で落札された。この金額はスポーツカードとしては史上最高値だと、競売を担当した米競売会社ヘリテージ・オークションズが明らかにした。
+
+落札されたカードは「２００７～０８アッパーデッキ・エクスクイジット・コレクション　...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237091.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/af908e9e6798b6eeb455429534bb07f5/t/768/455/d/large-autographs-michael-jordan-kobe-bryant-heritage-auctions.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237090.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T10:12:00+09:00</dc:date>
+        <title>トランプ氏、ウクライナ独立記念日に支援示す書簡　「独立国家としての未来を信じている」</title>
+        <link>https://www.cnn.co.jp/world/35237090.html?ref=rss</link>
+        <description>トランプ米大統領は２４日、世界の指導者らとともにウクライナへの支援を示すメッセージを送った。この日はウクライナがソ連の支配からの解放を宣言した３４回目の独立記念日にあたる。
+
+トランプ氏は、書簡でその勇気を称賛するとともに、米国は独立国家としてのウクライナの未来を信じていると述べた。
+
+ウクライナのゼレンスキー大統領はこの書簡をＸ（旧ツイッター）で共有し、「我々は負けない」という自身のメッセージを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237090.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/e0178a05b112c2752b05935e70fe1fd1/t/768/432/d/ap25236267861032.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237087.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T09:12:00+09:00</dc:date>
+        <title>大学キャンパスで銃撃の通報、警察が出動　米サウスカロライナ州</title>
+        <link>https://www.cnn.co.jp/usa/35237087.html?ref=rss</link>
+        <description>米サウスカロライナ州コロンビアにあるサウスカロライナ大学で２４日夕、銃撃事件発生の通報があり、警察が出動して捜索を続けている。大学は全キャンパスに警戒を呼びかけた。
+
+サウスカロライナ大学によると、これまでのところ銃撃犯の形跡は見つかっていないものの、警察が今も捜索を行っているという。
+
+通報は、身長約１．８メートルの白人男性が大学内の図書館で発砲しているという内容だった。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237087.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/6d26cae22f295a16a52ade770ba3d899/t/768/432/d/large-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35237065.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-24T17:30:00+09:00</dc:date>
+        <title>新学期の学用品準備、頼みは質店　関税とは無縁で家計苦しい家庭の味方に　米</title>
+        <link>https://www.cnn.co.jp/business/35237065.html?ref=rss</link>
+        <description>米国で秋の新学期に向けた学用品の買い物が、関税による値上げを懸念して例年よりも早く始まっている。そうした中、家計が厳しい世帯が目を向けているのが質店だ。
+
+全米小売業協会の調査によると、新学期準備のために費やす金額は、前年に比べて１世帯あたり約２％減少した。
+
+質店の経営者によると、新学期の必需品を求めて来店する客は増えている。「今のような経済状況の中で、質店に行けば多額を節約できるとみんなが気付...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35237065.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/b5f3312fe790aead4f76f6a7d0fa3817/t/768/576/d/large-img-9341-51.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237081.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-24T17:05:00+09:00</dc:date>
+        <title>米宝くじ「パワーボール」で大当たり出ず、次回の賞金１１００億円に　史上１０番目</title>
+        <link>https://www.cnn.co.jp/fringe/35237081.html?ref=rss</link>
+        <description>米国の宝くじ「パワーボール」は２３日の抽選で六つ全ての数字を的中させる人が現れず、２５日の抽選で大当たり（ジャックポット）で出た場合の賞金は、推定７億５０００万ドル（約１１００億円）に膨らんだ。米マルチステート宝くじ協会（ＭＵＳＬ）が声明で明らかにした。
+
+２３日夜の時点でジャックポットの金額は推定７億ドルに達し、すでにパワーボール史上有数の額になっていた。くじは米国の４５州で販売されており、２...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237081.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/24/855e82232f9ce0890fc32b77eaac7eee/t/768/511/d/gettyimages-1541245755.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237079.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-24T16:31:00+09:00</dc:date>
+        <title>【分析】歴史的な日韓首脳会談、トランプ氏の存在が大きくのしかかる</title>
+        <link>https://www.cnn.co.jp/world/35237079.html?ref=rss</link>
+        <description>この週末、歴史が作られた。
+
+韓国の李在明（イジェミョン）大統領は就任後初めて、二国間外交のための外遊に乗り出した。訪問先は米首都ワシントンと東京。しかし歴代大統領とは異なり、まず訪れたのは米国ではなかった。代わりに、韓国の旧宗主国である日本を初の訪問先に選んだ。
+
+李氏と石破茂首相による首脳会談を経て、日韓両政府は１７年ぶりとなる共同文書を出した。ＡＩ（人工知能）や貿易、朝鮮半島非核化を巡る協力...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237079.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/24/137fbb463535354c02e985213555d078/t/768/512/d/gettyimages-2230953780.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35237080.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-24T15:21:00+09:00</dc:date>
+        <title>トランプ米政権、インテルに出資　株式の９．９％を取得</title>
+        <link>https://www.cnn.co.jp/tech/35237080.html?ref=rss</link>
+        <description>米政府が経営難に陥っている米半導体メーカー大手のインテルに８９億ドル（約１兆３０００億円）出資し、インテルの株式９．９％を取得する。インテルとトランプ大統領が２２日に明らかにした。
+
+トランプ氏は同日、ＳＮＳ「トゥルース・ソーシャル」に「米国が、さらに素晴らしい未来を秘めた偉大な米企業インテルの１０％を完全に保有・管理することと報告できることは私にとって大きな栄誉だ」と投稿した。
+
+トランプ氏は同...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35237080.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/24/74a024e672517f8d37fd4ff5501116f2/t/768/512/d/large-trmadp-3-usa-intel-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237078.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-24T14:17:00+09:00</dc:date>
+        <title>公衆衛生上の緊急事態を宣言、乳児死亡率が過去１０年で最悪の水準に　米ミシシッピ州</title>
+        <link>https://www.cnn.co.jp/usa/35237078.html?ref=rss</link>
+        <description>米南部ミシシッピ州の保健当局は、州内で乳児死亡率が上昇していることを受け、公衆衛生上の緊急事態を宣言した。
+
+州保健当局の発表によると、２０２４年のミシシッピ州の乳児死亡率は出生１０００件当たり９．７人で、過去１０年あまりで最悪の死亡率となった。１４年以来、同州では生後１年を迎える前に３５００人以上の乳児が死亡している。
+
+州保健局のダン・エドニー博士は声明で「乳児を失うたびに家族は打ちひしがれ、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237078.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/24/a95287d2b500ad91203c49b96caed541/t/768/511/d/large-gettyimages-999302432.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237077.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-24T12:28:00+09:00</dc:date>
+        <title>男子テニスのフェデラー氏、史上７人目のビリオネアのアスリートに</title>
+        <link>https://www.cnn.co.jp/showbiz/35237077.html?ref=rss</link>
+        <description>テニス界で一時代を築いたスター選手、ロジャー・フェデラー氏が史上７人目となる資産１０億ドル（約１４６０億円）以上の「ビリオネア」のアスリートになった。米経済誌フォーブスが２２日に報じた。
+
+２０２２年に現役を引退したスイス出身のフェデラー氏の推定純資産は１１億ドル。スイスの靴・衣料ブランド「Ｏｎ（オン）」の少数株主であることも資産を押し上げた。
+
+現役時代にはコート外の活動で約１０億ドルを得ており...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237077.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/24/c9b224b076926b13a3e4f0bf53814843/t/768/511/d/large-gettyimages-2222472012.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35237075.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-24T11:59:00+09:00</dc:date>
+        <title>トランプ氏、輸入家具に対する関税調査を指示　追加関税を示唆</title>
+        <link>https://www.cnn.co.jp/business/35237075.html?ref=rss</link>
+        <description>トランプ米大統領は２２日、家具の輸入に関する調査を政権に指示したと明らかにした。５０日以内に調査を終えた上で関税を引き上げるとしている。
+
+トランプ氏はＳＮＳ「トゥルース・ソーシャル」に「５０日以内に調査は完了し、外国から米国に入ってくる家具には、まだ決まっていない税率で関税が課されることになる」と投稿した。
+
+トランプ氏は、今回の措置によって、ノースカロライナ州やサウスカロライナ州、ミシガン州に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35237075.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/24/e862e3d405ffc9c3cd6d3e6a66a59566/t/768/512/d/large-gettyimages-2177012798-20250822213504049.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237076.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-24T11:40:00+09:00</dc:date>
+        <title>「脳を食べるアメーバ」で患者死亡、水上スキーで感染か　米ミズーリ州</title>
+        <link>https://www.cnn.co.jp/usa/35237076.html?ref=rss</link>
+        <description>米ミズーリ州の保健当局はこのほど、「脳を食べるアメーバ」に感染した住民が死亡したことを確認した。
+
+州の保健・高齢者サービス当局によると、この成人男性は検査の結果、微小な単細胞の自由生活性アメーバ「ネグレリア・フォーレリ」への感染が診断され、１９日にセントルイス地域の病院で亡くなった。ネグレリア・フォーレリは致死性の疾患「原発性アメーバ性髄膜脳炎（ＰＡＭ）」を引き起こす。
+
+米疾病対策センター（Ｃ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237074.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-24T10:33:00+09:00</dc:date>
+        <title>ウクライナ、ロシアのエネルギー施設への攻撃を強化　日常生活にも揺さぶり</title>
+        <link>https://www.cnn.co.jp/world/35237074.html?ref=rss</link>
+        <description>ウクライナによるロシアの製油所への攻撃が急増し、ロシア国内のガソリン価格が記録的な高値に達している。ロシア政府は供給不足に対処するためガソリン輸出を禁止したが、影響を抑えきれていない。
+
+ウクライナは無人機による製油所やポンプ場、燃料列車への攻撃を強化。ロシアの軍事力に打撃を与えるだけでなく、ロシア国民の日常生活を揺さぶる狙いもある。夏は自動車の利用や農作業でガソリン需要が最も高まる時期だ。
+
+Ｃ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237074.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/24/26b2ad3a370384cfe7900349e88b5db9/t/768/529/d/large-rtrmadp-3-ukraine-crisis-russia-gasoline.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35237073.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-24T10:03:00+09:00</dc:date>
+        <title> 電車内で大音量垂れ流す「ベアビーティング」に１万７千円の罰金　アイルランド</title>
+        <link>https://www.cnn.co.jp/travel/35237073.html?ref=rss</link>
+        <description>公共交通機関で音楽や動画を大音量で垂れ流す「ベアビーティング」。増加傾向にある一方、反発も広がっており、英国の野党は先ごろ、違反者に罰金を科すよう政府に要請した。
+
+アイルランドメディアのザ・ジャーナルによると、アイルランド国鉄は現在、イヤホンを使わずに音楽を再生する、電子たばこを吸う、座席に荷物や足を置くなどのマナー違反に対し、検査官が１００ユーロ（約１万７０００円）の罰金を科すと利用者に警告...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35237073.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/24/b92cf5b75cffd601a20e70603e888bba/t/768/432/d/shutterstock-editorial-11997293b.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237069.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T18:24:00+09:00</dc:date>
+        <title>小惑星「２０２４ ＹＲ４」、地球ではなく月に衝突する可能性＜下＞　衝突への備え</title>
+        <link>https://www.cnn.co.jp/fringe/35237069.html?ref=rss</link>
+        <description>カナダのウェスタン・オンタリオ大学の教授を務めるポール・ウィーガート氏によると、小惑星「２０２４　ＹＲ４」と月の衝突で生じた数百～数千個の微細な破片が降り注げば、地球の人工衛星群に影響が出かねない。こうした人工衛星は、最大１０年分に相当する量の隕石（いんせき）にわずか数日でさらされる可能性もある。
+
+
+  
+     小惑星「２０２４ ＹＲ４」、地球ではなく月に衝突する可能性＜上＞　そのとき何が起きるのか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237069.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/737bf456bb8db48820e2219919f82046/t/768/549/d/2024yr4-moon-june2025-v2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237066.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T17:45:00+09:00</dc:date>
+        <title>人口減少の韓国は兵力も縮小、北朝鮮は軍事力を増強　これは問題か？</title>
+        <link>https://www.cnn.co.jp/world/35237066.html?ref=rss</link>
+        <description>予兆はかなり前から明らかだった。韓国の出生率は過去１０年間のほとんどで低下しており、アジア地域での脅威が増し、世界各地で紛争がくすぶるなか、韓国軍にとっての問題となっている。
+
+新たな報告書によれば、過去６年間で韓国軍の兵力は２０％減少している。その主な原因は若い兵士の減少で、世界で最も急速に高齢化が進む国の一つである韓国での労働力の減少と高齢者人口の増加を反映している。
+
+国防省の報告書は兵力の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237066.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/1dc3c2059badd941bbb89e167881a8dd/t/768/511/d/gettyimages-669024680.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237070.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T16:55:00+09:00</dc:date>
+        <title>観光バスが横転し５人死亡、数十人負傷　米ニューヨーク州</title>
+        <link>https://www.cnn.co.jp/usa/35237070.html?ref=rss</link>
+        <description>２２日午前、ナイアガラの滝の息を呑（の）むような景色を堪能した後、観光客の一団がバスに乗り込み、ニューヨーク市への帰路に就いた。しかしその約１時間後、バスはニューヨーク州の高速道路脇の溝に横転する事故を起こした。
+
+当局によると、バスの運転手は不注意から車両を制御できなくなり、バスは州間高速道路上で横転した。場所はバファローの東郊ペンブロークの近く、ナイアガラの滝からは東へ約６４キロの地点だった...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237070.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/5b2fc26c81ef08731790a69e37e81f53/t/768/432/d/still-21889639-1026994-7930000001-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237068.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T15:40:00+09:00</dc:date>
+        <title>新種の恐竜発見、背中に帆を思わせる際立った特徴　英</title>
+        <link>https://www.cnn.co.jp/fringe/35237068.html?ref=rss</link>
+        <description>古生物学者たちが、背中に帆のような構造を持つ非常に特徴的な新種の恐竜を発見した。ロンドン自然史博物館が２２日に発表した。
+
+英国のセーリング選手として数々の記録を塗り替えたエレン・マッカーサー氏にちなんで命名された恐竜、イスティオラキス・マカルトゥーラエの骨は、英イングランド南岸沖の小さな島、ワイト島で発見された。この恐竜は１億２０００万年以上前、イグアノドンの近縁種（ジュラ紀後期から白亜紀前期...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237068.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/9d8d9635e0885abf7d6139bae84d5a94/t/768/432/d/istiorachis-artist-impression-credit-james-brown-university-of-portsmouth.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237067.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-23T14:30:00+09:00</dc:date>
+        <title>今週末に発生、「ブラックムーン」とは？　１カ月に起きる２度目の新月</title>
+        <link>https://www.cnn.co.jp/fringe/35237067.html?ref=rss</link>
+        <description>月には様々な呼び名がある。今年８月には「スタージョン（チョウザメ）ムーン」と呼ばれる満月が観測され、３月に夜空を見上げた人は、月食の際に月が赤く染まる「ブラッドムーン」を目にしたかもしれない。１カ月に起きる２度目の満月「ブルームーン」について聞いたことがある人もいるだろう。
+
+そして今週末に起きるのが、珍しい「ブラックムーン」だ。これは目には見えない。
+
+この現象は米国時間２３日夜から２４日未明に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237067.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/23/57c886e54b41f89b9de51b18340bcbb2/t/768/431/d/black_moon.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
