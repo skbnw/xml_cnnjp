@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-08-27T08:36:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35237198.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237199.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237196.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35237195.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237193.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237192.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237188.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237163.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237186.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35237185.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237177.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237183.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35237167.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237172.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237159.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35237160.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35237153.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237157.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237150.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237141.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237149.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237143.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237134.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237131.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237124.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237125.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237115.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35237107.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237106.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/photo/35237198.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T08:36:00+09:00</dc:date>
+        <title>写真特集：テイラー・スウィフトとトラビス・ケルシーが婚約、一つのラブストーリー</title>
+        <link>https://www.cnn.co.jp/photo/35237198.html?ref=rss</link>
+        <description>米歌手テイラー・スウィフトさんと米ナショナル・フットボールリーグ（ＮＦＬ）カンザスシティー・チーフスに所属するトラビス・ケルシー選手は２６日、インスタグラムへのそれぞれの投稿で婚約を発表した&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35237198.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/5500c52f3d19e2d8aa655f3c13250eab/t/768/512/d/photoslide1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237199.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T08:23:00+09:00</dc:date>
+        <title>メーガン妃、ヘンリー王子とのロマンスや英国を離れて恋しいものを明かす</title>
+        <link>https://www.cnn.co.jp/showbiz/35237199.html?ref=rss</link>
+        <description>英王室の公務から退き米カリフォルニア州で暮らすヘンリー王子の妻、メーガン妃は、米動画配信大手ネットフリックスでの自身のライフスタイル番組「ウィズ・ラブ、メーガン」の新シーズンで、ヘンリー王子との関係について新たな詳細を明かすとともに、英国での生活を振り返った。
+
+２６日に配信が開始された同番組のシーズン２では、４４歳のメーガン妃が新たな友人やセレブのゲストを迎え、料理やＤＩＹを披露し、率直な会話...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237199.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/a8115ca47fa63282e09bfa6a21fab4c8/t/768/512/d/wlm-s2-241115-unit-01413r-c.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237196.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T07:39:00+09:00</dc:date>
+        <title>テイラー・スウィフトさんとトラビス・ケルシー選手が婚約　「英語の先生と体育の先生が結婚します」</title>
+        <link>https://www.cnn.co.jp/showbiz/35237196.html?ref=rss</link>
+        <description>米歌手テイラー・スウィフトさんと米ナショナル・フットボールリーグ（ＮＦＬ）カンザスシティー・チーフスに所属するトラビス・ケルシー選手は２６日、インスタグラムへのそれぞれの投稿で婚約を発表した。「あなたの英語の先生と体育の先生が結婚します」とのコメントが添えられている。
+
+投稿には、花に囲まれて抱き合う２人の写真や、金のバンドにクッションカットのダイヤが輝くスウィフトさんの指輪のクローズアップ写真...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237196.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/f2f53d7458949c53ffcfd9697ec22744/t/768/512/d/gettyimages-1970250110-20250826171125580.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35237195.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T07:06:00+09:00</dc:date>
+        <title>アップル、９月１０日にイベント開催へ　「ｉＰｈｏｎｅ　１７」発表か</title>
+        <link>https://www.cnn.co.jp/tech/35237195.html?ref=rss</link>
+        <description>米アップルは２６日、報道関係者向けに招待状を送り、米国時間９月９日（日本時間１０日）にイベントを開催すると発表した。このイベントでは、「ｉＰｈｏｎｅ（アイフォーン）１７」や新型アップルウォッチなど、さまざまな新製品が発表される見込みだ。
+
+アップルは発表前に新製品の詳細を明らかにすることはめったになく、２０１２年以降は９月に新型ｉＰｈｏｎｅを発表している。招待状には「Ａｗｅ　Ｄｒｏｐｐｉｎｇ．（...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35237195.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/5fd33a11a666d4395d4f7f56c69848f8/t/768/512/d/gettyimages-2173254003-20250826160129277.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237193.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T06:19:00+09:00</dc:date>
+        <title>ガザの病院への連続攻撃、標的は「ハマス設置のカメラ」　初期調査</title>
+        <link>https://www.cnn.co.jp/world/35237193.html?ref=rss</link>
+        <description>イスラエル国防軍（ＩＤＦ）は２６日、少なくとも２０人が死亡したパレスチナ自治区ガザ地区南部の病院への「連続」攻撃について、イスラム組織ハマスが設置したカメラを標的にしていたとの初期調査結果を発表した。
+
+また、この攻撃による死者のうち６人はテロリストだったとした。ＩＤＦによると、ここには２０２３年１０月７月のイスラエルへの奇襲に加わった人物１人も含まれているという。
+
+ＩＤＦは初期調査結果について...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237193.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/8fab16dde13fd889229a098a4c18ebbb/t/768/576/d/gettyimages-2231244009.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237192.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T06:19:00+09:00</dc:date>
+        <title>クックＦＲＢ理事、トランプ氏による「解雇」巡り提訴へ</title>
+        <link>https://www.cnn.co.jp/usa/35237192.html?ref=rss</link>
+        <description>トランプ米大統領がリサ・クック連邦準備制度理事会（ＦＲＢ）理事を解任したと発表した件で、クック氏の弁護士は２６日、トランプ氏に解任する権限はないとして提訴すると発表した。
+
+クック氏の弁護士のアビ・ローウェル氏はＣＮＮに寄せた声明で「トランプ氏の解任の試みは事実あるいは法的根拠を欠いている」と指摘した。
+
+クック氏はこのところ、住宅ローンで不正を行った疑いがあるとしてトランプ氏と閣僚から厳しく批判...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237192.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/d9cd8ba848a8120ea442bc13f96ffa5b/t/768/512/d/gettyimages-1258902366-20250826154246204.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237188.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T21:35:00+09:00</dc:date>
+        <title>ドジャース大谷選手、やじ飛ばしたパドレスファンとハイタッチ　４５号放った直後</title>
+        <link>https://www.cnn.co.jp/showbiz/35237188.html?ref=rss</link>
+        <description>米大リーグ、ロサンゼルス・ドジャースの大谷翔平選手（３１）がシーズン４５号本塁打を放った直後、試合中にやじを飛ばしていたサンディエゴ・パドレスのファンとハイタッチする場面があった。
+
+ドジャースは２４日の試合でパドレスに８―２で勝利。大谷選手は九回表、松井裕樹投手から本塁打を放った。だが注目を集めたのは本塁打そのものより、その後の行動だった。
+
+ベースを回り切った大谷選手は、チームメートと祝う前に敵...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237188.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/5f37297bc19042bb9efa4796b7cf0e1e/t/768/524/d/large-gettyimages-2231244017.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237163.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T20:30:00+09:00</dc:date>
+        <title>地中海式ダイエットと運動、高齢者の２型糖尿病の予防に　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35237163.html?ref=rss</link>
+        <description>低カロリーの地中海式ダイエットと運動、栄養補給を組み合わせることで、５５歳から７５歳の太り過ぎから重度の肥満の人々が２型糖尿病を発症するのを防げる可能性があるとの新たな研究結果が明らかになった。
+
+ハーバード大学Ｔ・Ｈ・チャン公衆衛生大学院の栄養学・疫学教授で論文の共同執筆者のフランク・フー博士は「我々の研究は、食生活とライフスタイルを適度に、かつ継続的に変えることで、世界中で数百万件に上る２型...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237163.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/b6341de31fc2daf61a353e3e5f1fdf46/t/768/512/d/large-gettyimages-1633730833-20250825202130963.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237186.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T19:51:00+09:00</dc:date>
+        <title>イスラエルで全国的な抗議デモ、人質の解放と戦争の終結求める</title>
+        <link>https://www.cnn.co.jp/world/35237186.html?ref=rss</link>
+        <description>イスラエルで２６日、イスラム組織ハマスに拘束された人質の解放と戦争の終結を求める「闘争の日」と名付けられた全国的な抗議行動が行われた。参加者らが幹線道路を封鎖し、タイヤを燃やして停戦合意を訴えた。
+
+人質の家族や支援者らが参加し、被害者団体「人質・行方不明家族フォーラム」は、抗議行動の冒頭でテルアビブの米大使館前に巨大なイスラエル国旗を掲げた。
+
+人質・行方不明家族フォーラムは声明で「メッセージは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237186.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/a871e2aed3d6199b4c4ca2e1c359634e/t/768/511/d/large-gettyimages-2231445954.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35237185.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T19:11:00+09:00</dc:date>
+        <title>中国系ハッカー、東南アジアの外交官を標的に　グーグル発表</title>
+        <link>https://www.cnn.co.jp/tech/35237185.html?ref=rss</link>
+        <description>米ＩＴ大手グーグルは、中国と関係のあるハッカー集団が、東南アジアの外交官など世界各地の組織を標的にサイバー攻撃を行っていたと明らかにした。このハッカー集団は「中国政府の戦略的利益と一致していた可能性が高い」としている。
+
+グーグル脅威インテリジェンスグループ（ＧＴＩＧ）は２６日にブログへの投稿で、３月の攻撃では標的のウェブトラフィックが乗っ取られ、マルウェア（不正なプログラム）がダウンロードされ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35237185.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/ba5998e6b60554cb615792d39789418d/t/768/510/d/large-cyber-hacking.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237177.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T18:18:00+09:00</dc:date>
+        <title>暑すぎる地下鉄、世界中で問題に　現代に合わなくなった都市設計、解決策は</title>
+        <link>https://www.cnn.co.jp/world/35237177.html?ref=rss</link>
+        <description>英ロンドンの地下鉄「アンダーグラウンド（通称チューブ）」がまだ新しかったビクトリア女王の時代、英国には煙突掃除人がいて、イングランドの気温は今よりもカ氏で２度以上低かった。
+
+ナチスによる爆撃からロンドンを救う役割を果たした地下鉄の６０％は、今もエアコンがなく、線路がゆがむほどの猛暑は健康被害を生じさせかねない。
+
+一方、１９０４年以来眠ることのなかった米ニューヨーク市の地下鉄は、大雨が降るたびに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237177.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/dc0d441a2fb578b8402be8228887ea7e/t/768/510/d/gettyimages-222228894.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237183.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T17:38:00+09:00</dc:date>
+        <title>違法薬物を大量押収、「州の全住民を過剰摂取で死なせる」のに十分な量　米</title>
+        <link>https://www.cnn.co.jp/usa/35237183.html?ref=rss</link>
+        <description>米沿岸警備隊の巡視船「ハミルトン」は２５日、米フロリダ州の港に過去最大規模の違法薬物を陸揚げした。当局によれば、この量が出回っていれば、致死量のコカイン約２３００万回分に相当した。
+
+沿岸警備隊の発表によると、陸揚げされたのはコカイン約６万１７４０ポンド（約２８トン）とマリフアナ約１万４４００ポンド（約６．５トン）。沿岸警備隊史上最大規模の押収量だという。末端価格は計４億７３００万ドル（約７００...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237183.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/622ee46beba350c61a0ee3585b207d23/t/768/576/d/large-539071735-1218968203603364-3475173434129870935-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35237167.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T16:02:00+09:00</dc:date>
+        <title>「あなたたちは来なくていい」、３６５日押し寄せる観光客に欧州の住民は辟易</title>
+        <link>https://www.cnn.co.jp/travel/35237167.html?ref=rss</link>
+        <description>スペインで抗議デモが続発し、イタリア北部ベネチアで富豪の結婚式が妨害され、仏パリのルーブル美術館で職員がストを起こす。オーバーツーリズムをめぐるそんな場面を見るたび、英旅行社サンビルのノエル・ジョセファイズ会長は心の中でこうつぶやいてきた。「だから言ったのに」
+
+「こうなることは１０年前から分かっていた」「現に私は、そのうち手に負えなくなると忠告した」
+
+同社は１９７０年から英富裕層向けのツアーを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35237167.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/650a776332dd192d77b9188be43ea815/t/768/512/d/gettyimages-2219688160.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237172.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T15:40:00+09:00</dc:date>
+        <title>オーストラリア、イラン大使を追放　ユダヤ襲撃に「関与」</title>
+        <link>https://www.cnn.co.jp/world/35237172.html?ref=rss</link>
+        <description>オーストラリアは、同国の情報機関が国内で起きた反ユダヤ主義的な襲撃事件にイランが関与していたことを確認したとして、キャンベラに駐在するイラン大使を国外追放すると発表した。
+
+アルバニージー首相は記者会見で、保安情報局（ＡＳＩＯ）が、シドニーのユダヤ人経営者のレストランとメルボルンのシナゴーグ（ユダヤ教の礼拝所）を狙った昨年の放火事件２件について、イラン革命防衛隊（ＩＲＧＣ）が関与している可能性を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237172.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/fd12bfc34834128716a4ba2634c01b6b/t/768/511/d/large-p-3-australia-iran-diplomats.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237159.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T14:15:00+09:00</dc:date>
+        <title>トランプ氏、金正恩氏との会談を希望　韓国大統領に伝える</title>
+        <link>https://www.cnn.co.jp/world/35237159.html?ref=rss</link>
+        <description>米国のトランプ大統領は、２５日に行われた韓国の李在明（イジェミョン）大統領との会談で、北朝鮮の金正恩（キムジョンウン）朝鮮労働党総書記との会談に前向きな姿勢を示した。李氏との会談では朝鮮半島の平和と北朝鮮の核兵器能力について協議した。
+
+６月に大統領に当選した李氏は、ホワイトハウス訪問の際、トランプ氏に対し南北間の平和構築への協力を要請。トランプ氏の１期目の任期中、状況はより安定していたと主張し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237159.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/5cbbcd40922959856f8279a0a6220d98/t/768/512/d/gettyimages-223202450.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35237160.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T14:00:00+09:00</dc:date>
+        <title>トランプ氏、自身を批判したインタビュー流したＡＢＣに免許取り消しをちらつかせる</title>
+        <link>https://www.cnn.co.jp/business/35237160.html?ref=rss</link>
+        <description>米ＡＢＣニュースが、クリス・クリスティ前ニュージャージー州知事がトランプ米大統領を痛烈に批判するインタビューを放送したことを受け、トランプ氏は２４日、クリスティ氏の１０年あまり前の政治スキャンダルを捜査し、ＡＢＣの放送免許を取り消すと警告した。
+
+クリスティ氏は２４日、ＡＢＣの番組「ディス・ウィーク」に出演。連邦捜査局（ＦＢＩ）が２２日に第１次トランプ政権で大統領補佐官を務めたジョン・ボルトン氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35237160.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/27022e51b29b0759bfcb8a375990db36/t/768/512/d/shutterstock-editorial-14285857i.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35237153.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T13:03:00+09:00</dc:date>
+        <title>「韓国のハワイ」済州島、行儀の悪い外国人観光客対策のガイドラインを発表</title>
+        <link>https://www.cnn.co.jp/travel/35237153.html?ref=rss</link>
+        <description>「韓国のハワイ」と呼ばれることも多い済州島が、外国人観光客に対しマナーを守るよう警告する多言語ガイドを発行した。観光客による一連の事案や無秩序な行動が話題になったことを受けた措置。
+
+昨年済州島を訪れた観光客は１３００万人を超えた。同島はきらめく青い海、緑豊かな茶畑、そして雪に覆われた盾状火山の漢拏山（ハルラサン）で有名。国際航空運送協会（ＩＡＴＡ）の２０２４年版世界航空輸送統計によると、ソウル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35237153.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/ba4fb9561369016d41c52337b849e825/t/768/432/d/gettyimages-1240154869.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237157.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T12:49:00+09:00</dc:date>
+        <title>飛行訓練中のヘリコプターが墜落、３人死亡　英ワイト島</title>
+        <link>https://www.cnn.co.jp/world/35237157.html?ref=rss</link>
+        <description>英国のワイト島で２５日午前、飛行訓練中のヘリコプターが墜落し、３人が死亡した。ハンプシャー・ワイト島警察が明らかにした。
+
+警察によると、重傷のため１人が入院している。
+
+運航会社ノーサンブリア・ヘリコプターズによれば、同機は午前９時ごろ、サンダウン空港を離陸した。訓練飛行のため４人が搭乗していた。その約２４分後、道路近くの畑にヘリコプターが墜落したとの通報が警察に寄せられた。
+
+英国メディアが伝え...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237157.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/a663df26f2f2bb0cadd4e11b186e7456/t/768/485/d/large-shutterstock-editorial-15455770i.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237150.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T11:37:00+09:00</dc:date>
+        <title>トランプ氏、クックＦＲＢ理事の解任を発表　中央銀行との対立激化</title>
+        <link>https://www.cnn.co.jp/usa/35237150.html?ref=rss</link>
+        <description>トランプ米大統領は２５日、リサ・クック連邦準備制度理事会（ＦＲＢ）理事を解任したと発表した。クック氏宛ての書簡を自身のソーシャルメディアに投稿した。ＦＲＢの１１１年の歴史において、大統領が理事を解任するのは初めて。
+
+​​この前代未聞の措置は、トランプ氏とＦＲＢとの対立を著しく激化させるものだ。トランプ氏はかねて、金利の引き下げに時間がかかりすぎているとしてＦＲＢを非難している。
+
+クック氏は最近、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237150.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/ca005d17fc8bbd951e44cfa94a97b087/t/768/512/d/gettyimages-2225624346.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237141.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T11:02:00+09:00</dc:date>
+        <title>トランプ氏、州兵の「特殊部隊」創設命じる大統領令に署名　各都市の犯罪への対処念頭</title>
+        <link>https://www.cnn.co.jp/usa/35237141.html?ref=rss</link>
+        <description>米国のトランプ大統領は２５日に署名した大統領令を通じ、ヘグセス国防長官に対し、州兵内部に「特殊部隊」を創設するよう命じた。当該の部隊は「特別な訓練と装備を受ける形で、公共秩序問題に対処する」ことになる。トランプ氏が全米の国内法執行活動における米軍の役割の拡大を図る中、今回の措置はその意向をこれまでで最も明確に表したものとなる。
+
+新たに署名されたこの命令の下、ヘグゼス氏には「各州の陸軍州兵と空軍...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237141.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/35494dc25bc837ea0f139806ad4cd4e5/t/768/532/d/2025-08-23t022519z-418561438-rc2qcgaiurss-rtrmadp-3-usa-trump-crime.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237149.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T10:43:00+09:00</dc:date>
+        <title>台風「カジキ」ベトナム上陸、１人死亡　住宅の浸水や損壊などの被害拡大</title>
+        <link>https://www.cnn.co.jp/world/35237149.html?ref=rss</link>
+        <description>台風１３号（カジキ）が２５日、ベトナムに上陸し、中部のハティン省で１人が死亡した。数万人が避難を強いられ、住宅の浸水や損壊などの被害も広がっている。
+
+ベトナムニュースによると、ハティン省では住宅１４４棟が浸水し、６２１棟が屋根を吹き飛ばされた。同省とクアンチ省では８人が負傷した。
+
+ベトナム気象庁によれば、カジキは現地時間の２５日午後３時ごろ、風速約３７メートルでゲアン省とハティン省に上陸。その...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237149.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/1226cad7caa59bb0b3fcaedcf39390d5/t/768/512/d/gettyimages-2231221810.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237143.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T10:09:00+09:00</dc:date>
+        <title>生きた肉を食べる新世界ラセンウジバエ、人に寄生した症例を米国で確認</title>
+        <link>https://www.cnn.co.jp/usa/35237143.html?ref=rss</link>
+        <description>米保健福祉省は、生きた人や動物の肉を食べる新世界ラセンウジバエの症例が、中米エルサルバドルから米国へ渡航した患者から初めて確認されたと発表した。
+
+この症例は今月４日にメリーランド州で確認され、米疾病対策センター（ＣＤＣ）と同州保健局が調査を行っている。
+
+保健福祉省によると、流行が起きている国からの渡航に関連して米国で症例が確認されたのは初めて。「現時点で米国の公衆衛生に及ぼすリスクは極めて低い...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237143.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/9286183f71e7e323cdf95ef4820e1525/t/768/512/d/2025-08-24t220014z-1249130033-rc2e0facb594-rtrmadp-3-usa-farm-screwworm-human.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T09:04:00+09:00</dc:date>
+        <title>フランス・セーヌ川から腐敗した４体の遺体、ホームレスの男を拘束</title>
+        <link>https://www.cnn.co.jp/world/35237137.html?ref=rss</link>
+        <description>フランス・パリのセーヌ川で１３日に４人の遺体が発見されたことを受け、男が殺人容疑で拘束された。
+
+クレテイユの検察当局はＣＮＮへの声明で、「２０代のホームレスの男」が２４日に裁判所に出廷したと述べた。容疑者は４人の被害者に対する「複数の殺人罪」で捜査を受けている。被害者は全員男性だという。
+
+４人の遺体はパリ近郊のショワジー・ル・ロワで１３日に腐敗した状態で発見された。腐敗の状態はそれぞれ異なって...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/650d8fae4605b56eb7c9cfd91dbe5b0a/t/768/512/d/gettyimages-2229264130.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237134.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T08:06:00+09:00</dc:date>
+        <title>トランプ氏、「非常に重大な結果」を警告　ロシアが戦争をやめない場合</title>
+        <link>https://www.cnn.co.jp/world/35237134.html?ref=rss</link>
+        <description>トランプ米大統領は２５日、大統領執務室で記者団に対し、ロシアがウクライナでの戦争を止めなければ「非常に重大な結果を招く可能性がある」とし、今後２週間以内に戦闘終結の合意が得られなければ「非常に強力な介入」を行うと述べた。
+
+紛争が続く状態をいつまで許容するかを問われると、トランプ氏は、「今後１、２週間で何が起こるか見守る。その時点で非常に強力な介入を行う」と語った。
+
+トランプ氏は２２日、ロシアの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237134.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/3e30b7204fa4bc53084949a22279dfcf/t/768/512/d/gettyimages-2230594704.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237131.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T07:07:00+09:00</dc:date>
+        <title>ガザの病院に連続攻撃、記者ら２０人死亡　イスラエルに激しい非難</title>
+        <link>https://www.cnn.co.jp/world/35237131.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で２５日、病院に２度の攻撃があり、ジャーナリスト５人と医療従事者などが死亡した。イスラエルはこの攻撃をめぐり、激しい非難に直面している。
+
+パレスチナ保健省によると、この攻撃で少なくとも２０人が死亡し、さらに多数が負傷した。
+
+同省によると、イスラエルは南部ハンユニスのナセル病院に対し、わずか数分のうちに連続して攻撃を仕掛けた。ナセル病院によると、２度目の攻撃により、最初の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237131.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/81be4bed2ca9d0b5253a2d2b4d8c86a8/t/768/576/d/gettyimages-2231244461.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237124.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T18:01:00+09:00</dc:date>
+        <title>公の場に姿を見せないメラニア夫人、水面下で影響力を発揮　子どもたちの安全と未来を動機に</title>
+        <link>https://www.cnn.co.jp/usa/35237124.html?ref=rss</link>
+        <description>トランプ米大統領の妻、メラニア夫人は１カ月あまりホワイトハウスで目撃されていなかった。しかし、夫がウクライナ戦争の終結を目指し、プーチン・ロシア大統領との米アラスカ州での首脳会談の準備を進める中、ファーストレディーは外交手腕を発揮していた。
+
+メラニア夫人は「親愛なるプーチン大統領」から始まる手紙でロシア大統領に直接訴えかけた。「生まれた場所が田舎であっても、壮大な都会であっても、すべての子ども...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237124.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/92d6115886bebbe1cf5afe09ed56605c/t/768/523/d/gettyimages-2203333220.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237125.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T17:11:00+09:00</dc:date>
+        <title>無法地帯と化した廃虚、遺体を食べる野良犬　イスラエルの攻撃迫るガザ市の現状は</title>
+        <link>https://www.cnn.co.jp/world/35237125.html?ref=rss</link>
+        <description>２年前、パレスチナ自治区ガザ地区の最大都市ガザ市は人々の活気にあふれていた。教室は児童でいっぱいになり、市場は買い物客でにぎわい、海辺のカフェは封鎖下の重圧から逃れてきた人々の憩いの場となっていた。
+
+ガザ市は豊かな歴史を誇り、数千年にわたって人が住み続け、古代文明からの相次ぐ侵略によって形づくられてきた。１９４８年のイスラエル建国の際に故郷を追われたパレスチナ人の主要な避難先となり、過去を物語...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237125.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/5be4c6aafd24f082f3d540815001a1ff/t/768/511/d/large-p-3-israel-palestinians-gaza.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237115.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T14:57:00+09:00</dc:date>
+        <title>「母さん、泣かないで。すぐ家に帰るから」　ウクライナ人記者が解放される、ロシアが秘密裏に３年間拘束</title>
+        <link>https://www.cnn.co.jp/world/35237115.html?ref=rss</link>
+        <description>ロシアによって外部との連絡を３年以上絶たれたまま拘束されていたウクライナ人記者が２４日、ウクライナとロシアとの間の最新の捕虜交換の一環として解放された。
+
+解放されたのはドミトロ・ヒリウク記者（５０）。ロシアで拘束されている数千人にのぼる民間人のひとりだ。民間人の拘束は国際法上違法とされる
+
+ヒリウクさんの高齢の両親は、息子の消息を一切知らされないまま、国内外の政治家に面会したり、抗議活動に参加し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237115.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/b5c15204408a864f4e47e0467e5a752d/t/768/576/d/large-gzhwohtw8aef3-d.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35237107.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T13:56:00+09:00</dc:date>
+        <title>世界で人気の「ラブブ」人形、偽物「ラフフ」も人気に</title>
+        <link>https://www.cnn.co.jp/business/35237107.html?ref=rss</link>
+        <description>多くの「ラブブ」ファンと同様、ジョセリン・チャモロさん（２８）もこの熱狂にはうんざりしている。
+
+３０ドル（約４５００円）もするいたずらっ子の顔をした人形を買うために夜通し並んだり、転売屋に１００ドルも大金を払ったりすることに魅力を感じなくなってしまったのだ。フロリダ州レイクランドのガソリンスタンドで、模造品のラブブ（通称ラフフ）が２０ドルで売られているのを見た時、チャモロさんは迷わず購入した。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35237107.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/9f7c4a59bd9cb066ab26d5457f92b7e4/t/768/512/d/2025-07-22t211726z-1708165001-rc2wrfaxtmdd-rtrmadp-3-usa-dailylife.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237106.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-25T12:42:00+09:00</dc:date>
+        <title>イスラエル、イエメンを空爆　反体制派による新型ミサイル攻撃受け</title>
+        <link>https://www.cnn.co.jp/world/35237106.html?ref=rss</link>
+        <description>イスラエル軍は２４日、イランの支援を受けるイエメンの反政府武装組織フーシが新型のミサイルをイスラエルに向けて発射したことを受け、イエメンを空爆した。
+
+イスラエル軍によると、標的は大統領宮殿のある軍事施設のほか、発電所２カ所と燃料貯蔵施設だった。フーシ系メディアは、保健省の発表として、首都サヌアでの攻撃で、少なくとも４人が死亡し、６７人が負傷したと伝えた。
+
+イスラエル国防軍（ＩＤＦ）は「今回の空...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237106.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/25/d7bb64532f23c769bcc4c80e5de39bf2/t/768/511/d/large-gettyimages-2231032463.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
