@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-08-27T17:01:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237231.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35237224.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237223.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35237212.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35237216.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237222.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35237219.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237184.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237209.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237207.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237204.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35237198.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237199.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237196.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35237195.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237193.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237192.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237188.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237163.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237186.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35237185.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237177.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237183.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35237167.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237172.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237159.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35237160.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35237153.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237157.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237150.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237231.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T17:01:00+09:00</dc:date>
+        <title>遺伝子改変ブタの肺を脳死男性に移植、９日間機能　中国</title>
+        <link>https://www.cnn.co.jp/fringe/35237231.html?ref=rss</link>
+        <description>遺伝子を改変したブタの肺が脳死状態の男性に移植され、９日間機能したことが分かった。新たに発表された報告書で明らかになった。
+
+近年、ブタの腎臓や心臓を人間に移植する試みはいくつか成功しているが、ブタの肺を人間に移植する試みはこれが初めてとみられる。医師たちは将来、臓器を必要とする人々にとってこれが選択肢となることを期待しているが、専門家はすぐには実現しないと指摘している。
+
+中国の広州医科大学附属...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237231.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/80e63b6de1e707868410b478c271a745/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWVuNGFtbXYwMDdpMjZubjhkMmo4dXps-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZW40YW1tdjAwN3gyNm5uMDlrNjNjZzQ_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35237224.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T15:45:00+09:00</dc:date>
+        <title>トランプ氏、インドに５０%の関税発動　米国が課す税率で最高水準</title>
+        <link>https://www.cnn.co.jp/business/35237224.html?ref=rss</link>
+        <description>トランプ米大統領は、インドからの輸入品に対する関税を倍の５０%に引き上げるという脅しを実行に移した。この措置は、米国にとって最も重要な貿易相手国の一つであるインドとの関係を危うくし、消費者物価の上昇を招く可能性がある。
+
+この措置のわずか数週間前、トランプ氏はインド製品に対し新たに２５%の基本関税を導入していた。世界第５位の経済大国であるインドへの関税は、現在、米国が関税を課しているすべての国の中...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35237224.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/87e0d954cd68ac29c3e5a844d547b625/t/768/532/d/2025-04-14t013341z-2010294869-rc2yudaka3et-rtrmadp-3-usa-trump-tariffs-shrimp.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237223.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T14:40:00+09:00</dc:date>
+        <title>ヘビとにらみ合うライオン、柱にしがみつくナマケモノ　野生生物写真コンテストの今年の優秀作品は</title>
+        <link>https://www.cnn.co.jp/fringe/35237223.html?ref=rss</link>
+        <description>今年の野生生物写真家コンテストで高く評価された作品はいずれも、ちょっとしたドラマの一場面を切り取ったかのような写真だった。
+
+ある１枚には、ライオンの雌が岩の端から顔をのぞかせてコブラとにらみ合う姿が捉えられている。別の１枚では、ナマケモノがまるで命がけのように有刺鉄線のフェンスの柱にしがみついていた。別の１枚には、１頭のゾウがごみ処分場で色とりどりの廃棄物の山をかき分けて歩いている様子が写し出...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237223.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/ecbd405db250a57353b1a4993f4856b0/t/768/540/d/large-bertie-gregory-wildlife-photographer-of-the-year.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35237212.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T13:50:00+09:00</dc:date>
+        <title>米レストランチェーンがロゴ簡略化を撤回、右派の猛反発受け　トランプ氏からも異議</title>
+        <link>https://www.cnn.co.jp/business/35237212.html?ref=rss</link>
+        <description>連日にわたる猛烈な反発の後、米レストランチェーンのクラッカーバレルが、必要最小限まで簡略化した新たなロゴの導入を撤回した。ロゴの変更にはトランプ米大統領からも異議を唱える声が上がっていた。
+
+カントリー風のレストランをチェーン展開するクラッカーバレルは声明を発表し、顧客からの声に耳を傾けると明言。新たなロゴは廃止し、旧ロゴに描かれていた老人のイラストを復活させることを示唆した。
+
+先週、クラッカー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35237212.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/23dccc84d100e6f8386029d433a896d5/t/768/512/d/ap25233628426096.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35237216.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T13:29:00+09:00</dc:date>
+        <title>写真特集：野生生物写真家コンテストの優秀作品は</title>
+        <link>https://www.cnn.co.jp/photo/35237216.html?ref=rss</link>
+        <description>今年の野生生物写真家コンテストで高く評価された作品はいずれも、ちょっとしたドラマの一場面を切り取ったかのような写真だった&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35237216.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/7b4cfc78363e8f93459b00f391aebbe3/t/768/431/d/001-bertie-gregory_resized.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237222.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T13:11:00+09:00</dc:date>
+        <title>爆弾があると主張した男を移民施設前で逮捕、執行官狙う襲撃が増加　米</title>
+        <link>https://www.cnn.co.jp/usa/35237222.html?ref=rss</link>
+        <description>米国土安全保障省は２６日、テキサス州ダラスにある移民税関捜査局（ＩＣＥ）の施設前で、バックパックの中に爆弾が入っていると警備員に告げた男が逮捕されたと発表した。
+
+発表によると、逮捕されたのは米国籍を持つブラットン・ディーン・ウィルキンソン容疑者（３５）。現地時間の２５日午後６時３７分、ＩＣＥダラス支部の入り口前に徒歩で現れ、手首に装着した起爆装置と称する装置を警備員に見せたとされる。
+
+同施設に...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35237219.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T12:41:00+09:00</dc:date>
+        <title>「チャットＧＰＴが自殺を手助け」　１６歳の息子を失った夫婦、オープンＡＩを提訴　米</title>
+        <link>https://www.cnn.co.jp/tech/35237219.html?ref=rss</link>
+        <description>１６歳の息子の自殺に生成ＡＩ（人工知能）の「チャットＧＰＴ」が関与したとして、両親が２６日、開発元のオープンＡＩとサム・アルトマン最高経営責任者（ＣＥＯ）をカリフォルニア州の裁判所に提訴した。チャットＧＰＴが自殺の方法をアドバイスして、遺書の書き方まで教えたと主張している。
+
+アダム・レインさんは今年４月に自らの命を絶った。訴状の中で遺族側は、チャットＧＰＴについて「アダムのことを理解する唯一の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35237219.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/c2bf1eb8e821ec32f304f76b6f04a2c3/t/768/510/d/shutterstock-editorial-13757550f.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237184.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T11:43:00+09:00</dc:date>
+        <title>新たな種類の超新星を観測、「これまで見たことのない現象」と天文学者</title>
+        <link>https://www.cnn.co.jp/fringe/35237184.html?ref=rss</link>
+        <description>天文学者らが新たな種類の超新星とみられる現象を観測した。爆発寸前の恒星の奥深くで何が起きているのかについて、これまでにない知見を得られた形となっている。
+
+驚きの発見を詳細に記した論文は、２０日付の科学誌ネイチャーに掲載された。
+
+巨大な恒星は、天上のタマネギに例えられる。一番外側の層は水素やヘリウムといった軽量の元素で構成される一方、内側にはより重い元素の層が存在する。
+
+太陽の１０～１００倍の質...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237184.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/b7b0e568061c9c25b1c44a59117b4d5f/t/324/432/d/shells-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237209.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T10:40:00+09:00</dc:date>
+        <title>街を襲った巨大な砂の壁　倒木や停電の被害多発、空港も運航停止　米アリゾナ州</title>
+        <link>https://www.cnn.co.jp/usa/35237209.html?ref=rss</link>
+        <description>米アリゾナ州で２５日夜、猛烈な砂嵐が発生し、巨大な砂じんの壁となってフェニックスの街をのみ込んだ。市内の視界はほぼゼロになった。
+
+続いて同市は激しい雷雨に襲われ、倒木や停電などの被害が多発。フェニックス・スカイハーバー国際空港では風速３０メートルを超す突風で連絡橋が破壊された。
+
+米国立気象局やアリゾナ州運輸局は砂嵐と雷雨に対して厳重な警戒を促し、ドライバーには「命を守るために停車を」と呼びかけ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237209.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/661c5d040fc45bd123f8ed24d33b7260/t/768/304/d/usatsi-26926927-resized.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237207.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T10:05:00+09:00</dc:date>
+        <title>首都ワシントンでの殺人に死刑求刑、トランプ氏が表明</title>
+        <link>https://www.cnn.co.jp/usa/35237207.html?ref=rss</link>
+        <description>トランプ米大統領は２６日、首都ワシントンで発生した殺人事件に死刑を求刑する意向を明らかにした。
+
+トランプ氏は閣議で、「首都で殺人を犯す者は全員、死刑になる。首都では死刑だ。首都ワシントンで殺人を犯す者がいれば、われわれは死刑を求刑する」と表明した。
+
+「非常に強力な予防」措置になるとの認識を示したうえで、「この国にその準備ができているかどうかは分からない。選択の余地はない」と語った。
+
+この措置は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237207.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/7ffd85901bf4249592c764ab3135b920/t/768/432/d/43960329-21579866-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237204.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T09:40:00+09:00</dc:date>
+        <title>ウディ・アレン監督、自身のロシア映画祭参加を擁護　ウクライナの強い批判受け</title>
+        <link>https://www.cnn.co.jp/showbiz/35237204.html?ref=rss</link>
+        <description>映画監督のウディ・アレン氏（８９）がロシアで開かれたモスクワ国際映画週間に参加したことをめぐり、ウクライナ政府が強く批判した。これを受け、アレン氏は自身を擁護した。
+
+アレン氏は２５日、ＣＮＮに宛てた声明で「ウクライナ紛争に関しては、（ロシアの大統領である）ウラジーミル・プーチン氏が完全に間違っていると強く信じている。彼が引き起こした戦争はひどいものだ」と述べた。
+
+アレン氏は一方で、「しかし政治...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237204.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/286cfc37f4521ae05d52f078445e5966/t/768/512/d/2023-09-04t074911z-692323570-rc2j13aeiw7g-rtrmadp-3-filmfestival-venice.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35237198.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T08:36:00+09:00</dc:date>
+        <title>写真特集：テイラー・スウィフトとトラビス・ケルシーが婚約、一つのラブストーリー</title>
+        <link>https://www.cnn.co.jp/photo/35237198.html?ref=rss</link>
+        <description>米歌手テイラー・スウィフトさんと米ナショナル・フットボールリーグ（ＮＦＬ）カンザスシティー・チーフスに所属するトラビス・ケルシー選手は２６日、インスタグラムへのそれぞれの投稿で婚約を発表した&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35237198.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/5500c52f3d19e2d8aa655f3c13250eab/t/768/512/d/photoslide1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237199.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T08:23:00+09:00</dc:date>
+        <title>メーガン妃、ヘンリー王子とのロマンスや英国を離れて恋しいものを明かす</title>
+        <link>https://www.cnn.co.jp/showbiz/35237199.html?ref=rss</link>
+        <description>英王室の公務から退き米カリフォルニア州で暮らすヘンリー王子の妻、メーガン妃は、米動画配信大手ネットフリックスでの自身のライフスタイル番組「ウィズ・ラブ、メーガン」の新シーズンで、ヘンリー王子との関係について新たな詳細を明かすとともに、英国での生活を振り返った。
+
+２６日に配信が開始された同番組のシーズン２では、４４歳のメーガン妃が新たな友人やセレブのゲストを迎え、料理やＤＩＹを披露し、率直な会話...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237199.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/a8115ca47fa63282e09bfa6a21fab4c8/t/768/512/d/wlm-s2-241115-unit-01413r-c.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237196.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T07:39:00+09:00</dc:date>
+        <title>テイラー・スウィフトさんとトラビス・ケルシー選手が婚約　「英語の先生と体育の先生が結婚します」</title>
+        <link>https://www.cnn.co.jp/showbiz/35237196.html?ref=rss</link>
+        <description>米歌手テイラー・スウィフトさんと米プロフットボールリーグ（ＮＦＬ）カンザスシティー・チーフスに所属するトラビス・ケルシー選手は２６日、インスタグラムへのそれぞれの投稿で婚約を発表した。「あなたの英語の先生と体育の先生が結婚します」とのコメントが添えられている。
+
+投稿には、花に囲まれて抱き合う２人の写真や、金のバンドにクッションカットのダイヤが輝くスウィフトさんの指輪のクローズアップ写真、ケルシ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237196.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/f2f53d7458949c53ffcfd9697ec22744/t/768/512/d/gettyimages-1970250110-20250826171125580.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35237195.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T07:06:00+09:00</dc:date>
+        <title>アップル、９月１０日にイベント開催へ　「ｉＰｈｏｎｅ　１７」発表か</title>
+        <link>https://www.cnn.co.jp/tech/35237195.html?ref=rss</link>
+        <description>米アップルは２６日、報道関係者向けに招待状を送り、米国時間９月９日（日本時間１０日）にイベントを開催すると発表した。このイベントでは、「ｉＰｈｏｎｅ（アイフォーン）１７」や新型アップルウォッチなど、さまざまな新製品が発表される見込みだ。
+
+アップルは発表前に新製品の詳細を明らかにすることはめったになく、２０１２年以降は９月に新型ｉＰｈｏｎｅを発表している。招待状には「Ａｗｅ　Ｄｒｏｐｐｉｎｇ．（...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35237195.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/5fd33a11a666d4395d4f7f56c69848f8/t/768/512/d/gettyimages-2173254003-20250826160129277.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237193.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T06:19:00+09:00</dc:date>
+        <title>ガザの病院への連続攻撃、標的は「ハマス設置のカメラ」　初期調査</title>
+        <link>https://www.cnn.co.jp/world/35237193.html?ref=rss</link>
+        <description>イスラエル国防軍（ＩＤＦ）は２６日、少なくとも２０人が死亡したパレスチナ自治区ガザ地区南部の病院への「連続」攻撃について、イスラム組織ハマスが設置したカメラを標的にしていたとの初期調査結果を発表した。
+
+また、この攻撃による死者のうち６人はテロリストだったとした。ＩＤＦによると、ここには２０２３年１０月７月のイスラエルへの奇襲に加わった人物１人も含まれているという。
+
+ＩＤＦは初期調査結果について...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237193.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/8fab16dde13fd889229a098a4c18ebbb/t/768/576/d/gettyimages-2231244009.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237192.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-27T06:19:00+09:00</dc:date>
+        <title>クックＦＲＢ理事、トランプ氏による「解雇」巡り提訴へ</title>
+        <link>https://www.cnn.co.jp/usa/35237192.html?ref=rss</link>
+        <description>トランプ米大統領がリサ・クック連邦準備制度理事会（ＦＲＢ）理事を解任したと発表した件で、クック氏の弁護士は２６日、トランプ氏に解任する権限はないとして提訴すると発表した。
+
+クック氏の弁護士のアビ・ローウェル氏はＣＮＮに寄せた声明で「トランプ氏の解任の試みは事実あるいは法的根拠を欠いている」と指摘した。
+
+クック氏はこのところ、住宅ローンで不正を行った疑いがあるとしてトランプ氏と閣僚から厳しく批判...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237192.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/27/d9cd8ba848a8120ea442bc13f96ffa5b/t/768/512/d/gettyimages-1258902366-20250826154246204.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237188.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T21:35:00+09:00</dc:date>
+        <title>ドジャース大谷選手、やじ飛ばしたパドレスファンとハイタッチ　４５号放った直後</title>
+        <link>https://www.cnn.co.jp/showbiz/35237188.html?ref=rss</link>
+        <description>米大リーグ、ロサンゼルス・ドジャースの大谷翔平選手（３１）がシーズン４５号本塁打を放った直後、試合中にやじを飛ばしていたサンディエゴ・パドレスのファンとハイタッチする場面があった。
+
+ドジャースは２４日の試合でパドレスに８―２で勝利。大谷選手は九回表、松井裕樹投手から本塁打を放った。だが注目を集めたのは本塁打そのものより、その後の行動だった。
+
+ベースを回り切った大谷選手は、チームメートと祝う前に敵...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237188.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/5f37297bc19042bb9efa4796b7cf0e1e/t/768/524/d/large-gettyimages-2231244017.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237163.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T20:30:00+09:00</dc:date>
+        <title>地中海式ダイエットと運動、高齢者の２型糖尿病の予防に　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35237163.html?ref=rss</link>
+        <description>低カロリーの地中海式ダイエットと運動、栄養補給を組み合わせることで、５５歳から７５歳の太り過ぎから重度の肥満の人々が２型糖尿病を発症するのを防げる可能性があるとの新たな研究結果が明らかになった。
+
+ハーバード大学Ｔ・Ｈ・チャン公衆衛生大学院の栄養学・疫学教授で論文の共同執筆者のフランク・フー博士は「我々の研究は、食生活とライフスタイルを適度に、かつ継続的に変えることで、世界中で数百万件に上る２型...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237163.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/b6341de31fc2daf61a353e3e5f1fdf46/t/768/512/d/large-gettyimages-1633730833-20250825202130963.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237186.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T19:51:00+09:00</dc:date>
+        <title>イスラエルで全国的な抗議デモ、人質の解放と戦争の終結求める</title>
+        <link>https://www.cnn.co.jp/world/35237186.html?ref=rss</link>
+        <description>イスラエルで２６日、イスラム組織ハマスに拘束された人質の解放と戦争の終結を求める「闘争の日」と名付けられた全国的な抗議行動が行われた。参加者らが幹線道路を封鎖し、タイヤを燃やして停戦合意を訴えた。
+
+人質の家族や支援者らが参加し、被害者団体「人質・行方不明家族フォーラム」は、抗議行動の冒頭でテルアビブの米大使館前に巨大なイスラエル国旗を掲げた。
+
+人質・行方不明家族フォーラムは声明で「メッセージは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237186.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/a871e2aed3d6199b4c4ca2e1c359634e/t/768/511/d/large-gettyimages-2231445954.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35237185.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T19:11:00+09:00</dc:date>
+        <title>中国系ハッカー、東南アジアの外交官を標的に　グーグル発表</title>
+        <link>https://www.cnn.co.jp/tech/35237185.html?ref=rss</link>
+        <description>米ＩＴ大手グーグルは、中国と関係のあるハッカー集団が、東南アジアの外交官など世界各地の組織を標的にサイバー攻撃を行っていたと明らかにした。このハッカー集団は「中国政府の戦略的利益と一致していた可能性が高い」としている。
+
+グーグル脅威インテリジェンスグループ（ＧＴＩＧ）は２６日にブログへの投稿で、３月の攻撃では標的のウェブトラフィックが乗っ取られ、マルウェア（不正なプログラム）がダウンロードされ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35237185.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/ba5998e6b60554cb615792d39789418d/t/768/510/d/large-cyber-hacking.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237177.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T18:18:00+09:00</dc:date>
+        <title>暑すぎる地下鉄、世界中で問題に　現代に合わなくなった都市設計、解決策は</title>
+        <link>https://www.cnn.co.jp/world/35237177.html?ref=rss</link>
+        <description>英ロンドンの地下鉄「アンダーグラウンド（通称チューブ）」がまだ新しかったビクトリア女王の時代、英国には煙突掃除人がいて、イングランドの気温は今よりもカ氏で２度以上低かった。
+
+ナチスによる爆撃からロンドンを救う役割を果たした地下鉄の６０％は、今もエアコンがなく、線路がゆがむほどの猛暑は健康被害を生じさせかねない。
+
+一方、１９０４年以来眠ることのなかった米ニューヨーク市の地下鉄は、大雨が降るたびに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237177.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/dc0d441a2fb578b8402be8228887ea7e/t/768/510/d/gettyimages-222228894.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237183.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T17:38:00+09:00</dc:date>
+        <title>違法薬物を大量押収、「州の全住民を過剰摂取で死なせる」のに十分な量　米</title>
+        <link>https://www.cnn.co.jp/usa/35237183.html?ref=rss</link>
+        <description>米沿岸警備隊の巡視船「ハミルトン」は２５日、米フロリダ州の港に過去最大規模の違法薬物を陸揚げした。当局によれば、この量が出回っていれば、致死量のコカイン約２３００万回分に相当した。
+
+沿岸警備隊の発表によると、陸揚げされたのはコカイン約６万１７４０ポンド（約２８トン）とマリフアナ約１万４４００ポンド（約６．５トン）。沿岸警備隊史上最大規模の押収量だという。末端価格は計４億７３００万ドル（約７００...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237183.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/622ee46beba350c61a0ee3585b207d23/t/768/576/d/large-539071735-1218968203603364-3475173434129870935-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35237167.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T16:02:00+09:00</dc:date>
+        <title>「あなたたちは来なくていい」、３６５日押し寄せる観光客に欧州の住民は辟易</title>
+        <link>https://www.cnn.co.jp/travel/35237167.html?ref=rss</link>
+        <description>スペインで抗議デモが続発し、イタリア北部ベネチアで富豪の結婚式が妨害され、仏パリのルーブル美術館で職員がストを起こす。オーバーツーリズムをめぐるそんな場面を見るたび、英旅行社サンビルのノエル・ジョセファイズ会長は心の中でこうつぶやいてきた。「だから言ったのに」
+
+「こうなることは１０年前から分かっていた」「現に私は、そのうち手に負えなくなると忠告した」
+
+同社は１９７０年から英富裕層向けのツアーを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35237167.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/650a776332dd192d77b9188be43ea815/t/768/512/d/gettyimages-2219688160.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237172.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T15:40:00+09:00</dc:date>
+        <title>オーストラリア、イラン大使を追放　ユダヤ襲撃に「関与」</title>
+        <link>https://www.cnn.co.jp/world/35237172.html?ref=rss</link>
+        <description>オーストラリアは、同国の情報機関が国内で起きた反ユダヤ主義的な襲撃事件にイランが関与していたことを確認したとして、キャンベラに駐在するイラン大使を国外追放すると発表した。
+
+アルバニージー首相は記者会見で、保安情報局（ＡＳＩＯ）が、シドニーのユダヤ人経営者のレストランとメルボルンのシナゴーグ（ユダヤ教の礼拝所）を狙った昨年の放火事件２件について、イラン革命防衛隊（ＩＲＧＣ）が関与している可能性を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237172.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/fd12bfc34834128716a4ba2634c01b6b/t/768/511/d/large-p-3-australia-iran-diplomats.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237159.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T14:15:00+09:00</dc:date>
+        <title>トランプ氏、金正恩氏との会談を希望　韓国大統領に伝える</title>
+        <link>https://www.cnn.co.jp/world/35237159.html?ref=rss</link>
+        <description>米国のトランプ大統領は、２５日に行われた韓国の李在明（イジェミョン）大統領との会談で、北朝鮮の金正恩（キムジョンウン）朝鮮労働党総書記との会談に前向きな姿勢を示した。李氏との会談では朝鮮半島の平和と北朝鮮の核兵器能力について協議した。
+
+６月に大統領に当選した李氏は、ホワイトハウス訪問の際、トランプ氏に対し南北間の平和構築への協力を要請。トランプ氏の１期目の任期中、状況はより安定していたと主張し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237159.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/5cbbcd40922959856f8279a0a6220d98/t/768/512/d/gettyimages-223202450.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35237160.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T14:00:00+09:00</dc:date>
+        <title>トランプ氏、自身を批判したインタビュー流したＡＢＣに免許取り消しをちらつかせる</title>
+        <link>https://www.cnn.co.jp/business/35237160.html?ref=rss</link>
+        <description>米ＡＢＣニュースが、クリス・クリスティ前ニュージャージー州知事がトランプ米大統領を痛烈に批判するインタビューを放送したことを受け、トランプ氏は２４日、クリスティ氏の１０年あまり前の政治スキャンダルを捜査し、ＡＢＣの放送免許を取り消すと警告した。
+
+クリスティ氏は２４日、ＡＢＣの番組「ディス・ウィーク」に出演。連邦捜査局（ＦＢＩ）が２２日に第１次トランプ政権で大統領補佐官を務めたジョン・ボルトン氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35237160.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/27022e51b29b0759bfcb8a375990db36/t/768/512/d/shutterstock-editorial-14285857i.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35237153.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T13:03:00+09:00</dc:date>
+        <title>「韓国のハワイ」済州島、行儀の悪い外国人観光客対策のガイドラインを発表</title>
+        <link>https://www.cnn.co.jp/travel/35237153.html?ref=rss</link>
+        <description>「韓国のハワイ」と呼ばれることも多い済州島が、外国人観光客に対しマナーを守るよう警告する多言語ガイドを発行した。観光客による一連の事案や無秩序な行動が話題になったことを受けた措置。
+
+昨年済州島を訪れた観光客は１３００万人を超えた。同島はきらめく青い海、緑豊かな茶畑、そして雪に覆われた盾状火山の漢拏山（ハルラサン）で有名。国際航空運送協会（ＩＡＴＡ）の２０２４年版世界航空輸送統計によると、ソウル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35237153.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/ba4fb9561369016d41c52337b849e825/t/768/432/d/gettyimages-1240154869.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237157.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T12:49:00+09:00</dc:date>
+        <title>飛行訓練中のヘリコプターが墜落、３人死亡　英ワイト島</title>
+        <link>https://www.cnn.co.jp/world/35237157.html?ref=rss</link>
+        <description>英国のワイト島で２５日午前、飛行訓練中のヘリコプターが墜落し、３人が死亡した。ハンプシャー・ワイト島警察が明らかにした。
+
+警察によると、重傷のため１人が入院している。
+
+運航会社ノーサンブリア・ヘリコプターズによれば、同機は午前９時ごろ、サンダウン空港を離陸した。訓練飛行のため４人が搭乗していた。その約２４分後、道路近くの畑にヘリコプターが墜落したとの通報が警察に寄せられた。
+
+英国メディアが伝え...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237157.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/a663df26f2f2bb0cadd4e11b186e7456/t/768/485/d/large-shutterstock-editorial-15455770i.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237150.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-08-26T11:37:00+09:00</dc:date>
+        <title>トランプ氏、クックＦＲＢ理事の解任を発表　中央銀行との対立激化</title>
+        <link>https://www.cnn.co.jp/usa/35237150.html?ref=rss</link>
+        <description>トランプ米大統領は２５日、リサ・クック連邦準備制度理事会（ＦＲＢ）理事を解任したと発表した。クック氏宛ての書簡を自身のソーシャルメディアに投稿した。ＦＲＢの１１１年の歴史において、大統領が理事を解任するのは初めて。
+
+​​この前代未聞の措置は、トランプ氏とＦＲＢとの対立を著しく激化させるものだ。トランプ氏はかねて、金利の引き下げに時間がかかりすぎているとしてＦＲＢを非難している。
+
+クック氏は最近、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237150.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/26/ca005d17fc8bbd951e44cfa94a97b087/t/768/512/d/gettyimages-2225624346.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
