@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-09-02T19:15:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237453.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237449.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237457.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237444.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237446.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237435.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237439.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35237441.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237438.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237436.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237432.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237434.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237427.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237429.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237428.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237424.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237422.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237425.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237410.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237419.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237414.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237415.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237411.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237407.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237404.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237403.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237399.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237401.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237396.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237398.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35237453.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T19:15:00+09:00</dc:date>
+        <title>イングランド中に突如現れた聖ジョージ旗　愛国心の象徴か、ナショナリズムの武器化か</title>
+        <link>https://www.cnn.co.jp/world/35237453.html?ref=rss</link>
+        <description>米国では星条旗が至る所にある。各家庭は玄関や芝生、ピックアップトラックにそれを立てるなどする。国旗は風景の一部であり、ほとんど認識もされないほど身の回りにあふれている。
+
+イングランドで旗を目にする機会はそこまで多くない。通常、それらが現れるのはロイヤルジュビリー（君主の在位の節目を祝うイベント）や戦没者追悼式典、または大規模なスポーツ大会に限られる。
+
+ところが今夏は事情が違う。英国旗（ユニオン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237453.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/cc9e089c206b6a6dc63ab0eaf60fdc91/t/768/432/d/shutterstock-editorial-15442139o.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237449.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T17:58:00+09:00</dc:date>
+        <title>中国で尊敬される米国人の傭兵、日中戦争で活躍した「フライング・タイガース」とは</title>
+        <link>https://www.cnn.co.jp/world/35237449.html?ref=rss</link>
+        <description>こんな求人について考えてみてほしい。
+
+1年間の契約で、中国で暮らしながら、飛行機の操縦や修理、製造を行う。給与は月額最高１万６７２５ドル（約２４５万円）。年間３０日の休暇を保証。住むところが提供されるほか、食費として７００ドルが別途支給される。さらに撃墜した日本軍の航空機１機について１万１０００ドルの報奨金が支払われる（上限なし）。
+
+これが、１９４１年に数百人の米国人が引き受けた取引であり、これ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237449.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/0f71532df1c038ce3f5a8d45ecc4f66b/t/768/432/d/001-flying-tigers-fighter-planes-in-flight-color-photo-from-1940s.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237457.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T16:26:00+09:00</dc:date>
+        <title>１万２千年前の人骨に矢で撃たれたこん跡か、狩猟採集民同士が争ったことを示す最古の事例の可能性</title>
+        <link>https://www.cnn.co.jp/fringe/35237457.html?ref=rss</link>
+        <description>ベトナムで最近、氷河期の終わりから約１万２０００年前にかけての時期に、矢のようなもので首を撃ち抜かれ、やがて死に至ったとみられる男性の骨が発掘された。この地域で発見されたミトコンドリアＤＮＡを含む人骨としては最古の例。男性は３５歳前後だったとみられ、損傷した骨の近くに矢じりのかけらのような石英片が見つかった。
+
+男性には首の骨から横に突き出た頚肋（けいろく）という骨があり、その骨に損傷を負ってい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237457.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/ec6f6a8480419410ae45e3c445e8566a/t/768/511/d/large-tbh1-wilshaw-stimpson-ref-rspb-2025-1819-20250828160958344.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237444.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T15:12:00+09:00</dc:date>
+        <title>口論になった相手の犬を射殺した男、逃走中に自分の飼い犬もひき殺す　米</title>
+        <link>https://www.cnn.co.jp/usa/35237444.html?ref=rss</link>
+        <description>米ニューメキシコ州アルバカーキで先月２５日、男が恋人の兄弟の犬を射殺し、さらに自分の犬も誤ってひき殺した罪で起訴された。裁判所の文書で明らかになった。
+
+ジャスティン・レベレット被告（３１）は、恋人と暮らすアパートの外で、恋人の兄弟２人と激しい口論になった。兄弟の犬の１匹が自分に向かって走ってきたため、被告はその犬の首をつかみ、射殺したとされる。被告は車で走り去り、運転中に別の犬をはねて死亡させ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237446.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T14:29:00+09:00</dc:date>
+        <title>プーチン氏、北京で習近平氏と公式会談　両国関係は「前例ないほど高いレベル」</title>
+        <link>https://www.cnn.co.jp/world/35237446.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は２日、８月３１日に中国に到着して以来、首脳である習近平（シーチンピン）国家主席と初めて公式会談を行い、中国との関係が「前例のないほど高いレベル」にあると称賛した。
+
+北京の人民大会堂で行われた会談は、二人の権力者の結束を示す新たな事例となった。プーチン氏がウクライナ戦争終結を求める西側諸国の圧力を一蹴する一方、習氏は中国を世界の統治における新たなリーダーとして位置づけてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237446.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/dbe00bf2ac8d724992079614f4fd8da4/t/768/584/d/gettyimages-223255696.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237435.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T13:40:00+09:00</dc:date>
+        <title>檻から出たゴリラズ、新たな世代の観客にお披露目</title>
+        <link>https://www.cnn.co.jp/showbiz/35237435.html?ref=rss</link>
+        <description>「このアルバムが出てから、随分長い時間が過ぎた」と、ゴリラズのフロントマン、デーモン・アルバーンは回想する。かつてはバーチャルだったバンドの同名のデビューアルバムを、ロンドンのライブで初めて全曲演奏しながら。「みんなの中には、まだ生まれてなかった人もいるわけだ。そんなことはどうでもいいが」
+
+いつになく、ほとんど気恥ずかしくなるほどの郷愁に浸りながら、アルバーンは２０００年代の初頭を振り返った。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237435.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/9d42968a8eba2d5012c4128d8452450d/t/768/512/d/gorillaz-15-bethan-miller.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237439.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T13:02:00+09:00</dc:date>
+        <title>モノレールの線路で子どもが立ち往生する映像　目撃者がパニックに陥る中、男性が救出　米</title>
+        <link>https://www.cnn.co.jp/usa/35237439.html?ref=rss</link>
+        <description>米ペンシルベニア州のテーマパークでモノレールの線路上を子どもが歩く出来事があった。
+
+目撃した人々がパニックに陥るなか、ひとりの男性が線路によじのぼり、子どもを救出した。
+
+男性が子どもを無事抱きかかえると、かたずを飲んで見守っていた観衆からは拍手と歓声がわきあがった。男性は「父性本能が働き」、助けに向かったという。
+
+テーマパークの広報によると、子どもは親とはぐれてしまい、迷子の届けが出されていた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237439.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/658ec8d0c24db12e94cb8b9652f210f6/t/768/432/d/113734-man-rescues-child-hersheypark-16x9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35237441.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T12:29:00+09:00</dc:date>
+        <title>コックピットを守る障壁、米サウスウェスト航空の新型機に導入</title>
+        <link>https://www.cnn.co.jp/business/35237441.html?ref=rss</link>
+        <description>米サウスウェスト航空が導入した新型機に、コックピットを守るための障壁が設置された。操縦士が飛行中にドアを開ける必要が生じた場合に使用する。
+
+サウスウェスト航空初のボーイング７３７型機は、他社に先駆けて格納式の障壁を設置。９月１日までのレーバーデー（労働者の日）の連休中に就航した。
+
+障壁の設置は２０２３年の米連邦航空局（ＦＡＡ）規定によって、２５年夏から全ての新型機に設置が義務付けられた。その後...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35237441.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/a0ad21cea2957e350ea0fd300b1fad0d/t/768/432/d/still-21914086-25452-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237438.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T11:58:00+09:00</dc:date>
+        <title>世界の報道機関２００社、ガザでの記者殺害めぐりイスラエルに一斉抗議</title>
+        <link>https://www.cnn.co.jp/world/35237438.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で後を絶たないジャーナリストの殺害を受け、世界５０カ国の報道機関が連帯して１日、イスラエルに対する抗議運動を展開した。ジャーナリストの殺害をやめ、ガザ地区に立ち入って自由に取材活動をさせるよう要求している。
+
+抗議運動には５０カ国の約２００社が参加。新聞は１面を黒塗りにして、テレビ局やラジオ局は番組を中断、インターネット媒体はホームページをかき乱している。
+
+抗議運動は、イ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237438.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/aa6720306340a6fae9824697c86f3155/t/768/427/d/-3-israel-palestinians-gaza-journalists.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237436.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T11:19:00+09:00</dc:date>
+        <title>北朝鮮がプロパガンダ映像公開、ロシアのために戦った兵士を称賛</title>
+        <link>https://www.cnn.co.jp/world/35237436.html?ref=rss</link>
+        <description>北朝鮮は、ウクライナでの戦争でロシアのために戦った北朝鮮兵を称賛するプロパガンダ映像を公開した。北朝鮮の金正恩（キムジョンウン）総書記は訪中して、ロシアのプーチン大統領とともに第２次世界大戦終結から８０周年を記念する軍事パレードに出席する予定となっている。
+
+朝鮮中央テレビが公開した約２０分間の映像には、雪に覆われた戦場で武器を扱う兵士やロシア兵と会談する場面、木に爆弾を仕掛ける様子などが劇的に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237436.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/d3db5a5924ced76eed694e469abed118/t/768/432/d/still-21912257-805750-128-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237432.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T10:37:00+09:00</dc:date>
+        <title>金正恩氏、有名な「装甲列車」で北京入りへ　歴代指導者が使用</title>
+        <link>https://www.cnn.co.jp/world/35237432.html?ref=rss</link>
+        <description>世界の一部の指導者たちが中国・北京で３日に行われる大規模な軍事パレードに向けて準備を進める中、防弾機能を備えた緑色の専用列車で旅をする人物がいる。北朝鮮の金正恩（キムジョンウン）朝鮮労働党総書記だ。
+
+この古風な列車は、金氏の王朝並びに同氏が率いる孤立国家を象徴する存在となっている。また長年にわたり、金一族の世代を国内各地へ、そして時には国外旅行へと運ぶことから、様々な臆測の的にもなってきた。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237432.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/faca56cd8100b59cf1d583c5cea82e3c/t/768/502/d/unconfirmed-549112.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237434.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T10:19:00+09:00</dc:date>
+        <title>強い磁気嵐が発生、米中部や英国でもオーロラが見える可能性</title>
+        <link>https://www.cnn.co.jp/fringe/35237434.html?ref=rss</link>
+        <description>太陽で発生した強い磁気嵐の影響で、米国や英国など北半球の広い範囲でオーロラが観測できるかもしれない。
+
+磁気嵐は米国時間の１日夕刻にかけて地球に到達する見通しで、米海洋大気局（ＮＯＡＡ）宇宙天気予報センターによると、米国では北部の州だけでなく、中西部の州でもオーロラが観測できる可能性がある。
+
+磁気嵐の規模は最弱のＧ１から最強のＧ５まで５段階で評価されており、１日夜の早い時間帯の予想は中程度のＧ２...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237434.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/87f7d2bc09b84045a2d4cf7c82b4c065/t/768/511/d/large-gettyimages-2151911419.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237427.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T09:37:00+09:00</dc:date>
+        <title>ジュリアーニ氏に大統領自由勲章を授与へ　トランプ氏が発表</title>
+        <link>https://www.cnn.co.jp/usa/35237427.html?ref=rss</link>
+        <description>トランプ米大統領は１日、民間人に贈られる最高位の勲章、大統領自由勲章を元ニューヨーク市長のルディ・ジュリアーニ氏に授与すると発表した。
+
+ジュリアーニ氏はトランプ氏の元個人弁護士。今回の発表前の週末、ジュリアーニ氏はニューハンプシャー州で交通事故に遭っていた。
+
+トランプ氏は１日午後、自身のＳＮＳトゥルース・ソーシャルへの投稿で「合衆国大統領として、ニューヨーク市史上最も偉大な市長であり、偉大な愛...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237427.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/b62c873966798e8ae3518b5d8a70a5ce/t/768/512/d/usa-election-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237429.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T09:04:00+09:00</dc:date>
+        <title>小型機２機が空中衝突　１人死亡、３人負傷　米コロラド州</title>
+        <link>https://www.cnn.co.jp/usa/35237429.html?ref=rss</link>
+        <description>米コロラド州北東部で小型機２機が空中衝突する事故があり、搭乗者のうち１人が死亡、３人が負傷した。
+
+米連邦航空局（ＦＡＡ）によると、現地時間の８月３１日午前、同州のフォートモーガン市営空港に着陸しようとしていたセスナ１７２型機とエクストラ・フルークツォイクバウＥＡ３００型機が空中で衝突した。両機にはそれぞれ２人が搭乗していた。
+
+無線傍受サイトの「Ｂｒｏａｄｃａｓｔｉｆｙ」に掲載された緊急無線通信...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237429.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/aa705323d50c9d8fcf54031f7e5a7ec6/t/768/432/d/still-21912297-10781-333-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237428.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T08:38:00+09:00</dc:date>
+        <title>カミラ王妃に痴漢撃退の過去、靴のかかとで相手の股間をたたく　新書で逸話紹介</title>
+        <link>https://www.cnn.co.jp/world/35237428.html?ref=rss</link>
+        <description>英国のカミラ王妃が１０代の頃、電車内で男の不快な行為を受け、靴を脱いでかかとで相手の下腹部を打ちすえた――。そんな逸話が新刊本で明らかになった。
+
+英紙タイムズの元王室担当記者バレンタイン・ロウ氏による新著の一部が、１日付の英紙サンデー・タイムズに掲載された。
+
+同書によると、話を伝えたのは、２００８年～１６年にロンドン市長を務めたボリス・ジョンソン氏の広報責任者だったグート・ハッリ氏。ハッリ氏は、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237428.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/3370b48a36aaf975e418717ef542ef34/t/768/511/d/large-gettyimages-2203942151.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237424.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T08:19:00+09:00</dc:date>
+        <title>アフガニスタン東部の地震、死者８００人に　救助隊が被災者救出に奔走</title>
+        <link>https://www.cnn.co.jp/world/35237424.html?ref=rss</link>
+        <description>アフガニスタン東部を８月３１日に襲ったマグニチュード（Ｍ）６．０の地震の死者が少なくとも８００人に達した。タリバン政権の報道官が明らかにした。負傷者は２８００人を超えているという。既に飢餓と経済危機に直面している山岳地帯の州では大規模な救出活動が行われている。
+
+ロイター通信が地元当局の話として報じたところによると、クナール州だけでも三つの村が壊滅した。
+
+米地質調査所（ＵＳＧＳ）によれば地震は真...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237424.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/d986c0f9e6dca0beb8833827d6851e12/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWYwem5lN2gwMDAxM2I2bmVrM21jMGti-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZjA4amNibDAwZ2QyZHBjaGl3YWI0eDE_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237422.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T07:26:00+09:00</dc:date>
+        <title>ＥＵ委員長搭乗の航空機に電波妨害、ロシア関与の疑い</title>
+        <link>https://www.cnn.co.jp/world/35237422.html?ref=rss</link>
+        <description>欧州連合（ＥＵ）のフォンデアライエン欧州委員長を乗せた航空機が８月３１日、ブルガリアへの着陸を試みた際にＧＰＳ（全地球測位システム）に対する電波妨害の標的になったことが分かった。欧州委員会の報道官がＣＮＮに明らかにした。
+
+欧州委員会のポデスタ副報道官は、「ブルガリア当局からの情報では、この露骨な妨害はロシアによって行われた疑いがある」と述べた。
+
+クレムリン（ロシア大統領府）はこの疑惑を否定。ペ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237422.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/05fccc35dbd625368dfcd3987edde521/t/768/432/d/ap25244340719249-2025090109482653.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237425.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-02T07:16:00+09:00</dc:date>
+        <title>米シカゴ、政権の移民取り締まりに備え　トランプ氏は地元当局を批判</title>
+        <link>https://www.cnn.co.jp/usa/35237425.html?ref=rss</link>
+        <description>米イリノイ州シカゴ市の地元当局は、連邦政府による大規模な移民取り締まり作戦が週内にも始まる可能性があるとして警戒を強めている。週末にはジョンソン市長がトランプ政権の取り締まりに対抗するための行政命令に署名した。
+
+イリノイ州のプリツカー知事は８月３１日、州兵の派遣計画について政権と連絡を取っていないとし、こうした動きは「侵略」だと指摘した。「政権内の誰も、大統領もその下にいる人も、州政府や私に電...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237425.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/02/50ff4324719c3ddcd2f1e5d34e76c12c/t/768/511/d/large-ap25237763130347.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237410.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-01T17:38:00+09:00</dc:date>
+        <title>絶滅危惧ライオンの個体数の増加に成功したインド、今度は人間が襲われる事態に</title>
+        <link>https://www.cnn.co.jp/world/35237410.html?ref=rss</link>
+        <description>インド西部グジャラート州にある自宅近くの野原で、パルシング・アジュネラくん（５）が兄弟たちと遊んでいたところ、ライオンが「どこからともなく現れた」。悲しみに暮れる父親のヒーラ・アジュネラさんはＣＮＮにそう語った。
+
+ライオンはパルシングくんを捕まえて逃げ去った。家族は石や木の枝をライオンに向かって投げつけたが、ライオンはパルシングくんをジャングルに引きずり込んでいったという。パルシングくんの遺体...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237410.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/01/d6293a38ff8f6e9b01b72462fef93706/t/768/432/d/ap12022105745_1200x675.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237419.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-01T17:08:00+09:00</dc:date>
+        <title>「ピンポンダッシュ」の１１歳少年、背後から撃たれて死亡　米ヒューストン</title>
+        <link>https://www.cnn.co.jp/usa/35237419.html?ref=rss</link>
+        <description>米南部テキサス州ヒューストンで８月３０日夜、「ピンポンダッシュ」（他人の家の呼び鈴を鳴らして逃げる迷惑行為）をしていた１１歳の少年が撃たれて死亡した。警察が明らかにした。
+
+ＣＮＮ提携局ＫＨＯＵによると、撃たれた少年はほかの子どもたちと一緒に住宅街で玄関の呼び鈴を鳴らしては逃げていた。午後１１時前にラシーン通りの住宅から逃げ去ろうとしたところ、追いかけてきた人物に背後から撃たれた。少年は病院に搬...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237419.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/01/d63c3a2fda1d18d9a56aa27c1630c981/t/768/511/d/large-gettyimages-1324010934-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237414.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-01T15:45:00+09:00</dc:date>
+        <title>アフガニスタン東部でＭ６．０の地震、死者２５０人に　救助活動は難航</title>
+        <link>https://www.cnn.co.jp/world/35237414.html?ref=rss</link>
+        <description>アフガニスタン東部で８月３１日深夜に発生したマグニチュード（Ｍ）６．０の地震で、２００人以上が死亡、数百人が負傷した。国営バフタル通信（ＢＮＡ）が１日伝えた。
+
+震源はナンガルハル州の州都ジャララバードの北東約２７キロで、深さは約８キロと米地質調査所（ＵＳＧＳ）が明らかにした。
+
+パキスタン国境に近い山岳地帯の複数の地区で救助隊が動員されているが、死者数がさらに増える恐れがある。
+
+救助隊は遠隔地に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237414.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/01/0f18749a880ec326d27537fa4bfcb47a/t/768/511/d/large-gettyimages-2232557000.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237415.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-01T15:17:00+09:00</dc:date>
+        <title>中ロ首脳、上海協力機構首脳会議で団結　中国が米国に替わる指導的立場を強調するなか</title>
+        <link>https://www.cnn.co.jp/world/35237415.html?ref=rss</link>
+        <description>中国の習近平（シーチンピン）国家主席は１日、２日間の日程で天津で開催されている上海協力機構（ＳＣＯ）首脳会議で、自国を世界経済の安定の原動力と位置づけ、パートナー諸国への支援に数億ドルを投じると表明した。
+
+この首脳会議では、中国とロシアが世界の勢力均衡を自国に有利なものに修正しようと模索する中、中国の世界的なリーダーシップと、ロシアとの緊密で永続的なパートナーシップが強調されている。
+
+習氏は世...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237415.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/01/266c31b4a4721e4bd7c28a5c6f1cd252/t/768/567/d/gettyimages-2232412712.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237411.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-01T14:42:00+09:00</dc:date>
+        <title>北朝鮮の金総書記、訪中前に新たなミサイル工場を視察</title>
+        <link>https://www.cnn.co.jp/world/35237411.html?ref=rss</link>
+        <description>北朝鮮の金正恩（キムジョンウン）総書記は３１日、新たに稼働したミサイルの生産ラインを視察した。金氏は、ロシアのプーチン大統領ら各国首脳とともに中国・北京で９月３日に開かれる大規模な軍事パレードに出席する予定となっている。
+
+朝鮮中央通信（ＫＣＮＡ）が１日に伝えたところによると、金氏は視察により「国家のミサイル生産能力の全般的な状況」を把握した。
+
+公開された写真には、金氏が制服姿の将校らとともに、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237411.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/01/44bf4736a6f579d829b4e2dcdf8a2f55/t/768/512/d/large-ap25244095818140.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237407.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-01T13:54:00+09:00</dc:date>
+        <title>マイクシャク選手が帽子を奪われたファンと再会、改めてプレゼント贈る　テニス全米ＯＰ</title>
+        <link>https://www.cnn.co.jp/showbiz/35237407.html?ref=rss</link>
+        <description>テニスのカミル・マイクシャク選手（ポーランド）が全米オープンの試合後、ＳＮＳなどで話題となった帽子を奪われた少年と再会し、改めてプレゼントを贈った。
+
+マイクシャク選手は少年に全米オープンのロゴ入りバッグを渡し、中には新しい帽子などの贈り物が入っていた。さらに少年と一緒に写真に納まり、その様子を８月３０日のインスタグラムのストーリーズに投稿した。
+
+マイクシャク選手は「今日はウォームアップの後に素...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237407.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/01/c6c0da7f5f42cffbf1e66e4408ddbd5c/t/245/432/d/resized_image.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237404.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-01T12:44:00+09:00</dc:date>
+        <title>ローマ教皇、「武器のパンデミック」の終結を訴え　米学校銃撃事件に言及</title>
+        <link>https://www.cnn.co.jp/world/35237404.html?ref=rss</link>
+        <description>ローマ教皇レオ１４世は８月３１日、米ミネソタ州ミネアポリスのカトリック系の学校で起きた銃撃事件に言及し、銃規制を強化して「武器のパンデミック」を終わらせるよう訴えた。
+
+２７日に発生した銃撃事件では、礼拝中の子どもたちや職員が銃撃され、子ども２人が死亡、１８人が負傷した。
+
+レオ１４世は公の場でこの事件に言及。サンピエトロ広場に集まった信者らに対し、「私たちの世界をむしばむ大小の武器のパンデミック...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237404.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/01/667da4f5f985824c4b6afff9046c40f1/t/768/510/d/large-ues-rtrmadp-3-pope-leo-audience.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237403.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-01T12:11:00+09:00</dc:date>
+        <title>米政府、パレスチナ人には非移民ビザ発給せず　米国務省が在外公館に通知</title>
+        <link>https://www.cnn.co.jp/usa/35237403.html?ref=rss</link>
+        <description>米国務省は、パレスチナ自治政府のパスポート保持者に対する非移民ビザの発給を拒むよう、各国の大使館や領事館に指示した。パレスチナ自治区ヨルダン川西岸やガザ地区のほか、これらの地域以外に居住するパレスチナ人も対象となる。
+
+外交公電は８月１８日付で、マルコ・ルビオ国務長官の署名入り。パレスチナ自治政府のパスポートを使って申請された非移民ビザについては発給を拒否するよう指示する内容で、即日実行に移すと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237403.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/01/b1b3a0b575e9d6b5b290e79ea3eb25a2/t/768/512/d/03-2025-08-31t154815z-272381562-rc24nfam011v-rtrmadp-3-israel-palestinians-gaza-women.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237399.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-01T11:23:00+09:00</dc:date>
+        <title>米国で拘束されたグアテマラの子どもたち、真夜中の強制送還を裁判所が差し止め</title>
+        <link>https://www.cnn.co.jp/usa/35237399.html?ref=rss</link>
+        <description>米政府は３１日未明、付き添いなしで米国に入国して拘束されたグアテマラ人未成年者の強制送還に乗り出した。この送還は同日、コロンビア特別区連邦地裁の命令で一時的に差し止められた。
+
+未成年者側の弁護士は同日未明、急きょ対応を強いられた。強制送還の対象とされた子どもたちは真夜中に起こされたと弁護側は訴えており、グアテマラに送還されれば身の危険にさらされると主張している。
+
+トランプ政権はグアテマラ政府と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237399.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/01/76a105db20dc7da1e6e99f94b401aa52/t/768/527/d/gettyimages-1315472254.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237401.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-01T11:21:00+09:00</dc:date>
+        <title>イエメン首都の国連事務所、フーシが急襲　職員１１人を拘束</title>
+        <link>https://www.cnn.co.jp/world/35237401.html?ref=rss</link>
+        <description>イランを後ろ盾とするイエメンの反政府武装組織フーシが８月３１日、イエメンの首都サヌアにある国連事務所を急襲し、職員を拘束した。この前日、イスラエルはフーシの「首相」を殺害したと発表していた。
+
+国連世界食糧計画（ＷＦＰ）と国連児童基金（ユニセフ）は、３１日午前、それぞれの事務所に「地元の治安部隊」が押し入り、職員を拘束したと発表した。
+
+国連のイエメン担当特使ハンス・グランドバーグ氏によると、拘束...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237401.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/01/3094a3ed48c49c3b92dadde34280c050/t/768/491/d/large-trmadp-3-israel-palestinians-yemen.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237396.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-01T10:48:00+09:00</dc:date>
+        <title>あおり運転の男に銃撃され１７歳の母親死亡、乳児は帝王切開で無事　米</title>
+        <link>https://www.cnn.co.jp/usa/35237396.html?ref=rss</link>
+        <description>米ルイジアナ州ポンチャトゥラで８月２４日、妊娠７カ月だったケイトリン・ストレイトさん（１７）が運転中に逆上した男に銃撃された。乳児は緊急帝王切開で助けられたが、母親は数日後に死亡した。警察が明らかにした。
+
+タンジパホア郡保安官事務所によると、ケイトリンさんを銃撃したとされるバリー・ウェスト被告（５４）は、殺人などの罪で起訴された。
+
+ウェスト被告は２４日午前、ケイトリンさんと恋人、その姉妹が乗っ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237396.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/01/0f43c9d4bf20fefa60453cb22171bfe6/t/768/768/d/d6b78f1c-a0f6-493c-ab17-6f3e06f991cb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237398.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-01T10:35:00+09:00</dc:date>
+        <title>ジュリアーニ元ＮＹ市長が交通事故、負傷も命に別条なし</title>
+        <link>https://www.cnn.co.jp/usa/35237398.html?ref=rss</link>
+        <description>米ニューヨーク市の元市長でトランプ米大統領の元顧問弁護士でもあるルドルフ・ジュリアーニ氏が週末にニューハンプシャー州で交通事故に遭ったことがわかった。負傷したものの命に別条はなく回復に向かっている。ジュリアーニ氏の警護責任者やニューハンプシャー州警察が８月３１日、明らかにした。
+
+警護責任者のマイケル・ラグーザ氏はＳＮＳ「Ｘ」への声明で、ジュリアーニ氏の乗用車が３０日夕方、高速で後方から追突され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237398.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/01/6692e578753b70bd099895b0052032d8/t/768/511/d/large-gq-rtrmadp-3-usa-trump-giuliani.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
