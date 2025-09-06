@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-09-06T17:00:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237651.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237650.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35237642.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35237649.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237647.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237648.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237645.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237644.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35237635.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35237638.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237627.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237623.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237621.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237618.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237616.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237611.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237610.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237607.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237592.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237590.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237588.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237581.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237570.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237566.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237568.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237559.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237576.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35237554.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237560.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237548.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237651.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-06T17:00:00+09:00</dc:date>
+        <title>宇宙飛行で人間の細胞の「暗黒ゲノム」が活発化　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35237651.html?ref=rss</link>
+        <description>宇宙飛行は特定のヒト幹細胞の老いを早めることが、新たな研究で分かった。宇宙探査が人体に及ぼし得る影響について、科学者らの知見が一段と深まった形だ。
+
+幹細胞は体の至る所で見つかり、自己複製の能力と他の特定の細胞に変化する能力とを合わせ持つ。後者の場合は血液細胞や脳細胞、骨細胞となって各組織を維持、修復する。
+
+米カリフォルニア大学サンディエゴ校サンフォード幹細胞研究所所長で、論文筆頭著者のカトリオ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237651.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/06/560a5aad47b1e543aa526ac0e94c0c5c/t/768/511/d/51732391125-a6a60014c4-k.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237650.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-06T15:11:00+09:00</dc:date>
+        <title>英ケント公爵夫人死去、９２歳　「人間味」で親しまれた王族</title>
+        <link>https://www.cnn.co.jp/world/35237650.html?ref=rss</link>
+        <description>英王室は５日、英国でも特に愛された王族の一人、ケント公爵夫人が近親者に囲まれ死去したと明らかにした。９２歳だった。
+
+亡くなったのは４日。王室の声明は「深い悲しみとともにケント公爵夫人の死去を発表する」と述べ、「公爵夫人は昨夜、ケンジントン宮殿で家族に囲まれながら安らかに息を引き取った」と続けた。
+
+チャールズ国王やカミラ王妃をはじめとする王室のメンバーは今後、公爵夫人と「縁のあった団体への生涯に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237650.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/06/df8a9e3f5a21414a6f414328400d8650/t/768/512/d/gettyimages-888126960.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35237642.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-06T13:35:00+09:00</dc:date>
+        <title>激しさを増す乱気流　世界で特に乱気流の多い路線とは</title>
+        <link>https://www.cnn.co.jp/travel/35237642.html?ref=rss</link>
+        <description>今年７月、ソルトレークシティー発アムステルダム行きのデルタ航空機が激しく揺れ始めた時、一部の乗客は飛行機が墜落するのではないかと感じた。
+
+同機は、激しい乱気流に巻き込まれた結果、乗客は天井に打ち付けられ、機内サービス用のカートはキャビン内を激しく動き回った。ある乗客は当時の状況について「まるで地震のようだった」と振り返った。同機はミネアポリスへの緊急着陸を余儀なくされ、２５人が病院に搬送された...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35237642.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/dc1cb2eac519b7db6958edb513064159/t/768/432/d/1-20250806210558527.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35237649.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-06T12:36:00+09:00</dc:date>
+        <title>世界初の「１兆ドル長者」誕生も、テスラがマスク氏に巨額報酬案　会社への集中促す</title>
+        <link>https://www.cnn.co.jp/tech/35237649.html?ref=rss</link>
+        <description>米電気自動車（ＥＶ）メーカー、テスラの取締役会はイーロン・マスク最高経営責任者（ＣＥＯ）にテスラの事業への集中を促すため、新たな巨額報酬案を提示した。すでに世界一の富豪であるマスク氏は史上初の「１兆ドル長者」となる可能性もある。
+
+報酬案では、テスラが現在の企業価値を大幅に上回る水準に成長した場合、マスク氏に追加のテスラ株が付与される。時価総額を過去のどんな企業も近づいたことない水準に引き上げる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35237649.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/06/78fbd1eff4bbc89e9823b87fab23e0f5/t/768/512/d/gettyimages-2184585949-20250728110847600.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237647.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-06T11:15:00+09:00</dc:date>
+        <title>西側諸国の軍隊、ウクライナに駐留すれば「正当な標的」とプーチン氏</title>
+        <link>https://www.cnn.co.jp/world/35237647.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は５日、ウクライナに駐留する西側諸国の軍隊はどこの国であれ「正当な標的として打ち負かす」考えを示した。この前日には西側の数十カ国が、ウクライナ向けの平和維持部隊への貢献を約束していた。ロシアとウクライナの停戦合意が成立した場合、こうした部隊がウクライナに派遣される可能性がある。
+
+プーチン氏は５日、ロシア極東で開催された経済フォーラムで、「これが（この戦争の）根本原因の一つ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237647.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/06/c11d1e4061eec34f62585bdb8554533a/t/768/511/d/ap25248204729161.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237648.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-06T10:44:00+09:00</dc:date>
+        <title>米海軍シールズが１９年の北朝鮮秘密作戦に失敗、非武装の北朝鮮人死亡　米紙</title>
+        <link>https://www.cnn.co.jp/usa/35237648.html?ref=rss</link>
+        <description>米海軍特殊部隊ＳＥＡＬＳ（シールズ）が２０１９年に北朝鮮で実施した作戦で、金正恩（キムジョンウン）総書記の通信を傍受する電子装置を仕掛けようとしたものの、作戦は失敗に終わり、非武装の北朝鮮人が死亡していたことが分かった。米紙ニューヨーク・タイムズが５日に報じた。
+
+タイムズ紙によれば、この作戦はトランプ大統領の１期目に行われ、大統領の直接の承認が必要だったという。米国と北朝鮮の間では当時、核開発...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237648.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/06/f68de157913e99984e86ce65844dea1a/t/768/512/d/gettyimages-1152907322.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237645.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-06T10:12:00+09:00</dc:date>
+        <title>トランプ米大統領、国防総省を戦争省に改称する大統領令に署名</title>
+        <link>https://www.cnn.co.jp/usa/35237645.html?ref=rss</link>
+        <description>米国のトランプ大統領は５日、国防総省を「戦争省」に改称する大統領令に署名した。その上で、世界情勢を踏まえるとこの名称がより「適切」だとの認識を示した。大統領執務室で記者団に対し述べた。
+
+大統領令への署名に当たり、トランプ氏は「特に現在の世界情勢を考えると、はるかに適切な名称だと思う。我々は世界最強の軍隊を有している」と語った。
+
+ＣＮＮが入手したファクトシートによると、この大統領令は国防長官、国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237645.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/06/f4a09f026bb4956136ff3ecd0d7cfc1c/t/768/452/d/ap19304860153358.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237644.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-06T09:20:00+09:00</dc:date>
+        <title>米ジョージア州の現代自動車工場で大規模移民摘発、４７５人拘束　大半は韓国人</title>
+        <link>https://www.cnn.co.jp/usa/35237644.html?ref=rss</link>
+        <description>米連邦当局がジョージア州南東部にある韓国・現代自動車の工場「メタプラント」へ強制捜査を行い、４７５人を拘束したことが分かった。トランプ現政権が米国内の職場で行った移民摘発としては最大規模になった。
+
+強制捜査は４日、ジョージア州サバンナの西約４０キロにあるエラベルの巨大工場で行われた。米国土安全保障捜査局（ＨＳＩ）のシュランク特別捜査官によると、拘束された者の大半は韓国国籍。拘束者の国籍の内訳に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237644.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/06/bd13004a50693123b2a005a8af3d1258/t/768/432/d/g0cv4fnwuaasfwc.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35237635.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T17:20:00+09:00</dc:date>
+        <title>ファッション界の巨匠、ジョルジオ・アルマーニ氏死去　輝かしい功績を振り返る</title>
+        <link>https://www.cnn.co.jp/style/fashion/35237635.html?ref=rss</link>
+        <description>イタリアのファッションデザイナー、ジョルジオ・アルマーニ氏が死去した。９１歳だった。アルマーニ・グループが４日に発表した。
+
+アルマーニ氏は何十年にもわたる活躍を通じ、イタリア伝統の美学を服飾の中で育んだ功績で高く評価されている。米ハリウッドのレッドカーペットを華やかな舞台に変ぼうさせたのも同氏だった。
+
+アルマーニ・グループは、「従業員や関係者に尊敬され、称賛されていた『イル・シニョール・アルマ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35237635.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/779f012074fc5c12e5142f5800961431/t/768/512/d/2023-07-04t184631z-605920382-rc2iw1awodv1-rtrmadp-3-fashion-paris-hautecouture-armani.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35237638.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T17:11:00+09:00</dc:date>
+        <title>写真特集：セレブを華やかに彩ったアルマーニ氏を振り返る</title>
+        <link>https://www.cnn.co.jp/photo/35237638.html?ref=rss</link>
+        <description>イタリアのファッションデザイナー、ジョルジオ・アルマーニ氏が死去した。セレブを華やかに彩ったアルマーニ氏を振り返る&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35237638.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/87f1dc6fa7509adb787aa1a5a273682e/t/298/432/d/armani_18.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237627.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T16:20:00+09:00</dc:date>
+        <title>恐竜も食べた「超肉食動物」、巨大ワニの骨格を発掘　アルゼンチン</title>
+        <link>https://www.cnn.co.jp/fringe/35237627.html?ref=rss</link>
+        <description>数千万年前、巨大なワニに似た頂点捕食者が、パタゴニア南部の湿潤な淡水氾濫原（はんらんげん）を闊歩（かっぽ）していた。体長は最大３．５メートル、体重は約２５０キロにもなり、捕まるものは何でも食べていた。一部の恐竜もその餌食になった。
+
+南米大陸南端近くのアルゼンチンで科学者たちは最近、この「超肉食動物」の頭蓋骨（ずがいこつ）と顎（あご）を含む骨格を発見した。超肉食動物は、食べる物の７０％以上を肉が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237627.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/8c0ba79ed410f4a036998feac4daaf2c/t/768/512/d/kostensuchus-atrox-esqueleto-credit-image-jose-brusco.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237623.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T14:50:00+09:00</dc:date>
+        <title>人工甘味料で脳の老化が加速、「１．６年分の差」に相当　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35237623.html?ref=rss</link>
+        <description>人工甘味料の摂取量が多い人は、少ない人に比べて認知機能の低下が速く進み、その差は１．６年分に相当するとの研究結果が報告された。
+
+ブラジル・サンパウロ大学医学部の准教授、クラウディア・キミエ・スエモト氏らのチームがこのほど、米神経学会誌に発表した。
+
+研究チームは、同国での「ブラジル成人健康縦断研究」（ＥＬＳＡ―Ｂｒａｓｉｌ）に参加した３５～７５歳の１万３０００人について、食生活と認知機能の関係を分...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237623.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/bdac8ae817db9a9d42c55b6247c9d6ea/t/768/432/d/gettyimages-2150217240.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237621.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T13:41:00+09:00</dc:date>
+        <title>習近平氏と金正恩氏が公式会談、軍事パレードでプーチン氏との結束示した翌日</title>
+        <link>https://www.cnn.co.jp/world/35237621.html?ref=rss</link>
+        <description>中国の習近平（シーチンピン）国家主席と北朝鮮の金正恩（キムジョンウン）総書記が４日、北京で公式会談を行った。前日にはロシアのプーチン大統領と大規模な軍事パレードに出席し、西側諸国に対する前例のない結束を示していた。
+
+中国国営メディアによると、習氏と金氏は北京の人民大会堂で会談を開始した。両首脳の公式会談は６年ぶり。２０１９年に習氏が初めて北朝鮮を公式訪問した平壌での開催時以来となる。
+
+習氏、プ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237621.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/93b3bf6acf65c721fcd3eecfe51f6658/t/768/512/d/gettyimages-2232847692.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237618.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T12:15:00+09:00</dc:date>
+        <title>米司法省、トランスジェンダーの銃所持禁止を検討　憲法上の権利奪う恐れと専門家</title>
+        <link>https://www.cnn.co.jp/usa/35237618.html?ref=rss</link>
+        <description>米中西部ミネソタ州ミネアポリスの学校で児童２人が犠牲になった銃撃事件を受け、司法省高官がトランスジェンダーの人々が銃器を所持する権利を制限する案を検討している。内部の協議に詳しい当局者２人が明らかにした。
+
+予備的な協議は、ミネアポリスの銃撃事件以降に保守系メディアの一部で広まっている思想に基づいているようだ。警察によると、この事件の容疑者は２３歳のトランスジェンダー女性とされている。
+
+こうした...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237618.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/622d3362929d0280d21dc1de69122e2e/t/768/512/d/gettyimages-1422331904.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237616.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T11:25:00+09:00</dc:date>
+        <title>米国とカナダ国境での人身売買増加、米司法省が捜査員の増強を発表</title>
+        <link>https://www.cnn.co.jp/usa/35237616.html?ref=rss</link>
+        <description>米連邦政府が不法移民の取り締まりを継続する中、司法省は４日、北部における人身売買の増加に対抗するため、米国とカナダの国境への人員を増強すると発表した。
+
+ボンディ司法長官はフロリダ州タンパでの記者会見で、この増強には、司法省と国土安全保障省の合同部隊「タスクフォース・アルファ」の捜査員をニューヨーク州およびバーモント州とのカナダ国境に派遣することが含まれると述べた。
+
+「人身売買を行えば、必ず摘発...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237616.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/74a6e049181fa5c9a56ba71c5da47eef/t/768/512/d/rtrmadp-3-usa-trump-tariffs-canada.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237611.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T10:40:00+09:00</dc:date>
+        <title>マスク氏、ホワイトハウスのイベントに招待されるも出席はせず</title>
+        <link>https://www.cnn.co.jp/usa/35237611.html?ref=rss</link>
+        <description>億万長者でかつてホワイトハウスの最高顧問を務めたイーロン・マスク氏は、ホワイトハウスの改装されたローズガーデンで４日開催されるテクノロジーリーダーサミットに招待されていたものの、出席しないと発表した。
+
+「招待は受けたが、残念ながら出席できなかった。自分の代理が出席する」と、マスク氏は４日、Ｘ（旧ツイッター）で明らかにした。同氏が招待されなかった理由を尋ねるユーザーからの質問に対して返答した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237611.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/70e018967d6bc85d658266b52a4aa529/t/768/512/d/gettyimages-2217127913.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237610.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T09:55:00+09:00</dc:date>
+        <title>トランプ氏、プーチン氏と「近日中」に協議と明かす　米国による制裁期限迫るなか</title>
+        <link>https://www.cnn.co.jp/usa/35237610.html?ref=rss</link>
+        <description>トランプ米大統領は４日、記者団に対し、ロシアのプーチン大統領と近いうちに協議する予定であると明かし、ウクライナ戦争終結について「非常に良い対話を行っている」と語った。
+
+ホワイトハウス当局者によると、トランプ氏は同日、ウクライナのゼレンスキー大統領をはじめとする各国首脳と協議し、ウクライナ戦争終結に向けて欧州はロシア産原油の購入を停止し、中国に経済的圧力をかけなければならないと呼びかけた。
+
+トラ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237607.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T09:35:00+09:00</dc:date>
+        <title>国防総省を「戦争省」に　トランプ米大統領、改称の大統領令に５日署名</title>
+        <link>https://www.cnn.co.jp/usa/35237607.html?ref=rss</link>
+        <description>米ホワイトハウス高官は、ドナルド・トランプ大統領が５日に国防総省の名称を「戦争省」に変更する大統領令に署名する見通しだと明らかにした。
+
+名称の変更についてはトランプ大統領やピート・ヘグセス国防長官が数日前から口にしており、トランプ氏は８月２５日、「我々は国防総省と呼んでいるが、この名称は変更すると思う」と発言。「我々が第１次世界大戦と第２次世界大戦に勝利した時、同省は戦争省と呼ばれていた。それ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237607.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/e85ae4e3aa0ad77c6426f787cbb9ad2f/t/768/452/d/ap19304860153358.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237592.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T09:22:00+09:00</dc:date>
+        <title>米控訴裁判所、「アリゲーター・アルカトラズ」解体命令を一時差し止め</title>
+        <link>https://www.cnn.co.jp/usa/35237592.html?ref=rss</link>
+        <description>米連邦控訴裁判所は、フロリダ州と連邦政府に対し、同州エバーグレーズに建設された物議を醸す移民収容施設（通称「アリゲーター・アルカトラズ」）の閉鎖と解体を命じた判事の命令を一時的に差し止めた。
+
+第１１巡回区連邦控訴裁判所は４日、フロリダ州と米国土安全保障省が申し立てた仮差し止め命令の執行停止を認めた。これにより、６０日以内に施設の運営を終了させるよう命じた地方裁判所の仮処分命令は一時停止される。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237592.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/f59a9e29940de3cd7549b1e86e9a7bf3/t/768/512/d/rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237590.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T08:29:00+09:00</dc:date>
+        <title>ワシントンＤＣ、州兵派遣でトランプ政権を提訴</title>
+        <link>https://www.cnn.co.jp/usa/35237590.html?ref=rss</link>
+        <description>米首都ワシントン（コロンビア特別区）のシュワルブ司法長官は４日、自治体トップの同意なくワシントンに州兵を派遣したのは違法だとして、トランプ政権を提訴した。
+
+通常、軍隊が警察として活動することは連邦法で禁じられているにもかかわらず、政権に命じられて派遣された州兵はパトロールや捜索、逮捕などを行っていると主張している。
+
+また、州兵の派遣はワシントンの自治を損ない、住民と法執行機関の信頼関係にヒビを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237590.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/8ae3caab4dc910781c9a1c882dbad2b8/t/768/512/d/ap25244492977354.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237588.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-05T08:03:00+09:00</dc:date>
+        <title>トランプ氏「欧州はロシア産石油の購入停止を」　中国への経済圧力も要求</title>
+        <link>https://www.cnn.co.jp/usa/35237588.html?ref=rss</link>
+        <description>トランプ米大統領は４日、ウクライナのゼレンスキー大統領や欧州首脳と電話で協議し、欧州はロシアからの石油の購入を停止し、中国に経済圧力をかけるべきとの考えを伝えた。ホワイトハウス関係者が明らかにした。
+
+関係者によると、ウクライナ支援の有志国連合の首脳会合の場からフランスのマクロン大統領らがトランプ氏に電話をかけた。その中でトランプ氏はロシアは欧州連合（ＥＵ）への石油の販売で年１１億ユーロ（約１９...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237588.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/05/514a47fee20c7bccfa6516d01180499e/t/768/503/d/gettyimages-2227259359-20250904145623010.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237581.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-04T19:31:00+09:00</dc:date>
+        <title>麻薬密輸船の拿捕は効果なし、有効なのは「爆破」　ルビオ米国務長官</title>
+        <link>https://www.cnn.co.jp/usa/35237581.html?ref=rss</link>
+        <description>米軍がカリブ海で麻薬密輸船とされる船に対して実施した攻撃について、ルビオ国務長官は３日、トランプ政権の麻薬取引との戦いにおける重大な転換点に当たるとの認識を示し、今後一段と破壊的な措置を取る考えを示した。
+
+攻撃は２日に実施された。ルビオ氏は今回、麻薬密輸船を拿捕（だほ）する従来の方針には効果がなかったと主張。今後は代わりに、「麻薬テロ組織に戦争を仕掛けていく」との考えを明らかにした。
+
+ルビオ氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237581.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/04/3489f35ac901798f6a0ada6a7f7b5c05/t/768/512/d/gettyimages-2233573065.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237570.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-04T19:15:00+09:00</dc:date>
+        <title>暗闇でカラフルに光る多肉植物、中国の科学者が開発　太陽光で充電可能</title>
+        <link>https://www.cnn.co.jp/fringe/35237570.html?ref=rss</link>
+        <description>夜道を照らすほど明るく光る植物は、ＳＦの世界の話のように聞こえるかもしれない。しかし、緑色の光を発する植物はすでに開発されており、米国で市販されている。今回、中国の研究者グループはさらに踏み込み、初めてさまざまな色に光る発光植物を作ることに成功した。明るさもこれまでで最も強いという。
+
+研究は学術誌マターに先月２７日に掲載された。研究の共著者で、広州にある華南農業大学の研究者でもある生物学者、リ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237570.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/04/70da467149807782b5a083e41548697a/t/768/432/d/glow-in-the-dark-succulents-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237566.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-04T17:26:00+09:00</dc:date>
+        <title>ネアンデルタール人と現生人類、最古の交わりは１４万年前　頭蓋骨の高解像度スキャンで新説</title>
+        <link>https://www.cnn.co.jp/fringe/35237566.html?ref=rss</link>
+        <description>今からおよそ１４万年前、現在のイスラエルにあるカルメル山の岩場に、古代の人類が埋葬された。スフール洞窟と呼ばれるこの遺跡が発掘されたのは１９２８年。その約３年後には十数体の骨格が見つかった。
+
+しかし、埋葬されていた骨格を見て、研究者は首をひねった。骨格の特徴が現生人類のホモ・サピエンスに似ているものもあれば、ネアンデルタール人に似ているものもあり、分類は困難を極めた。
+
+スフール洞窟の埋葬地で最...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237566.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/04/59f95ce6e84fa522bfc814dfc1d4bfc8/t/768/512/d/2-the-skull-of-skhul-i-child-showing-cranial-curvature-typical-of-homo-sapiens.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237568.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-04T16:53:00+09:00</dc:date>
+        <title>エプスタイン事件が１５歳の私を変えた――被害女性に独占インタビュー</title>
+        <link>https://www.cnn.co.jp/usa/35237568.html?ref=rss</link>
+        <description>未成年者の性的人身売買で２０１９年に起訴された米富豪ジェフリー・エプスタイン元被告（同年、拘置所内で死亡）の事件で、被害を受けた多くの女性たち。その人生は、被害の前と後で真っ二つに切り離されている。
+
+アシュリー・ルブライトさんがエプスタイン元被告と出会ってからの変化は、友人たちの目には明らかだった。だが本人は１０年以上後になって当時の学校アルバムを見るまで、自覚していなかった。
+
+毎年のアルバム...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237568.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/04/6d21b8957f46abb4bd933ae29d0cf0b8/t/396/432/d/young-ashley.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237559.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-04T16:24:00+09:00</dc:date>
+        <title>米フロリダ州、ワクチン接種義務を全廃　就学時も義務付けず</title>
+        <link>https://www.cnn.co.jp/usa/35237559.html?ref=rss</link>
+        <description>米フロリダ州のジョセフ・ラダポ公衆衛生局長は３日、住民に対するワクチン接種の義務付けを、就学児の接種も含めて全廃すると発表した。就学児のワクチン接種は全米の州が義務付けており、全廃する州は初めて。
+
+ラダポ局長は、法律で定められていないワクチン接種の義務付けは直ちに全廃すると表明。記者会見に同席したロン・デサンティス知事は、残る接種義務についても廃止に向けて州議会で法制化を検討すると述べた。
+
+ラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237559.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/04/689a5280f5b7d8e8d5f81ad3bab28540/t/768/541/d/gettyimages-1242296866.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237576.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-04T15:50:00+09:00</dc:date>
+        <title>習近平氏とプーチン氏、１５０歳まで生きる可能性について会話　マイクに拾われる</title>
+        <link>https://www.cnn.co.jp/world/35237576.html?ref=rss</link>
+        <description>中国の習近平（シーチンピン）国家主席とロシアのプーチン大統領、北朝鮮の金正恩（キムジョンウン）総書記が３日、天安門広場で行われた軍事パレードを前に、１５０歳まで生きる可能性について話し合う様子が捉えられた。
+
+会話は３人が軍事パレードの観覧席に向かって並んで歩いている際に交わされたもので、生中継の映像が捉えていた。軍事パレードは表向きには抗日戦争勝利８０年を記念するものとされていたが、西側諸国の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237576.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/04/728601c94e6487b6a9516d99bd8114cf/t/768/512/d/gettyimages-2232838529.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35237554.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-04T14:22:00+09:00</dc:date>
+        <title>シャツのモデルが殺人事件の被告に酷似、ＳＨＥＩＮが商品画像を削除</title>
+        <link>https://www.cnn.co.jp/business/35237554.html?ref=rss</link>
+        <description>ファストファッションの小売りを手掛ける中国の「ＳＨＥＩＮ（シーイン）」は３日 、自社ウェブサイトで紹介する商品に、米医療保険大手トップを殺害した罪に問われている被告の加工画像とみられる写真が掲載されたことを受け、調査に乗り出していると発表した。
+
+当該のルイージ・マンジオーニ被告は、昨年１２月にニューヨーク・マンハッタンで医療保険大手ユナイテッドヘルスケアのブライアン・トンプソン最高経営責任者（Ｃ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35237554.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/04/b20457c61a437953f5ddfaebbb41308e/t/338/432/d/screenshot-2025-09-03-at-1-17-17-pm-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237560.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-04T13:33:00+09:00</dc:date>
+        <title>テイラー・スウィフト、スーパーボウルに出演？　ＮＦＬコミッショナー「もしかしたら」</title>
+        <link>https://www.cnn.co.jp/showbiz/35237560.html?ref=rss</link>
+        <description>米プロフットボールリーグ（ＮＦＬ）の新シーズンが４日に開幕するのを前に、ロジャー・グッデルＮＦＬコミッショナーはＮＢＣテレビの番組で、先日婚約した歌手テイラー・スウィフトさんがスーパーボウルのハーフタイムショーに出演する可能性を否定せず、世界中のスウィフティー（スウィフトさんのファン）を沸かせた。
+
+今シーズンのスーパーボウルは２月８日に予定されている。グッデル氏は今月３日、「テイラーにはいつだ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237560.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/04/5ddcd6d048f85c577bae406520e2a429/t/768/512/d/gettyimages-2178464297.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237548.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-04T12:46:00+09:00</dc:date>
+        <title>米ハーバード大がトランプ政権に勝訴、２０億ドルの助成金凍結は違法</title>
+        <link>https://www.cnn.co.jp/usa/35237548.html?ref=rss</link>
+        <description>米ハーバード大学が連邦政府からの助成金２０億ドル（約３０００億円）あまりの凍結をめぐってトランプ政権を訴えた裁判で、米連邦地方裁判所は３日、大学側の主張を認める判決を言い渡した。
+
+連邦地裁のアリソン・バロウズ裁判官は、助成金の凍結は大学キャンパス内の反ユダヤ主義が理由だったとする政権側の主張を退け、政権側はハーバード大を狙い撃ちにするための「煙幕」として反ユダヤ主義を利用し、「思想を動機として...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237548.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/04/2b958fe8892feff6602dad2e5888708b/t/768/512/d/gettyimages-2218040065.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
