@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-09-14T09:08:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35237971.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35237969.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35237970.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237967.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/style/35237968.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237952.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237965.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35237964.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237962.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237963.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237959.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237958.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237928.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237949.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237945.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237942.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237937.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237940.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237913.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237936.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35237934.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237932.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237916.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237908.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237906.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35237905.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35237897.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35237899.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237892.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35237885.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/tech/35237971.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-14T09:08:00+09:00</dc:date>
+        <title>米活動家チャーリー・カーク氏、射殺後にＳＮＳのフォロワー急増</title>
+        <link>https://www.cnn.co.jp/tech/35237971.html?ref=rss</link>
+        <description>保守派の米活動家チャーリー・カーク氏の妻や支持者は、１０日に起きた射殺事件によって、死後もカーク氏の声がさらに力強くなるだろうと予測していた。ＳＮＳでの統計が、そうした予想を裏付けている。
+
+カーク氏の各種アカウントは事件から３日間で数百万人規模の新規フォロワーを獲得した。ＣＮＮがまとめたデータから明らかになった。
+
+トランプ大統領や保守的な優先課題を推進するカーク氏の政治的な主張の動画も再生数が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35237971.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/14/d4be8ffdcdd4602c67d2fbc7cf328325/t/768/511/d/large-ap25253684868612.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35237969.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-13T18:36:00+09:00</dc:date>
+        <title>世界最大のクルーズ船が「四つ子」に、「アイコン・オブ・ザ・シーズ」に３隻の姉妹船</title>
+        <link>https://www.cnn.co.jp/travel/35237969.html?ref=rss</link>
+        <description>米ロイヤル・カリビアンのテリー・ワード最高経営責任者（ＣＥＯ）はＣＮＮの今年の取材に対し、世界最大のクルーズ船「アイコン・オブ・ザ・シーズ」はこれまで投入した中で最大のヒット作だと語っていた。「アイコンクラス」と銘打たれたシリーズはいま、これにひけを取らない大きさの姉妹船３隻を迎え、さらに拡大しつつある。
+
+「スター・オブ・ザ・シーズ」は今年８月、東西カリブ海を巡る航路に就航した。ロイヤル・カリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35237969.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/13/79b3a97e4662c83d99e5573c87605205/t/768/574/d/1756488214-rci-st-20250808-cc-ahendel-g-cam-aerial-pcc-0099.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35237970.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-13T18:29:00+09:00</dc:date>
+        <title>写真特集：「世界最大のクルーズ船」に３隻の姉妹船が登場</title>
+        <link>https://www.cnn.co.jp/photo/35237970.html?ref=rss</link>
+        <description>米ロイヤル・カリビアンのテリー・ワード最高経営責任者（ＣＥＯ）はＣＮＮの今年の取材に対し、世界最大のクルーズ船「アイコン・オブ・ザ・シーズ」はこれまで投入した中で最大のヒット作だと語っていた。「アイコンクラス」と銘打たれたシリーズは現在、これにひけを取らない大きさの姉妹船３隻を迎え、さらに拡大しつつある。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35237970.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/13/79b3a97e4662c83d99e5573c87605205/t/768/574/d/1756488214-rci-st-20250808-cc-ahendel-g-cam-aerial-pcc-0099.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237967.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-13T18:18:00+09:00</dc:date>
+        <title>刺殺されたウクライナ難民の女性と前科を持つ男、２人の人生はいかにして交錯したのか　米</title>
+        <link>https://www.cnn.co.jp/usa/35237967.html?ref=rss</link>
+        <description>米ノースカロライナ州シャーロット中心部から数キロ離れたスケイリーバーク駅。駅に到着した深夜の列車に乗り込んだとき、イリーナ・ザルツカさん（２３）はごく普通の乗客の一人に過ぎなかった。カーキ色のズボンに黒のＴシャツという格好で、長い金髪は勤務先のピザ店の帽子の下にしまわれていた。
+
+列車が走り続ける中、ザルツカさんは付近の乗客と同じようにうつむき、手にした携帯電話に夢中になった。ウクライナ難民のザ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237967.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/13/f66e9cb0656f34eda27e755be1fe6eaf/t/324/432/d/lucaveros225-1749496740-3651365769008617292-31536697229.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/style/35237968.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-13T17:30:00+09:00</dc:date>
+        <title>「我々は自ら幻想を作り出している」　写真家が描く人間と自然の断絶</title>
+        <link>https://www.cnn.co.jp/style/style/35237968.html?ref=rss</link>
+        <description>ロンドンを拠点に活動する写真家ゼッド・ネルソン氏は、インタビューを始めるやいなや、筆者の背後の壁に掛かった絵に気付いた。
+
+「完璧だ」とネルソン氏は言った。
+
+そのキャンバスには、ビロードのクッションに横たわって眠るトラが描かれ、パステル調の葉や花々の中に浮かんでいる。ネルソン氏の言う「完璧」とは「見事に描かれている」という意味ではなく、我々人間が自然との間で築いてきた、理想化された人間中心の関係...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/style/35237968.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/13/a9e7a2aa73d53aeb4d1abb9451628d0e/t/768/432/d/anthropocene-illusion-zed-nelson-002.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237952.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-13T16:15:00+09:00</dc:date>
+        <title>火星の岩石から「最も明確な生命の兆候」、ＮＡＳＡ発表</title>
+        <link>https://www.cnn.co.jp/fringe/35237952.html?ref=rss</link>
+        <description>火星探査車「パーサビアランス」が２０２４年に採取した岩石にみられたヒョウ柄の斑点は、古代の生命によって作られた可能性がある。米航空宇宙局（ＮＡＳＡ）は１０日、科学者たちがそう考えていると発表した。研究チームはこの新たな分析に関する査読済み論文をネイチャー誌に発表したが、さらなる研究が必要だとしている。
+
+「１年間の検討を経て、研究者らが『他に説明が見つからない』と言った」と、ＮＡＳＡのダフィー暫...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237952.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/f234939de58deb72770ac1e92e78e389/t/768/574/d/1-pia26368-perseverance-finds-a-rock-with-leopard-spots.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237965.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-13T14:47:00+09:00</dc:date>
+        <title>温室効果ガス排出業者の汚染量報告義務、トランプ政権が廃止を提案</title>
+        <link>https://www.cnn.co.jp/usa/35237965.html?ref=rss</link>
+        <description>トランプ米政権は１２日、石炭火力発電所、工業工場、石油精製施設に対し地球温暖化につながる大気汚染を連邦政府に報告することを義務付けるプログラムの廃止を提案した。
+
+温室効果ガス報告プログラムは２０１０年から実施されている。米国内の８０００以上の施設と供給業者に対し毎年、気候変動の原因となる大気汚染の報告を義務付け、そのデータを基に大気汚染の削減に向けた規制を策定する。
+
+１２日に取られた今回の措置...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237965.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/13/ec7a1dca9884894d28c864d76ab06a5e/t/768/512/d/gettyimages-2201136697.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35237964.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-13T13:53:00+09:00</dc:date>
+        <title>米国のコーヒー価格、１９９０年代以来の上昇率　トランプ氏の対ブラジル高関税も影響</title>
+        <link>https://www.cnn.co.jp/business/35237964.html?ref=rss</link>
+        <description>１１日に公表された最新の米消費者物価指数（ＣＰＩ）によると、米国では８月、コーヒーの小売価格が前年同月比で２１％近く上昇し、１９９７年１０月以来の年間上昇率になった。前月比で見ると４％の上昇で、１４年ぶりの上昇幅となっている。
+
+原因の一端は、トランプ米大統領の関税にある。米国は世界最大のコーヒー輸入国で、国内で栽培できる場所がほとんどないことから、コーヒー豆を外国に依存している。全米コーヒー協...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35237964.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/13/590cde630f6a33234df6afbbc2d71f65/t/768/512/d/gettyimages-2195713366-20250912125821906.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237962.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-13T12:43:00+09:00</dc:date>
+        <title>恐竜の卵を「原子時計」で年代測定、８６００万年前のものと判明　中国</title>
+        <link>https://www.cnn.co.jp/fringe/35237962.html?ref=rss</link>
+        <description>中国中部の青龍山化石保護区で発見された２８個の恐竜の卵は、約８６００万年前のものであることが分かった。科学者たちが「原子時計」法を用いて年代測定を行った。研究者たちは、これらの卵とその年代測定に用いられた技術が、中国の雲陽盆地に生息していた恐竜が寒冷化していく気候にどのように適応していたかを解明するのに役立つかもしれないと期待を寄せている。
+
+卵に用いられた年代測定法は、正式には炭酸ウラン鉛年代...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237962.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/13/fe618a4a46423cf455164593c1e5dbfd/t/768/511/d/3-20250910184933215.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237963.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-13T11:21:00+09:00</dc:date>
+        <title>米保守活動家射殺で拘束、ロビンソン容疑者について分かっていること　相反する人物像</title>
+        <link>https://www.cnn.co.jp/usa/35237963.html?ref=rss</link>
+        <description>米ユタ州郊外で育ったタイラー・ロビンソン容疑者は前途有望に見えた。家族との結びつきが強く、標準テストで良い成績を収め、ＳＮＳへの投稿によれば、成績評価指標のＧＰＡでは「４．０」を獲得していた。
+
+２０２１年の高校卒業後には、４年間の奨学金を提供するというユタ州立大学からの書簡を誇らしげに読み上げる動画を撮影した。
+
+しかし、ロビンソン容疑者はわずか１学期で州立大学を離れ、休学してそのまま戻ることは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237963.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/13/86b86ad79ce4861aba28b7158db77088/t/768/576/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWZneWtyaWowMDBsM2I2bnhlOHBjNmsz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZmd5aXozODAwMzEyN3A3Y2FqcGU4cDY_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237959.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-13T09:47:00+09:00</dc:date>
+        <title>ＮＡＴＯ、「東方哨戒」作戦を開始　ロシアのドローン侵入に対応</title>
+        <link>https://www.cnn.co.jp/world/35237959.html?ref=rss</link>
+        <description>北大西洋条約機構（ＮＡＴＯ）のルッテ事務総長は１２日、ロシアのドローン（無人機）が今週ポーランド領空に侵入したことを受け、欧州東部の防衛強化に向けた取り組みを開始したと発表した。
+
+ルッテ氏によればこの「東方哨戒作戦」は近日中に開始され、デンマーク、フランス、英国、ドイツなどの部隊が参加する予定だという。
+
+その上でルッテ氏は「東方哨戒作戦は、我々の態勢に柔軟性と強度を加え、防衛同盟として常に防衛...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237959.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/13/5de23891ea5d7f85c1e10259e0e16f25/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWZoMXRrOWYwMDR2MjZxZ2Z3YjQwbzZ0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZmgxdGs5ZjAwNHcyNnFnNGxuM2E5dHE_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237958.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-13T08:48:00+09:00</dc:date>
+        <title>米保守活動家射殺、事件から３３時間で容疑者拘束　調べに対し黙秘</title>
+        <link>https://www.cnn.co.jp/usa/35237958.html?ref=rss</link>
+        <description>米保守活動家のチャーリー・カーク氏が射殺された事件で、連邦捜査局（ＦＢＩ）のパテル長官は１２日、タイラー・ロビンソン容疑者がユタ州で現地時間１１日午後１０時に身柄を拘束されたと明らかにした。
+
+複数の情報筋がＣＮＮに明かしたところによると、ロビンソン容疑者は調べに対し黙秘している。
+
+パテル氏は「連邦政府が総力挙げ、ここユタ州のパートナーやコックス知事と協力したおかげで、容疑者は３６時間足らず、正...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237958.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/13/4f99118814fa180aa9bbd90d20866b64/t/768/576/d/tyler_robinson.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237928.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T17:56:00+09:00</dc:date>
+        <title>大麻栽培農場の臭気に苦情噴出、対策講じなければ閉鎖も　オランダ裁判所が命令</title>
+        <link>https://www.cnn.co.jp/world/35237928.html?ref=rss</link>
+        <description>オランダで大麻を合法的に栽培している大規模農場に対して住民から２０００件を超す苦情が寄せられたことを受け、裁判所が運営会社に対し、臭気を抑える対策を講じるか、閉鎖するかの判断を迫った。地域の環境保護庁が明らかにした。
+
+対策を命じられたのは農場を運営しているＣａｎＡｄｅｌａａｒ。臭気を抑えられなかった場合、３５０万ユーロ（約６億円）以下の罰金または閉鎖を命じられる可能性がある。
+
+問題の農場はオラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237928.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/d88d12d3ba972ab1b6d4fa6faff1be08/t/768/512/d/gettyimages-1343314848.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237949.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T16:33:00+09:00</dc:date>
+        <title>米ＤＣコミックス、新シリーズの刊行停止　保守活動家の死巡る作家の不適切投稿受け</title>
+        <link>https://www.cnn.co.jp/showbiz/35237949.html?ref=rss</link>
+        <description>ＤＣコミックスは、発売されたばかりのコミックシリーズ「レッドフード」の刊行を中止した。作者のグレッチェン・フェルカーマーティン氏がソーシャルメディアでチャーリー・カーク氏の死についてコメントしたことを受けた措置。
+
+保守派の活動家でトランプ米大統領の選挙活動にも携わったカーク氏は１０日、ユタ州の大学で行われた講演イベントで銃撃され、死亡した。
+
+他のソーシャルメディアユーザーが共有したスクリーンシ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237949.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/4e302f9d8c0ebd87d18816ddbcee379d/t/281/432/d/red-hood-cv1-main-spokes-0.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237945.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T15:29:00+09:00</dc:date>
+        <title>射殺された米保守活動家、受けてきた脅迫は「数千件」　大学でのイベントは混乱相次ぐ</title>
+        <link>https://www.cnn.co.jp/usa/35237945.html?ref=rss</link>
+        <description>米ユタ州の大学で講演中に射殺された保守活動家のチャーリー・カーク氏は近年、大学キャンパス内で保守派の若者を集める中で、数々の個人的脅迫に直面してきた。
+
+大学キャンパスツアーの訪問先では、過熱した抗議活動にでくわすことも多く、混乱や暴力に発展することもあった。そのため、一部の大学ではカーク氏の訪問に際し、厳格な警備措置がとられていた。
+
+１０日に起きたカーク氏の射殺事件をめぐっては、当局が捜査を続...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237945.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/a2651db31661a0bd78904a6d73d05530/t/768/512/d/gettyimages-2234199263.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237942.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T14:47:00+09:00</dc:date>
+        <title>米保守活動家射殺、新たな映像公開　屋根から森林地帯へ走る容疑者</title>
+        <link>https://www.cnn.co.jp/usa/35237942.html?ref=rss</link>
+        <description>著名な米保守活動家のチャーリー・カーク氏が１０日、西部ユタ州のユタバレー大学で講演中に銃撃されて死亡した事件で、同州公安局が新たな映像を公開した。映像には事件の容疑者が施設の屋根を走って横切り、最終的に銃が発見された森林地帯へと入っていく様子が映っている。
+
+映像は、容疑者が大学の屋根の左上隅に立っているところから始まり、建物の上部を移動して、右端の隅へと走っていく姿を捉えている。
+
+容疑者はその...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237942.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/be27cb45683cba87003f0bbb211f9e2a/t/768/432/d/screenshot-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237937.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T14:10:00+09:00</dc:date>
+        <title>ロシアのドローンによる領空侵犯、ポーランドのＮＡＴＯ第４条発動は何を意味するのか</title>
+        <link>https://www.cnn.co.jp/world/35237937.html?ref=rss</link>
+        <description>ポーランドは１０日、ロシアのドローン（無人機）による領空侵犯が１９回あったと報告し、北大西洋条約機構（ＮＡＴＯ）条約第４条を発動した。
+
+この件で、ＮＡＴＯの戦闘機はロシアのドローン複数機を撃墜した。これらのドローンは隣国ウクライナへの攻撃中にポーランド領空を侵犯していた。ウクライナ紛争勃発以来、ＮＡＴＯによる攻撃が行われたのは今回が初めて。ポーランド内務省は１０日遅く、国内各地で合計１６機の無...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237937.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/60b9abf4a675d73ae9609e44ec063820/t/768/512/d/ukraine-crisis-attack-poland.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237940.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T13:10:00+09:00</dc:date>
+        <title>ＮＡＳＡ　中国人研究者の活動禁止、月めぐる競争激化　「米国が最初だ」</title>
+        <link>https://www.cnn.co.jp/usa/35237940.html?ref=rss</link>
+        <description>米航空宇宙局（ＮＡＳＡ）は、米国ビザを持つ中国籍の研究者の施設立ち入りやコンピューターなどの利用を禁止していることを明らかにした。宇宙進出をめぐる米中の競争を大幅にエスカレートさせた形だ。中国が有人宇宙船の月面着陸を目指し、月居住の可能性を探る中、トランプ政権は一層警戒感を強めている。
+
+報復を恐れて匿名で取材に応じた２人のＮＡＳＡ職員によると、新しいポリシーは９月５日に導入され、ＮＡＳＡ全体で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237940.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/d55547bedf4d8c96362301a99e1f7617/t/768/512/d/gettyimages-2218040276.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237913.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T12:30:00+09:00</dc:date>
+        <title>でこぼこ肌の新種のクサウオ、深海で発見</title>
+        <link>https://www.cnn.co.jp/fringe/35237913.html?ref=rss</link>
+        <description>体の表面のでこぼこが特徴的なクサウオの一種が、米カリフォルニア州沖の深海で新たに見つかった。 
+
+初めて水中カメラで撮影されたのは２０１９年。深さ３０００メートル超の深海を泳いでいるのを確認したが、発見が学術誌で公表されたのは今年の８月だった。 
+
+新種の際立った特徴としては淡いピンクの体色、丸い頭に大きな目、でこぼこのある体表が挙げられる。 
+
+モンテレーベイ水族館研究所が行ったこの時の探査では、これ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237913.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/11/c2d7d6f530228fcde0590f9c91cbfa05/t/768/432/d/snailfish-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237936.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T11:58:00+09:00</dc:date>
+        <title>ロシアのドローンによるポーランド領空侵犯は「ミスだった可能性」　トランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35237936.html?ref=rss</link>
+        <description>ロシアのドローン（無人機）が１０日に北大西洋条約機構（ＮＡＴＯ）加盟国であるポーランド領空に侵入したことをめぐり、トランプ米大統領は１１日、偶発的なものであった可能性を示唆した。
+
+トランプ氏は記者団に対し、「ミスだった可能性もある」とし、「いずれにせよこの状況に関するあらゆる出来事に不満だ。うまく収まるといいのだが」と語った。
+
+ポーランド領空に侵入したロシアのドローンに対し、ＮＡＴＯは戦闘機を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237936.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/acc51782084c71dc7bb49ede0698d512/t/768/512/d/gettyimages-2234914774.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35237934.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T11:17:00+09:00</dc:date>
+        <title>米保守活動家カーク氏射殺、瞬間の映像が直後から拡散　ＳＮＳ投稿監視めぐる論議再燃</title>
+        <link>https://www.cnn.co.jp/tech/35237934.html?ref=rss</link>
+        <description>米保守活動家チャーリー・カーク氏が１０日にユタ州の大学で演説中に射殺された事件で、銃弾がカーク氏に命中する瞬間をとらえた映像が、ネット上で瞬く間に拡散した。
+
+８月２２日にノースカロライナ州の列車の車内で女性が男に刃物で刺されて死亡した事件では、犯行の瞬間をとらえた映像が後に一般に公開された。
+
+ユーザーが見たいと思うか思わないかに関係なく、ＳＮＳはこうした残忍な映像であふれ返った。投稿監視を縮小...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35237934.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/02a305a2bb19ac5915b1105dd2601319/t/768/512/d/ap25253709545402.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237932.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T10:21:00+09:00</dc:date>
+        <title>英駐米大使、解任　エプスタイン氏との親交理由に</title>
+        <link>https://www.cnn.co.jp/world/35237932.html?ref=rss</link>
+        <description>英国のピーター・マンデルソン駐米大使が１１日、解任された。性犯罪で起訴され勾留中に死亡したジェフリー・エプスタイン元被告との関係が問題視された。
+
+２００３年にエプスタイン氏の５０歳の誕生日を記念して作成された「バースデーブック」を米議会が８日に公開したことを受け、マンデルソン氏に対してはエプスタイン氏との関係をめぐり圧力が高まっていた。この手紙集には、エプスタイン氏を「親友」と表現したマンデル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237932.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/8576834133b70d5642da7cacb8c55fb1/t/768/432/d/ap25058262652872.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237916.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T09:15:00+09:00</dc:date>
+        <title>米保守活動家射殺、ＦＢＩが重要参考人の画像公開　情報提供に報奨金も</title>
+        <link>https://www.cnn.co.jp/usa/35237916.html?ref=rss</link>
+        <description>米連邦捜査局（ＦＢＩ）は、著名な保守系政治活動家チャーリー・カーク氏の射殺事件に関連して、重要参考人の身元特定に向け、一般の人々からの協力を呼びかけている。
+
+ＦＢＩソルトレークシティー支局は１１日、Ｘ（旧ツイッター）で重要参考人の画像を公開した。
+
+ＦＢＩはまた、事件に関わった人物の身元特定と逮捕につながる情報に対し、最高１０万ドル（約１４７０万円）の報奨金の支払いを申し出ている。
+
+音声鑑識の専...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237916.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/3c934aebade6605bcf7f59d473493158/t/768/432/d/20250911-interest.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237908.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T07:19:00+09:00</dc:date>
+        <title>９・１１同時多発テロから２４年、米国で追悼式典</title>
+        <link>https://www.cnn.co.jp/usa/35237908.html?ref=rss</link>
+        <description>約３０００人が犠牲になった２００１年の米同時多発テロから２４年を迎えた１１日、米国で追悼式典が開かれた。国防総省での式典に出席したトランプ大統領は犠牲者を称（たた）え、「米国がテロに屈することはない」などと演説した。
+
+バージニア州アーリントンにある国防総省では、ハイジャックされた航空機が建物に激突し、１８４人が亡くなった。トランプ氏は同省の中庭で開かれた式典にメラニア夫人や政権幹部らと共に出席...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237908.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/6a7d83879a1bf5a1e100dc43ccc5017a/t/768/511/d/02-gettyimages-2234158595.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237906.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T06:21:00+09:00</dc:date>
+        <title>ブラジル前大統領、クーデターで有罪確定へ</title>
+        <link>https://www.cnn.co.jp/world/35237906.html?ref=rss</link>
+        <description>南米ブラジルのボルソナーロ前大統領（７０）が権力維持を目的にクーデターを企てた罪などに問われた裁判で、有罪が確定する見通しとなった。ブラジル最高裁の判事５人のうち、有罪を支持する判事が３人となったことが１１日明らかになった。
+
+ボルソナーロ氏はクーデターを企てた罪のほか、武装犯罪組織に参加した罪や国家機関に対する暴力行為の罪など計五つの罪に問われている。
+
+検察はクーデターではルラ大統領やボルソナ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237906.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/12/1fbc5b6afb8b3c611766586064b940c4/t/768/512/d/gettyimages-2218818287.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35237905.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-12T05:00:00+09:00</dc:date>
+        <title>北極の再凍結や海中カーテン、氷床保護のハイテク計画はいずれも実現困難か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35237905.html?ref=rss</link>
+        <description>地球温暖化が進む中、巨大な海中「カーテン」や北極の氷の再凍結といった、地球の氷床を救うための野心的な計画が注目を集めている。だが、これらはいずれも実現性に乏しく、深刻な被害をもたらす可能性があることが、９日に発表された新研究で明らかになった。
+
+極地氷床の融解は気候変動の代名詞となっている。巨大な氷床は、壊滅的な海面上昇を引き起こすのに十分な水が蓄えられており、気温上昇に伴い深刻な変化に直面して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35237905.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/11/6c3aa2190cba40f62f6204551bac16c8/t/768/575/d/gettyimages-2162494994.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35237897.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-11T19:00:00+09:00</dc:date>
+        <title>１億ドル余ってる？　ロシア富豪から差し押さえた「メガヨット」、米司法省が売りに</title>
+        <link>https://www.cnn.co.jp/usa/35237897.html?ref=rss</link>
+        <description>周囲の風景と一体化した「インフィニティープール」に８部屋の特等室、サウナ、ヘリパッドを完備した全長約１０６メートルのメガヨットが売りに――。米政府がロシア人富豪から差し押さえた豪華ヨットが競売に掛けられる。
+
+ヨット「アマデア」は３年前、米司法省の特別チームがフィジー沿岸で実施した作戦で差し押さえられた。この作戦はウクライナ侵攻を受けロシアのプーチン大統領へ圧力をかける目的で、米国の制裁リストに載...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35237897.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/11/ab450a27f8615c24b5ee620df6e9a9e6/t/768/432/d/68824f78e31f9c9867b39414-1-profile-running-6-p-2000.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35237899.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-11T18:25:00+09:00</dc:date>
+        <title>ヴォーグ編集長退任のアナ・ウィンター氏、「プラダを着た悪魔」に対する本音を語る</title>
+        <link>https://www.cnn.co.jp/showbiz/35237899.html?ref=rss</link>
+        <description>ファッション誌「ヴォーグ」で自身の後任となる編集長を指名した今、アナ・ウィンター氏は少し緊張が解けたようだ。
+
+少なくとも、２００６年のヒット映画「プラダを着た悪魔」については、以前よりも積極的に語ってくれるようになった。
+
+映画はアン・ハサウェイ演じる記者志望の女性が、一流ファッション誌での仕事をつかんだものの、厳しい編集者が上司だったという物語だ。
+
+メリル・ストリープ演じるミランダ・プリースト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35237899.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/11/896585a70497c86bf394137775f0cb6a/t/768/432/d/20250910-prada.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237892.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-11T15:45:00+09:00</dc:date>
+        <title>肥満の子ども、世界的に低体重を上回る　ユニセフ報告</title>
+        <link>https://www.cnn.co.jp/world/35237892.html?ref=rss</link>
+        <description>国連児童基金（ユニセフ）はこのほど発表した最新報告書で、肥満の子どもが世界的に低体重の子どもを上回っていることを明らかにした。
+
+研究チームが世界１９０カ国あまりのデータを調べた結果、アフリカのサハラ砂漠以南と南アジアを除く世界の全地域で、子どもの肥満が低体重を上回っていることが分かった。
+
+ユニセフは子どもの過体重を「年齢、性別、身長に照らして健康的な体重よりも著しく重い状態」と定義。過体重が重...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237892.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/11/ffa1ef10894244f540a28e2d536c4527/t/768/510/d/gettyimages-2149487366.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35237885.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-11T14:34:00+09:00</dc:date>
+        <title>トランプ氏、ＮＡＴＯ同盟国領空へのロシアのドローン侵入に反応　「さあ、やるぞ」</title>
+        <link>https://www.cnn.co.jp/world/35237885.html?ref=rss</link>
+        <description>ロシアのドローン（無人機）がポーランドへ侵入したことをめぐり、トランプ米大統領は１０日、ややとまどいを見せながら反応した。北大西洋条約機構（ＮＡＴＯ）加盟国であるポーランドは、ロシアとの緊張が高まる中、トランプ氏が以前から守ることを約束してきた国だ。
+
+トランプ氏は自身のＳＮＳで「ロシアがドローンでポーランドの領空を侵犯するとはどういうことだ？」と問い掛け、「さあ、やるぞ」とつづった。
+
+今回の事...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35237885.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/11/6a2767c62b0584404dd79ca1776d8f77/t/768/512/d/gettyimages-2234205650.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
