@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-09-26T18:47:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238495.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35238497.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238472.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35238487.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35238479.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238476.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238469.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238415.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238461.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238460.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238456.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238454.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238432.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35238424.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238431.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238430.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238423.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238425.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35238418.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35238419.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238422.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238404.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238411.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238405.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35238406.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238402.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238395.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35238397.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238396.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238391.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238495.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T18:47:00+09:00</dc:date>
+        <title>中国出土の頭蓋骨、人類進化の時系列塗り替える可能性　科学者らが指摘 </title>
+        <link>https://www.cnn.co.jp/fringe/35238495.html?ref=rss</link>
+        <description>数十年前に中国中部の川の土手から出土した損傷の激しい頭蓋骨（ずがいこつ）が、人類進化の系統樹を揺るがしている。新たな分析で明らかになった。 
+
+押しつぶされた状態のこの頭蓋骨は、デジタル技術を駆使した科学者によって復元された。年代は１００万年前とみられ、複数の特徴からドラゴンマン（竜人）及びデニソワ人と呼ばれる人類と同系統に属することが示唆される。デニソワ人は最近発見された先史時代の謎の人類で、そ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238495.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/902a4bc22779a1af739279cb553a4363/t/768/337/d/fossils-and-replicates-credit-mr-guanghui-zhao.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35238497.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T18:04:00+09:00</dc:date>
+        <title>レンブラントの「夜景」に描かれた犬、当時の流行本の写しか　新研究で示唆　</title>
+        <link>https://www.cnn.co.jp/style/arts/35238497.html?ref=rss</link>
+        <description>オランダの巨匠レンブラントの絵画「夜警」の片隅に描かれた犬。アムステルダムの勇ましい市民たちが街を守るため行進する中、少し場違いに見えるとすれば、それもそのはずだ。
+
+レンブラントの１６４２年の傑作絵画に関する新研究によれば、この吠える犬は、当時広く流通していた書籍の標題紙に着想を得たものだという。同書は肉体の誘惑に関する内容で、オランダの画家で詩人、出版業者でもあったアドリアーン・ファン・デ・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35238497.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/551f2aad5077a47e4e86e528d9b99b31/t/768/431/d/night_watch.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238472.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T15:52:00+09:00</dc:date>
+        <title>地球に寄り添う「準衛星」を新たに発見、小さすぎて６０年間発見されず</title>
+        <link>https://www.cnn.co.jp/fringe/35238472.html?ref=rss</link>
+        <description>６０年ほど前から地球の近くに寄り添ってきたとみられる「準衛星」が、先月新たに発見された。直径約３０センチの岩の塊と推測される。
+
+準衛星は、惑星の周りを回る衛星とは違い、惑星の近くで一緒に恒星の周りを公転する小惑星。新たに見つかった「２０２５ＰＮ７」は地球とよく似た軌道で、１年かけて太陽を周回している。
+
+準衛星とは別に、一時的に地球の周りを回る「ミニムーン」が出現することもある。昨年の約２カ月間...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238472.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/08a4927b267e375e05c7d214ec0495c9/t/768/432/d/1-asteroid-illo-width-1600.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35238487.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T15:21:00+09:00</dc:date>
+        <title>米スタバ、大規模閉店とレイオフを発表　立て直しに向け「重大措置」</title>
+        <link>https://www.cnn.co.jp/business/35238487.html?ref=rss</link>
+        <description>米スターバックスは２５日、苦戦する事業の立て直しに向けて「重大な措置」を講じる方針を示し、カフェ数百店の閉鎖や２度目となる本社の人員削減を発表した。ブライアン・ニコル最高経営責任者（ＣＥＯ）による経営再建策の一環。
+
+ニコルＣＥＯの発表によると、スターバックスは今月、全店舗数のおよそ１％に当たる数百店を閉店する。北米での店舗数は６月末時点で１万８７３４店で、これが９月末には１万８３００店になると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35238487.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/0f48a718a322cf29ef4affc015f4c9c1/t/768/511/d/gettyimages-1972990601-20250303123408116.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35238479.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T13:50:00+09:00</dc:date>
+        <title>米アマゾン、３８００億円の支払いで和解　「プライム」で消費者欺いたと米当局が提訴</title>
+        <link>https://www.cnn.co.jp/tech/35238479.html?ref=rss</link>
+        <description>米ネット通販大手アマゾンが消費者を欺いて有料会員サービス「プライム」に加入させ、簡単には解約させなかったとして米連邦取引委員会（ＦＴＣ）に訴えられた裁判で、ＦＴＣは２５日、アマゾンが２５億ドル（約３８００億円）を支払う内容の和解を発表した。
+
+ＦＴＣの発表によると、和解合意に基づきアマゾンは１０億ドルの民事制裁金を支払い、１５億ドルは「不正なやり方でプライムに加入させられて損害を被った」推定３５...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35238479.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/089d32a6b42ff17b7878dbcdcac16894/t/768/512/d/amazon_settlement.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238476.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T12:55:00+09:00</dc:date>
+        <title>イスラエル首相の搭乗機がたどった異常な飛行ルート　戦争犯罪容疑の逮捕免れる目的か</title>
+        <link>https://www.cnn.co.jp/world/35238476.html?ref=rss</link>
+        <description>イスラエルのベンヤミン・ネタニヤフ首相の搭乗する航空機が、欧州の上空を迂回（うかい）する異例のルートをたどって米国へ到着していたことが、航空機追跡サイトの記録で分かった。戦争犯罪の容疑で逮捕される事態を免れる目的で遠回りしていたと思われる。
+
+ネタニヤフ首相は国連総会演説や米国のドナルド・トランプ大統領との会談のため、２４日にイスラエルのテルアビブを出発して米国へ向かった。
+
+同首相の搭乗機は通常...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238476.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/6088a02464812a1d1dfa71070ea06960/t/768/432/d/09961197-65603195-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238469.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T12:02:00+09:00</dc:date>
+        <title>２０年前の未解決事件、遺体の身元をロシア人女性と特定　「ピンクずくめの女性」</title>
+        <link>https://www.cnn.co.jp/world/35238469.html?ref=rss</link>
+        <description>スペインの道路沿いでおよそ２０年前に遺体で発見された女性について、国際刑事警察機構（インターポール、ＩＣＰＯ）のキャンペーンの結果、身元が特定されたことが分かった。
+
+国際刑事警察機構が２５日の声明で明らかにしたところによると、ロシア人のリュドミラ・ザバダさんは２００５年７月３日、バルセロナ近郊のビラデカンスで発見された。遺体発見時はピンクのトップスにピンクのズボン、ピンクの靴という格好だった。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238469.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/c08b04053a012ccc36c654aeeb0aaf36/t/768/430/d/24c43eb5d1b7-es06-identifyme-1024-676.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238415.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T12:00:00+09:00</dc:date>
+        <title>身近な大気のスーパー汚染源、画期的ツールで追跡　非営利団体が可視化の取り組み</title>
+        <link>https://www.cnn.co.jp/fringe/35238415.html?ref=rss</link>
+        <description>新たなインタラクティブマップと画期的なデータベースにより、世界の大都市圏の人々は大気汚染への暴露量を追跡することが可能になった。地球温暖化を引き起こす当該地域での主要な汚染源も割り出せるとしている。
+
+大気汚染の煙とその発生源を示すこのツールは科学者、大学、非政府団体からなる非営利団体「クライメート・トレース」が開発した。同団体によるとこのツールは、世界中の約２５００の都市圏において、大気の主要...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238415.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/7226234e548334862a67cf386e9fb81f/t/768/462/d/gettyimages-2219884178.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238461.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T11:18:00+09:00</dc:date>
+        <title>離陸直前に操縦室の窓開くハプニング、米デルタ機が出発中止　ミネソタ州</title>
+        <link>https://www.cnn.co.jp/usa/35238461.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスの空港で、離陸しようとしていたデルタ航空機の操縦室の窓が開くハプニングがあり、同機は出発を見合わせた。
+
+デルタ航空によると、ハプニングはミネアポリス発ネバダ州ラスベガス行きのデルタ航空２２６１便（ボーイング７３７型機）で２４日に発生。乗客１５５人を乗せて滑走路を低速で移動中に、操縦士の判断で離陸を中止した。
+
+航空管制傍受サイトＬｉｖｅＡＴＣ．ｎｅｔの記録によると、操縦士...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238461.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/4802abe7c37c9720b8a094ff068f547f/t/768/512/d/ap24229655206237.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238460.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T10:36:00+09:00</dc:date>
+        <title>米司法省、ＦＢＩのコミー元長官を起訴　ロシア疑惑の捜査巡りトランプ氏と敵対</title>
+        <link>https://www.cnn.co.jp/usa/35238460.html?ref=rss</link>
+        <description>米連邦大陪審は２５日、連邦捜査局（ＦＢＩ）のジェームズ・コミー元長官を起訴した。トランプ大統領による政敵訴追の取り組みは異例のエスカレートを見せている。
+
+コミー氏は長年にわたってトランプ氏と敵対してきた人物。２０１６年大統領選でトランプ陣営がロシアと共謀したかどうかの捜査を巡り、政府高官として初めて連邦法上の罪に問われる形になった。
+
+トランプ氏は自身のＳＮＳトゥルース・ソーシャルに、「米国に正...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238460.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/eddfaaa2c643c14262cb8116b47f4bd2/t/768/512/d/james_comey_indicted.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238456.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T10:26:00+09:00</dc:date>
+        <title>刑務所内のギャング抗争で１７人死亡、犯罪組織が対立メンバーの「抹殺」指令　エクアドル</title>
+        <link>https://www.cnn.co.jp/world/35238456.html?ref=rss</link>
+        <description>南米エクアドル北部エスメラルダスの刑務所で、対立するギャング同士の衝突があり、国家警察によると少なくとも１７人が死亡した。
+
+警察によると、事件の発端は、犯罪組織のロス・ティゲロネスから、ロス・ロボスやロス・チョネロスのメンバーなど、自分たちと関係のない受刑者を抹殺せよという指令が外部から出されたことだった。
+
+警察は、エスメラルダス刑務所で治安作戦を展開していることを確認。遺体を収容する作業は続...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238456.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/d11c3d08ce6a28758c3fdb2ae98447b6/t/768/508/d/gettyimages-2236975573.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238454.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T09:55:00+09:00</dc:date>
+        <title>森林僧院でケーブルカー事故、僧侶７人死亡　スリランカ</title>
+        <link>https://www.cnn.co.jp/world/35238454.html?ref=rss</link>
+        <description>スリランカ中部にある森林僧院の敷地内で２４日、ケーブルカーの事故があり、地元警察によると僧侶少なくとも７人が死亡した。うち３人は外国籍だった。
+
+中部パンシヤガマの警察によると、事故は現地時間の２４日午後９時ごろ、山林の中に広大な敷地をもつナーウヤナ森林僧院で発生。ケーブルカーには１３人が乗車しており、死亡した７人のうち３人はインド人、ロシア人、ルーマニア人だった。
+
+現場で撮影された写真には、森...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238454.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/1f6734f854a1063fa99f3f69a09caf69/t/768/576/d/gettyimages-2236861468.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238432.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T09:26:00+09:00</dc:date>
+        <title>ハマス幹部、対イスラエル攻撃の「高い代償」を擁護　「絶好の機会」もたらした　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/world/35238432.html?ref=rss</link>
+        <description>イスラム組織ハマスの幹部がCＮＮのインタビューに答え、２０２３年１０月７日にイスラエルに対して実施した激しい攻撃を擁護した。その後パレスチナ自治区ガザ地区では数万人が死亡しているが、この攻撃はパレスチナの大義にとって「絶好の機会」をもたらしたとの見方を示した。
+
+ハマス幹部のガージ・ハマド氏は２週間前、カタールの首都ドーハにあるハマスの拠点へのイスラエルの空爆を生き延びた。ドーハで行われた今回のイ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238432.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/793e1b5c0276c8b3ffc3695ef5c395e6/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWZ6bHFrdnAwMDQ5MjZwN2J0dDE5YjNz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZnpscWt2cDAwNG8yNnA3ZDlmaWZ6OXA_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35238424.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T07:55:00+09:00</dc:date>
+        <title>米税関、世界最大の自転車メーカーに輸入禁止措置　強制労働疑惑で</title>
+        <link>https://www.cnn.co.jp/business/35238424.html?ref=rss</link>
+        <description>米国の税関当局が、世界最大の自転車メーカー、ジャイアントの製品の輸入禁止を突然発表した。当局は強制労働疑惑を理由に挙げているが、詳細な内容は明らかにしていない。ジャイアント側は輸入禁止措置を受けたことで、米国への出荷に遅延が生じる可能性があると警告した。
+
+米国税関・国境警備局（ＣＢＰ）は２４日、台湾で製造されたジャイアントの自転車、部品、アクセサリーを差し押さえるよう命令を出した。同社に対する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35238424.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/923b2076187aa81816c46c3b5092b6c4/t/768/510/d/gettyimages-1151905544.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238431.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T07:00:00+09:00</dc:date>
+        <title>米政権、政府閉鎖なら職員を大量解雇と「脅迫」</title>
+        <link>https://www.cnn.co.jp/usa/35238431.html?ref=rss</link>
+        <description>米行政管理予算局（ＯＭＢ）が各省庁に対し、連邦政府のつなぎ予算案が月末までに成立せずに政府機関が閉鎖される事態に備えて、大量解雇の計画を立てるよう指示を出したことが２６日までに明らかになった。つなぎ予算をめぐってはトランプ政権と野党・民主党が対立しており、政権は大量解雇をちらつかせて譲歩を迫っている。
+
+ＣＮＮが入手した行政管理予算局の通知にある指令は、政府閉鎖に備えた過去の対応とは大きく異なる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238431.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/fbac27d44328a7c63c020e7d2bdcd53b/t/768/512/d/gettyimages-2225449164-20250925021403130.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238430.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-26T06:26:00+09:00</dc:date>
+        <title>米国防長官、軍幹部大量召集の「謎の会合」開催へ</title>
+        <link>https://www.cnn.co.jp/usa/35238430.html?ref=rss</link>
+        <description>世界各地に散らばる数百人もの米軍の将軍や提督らに、米バージニア州で３０日に開かれるヘグセス国防長官との会合に出席するよう招集がかかっている。ただし、会合の目的は不明という。複数の当局者がＣＮＮに明らかにした。
+
+当局者らによると、会合はバージニア州クワンティコにある軍施設で開催される見通し。会合の内容や、急に会合が開かれることになった理由は招集がかかっている軍幹部らも含め誰も知らないとみられると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238430.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/26/0012fb250b70f30ed7ad87109fc522fb/t/768/512/d/2025-09-19t141013z-1042875713-rc21vgaui5vr-rtrmadp-3-usa-defense-pows.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238423.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T20:08:00+09:00</dc:date>
+        <title>野生のトラフザメの交尾の様子を初撮影、メス１匹とオス２匹の「３人組」</title>
+        <link>https://www.cnn.co.jp/fringe/35238423.html?ref=rss</link>
+        <description>絶滅危惧種のトラフザメが野生で交尾する様子が初めて観察され、科学者はオス２匹とメス１匹による「３人組」の交尾の様子を確認した。
+
+今回の動画は、豪サンシャインコースト大学の海洋生物学者ヒューゴ・ラソース氏が撮影し、動物行動学の学術誌に掲載された論文にまとめられた。
+
+ラソース氏はＣＮＮに、どの種類のサメでも交尾行動が目撃されるのはまれだと語った。これまで観察されたのはオスがメスを追いかける求愛行動...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238423.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/8ece7d52da1bf75bff8eaf5a62012efa/t/768/597/d/large-gptempdownload-5.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238425.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T18:22:00+09:00</dc:date>
+        <title>ロシアによる昼間の攻撃増加　ウクライナ人数百万人の生活が中断、日常生活にも変化</title>
+        <link>https://www.cnn.co.jp/world/35238425.html?ref=rss</link>
+        <description>ティム・フリシュチュク君（５）は、新学期の初日を地下室で過ごすことになるとは思ってもいなかった。だが、９月２日、ウクライナ首都キーウで空襲警報が鳴ると、フリシュチュク君と新しい級友たちは地下に避難せざるを得なかった。
+
+戦時下に入学すれば、そうなるのだ。
+
+ロシアは年初から無人機（ドローン）の生産を拡大して以降、空からの攻撃は規模を増し、頻度も高まっている。従来は夜間に行われることが多かったが、こ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238425.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/a1985763a108f79313e48dddec241989/t/768/432/d/p-3-ukraine-crisis-attack-kyiv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35238418.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T17:58:00+09:00</dc:date>
+        <title>タイムアウトが選ぶ「世界で最もクールな街」、ランキング１位は神保町</title>
+        <link>https://www.cnn.co.jp/travel/35238418.html?ref=rss</link>
+        <description>グローバルな情報ガイド「タイムアウト」がまとめる「世界で最もクールな街」の最新ランキングで、東京の神保町が１位に輝いた。
+
+２０２５年版のランキングで１位に輝いた神保町について、タイムアウトは「ビブリオフィル（書物好き）の天国」と呼ぶ。神保町はおよそ１３０軒の古書店が立ち並ぶ場所で、タイムアウトは「一誠堂書店」や「北沢書店」をブッキッシュな散策の一日にふわさしい出発点として紹介。また、コーヒーシ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35238418.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/6f2f3d79702bc34e87982fd14efdc05c/t/768/431/d/gettyimages-1090819226.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35238419.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T17:50:00+09:00</dc:date>
+        <title>写真特集：タイムアウトが選ぶ「世界で最もクールな街」、２５年の１位は神保町</title>
+        <link>https://www.cnn.co.jp/photo/35238419.html?ref=rss</link>
+        <description>グローバルな情報ガイド「タイムアウト」がまとめる「世界で最もクールな街」のランキングトップ１０を紹介する&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35238419.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/6f2f3d79702bc34e87982fd14efdc05c/t/768/431/d/gettyimages-1090819226.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238422.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T17:13:00+09:00</dc:date>
+        <title>トランプ氏、ホワイトハウスに歴代大統領の肖像画を展示　バイデン氏は「自動署名機」の写真</title>
+        <link>https://www.cnn.co.jp/usa/35238422.html?ref=rss</link>
+        <description>トランプ米大統領は、ホワイトハウス西棟の外にある通路に「大統領のウォーク・オブ・フェーム（名声の歩道）」を設置した。政権の広報担当補佐官の２３日のＳＮＳ投稿で明らかになった。
+
+Ｘ（旧ツイッター）への投稿には、金色の額縁に入った歴代大統領の白黒の肖像画が柱廊に並ぶ動画が添付されていた。
+
+しかし、ある大統領の写真は異彩を放っている。バイデン前大統領の肖像画には、オートペン（自動署名機）の写真が使わ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238422.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/7a748e3c0b9b1fabbce7512c700aa997/t/768/385/d/untitled-1-20250924181936675.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238404.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T16:44:00+09:00</dc:date>
+        <title>中国の最新鋭空母「福建」、電磁カタパルト使った艦載機の発進に成功　米軍以外で初</title>
+        <link>https://www.cnn.co.jp/world/35238404.html?ref=rss</link>
+        <description>中国国営メディアは、最新鋭空母「福建」が新型電磁式カタパルトを使用して３種類の航空機を発進させることに成功したと伝え、発進の映像を初めて公開した。
+
+中国中央テレビは２２日、第５世代ステルス戦闘機「Ｊ―３５」、第４．５世代戦闘機「Ｊ―１５Ｔ」、早期警戒管制機「ＫＪ―６００」の３機が、最先端の発艦システム（別名「ＥＭＡＬＳ」）を使用して福建から発進する映像を公開した。
+
+国営メディアは今回のテストについ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238404.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/91be4afb5c56dba36bf7a141f9eade53/t/768/512/d/chinaaircraftcarrier.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238411.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T14:46:00+09:00</dc:date>
+        <title>ヨルダン川西岸の検問所、イスラエルが突如閉鎖　国家承認の報復恐れる住民、移動や治療が困難に</title>
+        <link>https://www.cnn.co.jp/world/35238411.html?ref=rss</link>
+        <description>パレスチナ自治区ヨルダン川西岸地区と外の世界を結ぶ唯一の境界を、イスラエルが突如として無期限で封鎖した。パレスチナ国家を承認した西側諸国に対してイスラエルが報復を宣言する中、住民は制限が一層厳しくなることを恐れて不安を募らせている。
+
+イスラエルが占領するヨルダン川西岸の人口は３００万人強。境界の封鎖によって国外にいるパレスチナ人は身動きできなくなり、隣国ヨルダンで治療を受けている患者は限られた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238411.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/0225cb0b0e63bad097ec42b832e028a9/t/768/511/d/large-gettyimages-2236652570.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238405.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T13:17:00+09:00</dc:date>
+        <title>ウクライナ戦争に対するトランプ氏の姿勢変化はプーチン氏への圧力が狙い　ただし具体的措置は伴わず</title>
+        <link>https://www.cnn.co.jp/usa/35238405.html?ref=rss</link>
+        <description>米当局者によると、トランプ大統領が今週、ウクライナ戦争に関する姿勢を急転させたのは、ロシアのプーチン大統領に対し新たな不満を募らせる中でロシアに交渉のテーブルに着くよう圧力を強める狙いがあったためだ。
+
+ウクライナは領土を全て奪還できると公言することで、トランプ氏は両国の和平合意に向けたプロセスを加速させたいと考えだという。戦場の力学に劇的な変化が起きない限り、全領土の奪還という見方は北大西洋条...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238405.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/a6e6704cfc413ad75b63904b60e8d105/t/768/512/d/gettyimages-2236955716.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35238406.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T12:50:00+09:00</dc:date>
+        <title>人気のトーク番組が再開、通常の３倍にあたる６３０万人がテレビ視聴　米ＡＢＣ</title>
+        <link>https://www.cnn.co.jp/showbiz/35238406.html?ref=rss</link>
+        <description>米人気コメディアン、ジミー・キンメル氏の長寿トーク番組「ジミー・キンメル・ライブ！」の放送が再開され、再開後の最初のエピソードは、一部の市場で放送されなかったにもかかわらず、テレビ放送で平均６３０万人の視聴者を獲得した。これは番組の通常のテレビ視聴者の３倍超に相当する。
+
+ＡＢＣテレビは２４日、広告主が重要視する１９～４９歳の視聴者層では、番組が「１０年あまりにわたる定期放送エピソードの中で最高...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35238406.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/11683b568f1b72610efc516ea8b31462/t/768/614/d/large-gettyimages-2236595247-20250924161124751.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238402.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T12:31:00+09:00</dc:date>
+        <title>シュワルツェネッガー氏、気候変動を「詐欺」と呼ぶトランプ氏を批判　ＣＮＮインタビュー</title>
+        <link>https://www.cnn.co.jp/usa/35238402.html?ref=rss</link>
+        <description>米カリフォルニア州の元知事アーノルド・シュワルツェネッガー氏は２４日、トランプ大統領の国連総会での発言を批判した。トランプ氏は気候変動に関する科学的コンセンサスは「詐欺」であり、「世界に対して行われた最大の詐欺行為」だと主張していた。
+
+シュワルツェネッガー氏はＣＮＮの独占インタビューで、「まあ、彼がそう言ったことに驚きはない」と明かした。
+
+トランプ氏とは２０１６年の大統領選出馬以前から親しい間...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238402.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/ecb432e15f2bce2ba47f91723f80ec5d/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWZ5aHRweHIwMDB6M2I2bjBmN2I2Zm51-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZnlobzE5dTAwMHkyN252MmJ0ZjZzZ3I_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238395.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T11:32:00+09:00</dc:date>
+        <title>トランプ氏とエプスタイン元被告の像、設置の翌日に撤去　言論の自由への懸念高まる</title>
+        <link>https://www.cnn.co.jp/usa/35238395.html?ref=rss</link>
+        <description>米国立公園局は２４日未明、トランプ大統領と性犯罪で起訴され勾留中に死亡したジェフリー・エプスタイン元被告が手をつないでいる「永遠の親友」と題された像を、首都ワシントンの国立公園、ナショナルモールから撤去した。設置されてからわずか１日での撤去となった。
+
+この像を設置した「シークレット・ハンドシェイク」という団体の主催者で、報復を恐れてファーストネームのみを明かしたパトリック氏は、同団体の警備員が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238395.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/9ce8be1c4dc6563770363e877c60fcb0/t/768/512/d/gettyimages-2236981711.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35238397.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T10:54:00+09:00</dc:date>
+        <title>糞の放置に業を煮やした観光地が犬連れの観光客に課税、飼い犬にはＤＮＡ登録義務付け　イタリア</title>
+        <link>https://www.cnn.co.jp/travel/35238397.html?ref=rss</link>
+        <description>イタリア北部の観光地ボルツァーノで、犬を連れた訪問客に対する観光税が導入される。
+
+ボルツァーノは手付かずの自然が残るドロミテ山塊の玄関口。２０２６年からは、犬を連れて同地を訪れる場合、１日１．５ユーロ（約２６０円）の税金が課される。
+
+新たな課税対象は観光客にとどまらない。地元住民に対しても、飼い犬１頭につき年間１００ユーロの税金が課される。
+
+税収は道路の清掃や犬専用の公園新設の費用に充てる計画...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35238397.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/fc985d87bf7025d4e76e5f00cc4fbae3/t/768/432/d/gettyimages-1013599776.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238396.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T10:25:00+09:00</dc:date>
+        <title>アフリカのコンゴで新たなエボラ熱流行　３７例確認、１９人死亡</title>
+        <link>https://www.cnn.co.jp/world/35238396.html?ref=rss</link>
+        <description>アフリカのコンゴ民主共和国で再びエボラ出血熱が流行しているとして、米疾病対策センター（ＣＤＣ）が健康情報を出した。今回の流行では９月１８日までに３７例の症例が確認され、１９人が死亡している。
+
+ＣＤＣは８日に渡航情報も発令。コンゴへの渡航者に対し、症状のある人との接触を避け、流行発生地域滞在中および発生地域を離れた後の２１日間は、エボラの症状について自身で経過観察を行うよう促した。
+
+救急・臨床医...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238396.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/dddf4445c33c7e3171371af85b8f92e0/t/768/512/d/large-ap25255682098447.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238391.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-25T09:47:00+09:00</dc:date>
+        <title>デンマークの空港付近でまたドローン飛行、今週２度目の空港閉鎖</title>
+        <link>https://www.cnn.co.jp/world/35238391.html?ref=rss</link>
+        <description>デンマークのオールボー空港は２４日、付近を飛行するドローンが目撃されたことを受け、空港上空の空域を閉鎖していることを明らかにした。
+
+航空機追跡サイトのＦｌｉｇｈｔＲａｄａｒ２４によると、同空港に向かっていた航空機は少なくとも３機が行き先を変更。出発予定の２機と到着予定の１機が欠航となった。
+
+ロイター通信によると、警察は捜査を続けているが、ドローンの操縦者や飛行目的は分かっていない。
+
+デンマーク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238391.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/25/e15dddb166cbcdc47d2b2be7269edb0a/t/768/433/d/untitled-1-20250924230815416.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
