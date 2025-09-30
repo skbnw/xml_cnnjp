@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-09-30T19:46:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238568.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238619.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238611.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35238573.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35238599.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35238613.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35238608.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238602.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35238600.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238596.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238595.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238593.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35238591.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238589.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238583.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238549.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238567.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238563.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238558.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238546.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35238542.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238541.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238533.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238536.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238534.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238510.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238527.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238525.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238524.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238523.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35238568.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T19:46:00+09:00</dc:date>
+        <title>一晩を生き抜くことさえ運次第、犯罪多発のメキシコで暴力に立ち向かう女性タクシードライバー</title>
+        <link>https://www.cnn.co.jp/world/35238568.html?ref=rss</link>
+        <description>毎年何千人もの人々が行方不明になり、遺体の集団が次々と発見されるメキシコで、雇われ運転手が一晩を生き延びられるかどうかは時の運だ。同国ではライドシェアの車両やタクシー内での運転手と乗客双方への残忍な殺害や暴行事件が相次ぎ、全国的な注目を集めている。タブロイド紙の一面は、女性が走行中の車から飛び降りて死亡したり、運転手に路上に置き去りにされたり、乗客にレイプされたりした事件を報じている。
+
+ＣＮＮ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238568.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/29/d722ceb80f7d138da1828f3fc6a75a33/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWZ1eXMyb28wMDAzM2I2bXJtYjh4Ym01-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZmNvMWV5MjAwMnkyNm96MjBoN2R0a3o_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238619.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T18:27:00+09:00</dc:date>
+        <title>米海軍の極秘ミッションの合間に行われたタイタニック号探索、発見に至ったきっかけは</title>
+        <link>https://www.cnn.co.jp/fringe/35238619.html?ref=rss</link>
+        <description>今から４０年前の９月１日未明、世界で最も有名な難破船タイタニック号を求めて大西洋の海底を探索していた調査船クノールの管制センターで、金属製の円筒のぼやけた白黒映像が映し出された。
+
+４人で構成される監視チームの隊員たちは、その物体は沈没船のボイラーではないかと考え、チームの料理人に同調査隊の主任科学者であるボブ・バラード氏を起こしに行かせた。
+
+「料理人が用件を言い終える前に飛び起きた。そして文字...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238619.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/50041894341dc4425e95b3681061dfe9/t/768/512/d/titanic-bow-images-oringinals-ac21-086.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238611.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T17:36:00+09:00</dc:date>
+        <title>アオカケスとインカサンジャクが野生で交雑、子孫は科学的な驚異</title>
+        <link>https://www.cnn.co.jp/fringe/35238611.html?ref=rss</link>
+        <description>「アオカケス（英語名：ブルージェイ）」と「インカサンジャク（英語名：グリーンジェイ）」を交配させると何が生まれるのか――。これは冗談の出だしではなく、野生ではこれまで遭遇したことのない交雑種を記述することを目的とした新たな研究の主題だ。
+
+だが、科学者を悩ませているより大きな疑問は、なぜこの謎の鳥が存在するのかということだ。
+
+米テキサス大学オースティン校の生物学博士課程の学生、ブライアン・ストーク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238611.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/c82b1bd255a26ed1dd1ae2cbc1d1beb8/t/768/398/d/large-gettyimages-481660715-2048x2048.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35238573.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T16:41:00+09:00</dc:date>
+        <title>Ｒ・レッドフォードが残したファッションレガシー、アメリカンスタイルの象徴</title>
+        <link>https://www.cnn.co.jp/style/fashion/35238573.html?ref=rss</link>
+        <description>伝説的なハリウッド俳優から映画監督に転じたロバート・レッドフォードさんが今月１６日に亡くなった時、あとに残されたのは絶大な影響力と文化的意義を持つ映画作品だけではなかった。レッドフォードさんが残したファッションのレガシー（遺産）は、ほぼ米国のメンズウェアの原型になったと言える。
+
+風になびく柔らかな髪と、無造作ながら洗練された装いへの好みで一目に分かる存在感を放ったレッドフォードさんは１９６０年...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35238573.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/2c7d5e95e966fd49d32df6bd6a58662c/t/768/432/d/shutterstock-editorial-5884302v.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35238599.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T16:19:00+09:00</dc:date>
+        <title>写真特集：Ｒ・レッドフォードが残したファッションレガシー</title>
+        <link>https://www.cnn.co.jp/photo/35238599.html?ref=rss</link>
+        <description>今月１６日に亡くなった伝説的なハリウッド俳優、ロバート・レッドフォードさん。レッドフォードさんが残したファッションのレガシー（遺産）を見ていく&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35238599.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/08171aaa163ddec422d70e1ffe582d1e/t/288/432/d/shutterstock-editorial-13970789tq__1200_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35238613.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T15:38:00+09:00</dc:date>
+        <title>Ｘは「反ユダヤ主義が横行する」プラットフォーム　調査報告</title>
+        <link>https://www.cnn.co.jp/tech/35238613.html?ref=rss</link>
+        <description>新たな調査によると、米実業家イーロン・マスク氏が所有するＸ（旧ツイッター）は「反ユダヤ主義的な投稿者が集まるプラットフォーム」となっている。調査は１年間に行われた投稿を対象に実施され、ＣＮＮに独占的に共有された。
+
+デジタルヘイト対策センター（ＣＣＤＨ）とユダヤ人公共問題評議会（ＪＣＰＡ）が行ったこの調査では、Ｘ上で反ユダヤ主義がまん延しているだけでなく、クラウドソーシングによる「コミュニティノ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35238613.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/33f07ac896a615af2280ff5cb69e947e/t/768/512/d/gettyimages-2211281411.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35238608.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T14:38:00+09:00</dc:date>
+        <title>ニコール・キッドマンとキース・アーバンが破局、１９年の結婚生活に幕</title>
+        <link>https://www.cnn.co.jp/showbiz/35238608.html?ref=rss</link>
+        <description>オスカー女優のニコール・キッドマンさんとグラミー賞受賞のカントリー歌手キース・アーバンさんが、結婚から約２０年を経て別居したことが分かった。
+
+ＣＮＮは、キッドマンさんとアーバンさんが現在は同居していないことを確認した。
+
+２人は２００６年に結婚。サンデー・ローズさん（１７）とフェイス・マーガレットさん（１４）の２人の娘をもうけている。
+
+キッドマンさんとアーバンさんは米テネシー州ナッシュビルを拠点...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35238608.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/af78f22715d98431f9e5a11b9a195df8/t/768/524/d/large-gettyimages-2181251349.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238602.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T13:52:00+09:00</dc:date>
+        <title>心疾患の９９％超、発症前に対処可能な危険因子があることが判明　対処法は？</title>
+        <link>https://www.cnn.co.jp/fringe/35238602.html?ref=rss</link>
+        <description>心臓発作や脳卒中などの心血管疾患が発症する前には、ほぼ必ず危険を知らせるサインが現れることが分かった。米心臓病学会の学術誌に２９日に掲載された研究で明らかになった。
+
+こうしたサインは心血管疾患の危険因子としてよく知られているが、心疾患の発症を減らすために講じられる対策はまだある。
+
+この研究では、二つの集団のデータを分析した。一つは韓国の６０万件超の心血管疾患症例、もう一つは米国の１０００件の症...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238602.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/e897e35bbaf7a9e91e9746431cc6acf8/t/768/512/d/gettyimages-1034303176.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35238600.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T12:26:00+09:00</dc:date>
+        <title>ユーチューブが３６億円の支払いに同意、トランプ大統領に起こされた裁判で和解</title>
+        <link>https://www.cnn.co.jp/tech/35238600.html?ref=rss</link>
+        <description>米アルファベット傘下の動画投稿サイト、ユーチューブがドナルド・トランプ大統領のアカウントを停止した措置をめぐってトランプ氏に訴えられていた裁判で、ユーチューブ側がトランプ氏側に２４５０万ドル（約３６億円）を支払う和解案に同意した。
+
+トランプ氏は２０２１年１月６日の米連邦議会襲撃事件をめぐってアカウントを停止され、ユーチューブとメタ、ツイッター（現在のＸ）のＳＮＳ大手３社を提訴していた。残る２社...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35238600.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/62a3ec793adcba6005244aba7c62e3e6/t/768/576/d/large-gettyimages-2235294593.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238596.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T11:26:00+09:00</dc:date>
+        <title>アフガン全土でネット遮断、国外との通信途絶　タリバンが「道徳的措置」強制</title>
+        <link>https://www.cnn.co.jp/world/35238596.html?ref=rss</link>
+        <description>アフガニスタンのイスラム主義勢力タリバン政権が「道徳的措置」の一環として全土でインターネットを遮断する措置を講じ、４３００万人あまりの国民が世界とのコミュニケーションを断絶された状態に陥った。
+
+インターネット監視団体のネットブロックスは２９日のＸ（旧ツイッター）への投稿で、同日午前にかけて複数のネットワークがつながらなくなったと伝えた。影響は電話サービスにも及び、「インターネットの完全停止」状...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238596.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/367a1293ca1c7ca5d53ade8659314101/t/768/512/d/gettyimages-2237754077.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238595.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T10:52:00+09:00</dc:date>
+        <title>大統領乗せた車列に襲撃、燃料価格めぐる抗議デモ　南米エクアドル</title>
+        <link>https://www.cnn.co.jp/world/35238595.html?ref=rss</link>
+        <description>南米エクアドルで２８日、燃料価格をめぐる抗議活動のなか、ノボア大統領を乗せた援助物資を運ぶ車列が襲撃を受けた。政府が明らかにした。車列には外国の外交官も同行していた。
+
+抗議デモは、政府が公共支出の削減や燃料密輸の防止、社会福祉事業への資金充当を目的としたディーゼル燃料への補助金の廃止を発表したことを受けて始まった。抗議活動は１週間以上にわたって続いており、週末には死者も出た。
+
+車列が襲撃を受け...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238595.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/ea40f942df197f934015e5226083a636/t/768/432/d/large-still-21987269-16586-666-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238593.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T10:02:00+09:00</dc:date>
+        <title>女性３人の殺害、麻薬組織がライブ配信　アルゼンチン国民に衝撃</title>
+        <link>https://www.cnn.co.jp/world/35238593.html?ref=rss</link>
+        <description>南米アルゼンチンで、若い女性３人が拷問されて殺害され、その様子がＳＮＳでライブ配信される事件が起きた。事件は国民に衝撃を与え、全土で抗議デモが巻き起こっている。
+
+被害者の女性は２０歳の２人と１５歳の１人。首都ブエノスアイレス近郊に埋められていた遺体が２４日に発見された。
+
+調べによると、３人はその５日前、麻薬組織との争いに関連して殺害された。ブエノスアイレス州治安当局によると、拷問と殺害の様子は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238593.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/a27c3063faafc91fbb9945dbe02d68ed/t/768/511/d/large-gettyimages-2237065080.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35238591.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T09:35:00+09:00</dc:date>
+        <title>外国で制作の映画に１００％の関税、トランプ米大統領が改めて発表</title>
+        <link>https://www.cnn.co.jp/business/35238591.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領は２９日、「米国外で制作された全ての映画」に対して１００％の関税を課すと自身のＳＮＳ「トゥルース・ソーシャル」に書き込んだ。いつ、どのような形で発動するのかは明らかにしなかった。
+
+もしもトランプ大統領がこの脅しの実行に踏み切った場合、物品ではなくサービスに対する関税措置としては初めてとなる。
+
+トランプ大統領は今年５月、他国が税制上の優遇措置を利用して米国外で映画を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35238591.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/950d7b655672a6cc208e8a01400e3175/t/768/511/d/large-ap25271785938841.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238589.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T08:54:00+09:00</dc:date>
+        <title>アメリカン航空機が離陸を中止、貨物機が滑走路横切る　米ロサンゼルス空港</title>
+        <link>https://www.cnn.co.jp/usa/35238589.html?ref=rss</link>
+        <description>米アメリカン航空の旅客機が２８日、ロサンゼルス国際空港で、離陸直前に急停止する出来事があった。貨物機が滑走路を横切り、進路に割り込んだためだ。
+
+ルフトハンザ・カーゴとＤＨＬの合弁会社アエロロジックの６１９便は中国・上海から午後１０時３３分ごろロサンゼルス国際空港に着陸した。
+
+アメリカン航空２４５３便（ボーイング７７７）はボストンに向けて離陸の準備を進めており、駐機場所に移動するため、２本の滑走...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238589.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/82dc883e1d8e4e7a20728873c3df5c56/t/768/511/d/large-gettyimages-1233851475.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238583.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-30T07:29:00+09:00</dc:date>
+        <title>トランプ氏、ガザの停戦案を提示　「和平に近づいている」</title>
+        <link>https://www.cnn.co.jp/world/35238583.html?ref=rss</link>
+        <description>米国のトランプ大統領は２９日、ホワイトハウスでのイスラエルのネタニヤフ首相との会談後、パレスチナ自治区ガザ地区で続く戦争を終結させるための停戦案を公表した。ガザで戦闘が始まってからほぼ２年で数万人が犠牲となる中、トランプ氏は「和平に非常に近づいている」と語った。
+
+トランプ氏は、イスラム組織ハマスが今回の停戦案に同意しなければ、イスラエルの軍事行動の継続を支持すると警告した。
+
+当局者によれば、カ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238583.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/30/cb01641b44a50f74e3195d682eb31563/t/768/511/d/large-v-rtrmadp-3-usa-trump-israel.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238549.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-29T18:30:00+09:00</dc:date>
+        <title>日本の名作ゲーム「鉄拳」、パキスタンの若者たちの人生変えるきっかけに</title>
+        <link>https://www.cnn.co.jp/world/35238549.html?ref=rss</link>
+        <description>パキスタンのにぎやかな都市ラホール。薄汚れていながらも有名なゲームセンター「マニアックス」では発電機がパチパチと音を立て、照明がちらつく。ゲームを競技化した「ｅスポーツ」の世界で同国が築く、あり得ないほどの独占的地位を支えているのがこのマニアックスだ。
+
+日本の名作格闘ゲーム「鉄拳」の世界トップ１０プレーヤーのうち３人はパキスタン出身だ。サウジアラビアが支援するチームに所属し、国際大会で（バーチ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238549.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/29/d1ff39a7065c627fd98b6e248ef9d95f/t/768/576/d/img-5323.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238567.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-29T18:17:00+09:00</dc:date>
+        <title>旅客機の車輪格納庫から密航者の遺体、警察が捜査　米ノースカロライナ州</title>
+        <link>https://www.cnn.co.jp/usa/35238567.html?ref=rss</link>
+        <description>米ノースカロライナ州シャーロットの空港で２８日、米航空大手アメリカン航空の旅客機の車輪格納庫から密航者の遺体が発見された。地元警察が捜査している。
+
+警察によると、機体は欧州からシャーロットに到着したばかりで、遺体が見つかった当時は整備中だった。身元や出身地は不明で、現場で死亡が確認された。
+
+アメリカン航空はＣＮＮ提携局ＷＳＯＣに当局に協力していると述べた。シャーロット・ダグラス国際空港も「悲劇...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238567.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/29/d308dc855a17cedd1171e76f7200554a/t/768/472/d/large-gettyimages-2237483546.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238563.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-29T17:27:00+09:00</dc:date>
+        <title>デンマーク、無人機の飛行を禁止に　ＥＵ首脳会議の開催控え</title>
+        <link>https://www.cnn.co.jp/world/35238563.html?ref=rss</link>
+        <description>欧州連合（ＥＵ）首脳会議の開催を控えるなか、デンマークは国内空港や軍事施設の周辺で相次いだ不審な無人機（ドローン）の出没を受けて、民間のドローンの飛行を一時的に禁止した。
+
+禁止措置は２９日から１０月３日まで。「敵対的」なドローンと合法的なドローンとを取り違える危険を排除するのが狙いだと、ダニエルソン運輸相はＣＮＮに語った。
+
+デンマークでは先週、複数の空港や軍基地で正体不明のドローンが目撃された...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238563.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/29/05d0158714ab392fd9518731bcf85f8d/t/768/511/d/large-sipausa-64253840.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238558.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-29T16:02:00+09:00</dc:date>
+        <title>古代エジプトの水没した港を発見、クレオパトラの失われた墓と関係か</title>
+        <link>https://www.cnn.co.jp/fringe/35238558.html?ref=rss</link>
+        <description>エジプト沖の海底で沈んだ港の遺構が見つかったことは、クレオパトラの失われた墓の行方をめぐる長年の謎に新たな手掛かりを与えるとともに、古代の海洋活動を垣間見る機会となりそうだ。
+
+水中考古学のチームは、ナショナルジオグラフィック誌の探検家のキャスリーン・マルティネス氏やボブ・バラード氏とともに、地中海で、高さ６メートルを超える列柱状の構造物を確認した。さらに磨かれた石の床やセメントで固められたブロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238558.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/29/c9ec5af4e6dd2a5529bd22784a9a1127/t/768/432/d/001-cleopatrasfinalsecret-uhd-53.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238546.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-29T12:51:00+09:00</dc:date>
+        <title>外交からサッカーまで、国際舞台で孤立深めるイスラエル　ガザめぐり各国が非難</title>
+        <link>https://www.cnn.co.jp/world/35238546.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で人道危機が続く中、攻撃を続けるイスラエルが国際舞台で孤立を深めている。影響は外交から経済、文化、スポーツイベントまで幅広い分野に及ぶ。
+
+イスラエルに対する国際的な非難の声は、イスラエルがガザ市に対する地上攻撃を発表し、イスラム組織ハマス指導部を狙ってカタールで攻撃を実施して以来、急激に高まった。
+
+国連の独立調査委員会は先ごろ、イスラエルがガザのパレスチナ人に対するジェ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238546.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/29/721cbfa8e33e52c217bd7a90ea898bec/t/768/511/d/large-madp-3-israel-palestinians-usa-rubio.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35238542.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-29T11:39:00+09:00</dc:date>
+        <title>トランプ氏、米投資家ジョージ・ソロス氏の捜査を示唆　暴力的な抗議活動支援したとして</title>
+        <link>https://www.cnn.co.jp/business/35238542.html?ref=rss</link>
+        <description>トランプ米大統領は記者団に対し、億万長者の米投資家ジョージ・ソロス氏（９５）について捜査の「有力候補」だと考えていると述べた。この数日前にはボンディ司法長官に対し、連邦捜査局（ＦＢＩ）の元長官ジェームズ・コミー氏らの刑事訴追の検討を指示していた。
+
+ソロス氏は、左派寄りの献金を行ってきたことで長年右派から批判を浴びてきた。「黒幕で、極左の相場あやつり師」と評されてきた同氏はかつて皮肉を込めて自ら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35238542.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/29/f7f0e5a14203317461ec83e2e9a62dd1/t/768/512/d/gettyimages-1195517874.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238541.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-29T11:22:00+09:00</dc:date>
+        <title>トランプ氏、陰謀論「メドベッド」の映像を共有　その後削除</title>
+        <link>https://www.cnn.co.jp/usa/35238541.html?ref=rss</link>
+        <description>トランプ米大統領は２７日、自身が「万能の治療ベッド」を宣伝するように見える人工知能（ＡＩ）で作成された映像をＳＮＳで共有した。インターネットの陰謀論の片隅で生まれた「メドベッド」に関する映像はその後削除された。
+
+映像は、トランプ氏の義理の娘ララ・トランプ氏が司会を務めるＦＯＸニュースの番組を装った内容で、ＡＩで生成されたトランプ氏が新しい医療技術へのアクセスを約束するものだった。こうした番組が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238541.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/29/aaf9f374d8d661c255fc56284ef690c3/t/768/511/d/large-rmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238533.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-29T10:09:00+09:00</dc:date>
+        <title>ロシア　ウクライナに最大規模の攻撃、５９５機のドローンと４８発のミサイル　４人死亡</title>
+        <link>https://www.cnn.co.jp/world/35238533.html?ref=rss</link>
+        <description>ロシアが２８日未明、ウクライナ全土の標的に向けて６００あまりのドローン（無人機）とミサイルを発射した。この攻撃は、ウクライナ戦争で最大規模のものとなった。
+
+ウクライナのゼレンスキー大統領によると、夜間の攻撃により首都キーウで少なくとも４人が死亡した。地元当局によると、キーウおよびその周辺地域で４２人が負傷し、南部のザポリージャでは３１人が負傷した。２８日午前も首都上空では無人機の撃墜が続いてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238533.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/29/23c88384ada5000bd6b0da98327a06c5/t/768/524/d/ukraine.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238536.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-29T10:06:00+09:00</dc:date>
+        <title>元海兵隊員の容疑者を逮捕、ボートからの発砲で３人死亡　米ノースカロライナ州</title>
+        <link>https://www.cnn.co.jp/usa/35238536.html?ref=rss</link>
+        <description>米ノースカロライナ州でウォーターフロントのバーがボートから銃撃されて３人が死亡し、８人が負傷した事件で、警察は２８日、４０歳の元海兵隊員の男を逮捕したと発表した。
+
+事件は同州サウスポートで現地時間の２７日に発生。バーの屋外デッキでくつろいでいた客らが銃撃された。負傷した８人のうち少なくとも１人は重体になっている。
+
+殺人や殺人未遂などの容疑で逮捕されたのは、過去にイラク戦争に従軍した経験をもつ元...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238536.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/29/9599ed5a32c4c54602df12a54effac27/t/768/432/d/001-still-21984137-793270-584-stil.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238534.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-29T09:47:00+09:00</dc:date>
+        <title>銃乱射で１２人死傷、容疑者は射殺　米ミシガン州の教会</title>
+        <link>https://www.cnn.co.jp/usa/35238534.html?ref=rss</link>
+        <description>米ミシガン州グランドブランクの教会で２８日、礼拝の最中に車で正面玄関に突っ込んだ男が銃を乱射した後、教会に放火した。警察によると、この事件で少なくとも４人が死亡、８人が負傷。全焼した建物の内部にまだ犠牲者がいる可能性もあると見ている。
+
+容疑者の男は警察との銃撃戦で死亡した。その後の調べで男は近くに住むトーマス・ジェイコブ・サンフォード容疑者（４０）と判明した。
+
+サンフォード容疑者はイラク戦争に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238534.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/29/0b21e90a576f36ea089224fda434ac9a/t/768/432/d/grand-blanc-church-shooting-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238510.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-28T17:00:00+09:00</dc:date>
+        <title>世界初の民間宇宙ステーション、来年の打ち上げに向け製造進む　米バスト・スペース</title>
+        <link>https://www.cnn.co.jp/fringe/35238510.html?ref=rss</link>
+        <description>国際宇宙ステーション（ＩＳＳ）の後継機建設を目指す米宇宙企業バスト・スペースが、世界初となる民間宇宙ステーション「ヘイブン１」の製造を進めている。打ち上げは来年５月に予定されている。
+
+ＩＳＳの運用期間は当初１５年間の予定だったが延長された。これまで２５年近くの間に２６カ国から約３００人の滞在を受け入れ、国際共同プロジェクトの模範例とされてきたが、いよいよ寿命が迫っている。
+
+米航空宇宙局（ＮＡＳ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238510.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/27/73d61e39ac5b68b103531c029b81e2ce/t/768/396/d/large-001-vast-haven-1-dragon-hero.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238527.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-28T16:31:00+09:00</dc:date>
+        <title>ポーランドが戦闘機を緊急発進　ロシアはウクライナに大規模攻撃</title>
+        <link>https://www.cnn.co.jp/world/35238527.html?ref=rss</link>
+        <description>ポーランド軍は２８日未明、隣国ウクライナがロシアのミサイルや無人機による大規模な攻撃を受ける中、自国領空に戦闘機を緊急発進させた。
+
+ウクライナ当局によると、首都キーウでは夜間の攻撃で少なくとも３人が死亡し、２８日朝も無人機が撃墜され続けている。
+
+国境を接するポーランドでは、ロシアの無人機が領空に侵入したことを受けて警戒を強めており、今回も軍用機が発進した。ポーランド軍作戦司令部はＳＮＳ「Ｘ」で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238527.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/28/b661c4dd92d54722f11a7a823b96abdf/t/768/524/d/large-dp-3-ukraine-crisis-attack-zaporizhzhia.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238525.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-28T15:41:00+09:00</dc:date>
+        <title>俳優から転身した政治家の集会で雑踏事故、３９人死亡　インド南部</title>
+        <link>https://www.cnn.co.jp/world/35238525.html?ref=rss</link>
+        <description>インド南部タミルナド州で開催された政治集会で２７日、雑踏事故が発生し、少なくとも３９人が死亡したほか、５０人以上が負傷した。
+
+政治集会は人気俳優から政治家に転身したビジャイ氏の政党が開催した。集会には数万人が集まり、ビジャイ氏が演説を行った。地元メディアの映像には、選挙用のトラックを取り囲む群衆が押し合う様子が映っていた。
+
+ビジャイ氏はトラックの屋根から演説していたが、倒れる支持者に水のボトル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238525.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/28/497dfa8a74bd7eea213e71ef1ca56f4c/t/768/432/d/imagothree036744.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238524.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-28T14:51:00+09:00</dc:date>
+        <title>ボートからの発砲で３人死亡、８人負傷　米ノースカロライナ州</title>
+        <link>https://www.cnn.co.jp/usa/35238524.html?ref=rss</link>
+        <description>米ノースカロライナ州の海岸沿いにあるバーで２７日夜、ボートから群衆に向けて発砲があり、３人が死亡したほか、８人が負傷した。地元当局が明らかにした。
+
+発砲の現場は同州サウスポートの「アメリカン・フィッシュ・カンパニー」で、市の広報担当によると、当局は「参考人」１人から事情を聴いているという。
+
+負傷者の詳しい容体は分かっていない。
+
+米国では最近、これまでは安全とみなされてきたバーやレストラン、ショ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238524.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/28/a0147358ba889c94ef5502488824cac8/t/768/432/d/still-21984137-793270-584-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238523.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-09-28T14:18:00+09:00</dc:date>
+        <title>国連の対イラン制裁、１０年ぶりに復活　イランは反発</title>
+        <link>https://www.cnn.co.jp/world/35238523.html?ref=rss</link>
+        <description>イランによる核開発問題をめぐり、国連による対イラン制裁が２８日に復活した。核合意以前の制裁が復活する「スナップバック（制裁復活）」と呼ばれる合意の規定に基づくもので、中東情勢が緊迫する中、欧州各国が復活を主導した。
+
+今回のスナップバックでは、イランの物議を醸す核開発計画を制限・監視するための核合意の一環として停止されていた国連制裁が１０年ぶりに再び発動されることを意味する。
+
+フランス、ドイツ、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238523.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/28/dd95802a23a62c0463d5d7a0cedf22ed/t/768/511/d/large-madp-3-un-assembly.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
