@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-10-03T08:30:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238743.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238742.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238739.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238738.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238661.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238734.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238732.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238731.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238724.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35238717.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238722.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238713.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35238716.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35238710.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238711.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238701.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238702.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238699.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238675.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238673.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238660.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238671.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238669.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238659.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35238663.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238662.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35238654.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238652.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238655.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238651.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238743.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-03T08:30:00+09:00</dc:date>
+        <title>米、政府職員数千人の解雇を検討か　予算失効受け</title>
+        <link>https://www.cnn.co.jp/usa/35238743.html?ref=rss</link>
+        <description>米ホワイトハウスのレビット報道官は２日、予算失効で連邦政府機関の一部閉鎖が続く中、解雇される政府職員数が数千人にのぼる可能性が高いと明らかにした。行政管理予算局（ＯＭＢ）と政権が現在検討を進めているという。
+
+連邦政府の予算は９月３０日深夜に失効した。下院を通過したつなぎ予算案が上院で否決されたことを受けて、政府機関の一部閉鎖と一部の連邦職員の一時帰休がすでに始まっている。
+
+トランプ’大統領は２日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238743.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/03/838453899255efa0d7387722a9f2376c/t/768/511/d/ap25275537820833.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238742.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-03T08:05:00+09:00</dc:date>
+        <title>シナゴーグの殺傷事件は「テロ」、射殺の容疑者は「爆発物のようなもの」着用　英警察</title>
+        <link>https://www.cnn.co.jp/world/35238742.html?ref=rss</link>
+        <description>英イングランド北部マンチェスターのシナゴーグ（ユダヤ教の礼拝所）で発生した殺傷事件について、警察は２日、「テロ事件」と断定した。また、事件に関与した疑いで２人を逮捕したと発表した。
+
+２日はユダヤ教で最も神聖とされる祭日「ヨム・キプール（贖罪＜しょくざい＞の日）」で、現場のシナゴーグでは事件発生時には礼拝が行われていた。容疑者は車でシナゴーグ近くにいた群衆に突っ込み、その後、刃物で刺した。ユダヤ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238742.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/03/932acdba1f4f680c689383ad689e8628/t/768/513/d/ap25275453015857.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238739.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+        <title>海上自衛隊のイージス艦「ちょうかい」にトマホーク搭載へ、米国に派遣　射程１６００キロ</title>
+        <link>https://www.cnn.co.jp/world/35238739.html?ref=rss</link>
+        <description>海上自衛隊のイージス艦「ちょうかい」がトマホーク巡航ミサイルを搭載するため、米国へ向かっている。中国や北朝鮮のような競合国が戦力を増強する中、米国やアジアの同盟国は火力強化を進めており、その最新の動きとなる。
+
+米国への派遣期間は１年間。期間中、トマホーク発射を可能にする改修や乗員の訓練を受ける見通しだ。トマホークは軌道を修正可能な巡航ミサイルで、射程はおよそ１６００キロに上る。
+
+これにより、中...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238739.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/3f558cec473c0ebe80324d69e0b036ac/t/768/512/d/g1-3m8-asaadoqv__1200_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238738.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T19:13:00+09:00</dc:date>
+        <title>マンチェスターのシナゴーグで刺傷事件、容疑者射殺　英警察</title>
+        <link>https://www.cnn.co.jp/world/35238738.html?ref=rss</link>
+        <description>英イングランド北部マンチェスターのシナゴーグ（ユダヤ教の礼拝所）で刺傷事件が発生し、地元警察によると、少なくとも２人が死亡した。
+
+警察によると、通報を受け、マンチェスター北郊クランプソールのシナゴーグに出動した。容疑者は火器を携帯した警官によって射殺された。
+
+警察によると、午前９時３１分、一般市民から通報が寄せられ、クランプソールのミドルトンロードにあるシナゴーグに警官隊が出動した。通報主は一...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238738.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/445f2d5aac34d7c7f394639d5431c351/t/768/512/d/ap25275352169938__1200_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238661.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T18:33:00+09:00</dc:date>
+        <title>ＮＧＯの報告で露呈する、児童婚の隠れた現実＜上＞　人生が激変した３人の少女　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/world/35238661.html?ref=rss</link>
+        <description>１７歳のレハナさんは、子どもの時から家族を助けることを夢見ていた。一人っ子で、両親はバングラデシュでの家計のやりくりに苦心。「兄弟もなく、将来誰が両親の面倒を見るのだろうといつも考えていた」と、レハナさんは話す。自らその責任を担うつもりだったレハナさんだったが、１４歳の時、その強い思いに待ったがかかる。地域の有力な家族から、結婚の申し出を受けたのだ。
+
+「結婚の仕方も分からなかった。私は勉強が好...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238661.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/01/7e82850ad013d4b82d24d7ca234dc3b8/t/768/432/d/cnn-opener-final-new-1920x1080.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238734.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T17:40:00+09:00</dc:date>
+        <title>旅客機２機が接触、翼が操縦席の窓に激突　米ニューヨーク空港</title>
+        <link>https://www.cnn.co.jp/usa/35238734.html?ref=rss</link>
+        <description>米ニューヨークのラガーディア空港で１日夜、米デルタ航空の地方路線用の旅客機２機が誘導路上で接触し、片方の翼がもう一方の機体の操縦席の窓を直撃した。
+
+デルタ航空の発表によると、衝突したのはいずれも地域航空会社エンデバー・エアが運航するＣＲＪ―９００型機で、低速で接触した。
+
+ノースカロライナ州シャーロットから到着した５０４７便の機首に、バージニア州ロアノークへの出発の準備をしていた５１５５便の翼が衝...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238734.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/8e958645c3c3a93776f0ceebdd2c7425/t/768/576/d/large-delta-lga-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238732.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T17:03:00+09:00</dc:date>
+        <title>著名ジャーナリストのハンター・トンプソンさんの死、米コロラド州が再調査へ　２０年以上の時を経て</title>
+        <link>https://www.cnn.co.jp/usa/35238732.html?ref=rss</link>
+        <description>米コロラド州捜査局（ＣＢＩ）は２日までに、２０年以上前に自殺との判断が下された著名ジャーナリスト兼活動家、ハンター・トンプソンさんの死について、再調査を行う方針を明らかにした。
+
+トンプソンさんは２００５年２月２０日、コロラド州アスペン郊外のウッディクリークにある自宅で死亡した。死因については「頭部を自ら銃で撃った疑い」が指摘されていた。享年６７。
+
+ＣＢＩによると、今回の再調査は地元ピトキン郡の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238732.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/cb4bf592e7c76308f71a1f417da9d810/t/768/499/d/sipausa-11-28354724-31556551.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238731.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T16:49:00+09:00</dc:date>
+        <title>葬儀場で見つかった２４人の遺体、一部は１０年以上も放置　米コロラド州</title>
+        <link>https://www.cnn.co.jp/usa/35238731.html?ref=rss</link>
+        <description>米コロラド州プエブロの「デービス葬儀場」で見つかった遺体の一部が１０年以上も放置されていたことが分かり、身元確認のためにＤＮＡ鑑定が必要になっている。州捜査局（ＣＢＩ）が１日、８月から始まった捜査の進捗（しんちょく）を明らかにした。
+
+ＣＢＩによると、これまでに収容された２４人の遺体のうち６人はすでに身元が判明し、遺族に通知された。
+
+ＣＢＩ幹部のクリント・トマソン氏は、これまでに見つかった遺体は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238731.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/757ccc47a98540675b95c9ec37dd993f/t/768/426/d/large-KCNCdecomposingbodiesfuneralhome100125.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238724.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T16:21:00+09:00</dc:date>
+        <title>インドネシアの学校倒壊、５人救出も残る生徒は望み薄か</title>
+        <link>https://www.cnn.co.jp/world/35238724.html?ref=rss</link>
+        <description>インドネシアの東ジャワ州で２日、イスラム寄宿学校の倒壊現場での捜索・救助活動に当たる作業員らが、がれきの下から１０代の少年５人を救出した。共に引き出された別の少年２人は死亡が確認された。捜索作業が４日目に入る中、インドネシア当局は救助活動から復旧作業への移行という苦渋の決断を迫られている。
+
+救出された５人のうち、１３歳の少年１人は中程度の負傷で病院に搬送された。少年の母親は病院でＣＮＮ提携局Ｃ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238724.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/64812beaa3f43f23a67e05b7ef1aa4ab/t/768/432/d/2025-09-30t034517z-434928063-rc202ha4pjm5-rtrmadp-3-indonesia-disaster.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35238717.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T15:30:00+09:00</dc:date>
+        <title>「国家非常事態」　トランプ氏が介入する芸術、だが多くの美術館は沈黙</title>
+        <link>https://www.cnn.co.jp/style/arts/35238717.html?ref=rss</link>
+        <description>米国有数の現代画家エイミー・シェラルド氏が７月にスミソニアン国立肖像画美術館での大型展を中止した時、美術界には衝撃が走った。
+
+シェラルド氏は、自由の女神像を黒人のトランスジェンダー女性として描いた絵画の展示方法をめぐり、キュレーター側と対立したことを受けて中止を決めた。同氏は検閲を理由に挙げ、後日の論評でも、連邦予算の補助を受けて博物館群を運営するスミソニアン協会（本部・首都ワシントン）が検閲...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35238717.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/1867d0ecbab0bcf657eb2833f8e0e284/t/768/432/d/202509028-museums-under-trump-final.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238722.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T13:35:00+09:00</dc:date>
+        <title>保護活動家ジェーン・グドール氏死去、９１歳　野生のチンパンジー観察で霊長類研究に革新</title>
+        <link>https://www.cnn.co.jp/world/35238722.html?ref=rss</link>
+        <description>野生のチンパンジー研究に生涯をささげ、動物の行動や感情への理解を深める功績を残した英研究者で自然保護活動家のジェーン・グドール氏が死去した。９１歳だった。同氏の団体が１日に明らかにした。
+
+グドール氏のフィールドワークは女性としての障壁を打ち破り、動物に対する科学研究の在り方を一変させただけでなく、チンパンジーの感情や個性を記録して人と動物の境界をあいまいにした。
+
+同団体によると、グドール氏は講...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238722.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/9b77f1e3336a589c9b23ea7fb75eed72/t/768/512/d/gettyimages-970466754-20251001190716145__1200_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238713.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T13:02:00+09:00</dc:date>
+        <title>遺体で発見の駐仏南ア大使、生前は複数の汚職疑惑に直面</title>
+        <link>https://www.cnn.co.jp/world/35238713.html?ref=rss</link>
+        <description>フランス検察は、南アフリカの駐仏大使ヌコシナティ・エマニュエル・ムテトワ氏の死をめぐる手がかりを解明しようとしている。
+
+当局の初期調査の結果によると、ムテトワ氏は９月２９日、パリの高層ホテルから転落したとみられる。その数時間前、同氏は妻に自殺を計画しているという「不穏なメッセージ」を送っていたという。
+
+５８歳のムテトワ氏は２０２３年１２月に南アの駐仏大使に就任。それ以前には警察相やスポーツ・芸...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238713.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/2af09b1a9ddcfb4b88fb3d7dcd82ab95/t/768/510/d/gettyimages-896034760.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35238716.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T12:36:00+09:00</dc:date>
+        <title>「ＡＩ女優」がタレント会社と契約との報道、ハリウッド関係者から激しい反発</title>
+        <link>https://www.cnn.co.jp/tech/35238716.html?ref=rss</link>
+        <description>人工知能（ＡＩ）が生成した「女優」が人間の俳優から激しい反発を受けている。キャラクターの制作者は、人間に取って代わるものではないと主張しているが、ハリウッドの多くの人々はその言葉を信じていない。
+
+これは映画業界で続くテクノロジーをめぐる論争の最新の事例に過ぎない。多くのクリエーターはテクノロジーによって自分の作品が盗まれ、最終的には取って代わられるかもしれないと懸念を示す。
+
+「ティリー・ノーウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35238716.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/74c4eaf0358f7b8f54f3e165fc953859/t/768/432/d/ai-generated-image-tilly-norwood.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35238710.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T12:09:00+09:00</dc:date>
+        <title>米俳優タイリース・ギブソンさんが大型犬を放し飼い、襲われた小型犬死ぬ　「全責任認める」</title>
+        <link>https://www.cnn.co.jp/showbiz/35238710.html?ref=rss</link>
+        <description>米俳優タイリース・ギブソンさんの大型犬が近所の犬に襲いかかって殺したとされる事案をめぐり、ギブソンさんが沈黙を破ってＳＮＳに掲載した談話で責任を認めた。
+
+ギブソンさんは映画「ワイルド・スピード」シリーズ出演で知られる俳優。インスタグラムの公式アカウントに掲載した弁護士の談話を通じ、愛犬を失った家族に哀悼の意を表した
+
+談話ではギブソンさんについて「事件発生時はこの町を離れていたが、自分の犬たちに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35238710.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/048edd51cfb62f4c5e6ef614877ca610/t/768/503/d/2024-08-28t031112z-1661414218-rc2qo9a5tzcj-rtrmadp-3-film-1992-premiere__1200_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238711.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T11:47:00+09:00</dc:date>
+        <title>ＥＵ首脳が検討するロシア無人機への対応、「ドローンの壁」とは何か</title>
+        <link>https://www.cnn.co.jp/world/35238711.html?ref=rss</link>
+        <description>数週間にわたって繰り返される欧州での領空侵犯を受けて、欧州連合（ＥＵ）の首脳はデンマーク首都コペンハーゲンでの会合で、「ドローンの壁」などを含む防衛措置について協議を行うとみられている。
+
+情報筋によれば、欧州委員会はＥＵと共同で「防衛準備ロードマップ」の策定に取り組んでいる。このロードマップにはドローンの壁を含む四つの防衛計画が含まれるという。
+
+ドローンの壁とは、物理的な壁ではなく、ＥＵ加盟国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238711.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/2f05b7c1c649f8b330790fce661591fc/t/768/511/d/large-gettyimages-2237760732.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238701.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T11:30:00+09:00</dc:date>
+        <title>イスラエル軍、ガザへ向かう支援船を拿捕・臨検　グレタさんら活動家が乗船</title>
+        <link>https://www.cnn.co.jp/world/35238701.html?ref=rss</link>
+        <description>イスラエル軍は現地時間１日夜、パレスチナ自治区ガザ地区に向かう複数の船を拿捕（だほ）して臨検を行った。船団の主催者が明らかにした。主催者は「ひるまずに活動を継続する」としている。
+
+グローバル・スムード船団（ＧＳＦ）は声明で、「アルマやシリウス、アダラをはじめとする複数の船舶が、公海上でイスラエル占領軍によって違法に拿捕され、臨検を受けた」と明らかにした。
+
+ＧＳＦは地中海各地の港から出航する船を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238701.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/80a89caf11d301974f378c4f05e89ba9/t/768/496/d/rc263hamnsv0-rtrmadp-3-israel-palestinians-sumud-flotilla__1200_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238702.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T11:05:00+09:00</dc:date>
+        <title>インドネシアの学校倒壊、懸命の捜索続く　９１人安否不明、閉じ込められた６人の救助に全力</title>
+        <link>https://www.cnn.co.jp/world/35238702.html?ref=rss</link>
+        <description>インドネシアの東ジャワ州でイスラム寄宿学校の建物が倒壊して生徒らががれきの下敷きになり、９月２９日の発生から２日たった今も懸命の捜索救助活動が続けられている。
+
+当局はコンクリートのがれきの隙間に取り残された子ども６人を発見し、食べ物や水、酸素を供給している。１０月１日には捜索隊が６人と連絡を取り、救出のためトンネル状の通路を作る作業を続けている。
+
+国家災害対策当局は、９月３０日夜の時点で少なく...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238702.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/63909627fd5684d0746e5424d92e8a4c/t/768/432/d/gettyimages-2238045736.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238699.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T10:30:00+09:00</dc:date>
+        <title>ＮＹ高層住宅で爆発、ビルの一画が崩落　死傷者なし、不安募らせる住民</title>
+        <link>https://www.cnn.co.jp/usa/35238699.html?ref=rss</link>
+        <description>米ニューヨーク市ブロンクス区で１日、２０階建ての集合住宅のビルで爆発があり、建物の一画が屋上から地上まで崩れ落ちた。死傷者は出なかったものの、住民は不安や憤りを募らせている。
+
+爆発の原因についてはまだ捜査中だが、当局はガス漏れの可能性について調べている。
+
+ニューヨーク市のエリック・アダムス市長によると、死傷者は報告されていない。一部の住民は万が一のために避難している。
+
+ニューヨーク市消防局長は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238699.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/b3c24ae66be494b90c2e1cfe37df770b/t/768/432/d/still-21992465-2026-6670000000001-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238675.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T10:00:00+09:00</dc:date>
+        <title>【分析】ウクライナ情勢めぐるトランプ氏の１８０度の方針転換、ロシア領の奥深くにまで影響か</title>
+        <link>https://www.cnn.co.jp/usa/35238675.html?ref=rss</link>
+        <description>あまりにも劇的な変化のため、メッセージが混乱していても許容範囲だろう。
+
+米国のＪ・Ｄ・バンス副大統領は、ドナルド・トランプ大統領が、ウクライナに対して巡航ミサイル「トマホーク」を供与することを検討していると明らかにした。
+
+バンス氏は９月２８日、ＦＯＸニュースの番組で、「我々は今まさにこの瞬間にもこの問題について話し合っている」と述べ、「最終的な決定」はトランプ氏が下すだろうと言い添えた。
+
+トラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238675.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/01/7f838041330d2cf9418cf9be61f81e4c/t/768/511/d/large-gettyimages-2194917848.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238673.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T09:40:00+09:00</dc:date>
+        <title>ロシアのウクライナ侵攻、９月は減速　５月以来最小の占領面積と戦況監視団体</title>
+        <link>https://www.cnn.co.jp/world/35238673.html?ref=rss</link>
+        <description>ロシアのウクライナ侵攻のペースは９月にほぼ半減し、その占領領土は５月以来最小の面積となったことが分かった。ウクライナの戦況監視団体ディープステートが明らかにした。
+
+戦争の最前線を地図化しているディープステートは１０月１日に発表した報告書の中で、「ロシア軍は９月に２５９平方キロメートルを占領した」と述べている。
+
+その上で「先月、敵が占領した領土は８月と比べて４４%減少した」と指摘。「この１カ月でロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238673.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/5a3cc8b6e152b229ed56b1756140586e/t/768/512/d/gettyimages-2236983346.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238660.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T09:05:00+09:00</dc:date>
+        <title>「太ったクマ選手権」、今年の優勝はチャンク　あごのけがにも負けず</title>
+        <link>https://www.cnn.co.jp/fringe/35238660.html?ref=rss</link>
+        <description>米アラスカ州のカトマイ国立公園で毎年行われている一番太ったクマを選ぶイベント「ファット・ベア・ウィーク」で、ことしは３２番のクマ「チャンク」が優勝した。
+
+この大会はインターネット上の人気投票で争われるもので、丸々と太ったクマ１２頭がライバル同士として顔をそろえ、世界中のファンが好みのクマに投票する。
+
+公園のライブカメラを通じ、投票者はクマが冬眠前に最後のチャンスとばかりに体重を増やすためサケを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238660.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/01/2bdae8d96afff7771347ede47d073757/t/768/576/d/large-54805414414-ef292e1f1f-k.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238671.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T08:18:00+09:00</dc:date>
+        <title>イスラエル標的の武器調達か、ハマスメンバーとみられる３人逮捕　ドイツ検察</title>
+        <link>https://www.cnn.co.jp/world/35238671.html?ref=rss</link>
+        <description>ドイツ検察は１０月１日、「イスラエルまたはユダヤ教の機関を標的とする暗殺」のための武器を調達していた疑いで、イスラム組織ハマスのメンバーとみられる３人を逮捕したと発表した。
+
+容疑者３人は外国のテロ組織のメンバーで、国を危険にさらす暴力行為を準備した容疑がもたれている。
+
+容疑者らは首都ベルリンで逮捕され、２日に出廷する予定となっている。３人のうち２人はドイツ人、残る１人はレバノン生まれ。警察は容...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238671.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/e56e35419d6545c2c6b2891df306c713/t/768/512/d/gettyimages-2226346982.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238669.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-02T07:41:00+09:00</dc:date>
+        <title>米つなぎ予算、上院で再度否決　政府職員の一時帰休始まる</title>
+        <link>https://www.cnn.co.jp/usa/35238669.html?ref=rss</link>
+        <description>米上院は１０月１日、下院で可決した共和党のつなぎ予算案と、医療費の政府補助の延長を盛り込んだ民主党のつなぎ予算案の採決を前日に続いて行ったが、いずれも否決された。次回の採決は３日に行われる見込み。
+
+連邦政府の予算が３０日深夜に失効したことを受けて、連邦政府機関の一部閉鎖と一部の連邦職員の一時帰休がすでに始まっている。
+
+行政管理予算局（ＯＭＢ）のボート局長は１日、下院共和党の議員らに政府職員の永...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238669.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/02/1d11efb8b0aac3277a6cf3d6932b3fac/t/768/432/d/still-21954025-4104629-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238659.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-01T19:35:00+09:00</dc:date>
+        <title>白い羽を血で染めたオオフルマカモメや皆既日食を背に飛ぶグンカンドリ、鳥写真コンテスト受賞作を紹介</title>
+        <link>https://www.cnn.co.jp/fringe/35238659.html?ref=rss</link>
+        <description>２０２５年のバードフォトグラファー・オブ・ザ・イヤーでは、白い羽が血で赤く染まったオオフルマカモメ、小魚の群れを捕食する水鳥、そして見渡す限りに続く太陽光パネルにとまる一羽の鳥を捉えた作品などが受賞した。
+
+１０年目を迎えるこのコンテストは、鳥の美しさをたたえるとともに、鳥類の保護活動を支援し、鳥が直面する脅威への意識を高めることを目的としている。今年は２万５０００点を超える応募があり、賞金４０...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238659.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/01/fe1f81c4f4311b083a44d651f20d7a5c/t/768/431/d/bird_01.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35238663.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-01T19:33:00+09:00</dc:date>
+        <title>写真特集：鳥写真コンテスト、今年の受賞作を見る</title>
+        <link>https://www.cnn.co.jp/photo/35238663.html?ref=rss</link>
+        <description>２０２５年のバードフォトグラファー・オブ・ザ・イヤーを受賞した数々の写真を紹介する&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35238663.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/01/58ff16c8d2f68b0260a5806f425a4aa6/t/768/512/d/bird_03.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238662.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-01T15:34:00+09:00</dc:date>
+        <title>米政府機関閉鎖、２０１９年以来　つなぎ予算成立せず</title>
+        <link>https://www.cnn.co.jp/usa/35238662.html?ref=rss</link>
+        <description>米連邦政府は、議会が膠着（こうちゃく）状態に陥り、つなぎ予算案を可決できなかったため、正式に閉鎖された。連邦政府機関の閉鎖は２０１９年以来となる。
+
+共和党と民主党が「医療保険制度改革法（ＡＣＡ、通称オバマケア）」の補助金拡充をめぐって数週間にわたり対立し、合意に至らなかったことが原因だ。両党の指導部は、与野党いずれも責任を押しつけ合い、「閉鎖の責任は自分たちにはない」と主張している。
+
+共和党は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238662.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/01/d95e99f3629b55e86331a436379f2b05/t/768/511/d/large--rtrmadp-3-usa-shutdown.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35238654.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-01T14:41:00+09:00</dc:date>
+        <title>ミシェル・ファイファー、祖母になったことを発表　「天国のよう」と喜び語る</title>
+        <link>https://www.cnn.co.jp/showbiz/35238654.html?ref=rss</link>
+        <description>米ハリウッド女優のミシェル・ファイファー（６７）が、自身が祖母になったことを明らかにし、そのことが仕事への向き合い方に影響を与えていると語った。
+
+ファイファーはポッドキャストの番組「Ｓｍａｒｔｌｅｓｓ」に出演し、司会を務めるジェイソン・ベイトマンやショーン・ヘイズ、ウィル・アーネットに対し、孫ができたことは「天国のよう」と語った。ファイファーには養女のクラウディア・ローズさんと、息子のジョン・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35238654.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/01/5d34e78ce8e4de71a5c99030189b54b3/t/768/511/d/large-gettyimages-2149964605.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238652.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-01T13:50:00+09:00</dc:date>
+        <title>ミャンマー拠点に特殊詐欺、中国の犯罪組織「明家」メンバー１１人に死刑判決</title>
+        <link>https://www.cnn.co.jp/world/35238652.html?ref=rss</link>
+        <description>中国・浙江省の温州市中級人民法院は９月２９日、特殊詐欺やギャンブルなどの違法行為で多額の利益を上げていた犯罪組織のメンバー１１人に対し、死刑判決を言い渡した。
+
+同組織は中国と国境を接するミャンマー北部のコーカン自治区を拠点として活動。逃げようとした労働者ら１０人を死亡させた罪にも問われている。
+
+死刑を言い渡されたのは、犯罪組織「明家」のメンバー１１人。ほかにも５人が２年の執行猶予付き死刑判決を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238652.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/01/41bd218404b4e3971e7b3ccd7de300f4/t/768/512/d/intermediate-people-s-court-of-wenzhou.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238655.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-01T13:18:00+09:00</dc:date>
+        <title>「危険な都市は軍や州兵の訓練場」として利用すべき、トランプ氏が示唆　米軍将官を前に</title>
+        <link>https://www.cnn.co.jp/usa/35238655.html?ref=rss</link>
+        <description>トランプ米大統領は９月３０日の演説で、軍や州兵の「訓練場として危険な都市」を利用すべきだとの考えを示唆したとみられる発言を行った。
+
+トランプ氏はバージニア州クァンティコに集まった軍の将官を前に、「こうした危険な都市の一部は米軍や州兵の訓練場に使うべきだと、ピート（ヘグセス国防長官）に伝えた。我々は間もなくシカゴ入りするからだ。あそこは無能な知事がいる大都市だ」と発言した。
+
+トランプ氏は続けて、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238655.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/01/1e7269a191bace66452c785c7af45f2e/t/768/512/d/17-gettyimages-2233819265__1200_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238651.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-01T13:04:00+09:00</dc:date>
+        <title>ヒトの皮膚細胞から卵子を作製、不妊治療に新たな扉</title>
+        <link>https://www.cnn.co.jp/fringe/35238651.html?ref=rss</link>
+        <description>新たな研究によって、ヒトの皮膚細胞を使って初期の胚（はい）を生成できる受精可能な卵子が生み出された。これにより不妊治療の可能性が広がるかもしれない。
+
+今回の研究の論文はネイチャー・コミュニケーションズ誌に掲載された。今回の研究では、ヒトの皮膚細胞から核（細胞の遺伝情報の大部分を占める部分）を採取し、核を取り除いたドナーの卵子に移植した。研究者は、卵母細胞を８２個作り出し、実験室で受精させた。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238651.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/01/d7c856bedf9ffe06faa5fc63c976126b/t/768/565/d/large-spindle.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
