@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-10-09T20:36:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35239052.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239048.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239044.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239041.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239039.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239032.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35239029.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239014.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239031.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239022.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239016.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239020.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239018.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239006.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239007.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35239003.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239000.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238999.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238995.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35238992.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238989.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238986.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238981.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35238982.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35238969.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35238966.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238960.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35238957.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35238946.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35238953.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35239052.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T20:36:00+09:00</dc:date>
+        <title>ハンガリーの作家クラスナホルカイ・ラースロー氏にノーベル文学賞、「破滅的な恐怖」に対峙する作品群が評価</title>
+        <link>https://www.cnn.co.jp/style/arts/35239052.html?ref=rss</link>
+        <description>スウェーデン・アカデミーは9日、２０２５年のノーベル文学賞をハンガリーの作家クラスナホルカイ・ラースロー氏に授与すると発表した。同氏は、自身の暗く難解な小説について「狂気の域に達するほど」現実を考察することを目指していると述べた。
+
+選考委員会は、「説得力があり先見性のある作品群は破滅的な恐怖の渦中で芸術の力を再確認させる」としてラースロー氏を称賛した。
+
+ラースロー氏の作品はほんの一握りしか英語に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35239052.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/fa59548b793cbaa4f6ecd21baa35017e/t/768/432/d/gettyimages-2224164785.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239048.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T18:20:00+09:00</dc:date>
+        <title>まだガザに拘束されている人質は誰なのか？</title>
+        <link>https://www.cnn.co.jp/world/35239048.html?ref=rss</link>
+        <description>イスラム組織ハマスや協力関係にある勢力は依然、パレスチナ自治区ガザ地区に４８人の人質を拘束している。イスラエル政府は、うち少なくとも２０人が生存、２６人が死亡しているとの見方を示す。
+
+残る人質のうち、１人を除く全員が２０２３年１０月７日に起きたハマス主導の襲撃の際に連れ去られた。残り１人はイスラエル兵のハダル・ゴルディンさんで、１４年に殺害されて以降、ガザに遺体が留め置かれている。
+
+人質の大半...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239048.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/d71d5500da50e6460f6aa63efd8cd4eb/t/768/511/d/2025-10-09t064522z-1642604179-rc268hazwq0q-rtrmadp-3-israel-palestinians.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239044.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T17:04:00+09:00</dc:date>
+        <title>ブタの肝臓を移植した男性、１７１日間生存　中国</title>
+        <link>https://www.cnn.co.jp/world/35239044.html?ref=rss</link>
+        <description>中国の医師団は、遺伝子を組み換えたブタの肝臓を移植した７１歳の男性について、手術後１７１日間生存し、このうち３８日間はブタの肝臓が体内にあったと発表した。今回の研究が査読付きの学術誌に掲載されるのは初めて。
+
+ブタの腎臓や心臓を人間に移植する試みは初期段階での成功例が報告されているほか、脳死状態の人にブタの肝臓を移植した事例もある。しかし、動物の臓器をヒトに移植する「異種移植」では、肝臓がそうし...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239044.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/1906fbaa8fd78e40fec23c5dc699b404/t/768/511/d/large-group-photo.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239041.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T16:41:00+09:00</dc:date>
+        <title>カントリーの米スター歌手、新曲予告動画で米移民当局を批判</title>
+        <link>https://www.cnn.co.jp/showbiz/35239041.html?ref=rss</link>
+        <description>グラミー賞受賞歴を持つ米カントリー歌手、ザック・ブライアンは、新曲の予告動画で米移民税関捜査局（ＩＣＥ）による一斉検挙を批判し、国を二分する政治的議論に自らを巻き込んだようだ。
+
+２９歳のブライアンはカントリーミュージック界の大スターの一人であり、その飾らない歌詞と個人的な経験を語る作風で高い評価を得ている。
+
+ブライアンの最新シングル「Ｂａｄ　Ｎｅｗｓ」の 1 分間の予告動画は、ソーシャルメディア上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239041.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/3b8a7e1fa3c1c3a39b0a4af99983244d/t/768/512/d/sipausa-61013052.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239039.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T15:50:00+09:00</dc:date>
+        <title>ヨーグルト店での少女４人殺害事件、３４年を経て容疑者を特定　米</title>
+        <link>https://www.cnn.co.jp/usa/35239039.html?ref=rss</link>
+        <description>米テキサス州トラビス郡オースティンのヨーグルト専門店で１９９１年１２月、何者かが１０代の少女４人を銃で殺害する事件が発生した。解決を命じられた担当刑事は粘り強い捜査の末、このほど犯人の男を特定したと発表した。容疑者はすでに死亡したが、他州でも殺人などの犯罪を繰り返していたとされる。
+
+オースティン警察の刑事、ダン・ジャクソンさんは２０２２年、未解決殺人事件捜査班の責任者に着任。初日に上司のオフィ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239039.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/6dfd38598924e51261aa44455185ccad/t/768/512/d/ap25272631848169.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239032.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T15:22:00+09:00</dc:date>
+        <title>火星で吹き荒れる「ダストデビル」、時速１６０キロの高速で移動か</title>
+        <link>https://www.cnn.co.jp/fringe/35239032.html?ref=rss</link>
+        <description>火星を周回する２機の探査機が撮影した２０年分の画像の分析から、赤い惑星で激しい風が吹き荒れていることが明らかになった。
+
+荒涼とした火星の風は、火星特有の赤い砂塵（さじん）がなければ目に見えないだろう。火星の赤い塵（ちり）は風の渦に巻き上げられ、「ダストデビル」と呼ばれる現象を引き起こしている。
+
+こうした竜巻のような旋風は地球上でも発生するが、科学誌サイエンス・アドバンシズに掲載されたダストデビ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239032.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/697150d162754527595bbaf168d83fbc/t/768/256/d/large-my36-017977-189-0-rgbwpan-browse-site1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35239029.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T14:46:00+09:00</dc:date>
+        <title>男子がＳＮＳで見ているものは――「男っぽさ」にさらされるほど自己肯定感低く　米調査</title>
+        <link>https://www.cnn.co.jp/tech/35239029.html?ref=rss</link>
+        <description>ＳＮＳを利用している男子は、男っぽさを強調するコンテンツや女性に対して問題のある考え方を助長するようなコンテンツをほぼ確実に目にしている――。そんな実態を浮き彫りにした調査結果が８日に発表された。
+
+調査は米国在住の１１～１７歳の男子約１０００人を対象に実施された。その結果、７３％は戦闘や筋トレ、金もうけなど「デジタルの男っぽさ」に関するコンテンツを定期的に見ていることが分かった。
+
+こうしたコンテ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35239029.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/7b37fd5c21dfbeeb0bba770e356dab81/t/768/512/d/gettyimages-1353071585-20251007220206746__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239014.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T13:55:00+09:00</dc:date>
+        <title>不気味に輝く鬼火、微小な気泡間の放電現象で説明可能　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35239014.html?ref=rss</link>
+        <description>沼地や湿原に揺らめく青い炎は、何世紀にもわたり幽霊伝説の源泉となってきた。「ウィル・オ・ザ・ウィスプ」「ジャック・オ・ランタン」「死者の灯」「イグニス・ファトゥス（ラテン語で『愚かな火』）」などと呼ばれるこの世界的な現象には、背筋が凍るような歴史がある。しかし今、こうした「鬼火」の起源について科学的な説明が可能になるかもしれない。それは小さな稲妻であり、微小なメタンの気泡が発火することで起きる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239014.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/969d13d97ff678b631c92a03c91e2116/t/768/512/d/gettyimages-9073717.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239031.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T13:48:00+09:00</dc:date>
+        <title>ガザ和平案で第１段階の合意、イスラエルとパレスチナ双方から喜びの声</title>
+        <link>https://www.cnn.co.jp/world/35239031.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区での戦闘をめぐり、トランプ米大統領がイスラエルとイスラム組織ハマスが和平案の第１段階で合意したと発表したことを受けて、イスラエルとパレスチナ双方から喜びの声が上がった。
+
+約２００人がイスラエル中部テルアビブの「人質広場」に集まり、イスラエルとハマスの間で合意された停戦案を祝った。停戦案には、ガザで拘束されている全ての人質の解放が盛り込まれている。
+
+これまでの停戦合意でハ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239031.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/12f5ba6575e40d87e7aa4a9fa293b124/t/768/512/d/large-ap25282081841582.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239022.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T13:27:00+09:00</dc:date>
+        <title>【分析】トランプ氏にノーベル平和賞受賞の可能性がある理由</title>
+        <link>https://www.cnn.co.jp/usa/35239022.html?ref=rss</link>
+        <description>トランプ米大統領はノーベル平和賞受賞への意欲を公言している。同氏の支持者らは十分にその資格があると主張するが、反トランプ派は一笑に付し、受賞できない理由として、物議を醸しがちな同氏の政策を挙げる。
+
+トランプ氏は２１世紀最悪の紛争のうち二つ、つまりパレスチナ自治区ガザ地区とウクライナでの戦争を引き継いだ。そのどちらも今、解決の大枠が視野に入っている。トランプ氏とそのチームが和平を実現できるかどう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239022.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/c586fb1f548cddc3d57015594fe44fc0/t/768/512/d/gettyimages-1237112615.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239016.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T12:33:00+09:00</dc:date>
+        <title>米政府閉鎖、続けば軍人の給与未払いに　下院共和党議員が法案通過訴え</title>
+        <link>https://www.cnn.co.jp/usa/35239016.html?ref=rss</link>
+        <description>米共和党のジェン・キガンズ下院議員（バージニア州選出）は８日、政府閉鎖が続けば軍人への来週の給与支払いが危ぶまれる状況になっていることを踏まえ、軍人への給与保証を盛り込んだ法案を可決するよう下院指導部に訴えた。
+
+キガンズ氏はバージニア州の軍人が多く住む地区を代表する。Ｘ（旧ツイッター）で「議長と下院指導部に対し、私の法案を可決するよう求める。 軍人の多くは家族を養いながら給料ぎりぎりの生活を送っ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239016.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/f37ec96f82e7d358db559a5b0ff6d17c/t/768/511/d/gettyimages-2220173780.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239020.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T12:08:00+09:00</dc:date>
+        <title>学校給食から不健康な超加工食品使用を排除　米カリフォルニア州、全米初の法案制定</title>
+        <link>https://www.cnn.co.jp/fringe/35239020.html?ref=rss</link>
+        <description>米カリフォルニア州で８日、不健康な超加工食品を定義して学校給食から締め出す「リアルフード・ヘルシーキッズ法案」がギャビン・ニューサム知事の署名で成立した。こうした法律の制定は全米で初めて。州議会は９月中旬に同法案を通過させていた。
+
+米疾病対策センター（ＣＤＣ）の最新報告書によると、米国の子どもは平均で摂取カロリーのほぼ３分の２を、添加物が多く使われていて糖分や塩分、脂肪分が高い超加工食品から摂...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239020.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/40552730a77de35b62c3274a3fbd2958/t/768/512/d/gettyimages-1265668037.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239018.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T12:02:00+09:00</dc:date>
+        <title>ハマス、人質全員の遺体の返還は不可能か　イスラエル分析</title>
+        <link>https://www.cnn.co.jp/world/35239018.html?ref=rss</link>
+        <description>イスラエル政府は、イスラム組織ハマスがパレスチナ自治区ガザ地区で拘束された人質のうち、死亡した全員の遺体を発見・返還できない可能性があるとみている。イスラエルの情報筋３人が明らかにした。
+
+情報筋によると、イスラエルはハマスが死亡した人質２８人の一部について、所在を把握していないか、遺体を収容できない状況にあると認識している。情報筋のひとりは、その数は７～９人に上ると述べた。別の情報筋は１０～１...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239018.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/f71c899d13ee8319a892c55857e6830c/t/768/511/d/large-gettyimages-2239183946.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239006.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T10:43:00+09:00</dc:date>
+        <title>米カリフォルニア州の大規模火災、放火の疑いで２９歳容疑者を逮捕</title>
+        <link>https://www.cnn.co.jp/usa/35239006.html?ref=rss</link>
+        <description>今年１月に米カリフォルニア州ロサンゼルス地域で発生して十数人の死者を出した大規模火災に関連して、検察は８日、フロリダ州に住む２９歳の男を逮捕したと発表した。
+
+南カリフォルニア米連邦検察によると、逮捕されたのはジョナサン・リンダークネヒト容疑者（２９）。ロサンゼルス地域で１月に発生した「パリセーズ火災」に関与したとして、放火による器物損壊の疑いがもたれている。この火災では十数人が死亡し、住宅や事...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239006.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/58557f1cfeeb113a6c3187efc9e2b46e/t/768/512/d/gettyimages-2192342657.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239007.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T10:22:00+09:00</dc:date>
+        <title>クリスティアノ・ロナルド選手、サッカー界初のビリオネアに　サウジ移籍が追い風</title>
+        <link>https://www.cnn.co.jp/showbiz/35239007.html?ref=rss</link>
+        <description>ポルトガル出身のサッカー界のスーパースター、クリスティアノ・ロナルド選手（４０）がサッカー選手として史上初の「ビリオネア（資産１０億ドル＝約１５００億円）」となった。米ブルームバーグ通信が伝えた。
+
+レアル・マドリードやマンチェスター・ユナイテッド、ユベントスで活躍したロナルド選手は、すでに現役屈指の高収入の選手として知られていたが、サウジアラビアのアルナスルでの現在の活躍が、その資産を大幅に押...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239007.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/153e31934d84415158dc786d823ec004/t/768/511/d/large-gettyimages-2234200789.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35239003.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T09:50:00+09:00</dc:date>
+        <title>デンマーク、１５歳未満のＳＮＳ利用禁止へ　首相「子どもの幼少期奪っている」</title>
+        <link>https://www.cnn.co.jp/tech/35239003.html?ref=rss</link>
+        <description>デンマークのメッテ・フレデリクセン首相は、１５歳未満の子どものＳＮＳ利用を禁止する方針を表明した。ＳＮＳが「子どもたちの幼少期を奪っている」と強調している。
+
+フレデリクセン首相は７日の議会冒頭演説で、子どものＳＮＳ禁止法案を提出すると表明し、１３歳からは保護者の選択で子どものＳＮＳ利用を許可できるようにすると説明した。
+
+「これまで子どもたちの生活に携帯電話を持ち込むことを認めてきたのは、家に電...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35239003.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/00a05c3fb8b1386238ce2e6c03fd2ae2/t/768/512/d/denmark-politic.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239000.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T08:54:00+09:00</dc:date>
+        <title>イスラエルとハマス、和平案の第１段階に合意　トランプ氏が発表</title>
+        <link>https://www.cnn.co.jp/world/35239000.html?ref=rss</link>
+        <description>トランプ米大統領は８日、イスラエルとイスラム組織ハマスが人質全員の速やかな解放を可能にする和平枠組みの第１段階で合意したと明らかにした。
+
+トランプ氏は自身のＳＮＳトゥルース・ソーシャルで「イスラエルとハマスが共に和平案の第１段階に署名したと発表できるのを大変誇りに思う」と投稿。「これは人質全員が間もなく解放され、イスラエルが合意されたラインまで軍を撤退させることを意味する。強固で永続的な、平和...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239000.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/159ed7562402d7340cfd0b26c9f67d54/t/768/528/d/gettyimages-2239438640.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238999.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T08:15:00+09:00</dc:date>
+        <title>米つなぎ予算案、またも否決　政府機関閉鎖で経済に損失</title>
+        <link>https://www.cnn.co.jp/usa/35238999.html?ref=rss</link>
+        <description>米上院は８日、政府の資金を一時的に確保する与野党のつなぎ予算案をいずれも否決した。先月末から幾度となく否決しており、事態打開のめどは全く立っていない。政府機関の一部は１日から閉鎖しており、経済界からは経済へのダメージを懸念する声が上がっている。
+
+医療費の政府補助の延長などを盛り込んだ民主党のつなぎ予算案がまず採決にかけられ、賛成４７票、反対５２票で否決された。
+
+ついで下院で可決された共和党のつ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238999.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/6bcd95e84b5e134de8fd8f8f59c8f544/t/768/511/d/gettyimages-2239422383.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238995.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-09T07:44:00+09:00</dc:date>
+        <title>トランプ氏、「週末にも中東へ」　ガザ停戦交渉で進展</title>
+        <link>https://www.cnn.co.jp/world/35238995.html?ref=rss</link>
+        <description>トランプ米大統領は８日、エジプトで行われているパレスチナ自治区ガザ地区の紛争をめぐる停戦協議に進展があったと明らかにし、今週末にも中東に赴く可能性があると述べた。
+
+トランプ氏は米国が示したガザ和平案についての協議が合意に達する確率は「かなり高い」との考えを示し、早ければ１１日にも自ら中東を訪問する用意があると述べた。ただし、その場合、どの国を訪問することになるかは明らかにしなかった。
+
+これより...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238995.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/e3b4231490ae727bb29b9a1e5aa46708/t/768/512/d/ap25281704394794.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35238992.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-08T19:37:00+09:00</dc:date>
+        <title>新アルバム「ショーガール」への賛否、テイラー・スウィフトは意に介さず？　「混乱を歓迎」</title>
+        <link>https://www.cnn.co.jp/showbiz/35238992.html?ref=rss</link>
+        <description>米歌手テイラー・スウィフトの最新アルバム「ザ・ライフ・オブ・ア・ショーガール」を巡って賛否両論の声が上がっているが、本人は意に介しておらず、この状況を受け止める準備ができているようだ。
+
+スウィフトは７日、アップルミュージックの「ゼイン・ロウ・ショー」に出演。新曲に対するファンやリスナーの受け止め方の「混乱を歓迎する」と語り、毀誉褒貶（きよほうへん）を受け入れる考えを示した。
+
+「アルバムの発売初...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35238992.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/08/775537ecb1666f724a31e0305c38ec89/t/768/511/d/gettyimages-2166913977-20251007192713384.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238989.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-08T19:07:00+09:00</dc:date>
+        <title>ノーベル化学賞に北川進氏ら３氏、金属有機構造体の開発</title>
+        <link>https://www.cnn.co.jp/world/35238989.html?ref=rss</link>
+        <description>スウェーデン王立科学アカデミーは８日、２０２５年のノーベル化学賞を金属有機構造体（ＭＯＦ）の開発により、日本人、英国人、ヨルダン人の３氏に授与すると発表した。
+
+北川進氏、リチャード・ロブソン氏、オマー・ヤギー氏の３人は、化学分野が直面する「課題を解決するための新たな機会」を提供した功績が認められた。
+
+選考委員会のハイナー・リンケ委員長は、「ＭＯＦは計り知れない可能性を秘めており、これまでにない...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238989.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/08/8f7f3c661394190708176c178ad122d0/t/768/432/d/20251008-nobel-chemistry-2025.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238986.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-08T18:47:00+09:00</dc:date>
+        <title>群馬県のスーパーにクマが侵入、２人負傷　店内を荒らす</title>
+        <link>https://www.cnn.co.jp/world/35238986.html?ref=rss</link>
+        <description>群馬県沼田市のスーパーマーケットで７日、クマが店内に侵入して、すし売り場を荒らすなどした。買い物客２人が負傷した。日本ではクマによる襲撃事件が相次いでおり、今年度はクマに襲われて死亡した人の数が過去最多となっている。
+
+警察によると、体長１．４メートルほどのクマが駐車場を横切って店内に侵入し、６９歳と７６歳の客２人が負傷した。１人は駐車場で、もう１人は店内で負傷したという。
+
+ＮＨＫによると、事件...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238986.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/08/5600ba1b8771a802f244f42ea33924f7/t/768/432/d/large-still-22011496-326-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238981.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-08T18:30:00+09:00</dc:date>
+        <title>南極探検船「エンデュアランス号」の沈没、原因は舵の破壊ではなかった　新たな分析が示唆</title>
+        <link>https://www.cnn.co.jp/fringe/35238981.html?ref=rss</link>
+        <description>「運がなかった。人間の手で作られたどんな船も、あの重圧には耐えられなかっただろう」
+
+極地探検家アーネスト・シャクルトンは、１９１５年１０月２７日の日記にそう記した。南極に到達するという彼の夢が、乗船する「エンデュアランス号」もろともこの日に打ち砕かれたことはよく知られている。同船はこの年の１月以降、ウェッデル海で氷に阻まれ、立ち往生していた。１０月末までに氷は舵（かじ）をもぎ取り、竜骨を裂き、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238981.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/08/8a6987668215423f9d25bf43761ac5bc/t/768/512/d/gettyimages-480801019.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35238982.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-08T17:40:00+09:00</dc:date>
+        <title>ヒンドゥー教の女神が「悪魔」のトランプ大統領を退治、米印の現状を象徴する祭りに</title>
+        <link>https://www.cnn.co.jp/world/35238982.html?ref=rss</link>
+        <description>インド西ベンガル州マーシダバードで開催されたヒンドゥー教の祭り「ドゥルガー・プージャ」。１０本の手にそれぞれ天上の武器を持ち、ライオンにまたがる女神ドゥルガーが退治するのは、いつもの悪魔マヒシャースラではなかった。
+
+今回、女神の前に立ちはだかる「悪の象徴」とされたのは、金髪にたくましい胸板、そして米国のドナルド・トランプ大統領をかたどった顔を持つ像だった。
+
+西ベンガル州で行われたドゥルガー・プ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35238982.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/08/ba79390788f4b686aca83263d75ea8b2/t/768/432/d/whatsapp-image-2025-10-06-at-1-36-21-pm.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35238969.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-08T14:22:00+09:00</dc:date>
+        <title>米政府閉鎖７日目、空の旅に影響　各地の主要空港に遅延広がる</title>
+        <link>https://www.cnn.co.jp/usa/35238969.html?ref=rss</link>
+        <description> 米連邦航空局（ＦＡＡ）によると、シカゴ・オヘア国際空港では現地時間７日夜、管制塔で業務に当たる航空管制官が足りなくなる見通しだ。ナッシュビルでは自宅待機する管制官が相次いでおり、管制施設の閉鎖を迫られている。
+
+政府閉鎖が７日目に入った現在、米国では各地のＦＡＡ事務所で同様の状況が起きつつある。ほぼあらゆる地域の空の便に影響が広がっている。
+
+ＦＡＡの運用計画によると、ヒューストンやニューアーク、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35238969.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/08/b34f25b860d20e2300a9d5eda7a202e2/t/768/488/d/gettyimages-2239242900.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35238966.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-08T14:06:00+09:00</dc:date>
+        <title>米オープンＡＩ、中国政府関連とみられるアカウント停止　ＣｈａｔＧＰＴで監視ツールの提案書作成</title>
+        <link>https://www.cnn.co.jp/tech/35238966.html?ref=rss</link>
+        <description>米オープンＡＩは７日、中国政府の関係者とみられる人物が、同社の対話型ＡＩ（人工知能）「ＣｈａｔＧＰＴ（チャットＧＰＴ）」を使って、大規模な監視を行うツールの提案書を作成したり、ＳＮＳのアカウントを調べて「過激派の発言」を検出するとされるツールの宣伝支援を依頼したりしていたと発表した。
+
+同社は報告書の中で、ＡＩの技術が抑圧をより効率的にするためにどのように利用される可能性があるかについて警鐘を鳴...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35238966.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/08/c105545536e1345619012119a011a7b6/t/768/468/d/large-openai-event.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238960.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-08T12:55:00+09:00</dc:date>
+        <title>センザンコウの苦境　世界で最も密輸される哺乳類を捉えた写真集</title>
+        <link>https://www.cnn.co.jp/fringe/35238960.html?ref=rss</link>
+        <description>全身と尾を覆う硬いよろいのようなうろこ、鋭い爪を持つ５本指の足、最長で２５センチも伸びるミミズのような舌――。センザンコウは哺乳類というより恐竜のような姿をしている。
+
+「後ろ足で歩いて、小さな前足を持ち上げて進む様子は過去を思い出させる。まるで小さなティラノサウルスが歩いているよう。過ぎ去った時代とつながっているような感覚になる」と、南アフリカ在住の野生動物写真家でサファリガイドのトリスタン・デ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238960.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/08/b1157d4a574625d266ff3af2c4adc794/t/768/476/d/001-indian-pangolin-photo-dharmendra-khandal-remembering-wildlife.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35238957.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-08T12:02:00+09:00</dc:date>
+        <title>アシカの首に食い込んだプラスチックバンド、調査団が切断して解放　ドローンで撮影</title>
+        <link>https://www.cnn.co.jp/fringe/35238957.html?ref=rss</link>
+        <description>カナダと米国の間に位置するセイリッシュ海で、プラスチックバンドが首にきつく巻き付いたアシカが発見され、調査団がバンドを切断してアシカを解放した。調査団は救出劇をドローンで上空から撮影した映像を公開している。
+
+セイリッシュ海はカナダ南西部ブリティッシュコロンビア州と米北西部ワシントン州の間にある。調査団が発見したアシカはプラスチックバンドが首に巻き付いた状態で、皮膚に深く食い込んでいた。
+
+複数の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35238957.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/08/754cb0b8690686cef582221c83efdcec/t/768/432/d/cnn10-sea-lion-rescue.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35238946.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-08T11:55:00+09:00</dc:date>
+        <title>写真特集：写真集「１０　Ｙｅａｒｓ　ｏｆ　Ｒｅｍｅｍｂｅｒｉｎｇ　Ｗｉｌｄｌｉｆｅ」</title>
+        <link>https://www.cnn.co.jp/photo/35238946.html?ref=rss</link>
+        <description>「リメンバリング・ワイルドライフ」プロジェクトの写真集「１０　Ｙｅａｒｓ　ｏｆ　Ｒｅｍｅｍｂｅｒｉｎｇ　Ｗｉｌｄｌｉｆｅ」。この写真集のシリーズは、収益を野生動物保護活動に寄付するプロジェクトの一環。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35238946.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/08/b1157d4a574625d266ff3af2c4adc794/t/768/476/d/001-indian-pangolin-photo-dharmendra-khandal-remembering-wildlife.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35238953.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-08T11:50:00+09:00</dc:date>
+        <title>「ハリウッドで子育ては不安」　米俳優ジョージ・クルーニーがフランスへ移住した理由</title>
+        <link>https://www.cnn.co.jp/showbiz/35238953.html?ref=rss</link>
+        <description>米ハリウッドの華やかさを代表するアカデミー賞受賞俳優ジョージ・クルーニー（６４）が雑誌インタビューの中で、ハリウッドでの子育てを望まなかった理由を打ち明けた。
+
+現在はフランスの農場で妻と８歳の双子と暮らすクルーニー。６日発売のエスクァイア誌のインタビューの中で「ＬＡ（ロサンゼルス）のハリウッド文化の中で子どもを育てるのは不安だった」と告白し、「（ハリウッドでは）子どもたちを公平に扱ってもらえな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35238953.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/08/308caf49b03d985b7f5108f0f7e26309/t/768/511/d/2025-10-03t190711z-1901221681-rc2j4hao7vwu-rtrmadp-3-awards-albies.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
