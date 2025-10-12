@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-10-12T16:16:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239136.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239134.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239133.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239132.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239131.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239130.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239129.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239125.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35239124.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239122.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239120.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239118.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239117.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239115.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239116.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239114.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239113.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239109.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239051.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239106.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35239098.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239102.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35239096.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239090.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239091.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35239043.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239085.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239082.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239068.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-12T16:16:00+09:00</dc:date>
+        <title>米連邦控訴裁、州兵の配備認めず　イリノイ州への州兵派遣をめぐり</title>
+        <link>https://www.cnn.co.jp/usa/35239137.html?ref=rss</link>
+        <description>米連邦控訴裁判所は１１日、イリノイ州の州兵部隊について、引き続き連邦政府の管理下に置くことは認めるものの、上訴手続きが続く間は配備を認めないとの判断を示した。
+
+第７巡回区連邦控訴裁は先に、州内の州兵の配備を２週間停止するという下級審の命令の一部を一時的に停止することに合意した。民主党が地盤を持つシカゴやポートランドなどの移民税関捜査局（ＩＣＥ）の施設周辺での抗議活動を抑える目的で州兵を派遣する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/12/2473770db91a59b7ef7512f8be090363/t/768/512/d/large-gettyimages-2239839803.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239136.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-12T15:38:00+09:00</dc:date>
+        <title>バイデン前大統領、前立腺がんの放射線治療を開始</title>
+        <link>https://www.cnn.co.jp/usa/35239136.html?ref=rss</link>
+        <description>ジョー・バイデン前米大統領（８２）が前立腺がんの治療の一環として放射線治療を開始したことがわかった。広報担当がＣＮＮに明らかにした。
+
+広報担当は、バイデン氏が前立腺がんの治療計画の一環として、放射線治療とホルモン療法を受けていると述べた。
+
+広報担当は治療の時期については明らかにしていない。情報筋によれば、バイデン氏は数週間前に治療を始めたという。
+
+バイデン氏の個人事務所は５月、バイデン氏が前立...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239136.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/12/8fc0bcc35d5c361621f1d29dd2d6d7a1/t/768/518/d/large-gettyimages-2182727583.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239134.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-12T15:05:00+09:00</dc:date>
+        <title>米南部ミシシッピ州で銃撃が相次ぐ、６人死亡</title>
+        <link>https://www.cnn.co.jp/usa/35239134.html?ref=rss</link>
+        <description>米南部ミシシッピ州で週末、高校のアメリカンフットボール試合に関連して発生したとみられる少なくとも３件の銃撃事件で、少なくとも６人が死亡し、複数が負傷した。
+
+同州リーランドでは、１０日夜から１１日未明にかけての銃撃で少なくとも４人が死亡し、１２人以上がけがをした。市長が明らかにした。市長はＣＮＮに対し、１６人が撃たれ、４人が死亡したと述べた。死亡した４人を１６人の中に含めているかは明らかにしなか...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239133.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-12T14:27:00+09:00</dc:date>
+        <title>仏大統領、辞任したばかりのルコルニュ氏を首相に再任　異例の人事に驚き</title>
+        <link>https://www.cnn.co.jp/world/35239133.html?ref=rss</link>
+        <description>フランスのマクロン大統領は１０日、辞任を表明したセバスチャン・ルコルニュ氏を再び首相に任命した。フランス大統領府は声明で、マクロン氏がルコルニュ氏を首相に任命し、組閣を指示したと発表した。
+
+ルコルニュ氏はＳＮＳ「Ｘ」（旧ツイッター）への投稿で、「フランス国民をいら立たせているこの政治危機と、フランスのイメージや国益を損なっている不安定さに終止符を打たなければならない」と述べた。
+
+今回の再任は予...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239133.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/12/3fcb8a3f0e595b21ebc2b99e816ae425/t/768/511/d/large-p-3-france-politics-20251008074931131.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239132.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-12T13:14:00+09:00</dc:date>
+        <title>ダイアン・キートンさん死去、７９歳　「アニー・ホール」「ゴッドファーザー」</title>
+        <link>https://www.cnn.co.jp/showbiz/35239132.html?ref=rss</link>
+        <description>独特のユーモアと唯一無二のスタイルで知られた俳優のダイアン・キートンさんが米カリフォルニア州で死去した。７９歳だった。プロデューサーのドリ・ラス氏が１１日、ＣＮＮに確認した。
+
+死因は現時点で明らかにされていない。
+
+ロサンゼルス消防局の報道担当者によると、消防は１１日、キートンさんの自宅から医療支援の要請を受け、救急隊が病院に搬送したという。
+
+キートンさんは長年にわたり第一線で活躍した多作な俳優...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239132.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/12/6c23edc6becf90706f2c6a0603f33bb0/t/768/511/d/large-gettyimages-1414270594.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239131.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-12T11:48:00+09:00</dc:date>
+        <title>マリナーズ、延長１５回の死闘制す　２４年ぶりリーグ優勝決定シリーズ進出</title>
+        <link>https://www.cnn.co.jp/showbiz/35239131.html?ref=rss</link>
+        <description>米大リーグのア・リーグの地区シリーズ（５回戦制）第５戦が行われ、シアトル・マリナーズが延長の末にデトロイト・タイガースを下し、２００１年以来となるリーグ優勝決定シリーズ進出を決めた。
+
+延長十五回に突入し、４時間５８分に及んだ試合は劇的な結末を迎えた。
+
+１死満塁で打席に立ったホルヘ・ポランコは４７２球目を右翼方向へ運び、マリナーズに３―２の勝利をもたらした。マリナーズのリーグ優勝決定シリーズ進出は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239131.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/12/c0613090ef3f4f8018a87da4bcd83bc2/t/768/511/d/large-gettyimages-2240382202.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239130.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-12T10:53:00+09:00</dc:date>
+        <title>爆発物製造施設で爆発、１６人の死亡を確認　米テネシー州</title>
+        <link>https://www.cnn.co.jp/usa/35239130.html?ref=rss</link>
+        <description>米テネシー州の爆発物製造施設で大規模な爆発が発生した事件で、死亡した１６人の遺族に通達が行われた。当局が１１日の記者会見で明らかにした。
+
+ハンフリーズ郡のクリス・デービス保安官によると、生存者は見つかっていない。捜索隊が現場を少しずつ確認しながら捜索作業を進めているという。
+
+当局は当初、施設内に残された車や私物から１８人が行方不明とみていた。その後、２人が敷地外で無事が確認された。
+
+デービス保...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239130.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/12/72ea3a054620c90e35719b555e5f18c1/t/768/511/d/large-ap25284105983999.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239129.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-12T09:31:00+09:00</dc:date>
+        <title>喜びと悲しみと、人質の帰還を待つ人たち　イスラエル</title>
+        <link>https://www.cnn.co.jp/world/35239129.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区に拘束されているロム・ブラスラフスキーさん（２１）の父親、オフィール・ブラスラフスキーさんは、２年ぶりに笑顔を見せていた。
+
+ブラスラフスキーさんにとって、これは劇的な変化だ。パレスチナ・イスラム聖戦（ＰＩＪ）が公開した映像で、やつれて涙を流すロムさんの姿を見た８月には精神的に落ち込んだという。
+
+「キスと抱擁、息子のにおいのことを考えている」とブラスラフスキーさんは１１日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239129.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/12/b1edb8eb20aafdbd22581d1f3950254a/t/768/511/d/large-mg-5265-2-20251011211511377.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239125.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-11T18:00:00+09:00</dc:date>
+        <title>メラニア氏、プーチン氏と「開かれた対話チャンネル」　ウクライナの子ども８人が家族と再会</title>
+        <link>https://www.cnn.co.jp/usa/35239125.html?ref=rss</link>
+        <description>メラニア・トランプ米大統領夫人は１０日、ロシアがウクライナの子ども８人について保護者との再会を認めたと明らかにした。ロシア当局とメラニア氏側の間ではここ数カ月、戦争で家族から引き離された子どもたちを巡る非公開協議が行われていた。
+
+メラニア氏が明かしたところによると、ロシアのプーチン大統領に宛てた８月の書簡でウクライナ戦争の子どもたちへの影響について伝えて以来、プーチン氏との間には「開かれた対話...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239125.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/11/e75f9c894f65ec92ed6680851b847cb7/t/768/512/d/melania-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35239124.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-11T17:20:00+09:00</dc:date>
+        <title>皇帝が通ったコロッセオの秘密のトンネル、今月一般公開へ　ローマ</title>
+        <link>https://www.cnn.co.jp/travel/35239124.html?ref=rss</link>
+        <description>ローマ皇帝が人目につかずコロッセオに入り込むために使用した２０００年前のトンネルが、今月一般公開される。皇帝のために作られた隠れた通路を見られる稀有（けう）な機会を提供する。
+
+「コモドゥスの通路」として知られるこの約５５メートルの通路は、皇帝や要人が群衆に紛れることなく皇帝らの専用席へ到達できるよう、コロッセオの下に建設された。
+
+この通路の名は、西暦１７７年から１９２年まで帝国を統治した冷酷な...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35239124.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/11/db52e930bfdf51bb897d2b1aac11723d/t/768/432/d/passaggio-di-commodo-veduta-generale-ph-simona-murrone-parco-archeologico-del-colosseo-scaled.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239122.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-11T15:30:00+09:00</dc:date>
+        <title>患者１６０人以上を性的虐待か、米オレゴン州の医師を起訴　いったん不起訴も被害者の訴え実る</title>
+        <link>https://www.cnn.co.jp/usa/35239122.html?ref=rss</link>
+        <description>米オレゴン州で１０日、１６０人を超える患者から虐待の訴えを受けている元かかりつけ医が出頭し、性的虐待の罪について罪状認否を行った。無罪を主張している。
+
+デービッド・ファーリー被告（６７）はこの日の早朝、クラカマス郡の拘置所に出頭した。郡の大陪審は女性患者３人に対する１１年に及ぶ性的虐待の罪９件と、関連する罪２件で被告を起訴。いずれも重罪に当たる。患者のうち１人は１４歳以下だった。
+
+ファーリー被...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239122.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/11/e732284a6729971c198042b37f314bf8/t/768/432/d/still-20903089-544170-667-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239120.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-11T14:21:00+09:00</dc:date>
+        <title>ヒゲワシの巣から７世紀以上前のサンダル見つかる、他にも驚きの文化的遺物が　スペイン</title>
+        <link>https://www.cnn.co.jp/fringe/35239120.html?ref=rss</link>
+        <description>ヒゲワシは骨を主食とする特異な食性を持つ大型猛禽（もうきん）類で、長年鳥類学者を魅了してきた。しかし新たな研究により、この骨食いの鳥が従来考えられていた以上に興味深い存在であることが明らかになった。科学者らによれば、入念に作られるヒゲワシの巣は複数世代にわたって使用されるため「天然の博物館」として機能し、数世紀にわたる文化的遺物を保存している可能性があるという。
+
+スペインでは２００８年から１４...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239120.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/11/7b3aa496f268761a31f07cbd76f0b5ca/t/768/576/d/contenidos-nidos-historicos-14-de-30.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239118.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-11T12:26:00+09:00</dc:date>
+        <title>北朝鮮が軍事パレード　新型の極超音速兵器「火星１１マ」登場、ＩＣＢＭ「火星２０」も</title>
+        <link>https://www.cnn.co.jp/world/35239118.html?ref=rss</link>
+        <description>北朝鮮は１０日遅く、朝鮮労働党創建８０年を記念する軍事パレードで、新型の極超音速滑空兵器や大陸間弾道ミサイル（ＩＣＢＭ）を披露した。
+
+平壌の金日成広場で夜間に行われたパレードで、極超音速兵器「火星１１マ」や大陸間弾道ミサイル（ＩＣＢＭ）「火星２０」などが披露された。国営メディアは火星２０を「（北朝鮮の）最も強力な核戦略兵器システム」と呼んでいる。
+
+北朝鮮の金正恩（キムジョンウン）総書記は１カ月...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239118.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/11/eb6fa0a549eb9eaae01a615668c84239/t/768/512/d/0462a0499e02dae37d5fe78f60c-1-20251011035021823__1200_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239117.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-11T12:20:00+09:00</dc:date>
+        <title>トランプ氏、新型コロナとインフルのワクチン接種受ける　今年２回目の健康診断で</title>
+        <link>https://www.cnn.co.jp/usa/35239117.html?ref=rss</link>
+        <description>米国のトランプ大統領は１０日、ウォルター・リード医療センターを訪問し、新型コロナウイルスワクチンの追加接種とインフルエンザの予防接種を受けた。ホワイトハウスが公開したメモの中で、主治医が明らかにした。
+
+トランプ氏の主治医、ショーン・バーバベラ博士は、「今後の海外出張に備えて、トランプ大統領は予防的な健康診断と予防接種を受けた。そこには毎年のインフルエンザ予防接種と最新の新型コロナウイルスワクチ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239117.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/11/62b4019911c806ee2681f804fc722520/t/768/512/d/04-2025-09-22t214016z-1962409290-rc29xga1fxg1-rtrmadp-3-usa-trump-autism.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239115.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-11T11:20:00+09:00</dc:date>
+        <title>南極周辺の海底でメタンの漏出が拡大、科学者が発見　将来の温暖化予測に影響か</title>
+        <link>https://www.cnn.co.jp/fringe/35239115.html?ref=rss</link>
+        <description>南極地域の温暖化に伴い、現地の海底の亀裂から地球温暖化を促進するメタンが放出されていることが科学者らによって判明した。新たな漏出地点が「驚くべき速度」で発見されていることから、将来の地球温暖化予測が過小評価されている可能性への懸念が高まっている。
+
+世界中の海底には、数千年かけて形成された貯留層に膨大な量のメタンが存在する。この目に見えない気候汚染ガスは海底の割れ目から海水中に漏れ出し、しばしば...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239115.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/11/1fde3d2fce59a0fc26ef6f1ae2c26d2e/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWdnZzRlYzQwMDNtMjdxZzFvcjhhejI3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZ2dnNGVjNTAwNDEyN3FnM21nbzU1anU_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239116.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-11T10:33:00+09:00</dc:date>
+        <title>トランプ氏が対中国１００％の追加関税を表明、計１３０％に　世界貿易戦争が再燃</title>
+        <link>https://www.cnn.co.jp/usa/35239116.html?ref=rss</link>
+        <description>トランプ米大統領は１０日、既に適用されている３０％の関税に加え、中国からの輸入品に対して１００％の追加関税を課す考えを明らかにした。発動の時期は１１月１日、もしくはそれ以前としている。米中貿易戦争は数カ月にわたって休戦状態が続いていたが、トランプ氏の脅しで大幅にエスカレートした形だ。
+
+トランプ氏はＳＮＳトゥルース・ソーシャルへの投稿で、「米国は中国が現在支払っている関税に加え、１００％の関税を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239116.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/11/a6d97669f28af5e3d6d825a17d791ffe/t/768/430/d/gettyimages-2237062394.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239114.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-11T09:41:00+09:00</dc:date>
+        <title>イスラエル、停戦発効を発表　ガザの一部から部隊撤退</title>
+        <link>https://www.cnn.co.jp/world/35239114.html?ref=rss</link>
+        <description>イスラエル軍は１０日、パレスチナ自治区ガザ地区での停戦が発効したと発表した。政府が前夜承認した和平案に基づき、部隊は合意したラインまでの撤退を実施している。
+
+しかしイスラエル国防軍（ＩＤＦ）の報道官は「部隊はガザ地区の様々な地域に引き続き駐留する」と付け加えた。
+
+イスラム組織ハマスが拘束している人質についても、解放に向けた７２時間の猶予期間が始まった。合意の一環として、イスラエル国内のパレスチ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239114.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/11/505a8beb43f9dd35085ef42e75529b46/t/768/512/d/ap25283301290984.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239113.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-11T09:02:00+09:00</dc:date>
+        <title>軍用爆発物の工場で大規模爆発、１９人が死亡または不明　米テネシー州</title>
+        <link>https://www.cnn.co.jp/usa/35239113.html?ref=rss</link>
+        <description>米テネシー州の爆発物製造施設で１０日、大規模な爆発が発生して建物が壊滅し、当局によると、少なくとも１９人が死亡するか行方不明になっている。爆発の規模はすさまじく、数キロ離れた住宅を揺らすほどだったという。
+
+現場は軍や解体用の爆発物を製造する「アキュレット・エナジェティック・システムズ」。早朝に発生した爆発の結果、焼け焦げた残骸や、破損した車両が広い範囲に残された。爆発は最大２４キロ離れた場所で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239113.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/11/189a9e4c83be23dfc10ee066b6c62145/t/768/432/d/hickman-03-20251010160525661.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239109.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-10T18:20:00+09:00</dc:date>
+        <title>ノーベル平和賞、ベネズエラの野党指導者マリア・コリーナ・マチャド氏に授与　民主的権利の促進に貢献</title>
+        <link>https://www.cnn.co.jp/world/35239109.html?ref=rss</link>
+        <description>ノルウェーのノーベル賞委員会は１０日、２０２５年のノーベル平和賞をベネズエラの野党指導者マリア・コリーナ・マチャド氏に授与すると発表した。ベネズエラの人々の民主的権利の促進に貢献したことが評価された。
+
+委員会は、マリア・コリーナ・マチャド氏が「深まる暗闇の中で民主主義の炎を燃やし続ける」ことに貢献したと述べ、同氏の「独裁政権から民主主義への公正で平和的な移行を実現するための闘い」を称賛した。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239109.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/10/e17edd4c5b81092ddad99fe566143057/t/768/432/d/2025-01-09t193439z-577523750-rc2i6carqoz6-rtrmadp-3-venezuela-politics-protests.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239051.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-10T17:39:00+09:00</dc:date>
+        <title>マンモグラフィーの初回検査を受けない女性、乳がんによる長期的な死亡リスクが４０％増　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35239051.html?ref=rss</link>
+        <description>乳がんの初回検診を受けなかった女性は、乳がんによる長期的な死亡リスクが４０％高まる可能性がある。９月２４日に学術誌ＢＭＪに掲載された研究で明らかになった。研究は、スウェーデンの４０万人超の女性を対象に最長２５年にわたって追跡調査したもの。
+
+女性が乳がん検診の受診を始めるべきタイミングや、初回検診の遅れが長期的ながん死亡リスクを高める理由、マンモグラフィーのほかに受けるべき検査など、数々の疑問を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239051.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/baa7589a64b361fb2665f16f626c422a/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWc3MmN5ejYwMDIwM2I2bnM0eGYyZmhu-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZzcxbG14MzAwMnUyN3FsN3c0NWF4ZG4_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239106.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-10T16:59:00+09:00</dc:date>
+        <title>ドレイクが提訴した名誉毀損訴訟が棄却、ケンドリック・ラマー「Ｎｏｔ　Ｌｉｋｅ　Ｕｓ」めぐり</title>
+        <link>https://www.cnn.co.jp/showbiz/35239106.html?ref=rss</link>
+        <description>カナダ出身のラッパー、ドレイクさんが自身も所属するユニバーサルミュージックグループ（ＵＭＧ）を相手取り、米国のラッパー、ケンドリック・ラマーさんの楽曲「Ｎｏｔ　Ｌｉｋｅ　Ｕｓ」の発売とプロモーションを理由に提起した名誉毀損（きそん）訴訟をめぐり、米連邦裁判所は９日、この訴えを棄却した。
+
+グラミー賞を受賞したこの楽曲は、ラマーさんがドレイクさんを「認定された小児性愛者」と主張したことで知られる。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239106.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/10/b3da3f3d56c29fecf50a99901670cb64/t/768/512/d/gettyimages-2224854129.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35239098.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-10T16:21:00+09:00</dc:date>
+        <title>今年のハロウィーン商戦、トランプ関税が直撃　輸入負担増大、商品は値上がり</title>
+        <link>https://www.cnn.co.jp/business/35239098.html?ref=rss</link>
+        <description>ラバーマスクやホラー映画の小道具、ゾンビゲームなどが所狭しと並ぶ倉庫。「ホラーがハロウィーンである必要はない。ライフスタイルそのものだ」と経営者のクリス・ゼフロさんは言う。
+
+しかし米国のドナルド・トランプ大統領がこの春、中国を相手に貿易戦争を始めて以来、ゼフロさんがカリフォルニア州で経営する会社「トリック・オア・トリート・スタジオ」は苦境に立たされている。
+
+同社は商品を製造・輸入して世界の小売...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35239098.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/10/ac5e44ea0ec76b8e2bef06b64676e3d1/t/768/512/d/gettyimages-1466281096.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239102.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-10T15:43:00+09:00</dc:date>
+        <title>フィリピン南東部沖でＭ７．４の地震、パニックになった住民が一斉に通りに</title>
+        <link>https://www.cnn.co.jp/world/35239102.html?ref=rss</link>
+        <description>米地質調査所（ＵＳＧＳ）によると、フィリピン南東部沖でマグニチュード（Ｍ）７．４の地震が発生した。地面が揺れる中、パニックになった住民たちは通りに逃げ出した。
+
+ＵＳＧＳによると、地震は現地時間午前９時４５分ごろ、ミンダナオ島東部の沖合、島の最大都市ダバオから１２３キロの場所で発生。震源の深さは５８．１キロだった。現時点で被害の報告は入っていない。
+
+米国の津波警報システムは当初、フィリピンとイン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239102.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/10/98e08064103d732ebb150975a073a0f7/t/768/512/d/gettyimages-2239625379.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35239096.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-10T14:13:00+09:00</dc:date>
+        <title>金だけではない貴金属高騰　銀が一時５０ドル突破、１９８０年以来の高値</title>
+        <link>https://www.cnn.co.jp/business/35239096.html?ref=rss</link>
+        <description>価格が高騰している貴金属は金だけではない。安全資産を求める投資家の需要や旺盛な産業需要、長引く供給不足が追い風となり、銀価格は今年これまでに約７５％急騰した。
+
+銀のスポット価格は９日、過去最高値となる１トロイオンス＝５１ドルに到達。５０ドルの節目を突破したのは１９８０年以来だった。
+
+トレーダーたちは今年、地政学的な不安定さや経済の不透明さに対する安全な投資先、ヘッジ手段として、金や銀のような実...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35239096.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/10/b4c0efb2cf1024a4b72d8da257f94062/t/768/512/d/gettyimages-2199670255.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239090.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-10T13:24:00+09:00</dc:date>
+        <title>ケネディ保健福祉長官に対して募る不信感、ワクチン情報の信頼失墜　米最新世論調査</title>
+        <link>https://www.cnn.co.jp/usa/35239090.html?ref=rss</link>
+        <description>米保健福祉省（ＨＨＳ）のロバート・ケネディ・ジュニア長官に対して国民が不信感を募らせていることが、米カイザー・ファミリー財団（ＫＦＦ）の最新世論調査で分かった。中でも政府が発表するワクチン情報に対する信頼は大きく失墜している。
+
+ＨＨＳ長官としてのケネディ氏の実績については、約６割が「評価しない」と回答。政党別にみると民主党員は８７％、共和党員は２６％が「評価しない」だった。
+
+ケネディ氏が掲げる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239090.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/10/1e3ec5230d049c573eb4645073012aa4/t/768/512/d/ap25247659408123.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239091.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-10T13:02:00+09:00</dc:date>
+        <title>米司法省、ＮＹ州司法長官を起訴　トランプ氏政敵への報復続く</title>
+        <link>https://www.cnn.co.jp/usa/35239091.html?ref=rss</link>
+        <description>米ニューヨーク州のレティシア・ジェームズ司法長官が９日、バージニア州アレクサンドリアで起訴された。司法省は、トランプ大統領の政敵に対する告発を続けている。
+
+ジェームズ氏は、バージニア州ノーフォークで住宅を購入するため２０２３年に組んだローンに関し５月から捜査を受けている。
+
+大陪審は、銀行詐欺と金融機関への虚偽申告という二つの重罪でジェームズ氏を起訴した。
+
+起訴状によると、ジェームズ氏は住宅ロー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239091.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/10/4d485d9108a260153863519a5df1cf26/t/768/512/d/gettyimages-2016269562-20251009202749698.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35239043.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-10T11:55:00+09:00</dc:date>
+        <title>止まらない金高騰、１９７９年以来となる価格上昇の理由は？</title>
+        <link>https://www.cnn.co.jp/business/35239043.html?ref=rss</link>
+        <description>金価格は今年、驚異的な上昇を見せている。これは通常なら、世界情勢に関する危険信号になる。
+
+今週、金価格は１オンス＝４０００ドルを突破した。ウォール街の一部には、高騰はまだ序の口とみる向きもある。
+
+投資家が金に殺到するのは通常、好景気の時ではなく、世界が危機に瀕（ひん）していると感じる時だ。金は長年、景気不安やインフレ懸念がある場合に頼りになる安全資産とされてきた。
+
+金と株が同時上昇
+
+今年の金価...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35239043.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/09/180a65d2de1e986f7fc3c02b3abaa4ea/t/768/513/d/gettyimages-2239818139.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239085.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-10T11:50:00+09:00</dc:date>
+        <title>米国が地上部隊２００人派遣、ガザ和平計画の監視で　高官</title>
+        <link>https://www.cnn.co.jp/usa/35239085.html?ref=rss</link>
+        <description>米国はパレスチナ自治区ガザ地区を巡る和平計画の実施状況を監視するため、地上部隊２００人を派遣する方針であることが分かった。米高官が明らかにした。
+
+この高官は米国が派遣する部隊について、エジプトやカタール、トルコ、アラブ首長国連邦（ＵＡＥ）の兵士と合流して監視に当たるとも明らかにしたが、別の当局者は「米国の部隊がガザに入ることは想定されていない」と注意を促した。
+
+１人目の高官の説明によると、派遣...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239082.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-10T11:42:00+09:00</dc:date>
+        <title>フィリピン南東部でＭ７．４の地震、津波注意報発令</title>
+        <link>https://www.cnn.co.jp/world/35239082.html?ref=rss</link>
+        <description>米地質調査所（ＵＳＧＳ）によると、フィリピン南東沖でマグニチュード（Ｍ）７．４の地震が発生し、現地当局は危険な津波が発生する可能性があると警告している。
+
+ＵＳＧＳによると地震はミンダナオ島東部沖、島の首都ダバオから約１２３キロメートルの地点で発生した。震源の深さは５８．１キロメートル。
+
+フィリピン火山地震研究所は「生命を脅かす高さの破壊的な津波が発生する見込み」と発表し、フィリピン東部・南部の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239082.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/10/e42b75f799faacd44d0dda01e8d3b864/t/768/432/d/image.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239068.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-10T11:30:00+09:00</dc:date>
+        <title>二つの明るい彗星が今月地球に接近　観測の方法を紹介</title>
+        <link>https://www.cnn.co.jp/fringe/35239068.html?ref=rss</link>
+        <description>新たに発見された二つの彗星（すいせい）が今月地球に最接近し、空を駆け抜ける壮観な光景を見せてくれる。
+
+彗星は氷、凍結したガス、岩石で構成されており、太陽などの恒星に接近すると熱によってガスや塵（ちり）を放出する。これが特徴的な尾を生み出す。
+
+米アリゾナ州フラッグスタッフにあるローウェル天文台で小天体天文学を研究する博士研究員のチャン・キチェン氏によると、彗星「Ｃ／２０２５　Ａ６ レモン」は１月３...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239068.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/10/3db3eda43d1810eeee66008e007126a5/t/768/511/d/c2025r2-6oct2025-masi-s135.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
