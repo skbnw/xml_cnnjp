@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-10-15T08:20:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239201.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239200.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239192.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239187.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239185.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239172.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239181.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35239176.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239177.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239171.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239165.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239164.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239169.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35239163.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239156.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239162.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239159.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239154.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239153.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239148.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239119.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239147.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239146.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239145.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239144.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239143.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239142.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239141.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239140.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35239138.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239201.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-15T08:20:00+09:00</dc:date>
+        <title>米軍、ベネズエラ沖でまたも「麻薬運搬船」を攻撃　６人死亡</title>
+        <link>https://www.cnn.co.jp/usa/35239201.html?ref=rss</link>
+        <description>トランプ米大統領は１４日、米軍がベネズエラ沖の国際水域で違法な薬物を運搬していたとされる船舶を攻撃し、乗船していた６人が死亡したと明らかにした。
+
+トランプ氏は、攻撃を受けた船舶は「テロリストに指定されている組織と関係していた」と述べたが、組織名は明らかにせず、そうした主張を裏付ける証拠も示さなかった。
+
+トランプ氏は「船舶はテロリスト指定の組織が使うルートに沿って麻薬を運搬しており、違法な麻薬テ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239201.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/15/e032d29253e738a3faafdd4d81e8ef98/t/768/432/d/screenshot-2025-10-14-at-2-16-39-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239200.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-15T08:00:00+09:00</dc:date>
+        <title>イスラエル、ガザ支援物資の制限を国連に通告　人質遺体の返還遅れで</title>
+        <link>https://www.cnn.co.jp/world/35239200.html?ref=rss</link>
+        <description>イスラエル当局は１４日までに、パレスチナ自治区ガザ地区への人道支援物資の搬入を制限、あるいは延期すると国連に通告した。イスラム組織ハマスによる人質の遺体の引き渡しが遅れていることへの対抗措置としている。
+
+ガザの国連人道問題調整事務所（ＯＣＨＡ）のチェレフコ報道官が記者からの質問に答える形で明らかにした。
+
+この件はロイター通信が最初に報じた。同通信が確認したメモによると、イスラエルは１４日からガ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239200.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/15/efd8e08f6fe7455dfdc499175e922f7f/t/768/432/d/israel-palestinians-egypt-arish.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239192.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T19:50:00+09:00</dc:date>
+        <title>人里離れた山頂から双子の遺体、警察は自殺と断定も遺族に残る疑問　米</title>
+        <link>https://www.cnn.co.jp/usa/35239192.html?ref=rss</link>
+        <description>米ジョージア州アトランタ郊外の人里離れた山頂で今年３月、２０歳直前だった双子の兄弟の遺体が発見された事件で、ＣＮＮはこのほど、ジョージア州捜査局（ＧＢＩ）の全資料を入手した。このファイルには、事件前の２人について新たな詳細を記載した資料も含まれている。
+
+アトランタ近郊ローレンスビルに住むナージル・ルイスさんと双子の弟カーディルさんは３月７日の夜、自分たちの黒い日産アルティマで近くのガソリンスタ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239192.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/9689c674229374904b572a6e5276c9ad/t/277/432/d/img-1436.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239187.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T18:20:00+09:00</dc:date>
+        <title>皆既日食後に鳥が鳴いた理由、体内時計が「リセット」　米研究</title>
+        <link>https://www.cnn.co.jp/fringe/35239187.html?ref=rss</link>
+        <description>２０２４年４月８日に北米で起きた皆既日食によって、一部の鳥類の体内時計が一時的にリセットされたことがわかった。
+
+当時、月が地球と太陽の間を移動して、日中に数分間の完全な暗闇が訪れるという劇的な光景が出現した。この現象は、メキシコのマサトランからカナダのニューファンドランド島セントジョンズにいたる経路で観測された。
+
+科学誌サイエンスに掲載された研究論文によれば、日食の間と日食後に、まるで新しい一...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239187.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/51d5d62c955c2c99eeee6c3e0f58241e/t/768/432/d/totality-303pm-169.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239185.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T17:17:00+09:00</dc:date>
+        <title>米３歳児がとっさの判断、発作起こした母親の命を救う　携帯電話のロック解除して助け求める</title>
+        <link>https://www.cnn.co.jp/fringe/35239185.html?ref=rss</link>
+        <description>米ミシガン州ポンティアックで先ごろ、３歳の少年がとっさの判断で母親の命を救う出来事があり、ヒーローとして称賛を集めている。
+
+母親のシャンテル・ウッズさんは９日午後に料理中、めまいに襲われ、ソファに腰を下ろした。ウッズさんにはてんかんの持病があり、その後発作を起こしてリビングで意識を失った。周囲にいたのは幼い息子のコディー君だけだったという。
+
+「涙がこみ上げてくる。彼はまさに私のヒーロー」とウッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239185.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/7e2df3aedbaa3313a9b6a672f49694de/t/768/401/d/wxyz3yosavesmotherslife101325.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239172.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T16:59:00+09:00</dc:date>
+        <title>科学者が生み出した「スーパーウッド」、強度重量比は鋼鉄の１０倍　米</title>
+        <link>https://www.cnn.co.jp/fringe/35239172.html?ref=rss</link>
+        <description>ある米国企業が新たな種類の木材を生み出した。鋼鉄に対して最大１０倍の強度重量比を持つ一方、最大６倍の軽量化を実現する素材だとしている。
+
+この「スーパーウッド」は、材料科学者のフー・リャンビン氏が共同設立した企業インベントウッド社により、このほど商品化された。
+
+１０年以上前、フー氏は木材という人類にとって最古の部類に入る建築材料を再発明する挑戦を始めた。メリーランド大学材料革新センターで研究して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239172.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/1324d66fd10dd5e4defc849d603e8fa9/t/768/512/d/inventwood-launch-joel-goldberg-04-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239181.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T15:39:00+09:00</dc:date>
+        <title>バイデン氏、ガザ停戦を称賛　トランプ氏に賛辞</title>
+        <link>https://www.cnn.co.jp/usa/35239181.html?ref=rss</link>
+        <description>バイデン前米大統領は１３日、生存する最後の人質２０人の解放とパレスチナ自治区ガザ地区における新たな停戦が発表されたことを受けて声明を発表し、深い安堵（あんど）と感謝の意を表明した。
+
+バイデン氏はＸ（旧ツイッター）に、「このような日が来たことに深く感謝し、安堵している。想像を絶する地獄を経験し、家族や愛する人とようやく再会できた人質２０人のため、そして計り知れない喪失を経験してようやく人生を再建...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239181.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/36ce2b069e998c1496f05f6a4b134d51/t/768/511/d/2025-10-11t135059z-1180025005-rc29dcaks2kw-rtrmadp-3-usa-biden.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35239176.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T15:00:00+09:00</dc:date>
+        <title>米国をボイコットするカナダ、米国のビジネスに大きな影響</title>
+        <link>https://www.cnn.co.jp/business/35239176.html?ref=rss</link>
+        <description>米国のバージニア蒸留所のギャレス・ムーア最高経営責任者（ＣＥＯ）は、２０２５年が始まった当初、カナダで自社のアメリカンシングルモルトウイスキーを販売することに強気の姿勢だった。
+
+しかし、関税をめぐる冷え込みや、カナダを５１番目の州にするというトランプ氏の脅しにより、何世紀も続いた米国とカナダの友好関係は崩壊し、需要は急落した。
+
+ムーア氏はＣＮＮの電話取材に応じ、「事業規模を３倍に拡大することを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35239176.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/f088d990e978f754e41144f1d28ce7d2/t/768/512/d/gettyimages-2204026187.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239177.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T14:24:00+09:00</dc:date>
+        <title>ガザ人質の遺体の返還、２８人のうち４人のみ　「衝撃と落胆」</title>
+        <link>https://www.cnn.co.jp/world/35239177.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区での停戦合意の一環として、死亡した人質４人の遺体をおさめたひつぎがイスラエル国内に到着した。警察が明らかにした。イスラエル軍（ＩＤＦ）とイスラエル保安庁（ＩＳＡ）が護送して、法医学研究所で正式な身元確認が行われる。
+
+ＩＤＦとＩＳＡは共同声明で、身元確認が済み次第、遺族に直ちに通知すると明らかにした。
+
+イスラム組織ハマスは、ダニエル・ペレツさん、ヨッシ・シャラビさん、ビピ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239177.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/1c4ea0235012d27607837ed7f344e423/t/768/576/d/large-20251013-isr-hostages-presumed-dead-super4x3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239171.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T13:36:00+09:00</dc:date>
+        <title>２０カ所のナイフ傷、無数のあざ　それでも「女性は自殺」の見解変えず　米フィラデルフィア</title>
+        <link>https://www.cnn.co.jp/usa/35239171.html?ref=rss</link>
+        <description>２０１１年に自宅のキッチンで遺体が発見され、全米で大きな論議を巻き起こした女性の死をめぐり、フィラデルフィア市検視局は１３日、改めて自殺だったと断定する報告書を発表した。
+
+当時２７歳だったエレン・グリーンバーグさんは１１年１月２６日、自宅のキッチンで死亡しているのが見つかった。遺体には約２０カ所のナイフ傷があり、全身に無数のあざがあった。両親は今も、娘は殺害されたと訴え続けている。
+
+両親は真実...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239171.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/7c05d8a7f457db84675deb1e175b1e9c/t/768/432/d/greenberg-family-pictures-img-2737-copy-20241207035459398.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239165.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T12:55:00+09:00</dc:date>
+        <title>【分析】中東を去ったトランプ大統領、到着時と同じくらい多くの疑問を残したまま</title>
+        <link>https://www.cnn.co.jp/world/35239165.html?ref=rss</link>
+        <description>エジプトのリゾート地シャルムエルシェイクで開催される首脳会議に世界の注目が集まるなか、ドナルド・トランプ米大統領が「中東の和平」に向けた計画を明確に提示するかもしれないという期待がほんの一瞬だけ芽生えた。
+
+しかし、トランプ氏は、到着時と同じ未解決の疑問を残したまま中東を去った。
+
+トランプ氏が主導するパレスチナ自治区ガザ地区をめぐる和平案の「第１段階」は１３日に成功をおさめ、人質の解放とパレスチ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239165.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/77710cef2bbc5f560abe0ab760e1706c/t/768/432/d/ceremony.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239164.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T11:50:00+09:00</dc:date>
+        <title>民主党を非難するノーム長官の動画、米国内の複数空港が放映の指示を拒否</title>
+        <link>https://www.cnn.co.jp/usa/35239164.html?ref=rss</link>
+        <description>米国の複数の空港が、米政府機関の閉鎖をめぐって野党民主党を非難した国土安全保障省のクリスティ・ノーム長官の動画を流すことを拒んでいる。
+
+問題の動画は空港の保安検査場で流す想定で、ノーム長官が「ＴＳＡ（米運輸保安庁）が最優先するのは、皆さんの安全を守りながら、最も快適かつ効率的な空港を体験してもらうことです」と語りかける。長官はさらに「しかし米議会民主党は連邦政府予算の拠出を拒んでいます。それが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239164.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/8fb3d297a8233a068057b2a10eb6b89d/t/768/432/d/54500855-80831639-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239169.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T11:35:00+09:00</dc:date>
+        <title>スペースＸの「スターシップ」、インド洋への着水に成功　８月に続き２回目</title>
+        <link>https://www.cnn.co.jp/fringe/35239169.html?ref=rss</link>
+        <description>米民間宇宙企業スペースＸが打ち上げた宇宙船「スターシップ」が、炎を上げながらインド洋に着水した。
+
+スペースＸのウェブ配信の司会者は着水成功に歓声を上げ、宇宙船を回収できるとは予想していなかったと語った。スターシップは着水に向けた最後の機動をスムーズにこなし、スペースＸが綿密に計画していた一連の試験を完遂したようだ。
+
+スペースＸが今年導入したスターシップの試作機「バージョン２」でこうした目標を達...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239169.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/98bf49a88aa9d34b069c61a6a58c67ce/t/768/512/d/ap25287019261262.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35239163.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T11:15:00+09:00</dc:date>
+        <title>テスラの自動運転技術、信号無視や逆走など危険な運転事例を米当局が調査　それでも走行が許される理由</title>
+        <link>https://www.cnn.co.jp/business/35239163.html?ref=rss</link>
+        <description>米運輸省高速道路交通安全局（ＮＨＴＳＡ）は先週、電気自動車（ＥＶ）大手テスラの「完全自動運転」（ＦＳＤ）やその他の運転支援機能を搭載した同社製の車両に関して少なくとも６回目の調査を発表した。この調査では、赤信号無視、逆走、５人の負傷者を出した３件の事故など、数十件の危険な運転事例が取り上げられている。
+
+テスラが全米に自動運転車と無人自動運転の「ロボタクシー」を普及させるという野心的な計画を推し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35239163.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/6fbbeea08614ccc30755c7b9f404efe3/t/768/512/d/2025-09-29t175702z-1680676953-rc2av3apwt1l-rtrmadp-3-tesla-fsd.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239156.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T10:55:00+09:00</dc:date>
+        <title>【分析】「もっと賢く」、ロシアの戦争の負担を引き上げる方法とは</title>
+        <link>https://www.cnn.co.jp/world/35239156.html?ref=rss</link>
+        <description>ロシアによるウクライナへの全面侵攻が始まってから３年半が経過した。米国主導の和平プロセスは凍結され、戦場は膠着（こうちゃく）状態にある。ウクライナ政府を支援する国々はロシア政府への新たな経済的圧力を呼び掛けている。その狙いは、クレムリン（ロシア大統領府）にとっての戦争の負担を方針転換せざるを得ない水準にまで引き上げることだ。
+
+欧州連合（ＥＵ）による１８の制裁と、米国や英国、そのほかの国々による...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239156.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/13/c5ce340a9ff789984d5e4027a8a9f077/t/768/531/d/large-001-gettyimages-2230409424.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239162.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T10:44:00+09:00</dc:date>
+        <title>ガザ和平会議、各国首脳が合意文書に署名</title>
+        <link>https://www.cnn.co.jp/world/35239162.html?ref=rss</link>
+        <description>米国のトランプ大統領はエジプトのシャルムエルシェイクで開かれたパレスチナ自治区ガザ地区の和平案をめぐる首脳会議で、他の地域指導者とともに合意文書に署名し、「非常に重要な署名だ」と述べた。
+
+トランプ大統領は首脳会議を主導することを楽しんでいる様子で、今回の「最も困難」な合意をまとめたことについて、スタッフや補佐官に感謝の意を表した。
+
+トランプ氏は「これがおそらく最も困難なものになると思っていたし...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239162.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/63066e60c44f815d8b52d37875a2f1af/t/768/511/d/large-israel-palestinians-egypt-summit.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239159.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T10:30:00+09:00</dc:date>
+        <title>涙と歓声に包まれるパレスチナ　イスラエルが２０００人を釈放、大多数が司法なき拘束　暴行の訴えも</title>
+        <link>https://www.cnn.co.jp/world/35239159.html?ref=rss</link>
+        <description>イスラエルは１３日、パレスチナ自治区ガザ地区での停戦合意の一環として、刑務所で拘束していたパレスチナ人約２０００人を釈放した。一部は数十年ぶりに家族と再会を果たした。
+
+今回解放されたパレスチナ人のうち１７００人以上は、２０２３年１０月７日のハマスによるイスラエル襲撃後、イスラエル軍がガザで拘束し、何の罪にも問われることなく勾留されていた。残る２５０人は殺人などの罪で長期の禁錮刑を言い渡されて服...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239159.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/f6c22f8e595f287f47057c1e2b294b12/t/768/511/d/ap25286631161952.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239154.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T09:30:00+09:00</dc:date>
+        <title>地球が「新たな現実」に突入、気候に関する最初の転換点への到達で　報告書</title>
+        <link>https://www.cnn.co.jp/fringe/35239154.html?ref=rss</link>
+        <description>地球が「新たな現実」と戦っている。一連の壊滅的かつ不可逆的なものになり得る気候の転換点のうちでも最初の段階、すなわちサンゴ礁の広範な死滅が近づきつつあることが原因だ。世界中の１６０人の科学者が作成した画期的な報告書で明らかになった。
+
+人類が化石燃料を燃焼し気温を上昇させるにつれ、すでに深刻な熱波、洪水、干ばつ、山火事が頻発している。しかし、さらに大きな影響が目前に迫っている。気候変動は、アマゾ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239154.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/40f6688a95f7c7a91daf75bc91e0e4a7/t/768/542/d/gettyimages-129379708.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239153.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-14T08:14:00+09:00</dc:date>
+        <title>解放されたイスラエル人の人質、家族と再会　歓喜広がる</title>
+        <link>https://www.cnn.co.jp/world/35239153.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区で拘束されていた最後の生存する人質２０人が１３日、解放された。世界各国の指導者がガザの将来と米国仲介の停戦合意の次なる段階を協議するためエジプトに集まる中、人質たちは歓喜に包まれた場面で家族との再会を果たした。
+
+２年以上ぶりに、イスラム組織ハマスとその同盟勢力はガザ地区で生存する人質を一人も拘束していない状況となった。
+
+一方、イスラエルで起訴されないまま拘束されていた１...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239153.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/14/4f5aab7905a8514463f493d7cc24ed80/t/768/432/d/06-2025-10-13t094002z-325495705-rc2xahagpiiv-rtrmadp-3-israel-palestinians-hostages.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239148.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-13T19:12:00+09:00</dc:date>
+        <title>生存するイスラエル人の人質、全員解放　パレスチナ人囚人の釈放始まる</title>
+        <link>https://www.cnn.co.jp/world/35239148.html?ref=rss</link>
+        <description>イスラエルとイスラム組織ハマスの停戦合意を受け、生存するイスラエル人の人質２０人全員が解放された。
+
+最初に７人が解放され、その後、１３人のグループがイスラエル軍に護衛されて国境を越えて全員がイスラエル国内に戻った。
+
+一方、パレスチナ人の囚人を乗せた車両がイスラエルの刑務所を出発したと、パレスチナ当局が明らかにした。
+
+一部の車両はオフェル刑務所を出てまもなく占領下のヨルダン川西岸ラマラに到着した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239148.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/13/8bbcdee5f958fed5a7e76d2a0bcbb0a1/t/768/511/d/large-gettyimages-2240373266.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239119.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-13T16:46:00+09:00</dc:date>
+        <title>アリで発酵させたヨーグルト、ミシュラン二つ星レストランで提供　研究チームが実験</title>
+        <link>https://www.cnn.co.jp/fringe/35239119.html?ref=rss</link>
+        <description>デンマークのミシュラン二つ星レストランで提供されたメニューには、ちょっとした隠し味がある。それはアリだ。
+
+現在、「世界のベストレストラン５０」で５位にランクインするコペンハーゲンの「アルケミスト」は、自らを「科学実験室の一面を持つ」レストランと称し、食の実験に熱心だ。
+
+冷蔵庫の中にアリを入れたまま牛乳を置いておくと、牛乳が固まり始めたのをきっかけに食の実験が始まったと、今月３日付の学術誌「アイ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239119.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/13/b586a873ce21d42b784c8b88c0aecc3a/t/288/432/d/large-researchers-tasting-ant-yogurt-credit-david-zilber.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239147.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-13T14:51:00+09:00</dc:date>
+        <title>イスラエル人人質の解放始まる、生存者の第１陣が引き渡される</title>
+        <link>https://www.cnn.co.jp/world/35239147.html?ref=rss</link>
+        <description>赤十字国際委員会（ＩＣＲＣ）は、イスラエルとイスラム組織ハマスの停戦合意の一環として、人質と被拘束者の解放と移送を支援する多段階の作戦を開始したと発表した。
+
+ＩＣＲＣは、パレスチナ自治区ガザ地区で人質の引き渡し作業にあたっている。
+
+情報筋によれば、ハマスは生存している人質７人をＩＣＲＣに引き渡した。
+
+イスラエルのテルアビブにある「人質広場」には数千人が集まり、人質の引き渡しが始まったとの知らせ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239147.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/13/3e5fe79b6f203b45357c843239b8a3e3/t/768/511/d/large-ap25284591721402.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239146.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-13T14:01:00+09:00</dc:date>
+        <title>ハマス、ガザで支配権確保の動き　「協力者」を摘発か</title>
+        <link>https://www.cnn.co.jp/world/35239146.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区の情勢をめぐり、イスラエルとイスラム組織ハマスとの間で合意した停戦が発効する中、ハマスがガザのうちイスラエル軍が駐留していない地域で統制を取り戻しつつある。ハマスが武装解除された後の治安については先行きが見えない状況が続く中、ハマスは「協力者」とされる人物の摘発にも乗り出している。
+
+ハマスの治安部隊は１１日、ガザ市内の路上に姿を見せた。ここ数日間、ハマスと対立する集団と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239146.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/13/12e7ad425b90e08a5257de6cdbef9d0b/t/768/512/d/gettyimages-2240176826.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239145.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-13T12:59:00+09:00</dc:date>
+        <title>世界の平均寿命、コロナ禍前の水準に戻る　子どもや若者の死亡は増加　</title>
+        <link>https://www.cnn.co.jp/fringe/35239145.html?ref=rss</link>
+        <description>２０２３年の世界の平均寿命は１９５０年に比べて２０年長くなり、死亡率も低下していることが、２０４カ国・地域を対象とした最新調査で分かった。しかし大きな格差は依然として残り、自殺や薬物乱用などで死亡する子どもや若者は増えている
+
+米ワシントン大学保健指標評価研究所（ＩＨＭＥ）が１２日の医学誌ランセットに発表した研究によると、２０２３年の世界の平均寿命は女性が７６．３歳、男性が７１．５歳。コロナ禍で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239145.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/13/ebf53cc6c5321e1047d4c5d1d6beddbe/t/768/511/d/large-gettyimages-1200748066.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239144.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-13T12:23:00+09:00</dc:date>
+        <title>映画「トロン：アレス」、興収５１億円で北米市場首位に</title>
+        <link>https://www.cnn.co.jp/showbiz/35239144.html?ref=rss</link>
+        <description>米ディズニーのＳＦアクション映画「トロン：アレス」が、北米市場の週末興行収入で約３３５０万ドル（約５１億円）を記録し、首位を獲得した。
+
+数十年にわたる人気シリーズ「トロン」の第３弾となる同作は、当初アナリストが予測していた４０００万ドル超の初動には届かなかった。製作費は約１億８０００万ドルと報じられている。
+
+調査会社コムスコアのポール・ダーガラベディアン氏は「『トロン』は、１作目の映画から４０...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239144.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/13/fe3eeebd0ed125d3770adf6e1d6dfb5c/t/768/511/d/large-tron-ares-ff-2-95b076a4.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239143.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-13T11:14:00+09:00</dc:date>
+        <title>ロシアの石油精製所で火災、ウクライナのガス施設には集中攻撃　エネルギー戦争激化で燃料不足が深刻化</title>
+        <link>https://www.cnn.co.jp/world/35239143.html?ref=rss</link>
+        <description>ウクライナとロシアがエネルギー戦争を激化させている。ウクライナとの国境から約１４００キロ離れたロシアの石油精製所で１１日、火災が発生した。ウクライナ治安当局はこの火災について、ウクライナが長距離ドローン（無人機）で攻撃して発生させたと主張している。同施設の火災は過去１カ月だけで３回目だった。
+
+攻撃を受けたのは、ロシア南部のバシコルトスタン共和国にあるウファ石油精製所。現場からの映像には工場から...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239143.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/13/03057808b555c29ebee39fd19917e5ff/t/768/501/d/large-dp-3-russia-environment.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239142.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-13T10:33:00+09:00</dc:date>
+        <title>スミソニアン博物館と動物園も休館、米政府機関閉鎖の影響拡大</title>
+        <link>https://www.cnn.co.jp/usa/35239142.html?ref=rss</link>
+        <description>米政府機関の閉鎖が３週目に入る中、米首都ワシントンのスミソニアン博物館と国立動物園が１２日から閉鎖された。スミソニアン協会が公式サイトで発表した。
+
+スミソニアン協会が運営する１９の博物館と動物園は、政府機関の閉鎖が始まった１０月１日以降も前年度の予算を利用して営業を続けていた。
+
+しかしＸ（旧ツイッター）への１０日の投稿で同協会は「政府機関閉鎖のために、スミソニアン博物館は我々の研究センターや動...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239142.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/13/f5a84e6c1d4494029432f99f85bb9708/t/768/511/d/large-gettyimages-2240604233.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239141.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-13T10:05:00+09:00</dc:date>
+        <title>ガザの人道支援活動に「実質的な進展」、停戦発効で　ＯＣＨＡ</title>
+        <link>https://www.cnn.co.jp/world/35239141.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区の情勢をめぐり、国連人道問題調整事務所（ＯＣＨＡ）は、１０日に停戦が発効して以降、ガザでの人道支援活動に「実質的な進展」があったと明らかにした。
+
+ＯＣＨＡは１２日の声明で「３月以降初めて、調理用ガスがガザ地区に搬入された。避難民向けのテント、冷凍肉、新鮮な果物、小麦粉、医薬品なども一日を通じて搬入された」と述べた。
+
+国連と協力団体は、南部と北部の両方で数十万食分の温かい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239141.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/13/0b6a9abea1187cca93083260d28a1691/t/768/512/d/large-gettyimages-2240291354.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239140.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-13T09:11:00+09:00</dc:date>
+        <title>イスラエル人の人質解放へ、トランプ氏は中東を訪問　ガザ情勢</title>
+        <link>https://www.cnn.co.jp/world/35239140.html?ref=rss</link>
+        <description>イスラエルは、パレスチナ自治区ガザ地区で拘束されている人質と、イスラエル側に拘束されているパレスチナ人の囚人や被拘束者との最終的な交換を現地時間１３日午前にも開始する。イスラエル首相府が明らかにした。
+
+ロイター通信の映像によると、多くのパレスチナ人がガザ市内の壊滅的な光景を目の当たりにしている。
+
+
+
+
+
+
+
+
+REUTERS
+
+
+
+イスラエル首相府の報道官によると、ガザで拘束されている生存者２０人の人質は１３日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239140.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/13/ef98e4dfa42d0dfd65e7dd98f9ffc2aa/t/768/432/d/36638835-43213871-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35239138.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-12T17:03:00+09:00</dc:date>
+        <title>中国、トランプ氏の１００％追加関税への報復を示唆</title>
+        <link>https://www.cnn.co.jp/business/35239138.html?ref=rss</link>
+        <description>中国政府は、トランプ米大統領が中国製品に対して新たに１００％の追加関税を課すと表明したことを受け、実行に移した場合には米国に対して対抗措置を取ると明らかにした。
+
+トランプ氏の追加関税の動きは、中国がレアアース（希土類）の輸出管理を強化していることを受けたもの。
+
+中国商務省の報道官は１２日、トランプ氏の発表した追加関税について初めてコメントし、「高関税の脅しに訴えるのは、中国と付き合う正しい方法...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35239138.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/12/6d7439652db282393bbb3d71d6648009/t/768/463/d/large-gettyimages-2239867098.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
