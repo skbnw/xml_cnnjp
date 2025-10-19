@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-10-19T15:55:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239383.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239382.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239381.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239379.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239378.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239377.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239375.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239360.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239373.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239372.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239370.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35239252.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35239368.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239369.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239366.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239367.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239365.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35239362.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35239363.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35239354.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35239308.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239351.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239357.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35239309.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239346.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35239348.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239340.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239341.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239339.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239337.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35239383.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-19T15:55:00+09:00</dc:date>
+        <title>イスラエル、１１人目の人質の遺体の身元確認　停戦２週目に</title>
+        <link>https://www.cnn.co.jp/world/35239383.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区での停戦合意の一環として、イスラム組織ハマスからイスラエルに戻された１１人目の人質の遺体が１８日夜、ロネン・エンゲルさん（５４）と確認された。
+
+エンゲルさんは、ハマスがイスラエルに引き渡した２人の遺体のうちの１人で、所属するキブツ（集団農場）が発表した。家族がＣＮＮに提供した写真でも確認された。
+
+ハマスは１８日、エンゲルさんの遺体ともう１人の遺体を赤十字国際委員会（ＩＣ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239383.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/19/7f136848df56eb414f27a2a079b8be3c/t/768/512/d/gettyimages-2241496302.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239382.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-19T14:28:00+09:00</dc:date>
+        <title>バンス米副大統領、海兵隊創設２５０周年式典に参加　実弾演習実施で知事と応酬に</title>
+        <link>https://www.cnn.co.jp/usa/35239382.html?ref=rss</link>
+        <description>米国のバンス副大統領は１８日、カリフォルニア州で米海兵隊創設２５０周年を祝う式典に出席した。実弾を使った砲撃演習も行われ、ニューサム州知事から反発を招いた。
+
+「キャンプ・ペンドルトン」での演習には戦闘機やヘリコプター、海軍の艦艇が投入されたほか、けん引式榴弾（りゅうだん）砲による実弾演習も行われ、海兵隊によると、米本土ではここ１０年で最大規模となった。
+
+ニューサム知事はカリフォルニア州南部を走...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239382.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/19/e2a65fe6e1370eb138f697c2b7ad9157/t/768/490/d/2025-10-18t223544z-1557997126-rc2mehalxtw1-rtrmadp-3-usa-250-marines-vance.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239381.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-19T13:03:00+09:00</dc:date>
+        <title>ザポリージャ原発で電力復旧作業開始、異例の「停戦ゾーン」を設定</title>
+        <link>https://www.cnn.co.jp/world/35239381.html?ref=rss</link>
+        <description>国際原子力機関（ＩＡＥＡ）は１８日、ウクライナのザポリージャ原子力発電所（ＺＮＰＰ）で、送電線の復旧作業が進められていると発表した。現地では、異例の「停戦ゾーン」が設けられたという。
+
+ザポリージャ原発は約４週間にわたり電力網から電力が供給されておらず、戦争開始以降で最長の停電となっている。
+
+ＩＡＥＡのラファエル・グロッシ事務局長はＳＮＳへの投稿で、４週間の停電後、作業を進めるために停戦ゾーンを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239381.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/19/dfe5f44be790825e574becbe8c67eb66/t/768/522/d/resized_1200.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239379.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-19T12:01:00+09:00</dc:date>
+        <title>ノッティンガム・フォレストのポステコグルー監督、わずか３９日で解任　８戦勝利なし</title>
+        <link>https://www.cnn.co.jp/showbiz/35239379.html?ref=rss</link>
+        <description>サッカーのイングランド・プレミアリーグのノッティンガム・フォレストは１８日、アンジェ・ポステコグルー監督を解任した。就任からわずか３９日後の決断となった。１８日の試合ではノッティンガムはチェルシーに０対３で敗れていた。
+
+トッテナムやスコットランドのセルティックで指揮を執ったポステコグルー氏は、ノッティンガムでの在任中に１勝も挙げられず、２分６敗と苦戦していた。
+
+クラブは１８日の試合の終了から２...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239379.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/19/73f2c30a5784f5a9a3da4f020ff8c8b1/t/768/511/d/resized_gettyimages-2241414238.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239378.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-19T10:41:00+09:00</dc:date>
+        <title>米政権、トランプ氏のアジア訪問時に金正恩氏との会談を検討　実現には懐疑的な見方も</title>
+        <link>https://www.cnn.co.jp/usa/35239378.html?ref=rss</link>
+        <description>トランプ米政権の高官が、近く予定されているトランプ大統領のアジア歴訪の際に北朝鮮の金正恩（キムジョンウン）朝鮮労働党総書記との会談を実現させる可能性について、非公式に協議を行った。情報筋が明らかにした。だが、実現には懐疑的な見方も多いという。
+
+情報筋によれば、現時点で実際の訪問に向けた本格的な調整は行われていない。米国と北朝鮮との間での連絡も、第１次トランプ政権時のようには行われていないという...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239378.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/19/e81adc13016567716334848bd4edbbfc/t/768/511/d/processed_1200.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239377.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-19T10:40:00+09:00</dc:date>
+        <title>ロシア軍、航空支援受けウクライナで前進　トランプ氏は「現在の戦線で停戦」呼び掛けも</title>
+        <link>https://www.cnn.co.jp/world/35239377.html?ref=rss</link>
+        <description>トランプ米大統領は現在の戦線での戦闘凍結を改めて呼び掛けたものの、ロシア軍は依然、ウクライナの長大な前線の複数の部分で前進を続けている。
+
+トランプ氏は１７日、首都ワシントンでウクライナのゼレンスキー大統領と会談後、双方とも「今の位置で停止すべきだ」とＳＮＳで呼び掛けた。
+
+だが、ロシア軍は冬入りする前に戦果を固めようとしているようだ。ウクライナ軍によると、ロシア軍は１７日、過去最多となる２６８発...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239377.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/19/e53920d63f5dffaec3f15d8a27a5e61f/t/768/535/d/2025-10-16t151251z-488703295-rc2dchatqpve-rtrmadp-3-ukraine-crisis-trump-putin.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239375.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-19T09:14:00+09:00</dc:date>
+        <title>全米で「王はいらない」デモ、トランプ政権に抗議　６月に続き第２弾</title>
+        <link>https://www.cnn.co.jp/usa/35239375.html?ref=rss</link>
+        <description>トランプ米大統領の「権威主義的」な政治手法に反対する抗議デモ「ノー・キングス（王はいらない）」が１８日、全米５０州の２５００カ所超で行われる。これは６月に行われた同様のデモの第２弾として行われるもので、主催者は広範な抗議を呼びかけている。
+
+６月のデモでは、首都ワシントンでトランプ氏が軍事パレードを実施するのに合わせ、全米で約５００万人が街頭に繰り出した。
+
+前回のデモは、トランプ氏の第２次政権発...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239375.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/19/a289884da2b30373813cc09d58231afc/t/768/510/d/large-gettyimages-2220190853.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239360.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-18T18:50:00+09:00</dc:date>
+        <title>コンクリートの橋が「二酸化炭素を吸収」、骨をヒントに３Ｄプリンターで製作　米研究</title>
+        <link>https://www.cnn.co.jp/fringe/35239360.html?ref=rss</link>
+        <description>手頃な価格で多用途、驚くほどの強度を持ち、さらに各地で入手可能なコンクリートは、世界で最も多く使用されている人工素材だ。
+
+しかし、コンクリートは膨大な量の二酸化炭素を排出し、世界の温室効果ガス排出量の約８％を占める。
+
+コンクリート・セメント業界は長年にわたり、持続可能なコンクリート混合物や効率的な設計を通じて、環境への影響を軽減しようと努めてきた。
+
+現在、米ペンシルベニア大学の研究チームが、強...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239360.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/18/7ad84b7d82c80b4fb2fc9b1d3313286e/t/768/432/d/credits-karolina-pajak-sika-group-switzerland.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239373.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-18T18:00:00+09:00</dc:date>
+        <title>北朝鮮製のクラスター子弾、ウクライナ攻撃に使われたドローンから発見　英報告書</title>
+        <link>https://www.cnn.co.jp/world/35239373.html?ref=rss</link>
+        <description>先月のウクライナ攻撃に使用されたドローン（無人機）から、北朝鮮製のクラスター子弾（サブミュニション）が発見されたことが、新たな報告書で明らかになった。北朝鮮がウクライナに対するロシアの戦争を支援している実態が改めて浮き彫りになった。
+
+英調査団体「紛争兵器研究所（ＣＡＲ）」によると、改造を施した子弾は９月、港湾都市ヘルソンへの攻撃の後、ウクライナ当局によって回収された。
+
+子弾にはハングルが記載さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239373.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/18/fe329d3e7ff05e564b2af8e5767a6cf6/t/768/511/d/dprk-submunition-documented-by-car-in-ukraine-redacted.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239372.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-18T17:22:00+09:00</dc:date>
+        <title>「日本式」インターバルウォーキング、手軽に健康になれる方法と米専門家も太鼓判</title>
+        <link>https://www.cnn.co.jp/fringe/35239372.html?ref=rss</link>
+        <description>ＳＮＳで話題の最新フィットネストレンドの一つ「日本式ウォーキング」。３０分間、普通のペースでのウォーキングと速歩きを交互に繰り返すというもので、その魅力は一目瞭然だ。
+
+日本式ウォーキングは比較的短時間で手軽にできる運動であり、ジムの会員登録も特別な器具も必要ない。ただ玄関から外に出るだけでいい。
+
+「日本式ウォーキングで私が気に入っているのは、誰でもできるところだ」。そう語るのはスポーツ医学医で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239372.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/18/6947b4f1b2c32a8a236ccce5f1d0978f/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWdiZHFydmQwMDIyM2I2bm9oOWtzbWpy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZ2JkZ3N1MjAwMXgyNnFsZG1laWR1a28_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239370.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-18T13:34:00+09:00</dc:date>
+        <title>圧巻の大谷、投打で伝説作る　ドジャースが４連勝で再びワールドシリーズ進出</title>
+        <link>https://www.cnn.co.jp/showbiz/35239370.html?ref=rss</link>
+        <description>米大リーグ（ＭＬＢ）のワールドシリーズは、今年も「ＳＨＯ―ＴＩＭＥ」だ。
+
+ロサンゼルス・ドジャースは１７日、ミルウォーキー・ブルワーズとのナショナル・リーグ優勝決定シリーズ（ＮＬＣＳ）第４戦に５―１で勝利し、４連勝を飾ってワールドシリーズ連覇に挑むことが決まった。ドジャースを率いる異次元のスター、大谷翔平はこの試合で３本塁打、１０奪三振の大活躍。チームを勝利に導いた。
+
+それは野球の歴史上、最高の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239370.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/18/804e0759e678d73c46523269440f87bb/t/768/512/d/ap25291055067269.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35239252.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-18T13:08:00+09:00</dc:date>
+        <title>写真特集：人より猫が多い島　地中海のヌエバ・タバルカ島</title>
+        <link>https://www.cnn.co.jp/photo/35239252.html?ref=rss</link>
+        <description>地中海に浮かぶ全長約１８００メートルのヌエバ・タバルカ島は、年間を通して暮らす住民が約５０人のスペインで最も小さな有人島だ。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35239252.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/15/1822a8f358b23e4d55a79e349ebec436/t/768/431/d/001-gettyimages-2205729117.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35239368.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-18T12:26:00+09:00</dc:date>
+        <title>ピカソの絵画が行方不明に、展覧会へ向かう途中で消失か　スペイン</title>
+        <link>https://www.cnn.co.jp/style/arts/35239368.html?ref=rss</link>
+        <description>スペインの警察が、消えたパブロ・ピカソの絵画について捜査を行っている。当該の作品は展覧会へ向かう途中で行方不明になったとみられる。
+
+１９１９年に制作されたグアッシュ画「ギターのある静物」は、縦１２．７センチ、横９．８センチの作品。スペイン南部グラナダのカハ・グラナダ文化センターで開催中の特別展で、１０月９日から展示される予定だった。
+
+  
+  
+スペイン南部の展覧会で展示予定だったピカソの１９１９年...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35239368.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/18/d5a0aeafdaf117baadb4c9c843848b26/t/768/432/d/gettyimages-517725874.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239369.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-18T10:59:00+09:00</dc:date>
+        <title>トランプ氏、ウクライナへの長距離ミサイル供与を拒否　首脳会談は「気まずい」場面も</title>
+        <link>https://www.cnn.co.jp/usa/35239369.html?ref=rss</link>
+        <description>トランプ米大統領とウクライナのゼレンスキー大統領は１７日、ホワイトハウスで３回目の会談を行ったものの、ウクライナ戦争の将来をめぐって意見が分かれた。
+
+トランプ氏とゼレンスキー氏はこの日、双方の側近を交えて数時間にわたり会談。複数の関係者がＣＮＮに語ったところによると、協議は緊迫した率直な雰囲気で、「気まずい」空気が流れる場面もあったという。
+
+「直接的かつ率直な」会話の中で、トランプ氏はゼレンス...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239366.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-18T10:18:00+09:00</dc:date>
+        <title>英アンドルー王子、王室の称号を返上　一連のスキャンダル受け</title>
+        <link>https://www.cnn.co.jp/world/35239366.html?ref=rss</link>
+        <description>英アンドルー王子が、チャールズ国王と協議の上、ヨーク公を含む王室の称号を返上すると明らかにした。
+
+アンドルー王子はバッキンガム宮殿が発表した声明の中で、国王や近親者と話し合った結果、自身に対する非難が続いていることが、国王と王室の活動に悪影響を及ぼしているとの結論に至ったと述べた。
+
+王室関係者はＣＮＮに対し、この変更は即時発効すると説明した。
+
+アンドルー王子に対しては、性犯罪で起訴され勾留中に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239366.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/18/32aef027532d58c0543e27cdd9ac60b2/t/768/536/d/gettyimages-2211420317.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239367.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-18T10:04:00+09:00</dc:date>
+        <title>ゼレンスキー氏がトランプ氏との会談内容を説明、知っておくべきこと</title>
+        <link>https://www.cnn.co.jp/world/35239367.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は１７日、ホワイトハウスにおよそ２時間半滞在し、トランプ米大統領や米政権の複数の閣僚と会談した。
+
+会談後、ゼレンスキー氏は欧州の指導者にオンラインで報告を行い、続けて記者団の取材に応じた。
+
+ゼレンスキー氏の発言は以下の通り。
+
+会談の内容：ゼレンスキー氏はトランプ氏と「建設的」な会談を持ったと述べ、長距離兵器を含む幅広いトピックについて協議したことを明らかにした。た...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239367.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/18/b720cb854128c2433a6dfe14ce7b1d7b/t/768/517/d/gettyimages-2241689825.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239365.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-18T08:49:00+09:00</dc:date>
+        <title>韓国作家ペク・セヒさん死去、３５歳　ベストセラー「死にたいけどトッポッキは食べたい」の著者</title>
+        <link>https://www.cnn.co.jp/world/35239365.html?ref=rss</link>
+        <description>ベストセラーとなった回想録「死にたいけどトッポッキは食べたい」の著者として知られる韓国の作家、ペク・セヒさんが３５歳で亡くなったことが分かった。韓国臓器組織寄贈院が１６日、明らかにした。
+
+臓器組織寄贈院の発表では、ペクさんの死因について公表していない。
+
+ペクさんの著書は回想録と自己啓発の要素を融合させたもので、精神科医と交わした会話の内容を詳述している。死にたいという気持ちの一方で、好物だった...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239365.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/18/ecdcc62615a6ec7b524bc77bf8c47946/t/768/432/d/screenshot-2025-10-17-at-10-35-45.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35239362.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T19:31:00+09:00</dc:date>
+        <title>壁から正体不明のノックの音――廃虚と化した精神病院が米国で人気の心霊スポットに、その歴史をたどる</title>
+        <link>https://www.cnn.co.jp/travel/35239362.html?ref=rss</link>
+        <description>米国内の各地で最近、かつて精神病院だった建物が心霊スポットとして改めて整備され、観光客らの人気を集めている。１９世紀の建設当初は理想的な治療環境と注目された、立派な建物が多い。
+
+メリーランド州に住むＩＴ技術者のスティーブ・ロバーツさんは今年５月、隣のペンシルベニア州にある有名な心霊スポット「ペンハースト・アサイラム（精神病院）」で開催されたオカルト愛好家らのイベントに、娘を連れて参加した。ここ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35239362.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/17/5c8fa0113f009c6572f90a29b76329e2/t/768/512/d/mental_01.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35239363.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T19:28:00+09:00</dc:date>
+        <title>写真特集：心霊スポットとして人気を集める米国の旧精神病院内部</title>
+        <link>https://www.cnn.co.jp/photo/35239363.html?ref=rss</link>
+        <description>米国内の各地で心霊スポットとして観光客らの人気を集める精神病院跡地の内部を紹介する&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35239363.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/17/64505dcf9aa931be912fbdb38e4c3b17/t/768/512/d/metal_02.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35239354.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T17:59:00+09:00</dc:date>
+        <title>遊び心いっぱいで不完全、個性あふれるダイアン・キートンのスタイルをしのぶ</title>
+        <link>https://www.cnn.co.jp/style/fashion/35239354.html?ref=rss</link>
+        <description>オスカー女優ダイアン・キートンさんが７９歳で亡くなったというニュースが伝えられたことを受け、２０２２年のラルフ・ローレンのショーに登場したキートンさんの写真がＳＮＳに再浮上している。ランウェーといえば厳粛な雰囲気になりがちだが、キートンさんは楽しげだ。ワインを飲み、笑顔を見せ、音楽に合わせて頭を揺らし、通り過ぎるモデルたちに声援を送る。
+
+この瞬間は、キートンさんの中性的で仕立ての良いスタイルや...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35239354.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/17/79996aedbbe30462a3df78a8918c53d3/t/768/432/d/gettyimages-1243950391-20251013031352130.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35239308.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T16:59:00+09:00</dc:date>
+        <title>【分析】ＥＶから手を引くトランプ氏、最大の貿易ライバルへ大勝利献上する形に</title>
+        <link>https://www.cnn.co.jp/business/35239308.html?ref=rss</link>
+        <description>２年前、ホワイトハウスへの返り咲きを目指して出馬したドナルド・トランプ氏は、当時のバイデン大統領による電気自動車（ＥＶ）政策を嘲笑し、「過激な左派のファシスト、マルクス主義者及び共産主義者」が推進する「でっち上げ」だと一蹴した。
+
+「３年以内に、こうした車は全て中国で作られるようになるだろう」。当時トランプ氏は自身のＳＮＳトゥルース・ソーシャルにそう投稿した。
+
+今となってはこの最後の発言は、予測...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35239308.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/16/6560b902a7c1be3d5eb1686dd87564a6/t/768/568/d/gettyimages-2219832726-20251015191750700.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239351.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T16:47:00+09:00</dc:date>
+        <title>キアヌ・リーブス、駆け出し時代の幻の芸名明かす　選ばなくて正解？</title>
+        <link>https://www.cnn.co.jp/showbiz/35239351.html?ref=rss</link>
+        <description>映画「スピード」、主演は…チャック・スパダイナ？
+
+あり得ない？　確かに。だがそれは危うく実現するところだった。
+
+俳優のキアヌ・リーブスはこのほど、ジェイソンとトラビスのケルシー兄弟と共にポッドキャスト番組「ニューハイツ」の最新エピソードに出演。その中で、一歩間違えれば芸名が「チャック・スパダイナ」になっていたことを明かした。
+
+レバノンのベイルートで生まれ、カナダ・トロントで育った映画「マトリック...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239351.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/17/3b9b22c07c370a5d8c9d2643e01c1a2e/t/768/512/d/ballerina-premiere.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239357.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T15:30:00+09:00</dc:date>
+        <title>キム・カーダシアン、カニエ・ウェストとの破局理由を語る　２人の関係は「有害」</title>
+        <link>https://www.cnn.co.jp/showbiz/35239357.html?ref=rss</link>
+        <description>人気タレントのキム・カーダシアンが、ラップ歌手カニエ・ウェストとの結婚生活の破たんについて語った。２人の関係は時に「有害」になりうるものだったという。
+
+カーダシアンは１５日に公開されたポッドキャスト番組で、ウェストとの結婚生活は「不安定」で、不安を感じていたと明かした。２人の間には「対処したくないことがたくさんあった」という。
+
+「子どもたちの祖母やおばについて悪く言うのが嫌だった」「相手がそう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239357.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/17/7c3a38013cb7073d93604142c4b2af98/t/768/512/d/gettyimages-2202989958.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35239309.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T14:17:00+09:00</dc:date>
+        <title>頭上すれすれ、ジェット旅客機の轟音が響くカリブ海のビーチ　「マホビーチ」とは？</title>
+        <link>https://www.cnn.co.jp/travel/35239309.html?ref=rss</link>
+        <description>観光客がビーチに立ち並ぶ中、ボーイング７８７型機「ドリームライナー」が頭上３０メートル足らずの位置を降下していく。居合わせた人は両手を宙に上げ、写真撮影のポーズ。後日、撮影した写真が本物なのか尋ねられるかもしれない。
+
+カリブ海北東部のセントマーチン島にある「マホビーチ」は、航空マニアやスリルを求める人にとって楽園だ。島は小さく、地理的条件も独特なため、プリンセス・ジュリアナ国際空港の滑走路とビ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35239309.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/17/47d5e09940741aeeeaafc938b66283e5/t/768/451/d/shutterstock-editorial-13765550au__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239346.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T13:18:00+09:00</dc:date>
+        <title>米移民当局、不法移民の疑いで警察官を逮捕　米シカゴ</title>
+        <link>https://www.cnn.co.jp/usa/35239346.html?ref=rss</link>
+        <description>米イリノイ州シカゴ郊外のハノーバーパークで１６日、警察官がモンテネグロからの不法移民だったとして移民税関捜査局（ＩＣＥ）に逮捕された。
+
+米国土安全保障省によると、逮捕されたのはラドゥレ・ボヨビッチ警察官。２０１５年に観光ビザの期限が切れた後も超過滞在していたとされ、ＩＣＥがイリノイ州で行っている不法移民取り締まり作戦で検挙された。
+
+ハノーバーパーク警察は今年８月、ボヨビッチ警察官が警察学校を卒...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239346.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/17/a3d432b98eaf583e1380fb383de69283/t/768/512/d/537291952-1183972617104539-8307498056909410360-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35239348.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T12:19:00+09:00</dc:date>
+        <title>食品大手ネスレ　世界で１万６千人を削減、自動化推進　ＡＩを積極活用</title>
+        <link>https://www.cnn.co.jp/business/35239348.html?ref=rss</link>
+        <description>食品の世界最大手ネスレは１６日、今後２年の間に世界で全従業員のほぼ６％に相当する１万６０００人を削減すると発表した。業務の自動化などを通じてコストの削減を図る。
+
+ネスレの発表によると、対象者のうち約１万２０００人は事務系の専門職。プロセスの自動化や共有サービスの利用を通じ、「業務の効率化」を目指す。残る４０００人は製造やサプライチェーン部門が対象となる。
+
+フィリップ・ナブラティル新最高経営責任...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35239348.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/17/4fd05fc0daee442173d44fbd95f14def/t/768/512/d/gettyimages-1138996619.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239340.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T11:59:00+09:00</dc:date>
+        <title>歩道に残った「ネズミ形」の謎、真犯人がついに判明　米シカゴの観光名所、専門家が調査</title>
+        <link>https://www.cnn.co.jp/fringe/35239340.html?ref=rss</link>
+        <description>米シカゴ市内の歩道にくっきりと残ったネズミのような動物の形。「シカゴのネズミ穴」として一躍有名になり、観光名所にもなったこの形を残した「真犯人」が、専門家の調査でついに判明した。
+
+この歩道には、流し込まれたばかりのセメントに飛び込んだ動物の形がはっきり残っていた。しかしこれを残したのは、ネズミとは全く違う動物だった。
+
+ネズミ穴がいつできたのかは不明だが、２０～３０年前には既に存在していたらしい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239340.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/17/e8e061696300562afa51e1d013a03103/t/768/432/d/2wdc4b1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239341.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T11:35:00+09:00</dc:date>
+        <title>トランプ氏、ウクライナによるロシアのエネルギー施設攻撃支持に転換　アラスカ会談後の膠着受け</title>
+        <link>https://www.cnn.co.jp/usa/35239341.html?ref=rss</link>
+        <description>米国がウクライナに共有する情報を強化している。これにはロシア領内奥地の標的に関する情報も含まれる。この動きは、トランプ米大統領とロシアのプーチン大統領が今夏アラスカで行った首脳会談が和平合意に至らず事態が膠着（こうちゃく）したことを受け、戦略を転換したことの一環。米国とウクライナはこれによりロシアとの協議再開を期待している。事情に詳しい２人の関係筋が明らかにした。
+
+ウクライナのゼレンスキー大統...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239341.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/17/f04ab33375255e783c79bb606bfaa834/t/768/512/d/gettyimages-2229445836-20250815193242714.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239339.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T11:03:00+09:00</dc:date>
+        <title>米俳優ダイアン・キートンさん、死因は肺炎　自宅から救急搬送</title>
+        <link>https://www.cnn.co.jp/showbiz/35239339.html?ref=rss</link>
+        <description>１１日に死去した米俳優ダイアン・キートンさんの死因が肺炎だったことが、ＣＮＮが入手した死亡診断書で明らかになった。
+
+死因について死亡診断書には「原発性細菌性肺炎」と記載されている。それ以外、死につながるような重い症状の記載はない。
+
+死亡診断書によると、キートンさんは火葬された。検視は行われていない。
+
+ロサンゼルス市消防局によると、１１日午前、キートンさんの自宅住所に救急車の出動要請があり、患者...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239339.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/17/be714182a81ad689c4993a59b629f7f4/t/768/520/d/gettyimages-1653678332-20251016180335681.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239337.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-17T10:44:00+09:00</dc:date>
+        <title>トランプ氏、プーチン氏との会談は「２週間以内あたり」</title>
+        <link>https://www.cnn.co.jp/usa/35239337.html?ref=rss</link>
+        <description>トランプ米大統領は１６日、ロシアのプーチン大統領と「2週間以内あたり」に会談すると述べた。また、来週にはルビオ米国務長官がロシアのラブロフ外相と会談する予定であることも明らかにした。
+
+トランプ氏は「2週間以内あたり、かなり早いと言えるだろう。ルビオ氏はラブロフ氏とすぐに会談を行う予定だ。日時と場所はただちに調整されるし、もう決まっているかもしれない。すでに話し合っている」と述べた。
+
+トランプ氏は...</description>
+    </item>
+</rdf:RDF>
