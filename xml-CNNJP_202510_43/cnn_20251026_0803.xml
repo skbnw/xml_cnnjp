@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-10-26T17:01:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239664.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239661.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239663.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239662.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239660.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239659.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239658.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239657.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239656.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239655.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239650.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239649.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239647.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239648.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239645.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239646.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35239637.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239643.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239644.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239641.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239640.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239635.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35239636.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239632.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239631.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239622.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35239625.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239608.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239621.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239609.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239664.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T17:01:00+09:00</dc:date>
+        <title>大学で発砲、７人死傷　米ペンシルベニア州</title>
+        <link>https://www.cnn.co.jp/usa/35239664.html?ref=rss</link>
+        <description>米ペンシルベニア州にある歴史的黒人大学のリンカーン大学で２５日夜、同窓会行事「ホームカミング」が行われるなか銃撃があり、少なくとも１人が死亡し、６人がけがをした。地元当局が明らかにした。
+
+チェスター郡の地方検事は２６日未明の記者会見で、大学の国際文化センターの外で７人が銃撃されたと明らかにした。１人が死亡し、６人が銃撃を受けたという。負傷者の容体については明らかにしていない。
+
+当局によると、現...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239664.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/899c5cc7ff24e6b8c6e7ccc5de98a288/t/768/432/d/still-22063222-195689-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239661.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T16:39:00+09:00</dc:date>
+        <title>ジェット推進爆弾に飛行機を改造したミサイル、ロシアとウクライナが即興と革新で知恵比べ</title>
+        <link>https://www.cnn.co.jp/world/35239661.html?ref=rss</link>
+        <description>ロシアとウクライナの軍隊は陸海空で互いを出し抜こう取り組んでおり、そこでは即興と革新が合言葉となっている。
+
+最近の事例は、戦術と兵器の絶え間ない進化を如実に示している。そこには、ロシアの新型ジェット推進爆弾や、ウクライナによる長距離の「自爆爆弾」としての軽飛行機の使用、新たな海上無人機が含まれる。
+
+両国は人工知能（ＡＩ）やロボット工学、無人システムの活用を急速に進めている。
+
+だが、一部の技術革...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239661.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/7e2407a04792e6239d14cb0b2b38aca8/t/768/511/d/gettyimages-2242592030.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239663.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T16:15:00+09:00</dc:date>
+        <title>ウクライナ首都に連夜の攻撃、３人死亡　ゼレンスキー氏はパトリオットの供与を要請</title>
+        <link>https://www.cnn.co.jp/world/35239663.html?ref=rss</link>
+        <description>ウクライナの首都キーウで２６日未明、ロシア軍の空爆を受けて住宅高層ビルが破壊され、少なくとも３人が死亡した。ウクライナ当局が明らかにした。死者が出た攻撃は２４時間以内で２度目。これより前、ウクライナのゼレンスキー大統領は、地対空ミサイル「パトリオット」の追加供与を改めて求めていた。
+
+キーウのクリチコ市長はＳＮＳで「負傷者はすでに２９人に上っており、そのうち６人は子どもだ。最年少は４歳」と明らか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239663.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/f74d5d074688fe0695f9c10ccb4fd6ef/t/768/511/d/resized_ukraine_image.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239662.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T15:21:00+09:00</dc:date>
+        <title>トランプ氏がアジア歴訪開始、タイ・カンボジア和平調印式に参加</title>
+        <link>https://www.cnn.co.jp/usa/35239662.html?ref=rss</link>
+        <description>トランプ米大統領は２６日、アジア歴訪の最初の訪問地マレーシアに到着し、東南アジア諸国連合（ＡＳＥＡＮ）首脳会議の場でタイとカンボジアの和平合意調印式に参加した。
+
+
+  
+    
+       
+    
+    
+    (POOL)
+  
+
+
+
+カンボジアのフン・マネット首相とタイのアヌティン首相は、トランプ氏やマレーシアのアンワル首相と共に壇上で式典に臨み、和平合意に署名した。背後には米国の国章や「平和を実現する」との文言が掲げら...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239660.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T14:22:00+09:00</dc:date>
+        <title>中国最新空母「福建」、艦載機運用能力は５０年前の米空母に及ばず　元米軍将校が指摘</title>
+        <link>https://www.cnn.co.jp/world/35239660.html?ref=rss</link>
+        <description>中国の最新空母「福建」について、５０年前の米海軍空母の約６割のペースでしか航空作戦を行えない可能性があることが分かった。空母での勤務経験を持つ元米軍将校２人が明らかにした。福建は中国海軍に革新を起こす艦艇となることが想定されているが、実戦面で大きな制約を抱えている。
+
+福建は近く就役すると予想されている。元将校２人がＣＮＮに語ったところによると、飛行甲板の配置が原因で艦載機の発着ペースが制限され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239660.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/94a8d3eeefb1919ba86dafed3a5f4cb9/t/768/432/d/20251014-deck-us-china.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239659.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T13:12:00+09:00</dc:date>
+        <title>米大リーグＷＳ、ドジャースが１勝１敗に　山本由伸がＰＳ２試合連続の完投</title>
+        <link>https://www.cnn.co.jp/showbiz/35239659.html?ref=rss</link>
+        <description>米大リーグのワールドシリーズ第２戦は２５日夜、トロントのロジャースセンターで行われ、ロサンゼルス・ドジャース（ナショナル・リーグ）がトロント・ブルージェイズ（アメリカン・リーグ）に５―１で勝利し、対戦成績を１勝１敗のタイとした。
+
+ドジャース先発の山本由伸が再び完投。四回以降は走者を１人も許さず、ドジャースを勝利に導いた。山本はポストシーズン（ＰＳ）２試合連続の完投勝利を収めた。
+
+山本は８奪三振、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239659.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/40dfed5008fde9fb9e3eb691a46c3c07/t/768/511/d/large-ap25299064301174.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239658.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T11:55:00+09:00</dc:date>
+        <title>トランプ米大統領、高市首相と電話会談　「非常に良かった」</title>
+        <link>https://www.cnn.co.jp/usa/35239658.html?ref=rss</link>
+        <description>トランプ米大統領は２５日、新たに首相に選出された高市早苗氏と「非常に良い」電話会談を行ったと明らかにした。「とても友好的だ」とし、アジア訪問中に会談するのを楽しみにしていると述べた。
+
+「彼女は素晴らしく、美しい。間もなく会う予定だ。とても友好的だ」と、トランプ氏は大統領専用機エアフォースワンの機内で記者団に語った。
+
+トランプ氏はさらに、高市氏が２０２２年に暗殺された安倍晋三元首相の「非常に親し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239658.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/bf8ba19a73e84957480330794e72d5b7/t/768/512/d/large-gettyimages-2242009097.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239657.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T10:43:00+09:00</dc:date>
+        <title>ハリス前副大統領、米大統領選への出馬を示唆　「まだ終わっていない」</title>
+        <link>https://www.cnn.co.jp/usa/35239657.html?ref=rss</link>
+        <description>米民主党のカマラ・ハリス前副大統領は、米大統領選への再出馬の可能性を示唆し、「もしかしたら」いつか自身が大統領になるかもしれないと述べた。また、将来、米国で女性が大統領職に就くことになるのを確信していると語った。英ＢＢＣとのインタビューで述べた。
+
+ハリス氏は、２０２４年の大統領選で現在大統領を務めるドナルド・トランプ氏に敗れていた。今回の発言は、２８年の選挙で再挑戦する可能性について、これまで...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239657.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/4f612144522e4beee6ee73ccc357b565/t/768/522/d/large-gettyimages-2238207187.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239656.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T10:18:00+09:00</dc:date>
+        <title>古代ローマ遺跡「パンテオン」の壁から転落、日本人観光客が死亡</title>
+        <link>https://www.cnn.co.jp/world/35239656.html?ref=rss</link>
+        <description>イタリアの首都ローマの古代遺跡「パンテオン」で２４日夜遅く、日本人観光客の男性が遺跡を取り囲む壁から転落して死亡した。地元警察がＣＮＮに明らかにした。
+
+日本大使館によると、男性はヒビノ・モリマサさん（６９）。遺跡の脇、道路から約７メートル下の位置にある溝に落ちているのを聖職者が発見し、当局に通報した。
+
+古代ローマの街は現在の道路面より約７メートル低い位置に広がっていたため、パンテオンのような古...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239656.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/328be206faba514c51bb5a2a99e8b7b4/t/768/511/d/shutterstock-editorial-15603150a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239655.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T09:08:00+09:00</dc:date>
+        <title>トランプ氏、カナダに１０％の追加関税を表明　レーガン元大統領のＣＭめぐり</title>
+        <link>https://www.cnn.co.jp/usa/35239655.html?ref=rss</link>
+        <description>トランプ米大統領は２５日、カナダへの関税を現行水準からさらに１０％引き上げると発表した。今回の動きは、１９８７年のレーガン元米大統領の反関税の演説の一部を使用した「虚偽」の広告をめぐる貿易摩擦を激化させるものだ。
+
+トランプ氏はＳＮＳ「トゥルース・ソーシャル」に「カナダはロナルド・レーガン大統領の関税演説を引用した虚偽の広告を掲載したことで現行犯逮捕された」と投稿し、「カナダによる事実の重大な虚...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239655.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/ccc437ba468da599b9fb1ea8874f1e33/t/768/512/d/thumbnail-us-canada-flags.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239650.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T18:11:00+09:00</dc:date>
+        <title>カリブ海に派遣の空母「ジェラルド・フォード」、その戦力は？　米海軍の「最強戦闘プラットフォーム」</title>
+        <link>https://www.cnn.co.jp/usa/35239650.html?ref=rss</link>
+        <description>米海軍が「世界で最も高性能で適応力が高く、強力な戦闘プラットフォーム」と称する空母「ジェラルド・フォード」が、カリブ海へ派遣される。トランプ米政権が麻薬密輸疑惑を理由にベネズエラへの軍事的圧力を強める中での派遣となる。
+
+以下ではジェラルド・フォードや、カリブ海での米国の作戦に加わる戦力について概観する。
+
+ジェラルド・フォードは排水量１０万トン以上、全長約３３４メートルを誇り、米国がこれまで就役...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239650.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/c2ee98e6e9a7fdc3527d4fe0ed9d018b/t/768/547/d/gettyimages-2242705715-20251025043556514.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239649.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T17:26:00+09:00</dc:date>
+        <title>欧州の「有志連合」、ロシアへの経済圧力強化誓う　「ウクライナの未来は我々の未来」</title>
+        <link>https://www.cnn.co.jp/world/35239649.html?ref=rss</link>
+        <description>欧州各国の首脳は２４日、ウクライナでの戦争終結に向けた戦略を協議するため英ロンドンで会合を開き、いわゆる「有志連合」がロシアへの圧力強化に向け連携していくことを約束した。
+
+トランプ米大統領が、ロシアの２大石油企業であるロスネフチとルクオイルを標的とした新たな制裁措置を発表したことを受け、欧州首脳らはより多くの国に対し、ロシアの石油会社に対する制裁措置の実施を求めた。
+
+トランプ氏の措置に続き、欧...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239649.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/938f772f93e583849b712ec27500506d/t/768/512/d/gettyimages-2242660244.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239647.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T16:30:00+09:00</dc:date>
+        <title>ハンガリー首相、１週間で状況暗転　米ロ首脳会談中止と対ロ制裁が直撃</title>
+        <link>https://www.cnn.co.jp/world/35239647.html?ref=rss</link>
+        <description>ハンガリーのオルバン首相は先週、ロシアと米国がウクライナでの戦争終結に向けた新たな首脳会談の開催地としてハンガリーのブダペストを選んだことを知り歓喜した。
+
+欧州連合（ＥＵ）と北大西洋条約機構（ＮＡＴＯ）の加盟国であるハンガリーを、ロシアのプーチン大統領とトランプ米大統領双方の同盟国と位置づけるオルバン氏は、「平和への道はブダペストを通る」ことを世界に示したいと願っていた。
+
+しかし、トランプ政権...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239647.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/543a96e6751006b17792eb9d59e9cf92/t/768/510/d/gettyimages-2242504027.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239648.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T15:53:00+09:00</dc:date>
+        <title>ナポレオン軍壊滅のロシア遠征、複数の病原菌が絡んでいた公算大　ＤＮＡから判明</title>
+        <link>https://www.cnn.co.jp/fringe/35239648.html?ref=rss</link>
+        <description>フランスの皇帝ナポレオンは治世末期の１８１２年、５０万人を超える兵士を率いてロシアに侵攻した。半年後、ナポレオン軍は退却を余儀なくされる。フランスへ帰国できた兵士は推定数万人だった――。
+
+歴史上、最悪規模の犠牲者を出したことで知られるロシア遠征。何十万人もの兵士が死亡した原因は戦闘に加え、飢餓や寒さ、発疹チフスの流行にあると考えられてきた。
+
+しかし今回、研究チームは兵士の遺骨のＤＮＡから、これま...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239648.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/07daf49396c984108d3d5dfc6630c3f7/t/768/511/d/gettyimages-587490972.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239645.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T13:35:00+09:00</dc:date>
+        <title>「ロンドン地下鉄の蚊」の起源、通説より大幅に古い可能性　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35239645.html?ref=rss</link>
+        <description>英ロンドンの地下鉄で進化したと従来考えられていた蚊の一種は、実際のところそれよりもはるか昔、地中海地方を起源とすることが分かった。新たな遺伝子研究で明らかになった。
+
+この蚊にまつわる通説は第２次世界大戦中、地下鉄駅でドイツ軍機の爆撃から身を守ったロンドン市民が、蚊に刺されることに悩まされたという逸話に端を発する。この害虫は地下トンネルに非常によく適応していたため、その後数十年にわたり、生物学者...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239645.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/2405ef8003f4f3b4ab224baef11f05e4/t/768/432/d/2ew5bxn.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239646.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T12:40:00+09:00</dc:date>
+        <title>中国籍のフェンタニル密輸組織大物、メキシコが米国に引き渡し　自宅軟禁から逃走も再拘束</title>
+        <link>https://www.cnn.co.jp/world/35239646.html?ref=rss</link>
+        <description>メキシコが合成麻薬「フェンタニル」の密輸への関与が疑われる中国籍の男を米国に引き渡したことが分かった。男はマネーロンダリング（資金洗浄）と麻薬密輸の疑いで、米国で指名手配されている。
+
+ＣＮＮエスパニョールによると、張志東容疑者は法廷文書で、コカイン１０００キロ超とフェンタニル１８００キロの輸出、輸送、流通に関与したほか、１億５０００万ドル（現在のレートで約２２０億円）を超える違法な利益を洗浄し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239646.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/3e1bdc1074d11e9aa3b0ca0763103873/t/768/549/d/gettyimages-1567647432.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35239637.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T12:00:00+09:00</dc:date>
+        <title>モハベ砂漠で宇宙人を探す旅――ＵＦＯ目撃証言からエイリアン像まで　「真実はそこにある」</title>
+        <link>https://www.cnn.co.jp/travel/35239637.html?ref=rss</link>
+        <description>初めて見た地球外生命体は、上空からやって来た。
+
+場所は米ネバダ州のモハベ砂漠の真ん中に位置する町レイチェル。雲が多い日の午後だった。フォンテラ・デイさんが勤務するガソリンスタンド「エイリアン・カウポーク」で、電話とコンピューターが数時間にわたってつながらなくなった。
+
+シフト勤務を終えたデイさんが帰宅しようと外へ出た時だった。空飛ぶ円盤そっくりの形をした雲が、空に浮かんでいるのが見えた。
+
+心臓の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35239637.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/24/9259d6e91338c764627fee8ac772a5a3/t/768/432/d/gettyimages-1167948060.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239643.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T11:05:00+09:00</dc:date>
+        <title>米国、コロンビア大統領に制裁</title>
+        <link>https://www.cnn.co.jp/world/35239643.html?ref=rss</link>
+        <description>米財務省は２４日、コロンビアのペトロ大統領に対し制裁を科すと発表した。ペトロ氏が「世界的な違法薬物取引に関与した」としている。同氏の妻と息子、そしてコロンビアの内相も制裁対象となっている。
+
+ベッセント米財務長官は声明で、「グスタボ・ペトロ大統領の就任以来、コロンビアのコカイン生産量は数十年ぶりの高水準にまで急増した。それらは米国に流入し、米国民を中毒に陥れている」と述べた。
+
+これまでこうした告...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239643.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/425de923a6ca9b3d027fbde535d062c9/t/768/512/d/colombia-politics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239644.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T10:48:00+09:00</dc:date>
+        <title>ロシア特使ドミトリエフ氏が訪米、「公式協議」へ　トランプ政権による制裁から数日後</title>
+        <link>https://www.cnn.co.jp/world/35239644.html?ref=rss</link>
+        <description>ロシアの経済特使を務めるキリル・ドミトリエフ氏が、「公式」協議に臨むため米国入りしたことが分かった。事情に詳しい複数の情報筋が２４日、ＣＮＮに独占的に明らかにした。トランプ米大統領は数日前、新たな厳しい対ロシア制裁を発表したばかり。
+
+ドミトリエフ氏はロシアの政府系ファンド「ロシア直接投資基金（ＲＤＩＦ）」の総裁で、クレムリン（ロシア大統領府）の特使でもある。情報筋によると、「米ロ関係に関する協...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239644.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/152f1b3be73e1c7a6c0e32941aa88f1d/t/768/511/d/gettyimages-2229491029.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239641.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T09:55:00+09:00</dc:date>
+        <title>トランプ氏、ベネズエラ国内のコカイン施設狙う計画を検討中　米当局者</title>
+        <link>https://www.cnn.co.jp/usa/35239641.html?ref=rss</link>
+        <description>米国のトランプ大統領は、ベネズエラ国内にあるコカイン施設と麻薬密売ルートを標的とする計画を検討している。ただそれを実行に移すかどうかはまだ決定していない。米当局者３人がＣＮＮに語った。
+
+２４日には、軍事的緊張の高まりを示す兆候が表向きにも明らかになった。ヘグセス米国防長官は、現在欧州に駐留している海軍最新鋭の空母打撃群をカリブ海地域に派遣するよう命じた。同地域では米軍が大規模に増強されている。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239641.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/0eb53a184dda821063d1463e97c7f52a/t/768/512/d/231103133248-01-uss-ford-101423-file.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239640.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T09:19:00+09:00</dc:date>
+        <title>１２歳少女をレイプ・拷問のうえ殺害、２７歳女に仮釈放なしの無期刑　フランス</title>
+        <link>https://www.cnn.co.jp/world/35239640.html?ref=rss</link>
+        <description>フランスの首都パリで３年前に少女（１２）をレイプ、拷問して殺害した罪に問われていた女が２４日、仮釈放なしの無期刑を言い渡されたことが分かった。ＣＮＮ提携局ＢＦＭＴＶが伝えた。
+
+ＢＦＭＴＶによると、アルジェリア出身のダビア・ベンキレッド被告（２７）は少なくとも３０年間を刑務所で過ごす必要がある。これはフランスの刑法上最も重い刑で、女性被告に言い渡されたのは初めてだという。
+
+被害者の少女ローラ・ダ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239640.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/a67b03b20505271ae12d944529247c46/t/768/511/d/c-2022-11-16t173211z-832335671-mt1hnslcs0005lcigf-rtrmadp-3-hans-lucas.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239635.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-24T17:14:00+09:00</dc:date>
+        <title>トランプ氏、カナダとの貿易交渉打ち切りを表明　反関税の広告理由に</title>
+        <link>https://www.cnn.co.jp/usa/35239635.html?ref=rss</link>
+        <description>トランプ米大統領は２３日、カナダとの貿易交渉を打ち切ると発表した。これにより北米の隣国同士であり、経済パートナーでもある両国の関係は新たな危機に陥った。
+
+トランプ氏は、カナダのオンタリオ州政府が先週公開した広告への対応として、交渉を打ち切ったと述べた。この広告には、ロナルド・レーガン元米大統領による外国製品への関税を批判する演説の音声が使用されていた。
+
+１９８７年の当該の演説で、レーガン元大統...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239635.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/24/7056a984db03e985c3314e244e423c5b/t/768/512/d/c-ap25296735785780.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35239636.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-24T16:55:00+09:00</dc:date>
+        <title>変化する美術館強盗　ルーブルの事件で深刻化が懸念される理由</title>
+        <link>https://www.cnn.co.jp/style/luxury/35239636.html?ref=rss</link>
+        <description>パリのルーブル美術館が開館して３０分後、すでに数百人の来館者を迎え入れていたころ、黄色の作業ベストを着た強盗犯らがトラックのはしごを使い、仏王家の宝飾品を展示した２階の「アポロン・ギャラリー」のバルコニーに上った。
+
+金属加工用の電動工具で窓をこじ開け、わずか４分で室内に入ると、ナポレオン時代の宝飾品を展示した二つのケースを切断し、９点を奪って再びはしご伝いに逃げた。
+
+この事件は映画のような筋書...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35239636.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/24/0f4782ed73494546315f9fe5e9f9b9df/t/768/511/d/gettyimages-2241979234.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239632.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-24T16:44:00+09:00</dc:date>
+        <title>ヒトの歯を培養する研究、実用化に向け前進</title>
+        <link>https://www.cnn.co.jp/fringe/35239632.html?ref=rss</link>
+        <description>英キングス・カレッジ・ロンドンの再生歯科大学院課程の責任者アナ・アンゲロバ・バルポーニ氏は、約２０年にわたり研究室で歯を培養する実験に取り組んでいる。同氏は２０１３年にヒトとマウスの細胞を使った歯の培養に成功したチームの一員だった。
+
+今年、その成果を基にバルポーニ氏が進めた研究で、研究室で培養中の歯を埋め込む素材に関して飛躍的な進歩があった。この素材は、口腔（こうくう）内で生物学的な歯が実際に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239632.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/24/264d72d8c421c15d32db610ae5fed692/t/768/576/d/image-7-20251023100056050.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239631.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-24T15:12:00+09:00</dc:date>
+        <title>トランプ氏、仮想通貨取引バイナンスの創業者に恩赦</title>
+        <link>https://www.cnn.co.jp/usa/35239631.html?ref=rss</link>
+        <description>トランプ米大統領は、２０２３年にマネーロンダリング（資金洗浄）の罪で有罪を認めた暗号資産（仮想通貨）交換業最大手バイナンス創業者の趙長鵬（チャンポン・ジャオ）氏に恩赦を与えた。ホワイトハウスが２３日に発表した。
+
+ホワイトハウスのレビット報道官は声明で、トランプ氏は「憲法上の権限を行使し、バイデン（前）政権による仮想通貨戦争で訴追された趙氏に恩赦を与えた」と述べた。この措置により、バイナンスは米...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239631.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/24/7c06e532fd726261e78395dd3ebac0f7/t/768/512/d/gettyimages-2210817169.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239622.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-24T13:28:00+09:00</dc:date>
+        <title>米ホワイトハウス東棟、完全に解体　宴会場の建設進む</title>
+        <link>https://www.cnn.co.jp/usa/35239622.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領が推し進める宴会場の新設プロジェクトに伴い、ホワイトハウスの東棟が完全に解体された。現場からの写真や映像は、この計画が歴史的建造物にどれほど大きな影響を与えているかを物語る。
+
+２３日午前に撮影された衛星画像には、ホワイトハウスの東棟が完全に解体された様子が映っている。伝統的に大統領夫人の執務室として使われてきた建物の跡地周辺には、がれきが山積みになっていた。
+
+玄関...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239622.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/24/03c6432409007e9d838675ea905493a2/t/768/513/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWgzdG1kbWYwMDBqMjZxbmh3MGY2ajZ3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaDN0bWRtZzAwMHkyNnFuYzV3b2hpZXo_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35239625.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-24T12:56:00+09:00</dc:date>
+        <title>写真特集：米ホワイトハウス東棟、解体の様子を見る</title>
+        <link>https://www.cnn.co.jp/photo/35239625.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領が推し進める宴会場の新設プロジェクトに伴い、ホワイトハウスの東棟が完全に解体された。歴史的な建造物の解体の模様を写真で振り返る&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35239625.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/24/03c6432409007e9d838675ea905493a2/t/768/513/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWgzdG1kbWYwMDBqMjZxbmh3MGY2ajZ3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaDN0bWRtZzAwMHkyNnFuYzV3b2hpZXo_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239608.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-24T11:55:00+09:00</dc:date>
+        <title>ゴリラのダンスやライオンの高笑い、「コメディー野生動物写真賞」選考通過作品発表</title>
+        <link>https://www.cnn.co.jp/fringe/35239608.html?ref=rss</link>
+        <description>ゴリラのダンスやライオンたちの高笑い、カエルの居眠り、風に吹き飛ばされた草を顔面に浴びたカツオドリ――。そんな野生生物のユニークな姿をとらえた作品が、今年のニコン・コメディー野生動物写真賞の最終選考を通過した。
+
+選ばれたのは写真４０点とポートフォリオ部門の３点、および動画部門の１０点。どれも見る人を笑顔にさせる作品がそろっている。
+
+主催者によると、１０年目になる今年は世界１０８カ国から１万点以上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239608.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/24/9e1ed7fe01612b8976bf303cdf5745af/t/768/511/d/mark-meth-cohn-high-five.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239621.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-24T11:39:00+09:00</dc:date>
+        <title>グランドマスターの急死、いじめや嫌がらせの疑いで元チャンピオンを調査　チェス団体発表</title>
+        <link>https://www.cnn.co.jp/showbiz/35239621.html?ref=rss</link>
+        <description>チェスのグランドマスターだったダニエル・ナロディツキーさんが２９歳で急死した経緯をめぐり、国際チェス連盟（ＦＩＤＥ）は、元世界チャンピオンのウラジーミル・クラムニクさんがいじめや嫌がらせの疑いで調査を受けていると発表した。
+
+ナロディツキーさんは米サンフランシスコ出身。２０日にノースカロライナ州シャーロットのチェス団体を通じて死亡が伝えられた。死因は発表されていない。
+
+クラムニクさんは２０００～...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239621.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/24/78dba6a027b09437fce5140e69d0ae08/t/768/510/d/ap19157453382483.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239609.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-24T10:42:00+09:00</dc:date>
+        <title>リトアニア大統領、ロシア戦闘機の自国領空侵犯を発表</title>
+        <link>https://www.cnn.co.jp/world/35239609.html?ref=rss</link>
+        <description>ロシアの複数の戦闘機が２３日夜、北大西洋条約機構（ＮＡＴＯ）加盟国であるリトアニアの領空を侵犯した。リトアニアのナウセーダ大統領がＸ（旧ツイッター）で明らかにした。
+
+ナウセーダ氏は、この戦闘機兼輸送機についてロシアの飛び地、カリーニングラードから飛来したと主張。動画の中で「これは国際法とリトアニアの領土主権に対する甚だしい侵害であり、我々はこれに対応しなければならない」と述べた。
+
+ロシアは、こ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239609.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/24/963fb0dc8e1d6fc3d111169aeadfd8e4/t/768/512/d/gettyimages-2242394110.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
