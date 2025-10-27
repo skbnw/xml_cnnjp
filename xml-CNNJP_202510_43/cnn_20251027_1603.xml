@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-10-27T18:18:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35239638.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35239639.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239706.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239703.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239696.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239702.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239699.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35239691.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239686.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239683.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35239681.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239674.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239673.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35239670.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239665.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239664.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239661.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239663.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239662.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239660.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239659.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239658.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239657.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239656.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239655.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239650.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239649.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239647.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239648.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239645.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/travel/35239638.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T18:18:00+09:00</dc:date>
+        <title>トルコ式風呂「ハマム」、その中で本当に起きていることとは？　</title>
+        <link>https://www.cnn.co.jp/travel/35239638.html?ref=rss</link>
+        <description>ハマムの温かい抱擁に包まれると、周囲の音はくぐもって聞こえる。頭上にそびえる大型ドームのオキュリ（「目」の意味）から柔らかな光が差し込み、大理石の表面のあちこちに模様を描き出す。流れる水や静かに滴る蛇口の音が、まるで子守唄のように意識の端に届く。
+
+蒸気が立ち込め、ほとんど神秘的な雰囲気さえ帯びるトルコ式風呂では、世界が静止する。
+
+ハマムに行くのは、自宅の浴室内にいるのとは全く異なる体験だ。セラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35239638.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/23bfb85961f6579aacea4232b6376d26/t/768/511/d/turkishbath.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35239639.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T18:14:00+09:00</dc:date>
+        <title>写真特集：トルコ式風呂「ハマム」の内側</title>
+        <link>https://www.cnn.co.jp/photo/35239639.html?ref=rss</link>
+        <description>蒸気が立ち込め、ほとんど神秘的な雰囲気さえ帯びるトルコ式風呂（ハマム）。静ひつでありながら、社交の場としても役割も持つハマムを写真で見ていく&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35239639.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/8689338b3b3ee7ee71a23d7e29a4fe5e/t/768/432/d/gettyimages-2183952709__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239706.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T17:50:00+09:00</dc:date>
+        <title>トランプ氏が来日、大統領専用機が羽田に到着</title>
+        <link>https://www.cnn.co.jp/usa/35239706.html?ref=rss</link>
+        <description>トランプ米大統領がアジア歴訪の第二の訪問地となる日本に到着した。
+
+大統領専用機エアフォースワンは午後５時に羽田空港に着陸した。
+
+東京では、日本初の女性首相となった高市早苗氏と会談する予定。高市氏は、故安倍晋三元首相の「後継者」で、強硬な保守派として知られている。
+
+トランプ氏は、米国への５５００億ドル（約８４兆円）規模の投資を約束した日本の関与を強調するとみられる。天皇陛下との会見や在日米軍の視...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239706.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/27/8083bbb499567c8eee6ccb120ab14a1c/t/768/511/d/large-gettyimages-2243239434.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239703.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T17:25:00+09:00</dc:date>
+        <title>トランプ氏、プーチン氏に苦言　「ミサイル試験より停戦すべき」</title>
+        <link>https://www.cnn.co.jp/usa/35239703.html?ref=rss</link>
+        <description>トランプ米大統領は２７日、ロシアの原子力推進式ミサイルの発射試験をめぐる報道を一蹴し、米国もロシア近海に原子力潜水艦を配備していると述べた。
+
+ロシアのプーチン大統領は２６日、原子力推進式巡航ミサイル「ブレベスニク」の実験に成功し、配備に取り組むと発表した。ロシア当局は、ミサイルの飛行時間が約１５時間、飛行距離は８７００マイル（約１万４０００キロ）に上ったと主張している。
+
+アジア歴訪中のトランプ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239696.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T16:58:00+09:00</dc:date>
+        <title>高市首相、就任直後にして最大の試練　トランプ氏との初会談は重大な試金石</title>
+        <link>https://www.cnn.co.jp/world/35239696.html?ref=rss</link>
+        <description>高市早苗首相は昨年１１月、トランプ米大統領との面会に招かれたと明かした。
+
+Ｘ（旧ツイッター）の投稿によれば、トランプ氏が大統領選で勝利した直後、高市氏はトランプ氏に近い複数の人物からワシントン訪問を勧められた。
+
+しかし、次期大統領と最初に面会する議員は石破茂首相（当時）であるべきだとして誘いを断ったという。
+
+このとき高市氏は、いつか堂々とトランプ氏と会える立場に就けるよう努力すると決意をつづっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239696.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/27/070d452b55f88ff3996036bb7fe6c0bf/t/768/608/d/sipausa-64964094.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239702.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T16:11:00+09:00</dc:date>
+        <title>９歳の少女が母親とのドライブ中に失踪、母親が捜索に「非協力的」と警察　米</title>
+        <link>https://www.cnn.co.jp/usa/35239702.html?ref=rss</link>
+        <description>米カリフォルニア州の学校関係者から９歳の少女が数カ月にわたり行方不明との通報を受け、当局が捜査を進めている。
+
+通報を受けた当局がサンタバーバラ郡ロンポクにあるメロディー・バザードさんの自宅に駆け付けたところ、母親のアシュリーさんは在宅していたもののメロディーさんの姿は見当たらなかった。
+
+当局は現在、母親がメロディーさんを乗せ、レンタカーでカリフォルニア州からネブラスカ州まで運転した理由と、メロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239702.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/27/d330d57fd2760dc4fc5e573cb55a4813/t/339/432/d/570166763-12220639345404748.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239699.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T15:02:00+09:00</dc:date>
+        <title>レディオヘッドのトム・ヨーク、イスラエル公演は「絶対にない」</title>
+        <link>https://www.cnn.co.jp/showbiz/35239699.html?ref=rss</link>
+        <description>英ロックバンド、レディオヘッドのボーカル、トム・ヨークは、２０１７年に同バンドがイスラエル・テルアビブで公演したことで批判されたことを受けて、今後はイスラエルで公演しない考えを明らかにした。
+
+イスラエルとイスラム組織ハマスとの間で停戦合意が成立する前に行われた英紙サンデー・タイムズのインタビューで、ヨークは、イスラエルで公演を行うことは「絶対にない」と述べた。
+
+ヨークは、「（イスラエルの）ネタ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239699.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/27/1ae25058d8b2c397f057085c907ec162/t/768/510/d/large-shutterstock-editorial-14383733l.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35239691.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T12:55:00+09:00</dc:date>
+        <title>小さな不具合が引き起こした大規模インターネット障害、ＡＷＳの事案から学ぶ教訓</title>
+        <link>https://www.cnn.co.jp/tech/35239691.html?ref=rss</link>
+        <description>世界中で大手企業のアプリやサービスをダウンさせた米アマゾンのクラウド事業「アマゾン・ウェブ・サービス（ＡＷＳ）」の障害は、全てが小さな不具合から始まった――。アマゾンがそんな調査結果を発表した。
+
+大規模障害が発生したのは今月２０日。アマゾンが２３日に発表した事後調査結果によると、原因は二つの自動化されたシステムが、同時に同じデータの更新を試みたことだった。これが発端となって重大な問題に発展し、ア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35239691.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/27/92acd66b22cfc0e359b11a47d7be3108/t/768/511/d/large-gettyimages-2166701641.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239686.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T11:39:00+09:00</dc:date>
+        <title>ＮＹジェッツで活躍したニック・マンゴールドさん死去、４１歳　腎臓病の合併症で</title>
+        <link>https://www.cnn.co.jp/showbiz/35239686.html?ref=rss</link>
+        <description>米プロフットボールＮＦＬのニューヨーク・ジェッツで活躍した元スター選手、ニック・マンゴールドさんが腎臓病の合併症のため死去した。４１歳だった。チームが２６日に発表した。
+
+マンゴールドさんは長年にわたり慢性腎臓病を患っており、透析治療も受けていた。１９年間の闘病の末、２５日夜に亡くなった。
+
+ジェッツのウッディ・ジョンソン会長は声明で「ニックは伝説的なセンター以上の存在だった。１０年間にわたってチ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239686.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/27/b6c59eab55731bb38e65fe1f49ec145f/t/768/540/d/large-gettyimages-614068126.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239683.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T11:23:00+09:00</dc:date>
+        <title>米海軍ヘリと戦闘機、南シナ海で相次ぎ墜落</title>
+        <link>https://www.cnn.co.jp/usa/35239683.html?ref=rss</link>
+        <description>南シナ海で２６日、米海軍のヘリコプター１機と戦闘機１機が相次いで墜落した。海軍太平洋艦隊によると、乗員は全員が無事救助された。海軍はそれぞれが墜落した原因を調べている。
+
+海軍が同日夜、ＳＮＳに投稿した情報によると、第７３ヘリコプター海上打撃飛行隊（ＨＳＭ）バトルキャッツに所属する「ＭＨ―６０Ｒシーホーク」は現地時間の２６日午後２時４５分ごろ、「米空母ニミッツから通常作戦を実施中に」墜落した。乗員...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239683.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/27/3ab40861e38de687c13d7ef76f7a7009/t/768/512/d/large-9138809.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35239681.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T10:57:00+09:00</dc:date>
+        <title>ルーブル強盗に使われた家具用リフト、ドイツのメーカーがすかさず宣伝　「大切な財産の移動に」</title>
+        <link>https://www.cnn.co.jp/business/35239681.html?ref=rss</link>
+        <description>フランス・パリのルーブル美術館から白昼堂々宝飾品が盗み出された事件に関連して、ドイツのクレーンメーカーが事件を逆手に取った宣伝で注目を浴びている。
+
+１９日に起きた事件では、犯行グループがリフト付きのトラックを使ってルーブル美術館２階のバルコニーから館内に侵入していた。使われたのは、ドイツのベッカー（本社・北西部ベルネ）が製造する家具用リフトだった。
+
+
+  
+  
+ベッカー社が「インスタグラム」に投稿し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35239681.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/27/c8c5a2bb5c3375d94cb6eb5f4f464599/t/768/499/d/large-gettyimages-2241678550-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239674.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T10:20:00+09:00</dc:date>
+        <title>トランプ氏、訪問先のマレーシアでご機嫌なダンスを披露</title>
+        <link>https://www.cnn.co.jp/usa/35239674.html?ref=rss</link>
+        <description>トランプ米大統領が２６日、アジア歴訪の最初の訪問地となるマレーシアに到着した。マレーシアでは東南アジア諸国連合（ＡＳＥＡＮ）首脳との会談に出席する。
+
+空港でマレーシア当局者らと、国旗を振り歓迎の舞を踊る人々に出迎えられたトランプ氏は、自身も音楽に合わせたダンスで応じた。人々からの「ようこそ」との呼びかけに敬礼を返す一幕もあった。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239674.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/27/91c1c2c579d256df8ad22791c0f2542a/t/768/432/d/trump-dances-16x9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239673.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T09:58:00+09:00</dc:date>
+        <title>原子力推進式巡航ミサイルの発射試験に成功、実戦配備進める　プーチン氏発表</title>
+        <link>https://www.cnn.co.jp/world/35239673.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は２６日、原子力推進式巡航ミサイル「ブレベスニク」の発射試験に成功し、今後この兵器の配備に向けた準備を進めると発表した。ロシアがウクライナに対し２夜連続で攻撃を行ったさなかの発表となった。
+
+今回の発射試験の時期は注目に値する。なぜなら、米国のトランプ大統領との首脳会談の可能性がなくなり、米国がロシアの大手石油会社２社に制裁を科したばかりだからだ。制裁はトランプ政権によるロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239673.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/27/6e3569b87a39d1c4ffa0957c69f98532/t/768/576/d/processed_1200.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35239670.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-27T09:47:00+09:00</dc:date>
+        <title>米、１００％の対中関税回避へ　マレーシアで米中貿易交渉</title>
+        <link>https://www.cnn.co.jp/business/35239670.html?ref=rss</link>
+        <description>米国のスコット・ベッセント財務長官は２６日、中国代表団との「非常に良い」貿易交渉を経て、中国に対する関税がエスカレートする可能性は実質的になくなったと述べた。
+
+米国のドナルド・トランプ大統領は、中国のレアアース（希土類）輸出規制をめぐり、１１月１日から中国に対して１００％の追加関税を課すと脅しており、米中間の緊張が高まっていた。
+
+ベッセント長官は２６日、ＣＢＳニュースの番組の中で、マレーシアで...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35239670.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/27/597754480ab32ce6164b4cc9f8f1ba99/t/768/512/d/gettyimages-2223282456.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239665.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T21:47:00+09:00</dc:date>
+        <title>ルーブル美術館の宝飾品盗難、複数の容疑者を逮捕　パリ検察</title>
+        <link>https://www.cnn.co.jp/world/35239665.html?ref=rss</link>
+        <description>フランスのパリ検察は２６日までに、ルーブル美術館から高価な宝飾品が盗まれた事件に関連し、警察が複数の容疑者を逮捕したと明らかにした。１人は国外脱出を試みていたという。
+
+犯行グループは先週末、ルーブル美術館の「アポロン・ギャラリー」に白昼押し入り、数分間のうちに数千万ユーロ相当の宝飾品を奪って逃走した。
+
+容疑者の捜索には多くの捜査員が関わり、ルーブル美術館のデカール館長は事件を「大変な失態」と呼...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239665.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/8b55d39c564b83e7aaba369aae13dabe/t/768/511/d/gettyimages-2242024109.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239664.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T17:01:00+09:00</dc:date>
+        <title>大学で発砲、７人死傷　米ペンシルベニア州</title>
+        <link>https://www.cnn.co.jp/usa/35239664.html?ref=rss</link>
+        <description>米ペンシルベニア州にある歴史的黒人大学のリンカーン大学で２５日夜、同窓会行事「ホームカミング」が行われるなか銃撃があり、少なくとも１人が死亡し、６人がけがをした。地元当局が明らかにした。
+
+チェスター郡の地方検事は２６日未明の記者会見で、大学の国際文化センターの外で７人が銃撃されたと明らかにした。１人が死亡し、６人が銃撃を受けたという。負傷者の容体については明らかにしていない。
+
+当局によると、現...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239664.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/899c5cc7ff24e6b8c6e7ccc5de98a288/t/768/432/d/still-22063222-195689-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239661.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T16:39:00+09:00</dc:date>
+        <title>ジェット推進爆弾に飛行機を改造したミサイル、ロシアとウクライナが即興と革新で知恵比べ</title>
+        <link>https://www.cnn.co.jp/world/35239661.html?ref=rss</link>
+        <description>ロシアとウクライナの軍隊は陸海空で互いを出し抜こう取り組んでおり、そこでは即興と革新が合言葉となっている。
+
+最近の事例は、戦術と兵器の絶え間ない進化を如実に示している。そこには、ロシアの新型ジェット推進爆弾や、ウクライナによる長距離の「自爆爆弾」としての軽飛行機の使用、新たな海上無人機が含まれる。
+
+両国は人工知能（ＡＩ）やロボット工学、無人システムの活用を急速に進めている。
+
+だが、一部の技術革...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239661.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/7e2407a04792e6239d14cb0b2b38aca8/t/768/511/d/gettyimages-2242592030.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239663.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T16:15:00+09:00</dc:date>
+        <title>ウクライナ首都に連夜の攻撃、３人死亡　ゼレンスキー氏はパトリオットの供与を要請</title>
+        <link>https://www.cnn.co.jp/world/35239663.html?ref=rss</link>
+        <description>ウクライナの首都キーウで２６日未明、ロシア軍の空爆を受けて住宅高層ビルが破壊され、少なくとも３人が死亡した。ウクライナ当局が明らかにした。死者が出た攻撃は２４時間以内で２度目。これより前、ウクライナのゼレンスキー大統領は、地対空ミサイル「パトリオット」の追加供与を改めて求めていた。
+
+キーウのクリチコ市長はＳＮＳで「負傷者はすでに２９人に上っており、そのうち６人は子どもだ。最年少は４歳」と明らか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239663.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/f74d5d074688fe0695f9c10ccb4fd6ef/t/768/511/d/resized_ukraine_image.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239662.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T15:21:00+09:00</dc:date>
+        <title>トランプ氏がアジア歴訪開始、タイ・カンボジア和平調印式に参加</title>
+        <link>https://www.cnn.co.jp/usa/35239662.html?ref=rss</link>
+        <description>トランプ米大統領は２６日、アジア歴訪の最初の訪問地マレーシアに到着し、東南アジア諸国連合（ＡＳＥＡＮ）首脳会議の場でタイとカンボジアの和平合意調印式に参加した。
+
+
+  
+    
+       
+    
+    
+    (POOL)
+  
+
+
+
+カンボジアのフン・マネット首相とタイのアヌティン首相は、トランプ氏やマレーシアのアンワル首相と共に壇上で式典に臨み、和平合意に署名した。背後には米国の国章や「平和を実現する」との文言が掲げら...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239660.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T14:22:00+09:00</dc:date>
+        <title>中国最新空母「福建」、艦載機運用能力は５０年前の米空母に及ばず　元米軍将校が指摘</title>
+        <link>https://www.cnn.co.jp/world/35239660.html?ref=rss</link>
+        <description>中国の最新空母「福建」について、５０年前の米海軍空母の約６割のペースでしか航空作戦を行えない可能性があることが分かった。空母での勤務経験を持つ元米軍将校２人が明らかにした。福建は中国海軍に革新を起こす艦艇となることが想定されているが、実戦面で大きな制約を抱えている。
+
+福建は近く就役すると予想されている。元将校２人がＣＮＮに語ったところによると、飛行甲板の配置が原因で艦載機の発着ペースが制限され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239660.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/94a8d3eeefb1919ba86dafed3a5f4cb9/t/768/432/d/20251014-deck-us-china.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239659.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T13:12:00+09:00</dc:date>
+        <title>米大リーグＷＳ、ドジャースが１勝１敗に　山本由伸がＰＳ２試合連続の完投</title>
+        <link>https://www.cnn.co.jp/showbiz/35239659.html?ref=rss</link>
+        <description>米大リーグのワールドシリーズ第２戦は２５日夜、トロントのロジャースセンターで行われ、ロサンゼルス・ドジャース（ナショナル・リーグ）がトロント・ブルージェイズ（アメリカン・リーグ）に５―１で勝利し、対戦成績を１勝１敗のタイとした。
+
+ドジャース先発の山本由伸が再び完投。四回以降は走者を１人も許さず、ドジャースを勝利に導いた。山本はポストシーズン（ＰＳ）２試合連続の完投勝利を収めた。
+
+山本は８奪三振、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239659.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/40dfed5008fde9fb9e3eb691a46c3c07/t/768/511/d/large-ap25299064301174.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239658.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T11:55:00+09:00</dc:date>
+        <title>トランプ米大統領、高市首相と電話会談　「非常に良かった」</title>
+        <link>https://www.cnn.co.jp/usa/35239658.html?ref=rss</link>
+        <description>トランプ米大統領は２５日、新たに首相に選出された高市早苗氏と「非常に良い」電話会談を行ったと明らかにした。「とても友好的だ」とし、アジア訪問中に会談するのを楽しみにしていると述べた。
+
+「彼女は素晴らしく、美しい。間もなく会う予定だ。とても友好的だ」と、トランプ氏は大統領専用機エアフォースワンの機内で記者団に語った。
+
+トランプ氏はさらに、高市氏が２０２２年に暗殺された安倍晋三元首相の「非常に親し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239658.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/bf8ba19a73e84957480330794e72d5b7/t/768/512/d/large-gettyimages-2242009097.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239657.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T10:43:00+09:00</dc:date>
+        <title>ハリス前副大統領、米大統領選への出馬を示唆　「まだ終わっていない」</title>
+        <link>https://www.cnn.co.jp/usa/35239657.html?ref=rss</link>
+        <description>米民主党のカマラ・ハリス前副大統領は、米大統領選への再出馬の可能性を示唆し、「もしかしたら」いつか自身が大統領になるかもしれないと述べた。また、将来、米国で女性が大統領職に就くことになるのを確信していると語った。英ＢＢＣとのインタビューで述べた。
+
+ハリス氏は、２０２４年の大統領選で現在大統領を務めるドナルド・トランプ氏に敗れていた。今回の発言は、２８年の選挙で再挑戦する可能性について、これまで...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239657.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/4f612144522e4beee6ee73ccc357b565/t/768/522/d/large-gettyimages-2238207187.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239656.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T10:18:00+09:00</dc:date>
+        <title>古代ローマ遺跡「パンテオン」の壁から転落、日本人観光客が死亡</title>
+        <link>https://www.cnn.co.jp/world/35239656.html?ref=rss</link>
+        <description>イタリアの首都ローマの古代遺跡「パンテオン」で２４日夜遅く、日本人観光客の男性が遺跡を取り囲む壁から転落して死亡した。地元警察がＣＮＮに明らかにした。
+
+日本大使館によると、男性はヒビノ・モリマサさん（６９）。遺跡の脇、道路から約７メートル下の位置にある溝に落ちているのを聖職者が発見し、当局に通報した。
+
+古代ローマの街は現在の道路面より約７メートル低い位置に広がっていたため、パンテオンのような古...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239656.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/328be206faba514c51bb5a2a99e8b7b4/t/768/511/d/shutterstock-editorial-15603150a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239655.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-26T09:08:00+09:00</dc:date>
+        <title>トランプ氏、カナダに１０％の追加関税を表明　レーガン元大統領のＣＭめぐり</title>
+        <link>https://www.cnn.co.jp/usa/35239655.html?ref=rss</link>
+        <description>トランプ米大統領は２５日、カナダへの関税を現行水準からさらに１０％引き上げると発表した。今回の動きは、１９８７年のレーガン元米大統領の反関税の演説の一部を使用した「虚偽」の広告をめぐる貿易摩擦を激化させるものだ。
+
+トランプ氏はＳＮＳ「トゥルース・ソーシャル」に「カナダはロナルド・レーガン大統領の関税演説を引用した虚偽の広告を掲載したことで現行犯逮捕された」と投稿し、「カナダによる事実の重大な虚...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239655.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/26/ccc437ba468da599b9fb1ea8874f1e33/t/768/512/d/thumbnail-us-canada-flags.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239650.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T18:11:00+09:00</dc:date>
+        <title>カリブ海に派遣の空母「ジェラルド・フォード」、その戦力は？　米海軍の「最強戦闘プラットフォーム」</title>
+        <link>https://www.cnn.co.jp/usa/35239650.html?ref=rss</link>
+        <description>米海軍が「世界で最も高性能で適応力が高く、強力な戦闘プラットフォーム」と称する空母「ジェラルド・フォード」が、カリブ海へ派遣される。トランプ米政権が麻薬密輸疑惑を理由にベネズエラへの軍事的圧力を強める中での派遣となる。
+
+以下ではジェラルド・フォードや、カリブ海での米国の作戦に加わる戦力について概観する。
+
+ジェラルド・フォードは排水量１０万トン以上、全長約３３４メートルを誇り、米国がこれまで就役...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239650.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/c2ee98e6e9a7fdc3527d4fe0ed9d018b/t/768/547/d/gettyimages-2242705715-20251025043556514.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239649.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T17:26:00+09:00</dc:date>
+        <title>欧州の「有志連合」、ロシアへの経済圧力強化誓う　「ウクライナの未来は我々の未来」</title>
+        <link>https://www.cnn.co.jp/world/35239649.html?ref=rss</link>
+        <description>欧州各国の首脳は２４日、ウクライナでの戦争終結に向けた戦略を協議するため英ロンドンで会合を開き、いわゆる「有志連合」がロシアへの圧力強化に向け連携していくことを約束した。
+
+トランプ米大統領が、ロシアの２大石油企業であるロスネフチとルクオイルを標的とした新たな制裁措置を発表したことを受け、欧州首脳らはより多くの国に対し、ロシアの石油会社に対する制裁措置の実施を求めた。
+
+トランプ氏の措置に続き、欧...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239649.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/938f772f93e583849b712ec27500506d/t/768/512/d/gettyimages-2242660244.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239647.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T16:30:00+09:00</dc:date>
+        <title>ハンガリー首相、１週間で状況暗転　米ロ首脳会談中止と対ロ制裁が直撃</title>
+        <link>https://www.cnn.co.jp/world/35239647.html?ref=rss</link>
+        <description>ハンガリーのオルバン首相は先週、ロシアと米国がウクライナでの戦争終結に向けた新たな首脳会談の開催地としてハンガリーのブダペストを選んだことを知り歓喜した。
+
+欧州連合（ＥＵ）と北大西洋条約機構（ＮＡＴＯ）の加盟国であるハンガリーを、ロシアのプーチン大統領とトランプ米大統領双方の同盟国と位置づけるオルバン氏は、「平和への道はブダペストを通る」ことを世界に示したいと願っていた。
+
+しかし、トランプ政権...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239647.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/543a96e6751006b17792eb9d59e9cf92/t/768/510/d/gettyimages-2242504027.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239648.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T15:53:00+09:00</dc:date>
+        <title>ナポレオン軍壊滅のロシア遠征、複数の病原菌が絡んでいた公算大　ＤＮＡから判明</title>
+        <link>https://www.cnn.co.jp/fringe/35239648.html?ref=rss</link>
+        <description>フランスの皇帝ナポレオンは治世末期の１８１２年、５０万人を超える兵士を率いてロシアに侵攻した。半年後、ナポレオン軍は退却を余儀なくされる。フランスへ帰国できた兵士は推定数万人だった――。
+
+歴史上、最悪規模の犠牲者を出したことで知られるロシア遠征。何十万人もの兵士が死亡した原因は戦闘に加え、飢餓や寒さ、発疹チフスの流行にあると考えられてきた。
+
+しかし今回、研究チームは兵士の遺骨のＤＮＡから、これま...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239648.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/07daf49396c984108d3d5dfc6630c3f7/t/768/511/d/gettyimages-587490972.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239645.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-25T13:35:00+09:00</dc:date>
+        <title>「ロンドン地下鉄の蚊」の起源、通説より大幅に古い可能性　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35239645.html?ref=rss</link>
+        <description>英ロンドンの地下鉄で進化したと従来考えられていた蚊の一種は、実際のところそれよりもはるか昔、地中海地方を起源とすることが分かった。新たな遺伝子研究で明らかになった。
+
+この蚊にまつわる通説は第２次世界大戦中、地下鉄駅でドイツ軍機の爆撃から身を守ったロンドン市民が、蚊に刺されることに悩まされたという逸話に端を発する。この害虫は地下トンネルに非常によく適応していたため、その後数十年にわたり、生物学者...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239645.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/25/2405ef8003f4f3b4ab224baef11f05e4/t/768/432/d/2ew5bxn.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
