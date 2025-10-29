@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-10-29T16:36:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239817.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239802.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239803.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35239795.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239804.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239806.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239805.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239796.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239801.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35239794.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35239789.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239786.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35239788.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239777.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239780.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239761.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239757.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35239751.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35239749.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239742.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239741.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239740.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239737.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239738.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239733.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239732.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239728.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35239726.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35239725.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35239723.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239817.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T16:36:00+09:00</dc:date>
+        <title>トランプ大統領が韓国に到着、「金の冠」贈られる　米中首脳会談控え</title>
+        <link>https://www.cnn.co.jp/usa/35239817.html?ref=rss</link>
+        <description>アジア歴訪中のトランプ米大統領が２９日、韓国に到着した。トランプ氏はこの日、アジア太平洋経済協力会議（ＡＰＥＣ）首脳会議にあわせて開催される昼食会に出席するほか、韓国の李在明（イジェミョン）大統領との会談も予定されている。
+
+だが、注目を集めるのは、３０日に予定されている中国の習近平（シーチンピン）国家主席との会談だ。両首脳は、世界経済に影響を与える可能性のある通商協定について協議するとみられて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239817.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/464dce5f952e5c4a7c69f5b710b5229d/t/768/512/d/large-gettyimages-2243904061.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239802.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T16:12:00+09:00</dc:date>
+        <title>農作業中に電線に接触、トラック運転手が感電死　米イリノイ州</title>
+        <link>https://www.cnn.co.jp/usa/35239802.html?ref=rss</link>
+        <description>米イリノイ州マクヘンリー郡の農場で、農作業中の車両が電線に接触する事故があり、トラックを運転していた男性が感電死した。
+
+通報があったのは現地時間の２７日午後５時１７分ごろ。同州ヘブロン在住の男性（５６）がトラクターを運転して穀物カートを牽引（けんいん）し、道路に駐車したセミトレーラートラックに、側溝沿いの穀物カートから穀物を積み込む作業を行っていた。
+
+マクヘンリー郡保安官事務所によると、この作...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239803.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T15:38:00+09:00</dc:date>
+        <title>リオネル・メッシ、２６年Ｗ杯出場に意欲　「１００％健康なら」</title>
+        <link>https://www.cnn.co.jp/showbiz/35239803.html?ref=rss</link>
+        <description>アルゼンチン・サッカー界のスーパースター、リオネル・メッシ選手（３８）は、健康が万全であれば、２０２６年のＦＩＦＡワールドカップ（Ｗ杯）に出場したいとの意向を示した。
+
+メッシ選手は米ＮＢＣニュースのインタビューで、来年夏に米国とメキシコ、カナダの３カ国で開催されるＷ杯北中米大会への出場を示唆した。
+
+「来年、インテル（マイアミ）でプレシーズンが始まったら、日々の状態を見極めたい。本当に１００％の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239803.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/174928d84e1cdaa9673bc135f190f0da/t/768/511/d/large-gettyimages-2233760609.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35239795.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T13:54:00+09:00</dc:date>
+        <title>米アマゾン、１．４万人の人員削減を発表　ＡＩ導入を見据え</title>
+        <link>https://www.cnn.co.jp/tech/35239795.html?ref=rss</link>
+        <description>米ネット通販大手アマゾン・ドット・コムは２８日、今年中に従業員１万４０００人を削減すると発表した。同社は人工知能（ＡＩ）技術の本格導入を見据えている。
+
+アマゾンによれば、主要分野での採用は継続し、失職した社員を優先的にこれらの職務に充てる。同社はこれで人員削減が終わりではないとしている。
+
+アマゾンで人事などを担当するシニアバイスプレジデント、ベス・ガレッティ氏は社員向けのメモで、主要な戦略的分...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35239795.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/99f799772c7312127163161d3134b1df/t/768/513/d/large-gettyimages-1211427567.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239804.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T13:37:00+09:00</dc:date>
+        <title>米フロリダのサンゴ、異常な海水温上昇で「機能的絶滅」　世界のサンゴ礁への「警告」と研究者</title>
+        <link>https://www.cnn.co.jp/fringe/35239804.html?ref=rss</link>
+        <description>米フロリダ州沖で海水温の記録的な上昇の後、サンゴ礁を形成していた「エルクホーンサンゴ」と「スタッグホーンサンゴ」が生態系での役割を失う「機能的絶滅」に追い込まれたとする研究が、このほど発表された。
+
+シカの角のようなエルクホーンサンゴとスタッグホーンサンゴは、１万年前からフロリダの主要な造礁サンゴだったが、病気や汚染、ハリケーン、海水温上昇などの要因が重なって絶滅が危ぶまれていた。そこへ過去に例...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239804.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/9cd983e629f1d8e1f90d9cd9767a3228/t/768/512/d/gettyimages-2149375751.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239806.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T13:21:00+09:00</dc:date>
+        <title>米軍が太平洋でボート４隻を攻撃、１４人殺害　麻薬密輸に関与と主張、死者計５７人に</title>
+        <link>https://www.cnn.co.jp/world/35239806.html?ref=rss</link>
+        <description>米国のピート・ヘグセス国防長官によると、太平洋東部で２７日、米軍が新たにボート４隻を攻撃し、乗船していた１４人を殺害した。１人は生存している。
+
+米軍は麻薬密輸に関与したとされるボートを太平洋やカリブ海で相次いで攻撃しているが、１日に複数回の攻撃を行ったのは今回が初めて。ヘグセス長官は、生存者の捜索救助についてはメキシコ当局が責任を負うと述べた。
+
+２７日は太平洋で３回の攻撃が行われ、このうち１回...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239806.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/4e040f43c9acb1311858264e6b278023/t/768/432/d/screenshot-2025-10-28-at-9-37-42-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239805.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T13:06:00+09:00</dc:date>
+        <title>ブルージェイズ勝利で２勝２敗のタイに、大谷が先発も敗戦投手に</title>
+        <link>https://www.cnn.co.jp/showbiz/35239805.html?ref=rss</link>
+        <description>大リーグは２８日、ワールドシリーズ（ＷＳ）第4戦がロサンゼルスのドジャースタジアムであり、トロント・ブルージェイズ（アメリカン・リーグ）がロサンゼルス・ドジャース（ナショナル・リーグ）を６―２で下して対戦成績を２勝２敗の五分に戻した。
+
+ブルージェイズは三回、１点を追う場面でウラジーミル・ゲレロ・ジュニアが先発を務めた大谷翔平から逆転の２ランホームランを放ち、２―１とリードを奪った。この１発はゲレロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239805.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/f7fddc71b3545ad4370ae88360bcf432/t/768/511/d/large--3-mlb-world-series-toronto-blue-jays-at-los-angeles-dodgers.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239796.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T12:42:00+09:00</dc:date>
+        <title>ホワイトハウス、美術委員会委員を全員解任　大統領への建築デザインの助言担う</title>
+        <link>https://www.cnn.co.jp/usa/35239796.html?ref=rss</link>
+        <description>米ホワイトハウスは２９日までに、独立的な連邦機関である美術委員会の委員６人全員を解任した。同委員会は大統領や連邦議会、首都ワシントンに向けて「デザインと美学の問題」に関する助言を行う任務を負う。
+
+解任のタイミングは、首都の建造物に自身のスタイルを取り入れようとするトランプ大統領の最近の動きに重なった。具体的には凱旋（がいせん）門の建設計画やホワイトハウスの新舞踏室、ローズガーデンの舗装工事とい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239796.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/9630cfa2fb1d4f2b467bd0e3782faabc/t/768/512/d/08-gettyimages-2241266904.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239801.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T12:21:00+09:00</dc:date>
+        <title>マクロン仏大統領夫人、「実は男性」との虚偽主張に「深い不安」　娘が公判で明かす</title>
+        <link>https://www.cnn.co.jp/world/35239801.html?ref=rss</link>
+        <description>フランスのブリジット・マクロン大統領夫人（７２）が自身は実は「男性」だとの虚偽の主張を拡散したネットユーザーを告訴した事件の公判で、ブリジット氏の娘は２８日、性別に関する虚偽の主張が原因で母親は「深い不安」にさいなまれていると証言した。
+
+娘のティファニー・オジエールさん（４１）は、公判で証言することが重要との認識も示した。今回の公判では、ブリジット氏の性別に関する「悪意ある発言」（検察）を拡散...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239801.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/98890a249ec83f9916fc1369740fc7b0/t/768/511/d/gettyimages-2206555966.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35239794.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T11:14:00+09:00</dc:date>
+        <title>ビル・ゲイツ氏、気候変動対策について驚くべき主張を展開</title>
+        <link>https://www.cnn.co.jp/business/35239794.html?ref=rss</link>
+        <description>米マイクロソフト創業者ビル・ゲイツ氏は２８日、気候変動対策への資源投入をめぐり転換を主張するエッセーを発表した。炭素排出削減の代表的な提唱者であるゲイツ氏の主張は、気候変動がもたらす終末論を唱える活動家らに対する驚くべき重大な反論として注目を集めている。
+
+ゲイツ氏によれば、世界の慈善家たちは、病気や飢餓の予防に向けた取り組みへの投資を増やすべきだという。
+
+気候変動は人類を滅ぼすものではなく、炭...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35239794.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/e51a2de23d53c1a3f84f3f74ff444563/t/768/432/d/112138-bill-gates-wealth-cln-00-00-02-22-still001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35239789.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T10:53:00+09:00</dc:date>
+        <title>イーロン・マスク氏、「ウィキペディア」対抗サイトを公開　生成ＡＩ活用</title>
+        <link>https://www.cnn.co.jp/tech/35239789.html?ref=rss</link>
+        <description>米起業家のイーロン・マスク氏は２７日、インターネット上の百科事典サイト「ウィキペディア」の独自版となる「Ｇｒｏｋｉｐｅｄｉａ（グロッキペディア）」を公開した。世界有数の富豪であるマスク氏は自身の見方に沿った代替的な情報・メディア基盤の構築を一段と進めている。
+
+記事には、マスク氏の生成ＡＩ（人工知能）「Ｇｒｏｋ（グロック）」を活用。サイトはウィキペディアの簡素なデザインやページ構成、参照スタイル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35239789.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/124a4eefac85acd6e699ebd7ad908397/t/768/511/d/large-gettyimages-2184585949-20250728110847600.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239786.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T10:36:00+09:00</dc:date>
+        <title>最大勢力のハリケーンがジャマイカ上陸、洪水や停電など大きな被害　キューバ厳戒</title>
+        <link>https://www.cnn.co.jp/world/35239786.html?ref=rss</link>
+        <description>勢力が最も強い「カテゴリー５」のハリケーン「メリッサ」が現地時間の２８日、ジャマイカに上陸し、洪水や停電などの被害が広がっている。２９日未明にはキューバに上陸する見通しで、沿岸部は既に大雨や暴風に見舞われている。
+
+メリッサは勢力を弱めて「カテゴリー３」のハリケーンとなり、約５６メートルの風速を保ったままキューバの東部に接近。キューバでは２８日夜から２９日未明にかけ、高さ約３．６メートルの高潮や...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239786.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/86d6a72cabf95a36feed1b9030b94896/t/768/511/d/ap25301701595090.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35239788.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T10:27:00+09:00</dc:date>
+        <title>米アップル、時価総額４兆ドルに　エヌビディアとマイクロソフトに続く３社目</title>
+        <link>https://www.cnn.co.jp/tech/35239788.html?ref=rss</link>
+        <description>米アップルの時価総額が２８日、４兆ドル（約６００兆円）に到達した。上場企業の４兆ドル到達は米エヌビディアと米マイクロソフトに続く３社目。
+
+アップル株は２８日の取引で０．１％上昇。これまで不振が続いた中国などでスマートフォン「ｉＰｈｏｎｅ１７」の販売が好調に推移していることが好感された。
+
+アップル株は今年前半は下落傾向が続いていた。「トランプ関税」やＡＩ（人工知能）製品の出遅れ、スマートフォンの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35239788.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/5357b9f1405aea33b5c62cae667b6f3d/t/768/432/d/gettyimages-2173254003.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239777.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T10:00:00+09:00</dc:date>
+        <title>複数のシナゴーグ脅迫で男を逮捕、防弾ベストと弾薬詰まったスーツケース所持　米</title>
+        <link>https://www.cnn.co.jp/usa/35239777.html?ref=rss</link>
+        <description>米アラバマ州と周辺州のシナゴーグ（ユダヤ教礼拝所）を狙った襲撃が、脅迫の段階で阻止された。事件に関連して逮捕された男は弾薬と防弾ベスト、その他の品々を詰めたスーツケースを所持していた。当局が２８日に発表した。
+
+クラーク郡保安官事務所のフェイスブック投稿によると、連邦捜査局（ＦＢＩ）をはじめとする関係機関は、礼拝所に対する「確かな暴力脅迫」の通報を受け、最終的に容疑者を特定。２８日に逮捕した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239777.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/07522e8288c1c42ab65824eac087eb7c/t/768/576/d/571237168-122145133814836960-4927448620635892680-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239780.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T09:21:00+09:00</dc:date>
+        <title>中国人選手、演技後に「不適切な」おもちゃ所持　国際スケート連盟が調査</title>
+        <link>https://www.cnn.co.jp/showbiz/35239780.html?ref=rss</link>
+        <description>国際スケート連盟（ＩＳＵ）は、中国の選手が先に行われた大会で「不適切」なミサイル型のぬいぐるみを手にしたとして調査を始めた。
+
+アイスダンスのレン・ジュンフェイとシン・ジャニンのペアは２５日に中国・重慶で行われたフィギュアスケートのグランプリ（ＧＰ）シリーズの中国杯で、中国の新型大陸間弾道ミサイル（ＩＣＢＭ）「東風（ＤＦ）６１」を模した大型のぬいぐるみとともに姿を見せた。東風６１は８輪式の移動式...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239780.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/36419b43087f147f1fb1139d1e5e0d47/t/768/511/d/large-gettyimages-2243192497.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239761.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T08:29:00+09:00</dc:date>
+        <title>犯罪組織の大規模摘発で６４人死亡、ブラジル</title>
+        <link>https://www.cnn.co.jp/world/35239761.html?ref=rss</link>
+        <description>南米ブラジルのリオデジャネイロで２８日、当局による組織犯罪の大規模な摘発が行われ、少なくとも６４人が死亡した。治安当局者がＣＮＮブラジルに明らかにした。死者には警官４人が含まれているという。
+
+ＣＮＮブラジルが入手した映像には、摘発現場で複数の火災が発生している様子が映っており、銃声も聞こえる。
+
+リオデジャネイロ州政府は犯罪組織コマンド・べルメーリョ（ＣＶ）の支配エリア拡大を阻止することを目的と...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239757.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-29T08:03:00+09:00</dc:date>
+        <title>イスラエルがガザ攻撃、ハマスの「停戦合意違反」を非難</title>
+        <link>https://www.cnn.co.jp/world/35239757.html?ref=rss</link>
+        <description>イスラエルがパレスチナ自治区ガザ地区を攻撃し、少なくとも２０人が死亡した。これに先駆け同国は、イスラム組織ハマスが米国仲介による停戦合意に違反し、人質の遺体回収を装ったと非難していた。
+
+イスラエルのネタニヤフ首相は２８日、軍に向けて「ガザ地区への即時かつ強力な攻撃」を実施するよう指示した。首相府が短い声明で発表した。米当局者はＣＮＮに対し、ガザ地区への攻撃実施の決定は米国に通知されたと明らかに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239757.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/29/ef0697a2d2502a38435ba80aa09747f2/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWhhczM0ZngwMDR5MjZxbDBqajVkYWdj-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaGFzMzRmeDAwNHoyNnFsZjBkMTg2bXg_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35239751.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T18:50:00+09:00</dc:date>
+        <title>ドジャース、延長十八回の死闘を制してＷＳを２勝１敗と勝ち越し　大谷翔平が歴史的活躍</title>
+        <link>https://www.cnn.co.jp/showbiz/35239751.html?ref=rss</link>
+        <description>米大リーグのワールドシリーズ（ＷＳ）第３戦が２７日、ロサンゼルスのドジャースタジアムであり、ドジャース（ナショナル・リーグ）がブルージェイズ（アメリカン・リーグ）を延長十八回の末に６―５で下し、シリーズの対戦成績を２勝１敗とした。
+
+激しいシーソーゲームとなったこの試合、ドジャースの大谷翔平が歴史的な活躍を見せた。大谷は４打数４安打３打点と、３度の最優秀選手（ＭＶＰ）受賞者にふさわしい存在感を示し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35239751.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/ec1f9e4a053020d2a649cc1ee92d7e55/t/768/511/d/large-ap25301253705297.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35239749.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T18:39:00+09:00</dc:date>
+        <title>「長時間」のウォーキング、心臓の健康と寿命の改善に効果　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35239749.html?ref=rss</link>
+        <description>「ビーチを長く散歩するのが好き」と言う人に出会ったことがあるだろうか。もしかすると、そうした人たちはすでに長寿の秘けつのひとつを見つけているのかもしれない。
+
+米国内科学会の学術誌に掲載された研究によると、研究者が「１０分以上」と定義した長時間の散歩をする成人は、短時間しか歩かない人と比べて心血管疾患や早死のリスクが大幅に低いことが分かった。
+
+「多くの研究は（我々の過去の研究も含め）１日の総歩数...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35239749.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/00aac0ae1338b1f134c297d6f993fd03/t/768/492/d/large-gettyimages-926344210.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239742.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T17:08:00+09:00</dc:date>
+        <title>米男性、ブタの腎臓を移植して２７１日間生存　臓器摘出して透析治療に戻る</title>
+        <link>https://www.cnn.co.jp/usa/35239742.html?ref=rss</link>
+        <description>米ニューハンプシャー州の男性が、遺伝子を組み換えたブタの腎臓を移植されてから記録となる２７１日間生存した後、その臓器を摘出され、再び透析治療に戻ることになった。
+
+ティム・アンドルーズさん（６７）は今年１月、マサチューセッツ州の医療機関マス・ジェネラル・ブリガムで移植手術を受けたが、腎機能の低下を理由に今月２３日に医師団がブタの腎臓を摘出した。
+
+アンドルーズさんは、拒絶反応などの合併症を防ぐため...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239742.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/84663378f56801197385b51cbcc8d044/t/768/512/d/20250201-kaf-discharge-005.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239741.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T15:55:00+09:00</dc:date>
+        <title>国連報告書、ロシアの戦争犯罪を非難　ドローン攻撃と民間人の強制移送で</title>
+        <link>https://www.cnn.co.jp/world/35239741.html?ref=rss</link>
+        <description>国連の新たな報告書は、ロシアが民間人や民間インフラをドローン（無人機）で攻撃し、人道に対する罪を犯したと非難している。また、人々の強制移送を通じて戦争犯罪を行っているとも糾弾している。
+
+報告書の指摘によれば、ロシアとウクライナの戦争の最前線地域における民間人へのドローン攻撃は、人道に対する罪の中の殺人に該当する。報告書は国連が設置したウクライナでの状況を巡る独立委員会がまとめた。そこではロシア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239741.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/c9e352af2befb53536f34150c043c0d0/t/768/432/d/gettyimages-2217117593.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239740.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T14:15:00+09:00</dc:date>
+        <title>日米、重要鉱物・レアアースの供給確保に関する枠組みに合意</title>
+        <link>https://www.cnn.co.jp/usa/35239740.html?ref=rss</link>
+        <description>トランプ米大統領と高市早苗首相は２８日、東京での首脳会談後、重要鉱物およびレアアース（希土類）の供給確保に関する合意文書に署名した。
+
+両首脳は、「日米両国の国内産業にとって極めて重要な、原材料および加工済みの重要鉱物並びにレアアースの供給を支援する」ことで合意した。
+
+この「枠組み」は両国が協力して供給を確保し、政府および公共部門を動員して当該資源の採掘と加工に向けた投資を強化することを目指す。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239740.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/84456d8a7c81d0f5edb0ca5ebb911306/t/768/512/d/gettyimages-2243320482.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239737.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T14:04:00+09:00</dc:date>
+        <title>麻薬カルテルを取材のジャーナリスト、遺体で発見　現場にメモ残される　メキシコ</title>
+        <link>https://www.cnn.co.jp/world/35239737.html?ref=rss</link>
+        <description>メキシコで麻薬カルテルを取材していたジャーナリストの男性が遺体で発見された。男性が勤務していたニュースサイトの「コンテクスト・デ・デュランゴ」が伝えた。
+
+死亡したのはミゲル・アンヘル・ベルトラン記者。毛布にくるまれた遺体が２５日、麻薬組織が横行するシナロア州の都市マサトランとデュランゴ州を結ぶ幹線道路上で発見された。
+
+ベルトランさんの遺体は息子が確認した。息子が最後にベルトランさんに会ったのは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239737.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/1d81e5a3912f78f979e19cf0340afd23/t/407/432/d/untitled-1-20251027215700432.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239738.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T13:35:00+09:00</dc:date>
+        <title>最強クラスのハリケーン「メリッサ」、ジャマイカに接近</title>
+        <link>https://www.cnn.co.jp/world/35239738.html?ref=rss</link>
+        <description>ハリケーン「メリッサ」が週末にかけて急速に勢力を拡大し、今年地球上で最も強力なハリケーンとなった。
+
+メリッサは週末にかけて急速に勢力を強め、現在は風速約７８メートルに達し、５段階中で最も強い「カテゴリー５」のハリケーンとなっている。今年世界で観測された嵐の中で最も強力だ。
+
+ハリケーンの外縁部がすでにジャマイカを襲っており、現地では暴風雨が続いている。ジャマイカ政府は沿岸の脆弱（ぜいじゃく）な地...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239738.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/70ef2f21c6ec2dbc42083a70f1fab073/t/768/494/d/large-cirarammbmelissamonam.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239733.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T12:44:00+09:00</dc:date>
+        <title>機内で１０代２人にフォーク突き刺す、男を起訴　米</title>
+        <link>https://www.cnn.co.jp/usa/35239733.html?ref=rss</link>
+        <description>米シカゴ発ドイツ行きの航空機内で、２８歳の男がフォークを１０代の少年２人の体に突き刺し、乗務員を平手打ちしようとする事件が発生した。このため同便は目的地の変更を余儀なくされた。当局が明らかにした。
+
+事件が起きたのは２５日。航空業界は現在、米政府の閉鎖による大幅な遅延と人員不足など、ただでさえ緊迫した状況下にある。
+
+マサチューセッツ州連邦検事局の報道発表によると、プラニート・クマール・ウシリパリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239733.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/39e0fdf21b1a46b3537c1cd673919b76/t/768/488/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWg5dHV5NmwwMDAxM2I2bjQ3dnN4aXpl-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaDlxNjczaTAwMHkyZHAzMHVvYmhranM_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239732.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T11:59:00+09:00</dc:date>
+        <title>イスラエル、ハマスから人質の遺体受け取る　重機による遺体捜索の支援も</title>
+        <link>https://www.cnn.co.jp/world/35239732.html?ref=rss</link>
+        <description>イスラエル当局は２７日、イスラム組織ハマスから引き渡された人質の遺体を受け取ったと発表した。
+
+イスラエル軍（ＩＤＦ）と国内諜報（ちょうほう）組織「シンベト」は共同声明で、遺体はテルアビブの国立法医学研究所で正式に身元確認が行われると説明した。家族への連絡が済むまで、身元についての臆測は控えるよう求めた。
+
+これに先立ち、ハマスは遺体をパレスチナ自治区ガザ地区北部で赤十字国際委員会（ＩＣＲＣ）に引...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239732.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/3eb65c0deb72f75bfc5b3653be5696a7/t/768/512/d/large-gettyimages-2242923872.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239728.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T11:30:00+09:00</dc:date>
+        <title>リトアニア、ベラルーシとの国境封鎖　気球の領空侵犯相次ぐ</title>
+        <link>https://www.cnn.co.jp/world/35239728.html?ref=rss</link>
+        <description>リトアニア外務省は２７日、継続的な領空侵犯を受け、隣国ベラルーシとの国境を閉鎖したと発表した。領空侵犯に対しては欧州各国が警戒を強めている。
+
+リトアニアのインガ・ルギニエネ首相は、ここ数日で「数十個のヘリウム気球」がベラルーシからリトアニアの領空に侵入したと説明した。
+
+首相は２７日、「独裁政権がまたしても、ハイブリッド脅威に対する（欧州連合と）ＮＡＴＯ（北大西洋条約機構）の対応力を試そうとして...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239728.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/b04bbe0461e86532e28d4b930262cf4e/t/768/512/d/c-gettyimages-2239332583.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35239726.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T11:09:00+09:00</dc:date>
+        <title>米アマゾン、最大３万人の人員を削減か</title>
+        <link>https://www.cnn.co.jp/tech/35239726.html?ref=rss</link>
+        <description>米ネット通販大手アマゾン・ドット・コムが最大で３万人を削減する計画を進めている。人員削減は２８日にも始まるとみられている。
+
+今回の人員削減は同社の従業員の約１割に相当する。人工知能（ＡＩ）の進化がホワイトカラーの労働者の懸念を強めているほか、米国の労働市場に軟化の兆しが見えている。
+
+今回の人員削減についてはロイター通信が最初に報じた。ＣＮＮもアマゾンにコメントを求めている。
+
+米雇用機会均等委員...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35239726.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/71e0f20868fa38e013056180c77c5e8c/t/768/506/d/large-dp-3-amazon-com-lawsuit-discrmination.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35239725.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T10:58:00+09:00</dc:date>
+        <title>高市首相とトランプ米大統領が初会談</title>
+        <link>https://www.cnn.co.jp/usa/35239725.html?ref=rss</link>
+        <description>トランプ米大統領は２８日、東京・元赤坂の迎賓館に到着し、高市早苗新首相の出迎えを受けた。
+
+両首脳は握手を交わし、少し談笑した後、それぞれの国旗の前で記念撮影を行った。
+
+両首脳はこの後、二国間会談を行う予定。日米同盟は世界でも屈指の強固な同盟関係であるものの、高市氏の限られた外交経験とトランプ氏の予測不能な行動により、初会談は重要な試金石になるものとみられる。
+
+会談では、関税や地域の安全保障、そ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35239725.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/797df5ceffd95dac27c532a5e5d80f7e/t/768/512/d/gettyimages-2243316396.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35239723.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-10-28T10:15:00+09:00</dc:date>
+        <title>超強力磁石を大量にのみ込んだ１３歳少年、腸の壊死で一部を摘出　ＮＺ</title>
+        <link>https://www.cnn.co.jp/world/35239723.html?ref=rss</link>
+        <description>ニュージーランドで１３歳の少年が超強力磁石８０個あまりをのみ込み、病院で腸の一部を摘出する手術を受けた症例報告が医学誌に掲載された。
+
+報告によると、少年はそれぞれ２ミリ×５ミリの大きさのネオジム磁石を８０～１００個のみ込んでいた。
+
+ネオジム磁石は主に大人向けに販売されており、のみ込んだ場合は強力な磁力で消化管の一部が接合され、壊死（えし）したり穴があいたりして生命を脅かす感染症などの合併症を引き...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35239723.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/10/28/0124c809efee3d532cdb170dedd21fd3/t/768/661/d/000-79uu4cq__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
