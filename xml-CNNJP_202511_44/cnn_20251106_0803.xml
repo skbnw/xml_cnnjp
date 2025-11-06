@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-11-06T15:40:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240157.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240155.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240152.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35240150.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35240141.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240120.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240135.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240118.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240130.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240117.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240116.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35240096.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240098.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240099.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240097.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240084.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240081.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240077.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240078.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240071.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240076.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240074.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240073.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240072.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240070.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240055.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240049.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240047.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240045.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35240157.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T15:40:00+09:00</dc:date>
+        <title>英ウィリアム皇太子、気候変動めぐり子どもたちに語っていることとは</title>
+        <link>https://www.cnn.co.jp/world/35240157.html?ref=rss</link>
+        <description>英国のウィリアム皇太子は5日、CNNの単独インタビューに答え、科学者が地球の気候を修復しようと取り組んでいるおかげで、未来は「過去の未来と同じように明るくなるだろう」と子どもたちに伝えていることを明らかにした。
+
+ウィリアム皇太子は、「アースショット賞」の最終候補を発表するため、国連気候変動会議（COP30）に先立ち南米ブラジルを訪問しており、CNNのクリスティアン・アマンプール記者とのインタビューに応じた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240157.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/1c90e6dde835d91f91bf2fec97f2dcf5/t/768/432/d/64019013-46690831-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240155.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T15:11:00+09:00</dc:date>
+        <title>1日3000～7500歩の歩行でアルツハイマーの進行抑制できる可能性　米研究</title>
+        <link>https://www.cnn.co.jp/fringe/35240155.html?ref=rss</link>
+        <description>アルツハイマー病の初期症状がある高齢者は、毎日歩く歩数を増やすことで進行を遅らせることが可能かもしれないという研究結果が発表された。
+
+アルツハイマー病にはベータアミロイドとタウタンパク質の蓄積が関係する。アミロイドは早ければ30代ごろから神経細胞の間の隙間に蓄積し始め、脳細胞間の情報伝達に影響を及ぼす可能性がある。アミロイドの蓄積が増えると異常なタウタンパク質が急激に広がって脳細胞内でもつれを引...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240155.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/6372b524694a4b794ca3cd02f81d8fd0/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWhqN2dqdTAwMDAxM2I2bjJmZ3dtbXl5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaGo2aWh1djAwNGsyN3A4NWl6bjVxM3g_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240152.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T14:25:00+09:00</dc:date>
+        <title>メキシコ大統領、自身に痴漢した男を告発へ　「すべての女性に対する襲撃」</title>
+        <link>https://www.cnn.co.jp/world/35240152.html?ref=rss</link>
+        <description>メキシコのシェインバウム大統領は5日、「酔って」自身に嫌がらせを働いた男を告訴する意向を示した。シェインバウム氏はこの事件を「すべての女性に対する襲撃」と非難している。
+
+メキシコ市のブルガダ市長によると、男は夜間に逮捕され、性犯罪捜査局に勾留されている。
+
+事件は4日に発生した。拡散している動画によれば、メキシコ市でシェインバウム氏を出迎える群衆を男が押しのけ、シェインバウム氏の体を触ったように見...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240152.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/ee876ceb8b12b3feaf36afc6e7d04077/t/768/554/d/2025-11-05t171108z-275856669-rc21phass2q6-rtrmadp-3-mexico-crime-sheinbaum.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35240150.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T13:30:00+09:00</dc:date>
+        <title>有名人と一緒の墓地に眠れる？、埋葬される権利の抽選を実施　パリ</title>
+        <link>https://www.cnn.co.jp/travel/35240150.html?ref=rss</link>
+        <description>フランスのパリ市が異色の抽選会を実施すると発表した。当選者が得られるのは、賞金ではなく、市内の著名な墓地に埋葬される権利だ。
+
+市役所は声明で、今回の計画について、老朽化した墓を修復するとともに、パリ市民に人気の高い墓地の区画を確保する貴重な機会を提供することを目的としていると説明した。
+
+市内の墓地は20世紀初頭からほぼ満杯で、放棄された墓を整理する作業は地元の規制により複雑化しているという。
+
+
+  ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35240150.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/931ec56cbc2099fe5979dab5a47e3667/t/768/432/d/gettyimages-2183555084.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35240141.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T13:04:00+09:00</dc:date>
+        <title>米貨物機墜落、34年前の機体がまだ飛んでいた理由</title>
+        <link>https://www.cnn.co.jp/business/35240141.html?ref=rss</link>
+        <description>米ケンタッキー州ルイビルで墜落した米貨物大手UPSの貨物機は、34年前に製造されたジェット機だった。旅客機としては古い機体だが、航空貨物の世界ではそうした機体を使用するのはそれほど珍しくない。
+
+4日夜、ルイビルを離陸直後に墜落し、少なくとも12人が死亡したこの事故において、当該の貨物機MD11の老朽化が何らかの要因となったという兆候は今のところ見られない。事故原因は現在も調査中で、しばらくは調査が続く見込...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35240141.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/ee88dccc0c4516c0a69d5e3cc6c561c3/t/768/512/d/ap25309018820621.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T11:16:00+09:00</dc:date>
+        <title>車が歩行者や自転車に突っ込む、10人重軽傷　対テロ検察注視　フランス</title>
+        <link>https://www.cnn.co.jp/world/35240137.html?ref=rss</link>
+        <description>フランス西部のオレロン島で5日、車が歩行者や自転車に突っ込み、10人が重軽傷を負う事件があった。
+
+ローラン・ヌネズ内相によると、車は35分の間に5人をはねた。
+
+CNN提携局のBFMTVは、通行人10人が負傷したと伝えている。内相によれば、22歳の女性を含む少なくとも2人が重傷を負った。
+
+車を運転していた男は現場に駆け付けた警察に取り押さえられた。
+
+事件については当局が捜査に乗り出し、国家対テロ検察も注視している。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/c7cd7b743a84781c237092ab2e71700c/t/768/533/d/gettyimages-2208596611.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240120.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T11:00:00+09:00</dc:date>
+        <title>解放されたイスラエル人の元人質、拘束中の性的暴行被害を主張</title>
+        <link>https://www.cnn.co.jp/world/35240120.html?ref=rss</link>
+        <description>最近解放されたイスラエル人の元人質1人が、パレスチナ自治区ガザ地区での拘束中に「恐ろしく」かつ屈辱的な性的暴行を受けたと主張している。
+
+ロム・ブラスラフスキーさんは2023年10月7日、イスラエル南部で開催された野外音楽フェスティバルで警備員として働いていた。このほどチャンネル13の番組のインタビューで語ったところによれば、ブラスラフスキーさんはフェスティバルが奇襲を受けた後、パレスチナの武装組織「イス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240120.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/977cc78a917027f155028be37816c75e/t/768/432/d/still-22094477-0-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240135.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T10:34:00+09:00</dc:date>
+        <title>トランプ氏、NY市長選勝利のマムダニ氏について沈黙破る　「共産主義者を据えた」と民主党を批判</title>
+        <link>https://www.cnn.co.jp/usa/35240135.html?ref=rss</link>
+        <description>ドナルド・トランプ米大統領は5日、マイアミで演説し、ニューヨーク（NY）市長選で勝利したゾーラン・マムダニ氏を批判した。「民主社会主義者」を自称するマムダニ氏の政策は、より広く連邦議会での民主党の見解を反映していると指摘した。
+
+トランプ氏はビジネスフォーラムで、「連邦議会の民主党議員が米国に何をしようとしているのかを知りたければ、昨日のニューヨーク市長選の結果を見ればいい。民主党は全米最大の都市に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240135.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/d89062a692dea2726f04ebddb7e7ee17/t/768/537/d/large-usa-election-new-york-mayor.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240118.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T10:06:00+09:00</dc:date>
+        <title>米貨物機墜落、死者12人に　死傷者さらに増える恐れ　広大な範囲ががれきに</title>
+        <link>https://www.cnn.co.jp/usa/35240118.html?ref=rss</link>
+        <description>米貨物大手UPSの貨物機MD11が4日、ケンタッキー州ルイビルの空港を飛び立った直後に墜落した事故で、5日までに少なくとも12人の死亡が確認された。現場では捜索活動が続いており、死者や負傷者はさらに増える恐れもある。ケンタッキー州のアンディ・ベシア知事は非常事態を宣言し、州兵を動員した。
+
+ルイビル市のクレイグ・グリーンバーグ市長によると、死亡した12人のうち、3人は貨物機の乗員と思われる。
+
+残る9人の身元は不...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240118.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/e0c03fbb4e23e0f7e74f0c34ff8ba82d/t/768/512/d/2025-11-05t001741z-930807653-rc2sphaojq7t-rtrmadp-3-ups-crash.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240130.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T09:55:00+09:00</dc:date>
+        <title>米最高裁、判事の大半がトランプ関税に懸念　口頭弁論</title>
+        <link>https://www.cnn.co.jp/usa/35240130.html?ref=rss</link>
+        <description>米最高裁は5日、トランプ政権が国際緊急経済権限法（IEEPA）に基づいて各国に課した関税の合憲性を問う訴訟の口頭弁論を開始した。判事らは原告側、政権側の双方に厳しい質問を投げかけ、全体として関税の根拠に懐疑的な見方を示した。
+
+最高裁は遅くとも来年6月末までに判断を示すとみられる。
+
+裁判は米国の企業グループが4月に起こした。国際貿易裁判所は5月にトランプ大統領はIEEPAに基づいて包括的な関税を課す権限を有し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240130.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/f6900776d458c93e722637c654c6ee4d/t/768/491/d/gettyimages-2237604419.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240117.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T08:53:00+09:00</dc:date>
+        <title>全米40カ所の主要空港で10％の運航削減へ　数千便に影響か</title>
+        <link>https://www.cnn.co.jp/usa/35240117.html?ref=rss</link>
+        <description>米国のダフィー運輸長官は5日の記者会見で、政府閉鎖の打開に向けた合意が得られない場合、7日にも主要空港40カ所の運航を10％削減すると発表した。削減により数千便に影響が出る可能性があるが、対象となる便数や具体的な空港は発表されていない。
+
+政府閉鎖が続く中、国内各地では管制官の人員不足により、フライトの遅延が増加している。管制官は来週にも2度目の給与未払いが発生する見通しで、生活費を稼ぐために副業をした...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240117.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/644442b8616c744c418daeb2acc7a9ce/t/768/432/d/still-22094803-3092939-236-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240116.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T08:09:00+09:00</dc:date>
+        <title>プーチン氏、核実験の可能性示唆　トランプ氏の発言受け</title>
+        <link>https://www.cnn.co.jp/world/35240116.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は5日、米国が核実験を実施した場合、ロシアも同様に実施の可能性を検討すると国家安全保障会議で述べた。トランプ米大統領が先月、国防総省に対し「直ちに」核兵器実験を開始するよう指示したと発表したことを受けて、対抗する姿勢を示した。
+
+プーチン氏は「包括的核実験禁止条約（CTBT）をロシアは常に厳格に順守しており、今後も逸脱する計画はない」と述べたが、米国やその他のCTBT批准国が核実験を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240116.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/fb6b91955baa7158433e30ce03838999/t/768/512/d/gettyimages-2244502483.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35240096.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T18:54:00+09:00</dc:date>
+        <title>スタバ、中国事業を一部売却　かつては市場を席巻も経営環境が厳しさ増す</title>
+        <link>https://www.cnn.co.jp/business/35240096.html?ref=rss</link>
+        <description>約30年前、米コーヒーチェーン大手スターバックスは中国で最初の店舗を盛大にオープンした。同社は中国の経済成長の波に乗り、一時は同国で15時間ごとに新店舗1軒をオープンするほどだった。結果的に中国市場は、同社の世界戦略の要となっていった。
+
+しかし、スターバックスは3日、世界第2位の経済大国である中国における事業の経営権を同国の投資会社、博裕資本に売却すると発表。今や状況は一変しつつある。
+
+この取引により...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35240096.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/fcda1ce1746c3b927e70daa8403539e3/t/768/432/d/gettyimages-2213882246.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240098.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T18:13:00+09:00</dc:date>
+        <title>【分析】インフレを否定し米国民を痛めつけるトランプ氏、バイデン氏の轍を踏む</title>
+        <link>https://www.cnn.co.jp/usa/35240098.html?ref=rss</link>
+        <description>「インフレなど起きていない」。トランプ米大統領は2日夜に放映されたテレビ番組「60ミニッツ」のインタビューでそう述べた。「食料品の価格は下がっている」
+
+二つの虚偽の主張を展開したトランプ氏は、バイデン前大統領を悩ませた政治的失策を繰り返している。この失策は民主党が政権の座を手放す一因となった。トランプ氏は国民が日常生活で経験している経済の現実を否定しているように見える。
+
+トランプ氏が同様の政治的誤...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240098.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/7bfcb0be0af6d8dd80296774a96f9f7c/t/768/512/d/gettyimages-2244245638.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240099.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T17:48:00+09:00</dc:date>
+        <title>米民主党が知事選などで勝利、有権者はトランプ氏を拒否　選挙結果から見えたポイントは</title>
+        <link>https://www.cnn.co.jp/usa/35240099.html?ref=rss</link>
+        <description>全米各地で4日に投開票が行われた選挙戦で、有権者はトランプ大統領の第2次政権への不満を鮮明に示し、民主党の候補者の勝利を後押しした。
+
+バージニア州では、中道派の元下院議員アビゲイル・スパンバーガー氏が同州の近年の歴史の中で最も力強い民主党の支持を得て勝利を収めた。ニュージャージー州でも同じく中道派の下院議員マイキー・シェリル氏が、トランプ氏からの支持を受けた共和党候補ジャック・チャタレリ氏を破っ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240099.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/19509700d00309364ee585602675e849/t/768/432/d/20251104-abigailspanbergezohranmamdanimikiesherrillsplit.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240097.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T17:13:00+09:00</dc:date>
+        <title>中国宇宙船に宇宙ごみ衝突か、地球帰還を延期　宇宙ステーションに半年滞在の3人</title>
+        <link>https://www.cnn.co.jp/fringe/35240097.html?ref=rss</link>
+        <description>中国の宇宙当局は5日、宇宙ステーションに滞在中の飛行士3人について、帰還に使う宇宙船に宇宙ごみが衝突した可能性への懸念から、6カ月間続く滞在を延長せざるを得なくなったと明らかにした。
+
+3人の飛行士は5日に地球へ帰還する予定で、新たなチームに中国の宇宙ステーションの「鍵」も引き渡していた。しかし、中国国家航天局（CNSA）は5日、帰還船「神舟20号」に何らかの衝突があったことが疑われるため、帰還を延期したと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240097.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/137b85bdd08171705cd2fd822e860a64/t/768/432/d/still-22092704-13339-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240084.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T13:56:00+09:00</dc:date>
+        <title>マラソンの歴史を塗り替える地球温暖化、ランナーに過酷な影響　記録達成は困難に</title>
+        <link>https://www.cnn.co.jp/showbiz/35240084.html?ref=rss</link>
+        <description>地球温暖化がマラソンの記録更新を阻む大きな障壁になりつつある。世界の気温上昇に伴い、エリート選手が世界記録を破ったり、市民ランナーが自分の目標を達成したりすることが難しくなっているという研究結果がこのほど発表された。
+
+研究結果は非営利研究組織のクライメート・セントラルが発表。マラソンの221大会について分析した結果、86％の大会で2045年までにランナーにとって最適な条件が整う可能性が低くなるとの見通し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240084.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/27de3d87b7c76fdda42cad1e0e96a11e/t/768/512/d/gettyimages-2182702714.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240081.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T12:43:00+09:00</dc:date>
+        <title>米ニュージャージー州知事選、民主党候補のシェリル氏勝利へ　CNN予測</title>
+        <link>https://www.cnn.co.jp/usa/35240081.html?ref=rss</link>
+        <description>CNNの予測によれば、米東部ニュージャージー州の知事選で、民主党候補のマイキー・シェリル氏が当選する見通しとなった。
+
+シェリル氏は、州史上初の女性民主党知事となる。共和党候補で元州議員のジャック・チャタレリ氏を破った。チャタレリ氏はトランプ大統領の支持者として知られ、3度目の知事選出馬だった。
+
+今回の勝利は、第2次トランプ政権発足から1年を経た今、トランプ氏への批判票としても受け止められそうだ。民主...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240081.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/151657cb2cb0380410356371b9aae643/t/768/511/d/large-dp-3-usa-election-new-jersey-governor.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240077.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T12:23:00+09:00</dc:date>
+        <title>米バージニア州知事選　民主党候補のスパンバーガー氏勝利へ、初の女性知事　CNN予測</title>
+        <link>https://www.cnn.co.jp/usa/35240077.html?ref=rss</link>
+        <description>CNNの予測によれば、米南部バージニア州の知事選で、民主党候補のアビゲイル・スパンバーガー氏（46）が当選する見通しとなった。スパンバーガー氏は同州初の女性知事となる。
+
+スパンバーガー氏は共和党候補のウィンサム・アールシアーズ副知事を破った。選挙戦では、生活費の高騰や、連邦政府職員約30万人を抱える州経済への政府機関閉鎖や人員削減の影響など、地域の懸念に焦点を当てた。さらに、アールシアーズ氏をトランプ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240077.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/9a9cb9e4aeaacda61ecef8a1925924c0/t/768/511/d/large-gettyimages-2243229676.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240078.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T12:18:00+09:00</dc:date>
+        <title>米ニューヨーク市長選、民主党候補のマムダニ氏勝利へ　CNN予測</title>
+        <link>https://www.cnn.co.jp/usa/35240078.html?ref=rss</link>
+        <description>CNNの予測によると、4日に投開票が行われた米ニューヨーク市の市長選は34歳の民主社会主義者、ゾーラン・マムダニ氏が勝利する見通しとなった。同氏は労働者階級の問題に焦点を当て、人柄の良さで多様なボランティアや支持者を集め、当初は劣勢だった選挙戦での巻き返しに成功した。
+
+マムダニ氏は6月の民主党予備選に続き、元ニューヨーク州知事のアンドリュー・クオモ氏を破ることになる。本選には共和党のカーティス・スリワ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240078.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/a8e7bc92c22d80cd6d669d756f3c2f2f/t/768/512/d/gettyimages-2243297473.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240071.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T12:01:00+09:00</dc:date>
+        <title>ホホジロザメを襲うシャチの群れ、肝臓食べる様子をドローンで撮影　メキシコ</title>
+        <link>https://www.cnn.co.jp/fringe/35240071.html?ref=rss</link>
+        <description>シャチの群れが若いホホジロザメを集団で襲い、栄養豊富な肝臓を分け合って食べる様子をメキシコの研究チームが撮影した。
+
+この研究は3日の海洋科学誌に発表された。ホホジロザメを襲うシャチの群れは南アフリカ、オーストラリア、米カリフォルニア州沖でも確認されているが、メキシコで記録されたのは初めてだとしている。
+
+メキシコの研究チームが2020年8月、メキシコ西部のカリフォルニア湾でドローンを使って上空から撮影...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240071.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/e49207a25dd2b7e2513e37c3d279518f/t/768/395/d/screenshot-2025-11-03-at-7-11-48-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240076.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T11:54:00+09:00</dc:date>
+        <title>デービッド・ベッカム、英チャールズ国王から「ナイト」の爵位授与</title>
+        <link>https://www.cnn.co.jp/showbiz/35240076.html?ref=rss</link>
+        <description>英国の元サッカー選手デービッド・ベッカムさん（50）が４日、チャールズ国王から「ナイト」の爵位を授与された。スポーツと慈善活動への貢献が認められた。
+
+ベッカムさんは、この叙勲を「最も誇らしい瞬間」と表現している。
+
+ウィンザー城で行われた式典では日本生まれの英作家・脚本家カズオ・イシグロさん、ミュージカル俳優のエレイン・ペイジさんも勲章を受けた。
+
+ベッカムさんは今年、チャールズ国王の誕生日に発表さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240076.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/36995b93f1ef6e8992f924718746209f/t/768/432/d/ap25308408664297.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240074.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T11:41:00+09:00</dc:date>
+        <title>プーチン氏、原子力推進巡航ミサイル「ブレベスニク」の開発者に勲章　西側へのシグナルか</title>
+        <link>https://www.cnn.co.jp/world/35240074.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は4日、巡航ミサイル「ブレベスニク」と魚雷「ポセイドン」の開発者に国家勲章を授与した。専門家はこれについて、西側諸国にウクライナ支援を思いとどまらせようとするロシアの新たなシグナルだと分析している。
+
+どちらの兵器も原子力推進式で、核搭載能力を持つ。ロシアのプーチン大統領はクレムリン（大統領府）で開かれた授与式で、ロシアと「21世紀全体にとって」「歴史的意義を持つ」兵器だとの認...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240074.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/76732d076a64718d22548b51560e781b/t/768/511/d/gettyimages-2244502483.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240073.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T11:27:00+09:00</dc:date>
+        <title>UPS貨物機墜落で4人死亡、11人負傷　米ケンタッキー州</title>
+        <link>https://www.cnn.co.jp/usa/35240073.html?ref=rss</link>
+        <description>米貨物大手UPSの貨物機MD11が米ケンタッキー州ルイビルの空港近くで離陸直後に墜落した。搭乗していたのは乗員3人で、現場近くで黒煙が立ち上っているのがCNN提携局WAVEの映像で確認された。
+
+警察は4日、少なくとも4人が死亡し、11人が負傷したと明らかにした。捜査が続くにつれて、死傷者の人数が増える恐れがあるという。ケンタッキー州のベシア知事は先に、負傷者のなかには重傷者も含まれると明らかにしていた。
+
+乗員の安...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240073.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/6d58575c5be23f01f56200e09c290e46/t/768/432/d/still-22091599-598817-2899999999-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240072.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T11:18:00+09:00</dc:date>
+        <title>米ハーバード大で爆発、男2人を逮捕　現場撮影して友人に吹聴か</title>
+        <link>https://www.cnn.co.jp/usa/35240072.html?ref=rss</link>
+        <description>米ハーバード大学医学校の研究棟で1日に爆発があり、米連邦捜査局（FBI）は4日、男2人を逮捕したと発表した。
+
+逮捕されたのは、いずれもマサチューセッツ州在住のローガン・デービッド・パターソン容疑者（18）とドミニク・フランク・カルドーザ容疑者（20）。米政府の助成を受けている研究機関の建物を火災または爆発によって損壊したとして、共謀の罪に問われている。
+
+捜査関係者はCNNの取材に対し、逮捕された男2人は爆発...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240072.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/773d6b4b04e7a4c790fadd988c6eb52d/t/768/512/d/large-rtrmadp-3-health-hearts-stem-cells.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240070.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T10:50:00+09:00</dc:date>
+        <title>米、多国籍部隊派遣に向けて安保理決議案の策定進める　ガザ停戦合意維持へ</title>
+        <link>https://www.cnn.co.jp/usa/35240070.html?ref=rss</link>
+        <description>トランプ米政権が、米国の仲介で成立したパレスチナ自治区ガザ地区での停戦合意の維持に向けて、ガザに多国籍の治安部隊を派遣する国連安全保障理事会決議案の策定を進めていることが分かった。情報筋が明らかにした。
+
+ガザの非武装化や新たなパレスチナ警察の訓練を担う治安部隊の詳細が協議されているという。米軍はガザには派遣されず、域外で調整役として活動する見通し。
+
+情報筋によると、決議案の初期の草案は安保理の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240070.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/9b644c8c99438d29c68def3536a0f19f/t/768/432/d/gettyimages-2244457474.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240055.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T10:29:00+09:00</dc:date>
+        <title>メキシコで抗議デモが激化、犯罪撲滅訴える市長の殺害が引き金</title>
+        <link>https://www.cnn.co.jp/world/35240055.html?ref=rss</link>
+        <description>メキシコのミチョアカン州で、激しい抗議活動が発生した。抗議は犯罪撲滅を声高に訴える市長が先週末の「死者の日」の祝賀行事参加中に殺害されたことを受けて起きた。
+
+抗議活動が始まったのは2日。参加者は州都モレリアで「虐待と怠慢はもうたくさんだ」とのスローガンを掲げた。デモは暴徒化し、一部の人々はモレリア市政府庁舎に押し入った。地元当局は8人の逮捕を確認した。
+
+4日にはアパツィンガン市当局が、市庁舎への放...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240055.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/e142831f046f4220f023ded70f12ff74/t/768/488/d/gettyimages-2244389443.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240049.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T09:02:00+09:00</dc:date>
+        <title>UPSの貨物機が離陸直後に墜落、3人搭乗　米ケンタッキー州</title>
+        <link>https://www.cnn.co.jp/usa/35240049.html?ref=rss</link>
+        <description>米貨物大手UPSの貨物機MD11が、米ケンタッキー州ルイビルの空港近くで離陸直後に墜落した。米連邦航空局（FAA）が明らかにした。
+
+UPSの2976便は午後5時ごろ離陸した直後に墜落。貨物機はハワイ州ホノルルのダニエル・K・イノウエ国際空港へ向かっていた。FAAが発表した声明によると、事故の調査は国家運輸安全委員会（NTSB）が主導し、FAAも協力するという。
+
+UPSの声明によると、同機には乗務員3人が搭乗していたが、現時点で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240049.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/6d58575c5be23f01f56200e09c290e46/t/768/432/d/still-22091599-598817-2899999999-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240047.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T08:48:00+09:00</dc:date>
+        <title>米管制官不足、一部空域閉鎖の可能性も　運輸長官が警告</title>
+        <link>https://www.cnn.co.jp/usa/35240047.html?ref=rss</link>
+        <description>ダフィー米運輸長官は４日、管制塔で業務に当たる管制官が不足する事態が国内各地で頻発する中、今後一部の空域の閉鎖を迫られる可能性があると述べた。政府予算が失効した後、管制官不足から運航に支障が出る事態が相次いでおり、状況が改善する見通しはまったく立っていない。
+
+ダフィー氏は記者会見で「今後1週間で大混乱に陥る」と述べ、下院を通過したつなぎ予算案に反対している民主党を批判した。また、航空便の遅延やキ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240047.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/e0906cf69109147e2763041a8a4be929/t/768/511/d/2025-10-28t160833z-1035144782-rc24lhac1jwk-rtrmadp-3-usa-shutdown-travel.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240045.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T08:16:00+09:00</dc:date>
+        <title>チェイニー元米副大統領が死去、84歳　ブッシュ政権でイラク戦争主導</title>
+        <link>https://www.cnn.co.jp/usa/35240045.html?ref=rss</link>
+        <description>米国のディック・チェイニー元副大統領が3日、死去した。84歳だった。共和党のジョージ・W・ブッシュ大統領のもとで第46代副大統領として「対テロ戦争」を主導し、米国をイラク戦争の泥沼に引きずり込んだことで知られる。
+
+家族の声明によると、死因は肺炎と心臓・血管疾患による合併症。
+
+1941年、中西部ネブラスカ州に生まれた。送電線の工事に従事するなどした後、ワイオミング大学大学院で政治学修士を取得した。ニクソン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240045.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/fa1679758cb4c4d79f84afc184fe7b1f/t/768/512/d/ap081024014797.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
