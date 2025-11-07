@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-11-07T16:53:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240166.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/architecture/35240211.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240212.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240203.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240210.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240204.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240199.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240202.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35240201.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240194.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240192.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240178.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240179.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240161.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35240159.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240163.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240157.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240155.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240152.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35240150.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35240141.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240120.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240135.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240118.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240130.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240117.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240116.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35240096.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240098.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240166.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T16:53:00+09:00</dc:date>
+        <title>恐竜の性別、交尾時の負傷の痕跡で特定可能か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35240166.html?ref=rss</link>
+        <description>古生物学者たちは長年、恐竜の雄と雌を化石によって区別することに苦心してきた。しかし新たな研究から、ある一群の恐竜に関しては性別の特定に一段と近づける可能性が浮上している。
+
+カモノハシ竜の名でも知られるハドロサウルスは、白亜紀後期（1億50万～6600万年前）に広く生息した草食恐竜で、その骨は多くの大陸で見つかっている。
+
+一部のハドロサウルスの化石には、外傷性の骨損傷が治癒した痕跡が確認できる。骨の部位...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240166.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/07/f5500de96a11829feb6bcb5fa46d9cb4/t/768/479/d/bones.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/architecture/35240211.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T16:09:00+09:00</dc:date>
+        <title>大エジプト博物館がついにオープン　総工費1500億円超、構想実現まで20年以上</title>
+        <link>https://www.cnn.co.jp/style/architecture/35240211.html?ref=rss</link>
+        <description>22年前、アイルランドでメンバー4人の建築事務所を率いていたロシェーン・ヘネガン氏は、世界最大級の博物館の設計者に事務所が選ばれたと電話連絡を受けた時、これはいたずらだと考えた。担当者に電話をかけ直し、巧妙な策略でないことを確認したという。
+
+ヘネガン氏はアイルランドの首都ダブリンからのビデオ・インタビューで当時を振り返り、「信じられなかった」と話した。同氏はここで、夫の彭士佛（ポンシーフォ）氏とと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/architecture/35240211.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/07/3ad974622436bbcb2407350ea585f023/t/768/432/d/gem-birdseye-view-copyright-grand-egyptian-museum.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240212.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T15:39:00+09:00</dc:date>
+        <title>中国の最新空母「福建」が就役、海南島で式典　激化する米海軍との競争</title>
+        <link>https://www.cnn.co.jp/world/35240212.html?ref=rss</link>
+        <description>中国で最新かつ最も高性能な空母「福建」が正式に就役したことが分かった。海軍力で最高峰の米国に追い付くことを目指す中国にとって、大きな一歩になる。
+
+中国国営中央テレビ（CCTV）は7日、習近平（シーチンピン）国家主席が今週、海南島の三亜にある軍港で就役式典を主催して福建を視察したと報じた。
+
+福建は中国で3隻目の最も高度な空母。中国国営メディアによると、3種類の艦載機を射出可能な電磁カタパルトを搭載してい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240212.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/07/ee3f6bd6588a69cb9ab0f2f26cec2a25/t/768/511/d/ap25255409077759.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240203.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T14:05:00+09:00</dc:date>
+        <title>過去最大のブラックホールフレアを観測、太陽10兆個分の光放出</title>
+        <link>https://www.cnn.co.jp/fringe/35240203.html?ref=rss</link>
+        <description>天文学者たちは、超大質量ブラックホールから発生したフレアの中で、これまでで最大かつ最も遠くからのフレアを観測した。「スーパーマン」の愛称を持つこのフレアは、地球から100億光年離れた場所で発生し、ピーク時には太陽10兆個分の明るさを放った。
+
+フレアの源は活動銀河核（AGN）だ。AGNは銀河中心にある明るくコンパクトな領域で、物質を活発に吸収する超大質量ブラックホールによってエネルギーが供給されている。ガス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240203.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/07/f846a186adbe35d7faf090924ca03fc6/t/768/432/d/agn-tde-copy-1660-original.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240210.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T13:42:00+09:00</dc:date>
+        <title>米アンドルーズ統合基地に不審な白い粉入りの小包、複数人が体調不良で搬送</title>
+        <link>https://www.cnn.co.jp/usa/35240210.html?ref=rss</link>
+        <description>米メリーランド州にある米軍のアンドルーズ統合基地に6日、不審な荷物が届き、体調不良を訴えた複数人が病院に搬送されたことが分かった。
+
+アンドルーズ統合基地は米首都ワシントン郊外に位置する。基地の声明によると、「不審な荷物を開封」後、基地内の建物で避難措置が取られたという。
+
+声明では「予防措置として、当該の建物および隣接する建物で避難措置が取られ、周囲に警戒線が張られた」と説明。「緊急対応要員が現場...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240210.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/07/8964e598fd7443b58e609982990ce5b6/t/768/510/d/9091640.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240204.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T12:58:00+09:00</dc:date>
+        <title>安易すぎるパスワード、後回しの警備強化…お粗末すぎたルーブル美術館の防犯対策</title>
+        <link>https://www.cnn.co.jp/world/35240204.html?ref=rss</link>
+        <description>パリのルーブル美術館から白昼堂々、宝飾品が盗み出された事件に関連して、フランスの会計検査院は6日、同美術館が警備態勢の強化よりも華々しい展示品の購入や改修プロジェクトの方を重視したとして経営陣を非難した。
+
+会計検査院の報告書は、10月19日の事件発生前に依頼された。会計検査院のピエール・モスコビシ院長は同報告書を引用しながら、ルーブルの経営陣は美術館の安全対策よりも、美術品の購入や館内のレイアウト変...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240204.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/07/b540791f1a3bc3d2bf1806d9fbc71164/t/768/511/d/gettyimages-2241682838.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240199.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T12:27:00+09:00</dc:date>
+        <title>6歳男児による小学校教師銃撃、陪審が元教頭に15億円の支払い命じる　米バージニア州</title>
+        <link>https://www.cnn.co.jp/usa/35240199.html?ref=rss</link>
+        <description>米バージニア州で2023年に小学校教員の女性が6歳児童に銃で撃たれた事件をめぐり、被害者の女性が当時の教頭を相手取って起こした民事訴訟で、陪審は6日、1千万ドル（約15億円）の支払いを命じる評決を下した。
+
+教頭は銃に関する度重なる警告を無視したとして刑事訴追されており、今後の刑事裁判の行方を占う結果となった。
+
+事件は23年1月に発生。当時ニューポートニューズの小学校で教員を務めていたアビー・ズワーナーさん...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240199.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/07/66cfb7bd702b59c39e2cd1475325e27b/t/768/598/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWhtcW9pcjUwMDAxM2I2bm96b2t6ZXJq-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaG1sZjEyZzAwMHkyNnFvMmNtMzF0bGE_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240202.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T12:00:00+09:00</dc:date>
+        <title>墜落直前の米貨物機、車載カメラが捉える　左エンジン脱落</title>
+        <link>https://www.cnn.co.jp/usa/35240202.html?ref=rss</link>
+        <description>米貨物大手UPSの貨物機がケンタッキー州ルイビルの空港を離陸後に墜落した事故で、墜落直前の様子を捉えた車載カメラの映像が新たに公開された。
+
+機体の左側のエンジンが欠落している様子がうかがえる。
+
+脱落したエンジンは滑走路で見つかったとみられる。ルイビル国際空港からエンジンが撤去される様子を捉えた動画も浮上した。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240202.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/a8adb4d0b56e9f6e25c09cbab17d9ec7/t/768/432/d/ups-plane-missing-engine-clean-thumb-16x9-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35240201.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T11:55:00+09:00</dc:date>
+        <title>米テスラ株主、マスクCEOの1兆ドル報酬案を承認</title>
+        <link>https://www.cnn.co.jp/business/35240201.html?ref=rss</link>
+        <description>6日に開かれた米電気自動車大手テスラの年次株主総会で、イーロン・マスク最高経営責任者（CEO）に対する巨額報酬案が承認された。これで世界一の富豪マスク氏は、世界初の1兆ドル（約153兆円）長者となる可能性がある。
+
+テスラの発表によると、マスク氏の報酬パッケージには株主の75％以上が賛成した。この報酬案にはマスク氏が既に保有している15％は含まれていない。
+
+結果が発表されると株主総会の出席者から拍手と歓声が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35240201.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/07/efc7910e135b0bed158ceb22722029b9/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWhud24yNDYwMDA0M2I2bjg1bmdycjdl-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaG51cWNqejAwMXoyNnFiYnZ5aDZoZHQ_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240194.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T11:14:00+09:00</dc:date>
+        <title>NFLダラス・カウボーイズの選手が24歳で死去、警察の追跡逃れた後で自殺か</title>
+        <link>https://www.cnn.co.jp/showbiz/35240194.html?ref=rss</link>
+        <description>米プロフットボールNFLのダラス・カウボーイズに所属するディフェンシブエンド、マーショーン・ニーランド選手が6日午前、亡くなった。24歳だった。チームが声明で発表した。
+
+警察は、この件を自殺とみて捜査している。
+
+テキサス州公安局（DPS）によると、5日の現地時間午後10時33分、州警察官が交通違反で車両を停止させようとしたところ、運転手が停止を拒否したため追跡が開始された。
+
+追跡は州警察官が車両を見失ったた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240194.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/07/0f5c04d1dda45fdc6d1e2319f58357db/t/768/512/d/ap25289027055975.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240192.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T10:15:00+09:00</dc:date>
+        <title>米民主党重鎮ペロシ氏、政界引退へ　女性初の米下院議長</title>
+        <link>https://www.cnn.co.jp/usa/35240192.html?ref=rss</link>
+        <description>米下院で女性として初めて議長を務めた民主党の重鎮ナンシー・ペロシ下院議員（85）が6日、次の選挙に出馬せずに政界を引退する意向を表明した。
+
+ペロシ氏は地盤であるカリフォルニア州サンフランシスコの支持者にあてた動画で出馬しない意向を明らかにし、「感謝の心を持ってみなさんが誇れる議員として最後の1年をまっとうする」と述べた。
+
+議員として38年のキャリアを持つペロシ氏をめぐっては、間もなく引退を発表すると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240192.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/07/37d0bc4ec2069a2f7631eb819150afa2/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWhtZnplZHQwMDAyM2I2bjRqN2twd2Rj-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaG1mejduczAwMHkyNnFsNzdjaDR1YzA_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240178.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T09:55:00+09:00</dc:date>
+        <title>ウクライナ人捕虜殺害で有罪、ロシア兵の被告に終身刑　前例ない判決</title>
+        <link>https://www.cnn.co.jp/world/35240178.html?ref=rss</link>
+        <description>ウクライナの裁判所は6日、2024年1月に発生した事件でウクライナ軍捕虜を殺害したとして、ロシア兵に有罪判決を下し、終身刑を言い渡した。この種の判決が下されるのは初めて。
+
+ドミトリー・クラショフ被告（27）は、ウクライナ南東部の都市ザポリージャの裁判所で、自身の部隊に投降した直後のウクライナ兵を射殺した罪で有罪判決を受けた。
+
+ウクライナ治安当局によると、クラショフ被告は以前、窃盗罪でロシアの刑務所に服...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240178.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/07/a81568ab9603ebf74246aa5c6445467e/t/768/529/d/ukraine-crisis-russia-court.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240179.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-07T09:27:00+09:00</dc:date>
+        <title>米航空会社、7日から一部運休　トランプ氏「100％の安全を確保するため」</title>
+        <link>https://www.cnn.co.jp/usa/35240179.html?ref=rss</link>
+        <description>トランプ米大統領は6日、政府閉鎖の打開に向けた合意が得られない場合、連邦航空局（FAA）が早ければ7日から主要空港での運航を削減すると述べた。航空関係者によると、まず4％減便し、日を追うごとに減便の割合を増やしていく案が検討されているという。
+
+ユナイテッド航空は7日に200便の運航を取りやめるとCNNに明らかにした。これは予定されていたフライト総数の約4％にあたり、大半が地方便だという。同社は8、9日にもほぼ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240179.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/07/b66d2d1d3c9f435eba714a8461fcc530/t/768/512/d/gettyimages-2245348691.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240161.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T18:55:00+09:00</dc:date>
+        <title>最古にして最大のマヤ遺跡、宇宙を表現するため建設か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35240161.html?ref=rss</link>
+        <description>リモートセンシング機器によって飛行機から発見された広大な古代マヤ文明の遺跡は、2020年に公開されるまで、数千年にわたり森林と平原に隠されていた。それから5年、考古学者たちはこの巨大な建造物の秘密をさらに解き明かしつつある。
+
+土でできた人工の台地は土手道や運河、回廊を結びつける形で3050年前にメキシコ南東部に築かれ、約300年にわたり使用された。「アグアダ・フェニックス」と呼ばれるこの遺跡は、古代マヤ文...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240161.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/0f4fa219a5d109992fad8ef6e6950ff4/t/768/512/d/cruciform-cache-after-excavation-cache-nr10-11-photo-by-inomata.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35240159.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T18:30:00+09:00</dc:date>
+        <title>迷惑行為や大混雑、アジアにも押し寄せるオーバーツーリズム　「京都の混雑ぶりは飛び抜けている」</title>
+        <link>https://www.cnn.co.jp/travel/35240159.html?ref=rss</link>
+        <description>歴史ある街に旅行者がひしめき合い、ビーチはタオルやパラソルですき間なく覆われ、酔っぱらった観光客が騒ぎを起こして逮捕される。
+
+オーバーツーリズムに悩む欧州の都市ではよくある光景だ。バルセロナでもベネチアでも近年、押しかける観光客の悪影響にうんざりした住民らが抗議デモを展開してきた。
+
+同じことがアジアでも起き始めている。「（インドネシア中南部の）バリ島は間違いなくその一例」と語るのは、マレーシア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35240159.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/e7c6eef12a0c1a8503a29272fb8caf83/t/768/512/d/gettyimages-2240869785.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240163.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T17:51:00+09:00</dc:date>
+        <title>台風25号、フィリピンでの死者114人に　勢力強めてベトナムへ</title>
+        <link>https://www.cnn.co.jp/world/35240163.html?ref=rss</link>
+        <description>フィリピンに壊滅的な被害をもたらした台風25号（カルマエギ）がベトナムに向かって進んでいる。
+
+台風25号は今週、フィリピン中部を直撃。多くの住宅に被害が出たほか、数万人が避難を余儀なくされた。フィリピンでは少なくとも114人が死亡したほか、多数が行方不明になっている。観光地として知られるセブ州の被害が最も大きかった。
+
+洪水が引いて広範囲にわたる被害が明らかになる中、住民は家財道具を回収し、破壊された家...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240163.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/108a73193c1ad147851d00f12ffd4af3/t/768/432/d/001-asia-weather-philippines.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240157.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T15:40:00+09:00</dc:date>
+        <title>英ウィリアム皇太子、気候変動めぐり子どもたちに語っていることとは</title>
+        <link>https://www.cnn.co.jp/world/35240157.html?ref=rss</link>
+        <description>英国のウィリアム皇太子は5日、CNNの単独インタビューに答え、科学者が地球の気候を修復しようと取り組んでいるおかげで、未来は「過去の未来と同じように明るくなるだろう」と子どもたちに伝えていることを明らかにした。
+
+ウィリアム皇太子は、「アースショット賞」の最終候補を発表するため、国連気候変動会議（COP30）に先立ち南米ブラジルを訪問しており、CNNのクリスティアン・アマンプール記者とのインタビューに応じた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240157.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/1c90e6dde835d91f91bf2fec97f2dcf5/t/768/432/d/64019013-46690831-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240155.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T15:11:00+09:00</dc:date>
+        <title>1日3000～7500歩の歩行でアルツハイマーの進行抑制できる可能性　米研究</title>
+        <link>https://www.cnn.co.jp/fringe/35240155.html?ref=rss</link>
+        <description>アルツハイマー病の初期症状がある高齢者は、毎日歩く歩数を増やすことで進行を遅らせることが可能かもしれないという研究結果が発表された。
+
+アルツハイマー病にはベータアミロイドとタウタンパク質の蓄積が関係する。アミロイドは早ければ30代ごろから神経細胞の間の隙間に蓄積し始め、脳細胞間の情報伝達に影響を及ぼす可能性がある。アミロイドの蓄積が増えると異常なタウタンパク質が急激に広がって脳細胞内でもつれを引...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240155.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/6372b524694a4b794ca3cd02f81d8fd0/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWhqN2dqdTAwMDAxM2I2bjJmZ3dtbXl5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaGo2aWh1djAwNGsyN3A4NWl6bjVxM3g_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240152.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T14:25:00+09:00</dc:date>
+        <title>メキシコ大統領、自身に痴漢した男を告発へ　「すべての女性に対する襲撃」</title>
+        <link>https://www.cnn.co.jp/world/35240152.html?ref=rss</link>
+        <description>メキシコのシェインバウム大統領は5日、「酔って」自身に嫌がらせを働いた男を告訴する意向を示した。シェインバウム氏はこの事件を「すべての女性に対する襲撃」と非難している。
+
+メキシコ市のブルガダ市長によると、男は夜間に逮捕され、性犯罪捜査局に勾留されている。
+
+事件は4日に発生した。拡散している動画によれば、メキシコ市でシェインバウム氏を出迎える群衆を男が押しのけ、シェインバウム氏の体を触ったように見...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240152.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/ee876ceb8b12b3feaf36afc6e7d04077/t/768/554/d/2025-11-05t171108z-275856669-rc21phass2q6-rtrmadp-3-mexico-crime-sheinbaum.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35240150.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T13:30:00+09:00</dc:date>
+        <title>有名人と一緒の墓地に眠れる？、埋葬される権利の抽選を実施　パリ</title>
+        <link>https://www.cnn.co.jp/travel/35240150.html?ref=rss</link>
+        <description>フランスのパリ市が異色の抽選会を実施すると発表した。当選者が得られるのは、賞金ではなく、市内の著名な墓地に埋葬される権利だ。
+
+市役所は声明で、今回の計画について、老朽化した墓を修復するとともに、パリ市民に人気の高い墓地の区画を確保する貴重な機会を提供することを目的としていると説明した。
+
+市内の墓地は20世紀初頭からほぼ満杯で、放棄された墓を整理する作業は地元の規制により複雑化しているという。
+
+
+  ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35240150.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/931ec56cbc2099fe5979dab5a47e3667/t/768/432/d/gettyimages-2183555084.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35240141.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T13:04:00+09:00</dc:date>
+        <title>米貨物機墜落、34年前の機体がまだ飛んでいた理由</title>
+        <link>https://www.cnn.co.jp/business/35240141.html?ref=rss</link>
+        <description>米ケンタッキー州ルイビルで墜落した米貨物大手UPSの貨物機は、34年前に製造されたジェット機だった。旅客機としては古い機体だが、航空貨物の世界ではそうした機体を使用するのはそれほど珍しくない。
+
+4日夜、ルイビルを離陸直後に墜落し、少なくとも12人が死亡したこの事故において、当該の貨物機MD11の老朽化が何らかの要因となったという兆候は今のところ見られない。事故原因は現在も調査中で、しばらくは調査が続く見込...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35240141.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/ee88dccc0c4516c0a69d5e3cc6c561c3/t/768/512/d/ap25309018820621.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T11:16:00+09:00</dc:date>
+        <title>車が歩行者や自転車に突っ込む、10人重軽傷　対テロ検察注視　フランス</title>
+        <link>https://www.cnn.co.jp/world/35240137.html?ref=rss</link>
+        <description>フランス西部のオレロン島で5日、車が歩行者や自転車に突っ込み、10人が重軽傷を負う事件があった。
+
+ローラン・ヌネズ内相によると、車は35分の間に5人をはねた。
+
+CNN提携局のBFMTVは、通行人10人が負傷したと伝えている。内相によれば、22歳の女性を含む少なくとも2人が重傷を負った。
+
+車を運転していた男は現場に駆け付けた警察に取り押さえられた。
+
+事件については当局が捜査に乗り出し、国家対テロ検察も注視している。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/c7cd7b743a84781c237092ab2e71700c/t/768/533/d/gettyimages-2208596611.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240120.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T11:00:00+09:00</dc:date>
+        <title>解放されたイスラエル人の元人質、拘束中の性的暴行被害を主張</title>
+        <link>https://www.cnn.co.jp/world/35240120.html?ref=rss</link>
+        <description>最近解放されたイスラエル人の元人質1人が、パレスチナ自治区ガザ地区での拘束中に「恐ろしく」かつ屈辱的な性的暴行を受けたと主張している。
+
+ロム・ブラスラフスキーさんは2023年10月7日、イスラエル南部で開催された野外音楽フェスティバルで警備員として働いていた。このほどチャンネル13の番組のインタビューで語ったところによれば、ブラスラフスキーさんはフェスティバルが奇襲を受けた後、パレスチナの武装組織「イス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240120.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/977cc78a917027f155028be37816c75e/t/768/432/d/still-22094477-0-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240135.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T10:34:00+09:00</dc:date>
+        <title>トランプ氏、NY市長選勝利のマムダニ氏について沈黙破る　「共産主義者を据えた」と民主党を批判</title>
+        <link>https://www.cnn.co.jp/usa/35240135.html?ref=rss</link>
+        <description>ドナルド・トランプ米大統領は5日、マイアミで演説し、ニューヨーク（NY）市長選で勝利したゾーラン・マムダニ氏を批判した。「民主社会主義者」を自称するマムダニ氏の政策は、より広く連邦議会での民主党の見解を反映していると指摘した。
+
+トランプ氏はビジネスフォーラムで、「連邦議会の民主党議員が米国に何をしようとしているのかを知りたければ、昨日のニューヨーク市長選の結果を見ればいい。民主党は全米最大の都市に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240135.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/d89062a692dea2726f04ebddb7e7ee17/t/768/537/d/large-usa-election-new-york-mayor.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240118.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T10:06:00+09:00</dc:date>
+        <title>米貨物機墜落、死者12人に　死傷者さらに増える恐れ　広大な範囲ががれきに</title>
+        <link>https://www.cnn.co.jp/usa/35240118.html?ref=rss</link>
+        <description>米貨物大手UPSの貨物機MD11が4日、ケンタッキー州ルイビルの空港を飛び立った直後に墜落した事故で、5日までに少なくとも12人の死亡が確認された。現場では捜索活動が続いており、死者や負傷者はさらに増える恐れもある。ケンタッキー州のアンディ・ベシア知事は非常事態を宣言し、州兵を動員した。
+
+ルイビル市のクレイグ・グリーンバーグ市長によると、死亡した12人のうち、3人は貨物機の乗員と思われる。
+
+残る9人の身元は不...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240118.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/e0c03fbb4e23e0f7e74f0c34ff8ba82d/t/768/512/d/2025-11-05t001741z-930807653-rc2sphaojq7t-rtrmadp-3-ups-crash.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240130.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T09:55:00+09:00</dc:date>
+        <title>米最高裁、判事の大半がトランプ関税に懸念　口頭弁論</title>
+        <link>https://www.cnn.co.jp/usa/35240130.html?ref=rss</link>
+        <description>米最高裁は5日、トランプ政権が国際緊急経済権限法（IEEPA）に基づいて各国に課した関税の合憲性を問う訴訟の口頭弁論を開始した。判事らは原告側、政権側の双方に厳しい質問を投げかけ、全体として関税の根拠に懐疑的な見方を示した。
+
+最高裁は遅くとも来年6月末までに判断を示すとみられる。
+
+裁判は米国の企業グループが4月に起こした。国際貿易裁判所は5月にトランプ大統領はIEEPAに基づいて包括的な関税を課す権限を有し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240130.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/f6900776d458c93e722637c654c6ee4d/t/768/491/d/gettyimages-2237604419.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240117.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T08:53:00+09:00</dc:date>
+        <title>全米40カ所の主要空港で10％の運航削減へ　数千便に影響か</title>
+        <link>https://www.cnn.co.jp/usa/35240117.html?ref=rss</link>
+        <description>米国のダフィー運輸長官は5日の記者会見で、政府閉鎖の打開に向けた合意が得られない場合、7日にも主要空港40カ所の運航を10％削減すると発表した。削減により数千便に影響が出る可能性があるが、対象となる便数や具体的な空港は発表されていない。
+
+政府閉鎖が続く中、国内各地では管制官の人員不足により、フライトの遅延が増加している。管制官は来週にも2度目の給与未払いが発生する見通しで、生活費を稼ぐために副業をした...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240117.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/644442b8616c744c418daeb2acc7a9ce/t/768/432/d/still-22094803-3092939-236-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240116.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-06T08:09:00+09:00</dc:date>
+        <title>プーチン氏、核実験の可能性示唆　トランプ氏の発言受け</title>
+        <link>https://www.cnn.co.jp/world/35240116.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は5日、米国が核実験を実施した場合、ロシアも同様に実施の可能性を検討すると国家安全保障会議で述べた。トランプ米大統領が先月、国防総省に対し「直ちに」核兵器実験を開始するよう指示したと発表したことを受けて、対抗する姿勢を示した。
+
+プーチン氏は「包括的核実験禁止条約（CTBT）をロシアは常に厳格に順守しており、今後も逸脱する計画はない」と述べたが、米国やその他のCTBT批准国が核実験を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240116.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/06/fb6b91955baa7158433e30ce03838999/t/768/512/d/gettyimages-2244502483.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35240096.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T18:54:00+09:00</dc:date>
+        <title>スタバ、中国事業を一部売却　かつては市場を席巻も経営環境が厳しさ増す</title>
+        <link>https://www.cnn.co.jp/business/35240096.html?ref=rss</link>
+        <description>約30年前、米コーヒーチェーン大手スターバックスは中国で最初の店舗を盛大にオープンした。同社は中国の経済成長の波に乗り、一時は同国で15時間ごとに新店舗1軒をオープンするほどだった。結果的に中国市場は、同社の世界戦略の要となっていった。
+
+しかし、スターバックスは3日、世界第2位の経済大国である中国における事業の経営権を同国の投資会社、博裕資本に売却すると発表。今や状況は一変しつつある。
+
+この取引により...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35240096.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/fcda1ce1746c3b927e70daa8403539e3/t/768/432/d/gettyimages-2213882246.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240098.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-05T18:13:00+09:00</dc:date>
+        <title>【分析】インフレを否定し米国民を痛めつけるトランプ氏、バイデン氏の轍を踏む</title>
+        <link>https://www.cnn.co.jp/usa/35240098.html?ref=rss</link>
+        <description>「インフレなど起きていない」。トランプ米大統領は2日夜に放映されたテレビ番組「60ミニッツ」のインタビューでそう述べた。「食料品の価格は下がっている」
+
+二つの虚偽の主張を展開したトランプ氏は、バイデン前大統領を悩ませた政治的失策を繰り返している。この失策は民主党が政権の座を手放す一因となった。トランプ氏は国民が日常生活で経験している経済の現実を否定しているように見える。
+
+トランプ氏が同様の政治的誤...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240098.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/7bfcb0be0af6d8dd80296774a96f9f7c/t/768/512/d/gettyimages-2244245638.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
