@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-11-12T18:58:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240398.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240397.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240399.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240389.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240392.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240391.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240356.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240381.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240387.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240382.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240380.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240377.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35240361.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240373.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240343.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240351.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240347.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35240334.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240336.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240337.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240327.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240328.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240314.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240316.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240317.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35240315.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240312.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240302.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240306.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240304.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240398.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T18:58:00+09:00</dc:date>
+        <title>性犯罪の逮捕状発効当日に拉致を装い失踪した男、13年を経て逮捕　米</title>
+        <link>https://www.cnn.co.jp/usa/35240398.html?ref=rss</link>
+        <description>2012年3月のある月曜日、米オクラホマ州ムーアの警察署員らが、事件現場となったモーテル「スーパー8」に呼び出された。
+
+夜明け前に現場へ到着した刑事たちは、階段の下に広がる血だまりと、製氷機の方へと続く血の付いた足跡を発見した。
+
+階段の手すりの下には、まるで争っていたときに外れたかのように、スーパー8の従業員名札が表向きで落ちていた。
+
+  
+  
+現場で発見されたモーテルの従業員名札。アンソニー・レノン容疑...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240398.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/d5076adf7fb440b3fc61260b76c23ebc/2012-mugshot-lennon.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240397.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T17:33:00+09:00</dc:date>
+        <title>JFKの孫のジャック・シュロスバーグ氏、米下院選への出馬表明</title>
+        <link>https://www.cnn.co.jp/usa/35240397.html?ref=rss</link>
+        <description>米国の故ケネディ元大統領の孫、ジャック・シュロスバーグ氏がニューヨーク市の選挙区から米連邦議会下院選に出馬すると発表した。ケネディ氏の直系の子孫が選挙に臨むのは初めて。またケネディ家の一族から出る最も新しい候補者でもある。
+
+シュロスバーグ氏は自身の出馬表明動画の中で、「この国は転換期を迎えている」と主張。「あらゆるレベルで危機的状況にある。（トランプ大統領の）『大きくて美しい法案』が引き起こす...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240397.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/021b731c848c01ec1ddb0fca4578413e/t/768/512/d/c-gettyimages-2167009163.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240399.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T17:15:00+09:00</dc:date>
+        <title>パリス・ジャクソン、鼻に「穴」が開いたことを告白　「ドラッグはやめて」とも</title>
+        <link>https://www.cnn.co.jp/showbiz/35240399.html?ref=rss</link>
+        <description>歌手で俳優のパリス・ジャクソンさん（27）が、薬物依存の経験と、それに伴う健康被害について率直に語った。最近投稿された動画の中で、「鼻中隔穿孔（せっこう）」という症状を今も抱えていることも明かした。
+
+パリスさんは、プリンス・マイケル・ジャクソンさん（28）とビギ・ジャクソンさん（23）とともに、歌手の故マイケル・ジャクソンさんの3人の子どもの1人。
+
+パリスさんはTikTok（ティックトック）の動画の中で、鼻...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240399.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/fb9f796d8e4a8290baea578e49998dd7/t/768/547/d/large-c-gettyimages-2238152516.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240389.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T15:09:00+09:00</dc:date>
+        <title>トランプ氏、米国に優秀な人材いないと発言　外国の熟練労働者の必要性を強調</title>
+        <link>https://www.cnn.co.jp/usa/35240389.html?ref=rss</link>
+        <description>米国のトランプ大統領は、11日夜に放送されたFOXニュースのインタビューで、米国には国内で必要とされる職に就けるだけの優秀な労働者がいないと発言し、高度専門職向けの「H-1Bビザ」の制度を擁護した。
+
+FOXニュースのローラ・イングラム記者から、米国人労働者の賃金低下への懸念からH-1Bビザを削減するかどうかを問われたトランプ氏は、「賛成だ。だが、優秀な人材を呼び込むことも必要だ」と答えた。
+
+イングラム氏が「米...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240389.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/e549f84cd30473bd9fdd4fb76174d68c/t/768/512/d/ap25315633632256.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240392.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T14:25:00+09:00</dc:date>
+        <title>強力な太陽嵐が発生、米南部フロリダ州でもオーロラ出現　</title>
+        <link>https://www.cnn.co.jp/fringe/35240392.html?ref=rss</link>
+        <description>太陽から放出された強力なエネルギーが地球に到達して大気上層の高エネルギー粒子をかき乱し、テキサス州やアラバマ州、ジョージア州、さらにはフロリダ州北部の夜空に壮大なオーロラを描き出している。
+
+太陽から放出された「コロナ質量放出（CME）」と呼ばれるエネルギーの噴出は、この2晩で地球の磁場に到達する見通しだ。米宇宙天気予報センターは米国時間の11、12両日を対象に、「深刻」な水準とされるG4の磁気嵐警報を出...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240392.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/2c59038e89e30e8793bd457b4043204d/t/768/576/d/581457481-10172639926105526.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240391.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T13:46:00+09:00</dc:date>
+        <title>イスラエル人入植者が集団で農地を襲撃、放火も　ヨルダン川西岸</title>
+        <link>https://www.cnn.co.jp/world/35240391.html?ref=rss</link>
+        <description>パレスチナ自治区ヨルダン川西岸地区で11日夕、数十人のイスラエル人入植者が農地に放火した。現地のパレスチナ人活動家らが明らかにした。ヨルダン川西岸では最近、イスラエル人入植者による暴力が相次いでいる。
+
+今回の襲撃はトゥルカレムの東に位置する町で発生し、集落や乳製品工場が被害を受けた。住民の証言やCNNが入手した映像で明らかになった。CNNが入手した映像には、煙が一帯を覆い、女性たちが悲鳴を上げる中、男...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240391.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/7f9b68b186b31d598ad3caa03f98517b/t/768/512/d/large-gettyimages-2245675795.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240356.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T12:52:00+09:00</dc:date>
+        <title>風力タービンで死ぬコウモリ、年間数百万匹　スマートセンサーが保護に寄与する可能性</title>
+        <link>https://www.cnn.co.jp/fringe/35240356.html?ref=rss</link>
+        <description>コウモリは南極大陸を除くすべての大陸に生息しているが、その個体数は減少している。生息地の喪失、病気、農薬などが減少の要因だが、近年は他にも深刻な脅威が存在する。風力タービンだ。国連環境計画によると、世界中で毎年数百万匹のコウモリが風力タービンによって命を落としている。風力タービンのブレード（羽根）によるコウモリの年間死亡数は、カナダで約5万匹、ドイツで20万匹以上、米国で50万匹以上と推定される。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240356.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/16848a5a2a93f1b8982d2f3a43159ae8/t/768/511/d/batcon-hoary-bat-josh-hydeman.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240381.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T12:15:00+09:00</dc:date>
+        <title>スクリーンが敵？　アニメ映画「トイ・ストーリー5」の予告編が話題に</title>
+        <link>https://www.cnn.co.jp/showbiz/35240381.html?ref=rss</link>
+        <description>「おもちゃの時代」は本当に終わりを迎えたのだろうか。
+
+米ピクサーのアニメ映画「トイ・ストーリー」の最新作「トイ・ストーリー5」の予告編が11日に公開され、まさにこの運命的な問いを投げかけた。ここでは、テレビやスマートフォンなどを見ている時間「スクリーンタイム」をめぐる親子のジレンマというおなじみのテーマが扱われている。
+
+INXSの楽曲「Never Tear Us Apart」にあわせた短い映像には、新しい荷物がボニー・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240381.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/a598d686a444d82f0d9d85fa946e4d5a/t/768/511/d/large-c-toy-story-5.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240387.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T12:04:00+09:00</dc:date>
+        <title>キラウエア火山で溶岩噴出、巻き上がる「ボルネード」を撮影　ハワイ</title>
+        <link>https://www.cnn.co.jp/fringe/35240387.html?ref=rss</link>
+        <description>米ハワイのキラウエア火山で9日、溶岩が300メートルを超す高さに噴出した。その様子を捉えた動画が公開されている。
+
+迫力の噴火に伴い、砂塵（さじん）と灰が渦を巻いて立ち上る「ボルネード」と呼ばれる現象も発生した。ボルネードは溶岩の近くで熱せられた空気と、周囲のより冷たい空気の温度差によって生じる。
+
+&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240387.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/27be36f1ad67e2fbd8f4f0a7b01b4ed0/t/768/432/d/115111-hawaiivolcanoerupts-16x9-clean-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240382.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T11:54:00+09:00</dc:date>
+        <title>強盗被害のルーブル美術館、監視カメラのパスワードは「ルーブル」　安易なPWが招く大失態事例はほかにも</title>
+        <link>https://www.cnn.co.jp/world/35240382.html?ref=rss</link>
+        <description>先月の強盗事件で大きな被害をこうむったパリのルーブル美術館で、監視カメラを管理するサーバーのパスワードが「LOUVRE（ルーブル）」に設定されていたことが、2014年時点の監査報告から明らかになった。
+
+これに限らず、安易なパスワードが設定されているケースは多い。SNSのアカウントや通販アプリ、サブスクサービスへのログインは確かに面倒だが、複雑なパスワードを入力せよという要求にはれっきとした理由がある。過去に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240382.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/07ab21515beb84dedcd8f041d9a2abc6/t/768/512/d/gettyimages-2242023975-20251107123358831.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240380.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T11:41:00+09:00</dc:date>
+        <title>トランプ氏、米国の大学への中国人留学生受け入れを擁護　フランスにちくり</title>
+        <link>https://www.cnn.co.jp/usa/35240380.html?ref=rss</link>
+        <description>トランプ米大統領が10日に米FOXニュースと行ったインタビューで、米国の大学への中国人留学生の受け入れを擁護して司会者と言い争いになり、フランスについて批判的に言及する場面があった。
+
+トランプ氏はインタビュー中、米国の大学への中国人留学生の入学について問われ、「外国人を受け入れるのは良いことだと思う」と語った。
+
+これに対し、FOXニュースの司会者ローラ・イングラハム氏は「彼らはフランス人ではない。中国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240380.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/89a9a7c3dca1ab83158a174873eb8b6e/t/768/511/d/gettyimages-2244074522.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240377.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T11:11:00+09:00</dc:date>
+        <title>サッカー・ポルトガル代表ロナルド、W杯出場は2026年大会が「最後」</title>
+        <link>https://www.cnn.co.jp/showbiz/35240377.html?ref=rss</link>
+        <description>サッカー・ポルトガル代表のスター選手クリスティアノ・ロナルドは11日、2026年のFIFAワールドカップ（W杯）が「間違いなく」自身にとって最後の大会になると語った。
+
+ロナルドはサウジアラビアのリヤドで開かれたイベントで、CNNのベッキー・アンダーソン記者に対し、「41歳になるので、大きな大会の最後の瞬間になると思う」と話した。
+
+完全な引退時期については「今を楽しんでいるが、近い将来といえば、本当に近い。サッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240377.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/1c088e30cbfebfa0798a8ed62e0e92e1/t/768/432/d/gettyimages-2218743652.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35240361.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T10:28:00+09:00</dc:date>
+        <title>同性愛者向け出会い系アプリ二つが姿消す、取り締まり強化の懸念強まる　中国</title>
+        <link>https://www.cnn.co.jp/tech/35240361.html?ref=rss</link>
+        <description>中国で人気の同性愛者向け出会い系アプリの「Blued」と「Finka」の二つが、国内のアプリストアから姿を消した。LGBTQ＋（性的少数者）団体やオンラインコンテンツへの締め付けが一段と強まっているとの懸念が広がっている。
+
+両アプリは11日時点で、アップルがアプリを配信する「アップストア」で利用できず、アンドロイド端末向けの国内プラットフォームからも削除されている。グーグルの「プレイストア」は、中国の検閲システ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35240361.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/5753bd261439d8fc0fe5229b666fd6ff/t/768/511/d/w8gjp5-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240373.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T10:06:00+09:00</dc:date>
+        <title>英ロンドンの水族館に「閉じ込められている」ペンギン、解放求める声高まる</title>
+        <link>https://www.cnn.co.jp/world/35240373.html?ref=rss</link>
+        <description>英国の国会議員数十人が、ロンドンの水族館に「閉じ込められ」、日光や新鮮な空気に触れることができない15羽のペンギンの解放を求めている。議員らは「彼らの生活環境はまったく受け入れられない」ものだと主張した。
+
+15羽のジェンツーペンギンは、国会議事堂からほど近いテムズ川沿いにあるロンドン水族館で飼育されている。
+
+PA通信によると、マーリン・エンターテイメンツ社が所有する同水族館は、2011年5月からペンギンを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240373.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/71971fc1c6d0805a740aa493e9dc1af2/t/768/512/d/01k7y8c5mwpzcyq7z2ps2kx12f.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240343.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T09:30:00+09:00</dc:date>
+        <title>古代からあった武器への書き込み、現在では銃撃犯の犯行動機を知る手がかりに　米</title>
+        <link>https://www.cnn.co.jp/usa/35240343.html?ref=rss</link>
+        <description>米国で過去1年間に発生したいくつかの銃撃事件において、犯行現場に残された薬きょうや凶器に殴り書きされたメッセージが発見された。
+
+2024年に発生した米医療保険大手ユナイテッドヘルスケアのブライアン・トンプソン最高経営責任者（CEO）殺害事件、今年8月にミネアポリスで起きたカトリック学校襲撃事件、さらに9月に発生した保守系活動家チャーリー・カーク氏銃撃事件やダラスの移民施設での銃撃事件に至るまで、いずれの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240343.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/96a663fc0cfacf6ce680ef5e2be27f2c/t/768/423/d/gettyimages-2198947429.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240351.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T08:34:00+09:00</dc:date>
+        <title>パキスタン首都で自爆テロ、12人死亡　武装組織が犯行声明</title>
+        <link>https://www.cnn.co.jp/world/35240351.html?ref=rss</link>
+        <description>パキスタンの首都イスラマバードで11日、自爆テロがあり、12人が死亡、20人超が負傷した。反政府武装組織「パキスタン・タリバン運動（TTP）」系の武装組織「ジャマートゥル・アハラール（JuA）」が犯行声明を出した。
+
+JuAは過去10年、犠牲者数の多いテロを実行してきた。だが、TTPの広報担当者によると、TTPは今回のテロには関与していないという。
+
+現場は裁判所近く。イスラマバードではあちこちに警備区域が設けられ、出入...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240351.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/57829d05b6986090c5995bdd13172a5a/t/768/512/d/gettyimages-2245611403.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240347.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-12T08:04:00+09:00</dc:date>
+        <title>英、米国との情報共有を一部停止　麻薬運搬船攻撃の合法性を疑問視 CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/world/35240347.html?ref=rss</link>
+        <description>米国がカリブ海などで麻薬運搬船と疑われる船舶を攻撃している問題で、英国はそうした行為は合法ではないとの見解から、疑わしい船舶についての米国との情報共有を停止した。複数の情報筋がCNNに明らかにした。
+
+英国と米国は最も近い同盟国であり、情報を共有するパートナー国でもある。今回の情報共有停止の決定はこれまでの関係からの大きな転換であり、中南米周辺での米軍の活動の合法性に対する懐疑的な見方が強まっている...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240347.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/12/2bdc5d59d461b4a7de9d4a302815d158/t/768/433/d/screenshot-2025-10-28-at-9-37-42-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35240334.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T19:00:00+09:00</dc:date>
+        <title>「トランプに投票した？」、他国を訪れる米国人が旅先で感じる厳しい視線</title>
+        <link>https://www.cnn.co.jp/travel/35240334.html?ref=rss</link>
+        <description>ダブリン市内の店舗。カリブ海に浮かぶセントマーチン島を走るタクシー。ノルウェー北部の小さな空港。
+
+これらはローレン・ゲイさんが今年、ドナルド・トランプ米大統領についての意見を単刀直入に問われた場所のほんの一部に過ぎない。44歳のゲイさんは、フロリダを拠点とするコンテンツクリエーター。質問してくる人と同じ空間に立ったそばから、米国政治の現状に関するコメントや質問を浴びせられることも少なくないという...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35240334.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/0edf44022f32b0e0bc88dc3a374ce414/t/768/432/d/p7m7g6.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240336.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T17:00:00+09:00</dc:date>
+        <title>中ロの人工衛星、英独は「もはや無視できない」　どのような脅威なのか</title>
+        <link>https://www.cnn.co.jp/world/35240336.html?ref=rss</link>
+        <description>ロシアと中国が人工衛星で欧米諸国の衛星を偵察する行為は、これまでたびたび観測されてきた。ドイツと英国は最近、中ロ両国の衛星からの脅威が拡大していると警告。ロシアの衛星が自国の衛星につきまとい、電波妨害などを繰り返していると強調した。
+
+ピストリウス独国防相は9月、首都ベルリンで開催された宇宙企業との会議で「ロシアの行為、特に宇宙空間における行為はわれわれに重大な脅威を及ぼす。この脅威はもはや無視で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240336.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/418ff4456a3e1ecb4d61d6c4eb0a51d9/t/768/512/d/gettyimages-2236906815.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240337.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T16:37:00+09:00</dc:date>
+        <title>米国で拘束の英国人ジャーナリスト、釈放され帰国へ</title>
+        <link>https://www.cnn.co.jp/world/35240337.html?ref=rss</link>
+        <description>米国で拘束されているイスラム教徒の英国人ジャーナリストのサミ・ハムディ氏がまもなく釈放され、英国に帰国する見通しとなった。ハムディ氏は英ロンドンを拠点とする記者兼評論家で、米国での講演ツアー中に米移民税関捜査局（ICE）に身柄を拘束されていた。
+
+ハムディ氏は先月、サンフランシスコ国際空港を通過する際、米当局に拘束された。
+
+当局はハムディ氏の拘束について、ビザの滞在期間超過を理由に挙げた。イスラム系...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240337.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/5e1fac15452b1c90c4bdf9d798a0e583/t/768/512/d/large-gettyimages-2187203752-20251110220307478.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240327.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T15:07:00+09:00</dc:date>
+        <title>タイ、トランプ氏称賛のカンボジアとの和平合意を「停止」　地雷による兵士の負傷受け</title>
+        <link>https://www.cnn.co.jp/world/35240327.html?ref=rss</link>
+        <description>タイ軍の複数の兵士が10日、国境での地雷の爆発で負傷したことを受け、同国は隣国カンボジアとの和平合意の履行を一時停止すると発表した。この合意はトランプ米大統領の監督の下、先月マレーシアで署名された。
+
+タイとカンボジアは7月、5日間にわたる国境紛争を繰り広げた。紛争により国境の両側で数十人が死亡、約20万人が避難を余儀なくされていた。
+
+両国首脳はトランプ氏と電話会談を行った後、7月28日に最初の停戦合意に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240327.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/fb99fbb882ed1addaa7ebbf067a54aec/t/768/483/d/gettyimages-2243036441.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240328.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T14:45:00+09:00</dc:date>
+        <title>仏ルーブル美術館強盗　「フェドラ帽の男」の身元判明、現場で撮影されたおしゃれな少年に聞く</title>
+        <link>https://www.cnn.co.jp/fringe/35240328.html?ref=rss</link>
+        <description>フランスで宝石をちりばめた王冠が衝撃的な盗難に遭い、すべての視線がルーブル美術館に注がれるなか、事件現場にいたひときわスタイリッシュな人物がネットの注目を集めた。この人物は、洗練された服装の若い男性で、スリーピースのスーツを身にまとい、フェドラ帽の傾きも絶妙だった。
+
+「フランスの名探偵」の正体について臆測が飛び交うなか、写真に写っていたペドロ・エリアス・ガルソン・デルボーさん（15）は新たな二重...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240328.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/491aa66dd6a286edcecf7e74453a70be/t/768/511/d/01-ap25312619970692.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240314.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T13:48:00+09:00</dc:date>
+        <title>「過度の飲酒」、早期の脳出血発症に関連か　米研究</title>
+        <link>https://www.cnn.co.jp/fringe/35240314.html?ref=rss</link>
+        <description>人によっては素敵な夜にワインを1杯注いだり、スポーツ観戦中に缶ビールを開けたりするのはごく自然なことだ。しかし飲酒量が度を超えるのは、一体どの段階なのだろうか？
+
+研究者らは1日に3杯以上の飲酒を日常的に行うことを「過度の飲酒」と定義しているが、これはより重篤な脳出血（または出血性脳卒中）や、より早期の長期的な脳損傷と関連があるという。11月5日付けの神経学誌「ニューロロジー」に掲載された研究が明らか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240314.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/be14252ea882e2152182d40dcfcd9d61/t/768/512/d/gettyimages-1055938450.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240316.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T13:07:00+09:00</dc:date>
+        <title>サルコジ元大統領が釈放、収監中は「苦しかった」　フランス</title>
+        <link>https://www.cnn.co.jp/world/35240316.html?ref=rss</link>
+        <description>フランス・パリの裁判所は10日、大統領選の資金に絡んで有罪判決を受けて刑務所に収監されていたニコラ・サルコジ元大統領の釈放を認める決定を下した。CNN提携局BFMTVが報じた。
+
+サルコジ氏は、2007年の大統領選をめぐり、リビアから資金提供を受ける計画に関与したとして有罪判決を受けていた。見返りとして外交上の便宜を図ったとされる。
+
+サルコジ氏は釈放後、SNSへの投稿で、「支援」や「擁護」をしてくれたすべての人々...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240316.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/2a669cfecabab989a4dc8fc6c5f9d0b5/t/768/516/d/large-p-3-france-justice-sarkozy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240317.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T11:42:00+09:00</dc:date>
+        <title>米上院、政府機関再開に向けた財源法案を承認</title>
+        <link>https://www.cnn.co.jp/usa/35240317.html?ref=rss</link>
+        <description>米上院は10日、連邦政府機関の再開に向けた財源措置を承認した。
+
+財源に関する法案は今後下院に送られる。共和党指導部は12日にも下院を通過し、米国史上最長の政府閉鎖に終止符が打たれることを期待している。
+
+法案はトランプ大統領が署名することで成立する。成立すれば、連邦政府による食料支援などの重要なサービスの再開に加え、数十万人の連邦職員に対する給与支払いが可能になる。</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35240315.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T11:14:00+09:00</dc:date>
+        <title>バフェット氏、株主へ最後の年次書簡　退任後は「静かにする」</title>
+        <link>https://www.cnn.co.jp/business/35240315.html?ref=rss</link>
+        <description>米投資会社バークシャー・ハサウェイの最高経営責任者（CEO）、ウォーレン・バフェット氏（95）は10日、株主に宛てた最後の年次書簡で、今年の年末に退任した後は「静かにする」つもりだと述べた。ただしCEOとして1965年から毎年株主にメッセージを発信し続けてきた同氏がすぐに表舞台から去るわけではない。
+
+バフェット氏が同社の年次報告書の冒頭にメッセージを書くことはなくなるが、同氏は今後も感謝祭のたびに年次メッセ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35240315.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/6906e409306074925c8edfbbcbe0ecb9/t/768/512/d/gettyimages-1481568169-20251110121719610.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240312.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T10:56:00+09:00</dc:date>
+        <title>シシー・スペイセク、偽のブタの血を浴びるのは「ひどかった」　「キャリー」の名場面を振り返る</title>
+        <link>https://www.cnn.co.jp/showbiz/35240312.html?ref=rss</link>
+        <description>米国の俳優シシー・スペイセクは、映画「キャリー」（1976年）のブタの血を浴びる有名な場面について「本当にひどかった」と振り返った。
+
+スティーブン・キングの同名小説を原作とする同作が来年で公開50周年を迎えるのを前に、スペイセクはトーク番組「エンターテインメント・トゥナイト」に出演し、撮影時のことを振り返った。作品の公開が約半世紀前で、「驚いた」とも話した。
+
+スペイセクは映画の中でいじめを受ける高校...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240312.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/7a3f06ebcff384ad2a9fd60f300f16cb/t/768/584/d/large-m8dcarr-ec014.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240302.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T10:29:00+09:00</dc:date>
+        <title>トランプ米大統領、英BBCの提訴を警告　演説の編集問題で</title>
+        <link>https://www.cnn.co.jp/showbiz/35240302.html?ref=rss</link>
+        <description>英公共放送BBCが、その将来をめぐって巨大な政治闘争に巻き込まれている。保守派が編集上のミスに乗じて同局を非難する一方、リベラル派は同局には欠陥があるものの擁護する価値があると主張している。
+
+トランプ米大統領は10日、BBCが1年前に放送したドキュメンタリー番組における誤解を招く編集について、同局に対し脅迫的な法的書簡を送り、一段の圧力をかけた。番組は自身の大統領選での再選キャンペーンに関する内容で、少...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240302.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/73dd15ca1cb9320b7af5c07bc4495353/t/768/492/d/gettyimages-2245474460.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240306.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T09:53:00+09:00</dc:date>
+        <title>刑務所でギャングが衝突して31人死亡、27人は「窒息」　南米エクアドル</title>
+        <link>https://www.cnn.co.jp/world/35240306.html?ref=rss</link>
+        <description>南米エクアドルの刑務所で9日、敵対するギャング同士の衝突が起き、少なくとも31人の受刑者が死亡した。このうち27人は「窒息」によって死亡した。当局が明らかにした。
+
+内相は10日、地元ラジオ局の取材に対し、最初の襲撃は9日午前に発生し、犯罪組織ロス・ロボスが分派組織の攻撃を受けたと明らかにした。拘置所で少なくとも4人が死亡し、およそ36人が負傷したという。当局が事態の収拾に介入した際、職員2人も軽傷を負った...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240306.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/3146d306e891f855b49c03cb1c057b85/t/768/508/d/large-c-gettyimages-2245412550.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240304.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-11T09:35:00+09:00</dc:date>
+        <title>トランプ氏、性的虐待・名誉毀損訴訟めぐり最高裁に上訴</title>
+        <link>https://www.cnn.co.jp/usa/35240304.html?ref=rss</link>
+        <description>トランプ米大統領は10日、米作家ジーン・キャロルさんに対する性的虐待と名誉毀損（きそん）をめぐる民事訴訟の審理を連邦最高裁判所に要求した。
+
+連邦控訴裁判所は昨年、陪審員による評決とトランプ氏に対する500万ドル（約7億7000万円）の支払いの判断を支持し、一審には再審理を必要とするような誤りはなかったと判断した。今年6月には、大法廷での審理請求も退けられていた。
+
+トランプ氏は、裁判を担当したルイス・カプラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240304.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/09292d48485b45b042957971ed5abfd5/t/768/512/d/gettyimages-1963508188.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
