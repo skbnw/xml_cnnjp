@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-11-14T18:50:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240502.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240490.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240500.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240492.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240494.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35240488.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240487.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35240481.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240455.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240456.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240454.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240452.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240447.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240436.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240445.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240443.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240439.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35240442.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240437.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240434.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240428.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240433.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240432.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240430.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240426.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240424.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240425.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240420.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35240422.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240411.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240502.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-14T18:50:00+09:00</dc:date>
+        <title>中国の宇宙飛行士、地球に帰還　宇宙ごみ衝突の疑いで当初予定から遅れ</title>
+        <link>https://www.cnn.co.jp/fringe/35240502.html?ref=rss</link>
+        <description>国営メディアによると、中国の宇宙飛行士3人が14日、予定より1週間以上遅れて地球に帰還した。宇宙船の窓が宇宙ごみの衝突で割れたとみられる事案を受けて、3人は宇宙での予定外の長期滞在を余儀なくされていた。
+
+カプセルのハッチが開いた後、医療チームが宇宙飛行士の健康状態が良好であることを確認したという。中国国営メディアCCTVが報じた。
+
+宇宙船「神舟20号」に乗り組んでいた当該の宇宙飛行士たちは、5日に宇宙ステ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240502.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/051f8b5f4d1883037e978a7c2a0664c9/t/768/512/d/2025-04-23t110014z-1573889686-rc2d3eai04xt-rtrmadp-3-space-exploration-china-shenzhou__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240490.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-14T18:34:00+09:00</dc:date>
+        <title>【分析】エプスタイン文書が持つ政治的危険性、トランプ氏への影響は</title>
+        <link>https://www.cnn.co.jp/usa/35240490.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した米富豪ジェフリー・エプスタイン元被告に関して、例えトランプ大統領に後ろめたいことが何もないとしても、それを示すやり方が奇妙なものになっているのは間違いない。 トランプ氏は元被告との関係において、ここまでいかなる不正行為の非難も受けていないが、疑わしい印象を与えることにかけては見事な手腕を発揮している。
+
+そしてそのような事実は、それ自体が政治的な問題となる恐れがある...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240490.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/14/66e1f08b084221fce35c29604650ce65/t/768/512/d/gettyimages-681946574-20251112163040500.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240500.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-14T17:50:00+09:00</dc:date>
+        <title>親と同じ姿で生まれるヒキガエル、新種を確認　タンザニア</title>
+        <link>https://www.cnn.co.jp/fringe/35240500.html?ref=rss</link>
+        <description>科学者たちは、並外れた特徴を備える3種のヒキガエルを新たに確認した。これらの種は卵とオタマジャクシの段階を飛び越え、小さなカエルの姿で生まれる。メスは陸上でこれらの小カエルを数十匹産む。それぞれの小カエルはわずか数ミリの大きさしかない。
+
+両生類において、卵とオタマジャクシの形態を飛ばして生まれてくる種は極めて珍しい。4000種以上のカエルとヒキガエルのうち、胎生、つまりカエルの形態での子を産む種は1%...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240500.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/14/857c38f252850bb243af21c39a565856/t/768/512/d/nectophrynoides-luhomeroensis-credit-john-lyakurwa-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240492.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-14T16:15:00+09:00</dc:date>
+        <title>ヒトラーのDNA解析で驚くべき発見、英研究チームの発表がドキュメンタリーに</title>
+        <link>https://www.cnn.co.jp/fringe/35240492.html?ref=rss</link>
+        <description>ナチス・ドイツの独裁者アドルフ・ヒトラーのDNAとされる標本を解析した英国の研究チームが、ヒトラーには思春期の遅れや欠如につながる先天性疾患の遺伝的特徴があったことが分かったと発表した。この研究を紹介したドキュメンタリー番組は、英チャンネル4で15日に放送される。
+
+英バース大学の遺伝学者トゥリ・キング教授のチームは4年以上かけた研究で、ヒトラーが1945年に拳銃で自殺した地下壕（ごう）のソファから切り取っ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240492.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/14/9087390134dfc92822995fa9f121fb70/t/768/512/d/cloth-close-up-credit-blink-films-low-res.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240494.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-14T15:08:00+09:00</dc:date>
+        <title>ダニ刺されで発症する赤身肉アレルギーで初の死亡例、キャンプで数十匹に刺される　米</title>
+        <link>https://www.cnn.co.jp/fringe/35240494.html?ref=rss</link>
+        <description>2024年の夏、米ニュージャージー州の自宅浴室で、それまで健康だった男性（47）が倒れ死亡した。検視でも死因は特定できず、不自然な点もなかったことから、原因不明の突然死と判断された。
+
+そこで男性の妻が友人である小児科医に相談したところ、バージニア大学のアレルギー専門医で免疫学者のトーマス・プラッツミルズ氏と連絡がついた。同氏は約20年前にダニ刺されによって赤身肉アレルギーが発症する可能性があることを発...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240494.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/14/19408ea7560b1e176cbd6981fb3c4741/t/768/465/d/gettyimages-1240890390.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35240488.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-14T12:25:00+09:00</dc:date>
+        <title>ロシア製ヒト型ロボット、華々しいデビューであえなく転倒</title>
+        <link>https://www.cnn.co.jp/tech/35240488.html?ref=rss</link>
+        <description>ロシアが首都モスクワで開かれたテクノロジーイベントで、人工知能（AI）を搭載したヒト型ロボット（ヒューマノイド）を発表した。しかし、お披露目は計画通りにいかなかった。
+
+映画「ロッキー」のサウンドトラックとともに登場したロボット「AIdol」だったが、足元はおぼつかなかった。スタッフがステージに駆けつけ、支えようとするも、AIdolはあえなく前のめりに転倒。１ラウンドすらもたなかった。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35240488.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/14/29b7aab609f2848be8967d162ff355bd/t/768/432/d/115163-russiarobotfail-clean-00-00-26-14-still001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240487.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-14T11:35:00+09:00</dc:date>
+        <title>超加工食品の摂取で若年期の大腸腺腫発症リスクが45%上昇　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35240487.html?ref=rss</link>
+        <description>超加工食品の摂取が若年期における良性の大腸腺腫の発症リスクを著しく高める可能性があることがわかった。
+
+若年層の大腸がんが世界中、特に米国で増加傾向にあるなか、超加工食品の消費も増えている。現在、超加工食品は米国の食料供給の約70%、成人の摂取カロリーの60%近くを占めており、複数の研究でこの増加傾向と大腸がんリスクとの関連が指摘されている。
+
+今回初となる研究は、超加工食品の摂取が若年期における良性の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240487.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/14/f5fdee2514b98243c14f4449114dda6a/t/768/512/d/gettyimages-1491348960.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35240481.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-14T10:58:00+09:00</dc:date>
+        <title>アップル、ニット編みストラップ「iPhone Pocket」発表　あまりの高額に困惑の声</title>
+        <link>https://www.cnn.co.jp/tech/35240481.html?ref=rss</link>
+        <description>米アップルは11日、ファッションデザイナーのイッセイミヤケとコラボ開発したニット編みのストラップ「iPhone Pocket」を発表した。
+
+発表によると、iPhone Pocketは「もう一つポケットを加えるというアイデアから生まれた」製品で、全てのiPhoneにフィットする。14日から発売予定。
+
+「Appleとイッセイミヤケは、職人の技、シンプルさ、喜びの賞賛といったデザインアプローチを共有している。この便利なもう一つのポケットはそ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35240481.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/14/71da5432938487fa9765dde70f686c33/t/768/432/d/apple-iphone-pocket-and-issey-miyake-short-strap-colors.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240455.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-14T10:26:00+09:00</dc:date>
+        <title>英BBC、不適切な編集巡りトランプ氏に謝罪　名誉毀損の訴えは否定</title>
+        <link>https://www.cnn.co.jp/showbiz/35240455.html?ref=rss</link>
+        <description>英公共放送BBCは13日、トランプ米大統領を扱ったドキュメンタリー番組について本人への謝罪を表明した。トランプ氏の弁護団は当該の番組が虚偽かつ名誉毀損（きそん）に当たると非難していた。騒動の沈静化を図りたいBBCだが、現状ではここ数年で最悪の危機に陥っている。
+
+BBCの広報担当者は、同局の弁護士がトランプ氏の弁護団に書簡を送ったと明らかにした。9日に受け取った書簡への返答だとしている。
+
+広報担当者によると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240455.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/14/29227afb0e26abee5d7315eaeb29d24a/t/768/512/d/ap25316394685569.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240456.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-14T09:20:00+09:00</dc:date>
+        <title>乗客乗せたバスを男が乗っ取り　路線通りに運行、パス期限切れの客は乗車させず　カナダ</title>
+        <link>https://www.cnn.co.jp/world/35240456.html?ref=rss</link>
+        <description>カナダ南東部のオンタリオ州で、男が路線バスを乗っ取って10人ほどの乗客を乗せたまま市内を走行する事件があった。警察によると、男は連節バスを運転して路線に従って市内を走行。期限切れのパスを使おうとした乗客は乗車させない慎重ぶりで、車体には傷ひとつ残さなかった。
+
+ハミルトン警察の広報は「愉快ではあるが極めて深刻だ。けが人がなくてよかった」とCNN提携局のCBCにコメントしている。
+
+警察の12日の発表によると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240456.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/14/67bb32f61f291606a094b3ffb293190e/t/768/512/d/gettyimages-2155164160.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240454.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-14T08:26:00+09:00</dc:date>
+        <title>トランプ米政権、選挙区割変更でカリフォルニア州を提訴　中間選挙見据え</title>
+        <link>https://www.cnn.co.jp/usa/35240454.html?ref=rss</link>
+        <description>米カリフォルニア州でこのほど選挙区割りの変更が承認される見通しとなったことを受けて、トランプ政権は13日、同州を提訴した。来年の中間選挙を見据え、共和党に不利に働くのを防ぐ狙いがある。
+
+同州では先週、連邦議会下院の選挙区割り変更の是非を問う住民投票があり、賛成多数で可決された。これにより、来年の中間選挙で民主党に有利な選挙区が五つ増えることになる。このため、同州の共和党などは区割り変更を阻止しよ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240454.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/14/6698780059edd688c14591cef00cea81/t/768/506/d/gettyimages-2244069115.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240452.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-14T07:53:00+09:00</dc:date>
+        <title>米政権、「民間部門で6万人分の雇用喪失の可能性」　政府機関閉鎖で</title>
+        <link>https://www.cnn.co.jp/usa/35240452.html?ref=rss</link>
+        <description>米国家経済会議（NEC）のハセット委員長は13日、史上最長となる43日間にわたる政府閉鎖により、民間部門で6万人分の雇用が失われた可能性が高いと述べた。経済損失額は1週間あたり推定150億ドル（約2兆3180億円）にのぼるという。
+
+ハセット氏は6万人分の雇用喪失には政府職員の分は含まれないとした。経済損失額は大統領経済諮問委員会（CEA）が新たに出した報告書にある推定を引用している。
+
+数週間後に雇用統計と失業保険申...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240447.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T19:01:00+09:00</dc:date>
+        <title>米空母打撃群が到着、ベネズエラ国民に広がる不安と猜疑心　マドゥロ氏排除が狙いとの見方も</title>
+        <link>https://www.cnn.co.jp/world/35240447.html?ref=rss</link>
+        <description>米国で最も高度な空母「ジェラルド・フォード」を中核とする打撃群が中南米地域に到着し、米国とベネズエラの間の緊張が一段と高まっている。空母打撃群到着の翌日、ベネズエラの首都カラカスでは、市民たちが不安から猜疑（さいぎ）心まで様々な感情を口にした。
+
+米海軍によると、ジェラルド・フォード空母打撃群は、カリブ海で2カ月前から麻薬密輸船の攻撃を行っている他の艦艇の支援に当たる見通し。
+
+米政権は派遣戦力を増...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240447.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/fbf52aa19f58d4922e85727157e60dfa/t/768/547/d/9380204.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240436.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T17:31:00+09:00</dc:date>
+        <title>新たに発掘した卵の殻の化石、太古のワニの生態解明に期待　豪</title>
+        <link>https://www.cnn.co.jp/fringe/35240436.html?ref=rss</link>
+        <description>科学者たちが、オーストラリアで最古とみられるワニの卵の殻を発掘したと明らかにした。太古の世界を生きたこの爬虫（はちゅう）類は、樹上から獲物に向かって飛び降りる形で狩りをしていた可能性があるという。
+
+卵の殻はメコスクス亜科のワニのものだった。このワニは約5500万年前、オーストラリアの水域を支配していた先史時代の生物で、その年代はイリエワニとオーストラリアワニが豪州大陸に到達した約380万年前よりもずっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240436.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/18082e4f80aab31d84b179451c86c198/t/768/576/d/image003-20251112160356928.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240445.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T17:04:00+09:00</dc:date>
+        <title>ミツバチが時間を処理できることを発見、昆虫では初めて　光の点滅の長さを区別</title>
+        <link>https://www.cnn.co.jp/fringe/35240445.html?ref=rss</link>
+        <description>マルハナバチは光の点滅の長さを見分けて、その情報をもとに食べ物を探す場所を決められることが新たな研究で明らかになった。
+
+これは昆虫にこうした能力があるという初めての証拠だという。ロンドン大学クイーン・メアリー校の博士課程の学生アレックス・デービッドソン氏と指導教員のエリザベッタ・ベルサーチ上級講師が指摘した。ベルサーチ氏はCNNの取材に対し、今回の発見は昆虫が複雑なパターンを処理できるかどうかとい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240445.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/199f9970d33c4fd799144f685fabf492/t/768/576/d/apparatus-used-in-the-experiment.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240443.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T16:38:00+09:00</dc:date>
+        <title>台風で数百年前の難破船が姿を現す　ベトナム</title>
+        <link>https://www.cnn.co.jp/fringe/35240443.html?ref=rss</link>
+        <description>台風25号（カルマエギ）がベトナムのホイアンを通過した後、数百年前のものと推定される難破船の一部が姿を現した。
+
+見た目は流木のようだが、台風によって掘り起こされた推定500年前の難破船だ。
+
+この難破船が姿を現したのは今回が2度目。この難破船は2023年に最初に発見されたが、調査が行われる前に再び砂で覆い隠されてしまっていた。
+
+全長は約16メートル、幅は約4.8メートル。放射性炭素年代測定によれば、14〜16世紀の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240443.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/82cddfd57a65ddd2862be5e66075b191/t/768/432/d/gettyimages-2245429009-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240439.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T16:06:00+09:00</dc:date>
+        <title>写真で見る、太陽嵐のさなかに夜空を彩るオーロラ</title>
+        <link>https://www.cnn.co.jp/fringe/35240439.html?ref=rss</link>
+        <description>今週は太陽嵐の影響で、11日夜からめくるめく鮮やかなオーロラが出現した。
+
+北半球ではオーロラ・ボレアリス（北極光）、南半球ではオーロラ・オーストラリス（南極光）が、めったにオーロラの見られない地域の空を彩った。
+
+今回のオーロラは、11、12両日の激しい太陽嵐の際に太陽から放出された高エネルギー粒子によって引き起こされたものだ。
+
+これらの粒子が地球の磁場に衝突し、大気中のガスと相互作用を起こすことで、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240439.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/202c0bbb4a014efaa33250a7ae71f860/t/768/512/d/gettyimages-2245787057.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35240442.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T16:00:00+09:00</dc:date>
+        <title>写真特集：太陽嵐で出現、世界の夜空を彩るオーロラ</title>
+        <link>https://www.cnn.co.jp/photo/35240442.html?ref=rss</link>
+        <description>今週は太陽嵐の影響で、11日夜からめくるめく鮮やかなオーロラが出現した。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35240442.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/53de7c45d44f07d5e7d5de96d979b10a/t/768/540/d/aurora_3_1200_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240437.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T15:49:00+09:00</dc:date>
+        <title>賛否分かれるCOP30が開幕　予想される成果は？</title>
+        <link>https://www.cnn.co.jp/world/35240437.html?ref=rss</link>
+        <description>気候変動に関する世界最大の会議、国連気候変動枠組み条約第30回締約国会議（COP30）が開幕した。世界190を超える国と地域の代表者がブラジル北部ベレンに集まり、2週間にわたって具体的な温暖化対策を話し合う。
+
+会議ではどんな議論が交わされるのだろうか。
+
+COP30とは何か
+
+1992年に採択された国連気候変動枠組み条約には、150カ国あまりが署名した。COPは「締約国会議」を意味する略語だ。第1回は95年に独ベルリンで開催さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240437.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/e2223a3bd5576a0e9c9c8cc6439ce0f0/t/768/512/d/gettyimages-2244963995.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240434.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T14:49:00+09:00</dc:date>
+        <title>メリル・ストリープ、「プラダを着た悪魔2」予告編でアン・ハサウェイと再共演　「久しぶりね」</title>
+        <link>https://www.cnn.co.jp/showbiz/35240434.html?ref=rss</link>
+        <description>映画「プラダを着た悪魔2」の待望の予告編が12日に公開され、メリル・ストリープとアン・ハサウェイの再共演が話題になっている。
+
+予告編では、ストリープ演じるミランダ・プリーストリーが赤いヒールを鳴らしながら架空の雑誌「ランウェイ」の編集部を歩いていく。エレベーターに乗り込み、扉が閉まろうとするその時、前作でアシスタントとして成長したアン・ハサウェイ演じるアンドレア・サックスが現れる。
+
+ミランダが「久...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240434.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/91353889da39dcf3dc16878b3c2857be/t/768/432/d/screen-shot-2025-11-12-at-1-07-25-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240428.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T13:58:00+09:00</dc:date>
+        <title>子どもの高血圧の割合、20年で倍増　「隠れ高血圧」のパターンも</title>
+        <link>https://www.cnn.co.jp/fringe/35240428.html?ref=rss</link>
+        <description>2000年以降、小児期や思春期に高血圧を発症する割合が世界的にみてほぼ倍増したことがわかった。将来的な健康悪化が懸念される子どもが増えている。
+
+「00年には、男子の約3.4%、女子の約3%に高血圧がみられた。20年までにこの数値はそれぞれ6.5%と5.8%に上昇した」と、中国の浙江大学医学院公衆衛生学院の研究者ソン・ペイジ氏は述べた。ソン氏は、12日にランセット・チャイルド・アンド・アドレセント・ヘルス誌に掲載された...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240428.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/63b45f660938453018b5b81fb68600e7/t/768/432/d/gettyimages-1344723847.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240433.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T13:24:00+09:00</dc:date>
+        <title>最大級の磁気嵐続く、米南部でも異例のオーロラ　通信やGPSに影響も</title>
+        <link>https://www.cnn.co.jp/fringe/35240433.html?ref=rss</link>
+        <description>地球を襲った強烈な太陽嵐の影響で、米国の広い範囲で11日に続いて12日夜もオーロラが発生した。11日夜には南部のフロリダ州などオーロラが極めて稀（まれ）な場所でも観測され、12日には磁気嵐が強まって前日以上に色鮮やかになっている。
+
+米国立気象局（NWS）の宇宙天気予報センターによると、強い太陽フレアに引き起こされた磁気嵐は、5段階で3番目に強い「G3」から、さらに強い「G4」に発達する可能性があり、イリノイ州や...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240433.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/9c2631f6d11c8f10b7fa427fd8b22f79/t/768/511/d/01k9w76cdmk014y6qr1t9hd13h.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240432.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T13:03:00+09:00</dc:date>
+        <title>トランプ大統領、つなぎ予算案に署名　史上最長の政府機関閉鎖が終結</title>
+        <link>https://www.cnn.co.jp/usa/35240432.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領は12日、 政府機関の一部閉鎖を終わらせる「つなぎ予算」案に署名した。これにより、米史上最長となった政府閉鎖は公式に終結した。
+
+この法案は、下院が同日採決して大統領の机に送られた。下院では共和党議員のほぼ全員と少数の民主党議員が賛成し、賛成222票、反対209票で可決されていた。
+
+今回の法案には、連邦政府を来年1月末まで運営するのに必要な暫定予算や、来年9月末まで一部重要機関...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240432.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/6dd5def0ca92e56a6938183f77d6ec26/t/768/511/d/large-gettyimages-2246445528.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240430.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T12:45:00+09:00</dc:date>
+        <title>米下院、政府機関再開に向けた財源法案を承認　トランプ大統領が署名へ</title>
+        <link>https://www.cnn.co.jp/usa/35240430.html?ref=rss</link>
+        <description>米連邦議会の両院は、記録的な長さに及んだ連邦政府閉鎖の終結を決議した。政府機関の再開に向けた財源関連の法案がドナルド・トランプ大統領に送付され、署名される見通しとなった。
+
+下院は12日夜、史上最長となる43日間にわたって閉鎖された政府機関を再開するための法案を最終承認した。これにより、共和党が嫌う医療保険制度改革法（オバマケア）の行方をめぐる6週間に及ぶ膠着（こうちゃく）状態に終止符が打たれた。
+
+最...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240430.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/d72950e9c370b4912302b5619b856ba0/t/768/432/d/still-22056758-3166454-863-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240426.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T12:22:00+09:00</dc:date>
+        <title>ローマ教皇レオ14世の好きな映画はこの4本、バチカンが発表</title>
+        <link>https://www.cnn.co.jp/world/35240426.html?ref=rss</link>
+        <description>ローマ教皇レオ14世が映画界の関係者と対話する15日の謁見（えっけん）を前に、ローマ教皇庁がレオ14世のお気に入り映画4本を発表した。
+
+レオ14世が好きな4本はいずれも20世紀に公開された作品で、最も古いのはフランク・キャプラ監督の「素晴らしき哉、人生!」（1946年）。実業家が天国からやって来た天使に助けられて自分の存在の意味を認識するというストーリーだった。
+
+2番目はロバート・ワイズ監督のミュージカル映画「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240426.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/4ac330378dd6f2c9ce7238e096868628/t/768/511/d/gettyimages-2213964181.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240424.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T12:11:00+09:00</dc:date>
+        <title>【分析】日本の新首相はいかにして中国の「戦狼」を呼び覚ましたのか</title>
+        <link>https://www.cnn.co.jp/world/35240424.html?ref=rss</link>
+        <description>結局、蜜月期間など存在しなかった。
+
+日本の新首相に就任した高市早苗首相はわずか2週間前、中国の習近平（シーチンピン）国家主席と握手を交わした。いま、日中関係は劇的に悪化し、中国国内では国家主義的な言辞がエスカレートしつつある。中国人外交官の1人からは、斬首の脅しとみられる発言まで飛び出した。
+
+日本初の女性首相に先月選出されたばかりの高市氏は、台湾を巡り中国政府と激しい対立に巻き込まれている。中国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240424.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/e297a07e4f4d0f5c55e7bcdeb773ad14/t/768/432/d/gettyimages-2244890605__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240425.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T11:47:00+09:00</dc:date>
+        <title>妊娠中の女性、銃による殺人の発生率37％上昇　米研究</title>
+        <link>https://www.cnn.co.jp/usa/35240425.html?ref=rss</link>
+        <description>2020年4月9日、シャーリー・スカボローさんはいつものように祈りの電話をかけた後、勤務先へ向かうと、別の電話がかかってきた。バージニア州リッチモンドの警察からで、末娘のフランチェスカ・ハリススカボローさん（31）が前夜、殺害されたという知らせだった。
+
+警察が見つけたフランチェスカさんの車はエンジンがかかったままだった。妊娠3カ月だったフランチェスカさんは心臓を2発撃たれていた。
+
+「心の準備ができていな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240425.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/11/cc66f05921e1dd20e1b71f54407da465/t/768/511/d/large-gettyimages-2229743211.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240420.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T11:24:00+09:00</dc:date>
+        <title>ロンドン地下鉄で親子連れに人種差別的暴言、警察がトランプ支持派の男女から事情聴く意向</title>
+        <link>https://www.cnn.co.jp/world/35240420.html?ref=rss</link>
+        <description>英ロンドンの繁華街で子どもを連れた女性が男女2人に人種差別的暴言を浴びせられて暴行される事件があり、警察は事情を聴きたいとする1組の男女の写真を公開して一般からの情報提供を呼びかけている。
+
+男女の写真は英運輸警察が10日に公開した。CNNはこの2人が、ドナルド・トランプ米大統領支持派のMAGAインフルエンサー、メリッサ・レイン・ライブリー氏と、交際相手のフィリップ・オステルマン氏だったことを突き止めた。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240420.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/77241c91f211740165de79113bd5772e/t/208/432/d/british-transport-police.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35240422.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T10:55:00+09:00</dc:date>
+        <title>米造幣局が1セント硬貨の製造終了、238年の歴史に幕　小売りの現場では混乱も</title>
+        <link>https://www.cnn.co.jp/business/35240422.html?ref=rss</link>
+        <description>米ペンシルベニア州フィラデルフィアにある造幣局で12日、最後の1セント（0.01ドル=約1.54円）硬貨が製造された。1セント硬貨は長い闘病の末、息を引き取った。享年238歳。
+
+ブランドン・ビーチ財務官が最後の製造に立ち会った。トランプ大統領は2月、SNSを通じ、製造コストを理由に1セント硬貨の製造停止を造幣局に指示したと明らかにしていた。
+
+1セント硬貨の製造費用は1枚あたり約4セントで、額面を上回る。かつてはガムボ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35240422.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/8738cc4f31927a9b13fc870e8e825093/t/768/526/d/large-gettyimages-2244371456.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240411.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-13T10:11:00+09:00</dc:date>
+        <title>エプスタイン文書の公開義務づける法案、米下院で来週にも採決へ　議長が明言</title>
+        <link>https://www.cnn.co.jp/usa/35240411.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した米富豪ジェフリー・エプスタイン元被告に関する文書について、連邦議会下院のマイク・ジョンソン議長は12日、司法省に対し全ての文書の公開を義務付ける法案を来週にも下院本会議に提出すると発表した。実現すれば予想されていたよりも早い時期での提出となる。
+
+ジョンソン氏は記者団に対し、「来週下院に戻り、本会議で採決を行う予定だ」と述べた。
+
+「その間にも下院監視委員会が独自の調...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240411.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/13/03d4b06f76a8a245604dac7eade74e0e/t/768/512/d/gettyimages-2246427124.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
