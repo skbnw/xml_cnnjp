@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-11-18T09:07:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240586.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240584.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35240576.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240575.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240573.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240571.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240557.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240562.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240563.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240561.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240554.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240552.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240549.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240541.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240540.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240534.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240539.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240537.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240519.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35240533.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240532.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240531.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240530.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240529.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240528.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240523.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240514.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240517.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240518.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240515.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35240586.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-18T09:07:00+09:00</dc:date>
+        <title>ウクライナ、フランス製戦闘機「最大100機」購入で合意</title>
+        <link>https://www.cnn.co.jp/world/35240586.html?ref=rss</link>
+        <description>フランス大統領府は、ウクライナがフランス製ラファール戦闘機「最大100機」、防空システム、ドローン（無人機）をフランスから購入することを確認した。
+
+フランスを訪問したウクライナのゼレンスキー大統領は17日、マクロン仏大統領と意向表明書に署名。その後、記者団に対し「我々は世界最高峰の防空システムを手に入れることになる」と述べた。
+
+ゼレンスキー氏は、八つの防空システムと6基の発射装置が含まれるこの契約に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240586.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/18/c2146e18e1a11b159d4743c017cb2a05/t/768/512/d/ap25321366804666.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240584.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-18T08:19:00+09:00</dc:date>
+        <title>ウクライナに支援物資運ぶ鉄道の線路が爆破、「破壊行為」と断定　ポーランド</title>
+        <link>https://www.cnn.co.jp/world/35240584.html?ref=rss</link>
+        <description>ポーランドのトゥスク首相は17日、首都ワルシャワとルブリンを結ぶ鉄道の線路が週末に「前例のない破壊行為」によって破壊されたと述べた。この鉄道は「ウクライナへの援助物資輸送に極めて重要」なものだという。
+
+トゥスク氏はX（旧ツイッター）に、「爆発装置」によって16日に線路が爆破されたと投稿。この攻撃は「ポーランド国家とその国民の安全を直接（標的にした）」と非難した。
+
+同じ路線のさらに先でも破壊が確認され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240584.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/18/b458711c898cc9150cc836f8fd55ad54/t/768/512/d/ap25321350557950.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35240576.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-17T17:56:00+09:00</dc:date>
+        <title>AI搭載ペンダント「フレンド」、NYでの広告に非難殺到　開発者の思いは？</title>
+        <link>https://www.cnn.co.jp/tech/35240576.html?ref=rss</link>
+        <description>25セント硬貨より少し大きい、控えめな円形のペンダントが、いま大騒動の渦中にある。ただしその背後にいるトップは動じていない。
+
+アビ・シフマン氏（23）は、人工知能（AI）コンパニオンとして機能する「フレンド」ペンダントを開発した。自身は親しい友人に恵まれているが、誰もがそういうわけではない。特に若い男性が孤独の危機に直面している現状に気づいたことが開発のきっかけだった。
+
+昨年、拡散した動画でお披露目...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35240576.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/17/375f8818ee3cfe077f1366c9d57a2175/t/768/432/d/still-22101208-3107198-667-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240575.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-17T17:05:00+09:00</dc:date>
+        <title>イランで歴史的な干ばつ、水不足対策で「人工降雨」を実施</title>
+        <link>https://www.cnn.co.jp/world/35240575.html?ref=rss</link>
+        <description>イランが直面する深刻な水危機に対応するため、「人工降雨」の運用に乗り出した。国営イラン通信（IRNA）が伝えた。
+
+イランの気象当局は15日、国内の降水量が長期平均と比べて約89％減少し、過去50年で最も乾燥した秋になったと発表した。
+
+IRNAによると、今回の人工降雨作業は北西部のウルミエ湖周辺で、人工降雨装置を搭載した航空機によって実施された。
+
+イランでは長年、雲に化学物質を散布して雨を降らせるこの方法が使...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240575.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/17/72e5d7a36967a571ebdc098346c1ba92/t/768/511/d/large-c-gettyimages-2245525878.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240573.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-17T16:46:00+09:00</dc:date>
+        <title>ノルディックウォーキングは「高齢者のスポーツ」にあらず、カロリーを消費して筋肉の鍛錬にも</title>
+        <link>https://www.cnn.co.jp/fringe/35240573.html?ref=rss</link>
+        <description>欧州をはじめ世界各地で、トレッキングポールを手に田園地帯を歩く人たちの姿をよく見かける。市街地でも、関節への負担を和らげ、安定性を高め、身体を支えるためにポール（ウォーキングスティックやハイキングポールとも呼ばれる）を使って歩く人は少なくない。
+
+ノルディックウォーキング用のポールを使用すれば、さらに多くの効果が得られそうだ。
+
+例えば、ある研究によれば、ノルディックウォーキングは線維筋痛症などの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240573.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/17/3eddb9be5227f230d4958651337ec063/t/768/511/d/large-gettyimages-1175932919.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240571.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-17T15:28:00+09:00</dc:date>
+        <title>トランプ氏、エプスタイン文書めぐり態度一変　公開に賛成票投じるよう共和党議員に呼びかけ</title>
+        <link>https://www.cnn.co.jp/usa/35240571.html?ref=rss</link>
+        <description>トランプ米大統領は16日、下院共和党議員に対し、性犯罪で起訴され勾留中に死亡した富豪ジェフリー・エプスタイン元被告に関連する文書を公開することに賛成票を投じるよう促した。「民主党によるでっち上げ」から前進すべきだとしている。この動きは、これまで同件に対する取り組みを否定してきた同氏の姿勢から明らかな転換を示している。
+
+「下院共和党議員はエプスタイン文書の公開に賛成票を投じるべきだ。我々には隠すこ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240571.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/17/5b12f8473ba135426c0199e2a92b524a/t/768/512/d/gettyimages-2246197922.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240557.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-17T15:08:00+09:00</dc:date>
+        <title>「肉ひき機」からモペッドに　ウクライナ戦争でのロシアの戦い方はどう変化したのか</title>
+        <link>https://www.cnn.co.jp/world/35240557.html?ref=rss</link>
+        <description>まるで終末後の世界のようだった。濃い霧の中からロシア兵の車列が現れ、ウクライナ東部の都市ポクロウスクに向かって進んでいく。兵士の中にはバイクやモペッドに乗っている者もいれば、古びたピックアップトラックの荷台に立っている者もいる。ある一団は、檻（おり）に似た奇妙な装置を備えた車両に乗っている。
+
+SNSに投稿された短い動画からは、ウクライナ戦争でロシアがどのように戦い方を変えているのかを垣間見ることが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240557.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/17/67e12b22638e67fbbb15bbdc5e6cee0d/t/768/512/d/gettyimages-2220224438.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240562.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-17T13:40:00+09:00</dc:date>
+        <title>【CNN.co.jp週間ランキング】先週もっともよく読まれた記事は？（25年11月10～16日）</title>
+        <link>https://www.cnn.co.jp/fringe/35240562.html?ref=rss</link>
+        <description>CNN.co.jpでは米国政治を中心にサイエンスやスポーツ、エンタメなど幅広く海外の情報をお届けしています。
+
+先週はどんな記事がよく読まれたのでしょうか。11月10日から11月16日の週間ランキングトップ5をご紹介します。
+
+第5位：アップル、ニット編みストラップ「iPhone Pocket」発表　あまりの高額に困惑の声
+
+
+  
+
+  
+米アップルは11日、ファッションデザイナーのイッセイミヤケとコラボ開発したニット編みのストラップ「iPh...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240562.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/15/93914de09a13a3ff6994a462cd762f4c/t/768/432/d/ranking_logo.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240563.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-17T13:28:00+09:00</dc:date>
+        <title>米、ベネズエラの麻薬組織を「外国テロ組織」に指定へ</title>
+        <link>https://www.cnn.co.jp/usa/35240563.html?ref=rss</link>
+        <description>米国のルビオ国務長官は16日、南米ベネズエラの麻薬組織「カルテル・デ・ロス・ソレス」について、月内にも「外国テロ組織」に指定すると明らかにした。米国は、ベネズエラのマドゥロ大統領や高官が同組織を率いていると主張している。
+
+米国務省は声明で「マドゥロ氏とその取り巻きは、ベネズエラの正統な政府を代表するものではない」と指摘。カルテル・デ・ロス・ソレスはトレン・デ・アラグアやシナロア・カルテルなど他の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240563.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/17/1fbe3741243a321329ae2760061c393a/t/768/512/d/large-2-rtrmadp-3-canada-g7.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240561.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-17T12:09:00+09:00</dc:date>
+        <title>トランプ氏、ベネズエラは「話し合いを望んでいる」　両国の緊張高まる中</title>
+        <link>https://www.cnn.co.jp/usa/35240561.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領は16日、麻薬組織「カルテル・デ・ロス・ソレス」を「外国テロ組織」に指定することで、米軍がベネズエラのマドゥロ大統領の国内資産やインフラを攻撃できるようになると示唆した。
+
+トランプ氏はフロリダ州を出発してワシントンへ戻る際、記者団に、「マドゥロ氏とは何らかの話し合いを持つかもしれない。その結果を見てみよう」と語った。
+
+「彼らは話し合いを望んでいる」とトランプ氏は述べ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240561.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/17/076c6c0a511ff6cc0dcd79b9a28e7025/t/768/511/d/large-c-gettyimages-2247045310.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240554.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-17T10:57:00+09:00</dc:date>
+        <title>米軍がまた「麻薬船」攻撃　21回目、乗船者の殺害計83人に</title>
+        <link>https://www.cnn.co.jp/usa/35240554.html?ref=rss</link>
+        <description>米南方軍は16日、麻薬密輸船を狙ったとする21回目の攻撃を15日に行い、乗船者3人を殺害したと発表した。
+
+米南方軍は同船について「違法な麻薬密輸にかかわっており、麻薬を積んで麻薬密輸ルートを航行していたことを情報機関が確認した」と発表。「乗船していた麻薬テロリストの男3人が死亡した」としている。
+
+発表によれば、同船は東太平洋で麻薬を密輸していたとされ、攻撃は公海で行った。
+
+米軍が麻薬密輸船を狙ったとす...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240554.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/17/f70e34c3ff69f127fe56f9c50da98e57/t/768/512/d/large-drug-boat-strike.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240552.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-17T10:29:00+09:00</dc:date>
+        <title>米黒人指導者ジャクソン師が入院、血圧低下で生命維持処置</title>
+        <link>https://www.cnn.co.jp/usa/35240552.html?ref=rss</link>
+        <description>米黒人指導者のジェシー・ジャクソン師（84）が先週から入院し、血圧を安定させるために生命維持の措置を受けている。家族の関係者が16日、CNNに明らかにした。
+
+ジャクソン師はかつて故マーティン・ルーサー・キング牧師と共に活動した公民権運動家。ジャクソン師が設立したNGO「レインボー・プッシュ連合」は12日、同氏が難病の進行性核上性麻痺（PSP）のため、経過観察を受けていることを明らかにした。
+
+関係者によると、ジ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240552.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/17/1b1b4f3e2a7b2e0e06cd2b1246ab2b45/t/768/511/d/large-c-ap23195667579851.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240549.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-17T09:39:00+09:00</dc:date>
+        <title>しし座流星群、活動がピークに　観測で知っておきたいポイント</title>
+        <link>https://www.cnn.co.jp/fringe/35240549.html?ref=rss</link>
+        <description>毎年恒例のしし座流星群が今週、極大（ピーク）を迎え、世界各地の天文家は天体ショーを目にする機会がありそうだ。
+
+天文情報サイト「アーススカイ」によれば、しし座流星群は米東部時間17日午後1時ごろに極大を迎える見通し。しし座が地平線から昇る16日午後11時ごろから流星が見え始める可能性がある。米流星協会の火球報告コーディネーターを務めるロバート・ランスフォード氏によれば、最も観察に適しているのは17日の午前...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240549.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/17/1a536cc2a0af231d1601427539dfb3f3/t/768/511/d/gettyimages-1244869619.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240541.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T18:11:00+09:00</dc:date>
+        <title>米ミシガン州で墜落のビジネスジェット、テストパイロット待たずに自ら失速試験　NTSB</title>
+        <link>https://www.cnn.co.jp/usa/35240541.html?ref=rss</link>
+        <description>米国家運輸安全委員会（NTSB）はこのほど、ミシガン州で先月発生したビジネスジェットの墜落事故を巡る暫定報告書を公表し、操縦士らが機体修理後、テストパイロットを待たずに自ら試験飛行を行ったところ、ランシング近郊の雑木林に墜落したとの見解を示した。
+
+メキシコで機体登録されている「レイセオン・ホーカー800XP」は先月16日、ミシガン州バス郡区で墜落し、搭乗していた3人が死亡した。報告書は今月13日に公表された...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240541.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/f959a1b2020f5438cbddc10aa167dd64/t/768/497/d/ntsb-wreckage-bath-township-mi.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240540.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T16:32:00+09:00</dc:date>
+        <title>米スミソニアン協会の博物館や動物園が受け入れ再開、政府機関閉鎖の終結受け</title>
+        <link>https://www.cnn.co.jp/usa/35240540.html?ref=rss</link>
+        <description>米国史上最長となった連邦政府機関の閉鎖が終結したことを受けて、スミソニアン協会が運営する博物館群と動物園が一般の受け入れを再開した。
+
+連邦政府からの資金援助を受けるスミソニアン協会は、前年度の予算をあてて開館を維持していたが、政府機関閉鎖が3週目に入ったことを受けて休館していた。各施設は段階的に再開している。
+
+約1カ月にわたって一般公開が停止されていた動物園は15日に門を開き、来園者を迎え入れた。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240540.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/fd03ddd8b4fc61894108d2e29349f374/t/768/511/d/large-c-gettyimages-2246154964.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240534.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T16:11:00+09:00</dc:date>
+        <title>遺伝子編集で高コレステロール値を永続的に抑制できる可能性　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35240534.html?ref=rss</link>
+        <description>遺伝子をわずかに切断することで、危険な高コレステロール値を永続的に下げ、薬の服用が必要なくなる可能性を示す初期研究が、米医学誌「ニューイングランド・ジャーナル・オブ・メディシン」で発表された。
+
+研究は極めて小規模で行われた。重症の患者15人のみを対象とし、「CRISPR-Cas9」と呼ばれるゲノム編集技術を使用して、投与する新薬の安全性を検証することを目的としていた。CRISPR-Cas9は、標的遺伝子を切断して改変...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240534.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/45d8ffd3393f547aa35ccc40de44f863/t/768/511/d/large-gettyimages-1185563067.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240539.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T15:30:00+09:00</dc:date>
+        <title>ガザに取り残されたハマス戦闘員、停戦合意維持にとっての「時限爆弾」か</title>
+        <link>https://www.cnn.co.jp/world/35240539.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区での停戦合意が発効してから数週間がたつが、南部ラファのがれきの奥深くでは戦争はまだ終わっていない。
+
+イスラム組織ハマスの戦闘員が独立した複数の小隊に分かれ、イスラエル軍の前線の背後にある地下トンネルに閉じ込められている。仲介者らは、ガザで1カ月続く停戦合意を崩壊させることなく解決するための方法を探っている。
+
+イスラエル軍にとって、ガザの占領地域にいる最大200人のハマス戦闘...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240539.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/f4256a9c9d13b14659de24f9b69f8c3b/t/768/511/d/large-001-gettyimages-2243452801-20251115123627267.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240537.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T15:15:00+09:00</dc:date>
+        <title>ベネズエラのマドゥロ大統領、トリニダード・トバゴでの米軍事演習を非難　緊張高まる</title>
+        <link>https://www.cnn.co.jp/world/35240537.html?ref=rss</link>
+        <description>ベネズエラのマドゥロ大統領は15日、米国がトリニダード・トバゴで16日から5日間実施する予定の軍事演習について、「無責任な」計画だと批判した。
+
+政権の支持者はこの日、マドゥロ氏の演説を見るため首都カラカス東部のペタレ地区に集まった。マドゥロ氏は警戒を呼びかけ、米国が「犯罪的な戦争」を推し進めていると非難した。
+
+「トリニダード・トバゴの人々は自分たちの海や土地がカリブの平和に深刻な脅威を与える目的で利...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240537.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/1774e28f7473088401f0bc2b714e7cef/t/768/511/d/gettyimages-2243085363-20251026194035098.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240519.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T14:00:00+09:00</dc:date>
+        <title>ルーツを刻むタトゥー作家、ナイジェリアの伝統文様を現代へ　オーストリア</title>
+        <link>https://www.cnn.co.jp/world/35240519.html?ref=rss</link>
+        <description>タトゥー作家、エマニュエル・イテム氏（30）がタトゥー文化に初めて触れたのは、オーストリア・ウィーンでヘビーメタルバンドのギタリストとして活動していたころだった。
+
+ナイジェリアとオーストリアにルーツを持つ同氏は、もともとスケッチを好んでいたが、バンド仲間の一人がヒンドゥー教の象神ガネーシャのタトゥーを入れていたのを目にしたことが転機となった。紙に描く絵を、肌に刻む表現へと移すことを決意したという...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240519.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/0acc3d0ea1e9d2e656083912e86a4733/t/324/432/d/4-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35240533.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T13:51:00+09:00</dc:date>
+        <title>写真特集：ルーツを刻むタトゥー作家、ナイジェリアの伝統文様を今につなぐ</title>
+        <link>https://www.cnn.co.jp/photo/35240533.html?ref=rss</link>
+        <description>ナイジェリアにルーツを持つオーストリアのタトゥー作家、エマニュエル・イテム氏（30）。伝統の文様を現代によみがえらせようと取り組んでいる&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35240533.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/27a60d3a15e7bc1be47409768689205a/t/768/758/d/screenshot-2025-11-04-at-09-20-40__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240532.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T13:21:00+09:00</dc:date>
+        <title>米高額宝くじ「メガミリオンズ」、1500億円の当選くじ1枚がジョージア州で販売</title>
+        <link>https://www.cnn.co.jp/fringe/35240532.html?ref=rss</link>
+        <description>米ジョージア州で14日、米高額宝くじ「メガミリオン」の推計9億8000万ドル（約1500億円）の当たりくじ1枚が出た。同州宝くじ当局によると、今回の当選額はメガミリオン史上8番目の高額当選となる。
+
+当選チケットは、「1」「8」「11」「12」「57」とメガボール「7」のすべての番号が一致した。
+
+今回の当選で、6月以来続いていた40回連続の当選者なしに終止符が打たれた。前回の抽選ではバージニア州の当選者が3億4800万ドルを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240532.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/771f99606ca6b9100b7375be06278841/t/768/511/d/large-ap25316411085067.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240531.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T12:01:00+09:00</dc:date>
+        <title>米大リーグMVP、大谷が3年連続4度目の受賞　ヤンキースのジャッジは3度目</title>
+        <link>https://www.cnn.co.jp/showbiz/35240531.html?ref=rss</link>
+        <description>米大リーグ（MLB）の2025年シーズン最優秀選手賞（MVP）が発表され、ナショナル・リーグはドジャースの大谷翔平（31）、アメリカン・リーグはヤンキースのアーロン・ジャッジ（33）が選ばれた。大谷は3年連続4度目、ジャッジは2年連続3度目の受賞となった。
+
+ドジャースの二刀流のスーパースター、大谷がふたたび栄誉を手にし、世代を代表する逸材としての評価をいっそう確かなものにした。
+
+大谷はMLBネットワークで名前が読み...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240531.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/7e977013d42ee3fecd3470cf235bac66/t/768/432/d/20251113-ohtani-judge.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240530.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T11:59:00+09:00</dc:date>
+        <title>ミシェル・オバマ氏、米国は「女性大統領を迎える準備できていない」</title>
+        <link>https://www.cnn.co.jp/usa/35240530.html?ref=rss</link>
+        <description>ミシェル・オバマ元米大統領夫人は最近のイベントで、米国はまだ女性大統領を迎える準備ができていないと述べ、ハリス前副大統領が敗れた昨年の大統領選を引き合いに出した。
+
+オバマ氏は俳優のトレイシー・エリス・ロスさんから、女性大統領が誕生する「余地」が十分あるかと問われ、「この前の選挙で分かったように、悲しいことに私たちは準備ができていない」と答えた。
+
+「だから私は『立候補を期待しないで、あなた方はみ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240530.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/0be2c35cc301f4d4e303a278d3e073a2/t/768/511/d/gettyimages-2181275446.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240529.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T10:54:00+09:00</dc:date>
+        <title>ウクライナ戦場の霧、天候の変化が戦況に影響　双方にとって危機にも好機にも</title>
+        <link>https://www.cnn.co.jp/world/35240529.html?ref=rss</link>
+        <description>ウクライナの前線では、天候の変化が敵味方双方にとって、危険な状況をもたらすと同時に新たな好機にもつながっている。
+
+広範囲に広がる霧のため、ロシアとウクライナは双方ともドローン（無人機）の使用が制限されているが、この霧を逆手に取る動きもある。
+
+ウクライナの非公式の戦況監視サイト「ディープステート」によると、ロシア軍は14日、南部のボウチャ川で視界不良を突き、浮桟橋を設置した。少なくとも車両10台以上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240529.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/c2ad97077660a32a3e944c5aa80dac94/t/768/576/d/3-ukraine-crisis-kostiantynivka.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240528.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T10:32:00+09:00</dc:date>
+        <title>米、トリニダード・トバゴで新たな軍事演習へ　ベネズエラとの緊張高まる中</title>
+        <link>https://www.cnn.co.jp/world/35240528.html?ref=rss</link>
+        <description>カリブ海の島国トリニダード・トバゴは米国が16日から5日間、新たな軍事演習を実施すると明らかにした。
+
+米国は先月、訓練のためトリニダード・トバゴに誘導ミサイル駆逐艦を派遣。これに対し、隣国のベネズエラは「軍事的挑発」だと非難していた。
+
+英紙フィナンシャル・タイムズは13日、トリニダード・トバゴの司法長官の話として、米国がベネズエラ沖合のトリニダード・トバゴで演習を「強化」する見通しだと伝えた。
+
+トリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240528.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/c6ff570dd3aa81cc75f75723c650bda1/t/768/511/d/gettyimages-2243085363-20251026194035098__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240523.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-16T08:55:00+09:00</dc:date>
+        <title>アザラシが危機一髪、ボートに飛び乗りシャチから逃れる　米シアトル</title>
+        <link>https://www.cnn.co.jp/fringe/35240523.html?ref=rss</link>
+        <description>米ワシントン州シアトルの沖合で、アザラシがシャチの群れから逃れようとボートに飛び乗る劇的な瞬間が撮影された。
+
+危機一髪の様子は、ボートに乗っていたアマチュアの野生動物写真家が撮影した。
+
+ワシントン州のカマノ島で12日、写真家らが乗船していたボートに1匹のアザラシが飛び乗ってきた。近くにはシャチの群れが泳いでいた。
+
+アザラシは一度は海中に落ちたが、再びボートに接近して飛び乗った。
+
+動画の最後にはアザ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240523.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/16/937f93214d5d53a86b5d0ed4ce44c47d/t/768/432/d/seal-16x9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240514.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-15T18:20:00+09:00</dc:date>
+        <title>睡眠補助剤「メラトニンサプリ」の使用、心不全リスクの上昇と関係？　知っておくべきこと</title>
+        <link>https://www.cnn.co.jp/fringe/35240514.html?ref=rss</link>
+        <description>メラトニンサプリの長期使用は、心不全リスクの上昇と関係している可能性がある――。そんな新研究が発表された。だがこれは、睡眠補助剤としてメラトニンサプリを服用している人は今すぐやめるべき、という意味なのだろうか？
+
+電子カルテを調査したところ、慢性的な不眠を抱えメラトニンを１年以上服用している成人数千人は、同様の健康因子を持つもののメラトニンを服用していなかった被験者に比べ、次の5年間で心不全を発症す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240514.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/15/1a1d229d49aa5e25bb9403762bc6ebd3/t/768/512/d/gettyimages-2161355786__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240517.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-15T17:50:00+09:00</dc:date>
+        <title>トランプ氏、盟友グリーン氏への支持を撤回　深刻な政治的分裂が露呈</title>
+        <link>https://www.cnn.co.jp/usa/35240517.html?ref=rss</link>
+        <description>トランプ米大統領は14日、共和党のマージョリー・テイラー・グリーン下院議員への支持を正式に撤回すると表明し、本人への個人的な攻撃を展開した。一方のグリーン氏は、トランプ氏が性犯罪者ジェフリー・エプスタイン元被告に関する文書公開を阻止するために自分を見せしめにしようとしていると反論した。
+
+トランプ氏はソーシャルメディアへの投稿で、グリーン氏への支援と支持を撤回すると明言。2026年の再選を目指すグリー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240517.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/15/46e1e6fb099b3b59bf5f340864bcc451/t/768/512/d/gettyimages-2232923947.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240518.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-15T17:27:00+09:00</dc:date>
+        <title>アリアナ・グランデ、警備突破したファンに襲われる　シンシア・エリボがとっさに助け</title>
+        <link>https://www.cnn.co.jp/showbiz/35240518.html?ref=rss</link>
+        <description>シンガポールで行われた映画「ウィキッド 永遠の約束」の試写会で、歌手のアリアナ・グランデさんが警備を突破した男に襲われ、共演者のシンシア・エリボさんがとっさにグランデさんの身を守りに入る出来事があった。SNS上の動画にはこの場面が捉えられている。
+
+男は公共の場での迷惑行為の罪で訴追された。
+
+CNNはアリアナさんの代理人にコメントを求めている。
+
+&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240518.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/15/221fc060ea39506a000f95cec99339eb/t/768/432/d/cynthia-ariana-16x9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240515.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-15T16:26:00+09:00</dc:date>
+        <title>中国、自国民に日本渡航を控えるよう警告　台湾巡る対立激化受け</title>
+        <link>https://www.cnn.co.jp/world/35240515.html?ref=rss</link>
+        <description>中国は自国民に向け、日本への渡航を控えるよう警告した。台湾に関する高市早苗首相の発言を受け、中国は反発を強めている。
+
+この警告は、高市氏の発言に対して中国政府が行ったこれまでで最も実質的な報復措置となる。象徴的な側面が強いとはいえ、これは中国が経済的な影響力を駆使して地政学上の論点を追及する用意があることを示唆する。こうしたやり方は中国の常套（じょうとう）手段だ。
+
+中国外務省は14日に発表した声...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240515.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/15/541344cbb219c947a4475f48f0d204bb/t/768/512/d/gettyimages-2241440540.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
