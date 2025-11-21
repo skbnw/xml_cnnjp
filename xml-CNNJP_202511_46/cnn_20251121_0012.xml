@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-11-21T08:38:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240733.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240731.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240721.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240720.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35240722.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240715.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240709.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240699.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240708.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240695.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240700.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240697.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240684.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240694.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240691.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35240689.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240687.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240682.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240681.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240671.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35240665.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35240668.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240664.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240661.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35240652.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240651.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240643.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35240645.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240642.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240641.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240733.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-21T08:38:00+09:00</dc:date>
+        <title>バンス米副大統領、米経済の苦境認め「忍耐」求める　トランプ氏主張とは一線</title>
+        <link>https://www.cnn.co.jp/usa/35240733.html?ref=rss</link>
+        <description>バンス米副大統領は20日、米経済の状況をめぐってトランプ政権の政策に懐疑的な見方が強まっていることを認めた。また、ゆくゆくは「好景気」になるとして国民に忍耐を求めた。
+
+右派系メディア「ブライトバート・ニュース」のイベントに出席したバンス氏は、「我々は多くの進歩を遂げたが、国民がそれを実感するにはもう少しかかる」と述べた。
+
+バンス氏の発言のトーンは、経済は好調だと主張し続けているトランプ大統領のも...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240733.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/21/e9437377f06a31f8b848082de0414fcf/t/768/512/d/ap25324577334093.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240731.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-21T08:04:00+09:00</dc:date>
+        <title>チェイニー元米副大統領の葬儀営まれる、トランプ氏は招待されず</title>
+        <link>https://www.cnn.co.jp/usa/35240731.html?ref=rss</link>
+        <description>米国のディック・チェイニー元副大統領の葬儀が20日、首都ワシントンで営まれた。チェイニー氏を副大統領に指名したブッシュ元大統領や、バイデン前大統領ら党派を超えて多くの政界要人らが参列したが、現職のトランプ大統領やバンス副大統領の姿はなかった。
+
+情報筋によると、トランプ氏とバンス氏は葬儀に招待されなかったという。バンス氏は同日、弔意を示したが、トランプ氏はチェイニー氏の死去についてこれまで公にコメ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240731.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/21/d4be70f4babfa09400e5f92c37a6fba6/t/768/512/d/08-ap25324607649339.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240721.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T19:03:00+09:00</dc:date>
+        <title>アフリカの「謎の」ゴールデンキャット、希少すぎて生息数つかめず　AIで状況に変化</title>
+        <link>https://www.cnn.co.jp/fringe/35240721.html?ref=rss</link>
+        <description>保全生物学の専門家、ムウェジ・ムゲルワ氏は初めてアフリカゴールデンキャットを目にしたとき、それが何なのか分からなかった。
+
+ムゲルワ氏がウガンダのブウィンディ原生国立公園でカメラトラップの映像を確認していたところ、家猫の2倍ほどの大きさの見慣れない動物が白黒の粗い映像に映り込んでいるのが見つかった。
+
+同僚の誰も見当が付かなかったが、「公園周辺に暮らすハンターや地域住民に話を聞いてみると、この種を知...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240721.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/729296736cdaf62971e45fc3c387d175/t/768/432/d/still-4-20251114065842172__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240720.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T18:20:00+09:00</dc:date>
+        <title>キスは「進化の難問」、科学者たちがその意外な起源を解明</title>
+        <link>https://www.cnn.co.jp/fringe/35240720.html?ref=rss</link>
+        <description>キスの進化を検証した新たな研究によると、類人猿の祖先やネアンデルタール人などの初期人類も、恐らく友人や性的パートナーと唇を重ねていたと考えられる。この行動は2100万年前に遡（さかのぼ）る可能性があるという。
+
+人類最古のキスは4500年前のメソポタミアと古代エジプトで記録されているが、今回の研究の筆頭著者であり、英オックスフォード大学生物学部の進化生物学者であるマチルダ・ブリンドル氏によれば、キスは「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240720.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/0ae59e7a8ab2771af3017eb3f80d7b6c/t/768/593/d/ac5awg.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35240722.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T18:09:00+09:00</dc:date>
+        <title>写真特集：アフリカの「幻の」ゴールデンキャット、保護活動の舞台裏</title>
+        <link>https://www.cnn.co.jp/photo/35240722.html?ref=rss</link>
+        <description>謎めいたアフリカゴールデンキャットの保全活動の舞台裏を写真で見ていく&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35240722.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/e74c1e3a88a7a45a3a52ef97249becf5/t/768/432/d/still-2-20251114065636430__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240715.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T16:12:00+09:00</dc:date>
+        <title>米国の人種差別の矛先、今度はインド系米国人に　背景に経済的不満</title>
+        <link>https://www.cnn.co.jp/usa/35240715.html?ref=rss</link>
+        <description>インド系米国人のパテル連邦捜査局（FBI）長官は先月、X（旧ツイッター）上でヒンドゥー教の祭典「ディワリ」を祝い、「よいディワリを」と書き込んだが、この投稿が不評を買った。
+
+キリスト教ナショナリストや白人至上主義者から、偏見に満ちたミーム（ネット上で模倣されて拡散する画像）やコメントが大量に送りつけられた。「この国から出て行きやがれ」「ここは米国だ。そんな慣習はない」という書き込みもあった。
+
+ヘイ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240715.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/ae830ca0c278ee759c9c8ca8be16da1c/t/768/432/d/20251112-indian-american-racism-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240709.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T15:12:00+09:00</dc:date>
+        <title>ハーバード大元学長、教職退くと大学新聞が報道　エプスタイン元被告との関係が調査対象に</title>
+        <link>https://www.cnn.co.jp/usa/35240709.html?ref=rss</link>
+        <description>米ハーバード大学の元学長、ラリー・サマーズ氏は、教員として今学期の勤務を続けることが不可能になる見通しだ。同大の広報担当者が大学紙「クリムゾン」に明らかにした。性犯罪で起訴され勾留中に死亡した米富豪ジェフリー・エプスタイン元被告とサマーズ氏の関係を大学が調査しているためだという。
+
+CNNは大学とサマーズ氏にコメントを求めている。サマーズ氏はクリントン政権の元財務長官で、オバマ政権の国家経済会議委員...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240709.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/0de311f23e9b3289e600eb0311a102d9/t/768/574/d/gettyimages-2224348265.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240699.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T14:20:00+09:00</dc:date>
+        <title>驚異の恒星間天体、新たな画像公開　NASAの火星探査機で捉える</title>
+        <link>https://www.cnn.co.jp/fringe/35240699.html?ref=rss</link>
+        <description>太陽系外から飛来した恒星間天体「3I/ATLAS」の最新画像を米航空宇宙局（NASA）が公開した。
+
+7月1日に初めて観測された3I/ATLASは太陽系外を起源とし、太陽系を通過する恒星間天体（ISO）として観測された3番目の天体となる。
+
+10月に3I/ATLASが火星へ接近した際、NASAの複数の探査機は本来のミッションを中断し、太陽系外から発生したこの天体の魅力的な画像を撮影した。
+
+NASAは19日に新たな観測結果を公開した。それまでは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240699.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/a15ffee764ffd69efd3d869d5bd546c4/t/768/634/d/mro-hirise-clean-final.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240708.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T14:15:00+09:00</dc:date>
+        <title>トランプ政権、水面下でロシアと新たな和平交渉　米代表団がウクライナ入り</title>
+        <link>https://www.cnn.co.jp/usa/35240708.html?ref=rss</link>
+        <description>トランプ米政権がロシアとの間で、ウクライナ戦争終結に向けた新たな和平案の交渉を水面下で進めていることが分かった。協議の内容に詳しい関係者がCNNに明らかにした。
+
+この関係者によると、交渉を主導しているのは、米政権の対ロ交渉の中心となってきたウィトコフ特使。米政権はクレムリン（ロシア大統領府）が再び和平に前向きな姿勢を示しているとの感触を得ており、今週に入って交渉は加速しているという。
+
+米陸軍のバト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240708.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/750e0698e8c4756da6565e579f7c8e3f/t/768/452/d/2025-08-15t231640z-1320085578-rc2v7gadw6ct-rtrmadp-3-ukraine-crisis-summit.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240695.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T12:55:00+09:00</dc:date>
+        <title>ロシアがウクライナ西部の集合住宅を夜間攻撃、子ども含む26人死亡</title>
+        <link>https://www.cnn.co.jp/world/35240695.html?ref=rss</link>
+        <description>ウクライナ西部の都市テルノピリで集合住宅の建物2棟が夜間、ロシアに空爆され、子ども3人を含む少なくとも26人が死亡、100人近くが負傷した。ウクライナ内相が19日に明らかにした。
+
+イゴール・クリメンコ内相は19日夕、25人とは連絡が取れていないと述べ、一家全員が行方不明になっていて、届け出る人が誰もいないケースもあると語った。
+
+破壊された集合住宅の9階に息子がいたという女性は、息子はきっと無事に救出されると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240695.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/e149a19a638d90ca05b62923074e4cd1/t/768/432/d/generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240700.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T12:17:00+09:00</dc:date>
+        <title>トランプ氏、司法省にエプスタイン文書すべての公開を指示する法案に署名</title>
+        <link>https://www.cnn.co.jp/usa/35240700.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した富豪ジェフリー・エプスタイン元被告をめぐり、トランプ米大統領は19日、司法省に対し関連文書すべてを公開するよう指示する法案に署名した。SNSへの投稿で明らかにした。
+
+トランプ氏はSNSに長文を投稿。文書の公開は議会を通じて推進した透明性向上の取り組みの一環だと強調する一方で、エプスタイン元被告と過去に交流のあった民主党員らを批判した。
+
+トランプ氏はエプスタイン元被告につ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240700.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/1445616612c478bf09f30785b4a553cd/t/768/432/d/gettyimages-2247321387-20251119021425881.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240697.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T12:01:00+09:00</dc:date>
+        <title>英BBC、キャサリン妃に謝罪　「ケート・ミドルトン」と呼び視聴者から苦情</title>
+        <link>https://www.cnn.co.jp/world/35240697.html?ref=rss</link>
+        <description>英公共放送BBCは20日までに、第1次世界大戦の休戦記念日にまつわる最近の報道でキャサリン皇太子妃（43）を「ケート・ミドルトン」と呼んだことについて謝罪した。
+
+BBCの記者は先週、王族として人気を集めるキャサリン妃を繰り返し旧名で呼び、休戦記念日の放送を見ていた視聴者から相次ぎ苦情が寄せられた。
+
+BBCは声明で「休戦記念日の式典の様子を伝えた我々の報道の中で、ウェールズ公妃キャサリンを誤ってケート・ミドル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240697.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/ea9a89935b6288b0678c0f7d450f7723/t/768/568/d/gettyimages-2246186300.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240684.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T11:27:00+09:00</dc:date>
+        <title>エプスタイン元被告の権力網の内幕、新たなメールで明らかに</title>
+        <link>https://www.cnn.co.jp/usa/35240684.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した富豪ジェフリー・エプスタイン元被告の文通相手は産業界の大物やベストセラー作家、世界的に有名な科学者や銀行家、一流ジャーナリスト、そして政界の実力者たちだ。
+
+メッセージに次ぐメッセージの中で、そうした人々はしばしば同じ人物に向けて助言や人脈を求める。冗談を口にし、ドナルド・トランプ米大統領に関するゴシップを交換する。
+
+その人物、ジェフリー・エプスタイン元被告は、200...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240684.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/903ca2d44b00b3bf68bf26d9646ae3e0/t/768/429/d/ai2html-graphic-widedesktop.bb1844f3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240694.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T11:00:00+09:00</dc:date>
+        <title>トランプ氏支持率41％に低下、バイデン政権終盤と同水準　FOXニュース世論調査</title>
+        <link>https://www.cnn.co.jp/usa/35240694.html?ref=rss</link>
+        <description>FOXニュースが19日に発表した世論調査によると、トランプ米大統領の支持率が41％に落ち込んだ。経済不安が続く中、2期目として最低を記録した。
+
+調査によると、登録有権者のトランプ氏支持率は41%で、9月初旬の46%から低下している。有権者の半数近くにあたる46%がトランプ氏の経済政策によって個人的に打撃を受けたと回答し、個人的に助けになったとの回答はわずか15%だった。この数値はバイデン政権終盤と同水準。
+
+物価の抑...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240694.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/1445616612c478bf09f30785b4a553cd/t/768/432/d/gettyimages-2247321387-20251119021425881.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240691.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T10:33:00+09:00</dc:date>
+        <title>イスラエル軍がガザを攻撃、28人死亡　停戦発効後3度目</title>
+        <link>https://www.cnn.co.jp/world/35240691.html?ref=rss</link>
+        <description>イスラエル軍が19日、パレスチナ自治区ガザ地区の各地を攻撃してパレスチナ人少なくとも28人が死亡し、イスラム組織ハマスとの停戦が発効して以来の暴力をエスカレートさせている。
+
+イスラエル軍は、ガザでハマスを標的とする攻撃を実施したと発表。南部のハンユニスでイスラエル兵が「数人のテロリスト」に発砲され、この行為を「停戦合意違反」とみなしたと説明している。イスラエル兵にけがはなかった。
+
+一方、ハマスは今...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240691.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/e4241023754a818f1c425a767a8339a9/t/768/482/d/2025-11-19t081422z-509440875-rc2hzha9zimr-rtrmadp-3-israel-palestinians-gaza.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35240689.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T10:09:00+09:00</dc:date>
+        <title>AI搭載縫いぐるみが性的に露骨な会話をエスカレート、消費者団体の指摘で販売中止に</title>
+        <link>https://www.cnn.co.jp/tech/35240689.html?ref=rss</link>
+        <description>ネットで販売されていたAI（人工知能）搭載の縫いぐるみが、わいせつな会話を交わしたり危険を招きかねないアドバイスをしたりする問題が指摘されたことを受け、販売中止になった。
+
+問題になった縫いぐるみの「クッマ」などAI搭載の玩具は、シンガポールのフォロトイが販売。米消費者団体PIRGの調査で、性行為を話題にしたり、マッチの火のつけ方を教えたりするなどの不適切な会話が指摘されていた。
+
+フォロトイのラリー・ワ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35240689.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/18dcb4bed2d9bb819896df6992aeab4c/t/768/432/d/screenshot-2025-11-19-at-09-56-51-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240687.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T09:31:00+09:00</dc:date>
+        <title>観光で訪れていた一家4人が死亡、トコジラミ駆除用の薬剤が原因か　トルコ</title>
+        <link>https://www.cnn.co.jp/world/35240687.html?ref=rss</link>
+        <description>トルコ警察は、イスタンブールで休暇中だった一家4人が中毒の疑いで死亡した事件について捜査を開始した。
+
+トルコ国営通信アナドルによると、ドイツ・ハンブルクからイスタンブールを訪れていた一家は12日、イスタンブールの主要観光地をめぐり、屋台料理を食べた後に体調を崩した。
+
+当初は食中毒と思われ、治療を受けて退院したが、その後症状が悪化したため再入院した。
+
+6歳と3歳の子ども2人が13日に死亡。母親（27）も翌...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240687.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/f67442de280bd935fcc9e11634307228/t/768/581/d/istanbul.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240682.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T08:23:00+09:00</dc:date>
+        <title>トランプ氏、利下げなければ「ベッセント財務長官更迭」と示唆</title>
+        <link>https://www.cnn.co.jp/usa/35240682.html?ref=rss</link>
+        <description>トランプ米大統領は19日、米連邦準備制度理事会（FRB）が利下げしなければベッセント財務長官を更迭すると示唆した。また、FRBのパウエル議長の解任をベッセント氏の進言で思いとどまっていることも明らかにした。
+
+ワシントンのケネディ・センターで開かれた米サウジ投資イベントで発言した。
+
+トランプ氏は今年1月に2期目が始まってから度々、利下げに慎重なFRBを批判し、パウエル氏の解任に繰り返し言及してきた。FRBは9月に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240682.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/e7ad30e91676c5334db8fde9384f362c/t/768/512/d/ap25309792135029.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240681.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-20T08:03:00+09:00</dc:date>
+        <title>ロシアのスパイ船、英領海に侵入　哨戒機にレーザー照射</title>
+        <link>https://www.cnn.co.jp/world/35240681.html?ref=rss</link>
+        <description>英国のヒーリー国防相は19日、ロシアのスパイ船が英国の領海に侵入し、英空軍哨戒機のパイロットにレーザー照射したと明らかにした。敵対する国からの「脅威の新たな時代」に直面していると警告した。
+
+ヒーリー氏によると、スパイ活動を行うロシアの調査船「ヤンタル号」が英北部スコットランド沖の領海付近にいるという。ヤンタル号は「情報収集と英国の海底ケーブルの地図作成」のための船舶とみられている。
+
+ヒーリー氏は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240681.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/20/5936b459ee58a1240973c50ff3a9fabb/t/768/502/d/gettyimages-2246868240.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240671.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-19T19:32:00+09:00</dc:date>
+        <title>中国が警告、日本水産物の「市場は存在せず」　台湾関連の発言巡り対立激化</title>
+        <link>https://www.cnn.co.jp/world/35240671.html?ref=rss</link>
+        <description>台湾防衛を巡る高市早苗首相の発言を受けて日中の外交対立が激しさを増す中、中国外務省は19日、日本産水産物の市場は「存在しない」と警告した。中国政府が改めて暗に脅しをかけた形だ。
+
+高市氏が国会答弁で中国による台湾攻撃は「存立危機事態」に該当し得ると述べ、日本の軍事的対応につながる可能性があるとの認識を示したことを受け、日中間の対立は急速に深まっている。
+
+中国政府は民主主義を掲げて自治を行う台湾を自...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240671.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/19/a9c49dfb28728c4cdf90da33695626f5/t/768/511/d/gettyimages-2229302819.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35240665.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-19T18:39:00+09:00</dc:date>
+        <title>時間と金に余裕のある競争心旺盛な人々、プロスポーツ選手が賭け事を好む理由とは</title>
+        <link>https://www.cnn.co.jp/showbiz/35240665.html?ref=rss</link>
+        <description>日銭がポケットの中でヒリヒリするころ、彼らはチャーター便に飛び乗り、機内後部へ移動してカードをシャッフルし始める。たいていはポーカー、時にはブーレをやるが、ほとんどの場合、金を賭けた何らかのカードゲームだった。
+
+「着陸する頃には日当がなくなるんだ」と、現在もリーグに関わる米プロバスケットボールNBAの元選手は（身元を明かさないことを条件に）笑いながら語った。「10日間の遠征なんて、神様がお許しになら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35240665.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/19/2b98f44f346a24c32d64e9987ac81f47/t/768/511/d/gettyimages-108359653.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35240668.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-19T18:06:00+09:00</dc:date>
+        <title>1972年の休暇中に撮影された友人4人の写真、50年以上後に再現　英</title>
+        <link>https://www.cnn.co.jp/travel/35240668.html?ref=rss</link>
+        <description>腕を組みほほ笑みながら、海辺の遊歩道を歩く4人の若い女性。ミニスカートとビーチサンダルを履き、背景には1960年代のフォード・コルセアらしき車が見える。この写真は、彼女たちの表情や笑い声など、時代を超えた普遍的な喜び、若さ、冒険がもたらす感覚を捉えている。
+
+写真に写るマリオン・バンフォースさん、スー・モリスさん、キャロル・アンスブロさん、メアリー・ヘリウェルさんにとって、50年以上前に英デボン州トーキ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35240668.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/19/b0f333581b213d7c8004e20d38037784/t/768/548/d/image.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240664.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-19T17:34:00+09:00</dc:date>
+        <title>ポーランド、戦闘機を緊急発進　ウクライナ西部へのロシアの攻撃受け</title>
+        <link>https://www.cnn.co.jp/world/35240664.html?ref=rss</link>
+        <description>ロシアがウクライナ各地でミサイルとドローン（無人機）を組み合わせた攻撃を行う中、ポーランドは19日午前、自国の領空で戦闘機を緊急発進させ、空港2カ所を閉鎖した。
+
+ロシアの攻撃はポーランドに近いウクライナ西部にほぼ集中していたが、東部ハルキウでもドローン攻撃により集合住宅が損壊し、数十人が負傷。通りでは複数の車両が炎上した。
+
+エネルギーインフラへの攻撃が行われた結果、ウクライナの多くの地域では19日、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240664.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/19/d90b7d560934acca09578d1b41830d21/t/768/511/d/ap25323240406252.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240661.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-19T16:36:00+09:00</dc:date>
+        <title>イラン最高指導者顧問、米国との核協議再開に前向きも条件は変えず　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/world/35240661.html?ref=rss</link>
+        <description>イランの最高指導者ハメネイ師の外交政策顧問カマル・ハラジ氏はCNNに対し、イラン政府は米国とイスラエルによる今年6月の攻撃前の立場を変えるつもりはないとしつつ、敬意をもって交渉が行われるのであれば、米国との核協議を再開する意向があると表明した。
+
+テヘランでCNNの単独インタビューに応じたハラジ氏は、「まずは米国の方から、我々の提示する条件で交渉する用意があることを示す最初の一歩を踏み出さねばならない。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240661.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/19/8603b896197d4b2abd79b37fa967c6a9/t/768/432/d/1kharrazi.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35240652.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-19T14:23:00+09:00</dc:date>
+        <title>写真特集：世界の高速鉄道10選</title>
+        <link>https://www.cnn.co.jp/photo/35240652.html?ref=rss</link>
+        <description>シーメンス・モビリティの高速列車「ヴェラロ」など世界各地の高速鉄道を紹介する&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35240652.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/19/ca6c31ecbcaba03b82b9e090e51e8f43/t/768/511/d/001-large-axx20080442-02-300dpi.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240651.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-19T14:07:00+09:00</dc:date>
+        <title>トランプ氏、女性記者に「ブタ、静かに」　エプスタイン元被告めぐる質問さえぎる</title>
+        <link>https://www.cnn.co.jp/usa/35240651.html?ref=rss</link>
+        <description>トランプ米大統領が自身に質問した女性記者を「ブタ」呼ばわりする一幕があった。
+
+大統領専用機内で記者団に応じる中、性犯罪で起訴され勾留中に死亡した富豪ジェフリー・エプスタイン元被告が送ったメールに自身の名前が挙がっていたことについて問われたトランプ氏は、質問している女性記者を「ブタ、静かに」とさえぎった。
+
+この数日後、エプスタイン元被告に関連する文書をめぐり、トランプ氏は公開に消極的だった態度を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240651.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/19/b7dec220d973690e7b47187dd4136cc7/t/768/432/d/hztl-clean.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240643.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-19T13:19:00+09:00</dc:date>
+        <title>ケンブリッジ辞典が選ぶ今年の単語は「パラソーシャル」、有名人やAIを相手に築く「不健康な」関係</title>
+        <link>https://www.cnn.co.jp/fringe/35240643.html?ref=rss</link>
+        <description>英ケンブリッジ英語辞典は18日、2025年の単語に「parasocial（パラソーシャル）」を選んだと発表した。
+
+パラソーシャルは、知人でない相手や人工知能（AI）とつながっているという感覚を表す単語。1956年にテレビ視聴者と出演者の間で形成される関係を表す言葉として社会学者のドナルド・ホートンとリチャード・ウォールの両氏が作り出した。
+
+その現象は現代も続いている。SNSユーザーは、個人的関係をもたないセレブやインフ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240643.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/19/e5eacd1e97ba631ee2295a6873808aab/t/768/432/d/gettyimages-2196122888-20250929150043031.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35240645.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-19T12:48:00+09:00</dc:date>
+        <title>ビットコインが記録的高値から一転　溶け続ける理由は</title>
+        <link>https://www.cnn.co.jp/business/35240645.html?ref=rss</link>
+        <description>記録的高値となる12万6000ドル（約1960万円）をつけてからわずか6週間で、ビットコインが26％あまり急落した。18日午後の時点では9万3000ドルをわずかに下回る価格で取引され、今年の上昇分をすべて失った。
+
+米国株式は18日に下落して取引を終え、最近の下落傾向をさらに拡大させた。ダウ工業株平均は499ポイント（1.07％）、S&amp;P500指数は0.83％、ハイテク銘柄の比率が高いナスダック総合指数は1.21％それぞれ下落した。
+
+S&amp;P5...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35240645.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/19/ab76d9eac0b16b071bef5d64652a67e2/t/768/512/d/gettyimages-2205173751.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240642.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-19T12:01:00+09:00</dc:date>
+        <title>米上下両院、エプスタイン文書公開法案を可決　19日に大統領の机に</title>
+        <link>https://www.cnn.co.jp/usa/35240642.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した富豪ジェフリー・エプスタイン元被告に関連する文書の公開を司法省に義務づける法案をめぐり、米連邦議会で事態が一気に進展した。
+
+同法案は18日、下院で賛成427、反対1のほぼ全会一致で可決された。唯一反対票を投じたのは共和党のクレイ・ヒギンズ議員（ルイジアナ州選出）だった。
+
+法案とその関連書類は上院への送付準備が進められている。共和党上院トップのスーン院内総務は、下院が19...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240642.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/19/f3c5771934b211c187010004f18505f4/t/768/511/d/large-gettyimages-2170420900-20250327153459342.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240641.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-19T11:46:00+09:00</dc:date>
+        <title>サウジが米国からF35購入へ　中東の軍事バランスに変化も、イスラエルは懸念</title>
+        <link>https://www.cnn.co.jp/world/35240641.html?ref=rss</link>
+        <description>トランプ米大統領は18日、サウジアラビアが米国からF35戦闘機を購入すると明らかにした。中東の軍事バランスを変化させる可能性をはらむ措置で、論議を呼びそうだ。
+
+トランプ氏はホワイトハウスの大統領執務室でサウジのムハンマド皇太子と会談中、「彼らはロッキードからF35を購入する。素晴らしい機体だ。我々は最高の装備品を作っている」と言及した。
+
+この取引に対するイスラエルの反応について問われると、「イスラエル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240641.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/19/d2f87a08222eda9f09fadd4bc193c013/t/768/511/d/9379027.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
