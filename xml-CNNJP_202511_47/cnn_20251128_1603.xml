@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-11-28T18:08:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241028.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241027.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35241024.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241019.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241014.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241011.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241012.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240990.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241008.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240992.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240989.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240987.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240974.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240977.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240973.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240969.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240964.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240968.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240957.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240953.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240936.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240952.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240951.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240934.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240933.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35240925.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240924.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35240920.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35240917.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35240921.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241028.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-28T18:08:00+09:00</dc:date>
+        <title>ISSへのロケット打ち上げで発射台が損傷　ロシア宇宙機関が発表</title>
+        <link>https://www.cnn.co.jp/fringe/35241028.html?ref=rss</link>
+        <description>ロシアが使用する主要な宇宙施設の発射台が27日、ロシア人2人と米国人1人を乗せた国際宇宙ステーション（ISS）へのミッションの打ち上げ中に損傷した。ロシア宇宙機関ロスコスモスが発表した。
+
+ロスコスモスによると、打ち上げられたソユーズMS28宇宙船はISSへのドッキングに成功。乗組員3人は既にISS側に搭乗している。
+
+打ち上げは旧ソ連を構成していた隣国カザフスタンのバイコヌール宇宙基地で行われた。ロスコスモスが声...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241028.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/28/9ce257c2ecae544360197ac5945aed3d/t/768/504/d/ap25331676898218.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241027.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-28T17:08:00+09:00</dc:date>
+        <title>香港高層住宅火災、死者128人に　当局はさらに増える可能性警告</title>
+        <link>https://www.cnn.co.jp/world/35241027.html?ref=rss</link>
+        <description>甚大な被害が出ている香港の高層住宅火災による死者数は128人に増加した。当局が28日に発表した。
+
+香港保安局のクリス・タン局長は、現地時間28日午後の記者会見で、約200人が行方不明となっており、死者数はさらに増加する恐れがあると警告した。
+
+少なくとも79人が負傷したと、タン氏は付け加えた。当局は行方不明者に関する問い合わせを467件受けており、そのうち39人は死亡が確認されている。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241027.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/28/dd84e03e189d40d27dabf07719b721ff/t/768/512/d/ap25332254745525.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35241024.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-28T16:26:00+09:00</dc:date>
+        <title>機内で絶えない「泥酔客」の迷惑行為　解決できない単純な理由</title>
+        <link>https://www.cnn.co.jp/travel/35241024.html?ref=rss</link>
+        <description>米国のフリーライター、アメリア・ムラーズ氏は今年、シカゴからロサンゼルスへ向かう夜行便の機内で泥酔した男性と隣り合わせになった。
+
+崩れ落ちるように着席してきたその男性は、機体がゲートから離れたところでトイレに駆け込んだ。そこで大量に嘔吐（おうと）したため、空港の清掃係が呼ばれる騒ぎになったという。男性は降ろされ、この便は１時間遅れで出発した。
+
+ムラーズ氏以外にも、機内での迷惑行為を目の当たりに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35241024.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/28/26c3af15c300a4bdba3b7c445f4e4436/t/768/512/d/gettyimages-1240467341.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241019.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-28T15:30:00+09:00</dc:date>
+        <title>異常気象が引き起こすプラスチック汚染の悪化　移動性と持続性、有害性高まると研究者</title>
+        <link>https://www.cnn.co.jp/fringe/35241019.html?ref=rss</link>
+        <description>マイクロプラスチックの急増は既に環境と健康への脅威となっているが、地球温暖化が進み、異常気象がますます深刻化するにつれて、マイクロプラスチックは「移動性、持続性、有害性が一段と高い汚染物質」へ変化していることが新たな研究で明らかになった。研究では緊急の対策を求めている。
+
+プラスチックと気候変動の関連性については通常、プラスチックが危機の一因となっている点に焦点が当てられる。プラスチックの98%以上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241019.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/28/0dc155f57896a945129bbd3ee31005bd/t/768/512/d/gettyimages-2231036281.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241014.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-28T13:30:00+09:00</dc:date>
+        <title>化粧品のために乱獲される深海ザメ、新たな規制で救えるか</title>
+        <link>https://www.cnn.co.jp/fringe/35241014.html?ref=rss</link>
+        <description>鮮やかな緑色の目と細身の体格を特徴とするガルパーシャークは、先史時代から数百万年にわたり生息している。世界中の水深200～1500メートルの海域に生息しているが、その生態についてはいまだ多くの謎が残されている。
+
+しかし今、ガルパーシャークは4分の3が絶滅の危機にひんしている。その理由は肝油を標的とした乱獲だ。肝油には、抗酸化作用と保湿作用を持つスクアレンと呼ばれる化合物が豊富に含まれており、化粧品によく...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241014.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/28/351a61cc2e635020378ab1984c648288/t/768/512/d/1669442-930697.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241011.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-28T13:15:00+09:00</dc:date>
+        <title>香港高層住宅火災、生存者が疑問の声　以前から建設資材の危険性に懸念　警報器鳴らなかったとの証言も</title>
+        <link>https://www.cnn.co.jp/world/35241011.html?ref=rss</link>
+        <description>炎が燃え広がり、隣接する建物をのみ込む30分の間、ワンさんは自宅でテレビを見ていた。危険がこちらへ迫ってくるのにも気付かず。外で騒ぎが起こり、遠くでサイレンが鳴り響いた時でさえ、香港にはよくある騒がしい午後だと片付けていた。
+
+助けを求める人々の叫び声が聞こえて初めて、ワンさんは立ち上がり、8階のアパートの窓から外を見下ろした。「窓を開けた瞬間、煙が見えた」。CNNにそう語った。
+
+日時は26日の午後3時15...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241011.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/28/a47d5cc74c17bb045302beea0fbfdf00/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWloOTZ5cW8wMDBrM2I2bjg5OGlhOXBx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaWg4N2psaTAwYmQyNXA1NjdrMDZ6aGw_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241012.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-28T11:12:00+09:00</dc:date>
+        <title>米政府、アフガンなど19カ国出身者の永住権を全て再審査　州兵銃撃受け移民摘発強化</title>
+        <link>https://www.cnn.co.jp/usa/35241012.html?ref=rss</link>
+        <description>米首都ワシントンで州兵2人が銃撃された事件を受けてトランプ政権が移民に対する取り締まりを強める中、米政府は27日、アフガニスタンなど19カ国の出身者に付与されたグリーンカード（永住権）全ての再審査を行うと表明した。
+
+米移民局（USCIS）のジョー・エドロー局長は同日、「米大統領の指示を受け、懸念のある国から来た外国人全員について、全てのグリーンカードの全面的な徹底再審査を指示した」とX（旧ツイッター）に投...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241012.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/28/813f51fc4f734b9c6c051f926e1d2288/t/768/512/d/2019-09-17t162532z-985310720-rc1f6dbf6710-rtrmadp-3-immigration-new-york.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240990.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-28T10:35:00+09:00</dc:date>
+        <title>観光客の男女、サメに襲われ死傷　オーストラリア</title>
+        <link>https://www.cnn.co.jp/world/35240990.html?ref=rss</link>
+        <description>オーストラリア東部ニューサウスウェールズ州で27日、20代と思われる観光客の男女がサメに襲われて女性が死亡、男性が重傷を負った。州警察が明らかにした。
+
+警察などの発表によると、現地時間の27日午後6時半ごろ、同州北部クラウディベイで2人がサメにかまれたという通報があり、救急隊が出動した。
+
+2人はその場に居合わせた人が手当てしていたが、女性は救急隊が到着する前に死亡した。
+
+男性は空路病院へ搬送された、重体...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240990.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/28/9b1797fc910ad3e35e6331122c1d81b2/t/768/432/d/d53kd6.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241008.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-28T09:57:00+09:00</dc:date>
+        <title>20歳の女性州兵が死亡　ホワイトハウス付近の銃撃で負傷、残る1人は依然重体</title>
+        <link>https://www.cnn.co.jp/usa/35241008.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領は27日、首都ワシントンで26日に銃撃されて重体となっていた2人の州兵のうち、陸軍兵のサラ・ベックストロムさん（20）が死亡したと発表した。
+
+「先ほど紹介した州兵の1人、ウェストバージニア州出身のサラ・ベックストロムは、高く評価される素晴らしい若者だった。2023年6月に入隊し、あらゆる面で優秀だった。彼女がいま、亡くなった」。感謝祭にあたって電話で兵士を激励したトランプ大統領...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241008.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/28/4fef25d6b47263fe4b2af71e791cbd8f/t/768/513/d/gettyimages-2248607898.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240992.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-28T09:23:00+09:00</dc:date>
+        <title>プーチン氏、米国の計画は和平の「基礎」　ただしウクライナの撤退なければ武力で領土を奪取と警告</title>
+        <link>https://www.cnn.co.jp/world/35240992.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は27日、ウクライナ戦争終結に向けた米国の計画は「将来的な合意の基礎を形づくる可能性がある」と述べる一方で、ウクライナが撤退しなければ、武力でさらに多くの領土を奪取すると改めて警告した。
+
+プーチン氏は、米国のウィトコフ特使率いる代表団が来週初めに首都モスクワを訪れる予定であることを確認し、「真剣に協議」に臨む用意があると述べた。
+
+しかし、プーチン氏が「ウクライナ軍が占拠して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240992.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/28/25cdc19898fd069a8f9a299a472abc8a/t/768/503/d/2025-11-27t075622z-615579509-rc2v4iar4642-rtrmadp-3-kyrgyzstan-summit-csto.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240989.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-28T08:31:00+09:00</dc:date>
+        <title>米ワシントン州兵銃撃、容疑者はCIA協力のアフガン人　24年に亡命申請</title>
+        <link>https://www.cnn.co.jp/usa/35240989.html?ref=rss</link>
+        <description>米首都ワシントンのホワイトハウス近くで26日に州兵2人が銃撃された事件で、当局は27日、身柄を拘束したアフガニスタン国籍のラーマヌラ・ラカンワル容疑者（29）が米軍や中央情報局（CIA）とつながりがあり、協力者を受け入れるプログラムで米国への入国が認められていたと明らかにした。
+
+一方、撃たれた州兵2人は依然として重体という。
+
+CIAのラトクリフ長官は声明で、ラカンワル容疑者がCIAなどに協力したことを理由に米国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240989.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/28/cf3e5704884ec19f3d2a4c93cd240802/t/768/512/d/gettyimages-2207017023.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240987.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-28T08:03:00+09:00</dc:date>
+        <title>香港高層住宅火災、死者83人に　16階から救出も</title>
+        <link>https://www.cnn.co.jp/world/35240987.html?ref=rss</link>
+        <description>香港北部の高層住宅群で26日に発生した大規模火災による死者は27日までに83人になった。依然として多くの人が行方不明となっている。
+
+現地の公共放送RTHKは消防当局の話として、男性1人が16階から救出されたと報じた。
+
+香港政府トップの李家超行政長官は27日夜の記者会見で、火災は基本的に制御下にあると説明した。
+
+現場は公営の高層住宅8棟が立つ区画で、うち7棟が燃えた。いずれも少なくとも31階あり、計約2000戸が入って...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240987.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/28/8fa0767ee2096c54d46d079e61700f58/t/768/432/d/52270774-07074581-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240974.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T18:40:00+09:00</dc:date>
+        <title>米ジョージア州検察、トランプ氏とその支持者への起訴を取り下げ　歴史的な選挙介入事件</title>
+        <link>https://www.cnn.co.jp/usa/35240974.html?ref=rss</link>
+        <description>米ジョージア州の検察は26日、トランプ大統領らが2020年大統領選挙の結果転覆を企てたとする歴史的な介入事件への起訴を正式に取り下げた。かつてはトランプ氏の政治的将来にとって深刻な脅威になると目されていた司法の取り組みが終焉（しゅうえん）を迎えた。
+
+これによりトランプ氏は、バイデン前大統領に敗北した20年大統領選挙の結果転覆の試みに関わる法的危険を回避したことになる。21年1月6日の連邦議会議事堂襲撃に至...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240974.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/c4b0c86985145af642aa856ee33ad39d/t/768/539/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWlnNXc1b2IwMDBkM2I2bnpxanl2eGhi-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaWc1bzlyMTAwNGkyNnFkOHMzaTlzcDE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240977.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T18:15:00+09:00</dc:date>
+        <title>写真で見る、香港高層マンション火災の光景</title>
+        <link>https://www.cnn.co.jp/world/35240977.html?ref=rss</link>
+        <description>香港の公営住宅群で発生した壊滅的な火災は、発生から24時間以上たった今も鎮火していない。少なくとも55人の死亡が確認され、依然として多くの住民の行方が分からない状況だ。　
+
+
+  
+  
+火災発生後、プラットホームで毛布にくるまって休む避難者たち＝26日、大埔
+/Tyrone Siu/Reuters
+  
+
+
+
+
+  
+  
+大きな炎が「宏福苑」の複数のマンションをのみ込み、濃い煙と炎が立ち上る様子＝26日夜/AFP/Getty Images
+  
+
+
+
+  
+  
+壊滅的...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240977.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/859f0680714a8211402c59aa58014643/t/768/512/d/2025-11-26t094319z-1239396611-rc294iam51vj-rtrmadp-3-hongkong-fire.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240973.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T16:25:00+09:00</dc:date>
+        <title>香港の高層住宅火災、死者55人に　安否不明者の新たな情報なし</title>
+        <link>https://www.cnn.co.jp/world/35240973.html?ref=rss</link>
+        <description>香港の消防当局は27日、高層マンション群の火災による死者が少なくとも55人に増えたと明らかにした。
+
+負傷者は少なくとも123人で、その中には消防士8人が含まれる。
+
+複数の当局者によれば、死者のうち51人は現場で死亡。4人は病院で亡くなった。
+
+消防当局は今のところ、火災発生後に行方が分からなくなっている人の数について新たな情報を公表していない。当局は先に、279人が安否不明だと述べていた。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240973.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/f8be1c8191afd1b20c54cc2cfd532b37/t/768/511/d/bwp09449.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240969.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T16:01:00+09:00</dc:date>
+        <title>謎に満ちたイースター島のモアイ像、採石場の3Dモデルで製作過程が明らかに　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35240969.html?ref=rss</link>
+        <description>数世紀前に遡（さかのぼ）るイースター島の採石場には、未完成の巨大な石像が横たわっている。考古学者らによれば、この採石場の3Dモデルを通じて、石像の製作方法やそれらを生み出した当時のポリネシア社会についての新たな手がかりが得られるという。
+
+「ラパ・ヌイ」の名でも知られるこの孤島は、太平洋を見渡す巨大な「モアイ像」で有名だ。しかし当時の住民たちは、コミュニティー最大の像になったであろう上記の1体を、実...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240969.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/fa335868c2577e50e8dd7d50c1ccad47/t/768/598/d/pastedgraphic-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240964.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T15:29:00+09:00</dc:date>
+        <title>「ここで死にたい」――人身売買に遭いアジアで詐欺行為を強要される女性たちの叫び　CNN取材</title>
+        <link>https://www.cnn.co.jp/world/35240964.html?ref=rss</link>
+        <description>東南アジアなどの詐欺拠点で、多くの女性たちがオンライン詐欺に加担させられ、残された家族も苦境にあえいでいる。その実態をＣＮＮが取材した。記事に登場するすべての女性は、プライバシー保護のため仮名とする。
+
+フィリピンのある都市から北へ約1時間の郊外。家族経営の小さなコンビニエンスストアの前に、バットマンのシャツを着た男児が立っていた。
+
+男児は取材班の先に立って売り場を通り抜け、その奥にある質素な居住...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240964.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/d50d5287d5f585afb6b07cd47cc6c655/t/768/512/d/dsc04077rose.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240968.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T15:12:00+09:00</dc:date>
+        <title>香港で至る所に見かける竹の足場、火災の高層住宅にも　漢時代に遡る技法</title>
+        <link>https://www.cnn.co.jp/world/35240968.html?ref=rss</link>
+        <description>火災に見舞われた香港の高層住宅群は竹製の足場に囲まれていた。竹の足場は漢王朝時代にまでさかのぼる古い建築技法で、香港ではいまも広く使われている。
+
+こうした足場は数百メートルという高さの建物に沿って組み立てられる。布製の安全ネットで覆われ、緑や青、紫の色鮮やかな繭のような外観を形作る。
+
+
+  
+    
+      
+    
+    
+    (CNN)
+  
+
+
+
+竹は新築工事だけでなく、歴史的な集合住宅「唐楼」の改修にも毎年使用さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240968.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/55be88f0043769bf63a6be4ff682fa08/t/768/512/d/2025-11-26t092114z-1193001849-rc294iabb9y7-rtrmadp-3-hongkong-fire.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240957.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T13:35:00+09:00</dc:date>
+        <title>中国本土のSNS、香港火災の話題一色に　ウェイボーで閲覧10億回超える投稿も</title>
+        <link>https://www.cnn.co.jp/world/35240957.html?ref=rss</link>
+        <description>中国本土では香港で発生した火災に関する投稿がSNS「微博（ウェイボー）」で10億回以上閲覧されている。ユーザーからは悲嘆の声が上がり、なぜ今回のような惨事が起きたのか疑問の声を上げる人もいた。
+
+27日午前には、ユーザーの1人が「なんということか。死者数を見ると本当に泣きそうになる」と書き込み、2000件の「いいね」が集まった。
+
+このユーザーは「（中国の）旧正月まであと数カ月しかないのに…。すべての土地が金の...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240953.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T11:52:00+09:00</dc:date>
+        <title>米特使のロシア寄りの姿勢、リークされた会議録で明らかに　トランプ氏はわき上がる懸念を一蹴</title>
+        <link>https://www.cnn.co.jp/usa/35240953.html?ref=rss</link>
+        <description>ウィトコフ米特使がロシア側に行った助言に関する電話会議録をめぐり、ウィトコフ氏のクレムリン（ロシア大統領府）との交渉に懸念の声が上がっている。トランプ大統領は25日、この懸念を一蹴した。
+
+ブルームバーグ通信が検証・記録した10月14日の音声録音では、ロシアのプーチン大統領がトランプ氏との電話会議にどう臨むべきかについて、ウィトコフ氏がロシアのウシャコフ大統領補佐官に助言している。この記録は、28項目の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240953.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/aeb0b1758ba449f164e4957d419fcf2d/t/768/525/d/gettyimages-2241666151.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240936.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T11:16:00+09:00</dc:date>
+        <title>香港高層住宅火災、死者44人に　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35240936.html?ref=rss</link>
+        <description>香港で26日、複数の高層ビルが大規模火災に巻き込まれ、当局によると少なくとも44人が死亡、数百人が行方不明となっている。一部の住民は依然として燃えている建物内に閉じ込められている。
+
+消防士たちは数時間にわたり消火活動を続けているが、高層階に残された住民の救出は難航している。現場は大埔区の集合住宅「宏福苑」。8棟の建物があり、いずれも少なくとも31階ある高層住宅で、計約2千戸が入っている。香港の最新の国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240936.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/6aef39270d5c20ef32c985ddb1f4e7e3/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWlnOXl4aTQwMDA3M2I2bmg0dnYxMjV2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaWZ0dG0zYTAwMHkyNnFrZTUxYWZob3o_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240952.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T10:55:00+09:00</dc:date>
+        <title>米国立公園、外国人客の入場料を大幅値上げ　「米国人家族ファースト」で</title>
+        <link>https://www.cnn.co.jp/usa/35240952.html?ref=rss</link>
+        <description>米内務省は25日、主な国立公園で来年から、外国人観光客の入場料と年間パスの料金を値上げすると発表した。
+
+発表によると、「居住者重視の米国人家族ファースト料金体系」に基づき2026年1月1日から、非居住者向けの年間パスを現在の3倍以上の250ドル（約3万9000円）に値上げする。居住者向けのパスは80ドルのまま据え置く。
+
+入場料はグランドキャニオン、ロッキー山脈、イエローストーン、ヨセミテなど訪問者数の多い11の国立...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240952.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/d6b42634b75f89292503e12a90d72476/t/768/511/d/gettyimages-2232927608.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240951.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T10:21:00+09:00</dc:date>
+        <title>「ブタ」に続いて「醜い」　トランプ米大統領、女性記者にまた暴言</title>
+        <link>https://www.cnn.co.jp/usa/35240951.html?ref=rss</link>
+        <description>米紙ニューヨーク・タイムズは、データに基づきドナルド・トランプ大統領（79）の高齢化の兆候を指摘する記事を掲載した。これに対してトランプ大統領は26日、この記事の執筆にかかわった女性記者を「醜い」と侮蔑した。
+
+トランプ大統領は2週間足らず前にも、別の女性記者に対して「黙れ、ブタ」と暴言を浴びせていた。
+
+ニューヨーク・タイムズの記事ではトランプ大統領の公務の日程を1期目の日程と比較して分析している。そ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240951.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/551d732bdbdcdd1face8c73cccd392a9/t/768/499/d/2025-11-26t015401z-853953769-rc2z3iacknbj-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240934.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T08:48:00+09:00</dc:date>
+        <title>米ホワイトハウス近くで銃撃、州兵2人重傷</title>
+        <link>https://www.cnn.co.jp/usa/35240934.html?ref=rss</link>
+        <description>米首都ワシントンのホワイトハウス近くで26日、パトロール中の州兵2人が撃たれる事件が発生した。2人は重傷を負ったという。当局は容疑者1人の身柄を拘束した。
+
+トランプ大統領が自身のSNSで明らかにしたところによると、州兵を撃った容疑者も重傷を負っているという。トランプ氏は容疑者が「重い代償を払うことになる」と書き込んだ。
+
+複数の治安当局者によると、容疑者は州兵らを狙って発砲したとみられるという。当局者の1...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240934.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/904500f42cd99fd978db7eaf6dde3d9d/t/768/512/d/gettyimages-2247996763.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240933.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-27T08:06:00+09:00</dc:date>
+        <title>香港高層住宅火災、死者36人に 過失致死疑いで3人拘束</title>
+        <link>https://www.cnn.co.jp/world/35240933.html?ref=rss</link>
+        <description>香港政府トップの李家超行政長官は26日、北部にある高層住宅群で発生した大規模火災による死者が36人になったと明らかにした。279人と連絡が取れない状態だという。出火原因は調査中。
+
+李氏によると、29人が入院しており、少なくとも7人が重体となっている。
+
+一方、警察当局はこの火災に関連して過失致死の疑いで男3人を拘束したと発表した。
+
+火災は大埔区で発生した。現場は8棟の建物があり、いずれも少なくとも31階ある高...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240933.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/91e979ad710f23b92adf1d68f03745b4/t/768/512/d/bwp08576.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35240925.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-26T23:15:00+09:00</dc:date>
+        <title>香港の高層住宅群で火災　消防士含む13人死亡、15人負傷</title>
+        <link>https://www.cnn.co.jp/world/35240925.html?ref=rss</link>
+        <description>香港の高層マンション群で火災が発生し、消防当局は26日遅く、少なくとも13人が死亡したと明らかにした。　
+
+火災は香港の大埔区で発生。建物の外側に設置された竹の足場や建設ネットを通じて燃え広がり、火柱や濃い煙が立ち上った。
+
+マンション群は公営で、8棟の建物に2000戸近い住宅がある。最新の調査によると、住民の数は4600人を超え、その多くは高齢者だという。
+
+救急当局の幹部は26日夜の会見で、13人が死亡したほか15...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35240925.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/26/283f15aad149fd2ecc8c51c50cc3b0ac/t/768/512/d/2025-11-26t123436z-275753666-rc2c4iadh63q-rtrmadp-3-hongkong-fire__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240924.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-26T19:47:00+09:00</dc:date>
+        <title>米海軍、コンステレーション級フリゲートの調達計画を中止　中国海軍への対抗策に打撃</title>
+        <link>https://www.cnn.co.jp/usa/35240924.html?ref=rss</link>
+        <description>フェラン米海軍長官は25日、コンステレーション級フリゲートの調達計画を中止すると発表した。コンステレーション級は一時、急拡大する中国海軍の艦隊に後れを取らないようにする米国の戦略の要とうたわれていた。
+
+フェラン長官は数十億ドル規模に膨らんだこの水上戦闘艦プログラムについて、費用に見合う成果が上がっていないと説明。SNSへの投稿で、「即応態勢や勝利への能力の強化につながらないものに1ドルたりとも費やす...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240924.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/26/4f385403c8a1a6d829a404e169e02381/t/768/355/d/210402-n-n2246-0001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35240920.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-26T18:59:00+09:00</dc:date>
+        <title>【分析】なぜ暗号資産市場は暴落しているのか</title>
+        <link>https://www.cnn.co.jp/tech/35240920.html?ref=rss</link>
+        <description>暗号資産（仮想通貨）の基準に照らしても、この数週間は波乱続きだ。
+
+デジタル資産の投資家は極端な値動きに慣れているとはいえ、ここ6週間で1兆ドル（約155兆円8000億円）が吹き飛び、暗号資産の筋金入りの信奉者でさえ信念が試される展開になりつつある。新規参入者の間では暗号資産離れが相次ぐ。
+
+代表的な暗号資産のビットコインは、10月上旬に過去最高値となる12万6000ドルを付けて以降、急落している。ビットコインは今...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35240920.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/26/063df92476517727e1da3d784457d952/t/768/511/d/gettyimages-2247341178.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35240917.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-26T18:25:00+09:00</dc:date>
+        <title>ホワイトハウスのレビット報道官と親戚関係にある女性、ICEにより逮捕</title>
+        <link>https://www.cnn.co.jp/usa/35240917.html?ref=rss</link>
+        <description>米ホワイトハウスのキャロライン・レビット報道官と親戚関係にある女性が、今月ボストン近郊で逮捕され、移民税関捜査局（ICE）の拘留下に置かれていることが分かった。
+
+レビット氏の甥（おい）の母親でブラジル出身のブルーナ・キャロライン・フェレイラさんは今月12日、ボストン近郊で逮捕された。フェレイラさんの弁護士のトッド・ポメルロー氏がCNNに明らかにした。
+
+事情に詳しい情報筋がCNNに語ったところによると、レビ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35240917.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/26/5969fa16542909b1d91625936369d149/t/768/512/d/2025-11-24t212727z-1254523110-rc273iah5r61-rtrmadp-3-usa-trump-20251126051853374.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35240921.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-11-26T18:16:00+09:00</dc:date>
+        <title>ヘビとにらみ合うライオン、柱にしがみつくナマケモノ　野生生物写真コンテストの今年の優秀作品は</title>
+        <link>https://www.cnn.co.jp/fringe/35240921.html?ref=rss</link>
+        <description>今年の野生生物写真家コンテストで高く評価された作品はいずれも、ちょっとしたドラマの一場面を切り取ったかのような写真だった。
+
+ある1枚には、ライオンの雌が岩の端から顔をのぞかせてコブラとにらみ合う姿が捉えられている。別の1枚では、ナマケモノがまるで命がけのように有刺鉄線のフェンスの柱にしがみついていた。別の1枚には、1頭のゾウがごみ処分場で色とりどりの廃棄物の山をかき分けて歩いている様子が写し出され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35240921.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/26/64b589519706cac142e856aa4136c152/t/768/431/d/image.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
