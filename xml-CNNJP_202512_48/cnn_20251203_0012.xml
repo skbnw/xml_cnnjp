@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-12-03T09:09:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241169.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241166.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241164.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241156.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35241157.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241154.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241151.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241144.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241141.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241146.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35241137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241135.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241134.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241133.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241124.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241128.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241126.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241117.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241115.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241099.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35241094.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241097.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241093.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241089.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35241090.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241081.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241078.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35241077.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241074.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241073.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35241169.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-03T09:09:00+09:00</dc:date>
+        <title>米国とウクライナ情勢めぐり協議、妥協得られず　ロシア大統領補佐官</title>
+        <link>https://www.cnn.co.jp/world/35241169.html?ref=rss</link>
+        <description>ウクライナ侵攻をめぐる和平案をめぐり、ロシアのプーチン大統領と米国の代表団との間で協議が行われたが、いかなる妥協も得られなかった。ロシアのウシャコフ大統領補佐官がモスクワで記者団に述べた。
+
+ウシャコフ氏によると、米側の提案の一部は「ほぼ受け入れが可能だが、議論が必要だ」とした。一方で「受け入れられない点もある」という。
+
+プーチン大統領と米国代表団は、領土問題についても協議したといい、ウシャコフ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241169.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/03/2e5be255027fc3e4ef5303c68b1421ae/t/768/494/d/large-gettyimages-2248981395.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241166.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-03T08:37:00+09:00</dc:date>
+        <title>ドイツ、2万発分の弾薬盗まれる 軍への納入前に輸送車から</title>
+        <link>https://www.cnn.co.jp/world/35241166.html?ref=rss</link>
+        <description>ドイツの国防省は2日、軍に納入される予定だった約2万発分の弾薬が先週、民間の輸送車から盗まれたことを明らかにした。
+
+国防省の報道官がCNNに明らかにしたところによると、弾薬は請負業者のトレーラーで輸送中だったが、11月24日から25日にかけて停車している間に盗まれたという。
+
+軍が28日に約2万発分の弾薬がなくなっていることに気づいた。軍はCNNへの声明で、警察とともに弾薬の行方を調べていることを明らかにした。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241166.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/03/907e3e153b7e4a0d18e652b1e5cc9335/t/768/512/d/large-sipausa-65592488.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241164.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-03T07:57:00+09:00</dc:date>
+        <title>トランプ氏、ベネズエラ国内への攻撃「間もなく開始」</title>
+        <link>https://www.cnn.co.jp/usa/35241164.html?ref=rss</link>
+        <description>トランプ米大統領は2日、ベネズエラ国内への攻撃を間もなく開始すると明らかにした。米軍はこのところベネズエラから米国に麻薬を運搬しているとされる船舶をカリブ海で攻撃しているが、地上攻撃へと作戦をエスカレートさせる。
+
+トランプ氏は同日開いた閣僚会議で、船舶を標的にしてきた攻撃をベネズエラ国土でも行うと明言した。トランプ氏は11月27日、米軍要員らとの感謝祭の電話で同様の発言をしていた。
+
+麻薬運搬船への攻...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241156.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T19:11:00+09:00</dc:date>
+        <title>米ホワイトハウス、クリスマスの飾り付けを公開　54キロ分のジンジャーブレッドや7200メートルのリボン</title>
+        <link>https://www.cnn.co.jp/usa/35241156.html?ref=rss</link>
+        <description>今年もホリデーシーズンに向け米ホワイトハウス内の飾り付けが行われた。150人のボランティアが集結し、1週間にわたって約7200メートルものリボン、約54キロ分のジンジャーブレッド、10000個あまりのバタフライオーナメント、そしてトランプ大統領の似顔絵を模した6000ピースのレゴを用いてホワイトハウスを彩った。
+
+トランプ氏の妻、メラニア夫人にとってファーストレディーとして5回目となるホリデーシーズンのテーマは「家...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241156.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/0d40f5d0fc83f7f2994a6635b240671a/t/768/512/d/01-gettyimages-2248770587.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35241157.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T19:07:00+09:00</dc:date>
+        <title>写真特集：ホワイトハウスのきらめくクリスマスデコレーションを見る</title>
+        <link>https://www.cnn.co.jp/photo/35241157.html?ref=rss</link>
+        <description>今年もホリデーシーズンに向け米ホワイトハウス内の飾り付けが行われた。きらびやかなクリスマスデコレーションをみていく。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35241157.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/7b8644a1ea5a6a2212a9de8cf5a06080/t/768/512/d/02-ap25335524028865.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241154.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T19:02:00+09:00</dc:date>
+        <title>香港火災、行政トップが「正義の実現」誓う　安全基準満たさぬネットが捜査の焦点に</title>
+        <link>https://www.cnn.co.jp/world/35241154.html?ref=rss</link>
+        <description>香港政府トップの李家超（ジョン・リー）行政長官は、150人以上が死亡した高層住宅群の火災について「正義が実現される」よう尽力すると述べた。市当局は、建物の足場を包む際に基準を満たしていないネットを使用していたとして、建設会社に責任があるとしている。
+
+当局によると、11月26日に発生した火災は7棟の高層マンションを焼き尽くし、ほぼ2日間燃え続けた。火災に関連する逮捕者は14人に上り、さらに逮捕者が出る可能性...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241154.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/f5e188b1cf2033705375508608ff6598/t/768/512/d/ap25336271319650.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241151.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T18:18:00+09:00</dc:date>
+        <title>EU、気球によるリトアニア領空侵犯は「ハイブリッド攻撃」　ベラルーシ代表を呼び出し</title>
+        <link>https://www.cnn.co.jp/world/35241151.html?ref=rss</link>
+        <description>欧州連合（EU）のフォンデアライエン欧州委員長は1日、ブリュッセル駐在のベラルーシ代表を呼び出し、ベラルーシによるリトアニア領空への侵入はルカシェンコ政権による「ハイブリッド攻撃」に当たると述べた。
+
+フォンデアライエン氏はリトアニアのナウセーダ大統領との会談後、「ベラルーシ国境での状況は悪化している。密輸用の気球のリトアニア領空への侵入が増えている」と述べた。
+
+リトアニアの首都ビリニュスの空港は「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241151.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/f7ba517edd16aeb895c5f6da1596fcaa/t/768/512/d/large-ap25330355186241-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241144.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T17:18:00+09:00</dc:date>
+        <title>【分析】米軍の「麻薬船」攻撃で物議、トランプ政権に対する重大な六つの疑問</title>
+        <link>https://www.cnn.co.jp/usa/35241144.html?ref=rss</link>
+        <description>トランプ米大統領とその支持者らは、数日にわたって民主党議員6人を厳しく非難した。議員らが米軍に対し、違法の可能性がある政権からの命令には従わないよう、動画を通じて促したことが理由だ。
+
+今、民主党議員たちが語っていたと思われる中身の代表的な事例が明らかになった。米軍は9月初旬、カリブ海を航行する麻薬密輸船とされる船舶に対し、「ダブルタップ」攻撃として知られる追加攻撃を実施した。CNNが先週報じた。最初...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241144.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/12b10f9c03186b20012c9c99170a6498/t/768/512/d/gettyimages-2248694329.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241141.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T15:56:00+09:00</dc:date>
+        <title>小惑星の試料からアミノ酸「トリプトファン」を検出　生命の構成要素がまたひとつ</title>
+        <link>https://www.cnn.co.jp/fringe/35241141.html?ref=rss</link>
+        <description>地球近傍小惑星「ベンヌ」で採取されていた試料から、地球上の生物が持つアミノ酸のひとつ「トリプトファン」が新たに検出された。米航空宇宙局（NASA）の研究者らがこのほど米科学アカデミー紀要（PNAS)に発表した。
+
+試料は2020年にベンヌに着陸したNASAの探査機「OSIRIS-REx」（オサイリス・レックス）が採取し、23年に地球に届けた岩石やちりの一部。回収カプセルに入っていた121.6グラムの試料は分析のため、世界各地の研...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241141.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/715862bc323a36eccad8409610d14fd2/t/768/432/d/bennu-beauty-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241146.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T15:26:00+09:00</dc:date>
+        <title>イラン首都で水が完全に枯渇する恐怖　衛星写真が捉えた壊滅的状況</title>
+        <link>https://www.cnn.co.jp/world/35241146.html?ref=rss</link>
+        <description>約1500万人が暮らすイラン首都テヘランは水が完全に枯渇する恐怖に見舞われている。
+
+ペゼシュキアン・イラン大統領は先月初めの演説で、12月までにテヘランに雨が降らなければ水を配給制にすると明らかにした。雨不足が続けば、住民は「避難しなければならない」とも述べている。避難は現実的でないと指摘する専門家が多くいる一方で、ペゼシュキアン氏の発言は同国の深刻な状況を反映したものといえる。
+
+テヘランの状況に注...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241146.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/4a9e73178a9893cbdda0f4d1ab6c2acd/t/768/528/d/ap25056694997870.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35241137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T14:51:00+09:00</dc:date>
+        <title>ルーベンスの絵画、4.1億円で落札　長年にわたり別の作家の作品と誤解</title>
+        <link>https://www.cnn.co.jp/style/arts/35241137.html?ref=rss</link>
+        <description>フランドルのバロック芸術家ピーテル・パウル・ルーベンスが手掛け、長年にわたり人目に触れてこなかった絵画がこのほど、パリの競売に出品され、230万ユーロ（約4億1000万円）で落札された。
+
+ルーベンスが「十字架上のキリスト」を制作したのは1620～25年ごろ。1日に出品される前に、パリ市内の邸宅で最近になって再発見されていた。競売会社オゼナが明らかにした。
+
+作品の大きさは105.5×73.5センチで、「おおむね保存状態は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35241137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/9256a390aeecc6f39e8dfda2bc145543/t/768/432/d/2025-09-12t095645z-1163875669-rc2qpga39uhh-rtrmadp-3-france-auction.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241135.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T13:22:00+09:00</dc:date>
+        <title>米国防長官、「麻薬船」追加攻撃の責任を転嫁　実行した提督は支持</title>
+        <link>https://www.cnn.co.jp/usa/35241135.html?ref=rss</link>
+        <description>米国のヘグセス国防長官は1日、米軍が「麻薬運搬船」とみなした船舶を標的に実施した一連の攻撃について、「戦闘上の判断を下した」提督を全面的に支持すると述べ、船舶への追加攻撃に関する主な責任は、それを監督する軍司令官にあることを示唆した。
+
+ヘグセス長官はX（旧ツイッター）への投稿で、「一つ明確にしておきたい。ミッチ・ブラッドリー提督は米国の英雄であり、真のプロフェッショナルであり、私は彼を100％支持す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241135.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/9922b554076a0d1ddbf533e8e18645e3/t/768/512/d/large-Pete-Hegseth-usa-trump-venezuela.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241134.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T12:49:00+09:00</dc:date>
+        <title>今年の言葉は、怒りをあおる「レイジベイト」　オックスフォード英語辞典</title>
+        <link>https://www.cnn.co.jp/world/35241134.html?ref=rss</link>
+        <description>オックスフォード英語辞典を出版する英オックスフォード大学出版局（OUP）はこのほど、今年の言葉に「レイジベイト（rage bait、怒りをあおる）」を選んだ。
+
+ネットで何かを読んでいるときに、コンテンツがわざと挑発をしているようで、怒りをあおるために仕立てられているように感じることがあるだろう。それは、エンゲージメントを高めるために意図的に怒りを誘発するよう作られた「レイジベイト」だ。
+
+この言葉の使用頻度...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241134.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/eae9e4dbe9f5dac64eeb495feb7aaab7/t/768/512/d/gettyimages-1273305969.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241133.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T12:24:00+09:00</dc:date>
+        <title>香港火災の死者151人に、30人が行方不明　高齢者や外国人家事労働者が犠牲に</title>
+        <link>https://www.cnn.co.jp/world/35241133.html?ref=rss</link>
+        <description>香港の高層集合住宅で起きた火災について市当局は1日、死者の数が151人に増え、少なくとも30人が依然として行方不明になっていることを明らかにした。現場では懸命の捜索活動が続けられているが、一部の犠牲者の遺体は収容できない可能性があるとしている。
+
+今回の火災では4000人あまりが住む高層集合住宅7棟が焼けた。火災発生当時は修繕工事が行われていた。
+
+  
+  
+焼け落ちた集合住宅の内部の様子＝11月30日/Hong Kong Pol...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241133.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/3c335055559b6d61d3ceda3a3975d204/t/768/553/d/a-rtrmadp-3-hongkong-fire.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241124.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T11:53:00+09:00</dc:date>
+        <title>トランプ氏、ロシアに異例の交渉チーム派遣　ウクライナ巡る和平合意の締結に向け</title>
+        <link>https://www.cnn.co.jp/usa/35241124.html?ref=rss</link>
+        <description>トランプ米政権がウクライナ紛争終結に向けた和平合意の締結を急ぐ中、トランプ大統領は自身の元ビジネスパートナーと娘婿をモスクワに派遣する。どちらも連邦議会の上院議員らによる承認は得ていない。
+
+スティーブ・ウィトコフ特使とジャレッド・クシュナー氏は2日、ロシアのプーチン大統領と会談する予定だ。2人は、ウクライナへの侵攻によって戦争を開始したプーチン氏から戦争終結の同意を取り付けるべく尽力する。
+
+ウィ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241124.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/0fac03f533aa87e08e979e6b239ddc5a/t/768/512/d/gettyimages-2216879972.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241128.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T11:07:00+09:00</dc:date>
+        <title>アジア各地で洪水や地滑り、死者1172人に　救助活動が難航</title>
+        <link>https://www.cnn.co.jp/world/35241128.html?ref=rss</link>
+        <description>アジア各地で豪雨による洪水や地滑りが相次ぎ、これまでに1100人以上が死亡した。1週間にわたってアジア各地を襲った壊滅的な被害により、行方不明者の捜索・救助活動も難航している。
+
+インドネシア、タイ、マレーシアでは、サイクロンによる豪雨によって数百万人が深刻な洪水に見舞われた。
+
+スリランカも別のサイクロンに襲われ、一部地域が水没。ディサナヤカ大統領は、同国史上最も困難な救助作業だと述べた。
+
+当局によれ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241128.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/d923f434e0425363301c6e20878a5ded/t/768/432/d/115505-asiafloodsbenhunte-digvid-v1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241126.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T10:56:00+09:00</dc:date>
+        <title>トランプ氏の元個人弁護士、州検察トップとしての職務遂行は「違法」　米連邦控訴裁</title>
+        <link>https://www.cnn.co.jp/usa/35241126.html?ref=rss</link>
+        <description>米連邦控訴裁判所は1日、トランプ大統領の元個人弁護士であるアリーナ・ハバ氏がニュージャージー州の連邦検事として違法に職務を遂行していると判断した。この判断は全米の他の人事にも広範な影響を及ぼす可能性があり、トランプ政権に法律面で大きな打撃を与えた形だ。
+
+第3巡回区控訴裁判所は、上院の支持を得られなかったにもかかわらず政権がハバ氏を連邦検事に就任させたことは違法であるとする下級審の判断を支持した。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241126.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/7bebcf8b486d3026199099a2408faf93/t/768/512/d/ap25335503795720.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241117.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T09:44:00+09:00</dc:date>
+        <title>トランプ米大統領のMRI検査結果は「完全に正常」、医師の診断書を公表</title>
+        <link>https://www.cnn.co.jp/usa/35241117.html?ref=rss</link>
+        <description>米ホワイトハウスは1日、ドナルド・トランプ大統領が10月に受けた脳血管と腹部のMRI検査結果について、「完全に正常」とする主治医の診断書を公表した。
+
+診断書の中で主治医のショーン・バーバベラ医師は、「心血管は完全に正常だ。動脈狭窄（きょうさく）による血流障害や、心臓あるいは主要血管の異常の兆候はない。心室の大きさは正常で、血管の壁は滑らかで健康そうだ。炎症や血栓の兆候もない。全体として、心血管系の健...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241117.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/b971cb4a533dc33248f41a2ad7f8a6e7/t/768/512/d/gettyimages-2239704895.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241115.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-02T08:43:00+09:00</dc:date>
+        <title>ロシア、要衝ポクロウスクを制圧と発表　数カ月にわたる激しい戦闘の末</title>
+        <link>https://www.cnn.co.jp/world/35241115.html?ref=rss</link>
+        <description>ロシアは1日、ウクライナ東部の要衝ポクロウスクを制圧したと主張した。ポクロウスクでは数カ月にわたり激しい戦闘が続いていた。制圧が事実であれば、ロシア政府にとって大きな戦果となる。
+
+ポクロウスク制圧の発表の前には、ロシアのプーチン大統領が11月30日に前線部隊を視察し、ポクロウスクでの「作戦の成果」に謝意を示していた。ロシア軍は同市攻略の過程で多数の死傷者を出している。
+
+ウクライナ側はロシアの主張につ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241115.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/02/a56f495bf1caf0cf5088d810d8b0794d/t/768/511/d/large-dp-3-ukraine-crisis-pokrovsk.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241099.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-01T17:17:00+09:00</dc:date>
+        <title>ベネズエラ大統領が公の場に、国外逃亡の臆測打ち消す　米との緊張高まる中</title>
+        <link>https://www.cnn.co.jp/world/35241099.html?ref=rss</link>
+        <description>ベネズエラのマドゥロ大統領が11月30日、首都カラカスで公の場に姿を見せた。米国との緊張が高まる中で国外逃亡したのではないかとの国内の臆測に終止符が打たれた。
+
+マドゥロ氏は通常、週に数回、国内のテレビに登場するが、26日に自身のテレグラムチャンネルにカラカス市内を運転する動画を投稿して以降、公の場に姿を見せていなかった。このため、その所在をめぐり臆測を呼んでいた。
+
+マドゥロ氏は30日、カラカスで開かれ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241099.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/01/ac4afb670593a7720127b6bf2984caca/t/768/416/d/large-maduro-event.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35241094.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-01T16:21:00+09:00</dc:date>
+        <title>ドラマで警官を演じた米俳優、本物の警官に　警察学校で訓練に励む65歳</title>
+        <link>https://www.cnn.co.jp/showbiz/35241094.html?ref=rss</link>
+        <description>テレビドラマで何度も警官役を演じたベテラン俳優が、本物の警官になるために警察学校で訓練を受けている。
+
+自分より何十歳も若い新入隊員に交じってウェートトレーニングや腕立て伏せ、ランニングなどのトレーニングに励んでいるのは、40年以上のキャリアを通じて「デクスター　警察官は殺人鬼」「エイリアス」「NYPDブルー」などのドラマで警官を演じていたジェリー・オドネルさん（65）。
+
+引退のことを考え始める年齢で新...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35241094.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/01/b43b12560b82a2d81f8dcf43cc8afe1e/t/768/512/d/dsc07013.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241097.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-01T15:56:00+09:00</dc:date>
+        <title>悪魔崇拝的な児童性的虐待物への関与の疑いで男4人を逮捕　豪</title>
+        <link>https://www.cnn.co.jp/world/35241097.html?ref=rss</link>
+        <description>オーストラリア・ニューサウスウェールズ州警察によると、4人の男が「悪魔崇拝的な児童性的虐待物に関わる国際集団」への関与の疑いで逮捕された。警察は被害者の身元確認を進めている。
+
+性犯罪対策班のトップ、ジェーン・ドハティ警視は、4人の男が、乳児から12歳までの子どものほか動物を描いた「忌まわしい」コンテンツを国際的なネットワークと共有した疑いがあると述べた。
+
+ドハティ氏は1日、「警察は法廷で、この国際的...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241093.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-01T15:01:00+09:00</dc:date>
+        <title>トランプ氏、ホンジュラス前大統領に恩赦の意向　麻薬密売で収監中</title>
+        <link>https://www.cnn.co.jp/usa/35241093.html?ref=rss</link>
+        <description>米国のトランプ大統領は11月30日、麻薬密売などの罪で米国で収監されているホンジュラス前大統領のフアン・エルナンデス受刑者について、有罪判決はバイデン前政権による「でっち上げ」だとして、エルナンデス氏に恩赦を与えるようホンジュラス側から求められたと明らかにした。
+
+トランプ氏は、「どの国であれ、誰かが麻薬を売ったからといって、大統領を逮捕して終身刑に処するわけではない」と述べ、「彼らはバイデン政権の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241093.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/01/9f698c9f1319790cb7737c00418c303f/t/768/512/d/large-ap24178564727120.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241089.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-01T14:41:00+09:00</dc:date>
+        <title>【CNN.co.jpまとめ】「香港で見られる竹の足場の歴史」や「北極上空の『極渦』に異変」など（25年11月24～30日）</title>
+        <link>https://www.cnn.co.jp/fringe/35241089.html?ref=rss</link>
+        <description>CNN.co.jpでは米国政治を中心にサイエンスやスポーツ、エンタメなど幅広く海外の情報をお届けしています。
+
+先週はどんな記事がよく読まれたのでしょうか。11月24日から11月30日の週間ランキングトップ5をご紹介します。
+
+第5位：オオカミが道具を使用？、カナダで初めて撮影
+
+
+  
+
+  
+カナダ・ブリティッシュコロンビア州で、オオカミが道具を使う様子が撮影された/Haíɫzaqv Wolf &amp; Biodiversity Project
+ 
+ 
+
+
+
+ カナダ西部...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241089.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/27/55be88f0043769bf63a6be4ff682fa08/t/768/512/d/2025-11-26t092114z-1193001849-rc294iabb9y7-rtrmadp-3-hongkong-fire.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35241090.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-01T13:51:00+09:00</dc:date>
+        <title>「ズートピア2」、公開初週の興収242億円　ウィキッド新作とともに「二枚看板」に</title>
+        <link>https://www.cnn.co.jp/showbiz/35241090.html?ref=rss</link>
+        <description>米ディズニーの新作アニメ映画「ズートピア2」が感謝祭にあわせて11月26日に公開され、北米市場での5日間の興行収入は推計1億5600万ドル（約242億円）を記録した。感謝祭にあわせて公開された作品としては2024年公開のアニメ映画「モアナと伝説の海2」（2億2500万ドル）に次ぐ成績となった。
+
+ズートピア2とユニバーサルの新作映画「ウィキッド　永遠の約束」が映画界にとって久々の「二枚看板」となり、劇場にとって大きな追い...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35241090.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/01/1066e6e48dc8f74f77109a9e8a602a47/t/768/321/d/large-02-zootopia2-online-use-mono-fullcomp-0092.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241081.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-01T12:32:00+09:00</dc:date>
+        <title>東南アジアでサイクロンが猛威　死者900人超、依然数百人が行方不明</title>
+        <link>https://www.cnn.co.jp/world/35241081.html?ref=rss</link>
+        <description>東南アジア各地を相次いで襲ったサイクロンの影響で、豪雨による洪水や土砂災害が拡大し、11月30日までに確認されただけで900人以上が死亡、数百人が行方不明になっている。
+
+インドネシアのスマトラ島とタイ、マレーシアの間にあるマラッカ海峡では異例のサイクロンが発生。周辺国に猛烈な豪雨をもたらした。
+
+スリランカを襲った別のサイクロンは、インド南部に接近している。
+
+インドネシアのスマトラ島は、サイクロン「セニ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241081.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/01/0b51507dd30d96b3eea83ddf9c6d1e4a/t/768/512/d/2025-11-28t121750z-1257965807-rc2m5iazb0n8-rtrmadp-3-asia-weather-indonesia.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241078.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-01T11:39:00+09:00</dc:date>
+        <title>米国務長官、ウクライナとの協議は「生産的」　取り組むべき課題「残っている」とも</title>
+        <link>https://www.cnn.co.jp/usa/35241078.html?ref=rss</link>
+        <description>米国とウクライナの代表団が11月30日に米フロリダ州で行ったウクライナとロシアの停戦案に関する協議をめぐり、米国のルビオ国務長官は、「非常に生産的で有益な協議で、さらなる前進があった」と述べた。一方で、依然として取り組むべき課題が残っているとの認識も示した。
+
+ルビオ国務長官は協議後の声明で、「我々は、この問題の難しさについて現実的な見方を維持している。だが、進展があったことで、これは単に戦争を終わ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241078.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/01/5cb06b33f9bb69b6153c2c9bf96dabc9/t/768/432/d/still-22159909-854600-18-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35241077.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-01T11:04:00+09:00</dc:date>
+        <title>トランプ氏、FRB次期議長は「もう決めている」　クリスマス前に発表か</title>
+        <link>https://www.cnn.co.jp/business/35241077.html?ref=rss</link>
+        <description>米国のトランプ大統領は30日、大統領専用機内で記者団に対し、連邦準備制度理事会（FRB）の次期議長に誰を指名するかをすでに決めていると述べた。
+
+ブルームバーグ通信は先週、ハセット国家経済会議（NEC）委員長が有力候補であると報じた。他には、FRB元理事のケビン・ウォーシュ氏や、現職のウォラーFRB理事が候補に挙がっている。
+
+ハセット氏を指名するか問われると、トランプ氏は「言わない。我々が今後発表する」と応じ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241074.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-01T10:38:00+09:00</dc:date>
+        <title>トランプ氏、ベネズエラ大統領と電話協議　詳細は明かさず</title>
+        <link>https://www.cnn.co.jp/usa/35241074.html?ref=rss</link>
+        <description>米国のトランプ大統領は1日までに、ベネズエラのマドゥロ大統領と電話協議を行ったと記者団に明らかにした。協議の詳細については言及しなかった。トランプ氏は大統領専用機「エアフォースワン」で取材に応じた。
+
+トランプ氏は「コメントは控える。答えはイエスだ」と述べ、「良かったとも悪かったとも言えない。ただの電話会談だった」と話した。
+
+トランプ氏とマドゥロ氏の電話協議については、米紙ニューヨーク・タイムズ（...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241074.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/01/8ea48cab7adb50200c7763a3a7c50949/t/768/432/d/20251129-trump-maduro-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241073.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-01T10:13:00+09:00</dc:date>
+        <title>トランプ氏、米ウ協議受け和平合意に「十分な見込み」　ウクライナの汚職問題は「有益でない」</title>
+        <link>https://www.cnn.co.jp/world/35241073.html?ref=rss</link>
+        <description>米国のトランプ大統領は30日に行われた米国とウクライナの当局者による米南部フロリダ州での協議について一定の楽観的な見方を示した。トランプ氏は、ウクライナ戦争を終結させるための合意について「十分な見込みがある」と述べた。
+
+一方でトランプ氏は、ウクライナの汚職問題について「有益ではない」とも発言した。この数日前には、ゼレンスキー・ウクライナ大統領の側近であるイエルマーク大統領府長官が反汚職捜査のため...</description>
+    </item>
+</rdf:RDF>
