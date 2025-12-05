@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-12-05T15:58:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35241291.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/beauty/35241287.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35241288.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241283.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241267.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35241268.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35241281.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35241266.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241262.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35241259.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241257.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241248.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241249.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35241243.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241233.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241232.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241227.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241224.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35241217.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241221.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241220.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241218.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241214.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241213.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35241212.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241209.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241196.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241203.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35241198.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35241199.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/tech/35241291.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-05T15:58:00+09:00</dc:date>
+        <title>中国の検閲・監視社会、AI導入で統制強化に拍車　報告書</title>
+        <link>https://www.cnn.co.jp/tech/35241291.html?ref=rss</link>
+        <description>中国共産党は、14億人の国民に対する監視と統制を強化するため、人工知能（AI）を活用している。その技術は日常生活にまで浸透し、デモ活動の予測や刑務所の受刑者の感情の監視などにも利用されているという。新たな報告書が明らかにした。
+
+こうしたシステムの多くは、これまでも十分に紹介されてきた。国内の検閲システム「グレート・ファイアウォール」を維持するオンライン検閲官の軍団や、都市部のほぼすべての道路や区画...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35241291.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/05/c1d55543a8e76669096cd389117e16ed/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWlwbWhmcXowMDAyM2I2bmF1engyeHhk-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaXBrNzVpMjAwMXEyYnA2MTVzNjMwOXk_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/beauty/35241287.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-05T14:26:00+09:00</dc:date>
+        <title>スキャンダルまみれのミス・ユニバース、今年の世界大会の失態はミスコンの醜悪さをさらすことに</title>
+        <link>https://www.cnn.co.jp/style/beauty/35241287.html?ref=rss</link>
+        <description>美しさは見る人の目の中にある。そして、スキャンダルまみれのミス・ユニバースにとって、これが問題の大部分を占めている。
+
+不透明で主観的な投票基準は、今年の世界大会をめぐる数々の疑惑を解明することを困難にしている。メキシコ代表のファティマ・ボッシュさんが優勝すべきだったかどうかという疑問は、もはやボッシュさんのステージパフォーマンスではなく、不正投票や秘密主義、そしてえこひいきの疑惑に向かっている...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/beauty/35241287.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/05/1469cfc629244bbb87e6df603374be2c/t/768/512/d/gettyimages-2247166054.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35241288.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-05T12:49:00+09:00</dc:date>
+        <title>【分析】メタバースは終わった――米メタが事業部予算削減の報道、ウォール街好感</title>
+        <link>https://www.cnn.co.jp/tech/35241288.html?ref=rss</link>
+        <description>4日の米株式市場でメタ（旧フェイスブック）の株価が一時7％上昇した。マーク・ザッカーバーグ最高経営責任者（CEO）がメタバース事業部の予算を最大30％削減するというブルームバーグ通信の報道を好感した。メタの広報は、メタバース事業部からAIメガネ・ウェアラブル事業へと「投資の一部をシフトする」としている。
+
+メタの終値は前日比3.4％上昇した。
+
+ウォール街が熱狂した理由は分かりやすい。同社が4年間にわたって巨額...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35241288.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/05/19759a8ba90d210e7dddd0a42dd7c644/t/768/511/d/gettyimages-2231800004.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241283.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-05T12:05:00+09:00</dc:date>
+        <title>反ハマス民兵組織の指導者、ガザで死亡　イスラエルの戦後計画に打撃か</title>
+        <link>https://www.cnn.co.jp/world/35241283.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区のイスラム組織ハマスと対立する民兵組織は4日、指導者がガザで死亡したことを明らかにした。この組織はイスラエルから武器の提供や支援を受けており、イスラエルの戦後計画にとって打撃となる可能性がある。
+
+死亡したヤセル・アブ・シャバブ氏は、ガザ地区南部ラファの一部を支配する民兵組織を率いていた。広場で家族内の「対立の沈静化」を試みた際に死亡したという。イスラエルの情報筋はこれより...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241283.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/05/1fc3941f07ec9434258aefa723df6b98/t/768/768/d/photo-of-yasser-abu-shabab.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241267.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-05T11:35:00+09:00</dc:date>
+        <title>「麻薬船」攻撃の生存者、加勢呼ぶ無線通信は行わず　追加攻撃指示した米司令官が説明　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35241267.html?ref=rss</link>
+        <description>9月初旬、米軍による麻薬密輸船とみられる船舶への二次攻撃で死亡した2人は、転覆した船体にしがみついて漂​​流した状況にあり、無線機などの通信機器は所持していなかったとみられる。攻撃を指揮していた軍高官が4日、議員らに語った。同高官の議会説明について直接知る3人の関係筋が明らかにした。
+
+生存者2人の殺害は戦争犯罪に相当するとの批判に対し、国防当局者らは9月初旬から静かに反論してきた。2人が正当な標的だった...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241267.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/29/e74b7d96575349554f3f6386af1bdc37/t/768/432/d/still-21916724-1690-981-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35241268.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-05T11:20:00+09:00</dc:date>
+        <title>2025年の世界観光都市ランキングが発表　パリが5年連続首位、東京3位</title>
+        <link>https://www.cnn.co.jp/travel/35241268.html?ref=rss</link>
+        <description>調査会社ユーロモニター・インターナショナルがまとめた世界の観光都市ランキング2025年版で、フランスの首都パリが5年連続の首位を保った。東京は3位、京都は19位だった。
+
+パリはノートルダム大聖堂の再公開や、サッカーの欧州チャンピオンズリーグで優勝したパリ・サンジェルマンのトロフィーを見ようとファンが詰めかけたことでブームが続いた。
+
+ランキングは観光、持続可能性、経済実績、安全衛生といった指標に基づき世...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35241268.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/05/f1b7c53aabae68b157b0e3296b4c5b52/t/768/432/d/TopCity_01.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35241281.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-05T11:18:00+09:00</dc:date>
+        <title>写真特集：世界観光都市ランキングに選ばれた人気の街並みを見る</title>
+        <link>https://www.cnn.co.jp/photo/35241281.html?ref=rss</link>
+        <description>調査会社ユーロモニター・インターナショナルがまとめた世界の観光都市ランキング2025年版が発表された。選ばれた人気の街並みをみていく。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35241281.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/05/58e26fe46d6805807292ad67d22eb6ec/t/768/511/d/TopCity_05.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35241266.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-05T09:55:00+09:00</dc:date>
+        <title>世界のビリオネアの総資産、過去最高の2450兆円に　AI関連企業の株価上昇がけん引</title>
+        <link>https://www.cnn.co.jp/business/35241266.html?ref=rss</link>
+        <description>スイス金融大手UBSが4日に公開した年次報告書によると、世界の億万長者（ビリオネア）の人数とその総資産額が今年、過去最高を記録した。とりわけハイテク株の上昇に支えられた形だ。
+
+UBSが調査の一部を完了した4月4日時点で世界のビリオネアは2919人。同行が1995年にデータ収集を開始して以降、最多となった。
+
+UBSによると、ビリオネアの総資産額は15兆8000万ドル（約2450兆円）に達し、12カ月で13%増加した。これは、既存の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35241266.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/05/e2f03db20cc361ef2b76acad71c68855/t/768/510/d/gettyimages-125033823-20251204144442123.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241262.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-05T09:30:00+09:00</dc:date>
+        <title>米軍が東太平洋でまた船舶攻撃、4人死亡　麻薬対策への疑問の声高まる中</title>
+        <link>https://www.cnn.co.jp/usa/35241262.html?ref=rss</link>
+        <description>米軍は4日、東太平洋で麻薬密輸船とみられる船舶を攻撃し、乗船していた4人を殺害した。米南方軍司令部がソーシャルメディアへの投稿で明らかにした。
+
+投稿によれば米軍は、国際水域で指定テロ組織が運航する船舶に対し、致死的なキネティック（動的）攻撃を実施した。情報機関は、この船舶が違法麻薬を積載し、東太平洋の既知の麻薬密売ルートを航行していたことを確認。乗船していた男性の麻薬テロリスト4人が死亡したという...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241262.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/05/11cd6acf09cf0e1af30d0f0a77c04071/t/768/430/d/c-screenshot-2025-12-04-at-3-47-40-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35241259.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-05T08:45:00+09:00</dc:date>
+        <title>NYタイムズ、米国防総省を提訴　報道規制は「憲法違反」</title>
+        <link>https://www.cnn.co.jp/business/35241259.html?ref=rss</link>
+        <description>米紙ニューヨーク・タイムズは4日、国防総省が10月に導入した報道規制は憲法に違反するとして、ワシントンの連邦地裁に提訴した。報道規制の差し止めを求めている。
+
+国防総省担当の記者らは規制に同意せず、規制導入によって取材記者証の返納を余儀なくされた。
+
+ニューヨーク・タイムズの広報担当者は「国防総省の政策は政府の意に沿わない報道を統制しようとする試みであり、憲法修正第1条および第5条のもとで保障されている...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35241259.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/05/411c7e4cec49d8d3fc9ff23ad2a19960/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWlxdXR2Zm4wMDE1M2I2bmd3em1nYmIw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaXF1b2lwZDAwNDAyNnA3ZG5mYzB6YzI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241257.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-05T08:00:00+09:00</dc:date>
+        <title>プーチン氏、ウクライナ東部の掌握誓う　「軍事あるいはその他の手段で」</title>
+        <link>https://www.cnn.co.jp/world/35241257.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は4日、ウクライナ東部ドンバス地方を「軍事あるいはその他の手段」で掌握すると述べ、これまで提示してきた割譲要求を改めて示した。訪問先のインドでのインタビューで述べた。
+
+ロシア国営タス通信が報じたところによると、プーチン氏はロシアが「軍事あるいはその他の手段を用いてドンバスとノボロシアを解放する」とインタビューで述べた。
+
+ノボロシアとは「新しいロシア」を意味し、ロシアが一方的...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241257.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/05/c8b4c4289ed8a0171a76652025ac13a2/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWlyYWNkOG8wMDBsMzU2bm5qaTR5azkx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaXJhOWZhcjAwNDMyNXFpY3VvbzB4OWg_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241248.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T18:41:00+09:00</dc:date>
+        <title>【分析】二股をかけるインド、対米通商協定とプーチン氏厚遇を両立できるのか？</title>
+        <link>https://www.cnn.co.jp/world/35241248.html?ref=rss</link>
+        <description>ロシアのプーチン大統領を乗せた専用機が4日にニューデリーに着陸する際、プーチン氏はインドの揺るぎないパートナーだけに用意される盛大な式典で迎えられるだろう。しかし、主催者であるインドのモディ首相は同時に、主要競争国の米国とも深い戦略的関係を維持しようと試みている。
+
+これがインド外交の二面性だ。一方には、ロシアの先端戦闘機を購入する可能性や安価な石油、冷戦時代に築かれた強固な友情が存在する。その一...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241248.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/e66503d4de3e2ff1b943dbc9871fe5ad/t/768/512/d/gettyimages-2232564243.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241249.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T18:06:00+09:00</dc:date>
+        <title>【分析】トランプ氏の使者を追い払うプーチン氏、その目に映る地政学的勝利</title>
+        <link>https://www.cnn.co.jp/world/35241249.html?ref=rss</link>
+        <description>ロシアのウラジーミル・プーチン大統領は、ディール（取引）を望んでいない。相手からそれを受け入れるようせがまれて、甘美な気分に酔いしれたいわけでもない。ドナルド・トランプ米大統領の特使と娘婿は5時間にわたりプーチン氏と協議したが、目立った成果はほとんど得られなかったようだ。ここは現状から一歩離れ、プーチン氏自身の視点に立って世界とロシアによるウクライナ侵攻を眺めることが有益だ。
+
+自ら始めたこの戦争...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241249.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/3eed26f0d62459d9403ae6e0371c38e4/t/768/512/d/2025-12-02t171119z-389173798-rc2h8iaahpg9-rtrmadp-3-ukraine-crisis-putin-witkoff.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35241243.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T16:12:00+09:00</dc:date>
+        <title>AI搭載の子ども向け玩具が登場、安全性やメリットは</title>
+        <link>https://www.cnn.co.jp/tech/35241243.html?ref=rss</link>
+        <description>テディベアやぬいぐるみは長らく子どもの遊び相手の定番だった。しかし今では、子どもの想像の中で話しかけることはなく、内蔵されたAI（人工知能）のチャットボットを通じて「話す」ものが登場している。
+
+ただし、そこには問題もある。最近ある研究チームのテストで、マフラーを巻いたテディベアが暴走し、この種の玩具がどんな振る舞いをし得るのかを示す警鐘となった。
+
+オンラインのチャットボットは、大人にとっても、少...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35241243.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/7a31cb6ec07059c6cc062c935e02a6e6/t/768/432/d/ai-bear-16x9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241233.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T13:48:00+09:00</dc:date>
+        <title>ヘグセス米国防長官のチャットでの機密情報共有は「米軍を危険にさらした可能性」、監察総監報告書　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35241233.html?ref=rss</link>
+        <description>ヘグセス米国防長官が今年3月にイエメンの反政府武装組織フーシを標的とした極めて機密性の高い攻撃計画を通信アプリ「シグナル」で共有したことをめぐり、監察総監がまとめた機密報告書が2日、議会に提出された。報告書は、ヘグセス氏が軍事上の機密情報を漏洩（ろうえい）させるリスクを冒したとし、この行為は米軍部隊と任務目標を危険にさらしかねないものだったと指摘した。報告書の内容に詳しい4人の情報筋が明らかにした...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241233.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/2d8e2c6f57e9351110b8a9000a4ff8c9/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWlxYTA5dHowMDBiMzU2bmE5OGVqaHNs-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaXE5eHZ0ZDAwNXMyNnA5MG1oZmhpdW8_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241232.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T13:47:00+09:00</dc:date>
+        <title>年をとっても遅くない、運動で脳の健康維持へ　認知症リスク低下か</title>
+        <link>https://www.cnn.co.jp/fringe/35241232.html?ref=rss</link>
+        <description>科学者は、若いうちから運動を始めることで、脳の衰えのリスクを軽減できると称賛してきた。だが、新たな研究によると、45歳以上になっても運動を始めるのに遅すぎることはないようだ。
+
+米医学誌「JAMAネットワーク・オープン」に掲載された研究によると、中年期（45〜64歳）と後年期（65〜88歳）に最も高い水準の身体活動を行っていた人は、認知症のリスクがそれぞれ41％と45％低下した。
+
+「この研究は、『運動は脳に良い』...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241232.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/e61dd06afec489b1ab5b67f40c453858/t/768/512/d/large-gettyimages-2211441650.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241227.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T12:36:00+09:00</dc:date>
+        <title>酒店にアライグマが侵入、酔っ払ってトイレでバタンキュー　米バージニア州</title>
+        <link>https://www.cnn.co.jp/fringe/35241227.html?ref=rss</link>
+        <description>米バージニア州にある酒類販売店が思わぬ「襲撃」を受けた。とはいえ、よくある強盗事件とは違っていた。
+
+11月29日に店内に入り込んだのは、いたずら好きのアライグマで、棚の間をあちこち物色していた。
+
+ハノーバー郡動物保護局の職員が店のトイレでぐったりと横たわっている毛むくじゃらの「犯人」を発見した。当局によると、アライグマは「かなり酔っていた」という。
+
+警官は眠り込んでいたアライグマを起こし、しらふに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241227.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/663abf107277f7725a566a7ca42d2d6c/t/768/432/d/WMARDrunkRaccoon.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241224.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T11:59:00+09:00</dc:date>
+        <title>会議中や閣議中に襲ってくる睡魔　専門家に聞く対処法</title>
+        <link>https://www.cnn.co.jp/fringe/35241224.html?ref=rss</link>
+        <description>退屈な会議や授業中、長時間の公演、さらには閣議の最中であっても、どうにもならない眠気に襲われることは誰にでもある。しかし居眠りする姿が公衆の面前にさらされるほどきまりが悪いことはない。
+
+だが恐れる必要はない。専門家が指南する対処法は存在する。
+
+眠気を覚ます様々な方法
+
+「何よりもまず、大切な会議の前の晩は睡眠を優先し、十分な休息を心がけて集中力を保つ」と助言するのはジョンズ・ホプキンス大学医学校...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241224.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/a78b339adcfa8bda52a2863a81a6c135/t/768/511/d/gettyimages-1370660000.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35241217.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T11:27:00+09:00</dc:date>
+        <title>モデロとコロナ、トランプ米大統領の移民取り締まりで予想外の痛手</title>
+        <link>https://www.cnn.co.jp/business/35241217.html?ref=rss</link>
+        <description>ビール販売を手掛ける米コンステレーション・ブランズは、成長に向けて中南米系の顧客を取り込むべく、「モデロ・エスペシアル」と「コロナ」の2銘柄を展開してきた。しかし大規模な国外退去を進めるトランプ政権の政策によって、その戦略は崩壊しつつある。
+
+顧客調査、企業調査、市場調査によると、合法・不法滞在を問わず、多くの中南米系消費者は、移民に対する法執行の強化を受けて店舗やレストラン、バーなど公共の場へ出...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35241217.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/09a03dbd5c3f0b61755757e7d1bf34d7/t/768/560/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWlubnNqNGUwMDAxM2I2bjl2bzNlcWJo-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaW5teHlpeDAwa3QyN3FkNzVreTU4bGw_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241221.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T11:10:00+09:00</dc:date>
+        <title>数十年にわたる未解決殺人、紙袋から採取されたDNAで連続殺人犯にたどり着く　米コロラド州</title>
+        <link>https://www.cnn.co.jp/usa/35241221.html?ref=rss</link>
+        <description>米コロラド州デンバー南部の静かな道路沿いで見つかった女性に性的暴行を加えて殺害した容疑者は40年近くにわたって当局の手を逃れてきた。だが、被害者の手にかぶせられていた紙袋に残されたわずかな証拠が長年探し求めてきた答えを示した。捜査当局は2日、コロラド州で「最も多くの犠牲者を出した連続殺人犯」のひとりとDNAが一致したと発表した。
+
+ダグラス郡保安官事務所は声明で「およそ40年前の紙袋から有効なDNA鑑定結果...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241221.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/d62b8fc1dc711ef92642b3b572ad27c2/t/346/432/d/large-img-20251127-0002-768x956.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241220.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T11:05:00+09:00</dc:date>
+        <title>イランのドローンを分解、米軍が中東に「片道攻撃ドローン部隊」創設　「同じことをやり返す」</title>
+        <link>https://www.cnn.co.jp/world/35241220.html?ref=rss</link>
+        <description>この2年にわたりイランや代理勢力からドローン（無人機）攻撃を受け続けてきた米軍が、中東で初となる「片道攻撃ドローン部隊」を創設して対抗を図っている。使用するのは、イランの設計と技術を直接取り入れたドローンだ。
+
+この飛行隊は米中央軍が数カ月前に設立した任務部隊「タスクフォース・スコーピオン・ストライク」の指揮下に入り、「低コスト無人戦闘攻撃システム（LUCAS）」と呼ばれるドローンを使用する。米国防総...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241220.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/c93feb1253edaa41c4c8da0812df3d69/t/768/511/d/9417768.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241218.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T10:23:00+09:00</dc:date>
+        <title>今年最後のスーパームーン、3カ月連続の締めくくり</title>
+        <link>https://www.cnn.co.jp/fringe/35241218.html?ref=rss</link>
+        <description>月が普段よりも大きく明るく見える今年最後の「スーパームーン」が米東部標準時の4日（日本時間5日）に観測できる。12月の満月は「コールドムーン」と呼ばれる。
+
+天体観測サイト「アーススカイ」によると、完全な満月になるのは米東部標準時の4日午後6時14分（日本時間5日午前8時14分）ごろ。この前後の夜も満月に見える。
+
+今回の満月は、3カ月連続で続く今年のスーパームーンの最後になる。スーパームーンは月が地球に最も近...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241218.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/4e86b6cd7b3fbfd2dd71c7f9fb7bde5a/t/768/511/d/gettyimages-884755024.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241214.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T09:50:00+09:00</dc:date>
+        <title>保育所で子どもに性的暴行やわいせつ動画撮影、職員の男が26件の罪状認める　英国</title>
+        <link>https://www.cnn.co.jp/world/35241214.html?ref=rss</link>
+        <description>英ロンドンの保育所に勤務していた男が、子どもたちに対する性的暴行などの罪で起訴され、26件について起訴内容を認めた。ロンドン警視庁が3日に発表した。
+
+発表によると、起訴されたのはロンドン北部在住のビンセント・チャン被告（45）。子どもに対する性的暴行9件のほか、子どものわいせつ画像撮影と作成など計26件の罪状について、起訴内容を認めた。PAメディアによると、量刑は1月23日に言い渡される。
+
+起訴状が読み上げ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241214.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/0e02f6ab633a4ed928306c9064509320/t/768/512/d/01kbj3nxye14svdbxj4nhpskj7.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241213.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T09:11:00+09:00</dc:date>
+        <title>エプスタイン元被告の女性虐待現場の島の写真を公開　米民主党議員</title>
+        <link>https://www.cnn.co.jp/usa/35241213.html?ref=rss</link>
+        <description>米下院監視委員会に所属する民主党の委員は3日、 性犯罪で起訴され勾留中に死亡した米富豪ジェフリー・エプスタイン元被告がカリブ海に所有し、少女や女性への虐待の現場となった島の写真や映像を公開した。
+
+公開された写真には複数の寝室や浴室、歯科医院にある診療台のようなものが置かれ壁にはマスクがかけられた部屋、短縮ダイヤルボタンの横に個人の名前が書かれた固定電話などが写っている。
+
+また、複数の映像には豪華...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241213.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/1af0e7638eb3f709bbb6267991b2be52/t/768/650/d/large-image.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35241212.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T09:08:00+09:00</dc:date>
+        <title>写真特集：エプスタイン元被告が所有していた島の写真を公開</title>
+        <link>https://www.cnn.co.jp/photo/35241212.html?ref=rss</link>
+        <description>米下院監視委員会の民主党の委員は性犯罪で起訴され勾留中に死亡した米富豪ジェフリー・エプスタイン元被告がカリブ海に所有していた島の写真や映像を公開した&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35241212.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/318e93de955ed7168c837ea61686823f/t/768/511/d/001-img-5201s.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241209.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-04T08:13:00+09:00</dc:date>
+        <title>「ファベルジェの卵」を飲み込む、男を窃盗容疑で逮捕　NZ</title>
+        <link>https://www.cnn.co.jp/world/35241209.html?ref=rss</link>
+        <description>ニュージーランド警察は2日、宝石店で宝飾品「ファベルジェの卵」のペンダントを手に取り、そのまま飲み込んで盗んだとして、32歳の男を窃盗容疑で逮捕した。
+
+ニュージーランド警察はCNNへの声明で、今回の事件は11月28日午後にオークランド中心部の店舗で起きたと明らかにした。
+
+店舗スタッフが同日午後3時30分ごろに警察へ通報。警察官が数分後に駆けつけ、店内で男を逮捕したという。
+
+男は窃盗容疑で訴追され、12月8日に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241209.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/04/1d05146142c01e4590a5072366766414/t/768/431/d/faberge-x-special-edition-yellow-gold-green-guilloche-enamel-octopussy-egg-surprise-locket-132031-0-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241196.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-03T19:41:00+09:00</dc:date>
+        <title>中国で注目浴びる日本文化のファン層――ただし良い意味ではなく</title>
+        <link>https://www.cnn.co.jp/world/35241196.html?ref=rss</link>
+        <description>リリー・チェンさんは、20年間ファンだった日本人歌手を目にする喜びで胸がいっぱいだった。風が強く肌寒い11月19日の夜、北京市内のコンサート会場に入るため群衆と共に外で待っていた。
+
+ところが開演時刻が過ぎても扉は閉まったまま。そして衝撃的な知らせが届いた——コンサートは中止となったのだ。
+
+「本当に残念だった」と、35歳のチェンさんは振り返る。
+
+主催者は会場の「設備故障」を理由に挙げたが、ファンは中国と日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241196.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/03/41052a09d5c67aa455e0c549f4e2784d/t/768/432/d/gettyimages-2245597134.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241203.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-03T19:32:00+09:00</dc:date>
+        <title>中国の再使用型ロケット、回収試験でブースターが爆発　スペースＸ追撃ならず</title>
+        <link>https://www.cnn.co.jp/fringe/35241203.html?ref=rss</link>
+        <description>中国の民間宇宙企業は3日、「朱雀3号」ロケットの軌道投入に成功したものの、ロケットブースターを再び着地させる歴史的な試みには失敗した。中国企業によるこうした試験は初めて。中国の成長中の民間宇宙セクターは、スペースXのような米競合企業への追随を急いでいる。
+
+北京を拠点とするランドスペース社は、中国北西部の人里離れた砂漠地帯にある発射場から、「朱雀3号」ロケットを打ち上げた。
+
+ランドスペース社の声明に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241203.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/03/2fc86c0af3a0d45901c7b1ca47155638/t/768/432/d/img-5437.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35241198.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-03T17:47:00+09:00</dc:date>
+        <title>獲物を狙うサメや人の顔の形をした火山噴火――国際航空写真コンテストの初代受賞作</title>
+        <link>https://www.cnn.co.jp/travel/35241198.html?ref=rss</link>
+        <description>海に潜るザトウクジラや、メンハーデンに近づくエイに、獲物を狙うハナザメ。これらはすべて、国際航空写真コンテストで初代最優秀賞を受賞した写真家による作品だ。
+
+ニューヨーク出身でプロのドローン（無人機）操縦士、ジョアンナ・ステイドル氏がこれらの見事な写真を撮影し最優秀賞を受賞した。
+
+「インターナショナル・エアリアル・フォトグラファー・オブ・ザ・イヤー」は、上空から撮影された写真の中から最も印象的な...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35241198.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/08/b0d28acc97e4b0b7966c501df4c8db4f/t/768/432/d/01-58425-joanna-steidle-the-gateway_1200x675.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35241199.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-03T17:44:00+09:00</dc:date>
+        <title>写真特集：息をのむ写真の数々、国際航空写真コンテストの受賞作を見る</title>
+        <link>https://www.cnn.co.jp/photo/35241199.html?ref=rss</link>
+        <description>新たに創設された、航空写真の世界的コンテスト「インターナショナル・エアリアル・フォトグラファー・オブ・ザ・イヤー」の受賞作を紹介する&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35241199.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/08/20591e6bb727630f67f67edaa2204869/t/768/576/d/02-58586-daniel-vine-garcia-smoking-skull.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
