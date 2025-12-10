@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-12-10T21:33:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241493.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35241478.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241472.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241484.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35241476.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241453.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241471.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241462.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241419.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241464.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241463.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241459.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241454.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35241458.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241436.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241452.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35241437.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241434.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241431.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241418.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241412.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241404.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241410.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241409.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241406.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241394.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241398.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241396.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35241387.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35241392.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35241493.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T21:33:00+09:00</dc:date>
+        <title>孫の卒業式のためケニアからはるばる米国に駆けつけた祖父、翌日行方不明に</title>
+        <link>https://www.cnn.co.jp/world/35241493.html?ref=rss</link>
+        <description>米南部アラバマ州で今年5月、孫の高校の卒業式に出席しようとアフリカのケニアから駆け付けた男性が突然、姿を消した。地元警察の懸命な捜索にもかかわらず、男性の安否は今も不明のままだ。
+
+リューベン・ワイサカさん（72）は孫の卒業式を6日後に控えた5月14日、ケニアから1万3000キロ以上のフライトを経て、息子一家が住む同州バーミンガム南郊の町カレラに到着した。スーツケースには、息子が若かった頃の色あせた写真や、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241493.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/14/b8042cf0f5b135973e2136658fc04a6d/t/326/432/d/calera2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35241478.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T18:25:00+09:00</dc:date>
+        <title>大ヒットの映画「国宝」、アカデミー賞狙う　歌舞伎の復興につながる可能性も</title>
+        <link>https://www.cnn.co.jp/style/arts/35241478.html?ref=rss</link>
+        <description>映画「国宝」は、架空の歌舞伎役者の半世紀にわたる人生を描いた3時間の大作で、日本の大衆文化から伝統芸能が徐々に姿を消していく様子が描かれる。かつては国民的な関心事（とはいえ、比較的中流階級の関心事ではあったが）だった歌舞伎は、芸術的に時を止めた高齢の集団によって演じられるニッチな存在へと後退していく。
+
+芸術も現実も同じだ。歌舞伎は今、日本で苦境に立たされている。ユネスコ（国連教育科学文化機関）に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35241478.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/24742c3fbe09660632a15a5095a1bee1/t/768/432/d/001-kokuho-no-4-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241472.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T17:50:00+09:00</dc:date>
+        <title>米FDA、コロナワクチンと死亡例の関連を調査　接種で子どもが死亡とも主張</title>
+        <link>https://www.cnn.co.jp/usa/35241472.html?ref=rss</link>
+        <description>米食品医薬品局（FDA）は現在、「数多くの年齢層にまたがる」死亡例が新型コロナワクチンに関連しているかどうかを調査している。報道官が9日に明らかにした。この数週間前にはFDAのある高官が、新型コロナワクチン接種によって子ども10人が死亡したと、証拠を示すことなく主張していた。
+
+米保健福祉省の報道官のアンドルー・ニクソン氏は、FDAが「徹底的な調査」を行っていると述べた。ただどのようなデータソースを使用して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241472.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/b74f50d16c8e573bc4a2ac883c9378c0/t/768/512/d/gettyimages-2217713936-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241484.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T17:23:00+09:00</dc:date>
+        <title>南シナ海で墜落したFA18とヘリ、米海軍が回収発表　中国の手に渡っていれば情報流出も</title>
+        <link>https://www.cnn.co.jp/usa/35241484.html?ref=rss</link>
+        <description>米海軍は9日、南シナ海で10月に空母ニミッツから発艦した後に墜落した軍用機2機を回収したと明らかにした。
+
+回収されたのはFA18戦闘機とMH60ヘリ。海軍によると、今月5日、軍で契約した船に搭載された無人システムを使用して、水深約122メートルの場所から2機を引き揚げたという。
+
+両機とも米海軍の最新鋭機ではないものの、専門家からは、残骸が敵の手に渡っていれば有用な情報が流出した可能性があるとの指摘が出ている。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241484.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/d14c9c0f4b993de3100e2efba23eba18/t/768/512/d/9138809.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35241476.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T16:30:00+09:00</dc:date>
+        <title>ティモシー・シャラメとカイリー・ジェンナー、鮮烈ペアルックで巧みに映画プロモーション</title>
+        <link>https://www.cnn.co.jp/style/fashion/35241476.html?ref=rss</link>
+        <description>今をときめく大物カップル、ティモシー・シャラメとカイリー・ジェンナーが8日夜、ハリウッド映画「マーティ・シュプリーム 世界をつかめ」のプレミアに登場した。頂点を夢見る卓球プレーヤーをシャラメが演じる同作のプロモーションとして、2人はオレンジ色のペアルックに身を包んだ。オレンジ色は劇中で使われるピンポン球の色。
+
+シャラメの単色スーツとジェンナーのカットアウトマキシドレスはどちらもロサンゼルス発のブラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35241476.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/fdaadd01cafdf7f8fd564e8a0f92bbed/t/768/506/d/2025-12-09t072051z-726875803-rc2qcia9voxd-rtrmadp-3-film-marty-supreme-screening.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241453.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T15:44:00+09:00</dc:date>
+        <title>一夫一婦制が人類に占める割合は？　他の動物との比較も発表　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35241453.html?ref=rss</link>
+        <description>人類は他の霊長類よりも一夫一婦制の占める割合が格段に高いものの、その比率はビーバーには及ばない。新たな研究がそう示唆している。
+
+英ケンブリッジ大学の研究者たちは、複数の動物種と歴史を通じた様々な人類集団を対象に、両方の親を共有する兄弟姉妹と一方の親だけを共有する兄弟姉妹の割合を分析した。
+
+一夫一婦制の種や社会では、両親を共有する兄弟姉妹の数が多い傾向があり、一夫多妻制の種や社会では、一方の親だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241453.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/5889ba4ad98d4d671dc622d93c586bd1/t/768/441/d/gettyimages-910086430.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241471.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T14:16:00+09:00</dc:date>
+        <title>猿人の足骨をめぐるなぞ解明か　人類の系譜を塗り替える可能性も</title>
+        <link>https://www.cnn.co.jp/fringe/35241471.html?ref=rss</link>
+        <description>東アフリカのエチオピアで2009年に見つかった340万年前の足の骨、通称「ブルテレの足」について、持ち主は「アウストラロピテクス・デイレメダ」（デイレメダ猿人）だったとの研究結果が発表された。この結果が確認されれば、人類の系譜を塗り替える可能性もある。
+
+米アリゾナ州立大学の人類起源研究所長を務める古人類学者、ヨハネス・ハイレセラシエ教授らのチームが科学誌ネイチャーに発表した。
+
+
+  
+  
+8片の骨から成るブ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241471.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/3518d9d7979090587b2b6eb6d1820411/t/768/556/d/019-brt-vp-2-135-first-piece.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241462.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T13:34:00+09:00</dc:date>
+        <title>服役中のブラジル前大統領の伝記映画を制作、主演はジム・カビーゼル</title>
+        <link>https://www.cnn.co.jp/world/35241462.html?ref=rss</link>
+        <description>ブラジルのジャイル・ボルソナーロ前大統領が映画館に現れる。
+
+文字通りの意味ではない。本人は現在、禁錮27年の刑で服役中だ。再選を目指した2022年の大統領選に敗れた後も権力の座にとどまるため、クーデターを企てたとの罪に問われた。しかし、ボルソナーロ氏の息子たちや政界の盟友らがソーシャルメディアに投稿した内容によると、同氏の経歴を描いた新作映画が制作中だという。
+
+「ダーク・ホース」と題されたこの映画の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241462.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/0afc663177c744bceff4a9dbc5ddf3b3/t/768/603/d/dbf64f-2-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241419.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T13:01:00+09:00</dc:date>
+        <title>【分析】トランプ氏にとっての万能の答え：バイデンが悪い</title>
+        <link>https://www.cnn.co.jp/usa/35241419.html?ref=rss</link>
+        <description>米国のバイデン前大統領が大統領執務室にいた頃からは、既に一生分の年月が流れたように感じられる。同氏が地元のデラウェア州に帰って以降、それほどの激動と変革が巻き起こってきた。
+
+しかし首都ワシントンにいるある人物は、今なおこの第46代大統領のことが気になって仕方がない。バイデン氏の前任者であり、また後継者でもある人物その人だ。
+
+トランプ大統領が公の場に現れるときは、必ずと言っていいほどバイデン氏の政...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241419.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/09/252ca72d2836e735aa10f089a8f9c441/t/768/551/d/ap14609062365.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241464.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T12:27:00+09:00</dc:date>
+        <title>パラグライダーの男性、山に墜落して死亡　米ハワイ</title>
+        <link>https://www.cnn.co.jp/usa/35241464.html?ref=rss</link>
+        <description>米ハワイ州オアフ島の東側でパラグライダーが山中に墜落する様子が目撃されたとの通報があり、ホノルル消防局が出動して対応に当たったものの、この男性（68）は死亡した。
+
+ホノルル消防局によると、消防は8日午後2時18分に通報を受け、ワイマナロのマカプウリッジ周辺で負傷したパラグライダーの救出に向かった。隊員らは2時半までに現場に到着し、山岳地帯への進入を開始した。
+
+報告によると、男性はこの地域でパラグライデ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241464.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/08963b9c5bb7b98f9050dd57207378b5/t/768/419/d/kitvparaglidercrashesmountain1209.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241463.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T12:15:00+09:00</dc:date>
+        <title>ボイジャー1号、2026年に地球から「1光日」の距離に到達　その意味とは</title>
+        <link>https://www.cnn.co.jp/fringe/35241463.html?ref=rss</link>
+        <description>米航空宇宙局（NASA）の深宇宙探査機「ボイジャー1号」がまもなく歴史的節目に達する見通しだ。ボイジャー1号は2026年11月、「1光日」の距離に到達する。
+
+1977年に打ち上げられたボイジャー1号は現在、地球から約254億キロ離れた星間空間を航行しており、人類が送り出した探査機として最も遠い場所に位置している。
+
+NASAジェット推進研究所（JPL）でボイジャー計画のプロジェクトマネジャーを務めるスージー・ドッド氏による...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241463.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/69dd8d02573cad3a9318ed88de229e52/t/768/431/d/jpegpia17462-20251209144417720.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241459.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T11:32:00+09:00</dc:date>
+        <title>エナジードリンクを1日8本、健康な男性が脳卒中で緊急搬送　今も後遺症　英症例</title>
+        <link>https://www.cnn.co.jp/fringe/35241459.html?ref=rss</link>
+        <description>英国の健康な男性が毎日大量のエナジードリンクを飲んでいたところ、ある日突然、脳卒中を起こして病院に搬送され、発症から数年が経過した今も後遺症を抱えて暮らしている――。そんな症例が学術誌に発表された。
+
+当時54歳だった男性は健康そのもの。熱心なランナーで、喫煙や飲酒、薬物の使用といった体に悪い習慣はなかった。このため、男性が左半身の脱力やしびれ、バランス感覚や嚥下（えんげ）、発話の困難をふいに訴えた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241459.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/8f4d7b090064c85ce467f18c5f00f380/t/768/512/d/gettyimages-1371981216.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241454.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T11:06:00+09:00</dc:date>
+        <title>トランプ氏、ウクライナ戦争でロシアが「優勢」と主張　当局者は戦況に「大きな変化見られない」</title>
+        <link>https://www.cnn.co.jp/world/35241454.html?ref=rss</link>
+        <description>トランプ米大統領がウクライナはロシアに「負けて」おり、ロシアが「優勢」だと主張したことをめぐり、複数の当局者はCNNに対し、米国や欧州は戦場で大きな変化が生じていることを示唆する新たな評価は行っておらず、ロシア軍が紛争にただちに勝利する兆候は見られないと述べた。
+
+これらの評価は微妙な状況を示している。ロシアは前線でわずかに前進し、ウクライナの主要な補給線に迫っているものの、多くの死傷者を出し、莫大...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241454.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/9be0a85fdf7edf0693630b1be7551548/t/768/537/d/2025-12-08t094207z-1937658848-rc2kbiaafcwc-rtrmadp-3-ukraine-crisis-kostiantynivka.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35241458.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T11:00:00+09:00</dc:date>
+        <title>10代のほぼ3分の1、対話型AIを日常的に利用　米調査</title>
+        <link>https://www.cnn.co.jp/tech/35241458.html?ref=rss</link>
+        <description>米国の10代のほぼ3分の1が対話型AI（人工知能）を日常的に使っている実態が、最新調査で浮かび上がった。子どものAI利用をめぐっては、心の健康問題や成人向けコンテンツの問題が指摘され、安全上の重大な懸念が浮上している。
+
+ピュー・リサーチ・センターは今回初めて、米国の10代を対象に対話型生成AIの利用実態を調査した。その結果、ほぼ70％が少なくとも1回は対話型AIを使ったことがあると回答。日常的に使用するというユ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35241458.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/b90cedb3222e2edeaead629927f8bdf7/t/768/511/d/large-gettyimages-1473875390-20251209150237729.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241436.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T10:18:00+09:00</dc:date>
+        <title>ウクライナ、90日以内に選挙実施の意向　支援国による投票の安全確保が条件とゼレンスキー氏</title>
+        <link>https://www.cnn.co.jp/world/35241436.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は9日、支援国が投票の安全を確保できるのであれば、ウクライナは今後60日から90日以内に選挙を実施する用意があると明らかにした。米国のトランプ大統領からの批判に続く形での発言となっている。
+
+ゼレンスキー氏は、イタリアの首相およびローマ教皇レオ14世との会談後、同国を離れる機内で記者団に対し、「私は選挙の準備ができている」と述べた。
+
+また「それだけでなく、私は米国に対し、欧...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241436.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/e42b3097abcca4542aaa537f654a0db6/t/768/513/d/ukraine-crisis-pope.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241452.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T10:15:00+09:00</dc:date>
+        <title>トランプ米政権が取り消したビザ、1月以来8万5000件　前年の倍以上に</title>
+        <link>https://www.cnn.co.jp/usa/35241452.html?ref=rss</link>
+        <description>米国務省は、トランプ政権が今年に入って取り消したビザが8万5000件に上り、昨年の2倍を超えたと発表した。これには学生ビザ8000件あまりが含まれる。
+
+トランプ政権は米国内の移民を狙い撃ちにすると同時に、米国への入国を制限する取り組みを強化している。
+
+国務省当局者は8日、過去1年間のビザ取り消しのうちほぼ半数は、酒気帯び運転や暴行、窃盗などの違法行為が理由だったと説明。残る半分については理由を明らかにしな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241452.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/ef94ac89da9b4be2986512f37303f5e5/t/768/512/d/large-ap23118629121438.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35241437.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T09:34:00+09:00</dc:date>
+        <title>子どものSNS利用禁止法、オーストラリアで施行　世界中が注目</title>
+        <link>https://www.cnn.co.jp/tech/35241437.html?ref=rss</link>
+        <description>オーストラリアで10日、16歳未満のSNS利用を禁止する世界初の法律が施行された。中毒性のある仕組みやネットいじめ、未成年を狙う犯罪者などから子どもを守る狙いがある。
+
+ここまで包括的な対策を講じている国はほかになく、厳格な新法の施行には世界中が注目している。
+
+禁止対象となるのはインスタグラム、フェイスブック、スレッズ、スナップチャット、ユーチューブ、ティックトック、キック、レディット、ツイッチ、X（旧...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35241437.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/a61c668dc7660b13860e4d851f9ee95e/t/768/511/d/large-p-3-australia-socialmedia.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241434.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T08:59:00+09:00</dc:date>
+        <title>大学で銃撃、2人死傷　米ケンタッキー州</title>
+        <link>https://www.cnn.co.jp/usa/35241434.html?ref=rss</link>
+        <description>米ケンタッキー州の州都フランクフォートにあるケンタッキー州立大学で9日、銃撃があり、警察によれば、1人が死亡したほか、1人が重体となった。大学は冬休み前の期末試験を迎えていた。
+
+警察によれば、容疑者を拘束した。
+
+「歴史的黒人大学」の一つである同大学の学生は約2200人、教職員は約450人。
+
+法執行機関が現場に残り、大学構内は封鎖されている。
+
+今回の事件は今年に入って73件目の学校の敷地内で起きた銃撃で、大...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241434.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/c3470c2dddaaeab478356548a55c1961/t/768/432/d/still-22186457-131847-33299999998-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241431.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-10T08:28:00+09:00</dc:date>
+        <title>米政権、解雇による気象局職員の欠員を必死に「補充」　本格的な冬を前に</title>
+        <link>https://www.cnn.co.jp/usa/35241431.html?ref=rss</link>
+        <description>米国立気象局（NWS）はトランプ政権による解雇や人員削減で欠員となっている職務の新たな採用を進めている。だがそのスピードは遅く、約450人の採用枠に対し、採用が内定した気象学や水文学の専門家らはこれまでに約80人にとどまっている。
+
+政府効率化省（DOGE）は今年、NWSの職員約550人を解雇した。その後、政府は7月に450人を採用する許可を出した。この採用許可は、NWSの人員削減が公共の安全に及ぼす影響について議員や市...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241431.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/10/23758996d0126c0cefbbb7cc05e70999/t/768/511/d/ap25336677652035-20251209165420075.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241418.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-09T17:57:00+09:00</dc:date>
+        <title>宇宙望遠鏡に衝突するなど影響をもたらす宇宙ごみの増大、対処法を研究者らが発表</title>
+        <link>https://www.cnn.co.jp/fringe/35241418.html?ref=rss</link>
+        <description>宇宙ごみが驚くべき速度で増えている。宇宙空間では壊れた人工衛星や外れたネジ、砕けた塗料の小片に至るまで、数百万個の物体が地球を周回している。国際宇宙ステーション（ISS）はこのごみをよけなければならない。ときには宇宙ごみ同士が衝突し、さらに多くの宇宙ごみを生み出すこともある。そして、それらを回収して破壊するための技術は数多く提案されてきたが、包括的に対処するための体系的な計画は存在しなかった。
+
+英...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241418.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/09/ce017866f76e6548d5d76fd4a17e7f84/t/768/512/d/graphics-geo.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241412.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-09T16:49:00+09:00</dc:date>
+        <title>1万6600個の恐竜の足跡を確認、世界最大規模　南米ボリビア</title>
+        <link>https://www.cnn.co.jp/fringe/35241412.html?ref=rss</link>
+        <description>南米ボリビアの沿岸部は、かつて恐竜が盛んに行き交う「幹線道路」だったかもしれない。二足歩行の肉食恐竜、獣脚類の足跡が多数発見されている。
+
+ボリビア中部のトロトロ国立公園内にある足跡化石群、カレラス・パンパスで最近、白亜紀後期の1億100万年～6600万年前に獣脚類が柔らかい泥の上を歩いた足跡が確認された。その数は1万6600個と、世界最大の規模に達した。
+
+約7485平方メートルに及ぶカレラス・パンパスの現場で、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241412.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/09/3fdd5726cdd9da0332813645230249ad/t/768/511/d/theropod-track.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241404.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-09T15:24:00+09:00</dc:date>
+        <title>イスラエル警察、UNRWA施設に踏み込む　国連旗に代えてイスラエル国旗掲揚とUNRWAトップ</title>
+        <link>https://www.cnn.co.jp/world/35241404.html?ref=rss</link>
+        <description>イスラエル当局が8日、占領下の東エルサレムにある国連パレスチナ難民救済事業機関（UNRWA）の施設に踏み込んだ。UNRWAのフィリップ・ラザリーニ事務局長がX（旧ツイッター）に投稿した。イスラエル当局は当該施設の国連旗を降ろし、イスラエル国旗を掲揚したという。
+
+ラザリーニ氏は、イスラエル警察がエルサレム市当局者を伴い、「トラックとフォークリフト」を持ち込み、UNRWAの施設へ「強制的に」侵入したと述べた。
+
+「す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241404.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/09/9e2fa02ea7642e20653439966fbb712e/t/768/512/d/gettyimages-2250089700.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241410.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-09T14:52:00+09:00</dc:date>
+        <title>青森県沖でM7.5の地震　11万4000人に避難指示、建物にも被害</title>
+        <link>https://www.cnn.co.jp/world/35241410.html?ref=rss</link>
+        <description>日本の青森県の沖合で8日夜、マグニチュード（M）7.5の強い地震が発生し、20人以上が負傷したほか、10万人以上に避難指示が出された。
+
+米地質調査所（USGS）は今回の地震について、午後11時15分ごろ、沿岸から約70キロの沖合で発生したと発表した。
+
+東京にいたCNNの取材班も30秒以上続く強い揺れを感じた。
+
+
+  
+  
+商業施設内で清掃作業行う作業員＝9日、青森県/Kyodo/Getty Images
+  
+
+
+
+気象庁は地震発生後、北海道や青森...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241410.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/09/1260b913d3c21cc2b1d12099c189c1c6/t/768/496/d/large-gettyimages-2250187285.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241409.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-09T14:06:00+09:00</dc:date>
+        <title>8時間も必要ないかも？　自分に最適な睡眠時間の見つけ方</title>
+        <link>https://www.cnn.co.jp/fringe/35241409.html?ref=rss</link>
+        <description>ほとんどの睡眠専門家は、心身の健康を保つため大人は毎晩7〜9時間の睡眠を取るよう勧めている（ただし年齢とともに必要な時間は変わる）。また、7時間未満の睡眠は肥満や高血圧、心臓病のほか、睡眠不足に伴う問題が生じるリスクを高めることがあると警告する研究もある。
+
+一方で、臨床心理士でボストンの睡眠・認知センター所長を務めるトニー・カニンガム氏は、適切な睡眠時間を確保するという話はそれほど単純ではないと指...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241409.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/09/cdbc07da1bfd1366e1141e70cdb82e10/t/768/512/d/gettyimages-1413633179-20251203200316455.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241406.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-09T13:54:00+09:00</dc:date>
+        <title>受刑者13人の遺体を発見、刑務所の外で爆発も　南米エクアドル</title>
+        <link>https://www.cnn.co.jp/world/35241406.html?ref=rss</link>
+        <description>南米エクアドルの刑務所で少なくとも13人の受刑者が死亡した状態で見つかった。刑務所を管轄するSNAIが8日に発表した。
+
+SNAIによると、同国南部にあるマチャラ刑務所で7日、建物の外で爆発物が爆発した後に遺体が見つかった。この爆発と受刑者の死亡との直接的な関連は分かっていない。
+
+SNAIは、当局が死因を特定するための解剖や「通常の手続き」を進めていると説明した。
+
+SNAIは声明で、警察が現場に派遣され、刑務所内で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241406.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/09/7a2cb00fb339b77159cbbbe28af79405/t/768/512/d/large-converted.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241394.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-09T11:26:00+09:00</dc:date>
+        <title>ウクライナ、ロシアへの領土割譲拒む意向　ゼレンスキー氏が表明</title>
+        <link>https://www.cnn.co.jp/world/35241394.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は、同国がロシアに領土を割譲する意思がないことを改めて表明した。米国が提案した和平案をめぐる協議は、明確な終結が見通せないまま継続している。
+
+「我々は絶対に何も譲歩したくない。それが我々が戦っている理由だ」「ウクライナの法律、我が国の憲法、国際法、そして正直に言えば道徳律の下でも、譲歩する法的権利はない」と、ゼレンスキー氏は主張した。
+
+ロシアは、ウクライナ侵攻を終...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241394.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/09/c80a42c7cf75e8ea4e48fc6a4de0e80e/t/768/432/d/2025-12-08t135018z-1778047847-rc2dciatb78p-rtrmadp-3-ukraine-crisis-zelenskiy-london.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241398.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-09T11:22:00+09:00</dc:date>
+        <title>恒星間天体「3I/ATLAS」の新たな画像公開、周囲のハローと２本の尾</title>
+        <link>https://www.cnn.co.jp/fringe/35241398.html?ref=rss</link>
+        <description>米航空宇宙局（NASA）が運用するハッブル宇宙望遠鏡と、欧州宇宙機関（ESA）の木星氷衛星探査機「Juice（ジュース）」が恒星間天体「3I/ATLAS」の撮影に成功した。
+
+3I/ATLASは太陽系外から飛来し、今年7月に発見されてから天文学者の注目を集めている。
+
+観測史上、太陽系を通過するのが確認された恒星間天体は今回が3例目にあたることから、専門家は多くの探査ミッションを3I/ATLASに振り分けてきた。観測データは天体の軌道...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241398.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/09/4de95744c188e9e535891d2d25322f82/t/768/580/d/stsci-h-atlas-b-f-3437x2598.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241396.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-09T11:01:00+09:00</dc:date>
+        <title>ケイティ・ペリー、カナダ前首相との交際をインスタグラムで公表　岸田元首相がフライング</title>
+        <link>https://www.cnn.co.jp/world/35241396.html?ref=rss</link>
+        <description>カナダのトルドー前首相と米歌手ケイティ・ペリーさんがインスタグラムで交際を認めたようだ。
+
+ペリーさんは6日に複数の写真を投稿。その中にはワールドツアーで日本を訪れている際にトルドー氏と顔を寄せ合いながら寿司を食べる写真も含まれており、数カ月にわたり飛び交っていた交際のうわさを認めたように見える。
+
+この投稿の3日前には、岸田文雄元首相がX（旧ツイッター）に自身と妻の隣に並ぶ2人の写真を掲載。見出しで...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241396.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/09/c48799c6c21dd8e918e4ca57d23d0bbf/t/346/432/d/screenshot-2025-12-08-at-5-04-36-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35241387.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-09T10:21:00+09:00</dc:date>
+        <title>トランプ氏、エヌビディアの「H200」半導体の対中輸出を承認</title>
+        <link>https://www.cnn.co.jp/tech/35241387.html?ref=rss</link>
+        <description>米国のトランプ大統領は8日、自身のSNSトゥルース・ソーシャルへの投稿で、エヌビディアの半導体「H200」に対する中国への輸出規制を解除すると発表した。米中間の広範な貿易戦争の一部となっていた問題で、重要な方針転換が起きた形だ。
+
+​​こうした先進的な半導体は、人工知能（AI）が実行するタスクを完了する上で不可欠の製品となる。
+
+トランプ氏によれば、エヌビディアが手掛ける人気が高い「ブラックウェル」と次世代型...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35241387.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/09/e9c2165ce438e32fd22f8a54e8c91386/t/768/499/d/gettyimages-2228729615-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35241392.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-09T09:53:00+09:00</dc:date>
+        <title>ルーブル美術館で今度は水漏れ、数百冊の蔵書に被害</title>
+        <link>https://www.cnn.co.jp/style/arts/35241392.html?ref=rss</link>
+        <description>フランス・パリのルーブル美術館で漏水があり、数百冊の蔵書が破損した。10月に白昼堂々の盗難事件があったばかりの世界最大の美術館で、さらなる問題を露呈させた形だ。
+
+同館の広報は8日、CNNに対し、水漏れによって300～400冊の蔵書に被害が出たと語った。漏水の発生は11月26日。19世紀末から20世紀初頭にかけての書籍が被害に遭った。
+
+漏水は、現在使っていない配管のバルブを手違いで開いてしまったために発生した。この...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35241392.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/09/07a0dca863da26dc2d7bef00eca25e89/t/768/488/d/gettyimages-2246889337.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
