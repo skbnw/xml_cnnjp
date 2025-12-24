@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-12-24T15:59:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242071.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242011.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242059.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35242060.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242055.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242051.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242050.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242049.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242048.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242037.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242031.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242028.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242025.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242017.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242010.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/design/35242007.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242000.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35241995.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241999.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241998.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35241996.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241991.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241993.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241990.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241982.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241987.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241983.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241981.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241974.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35241975.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242071.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T15:59:00+09:00</dc:date>
+        <title>介護施設で爆発と火災、2人死亡　行方不明者も　米ペンシルベニア州</title>
+        <link>https://www.cnn.co.jp/usa/35242071.html?ref=rss</link>
+        <description>米ペンシルベニア州フィラデルフィア郊外にある介護施設で23日、爆発と火災が発生し、2人が死亡したほか行方不明者が出ている。シャピロ州知事が明らかにした。地元の消防隊や職員、通行人らが高齢者を避難させた。
+
+消防当局は、最大で5人が行方不明の可能性があると明らかにしたが、人数は暫定的なものだと強調した。負傷者も、複数の病院に搬送されたため、現時点で正確な人数を把握できていないという。
+
+爆発の原因は調査...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242071.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/24/7be578d427aa92a2afc67ad019ad448c/t/768/576/d/large-604811936-1320866110081102.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242011.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T15:33:00+09:00</dc:date>
+        <title>着陸に失敗しひっくり返った機体から逃れた乗客　その後の人生はどれほど変わったのか</title>
+        <link>https://www.cnn.co.jp/usa/35242011.html?ref=rss</link>
+        <description>飛行機を頻繁に利用する米ミネソタ州在住のピート・カールトンさんにとって、その出張はいつもと変わらないものだった。保安検査を通過し、水筒に水を入れ、搭乗口で同僚と雑談する、そんな流れだった。
+
+2月の寒い日の正午ごろ、カールトンさんはトロント行きデルタ航空4819便に難なく搭乗した。窓側の座席9Dに座り、ビーツのイヤホンを着け、お気に入りのカナダ人ロックバンドの曲を再生した。
+
+飛行機が着陸態勢に入るまでは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242011.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/56fedc27385b2f861a42a4a2327bcf84/t/768/512/d/011-misc69-2025-02-18t161855z-2135841340-rc2vwcat3qih-rtrmadp-3-canada-crash.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242059.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T13:54:00+09:00</dc:date>
+        <title>歴史的謎を解明した2025年の科学的発見を振り返る　「謎のミイラの正体」や「出発地不明の古代船」</title>
+        <link>https://www.cnn.co.jp/fringe/35242059.html?ref=rss</link>
+        <description>世界中の研究者は今年、何十年、場合によっては何世紀も未解決だった疑問に答えを出そうと、探偵さながらの調査に乗り出した。示唆に富む発見は、過去を理解するための新たな手がかりを示している。
+
+歴史的遺跡の考古学的調査からは、新たな知見が得られた。未完成の像が残る採石場の分析により、「ラパ・ヌイ」の名でも知られるイースター島各地にある巨大な「モアイ像」を当時のポリネシア人がどのように作り上げたのかが明...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242059.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/16/f17ee0b5e7efd18cec47375b7eacd92c/t/768/618/d/hjortspring-boat.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35242060.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T13:44:00+09:00</dc:date>
+        <title>米GDP、7～9月期は4.3％増　2年ぶりの高成長　富裕層の消費活発</title>
+        <link>https://www.cnn.co.jp/business/35242060.html?ref=rss</link>
+        <description>米商務省が23日に発表した2025年7〜9月期の国内総生産（GDP）は年率換算で前期比4.3%増だった。4〜6月期の3.8%増を上回り、2年ぶりの高い成長率となった。
+
+7〜9月期のGDPを押し上げた主な要因は、個人消費が前期の2.5%増から3.5%増へと加速したことと、輸出が前期の1.8%減から8.8%増へと回復したことだ。
+
+連邦政府の支出も大きく寄与した。これは防衛費の大幅な増加と、政府支出削減に向けた取り組みの一環である連邦職員の早...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35242060.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/24/5122d93755decd0aeeb8e1bca27580da/t/768/512/d/large-gettyimages-2231740827-20251222210707117.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242055.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T12:29:00+09:00</dc:date>
+        <title>浸水したテントか、倒壊の恐れがある残骸暮らしか――冬のガザで住民に残された選択</title>
+        <link>https://www.cnn.co.jp/world/35242055.html?ref=rss</link>
+        <description>冬を迎えたパレスチナ自治区ガザ地区の住民が、厳しい寒さと悪天候にさらされながら水浸しのテントで暮らすか、いつ倒壊するか分からない建物のがれきの中で暮らすかの二者択一を強いられている。今回の戦争によって破壊された住宅は40万棟以上に上る。
+
+ガザ南部ハンユニスで暮らすヒヤム・アブ・ナバさん一家にはテントがなく、骨組みだけになった建物の一画に身を寄せるしかなかった。風雨をふせいでくれる壁はなく、頭上に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242055.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/24/311504dec60c9cf007d972dfc6f64dfa/t/768/432/d/thumb-22215929-944791-498-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242051.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T11:46:00+09:00</dc:date>
+        <title>米テキサス沖でメキシコ海軍機墜落、死者6人に　居合わせた男性が女性を救助</title>
+        <link>https://www.cnn.co.jp/world/35242051.html?ref=rss</link>
+        <description>医療患者を乗せたメキシコ海軍の航空機が米テキサス州のガルベストン湾に墜落した事故で、6人目の死亡が確認された。メキシコ海軍が明らかにした。生存者は2人にとどまり、死亡者の中には2歳の子どもが含まれている。
+
+行方不明となっていた最後の1人の遺体は23日、濃霧に覆われた湾内で捜索を続けていた捜索救助隊によって発見されたという。
+
+海軍によると、航空機には計8人が搭乗しており、内訳は海軍の乗員4人と民間人4人だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242051.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/24/48b4645c55642f2458e2cb412d5fd481/t/768/432/d/still-22222520-881874-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242050.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T10:55:00+09:00</dc:date>
+        <title>米司法省、エプスタイン文書を新たに公開　明らかになったこと</title>
+        <link>https://www.cnn.co.jp/usa/35242050.html?ref=rss</link>
+        <description>米司法省は23日、性犯罪で起訴され勾留中に死亡した米富豪ジェフリー・エプスタイン元被告の捜査資料一式を新たに公開した。最新の資料から明らかになったポイントは以下のとおり。
+
+「共謀者」を追及していた証拠：今回公開された資料には、検察当局がさらに多くの人物を捜査し、起訴する可能性を模索していた証拠が含まれている。2019年7月のものとみられる一連の連邦捜査局（FBI）の電子メールでは「10人の共謀者」に言及し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242050.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/24/e97c08107a2bc99bae547aab412721b6/t/768/432/d/115950-missing-epstein-files-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242049.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T10:47:00+09:00</dc:date>
+        <title>リビア軍のハダッド参謀総長、搭乗機墜落で死亡　トルコを訪問後</title>
+        <link>https://www.cnn.co.jp/world/35242049.html?ref=rss</link>
+        <description>トルコを公式訪問したリビア軍関係者を乗せた航空機が23日、帰国途中で墜落し、ハダッド参謀総長らが死亡したことが分かった。リビアのドベイバ首相が明らかにした。
+
+ドベイバ氏によると、ハダッド中将はトルコ首都アンカラを公式訪問後、リビア首都トリポリへの帰途で「悲劇的な事故」に遭い、同乗していた4人と共に死亡した。
+
+ドベイバ氏はハダッド氏ら5人の「死亡の知らせを、深い悲しみをもって受け止めた」と言い添えた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242049.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/24/360382b1603ae53e985a424305e3a294/t/768/511/d/c-gettyimages-1251806210.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242048.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T10:23:00+09:00</dc:date>
+        <title>ロシアがウクライナを大規模空爆、4歳児含む3人死亡　全土で停電</title>
+        <link>https://www.cnn.co.jp/world/35242048.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は、ロシア軍が23日にかけてウクライナ全土で大規模な夜間空爆を行い、少なくとも3人が死亡、17人が負傷したと発表した。
+
+ゼレンスキー大統領はX（旧ツイッター）への投稿で、ロシアが650機以上のドローン（無人機）と30発あまりのミサイルを使用して、ウクライナの国土の約半分を占める13州を攻撃したと伝えた。
+
+西部のジトーミルでは、住居の建物がドローンに攻撃されて4歳の子どもが死亡し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242048.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/24/feeb0cb8d36e187e41c9221c1f64d228/t/768/511/d/large-p-3-ukraine-crisis-attack-kyiv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242037.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T10:03:00+09:00</dc:date>
+        <title>緊急事態の小型機を自律システムが制御、滑走路に自動着陸　米コロラド州</title>
+        <link>https://www.cnn.co.jp/usa/35242037.html?ref=rss</link>
+        <description>米コロラド州デンバー近郊で、飛行中に緊急事態が発生した小型機が、自動着陸システムを使って空港に着陸した。搭乗者2人は無事だった。メーカーによると、同システムによる着陸は初めてだった。
+
+消防救急隊の動画によると、ビーチクラフト製の双発プロペラ機「スーパーキングエア200」はデンバー近郊のロッキーマウンテン・メトロポリタン空港に着陸し、滑走路上で停止した。搭乗者2人は無事に降機した。
+
+同機はガーミン製の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242037.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/24/94e66c87940a81c65c091a51335c022a/t/768/430/d/large-screenshot-2025-12-23-at-4-21-39-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242031.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T09:39:00+09:00</dc:date>
+        <title>米最高裁、シカゴへの州兵派遣認めず　トランプ政権に打撃</title>
+        <link>https://www.cnn.co.jp/usa/35242031.html?ref=rss</link>
+        <description>米最高裁は23日、トランプ大統領が命じた中西部イリノイ州シカゴへの州兵派遣を認めない判断を示した。政権は移民税関捜査局（ICE）の捜査官の保護などを目的に州兵の派遣を決定していた。下級裁の派遣差し止め命令を認める最高裁の今回の判断は政権にとって珍しく大きな敗北となった。
+
+最高裁は判断の根拠について、「政府はイリノイ州での軍の法執行を許可する権限が何に準拠するのかを示すことができていない」などと指摘し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242031.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/24/ffbafe856ce5fd2eb45d2f24c078baed/t/768/511/d/large-gettyimages-2248067514.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242028.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T08:50:00+09:00</dc:date>
+        <title>トランプ氏、エプスタイン氏の自家用機に「少なくとも8回」搭乗　司法省が新資料公開</title>
+        <link>https://www.cnn.co.jp/usa/35242028.html?ref=rss</link>
+        <description>米司法省は23日、性犯罪で起訴され勾留中に死亡した米富豪、ジェフリー・エプスタイン氏の捜査資料を新たに公開した。新たな捜査資料によれば、トランプ大統領がエプスタイン氏のプライベートジェット機に少なくとも8回搭乗していたことがわかった。
+
+新たに公開された資料に含まれる、ニューヨーク南部地区検察の検察官の2020年1月8日付の電子メールには、トランプ氏が1993〜96年に少なくとも8回エプスタイン氏のジェット機に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242028.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/24/e97c08107a2bc99bae547aab412721b6/t/768/432/d/115950-missing-epstein-files-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242025.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-24T08:08:00+09:00</dc:date>
+        <title>行方不明の9歳少女の遺体発見、母親を逮捕　米カリフォルニア州</title>
+        <link>https://www.cnn.co.jp/usa/35242025.html?ref=rss</link>
+        <description>行方不明になっていた米カリフォルニア州の少女メロディー・バザードさん（9）の母親が、殺人の容疑で逮捕された。サンタバーバラ郡のビル・ブラウン保安官が23日に明らかにした。メロディーさんの遺体は、ユタ州南部の農村地帯で発見された。
+
+保安官事務所と米連邦捜査局（FBI）は23日、母親のアシュリー・バザード容疑者（40）を逮捕した。当局によると、容疑者はガソリンスタンドで監視カメラに映らないよう、レンタカーを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242025.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/24/3d6bfb7518efd2656fc66ccc70be787e/t/339/432/d/large-processed.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242017.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T19:22:00+09:00</dc:date>
+        <title>フィンランドのトナカイが危機に直面　原因はロシアで急増のオオカミか</title>
+        <link>https://www.cnn.co.jp/world/35242017.html?ref=rss</link>
+        <description>サンタクロースの出身地として知られるフィンランド北部ラップランド地方のトナカイが次々とオオカミに襲われ、危機に直面している。隣接するロシアでオオカミが急増し、越境してくるためとの見方が強い。
+
+ユハ・クヤラさんはラップランド地方のクーサモで、400年以上続くトナカイ農家を営んでいる。近年の観光ブームを受けて、農場を「トナカイの世界」と名づけて開放し、流行の「トナカイヨガ」教室やそり体験を提供したり、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242017.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/2c9d5a09f08663fbf202cc5a614e3b02/t/768/512/d/mick-krever-sourdough-starter-131942-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242010.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T18:31:00+09:00</dc:date>
+        <title>「誰も平和を望んでいない」、死の危険冒し最前線から逃れるウクライナ人男性たち</title>
+        <link>https://www.cnn.co.jp/world/35242010.html?ref=rss</link>
+        <description>ビクトル・ピンハソフさんは顔がほころぶのを抑えることができない。今まさに、ウクライナからの脱出に成功したばかり。カルパティア山脈を5日間、単独で歩き通した末の越境だった。
+
+「このまま自由になりたい、生きるために」。隣国ルーマニアに到着した34歳のピンハソフさんは信じられない思いでCNNの取材を受け、そう語った。ウクライナ西部からは毎週数十人が、ピンハソフさんと同様の違法越境を実行している。
+
+ロシアの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242010.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/ea931c11dc7e3c48cd7ce30b6f879bef/t/768/432/d/viktor-pinkhasov.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/design/35242007.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T17:41:00+09:00</dc:date>
+        <title>「かみ砕かなければ分からない」、何十年も自分のゲームを覚えていてほしいと願う　小島秀夫氏</title>
+        <link>https://www.cnn.co.jp/style/design/35242007.html?ref=rss</link>
+        <description>人影のない終末後の風景のなか、主に徒歩で荷物を運ぶ――。大ヒットゲームとしては異色の設定だ。だが、日本の著名なゲームデザイナー小島秀夫氏の手にかかると、この見せかけの郵便配達シミュレーターは（ノーマン・リーダスやレア・セドゥ、エル・ファニングといったハリウッド俳優を起用してはいるが）、今年最も批評家から絶賛されたゲーム機向けタイトルのひとつとなった。
+
+ゆったりしたテンポながら癒やしをもたらす傑作...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/design/35242007.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/8819e400b1ebb59d93eb03fc371f5e11/t/768/432/d/h-8-03789443.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242000.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T16:16:00+09:00</dc:date>
+        <title>古代ローマのコンクリート、ポンペイ遺跡の発掘で製造法が明らかに</title>
+        <link>https://www.cnn.co.jp/fringe/35242000.html?ref=rss</link>
+        <description>古代ローマの建築に使われていたコンクリートは、自己修復機能を持つことが知られている。当時の都市ポンペイの遺跡で、このコンクリートがどのように作られていたかを明確に示す建築現場の跡が発掘された。
+
+古代ローマ帝国では多くの技術革新とともに、建築分野にも大改革が起き、大規模なアーチやドーム屋根などが登場した。建築物の多くは2000年以上経った今も残っている。
+
+そのすべてを可能にしたのが当時の完璧な建材、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242000.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/66cadceef78c3c456354368ffcda824e/t/768/511/d/gettyimages-1908158185.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35241995.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T15:19:00+09:00</dc:date>
+        <title>銅価格の高騰で電力網の銅線狙う窃盗犯が急増、停電が深刻な問題に　米</title>
+        <link>https://www.cnn.co.jp/business/35241995.html?ref=rss</link>
+        <description>多くは電柱の間に張られるか、足元に埋められたりしながら、銅線は1世紀以上にわたり米国の電力網を支える重要な役割を果たしてきた。
+
+しかし、ここへ来て大胆な窃盗が電力網を脅かしている。窃盗犯は車の屋根に上って電話線を切断したり、白昼堂々マンホールをこじ開けて銅線を剥（は）ぎ取るなどしている。
+
+その影響は全国に及ぶ。道路や橋は停電し、緊急通報は不通になる。電線の交換費用は消費者に転嫁されるため、光熱費...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35241995.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/26cfeadf0c584771b9733bca354e8a75/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWpicm11eDMwMDA2M2I2cDZxYWI1Zzky-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaXFsZ2hpaDAwMXgyNnFwZ2xhdmJvZ2U_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241999.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T14:17:00+09:00</dc:date>
+        <title>英ロンドンにバンクシーの新作　地面に横たわる2人の子ども</title>
+        <link>https://www.cnn.co.jp/world/35241999.html?ref=rss</link>
+        <description>英ロンドンのベイズウォーター地区で22日、正体不明の路上芸術家バンクシーによる新たな壁画が現われた。ニット帽をかぶって地面に横たわる2人の子どもを描いている。
+
+子どもはふたりとも空を見上げ、1人が上空を指さしている。
+
+バンクシーは自身のインスタグラムアカウントにこの作品の写真を投稿した。
+
+ロンドン中心部にあるセンターポイントタワーの外にも同じ壁画が現われたが、バンクシーは今のところ、この壁画が自身...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241999.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/96da2bad92122e4365da592821bea994/t/768/432/d/115981-newbanksyartlondon-horizon-digvid-thumb-clean.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241998.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T13:39:00+09:00</dc:date>
+        <title>運河に巨大な陥没穴、船を飲み込む　英</title>
+        <link>https://www.cnn.co.jp/world/35241998.html?ref=rss</link>
+        <description>英シュロップシャー州の運河に大規模な陥没穴が発生し、運河船2隻が深い泥に閉じ込められ、救助活動が行われた。
+
+消防救助局が公開した画像では、縦横およそ50メートルの陥没穴に2隻の運河船がはまり込み、別の1隻が斜面に傾いた状態で止まっている様子が確認できる。
+
+運河船は、英国各地に張り巡らされた狭い運河を航行するために設計された細長い船。かつては貨物輸送に使われていたが、現在は水上住宅やレジャー用途として...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241998.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/94374a37d04bc9a2690b0c32bbb69082/t/768/432/d/ap25356479296677.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35241996.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T12:42:00+09:00</dc:date>
+        <title>発火相次ぐリチウムイオン電池、わずかな設計変更で抑制できる可能性　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35241996.html?ref=rss</link>
+        <description>スマートフォンから自動車まであらゆる製品に使われているリチウムイオン電池は、正しく保管・充電されていれば概して非常に安全性が高い。しかし一方で、何千件もの発火事例も報告されており、時には死者を伴うケースもある。
+
+リチウムイオン電池には可燃性の電解質が含まれている。これは、有機溶剤に溶かしたリチウム塩溶液で、電荷が流れることを可能にするものだ。電池は、穴があくなどの物理的損傷、過充電、極端な温度...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35241996.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/9c60fa92bef76953df6b8f812123ae79/t/323/432/d/first-author-yue-sun-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241991.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T12:20:00+09:00</dc:date>
+        <title>デンマーク外相、トランプ氏によるグリーンランド特使任命に「深く憤慨」　米国への併合望む人物</title>
+        <link>https://www.cnn.co.jp/world/35241991.html?ref=rss</link>
+        <description>デンマークのラスムセン外相は22日、トランプ米大統領がグリーンランドへの特使を任命したことに「深く憤慨している」と述べた。当該の特使はグリーンランドが米国の一部となることを望むと公言している。
+
+トランプ氏は同日、自身のSNSトゥルース・ソーシャルへの投稿で、ルイジアナ州知事のジェフ・ランドリー氏をグリーンランド特使に任命したと発表。「ジェフはグリーンランドが我が国の安全保障にとっていかに不可欠である...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241991.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/faf71481794f0b11873accf529887bbf/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWpneWxoZm4wMDA0M2Q1dGtrNTdsMWFx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntamd5aXR0bTAwNHkyNm96Ync0YWdiZ2c_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241993.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T11:16:00+09:00</dc:date>
+        <title>患者を乗せたメキシコ海軍の航空機が墜落、2歳の子ども含む3人死亡　米テキサス州</title>
+        <link>https://www.cnn.co.jp/world/35241993.html?ref=rss</link>
+        <description>米テキサス州のガルベストン湾で22日、やけどの治療を受ける患者を乗せたメキシコ海軍の航空機が墜落し、少なくとも3人が死亡した。この中には2歳の子どもも含まれている。米沿岸警備隊が明らかにした。
+
+当局によると、捜索救助活動で4人が生存した状態で救助された一方、1人の行方が分かっていない。沿岸警備隊の報道官がCNNに語った。
+
+ガルベストン郡のジミー・フレン保安官はCNN提携局KPRCに対し、航空機はやけどの患者を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241993.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/fdaeffc80bb07ed06dabad122c5fc1a0/t/768/432/d/still-22222520-881874-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241990.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T10:50:00+09:00</dc:date>
+        <title>男を訴追、元妻に長年にわたり薬物を投与して性的暴行　英</title>
+        <link>https://www.cnn.co.jp/world/35241990.html?ref=rss</link>
+        <description>英国人の男が元妻に対する13年間にわたる56件の性犯罪で訴追された。ウィルトシャー警察が明らかにした。
+
+ウィルトシャー警察によると、フィリップ・ヤング容疑者（49）は勾留されており、複数の性的暴行や、性行為を強要する目的で薬物を投与した罪などに問われている。
+
+ヤング容疑者はこのほか、盗撮や児童のわいせつ画像の所持などの罪にも問われている。
+
+31歳から61歳の男5人もジョアン・ヤング氏（48）に対する犯罪で起...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241990.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/ac5328d84dc4c7d7c9ce6cbf266a4b1d/t/768/432/d/rtrmadp-3-britain-police-critical.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241982.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T10:33:00+09:00</dc:date>
+        <title>ウクライナ、ロシアの軍用飛行場への攻撃を強化　都市とインフラ狙う攻撃に対抗</title>
+        <link>https://www.cnn.co.jp/world/35241982.html?ref=rss</link>
+        <description>ウクライナの治安当局は今月、ロシアの戦闘機や潜水艦に対する無人機攻撃と破壊工作を強化した。自国の都市やエネルギーインフラに対するロシアの絶え間ないミサイル攻撃に対抗する手段の一つだと、アナリストたちは見ている。
+
+過去3週間、ウクライナは被占領下のクリミア半島とロシア南部にあるロシアの軍用飛行場への攻撃に長距離無人機を使用し、複数の攻撃機を破壊した。
+
+ウクライナ国防情報局によると20日の夜、ロシア西...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241982.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/f5bec2b471961c0b188976445995f412/t/768/432/d/generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241987.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T10:28:00+09:00</dc:date>
+        <title>トランプ政権、建設中の大規模洋上風力発電事業を全件停止　雇用と低価格エネルギー供給に影響</title>
+        <link>https://www.cnn.co.jp/usa/35241987.html?ref=rss</link>
+        <description>米国のトランプ政権は22日、現在建設が進められているすべての大規模洋上風力プロジェクトについて、連邦政府のリース契約を停止すると発表した。国家安全保障上のリスクを理由に挙げているが、具体的な内容は明らかにしていない。
+
+トランプ大統領は長年にわたり洋上風力発電を批判してきた。今回の措置はそうした攻撃を大きく激化させるものだ。この停止により、数十億ドル規模の投資が影響を受け、今後数年以内に見込まれて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241987.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/bb21b0d81a28cb27e8952fda2c41f155/t/768/512/d/gettyimages-2147841050.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241983.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T09:37:00+09:00</dc:date>
+        <title>医療支援任務中のメキシコ海軍機、米テキサス州で墜落</title>
+        <link>https://www.cnn.co.jp/world/35241983.html?ref=rss</link>
+        <description>医療支援任務に当たっていたメキシコ海軍機が22日、米テキサス州ガルベストン近郊で墜落し、捜索・救助活動が行われている。メキシコ海軍が明らかにした。
+
+声明によると、同機の事故は、テキサス州ヒューストンの南東約80キロに位置するガルベストン付近への進入中に起きた。
+
+地元当局はCNN提携局KHOUに対し、機内には少なくとも1人のやけどした子どもが乗っており、ガルベストンに向かっていたと明らかにした。
+
+保安官事務...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241983.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/fdaeffc80bb07ed06dabad122c5fc1a0/t/768/432/d/still-22222520-881874-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241981.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-23T09:01:00+09:00</dc:date>
+        <title>トランプ米大統領、新たな「トランプ級」戦艦の建造を発表</title>
+        <link>https://www.cnn.co.jp/usa/35241981.html?ref=rss</link>
+        <description>トランプ米大統領は22日、海軍の新たな戦艦となる「トランプ級」を発表し、「古く、疲弊し、時代遅れ」となった艦隊に代わる優れた艦艇だと説明した。
+
+トランプ氏はフロリダ州の私邸「マール・ア・ラーゴ」で新型艦を披露し、「米国の軍事的優位を維持し、米国の造船産業を復活させ、世界中の米国の敵に恐怖を与えるのに役立つだろう」と述べた。
+
+海上を進む「トランプ級」戦艦の完成予想図を背に、トランプ氏は設計に自ら積...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241981.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/23/b682748f336c8970ed5351f0acb2ba3f/t/768/512/d/large-2025-12-22t221331z-817182980-rc2yliacc6ce-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241974.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-22T18:49:00+09:00</dc:date>
+        <title>柏崎刈羽原発、26年1月に再稼働へ</title>
+        <link>https://www.cnn.co.jp/world/35241974.html?ref=rss</link>
+        <description>福島第一原子力発電所の事故後10年以上停止していた東京電力の柏崎刈羽原発（新潟県）の再稼働が認められた。化石燃料からの脱却を目指す日本にとって、エネルギー供給の転換を図る重要な局面といえそうだ。
+
+新潟県議会は22日、柏崎刈羽原発の再稼働への道を開く議案を可決した。再稼働をめぐっては地元住民から不安の声も出ている。
+
+NHKによると、東電は同原発6号機を来年1月20日ごろに再稼働させる見通し。
+
+日本は、2011年...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241974.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/22/f8b17570bdbca82978d9aa74e838f638/t/768/511/d/gettyimages-2220654767.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35241975.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-22T18:42:00+09:00</dc:date>
+        <title>ロシア首都で自動車爆弾が爆発、軍幹部が死亡　捜査当局はウクライナを非難</title>
+        <link>https://www.cnn.co.jp/world/35241975.html?ref=rss</link>
+        <description>ロシア首都モスクワで自動車爆弾とみられるものが爆発し、ロシア軍の将官が死亡した。ロシア当局は軍幹部の暗殺の最新事例だとしてウクライナを非難している。
+
+ロシア連邦捜査委員会の声明によると、軍の作戦訓練部門を率いていたファニル‍・サルバロフ中将（56）は22日午前、車台に仕掛けられた爆発物が爆発し死亡した。
+
+捜査委員会は「捜査当局は殺人の複数の動機を追っている。この中にはウクライナの特殊機関が計画したと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35241975.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/22/80b8eb9e7fe220b36a16b7cd74c0dcd8/t/768/432/d/2025-12-22t073751z-1627215563-rc2jliaio2fx-rtrmadp-3-ukraine-crisis-russia-bomb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
