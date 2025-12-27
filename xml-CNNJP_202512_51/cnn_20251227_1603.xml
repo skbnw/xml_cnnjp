@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2025-12-27T19:25:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242163.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35242161.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35241976.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242157.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242156.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242154.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242148.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242142.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242147.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242138.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35242121.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242135.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242132.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242130.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242131.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242128.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242127.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242126.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242124.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35242122.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242110.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242119.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242114.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242112.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242111.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242107.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242105.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35242103.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242104.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242089.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35242163.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-27T19:25:00+09:00</dc:date>
+        <title>ロシアがウクライナ首都に大規模攻撃、トランプ氏とゼレンスキー氏の和平交渉前に</title>
+        <link>https://www.cnn.co.jp/world/35242163.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領が28日に米フロリダ州でトランプ米大統領と会談する予定だと発表したことを受け、ロシアはウクライナ首都キーウに対する夜通しの大規模攻撃に踏み切った。ロシアとウクライナによる約4年にわたる戦争の終結に向けた取り組みが続く中での攻撃となった。
+
+キーウのビタリ・クリチコ市長によると、今回の空襲で少なくとも1人が死亡、少なくとも28人が負傷し、うち13人が入院した。
+
+ゼレンスキー氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242163.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/27/060d36aa1f7ce27ddd8c6f7b98e0a6c8/t/768/576/d/ukraine-crisis-attack-kyiv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35242161.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-27T18:41:00+09:00</dc:date>
+        <title>森に隠れた秘密の司令部、ヒトラーが戦争を指揮した「狼の巣」の内部とは　ポーランド</title>
+        <link>https://www.cnn.co.jp/travel/35242161.html?ref=rss</link>
+        <description>ポーランド・マズリア地方の田園地帯を抜ける細い道は、きらめく湖や苔（こけ）むした沼地に沿って曲がりくねりながら、急勾配の屋根の家が立ち並ぶ村々を通り過ぎる。村は眠ったように静まりかえり、夏の暖かい日でさえ、真冬を迎える準備を整えているように感じられる。
+
+突然、道は深い森へと入っていく。落葉樹の枝の高いところで、鳥たちがさえずる。牧歌的な風景だが、それに騙されてはいけない。
+
+まず廃線跡が現れる。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35242161.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/27/adff1e06bcfd80fbebf51ca926d48504/t/768/512/d/hitler-s-bunker-4.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35241976.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-27T14:00:00+09:00</dc:date>
+        <title>ありふれた風景に潜む白人至上主義者の団体、活動拠点の内側に迫る　米テネシー州＜上＞</title>
+        <link>https://www.cnn.co.jp/usa/35241976.html?ref=rss</link>
+        <description>米テネシー州の東部、曲がりくねった砂利道の果てで、1人の母親が森にちらりと目をやる。子どもの時分に歩き回っていた森で、深みのある印象的な景色が広がる。松とオークの植生が姿を消した先には、ブルーリッジ山脈の山並みがどこまでも続く。
+
+「四輪車に乗って森の至る所を走ったものだった」。この女性はCNNの取材に答えてそう話した。匿名を条件にしたのは、身の安全に懸念があるからだ。「私たちには秘密の隠れ場所があ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35241976.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/22/d7a9691a92b0327dee23ee5c43989180/t/768/512/d/usa-abortion.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242157.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-27T12:45:00+09:00</dc:date>
+        <title>ナイジェリアの村を襲う恐怖と混乱、米軍のミサイル着弾も村にISISの活動記録無し</title>
+        <link>https://www.cnn.co.jp/world/35242157.html?ref=rss</link>
+        <description>米国が発射したミサイルの一部が、ナイジェリア北西部の村ジャボに着弾した。着弾地点の付近には、村で唯一の医療施設があった。攻撃から一夜明け、村人たちは衝撃と混乱に陥っている。
+
+ジャボはソコト州タンブワル地区にある静かな農村だ。住民の大半をイスラム教徒が占める。この村に暮らすスレイマン・カガラさんはCNNに対し、25日の午後10時前後、大きな爆発音が聞こえたと説明。炎を噴き出しながら、1基の飛翔（ひしょう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242157.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/27/9e48200ada6d6cea03df14db1f9d521d/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWpuZ2VydDQwMDA1M2I2bmVwczFkc2Vp-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntam5nY283YzAwanQyZHFoNnM5cWZ3OWI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242156.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-27T10:49:00+09:00</dc:date>
+        <title>シリアのモスクで爆発、8人死亡　金曜礼拝の最中</title>
+        <link>https://www.cnn.co.jp/world/35242156.html?ref=rss</link>
+        <description>シリア保健省によると、26日にシリアの都市ホムスのモスク（イスラム教礼拝所）で爆発が発生し、少なくとも8人が死亡、18人が負傷した。
+
+シリア国営通信（SANA）は、金曜礼拝に参列する信者を狙ってモスクに「爆発装置」が仕掛けられたと報じた。
+
+SANAが公開した動画には、モスク内部がひどく損傷し、床に瓦礫（がれき）が散乱している様子が映っている。
+
+内務省によると、当局が事件の捜査と証拠収集を開始する中、治安部隊...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242156.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/27/03b588fd56c96cfe88de475c3da20ac9/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWpuNDh4b3AwMDBrMzU2cHN4cHFqajNz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntam40NW5xejAwbGIyN25vNzlhajR2aG8_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242154.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-27T09:55:00+09:00</dc:date>
+        <title>ゼレンスキー氏、トランプ氏と28日に会談へ　フロリダ州で和平交渉行う見通し</title>
+        <link>https://www.cnn.co.jp/world/35242154.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は、ロシアによる約4年にわたるウクライナ戦争を終結させるための和平合意に向けた取り組みの一環として、28日に米フロリダ州でトランプ米大統領と会談する予定だと述べた。
+
+ゼレンスキー氏は26日、記者団に対し、会談が確固たる合意につながるかどうかは明言できないとしつつも、両国は「できる限りの最終決定」を目指すと述べた。同日のX（旧ツイッター）への投稿では「新年までに多くのこと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242154.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/27/807c616921da8bf07bc97708498b2ac4/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWptdHZybnUwMDAzM2I2cHJxZWNzeGto-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntam10dTg2dDAwbGkyNm95ZWFmdmdmdjY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242148.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T18:45:00+09:00</dc:date>
+        <title>米宝くじの2800億円当選者、当面は匿名のままか　アーカンソー州の州法に基づき</title>
+        <link>https://www.cnn.co.jp/fringe/35242148.html?ref=rss</link>
+        <description>米国の数字選択式宝くじ「パワーボール」の抽選で六つすべての数字が一致し、米国史上2番目となる推定18億ドル（約2800億円）の大当たりを獲得した当選者が現れた。幸運な当選者の身元は当面、匿名が保たれそうだ。
+
+当選券はアーカンソー州キャボットのガソリンスタンドで販売されたもので、4、25、31、52、59、そして赤いパワーボールの19が一致。過去最長となった抽選サイクルに終止符を打った。
+
+大半の当選者は一括払いを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242148.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/26/cdfe5c5ee24698a6d6655ae3b3f5d6ba/t/768/511/d/gettyimages-2231384569-20251225184711282.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242142.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T17:35:00+09:00</dc:date>
+        <title>トランプ氏、キリスト教徒狙うナイジェリアでの暴力に言及　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35242142.html?ref=rss</link>
+        <description>ナイジェリアにおけるキリスト教徒への暴力を阻止するため、米国が軍事行動を取る可能性があると数カ月間警告してきたトランプ米大統領は、クリスマスの日に当たる25日、まさにその通りの行動に踏み切った。同国北西部で過激派組織イラク・シリア・イスラム国（ISIS）のテロリストを攻撃したと発表したのだ。
+
+ナイジェリア外務省は、両国がこの攻撃で協調していたことを確認した。大統領顧問の一人は、米国とナイジェリアは「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242142.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/26/fc943cf7b71a8c5852b4b81f404ff67f/t/768/432/d/still-22228444-869-333-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242147.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T16:43:00+09:00</dc:date>
+        <title>「もらうより与えるほうがいい」は科学的根拠に基づくものだった　医師が解説</title>
+        <link>https://www.cnn.co.jp/fringe/35242147.html?ref=rss</link>
+        <description>ホリデーシーズンがやってきた。プレゼントを贈ることは、何を買おうか、いくら使おうかと頭を悩ませる、ストレスや義務の源と捉えられがちだ。一方で、与えることにはそれ自体にメリットがあるという可能性を示唆する研究が増えている。
+
+「もらうより与えるほうがいい」という考えは科学的に裏付けられているのだろうか？　もしそうなら、測定可能な健康上の効果はあるのか？　かけるお金や時間、贈り物の大きさなど、贈り方...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242147.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/26/fe112331a757db0551d924b0ff9952e6/t/768/485/d/gettyimages-1169355948.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242138.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T14:51:00+09:00</dc:date>
+        <title>性別的に中立な代名詞示す新たな漢字、近くキーボードで入力可能になる見込み</title>
+        <link>https://www.cnn.co.jp/world/35242138.html?ref=rss</link>
+        <description>性自認が男女のどちらでもない「ノンバイナリー」を自称する著名な活動家、ロー・シウフン氏は、メディアのインタビューを受けるたび、記者たちからこう尋ねられた。「どんな代名詞を使いたいか」
+
+香港出身のロー氏にとって、この問いに答えるのは簡単ではなかった。英語の場合は代名詞にtheyやthemを使うが、人を指す中国語の代名詞は男性形と女性形に大別されており、当人にはどちらもしっくりこなかったからだ。
+
+2017年に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242138.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/26/75f33a7ece14df43df75e8354665e1b6/t/768/432/d/chinese-pronoun.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35242121.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T14:07:00+09:00</dc:date>
+        <title>ほぼ裸のドレスがレッドカーペットを席巻した2025年、最もネイキッドだったのは？</title>
+        <link>https://www.cnn.co.jp/style/fashion/35242121.html?ref=rss</link>
+        <description>今年最大のトレンドは、ほとんど「そこにない」ものだった。それはビーズとラインストーンをあしらった細いひもでマーゴット・ロビーを飾り、ボッティチェリ風に黒褐色のウェーブヘアの毛束だけをジュリア・フォックスにまとわせ、ハイウエストの白いシアーレースを通してシエナ・ミラーの妊娠を世界に知らしめた。
+
+これはもちろん、「ネイキッド（裸の）ドレス」の話だ。
+
+2025年には数え切れないほどの俳優、ミュージシャン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35242121.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/25/6daba43ad7b79a1565cd0b31a8d1f127/t/768/616/d/nakeddress_01.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242135.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T11:55:00+09:00</dc:date>
+        <title>クリスマスを襲った暴風雨、米カリフォルニア州各地で洪水や土石流被害</title>
+        <link>https://www.cnn.co.jp/usa/35242135.html?ref=rss</link>
+        <description>米カリフォルニア州で24日から25日にかけて暴風雨が続き、洪水や停電などの被害が広がっている。大雨は26日も続く見通し。
+
+北カリフォルニアでは25日、激しい雷雨や暴風によってサンフランシスコ都市圏で鉄砲水が発生した。
+
+ロサンゼルスを含む南カリフォルニアでは当局が大雨に注意を呼びかけており、都市部では洪水の恐れもある。
+
+南カリフォルニアは24日も大雨が降ったことから、25日から26日にかけて雨が続けば地面が水...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242135.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/26/7b6dbc22075699c32d8fb4d27254c019/t/768/512/d/ap25359153665656.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242132.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T11:33:00+09:00</dc:date>
+        <title>ウクライナと米国の代表団が電話会談、和平交渉の詳細を協議</title>
+        <link>https://www.cnn.co.jp/world/35242132.html?ref=rss</link>
+        <description>和平合意の条件を巡る交渉が続く中、ウクライナのゼレンスキー大統領は25日、米国のウィトコフ特使やトランプ大統領の娘婿クシュナー氏と「非常に良い」会談を行った。
+
+ゼレンスキー氏は声明で「米国側の建設的な姿勢や集中的な取り組み、そしてウクライナ国民への温かい言葉とクリスマスのお祝いに感謝する」と表明した。
+
+双方は進行中の和平交渉に関する「特定の具体的な詳細」を協議し、「いかにして和平を実現するか、い...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242132.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/26/4c2d60a54b9b21645fb9311f2d0d320d/t/768/512/d/ap25359401493789.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242130.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T11:00:00+09:00</dc:date>
+        <title>英チャールズ国王がクリスマスのメッセージ、勇気と和解を強く促す</title>
+        <link>https://www.cnn.co.jp/world/35242130.html?ref=rss</link>
+        <description>英チャールズ国王はクリスマスの演説を行い、人生を共に歩む旅路として振り返った。また分断された不確実な世界において勇気、和解、そして結束といった価値観を大切にするよう人々に呼びかけた。
+
+国王は、「巡礼という言葉は今日ではあまり使われないが、現代社会においては特別な意味を持っている」と明言。「巡礼とは、未来へ歩みを進めると同時に過去を振り返り、その教訓から学ぶ旅でもある」と述べた。
+
+また今年が第2次...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242130.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/26/1878245601f9c36b39d31fd435a8fbb3/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWpsYnhnZXEwMGtuMjdxaGVveTdodTh1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtamxieGdlcTAwbDIyN3FoZTAwMTJ3eWE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242131.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T10:45:00+09:00</dc:date>
+        <title>ベツレヘムで3年ぶりにクリスマス行事、ヨルダン川西岸の苦難は続く</title>
+        <link>https://www.cnn.co.jp/world/35242131.html?ref=rss</link>
+        <description>パレスチナ自治区ヨルダン川西岸にあるイエス・キリスト生誕の地ベツレヘムで、3年ぶりにクリスマス行事が復活した。しかしイスラエルの占領下で暮らすパレスチナ住民にとっては、苦難が続く中で喜びもかき消されている。
+
+25日にはベツレヘムの「聖誕教会」でミサが行われた。前日は広場で開かれたクリスマス行事に住民や外国人観光客が詰めかけていた。過去2年の祝賀行事は、ガザの悲惨な戦争に苦しむパレスチナ人に連帯して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242131.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/26/ac33feb60c960dfc1b14cef61cdeb3c1/t/768/511/d/01-2025-12-25t095641z-1710197313-rc2kniabu1u8-rtrmadp-3-christmas-season-morning-mass.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242128.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T09:21:00+09:00</dc:date>
+        <title>大荒れの海でクリスマス遊泳、男性2人行方不明に　英国</title>
+        <link>https://www.cnn.co.jp/world/35242128.html?ref=rss</link>
+        <description>英イングランド南西部の海岸で25日、悪天候の中でクリスマス遊泳に出かけたグループが波にのまれ、数人は救助されたものの男性2人が行方不明になっている。
+
+デボン・コーンウォール警察によると、現地時間の25日午前10時25分ごろ、バドリー・サルタートンで海水浴をしていた一行が悪天候に見舞われたとの通報があり、警官が現場に駆け付けた。
+
+数人は救助されて海岸にたどり着き、現場で救急隊の手当てを受けたり病院に搬送さ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242127.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T08:56:00+09:00</dc:date>
+        <title>米軍、ナイジェリアのISISテロリストを攻撃　トランプ氏が発表</title>
+        <link>https://www.cnn.co.jp/usa/35242127.html?ref=rss</link>
+        <description>米国のトランプ大統領は25日、ナイジェリア国内で過激派組織イラク・シリア・イスラム国（ISIS）のテロリストに対する致命的な攻撃を命じたと発表した。トランプ氏はかねて、ISISが同国でキリスト教徒を迫害していると非難していた。
+
+トランプ氏は自身のSNSトゥルース・ソーシャルで「今夜、最高司令官としての私の指示の下、米国はナイジェリア北西部にいるISISテロリストの屑（くず）に対し、強力かつ致命的な攻撃を開始した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242127.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/26/633c55a121987063f19e570fe7395c44/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWptMXh0dHQwMHBzMjhwM2hxZjk3ZzR2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntam0xeHR0dTAwcHQyOHAzMjI0dGc5b2g_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242126.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T08:27:00+09:00</dc:date>
+        <title>ローマ教皇、ガザの惨状嘆く　選出後初のクリスマス</title>
+        <link>https://www.cnn.co.jp/world/35242126.html?ref=rss</link>
+        <description>ローマ教皇レオ14世は25日、バチカンのサンピエトロ広場で大勢の信者を前にクリスマスのメッセージを読み上げた。テントで風雨や寒さをしのいでいるパレスチナ自治区ガザ地区の住民の苦難を嘆き、ウクライナでの戦争については武器を置くよう訴えた。
+
+レオ14世は5月に教皇に選出され、教皇として初のクリスマスを迎えた。
+
+メッセージではまずレバノンやパレスチナ自治区、イスラエル、シリアのために「正義、平和、安定」を祈...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242126.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/26/8c829bb151c2c584413c9592aa78ce2d/t/768/512/d/2025-12-25t123841z-1474549965-rc2mnia0jyum-rtrmadp-3-christmas-season-pope.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242124.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-26T07:50:00+09:00</dc:date>
+        <title>トルコ当局、ISISメンバー115人拘束　「年末年始に攻撃を計画」</title>
+        <link>https://www.cnn.co.jp/world/35242124.html?ref=rss</link>
+        <description>トルコの検察当局は25日、クリスマスと年末年始に攻撃を計画していたとして、過激派組織イラク・シリア・イスラム国（ISIS）のメンバーとみられる115人を国内各地で拘束したと発表した。
+
+検察は声明で、「イスラム国（IS）」としても知られるISISの工作員がクリスマスから年始にかけて攻撃を計画していると捜査当局が判断したことを受けて、137人の逮捕状を発行したと明らかにした。イスラム教徒ではない人々を標的にしていた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242124.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/26/177c41ed8cc883757197fa34bc72242b/t/768/512/d/gettyimages-2252760582-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35242122.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-25T18:56:00+09:00</dc:date>
+        <title>写真特集：2025年にレッドカーペットを席巻したネイキッドドレスを振り返る</title>
+        <link>https://www.cnn.co.jp/photo/35242122.html?ref=rss</link>
+        <description>2025年には数え切れないほどの俳優、ミュージシャン、インフルエンサーがネイキッドドレスでレッドカーペットに登場した。印象的なドレスを振り返る&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35242122.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/25/009dc109007edb785b21055514a64fee/t/288/432/d/nakeddress_05.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242110.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-25T18:21:00+09:00</dc:date>
+        <title>悲嘆に暮れる地域社会へやってくる3メートルの十字架、背負って歩く男性に話を聞く　米国</title>
+        <link>https://www.cnn.co.jp/usa/35242110.html?ref=rss</link>
+        <description>自然災害や大事故、あるいは恐ろしい暴力行為など、地域社会を悲劇が襲うと、法執行機関や捜査官、救助作業員、報道関係者など、あらゆる人々が対応に動き出す。
+
+最近では、もう1人別の人物がそこに加わることも多い。米ミシガン州に住むこの男性は、高さ3メートルの十字架と共に全米各地をピックアップトラックで移動する。暗く沈んだ被災地の共同体に、慰めを届けるのが目的だ。
+
+「人々の心が深く傷ついているところであれ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242110.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/25/dd3f75173b5c6a2c0403156441cd4955/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWpoZHliazIwMDBtM2I2cDQxbW02d3Nr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtamcxcW1oYzAwM3YyNnFraGNmbzF2NHU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242119.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-25T17:58:00+09:00</dc:date>
+        <title>「サンタと妻」がスピード違反で停車命じられる、警察のボディーカメラで映像撮影　米</title>
+        <link>https://www.cnn.co.jp/usa/35242119.html?ref=rss</link>
+        <description>米オハイオ州でこのほど、サンタとその妻という格好の2人がスピード違反で停車を命じられる出来事があった。オハイオ州フルトン郡の保安官のフェイスブックページに、この時の映像が投稿されている。
+
+オハイオ州の警察のボディーカメラには、クリスマスをテーマにした格好の運転手と同乗者が映っている。
+
+対応した警官は思わず「サンタだ」と感嘆の声を上げ、その後は和やかな雰囲気で免許証の確認などが行われた。
+
+フェイス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242119.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/25/6309d3fdddc68006d4c1248a37c9fdf8/t/768/432/d/116011-speedingsanta-digvid-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242114.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-25T16:06:00+09:00</dc:date>
+        <title>欧州など13カ国と日本、ヨルダン川西岸の新たな入植地承認を非難　イスラエルの決定受け</title>
+        <link>https://www.cnn.co.jp/world/35242114.html?ref=rss</link>
+        <description>欧州など13カ国と日本は24日、占領下にあるヨルダン川西岸の新たなユダヤ人入植地19カ所を承認したイスラエルの決定を非難し、地域の長期的な平和と安全への展望を損なうものだと指摘した。
+
+共同声明では「ヨルダン川西岸での入植地拡大政策の一環に当たる今回の一方的行動は、国際法に違反するだけでなく、不安定さを助長する恐れもある」と指摘した。
+
+事情に詳しいイスラエルの情報筋によると、イスラエル内閣は今月11日、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242114.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/25/429aaaec86d4565d36070322af4f3140/t/768/512/d/2025-12-13t133816z-175999850-rc2pfia2um8u-rtrmadp-3-israel-palestinians-hebron-settlers.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242112.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-25T14:59:00+09:00</dc:date>
+        <title>多くの米国民、トランプ氏も民主党も「国民の声聞いていない」　CNN世論調査</title>
+        <link>https://www.cnn.co.jp/usa/35242112.html?ref=rss</link>
+        <description>SSRSが実施したCNNの新たな世論調査によると、多くの米国人は政治指導者が自分たちの声に耳を傾けていると信じていない。
+
+米国での生活を改善するためにトランプ大統領に何を伝えたいかを自由回答で尋ねたところ、「経済」との回答が最も多かった。
+
+共和党員および共和党寄りの無党派層では、40％が経済や生活費の懸念に言及した。
+
+米国民の約10人に4人は、大統領も民主党指導部も自分たちのような人々の声を聞いていないと...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242111.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-25T13:25:00+09:00</dc:date>
+        <title>北朝鮮、初の「原子力潜水艦」の新画像公開　米海軍のバージニア級に匹敵するサイズ</title>
+        <link>https://www.cnn.co.jp/world/35242111.html?ref=rss</link>
+        <description>北朝鮮は25日、同国初の原子力潜水艦だと主張する艦艇の新たな画像を公開した。艦体のサイズは巨大で、米海軍の一部の攻撃型原潜に匹敵する。
+
+国営メディアが公開した写真には、金正恩（キムジョンウン）総書記が屋内の建造施設で誘導ミサイル潜水艦を視察する様子が写っており、潜水艦がまだ進水していないことが示唆されている。
+
+原子力潜水艦の建造は、金氏が2021年の朝鮮労働党大会で初めて言及して以来の長年の目標だが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242111.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/25/c65c564a59be3bee30e8471a6098bf87/t/768/511/d/f68a3f669e78c846c02aef1077e.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242107.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-25T12:40:00+09:00</dc:date>
+        <title>毎年恒例のイブのジャズコンサートが中止、トランプ氏にちなむ施設の名称変更受け　米首都</title>
+        <link>https://www.cnn.co.jp/usa/35242107.html?ref=rss</link>
+        <description>米首都ワシントンにある総合文化施設「ジョン・F・ケネディ・舞台芸術センター」で毎年恒例のクリスマスイブ・ジャズコンサートを長年主催してきた人物が、24日の公演を中止すると発表した。センターの理事会が施設の名称をトランプ大統領にちなんで変更する決定を下したことを理由に挙げている。
+
+ドラマー兼ビブラフォン奏者のチャック・レッド氏はCNNへの声明で、「19日に名称変更の発表を知り、ケネディ・センターのクリス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242107.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/25/c8901f4c135630e5c8042fb657a4d908/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWprbmhucnowMDBnM2I2cG8zeHA5eXY1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtamtuMnN6eTAwbGEyOXFmNGxyN2M0bHo_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242105.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-25T12:17:00+09:00</dc:date>
+        <title>【分析】ゼレンスキー氏、和平合意に向け譲歩案を提示　ロシアにボール投げ返す</title>
+        <link>https://www.cnn.co.jp/world/35242105.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は、ロシアとの和平協議の初期段階を停滞させかけている複数の重要な論点について譲歩する用意があることを示した。事実上、ボールをロシア側に投げ返した形だ。
+
+ゼレンスキー氏が23日に記者団と設けた会合は、異例なほど率直で多岐にわたるものだった。会合の中でゼレンスキー氏は、20項目からなる計画について詳細を明らかにした。同氏は、計画について「戦争終結に向け基盤となる文書で、ウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242105.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/25/ca557188b2fddd218f2d8770a091cfde/t/768/512/d/gettyimages-2251883536.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35242103.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-25T11:22:00+09:00</dc:date>
+        <title>記録的な高騰続く金価格、先物は46年ぶりの年間71％上昇</title>
+        <link>https://www.cnn.co.jp/business/35242103.html?ref=rss</link>
+        <description>金が1979年以来の好調を記録している。
+
+ニューヨーク市場で金先物は年初来ほぼ71％上昇し、46年ぶりの年間上昇率を記録する見通し。金がこれほど好調だったのは、ジミー・カーター米大統領時代以来。当時は中東危機が勃発し、インフレが急騰、米国はエネルギー危機の真っただ中にあった。
+
+現在は、米国の関税が国際貿易をゆがめ、ロシアのウクライナに対する戦争が続き、イスラエルとイラン間で緊張が高まり、米国はベネズエ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35242103.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/25/d56c80c191a525b235c947ed8588e37f/t/768/512/d/gettyimages-2210132895.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242104.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-25T11:20:00+09:00</dc:date>
+        <title>エプスタイン氏に関連か、文書100万点超を新たに発見と発表　米司法省　</title>
+        <link>https://www.cnn.co.jp/usa/35242104.html?ref=rss</link>
+        <description>米司法省は24日、性犯罪で起訴され勾留中に死亡した米富豪、ジェフリー・エプスタイン氏に関連している可能性がある文書100万点以上を新たに発見したと明らかにした。内容を精査して公開するまで「あと数週間」かかる可能性があるという。
+
+X（旧ツイッター）への投稿で明らかにした。ニューヨーク南部地区連邦検察と連邦捜査局（FBI）から新たな文書について報告を受けたとしている。
+
+投稿では「エプスタイン文書透明化法や現...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242104.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/25/18f097a45c8a3bf3a1a500467a30fb4b/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWprZHh5bzEwMDByM2I2cHpjOWdnZ2My-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntamtkbjl3djAwbTUyN295M2Vta2VtbnI_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242089.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-25T10:33:00+09:00</dc:date>
+        <title>「悪いサンタ」は「入り込まない」、トランプ米大統領が10歳の子どもに確約</title>
+        <link>https://www.cnn.co.jp/usa/35242089.html?ref=rss</link>
+        <description>電話が鳴る。電話の向こうには、米大統領と話したがっている10歳の子どもがいる。大統領は今、フロリダ州パームビーチの自宅のリビングルームでサンタクロースを追跡中だ。
+
+「サンタクロースはとてもいい人だ」。スーツに金色のネクタイを締めたトランプ大統領は、オクラホマ州タルサにいるジャスパー君にそう語りかけた。「サンタクロースに何かが入り込んでいないか、悪いサンタクロースをこの国に侵入させていないか確かめ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242089.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/25/bf6a06fef384b870c1bd8f88ea54e28a/t/768/512/d/c-gettyimages-2253424195.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
