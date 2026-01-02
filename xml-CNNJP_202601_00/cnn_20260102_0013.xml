@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-01-02T09:05:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242234.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242230.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242229.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242144.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242228.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242225.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35241724.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242223.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242221.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35242222.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242220.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242219.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242218.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35242215.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242214.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242213.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242185.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35242201.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35242203.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242212.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242211.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35242158.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242200.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35241639.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242199.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35242198.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242197.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242196.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242195.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35242160.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35242234.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-02T09:05:00+09:00</dc:date>
+        <title>スイスのスキーリゾート火災　約40人死亡、115人負傷　犠牲者の多くは若者</title>
+        <link>https://www.cnn.co.jp/world/35242234.html?ref=rss</link>
+        <description>スイスのスキーリゾート地クランモンタナのバーで発生した大規模な火災で、 バレー州警察の幹部は1日、「約40人」が死亡、115人が負傷したと明らかにした。負傷者の多くは重傷だという。
+
+記者団の取材に応じた警察幹部は、今回の火災を「前例のない悲劇」と形容し、死亡した犠牲者の身元確認に注力していることを明らかにした。
+
+スイスのパルムラン大統領は、犠牲者の多くは若者だと説明。記者会見で「こうした数字の背後には...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242234.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/02/cb3fa050b528f34f2938102c551fbe67/t/768/511/d/gettyimages-2253686332.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242230.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-01T20:40:00+09:00</dc:date>
+        <title>スイスのスキーリゾートで火災、40人死亡か　伊外務省がスイス警察の情報もとに公表</title>
+        <link>https://www.cnn.co.jp/world/35242230.html?ref=rss</link>
+        <description>スイスのスキーリゾート地クランモンタナのバーで大規模火災が発生し、イタリア外務省がスイス警察の情報をもとに公表したところによると、約40人が死亡した。
+
+イタリア外務省は声明で、犠牲者は重度のやけどを負っており、直ちに身元を特定することはできないと付け加えた。
+
+スイス警察の幹部は1日の記者会見で、複数の国籍の人が犠牲になった可能性が高いとの見方を示した。
+
+スイス当局はこの会見では、正確な死者数の発表...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242230.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/01/7eb0baf9e9452bb5b4fe3e59dbc9f988/t/768/511/d/ap26001311886725.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242229.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-01T17:11:00+09:00</dc:date>
+        <title>ゾーラン・マムダニ氏、ニューヨーク市長に就任　生活費の危機訴え</title>
+        <link>https://www.cnn.co.jp/usa/35242229.html?ref=rss</link>
+        <description>米国有数の物価高に直面するニューヨーク市で、「アフォーダビリティー（価格の手ごろさ）」の危機を訴えて当選した民主社会主義者ゾーラン・マムダニ氏（34）が1日未明、第112代市長に就任した。
+
+マムダニ氏はウガンダ出身の移民。ニューヨーク市で初となるイスラム教徒の市長、南アジア系市長として歴史に名を刻み、100年以上ぶりに最年少市長の記録を更新した。
+
+マムダニ氏は就任宣誓の直後、「これはまさに生涯に一度の名...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242229.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/01/3e6ded042ef32e3febf532911bed7823/t/768/511/d/ap26001200026720.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242144.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-01T15:24:00+09:00</dc:date>
+        <title>1817年に正体不明の病気で死去、今や「文学史上最大級の謎」に＜上＞　ジェーン・オースティンの最期</title>
+        <link>https://www.cnn.co.jp/fringe/35242144.html?ref=rss</link>
+        <description>英ウィンチェスター・カレッジのキャンパスに隣接するカレッジストリート8番地。人々は何十年もの間、この場所の前で足を止めてきた。
+
+塗装されたレンガのファサードの中で、建物の重要性をうかがわせる細部はただ一つ、「ジェーン・オースティンはこの家で最期の日々を過ごし、1817年7月18日に亡くなった」と記された玄関の上の楕円（だえん）形の銘板だけだ。だが、敬愛を集める作家オースティンとその作品をこよなく愛する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242144.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/26/14bb54f0b2aee4e6e61bc54131e3ad74/t/768/432/d/20251210-jane-austen-mystery-death.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242228.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-01T15:05:00+09:00</dc:date>
+        <title>トランプ氏、家具やキッチンキャビネットへの関税引き上げを延期　当初は年初発効予定</title>
+        <link>https://www.cnn.co.jp/usa/35242228.html?ref=rss</link>
+        <description>米ホワイトハウスの声明によると、トランプ大統領は布張りの家具やキッチンキャビネット、洗面台に対する新たな関税の引き上げを1年延期し、2027年まで先送りした。
+
+25年の終わりを数時間後に控えたタイミングで大統領布告に署名した。当初は26年1月1日に発効予定だった。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242228.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/01/25e83f08c7a000e55229016dbe9d1214/t/768/432/d/breaking-news-1-5x.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242225.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-01T14:32:00+09:00</dc:date>
+        <title>英カミラ王妃、10代の頃に列車で襲われた経験語る　公の場では初めて</title>
+        <link>https://www.cnn.co.jp/world/35242225.html?ref=rss</link>
+        <description>英カミラ王妃はこのほど、10代の頃に列車で見知らぬ人物に襲われ、「反撃」を余儀なくされた経験について初めて公の場で言及した。
+
+カミラ王妃は12月31日放送のBBCラジオ4の番組で、「10代の頃に列車で襲われた」と振り返り、「忘れかけていたが、当時とても大きな怒りを覚えたことは覚えている」と語った。
+
+「相手は知らない人物だった。本を読んでいたところ、この少年というか男に襲われ、反撃した」（カミラ王妃）
+
+カミ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242225.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/01/4ccd94d5561bc358b0707fa545505248/t/768/511/d/gettyimages-2253488955.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35241724.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-01T13:50:00+09:00</dc:date>
+        <title>世界の絶品スープ20選を紹介　日本からはあのスープ</title>
+        <link>https://www.cnn.co.jp/travel/35241724.html?ref=rss</link>
+        <description>湯気の立つスープが昔懐かしい究極のいやしだと感じるなら、同調してくれる人はたくさんいるだろう。
+
+スープは世界で最も古く、最も普遍的な食べ物の部類に入ると、「スープ：グローバルヒストリー（原題）」の著者ジャネット・クラークソン氏は言う。
+
+「どの文化にも何かしらのスープがある」とクラークソン氏は語る。「それらは非常に古くからのルーツを持つ」と指摘する同氏は著書の中で、古代の人々はカメの甲羅から竹ま...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35241724.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/16/606a944997512c791325dc5f0efe92bd/t/768/510/d/soup_01.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242223.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-01T13:15:00+09:00</dc:date>
+        <title>米CIA、ロシアの主張覆す評価　「ウクライナはドローン攻撃でプーチン氏公邸を狙わず」</title>
+        <link>https://www.cnn.co.jp/world/35242223.html?ref=rss</link>
+        <description>複数の米当局者によれば、米中央情報局（CIA）はロシア北部での最近のドローン（無人機）攻撃を巡り、ウクライナはロシアのプーチン大統領の公邸を狙っていなかったとの評価を下した。12月29日の電話会談でプーチン氏からトランプ米大統領に伝えられた主張を覆す内容になる。
+
+当局者によれば、CIAのラトクリフ長官は31日、この評価についてトランプ氏に説明した。
+
+ロシアは29日、ウクライナがプーチン氏の公邸を攻撃しようと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242223.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/01/a554745a876cfdd49e0ee6f812835fb4/t/768/561/d/gettyimages-2245853571-20251231235126748.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242221.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-01T11:40:00+09:00</dc:date>
+        <title>世界各地で「明けましておめでとう」、写真で見る新年の祝い</title>
+        <link>https://www.cnn.co.jp/world/35242221.html?ref=rss</link>
+        <description>世界各地の人が2026年の幕開けを迎え、夜空は新年の花火で彩られた。
+
+異なる39のタイムゾーンで新年を迎えるのには合わせて26時間かかる。
+
+最初に年が変わるのは、太平洋中央部に浮かぶ島国キリバスのクリスマス島。米ハワイや米領サモア、米国の離島の多くなどは最後に新年を祝う場所になる。
+
+
+  
+  
+カイロ郊外で花火が打ち上がる中、ドイツ人観光客の夫婦がキスを交わしている/Amr Nabil/AP
+  
+
+
+  
+  
+ベルリンのブラン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242221.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/01/aaf182cf5ac01e1e02da4173eab57929/t/768/512/d/ap26001043792366.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35242222.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-01T11:37:00+09:00</dc:date>
+        <title>写真特集：世界各地で「明けましておめでとう」</title>
+        <link>https://www.cnn.co.jp/photo/35242222.html?ref=rss</link>
+        <description>世界各地の人が2026年の幕開けを迎え、夜空は新年の花火で彩られた&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35242222.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/01/434f0505fc07a11aebac7dff2f422799/t/768/503/d/ap25365846400912__1200_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242220.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-01T10:38:00+09:00</dc:date>
+        <title>フィンランド、主要海底ケーブル損傷で船を拿捕　ロシアからイスラエルへ向かう貨物船</title>
+        <link>https://www.cnn.co.jp/world/35242220.html?ref=rss</link>
+        <description> フィンランドとエストニアを結ぶ重要な海底通信ケーブルが12月31日に損傷したことを受け、フィンランドは船舶1隻を拿捕（だほ）し、乗員を拘束した。当局が明らかにした。
+
+フィンランド警察は声明で、ケーブルを損傷させた疑いのある船舶はフィンランド領海に錨（いかり）の鎖を降ろした状態で発見されたが、損傷が起きた場所はエストニア領海内だったと明らかにした。警察はその後、この船をセントビンセント・グレナディー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242220.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/01/2a07b7fded3a28706f83a52f7013310f/t/768/432/d/gettyimages-2253489264__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242219.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-01T09:19:00+09:00</dc:date>
+        <title>米軍が「麻薬船」に新たな攻撃、3人死亡　生存者は船を放棄</title>
+        <link>https://www.cnn.co.jp/usa/35242219.html?ref=rss</link>
+        <description>米軍は12月31日、麻薬密輸に関与している船3隻からなる「船団」を攻撃したと発表した。米国は「麻薬密輸業者」とされる集団への対応をエスカレートさせており、その最新の攻撃となる。
+
+31日にX（旧ツイッター）に投稿された米南方軍の発表によると、攻撃目標となった船のうち1隻では3人が死亡した。残る2隻に乗っていた他の乗船者は船を放棄したという。
+
+南方軍は、米沿岸警備隊に捜索救助活動を開始するよう通知したことを明...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242219.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/01/23f0d1d9f280413871442cfa41d924dd/t/768/434/d/screenshot-2025-12-31-at-4-34-51-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242218.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-01T08:34:00+09:00</dc:date>
+        <title>トランプ氏の左手に「あざ」、健康状態めぐる疑念再燃　以前からの右手に加え</title>
+        <link>https://www.cnn.co.jp/usa/35242218.html?ref=rss</link>
+        <description>トランプ米大統領が史上最高齢で就任宣誓を行ってから1年を迎え、健康状態をめぐる疑念が再燃している。
+
+79歳のトランプ氏は最近の一連の会合で、数カ月前から目立っていた消えにくい右手のあざに加え、左手の甲にも変色もしくは軽いあざが出ている様子が見られた。
+
+新たなあざの出現でホワイトハウスの説明は複雑になるとみられる。これまでの説明では、あざは右利きのトランプ氏が頻繁に握手をしたり、こうした変色が起きや...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242218.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/01/f15c7461e6637553e472e0314019712e/t/768/511/d/gettyimages-2252766125.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35242215.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-31T16:53:00+09:00</dc:date>
+        <title>英国の元世界ヘビー級王者を乗せた車、ナイジェリアで死亡事故　同乗の友人2人死亡</title>
+        <link>https://www.cnn.co.jp/showbiz/35242215.html?ref=rss</link>
+        <description>英国のボクシング元世界ヘビー級王者、アンソニー・ジョシュアさんを乗せた車がナイジェリアで事故に遭い、当局や興行主によると、チームメンバーの友人2人が死亡した。ジョシュアさん本人は軽傷で済んだ。
+
+地元警察によると、事故は現地時間29日午前11時ごろ、オグン州と商業の中心地ラゴスを結ぶラゴス・イバダン高速道路の交通量の多い区間で発生した。
+
+ジョシュアさんはオグン州に家族がいる。ジョシュアさん本人は「軽い...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35242215.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/31/463fb8a83c2cd760ff06ddd662cb2ba1/t/768/432/d/2025-12-29t195459z-1867365369-rc2jqia9ucka-rtrmadp-3-sport-boxing-joshua-scene-20251230082025551.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242214.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-31T15:36:00+09:00</dc:date>
+        <title>見知らぬ男性に食べ物をねだったホームレスの少年、問い掛けられた質問で人生が一変　ウガンダ</title>
+        <link>https://www.cnn.co.jp/world/35242214.html?ref=rss</link>
+        <description>ある晩、15歳だったピーター・ムタバジさんは、混み合った市場を歩いている男性に狙いを定めた。
+
+男性は一人だった。ボタンダウンのシャツにカーキ色のパンツといういでたちで、教授のような眼鏡をかけ、こぎれいな身なりをしていた。屋台の前をぶらぶらと通り過ぎ、ムタバジさんがじりじりと近づいているのに気づいていない様子だった。
+
+この男は何も分かっていない、距離をつめながらムタバジさんはそう思った。男性は一度...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242214.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/17/9ecfbbfe3a1c9545e05e523d0d971dbf/t/768/432/d/202509010-mutabazi-masiko.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242213.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-31T14:49:00+09:00</dc:date>
+        <title>健康不安説のイラン最高指導者、唯一の戦略は「様子見」　相次ぐ危機にデモ発生も静観</title>
+        <link>https://www.cnn.co.jp/world/35242213.html?ref=rss</link>
+        <description>今月上旬、イランのリゾート地キシュ島で開かれたマラソン大会で、そろいのシャツとレギンスを身に着けた女性数百人が列をつくった。その髪は後ろでゆるく束ねられていた。
+
+イランで服装規定を無視すれば、高額の罰金や禁錮刑を科されかねない。しかしランナーたちは、大会主催者が違反行為を見越して用意した無料のヘッドスカーフや政府の指示を無視し、目の前のコースに集中していた。
+
+10月には首都テヘランの路上で、バン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242213.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/31/c13c9778cd171c87adad5014da613c90/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWpzcXJtb3gwMDEwM2I2cHhvbmQ5aWZ3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtanNxbm00NjAweTYyN254ZG4xeTU5Y3o_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242185.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-31T12:20:00+09:00</dc:date>
+        <title>どこにもたどり着かない石階段？　デジタル復元が明かす「失われた都市ポンペイ」の謎</title>
+        <link>https://www.cnn.co.jp/fringe/35242185.html?ref=rss</link>
+        <description>かつて栄華を誇った古代ローマの都市ポンペイが、壊滅的な火山噴火によって破壊され、火山灰に埋もれてから約2000年が経過した。研究者たちは今、「失われた都市ポンペイ」の謎を解き明かすために、デジタル考古学という新たな手法に注目している。
+
+西暦79年にベスビオ山が噴火し、ポンペイは溶岩、火山灰、瓦礫（がれき）の厚い層に覆われた。1748年以降、考古学者たちは、この都市遺跡の調査を続けており、これまでに火山灰...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242185.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/29/dfb609de5e179aba6318223051e68a71/t/768/432/d/fig-25.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35242201.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-31T11:05:00+09:00</dc:date>
+        <title>フレンチガール・シックか、右派のピンナップか　ブリジット・バルドーの複雑なファッションレガシー</title>
+        <link>https://www.cnn.co.jp/style/fashion/35242201.html?ref=rss</link>
+        <description>亡くなったフランス映画のスター、ブリジット・バルドーさんは「フレンチガール・シック」のような言葉がネットショッピングのガイドやムードボード（写真などのコラージュでアイデアを視覚的に表現するツール）にアルゴリズム的に組み込まれるずっと以前に、当時としては斬新で刺激的なスタイルの原型を作り上げた。
+
+金髪を無造作にふくらませた髪型やビキニ、カプリパンツという格好は、カジュアルで自由奔放なファッション...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35242201.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/30/3f611bf23e33fc0885a28611bb2627a8/t/768/432/d/gettyimages-607433154.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35242203.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-31T10:56:00+09:00</dc:date>
+        <title>写真特集：「セクシーな子猫」、ブリジット・バルドーのファッションレガシー</title>
+        <link>https://www.cnn.co.jp/photo/35242203.html?ref=rss</link>
+        <description>今月亡くなったフランスの俳優、ブリジッド・バルドーさん。「セクシーな子猫」と呼ばれ、今日に至るまで絶大な影響力を誇るバルドーさんのファッションレガシーを振り返る&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35242203.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/30/5351bb5a23a0980f8813bd758f5ae496/t/315/432/d/gettyimages-3062059__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242212.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-31T10:02:00+09:00</dc:date>
+        <title>「プーチン氏公邸にウクライナが無人機攻撃」　ロシア、再度主張も証拠示さず</title>
+        <link>https://www.cnn.co.jp/world/35242212.html?ref=rss</link>
+        <description>ロシアは30日、サンクトペテルブルクの南に位置するノブゴロド州でプーチン大統領の公邸を狙うドローン（無人機）攻撃が発生したとの主張を繰り返した。クレムリン（大統領府）のペスコフ報道官はこれについて、「ウクライナ紛争の平和的解決を促すトランプ米大統領の努力を妨害する」ことを狙った「テロ攻撃」だとしている。
+
+ロシアの主張は、ウクライナが無人機数十機でプーチン氏の公邸の一つを攻撃したというもの。裏付け...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242212.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/31/b4fdd2acb56a0588c5200e43af5f39b4/t/768/432/d/2025-12-29t180911z-1598491875-rc2bqiaoybp1-rtrmadp-3-ukraine-crisis-putin-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242211.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-31T08:50:00+09:00</dc:date>
+        <title>ケネディ元米大統領の孫、タチアナ・シュロスバーグさんが35歳で死去　末期がんの診断を先月公表</title>
+        <link>https://www.cnn.co.jp/usa/35242211.html?ref=rss</link>
+        <description>ジョン・F・ケネディ元米大統領の孫に当たる環境ジャーナリスト、タチアナ・シュロスバーグさんが30日に死去したことが分かった。遺族が明らかにした。35歳だった。
+
+遺族はジョン・F・ケネディ大統領図書館・博物館によってSNSに投稿された声明で、「私たちの美しいタチアナが今朝、息を引き取った。彼女はいつまでも私たちの心の中にとどまるだろう」とコメントした。
+
+シュロスバーグさんは先月、米誌ニューヨーカーに寄せた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242211.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/31/3fad1293c27f28cbc1faf36e5c283957/t/768/511/d/gettyimages-1172628181.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35242158.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-30T16:30:00+09:00</dc:date>
+        <title>リタイア後の移住先ランキング、ギリシャがトップに</title>
+        <link>https://www.cnn.co.jp/travel/35242158.html?ref=rss</link>
+        <description>人間の寿命は1950年に比べて20年も延び、人生後半の数十年を過ごす場所として外国を選ぶ人も増えている。
+
+自宅を処分し、友人や家族から離れて外国で新たな生活を始めるのは大きな決断だ。飛び込む前に本気でリサーチする必要がある。
+
+海外移住情報を提供している米国の月刊誌とウェブサイト「インターナショナル・リビング」が毎年、老後の生活に適した国を評価している「グローバル・リタイアメント指数」の2026年版が、こ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35242158.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/27/7f1a616468f32b6ec0c656bbc452e958/t/768/582/d/large-gettyimages-1811502067.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242200.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-30T15:55:00+09:00</dc:date>
+        <title>古代ローマの円柱、最新レーザーで大規模な修復作業</title>
+        <link>https://www.cnn.co.jp/fringe/35242200.html?ref=rss</link>
+        <description>イタリア首都ローマの中心部にそびえる1840年前に大理石で作られた「マルクス・アウレリウスの記念柱」。この円柱に刻まれた、戦場での首切りや髪をつかまれて連行される女性捕虜といった生々しい場面が230万ドル（約3億5800万円）を投じたレーザー修復によって鮮明さを取り戻しつつある。
+
+高さ約30メートルのこの記念碑では、2025年春から18人の修復の専門家が作業を続けている。チームは短パルスレーザーと化学処理を施した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242200.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/28/3b71a06f32e1c1a65b84dd0be34b3cec/t/768/511/d/large-Column.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35241639.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-30T15:21:00+09:00</dc:date>
+        <title>企業国家アメリカ、女性の地位向上に後退リスク　報告書が警告</title>
+        <link>https://www.cnn.co.jp/business/35241639.html?ref=rss</link>
+        <description>米国の大企業はこの10年、社内のあらゆる階層で管理職や経営幹部の女性の数を増やすという点では、ゆっくりではあるが前進を続けてきた。
+
+しかし、今年報告された企業の優先事項の変化や、従業員の体験談を合わせると、控えめながらも着実な成果が危うくなっている可能性が示唆されている。
+
+これは、米コンサルタント会社マッキンゼー・アンド・カンパニーと、働く女性を支援する団体リーン・インによる最新の年次報告書の重...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35241639.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/14/a1409164599435d75784091d27e4a7c4/t/768/576/d/large-gettyimages-141269219.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242199.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-30T14:22:00+09:00</dc:date>
+        <title>刃物で脅され誘拐された娘、父親がペアレンタルコントロールで発見・救出　米テキサス州</title>
+        <link>https://www.cnn.co.jp/usa/35242199.html?ref=rss</link>
+        <description>その日は家族と安息のための日だったはずが、米テキサス州の父親にとって、15歳の娘が犬の散歩から帰ってこなかったことで、喜びは恐怖に変わった。
+
+同州モンゴメリー郡の保安官事務所によれば、両親は娘がいつもの散歩時間よりも長く外出していたため不審に思ったという。
+
+父親は動揺しながら、娘の携帯電話の「ペアレンタルコントロール」（保護者の管理機能）を使い居場所を追跡。自宅のあるポーターから約3キロの人里離れ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242199.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/30/cadf9099987689d742bfdabcf6f6a7cc/t/768/432/d/still-22231460-9167-721-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35242198.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-30T13:24:00+09:00</dc:date>
+        <title>ジョージ・クルーニーさん一家、フランス国籍を取得　ハリウッドでの子育てに「懸念」</title>
+        <link>https://www.cnn.co.jp/showbiz/35242198.html?ref=rss</link>
+        <description>俳優のジョージ・クルーニーさんと妻のアマル・クルーニーさん、そして双子の子ども2人が、フランス国籍を取得していたことが分かった。政府の公式文書で明らかになった。クルーニーさんはこれまで、ハリウッドの華やかな環境で子どもを育てることへの懸念について発言していた。
+
+27日に発表された官報の新たな国籍取得者のリストにクルーニーさんらの名前が含まれている。
+
+米国籍も持つクルーニーさんと、英国とレバノンの国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35242198.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/30/44876f3cdb8fd4503139d5304df7a93a/t/768/511/d/gettyimages-2240287509.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242197.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-30T12:39:00+09:00</dc:date>
+        <title>米CIA、ベネズエラの港湾施設を無人機攻撃　国内の標的に対して初　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35242197.html?ref=rss</link>
+        <description>米中央情報局（CIA）が今月に入り、ベネズエラ沿岸にある港湾施設をドローン（無人機）で攻撃していたことが分かった。情報筋がCNNに明らかにした。米国がベネズエラ国内の標的を攻撃したことが確認された初めてのケースとみられる。
+
+ドローン攻撃に関する詳細はこれまで報じられていなかった。情報筋によれば、米政府が、ベネズエラの犯罪組織「トレン・デ・アラグア」が薬物の保管や、船舶への積み替えに使っているとみてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242197.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/30/f2b447e66d782199ca10ad9ee4344cc3/t/768/511/d/large-gettyimages-2252580333.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242196.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-30T11:54:00+09:00</dc:date>
+        <title>大洋間鉄道の旅客列車が脱線、13人死亡　メキシコ</title>
+        <link>https://www.cnn.co.jp/world/35242196.html?ref=rss</link>
+        <description>メキシコ南部オアハカ州で28日、大洋間鉄道の旅客列車が脱線し、少なくとも13人が死亡した。メキシコ海軍が明らかにした。列車には250人が乗っていた。
+
+脱線は、ベラクルスとサリナ・クルスを結ぶ路線で発生した。
+
+海軍は声明で、36人が病院での治療を必要とし、残りの人たちは軽傷だったと明らかにした。現場には数百人の海軍要員と救助車両が派遣されたという。
+
+メキシコの司法長官はSNSへの投稿で、脱線の原因を究明する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242196.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/30/c55a9f1ee3817597f822da372fc07a72/t/768/432/d/gettyimages-2253105721.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242195.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-30T11:24:00+09:00</dc:date>
+        <title>米軍が東太平洋で船舶を攻撃、2人死亡　麻薬密輸の取り締まりの一環</title>
+        <link>https://www.cnn.co.jp/usa/35242195.html?ref=rss</link>
+        <description>米軍は29日、東太平洋で麻薬密輸に関与していたとされる船舶を攻撃し、2人が死亡した。米南方軍が明らかにした。
+
+南方軍はX（旧ツイッター）への投稿で、ヘグセス国防長官の指示の下、国際水域で、指定テロ組織が運航する船舶に対して致死的な攻撃を実施したと明らかにした。
+
+南方軍によると、この攻撃で2人が死亡した。米軍関係者に被害はなかったという。
+
+トランプ米政権が「サザンスピア（南方のやり）作戦」と名付けた麻...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242195.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/30/7dbbea29cedc77b9c9479faa37a3ca0c/t/768/432/d/still-22234526-10465-818000000001-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35242160.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-12-30T10:32:00+09:00</dc:date>
+        <title>写真特集：リタイア後に移住するなら？　上位10カ国を紹介</title>
+        <link>https://www.cnn.co.jp/photo/35242160.html?ref=rss</link>
+        <description>海外移住情報を提供している米国の月刊誌とウェブサイト「インターナショナル・リビング」が毎年、老後の生活に適した国を評価している「グローバル・リタイアメント指数」の2026年版が、このほど発表され、総合ランキングではギリシャがトップに立った&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35242160.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/12/27/7f1a616468f32b6ec0c656bbc452e958/t/768/582/d/large-gettyimages-1811502067.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
