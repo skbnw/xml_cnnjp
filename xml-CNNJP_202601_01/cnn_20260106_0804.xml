@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-01-06T16:33:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242356.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35242355.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242358.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242345.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242344.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242343.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35242334.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242329.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242333.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242326.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242320.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242319.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242317.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242304.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242303.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242300.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242290.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242285.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242282.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242289.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242283.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242264.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242279.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242277.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242270.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242263.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35242239.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242262.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242261.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242260.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35242356.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T16:33:00+09:00</dc:date>
+        <title>【分析】「次は我々か」　身構えるキューバ、米軍のベネズエラ攻撃で激震</title>
+        <link>https://www.cnn.co.jp/world/35242356.html?ref=rss</link>
+        <description>米軍がベネズエラ攻撃の準備を進めていた数カ月の間、キューバ国民の多くはCNNの取材に対し、「次は我々か」と不安を口にした。
+
+米特殊部隊がベネズエラの軍事基地を攻撃し、ニコラス・マドゥロ大統領を拘束したことで、キューバはまさに、トランプ政権の視野に入ったように見える。
+
+長年にわたり産油国ベネズエラからの巨額援助に生存そのものを依存してきた島国キューバの共産党政権にとって、マドゥロ氏の拘束はまさに激震...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242356.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/2c25c186fa8d14428a7948d15388bbed/t/768/511/d/large-ap26003682665462.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35242355.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T16:19:00+09:00</dc:date>
+        <title>ベネズエラが米国の石油を盗んだとトランプ氏　実際の経緯は</title>
+        <link>https://www.cnn.co.jp/business/35242355.html?ref=rss</link>
+        <description>午前7時、大地が揺れ始めた。突然、油井から大量の石油が噴出する。石油は約61メートルもの高さまで噴き上がり、恐怖に震えるラ・ロサ村の住民たちに降り注いだ。
+
+今から100年以上前、地球上で最も生産性の高い油井が発見された瞬間だ。これによりベネズエラは、石油超大国へと変貌（へんぼう）を遂げ始める。良くも悪くも。
+
+ベネズエラに原油が存在することは以前から知られていた。15世紀のスペイン人探検家は、先住民が火...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35242355.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/2a76ebb2f48a51122e2fe64a7e1767df/t/768/512/d/ap25355780619234.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242358.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T15:42:00+09:00</dc:date>
+        <title>人型ロボットのスポーツに熱狂する中国、家庭への普及なるか</title>
+        <link>https://www.cnn.co.jp/world/35242358.html?ref=rss</link>
+        <description>中国・北京の郊外で、起業家のチェンハオ（程昊）氏（37）が屋内サッカーコートを見守っている。ただし人間用のコートではない。チェン氏の率いる新興企業、ブースター・ロボティクス（加速進化）は、人型ロボットに人工知能（AI）でサッカーをさせる訓練に取り組んでいた。
+
+チェン氏は2023年に同社を設立した。CNNとのインタビューで「ロボットのサッカーチームは世界に何百もある」「このニッチ市場でトップに立ってから、ほ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242358.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/b62fc1d97c71d22b6cd527e77dc3d2d7/t/768/512/d/2025-08-15t142727z-71501588-rc2j7gae7zfe-rtrmadp-3-china-robots-games.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242345.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T13:40:00+09:00</dc:date>
+        <title>トランプ政権の立場はグリーンランドが米国の一部であるべき　大統領次席補佐官</title>
+        <link>https://www.cnn.co.jp/usa/35242345.html?ref=rss</link>
+        <description>米ホワイトハウスのミラー大統領次席補佐官は、デンマーク自治領グリーンランドについて、トランプ政権の正式な立場は「グリーンランドは米国領であるべきだ」と述べた。一方で、グリーンランド獲得のために軍事力が必要となる可能性については否定した。
+
+ミラー氏はCNNの番組で、「グリーンランドの将来をめぐって、米国と軍事的に戦う国はどこにもない」と述べた。
+
+ミラー氏は、軍事介入の可能性はないのかと迫られると、デ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242345.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/cbbd6f316753a166bb664f7b98ae2048/t/768/511/d/large-c-gettyimages-2207376994.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242344.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T13:01:00+09:00</dc:date>
+        <title>ベネズエラ大統領拘束時に「激しい銃撃戦」、キューバ人の警護部隊に「多数の犠牲者」　米大統領次席補佐官</title>
+        <link>https://www.cnn.co.jp/usa/35242344.html?ref=rss</link>
+        <description>米国のミラー大統領次席補佐官は5日、米国がベネズエラのマドゥロ大統領を拘束した作戦を巡り、「激しい銃撃戦」があり、キューバ人警護部隊に「多数の死傷者」が出たと述べた。
+
+ミラー氏はCNNの番組で、「犠牲者と死亡者の圧倒的多数は、ベネズエラ国民を支配していたキューバの警備隊員だった」と語った。
+
+ミラー氏によると、ベネズエラ首都カラカスで行われた急襲作戦に参加した米軍部隊は武装したキューバ人の警護部隊と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242344.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/cf78ee8f1eda53e7ce2f62ff97f4c3d1/t/768/511/d/large-gettyimages-2253835326.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242343.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T12:59:00+09:00</dc:date>
+        <title>トランプ氏が掲げる「ドンロー主義」、いつから使われるようになったのか</title>
+        <link>https://www.cnn.co.jp/usa/35242343.html?ref=rss</link>
+        <description>ドナルド・トランプ米大統領は3日、ベネズエラにおける米軍作戦について説明する中で、西半球を支配する決意を「ドンロー主義（トランプ氏の名前とモンロー主義を掛け合わせた造語）」というフレーズで表した。
+
+トランプ氏の多くの主張と同様、このフレーズも右派メディアに端を発している。
+
+「ドンロー主義」という造語ができたのは約1年前とみられる。トランプ氏のお気に入りメディアの一つニューヨーク・ポスト紙が昨年1月...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242343.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/2feea2a65621ceb10cfa51450cd87fb2/t/768/512/d/gettyimages-2253974342.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35242334.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T12:03:00+09:00</dc:date>
+        <title>米半導体大手エヌビディア、次世代プラットフォームの詳細を発表</title>
+        <link>https://www.cnn.co.jp/tech/35242334.html?ref=rss</link>
+        <description>米半導体大手エヌビディアは5日、AI（人工知能）データセンター向けの新たなプラットフォーム「Vera Rubin（ベラ・ルービン）」について、より詳しい内容を示した。IT業界が同社の技術に大きく依存していることを踏まえると、ベラ・ルービンの登場はAIの将来に重大な影響を与える可能性がある。
+
+エヌビディアはこれまでにもベラ・ルービンの情報を発表してきたが、ラスベガスで開かれた先端技術の見本市「CES」で、システムの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35242334.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/4188c3f69df1c21ee38c6dccf2f68bc8/t/768/511/d/gettyimages-2254215955.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242329.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T11:52:00+09:00</dc:date>
+        <title>ベネズエラ大統領拘束、首都カラカス投入の米要員は200人　米国防長官明かす</title>
+        <link>https://www.cnn.co.jp/usa/35242329.html?ref=rss</link>
+        <description>ヘグセス米国防長官は5日、週末にベネズエラで行われた米軍の秘密作戦について、200人近くの米要員が首都カラカスでの作戦に参加したと明らかにした。
+
+米バージニア州ニューポート・ニューズの造船所で、造船会社従業員と海軍兵士らに向けて語った。それによると3日前の作戦では、200人近くの米要員がカラカスの中心部に集結。米司法当局が指名手配し、起訴していたベネズエラのマドゥロ大統領を拘束したという。作戦に当たり...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242329.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/3c592b20fe8ef03e3c60f2ab10007c7b/t/768/505/d/c-gettyimages-2254819646.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242333.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T11:19:00+09:00</dc:date>
+        <title>米でインフルエンザが25年ぶりの猛威、異例の2年連続流行続く</title>
+        <link>https://www.cnn.co.jp/usa/35242333.html?ref=rss</link>
+        <description>全米でインフルエンザが猛威を振るっている。「サブクレードK」と呼ばれる変異株の感染が拡大し、4州を除く全州で「高い」または「非常に高い」レベルの流行が続いている。
+
+米疾病対策センター（CDC）が5日に発表した統計によると、発熱や、せき、のどの痛みといったインフルエンザの症状による医療機関の受診数は、1997～98年のインフルエンザシーズン以来、最多になった。
+
+「今年は間違いなく突出している」と米ジョンズ・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242333.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/8267dadd435ce3bfe4266ec3f2746204/t/768/512/d/gettyimages-2244902727.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242326.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T10:48:00+09:00</dc:date>
+        <title>副大統領の自宅に侵入未遂、男を拘束　米オハイオ州</title>
+        <link>https://www.cnn.co.jp/usa/35242326.html?ref=rss</link>
+        <description>米国のバンス副大統領のオハイオ州の自宅で物的損害を引き起こした事件を巡り、当局は5日、男1人を拘束したと明らかにした。事件について捜査が進められている。
+
+シークレットサービス（大統領警護隊）と副大統領の報道官によると、事件当時、バンス氏の家族は不在だった。
+
+地元メディアが公開した写真では、住宅の窓が壊れている様子が確認できる。シークレットサービスの報道官は、身元不明の成人男性1人を拘束したと明らか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242326.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/ea8b13756cfe7b8a6a5223ea61166f5c/t/768/511/d/large-c-gettyimages-2252438209.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242320.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T10:05:00+09:00</dc:date>
+        <title>米保健福祉省、子どもの予防接種スケジュール改訂　推奨ワクチン削減を勧告</title>
+        <link>https://www.cnn.co.jp/usa/35242320.html?ref=rss</link>
+        <description>米保健福祉省は5日、子どもの予防接種スケジュールを改訂し、接種を推奨するワクチンの数を減らすことを勧告すると発表した。
+
+保健当局は引き続き、麻疹（はしか）、おたふく風邪、風疹、ポリオ、水痘、ヒトパピローマウイルス（HPV）などの予防接種を推奨する。一方で、RSウイルス、髄膜（ずいまく）炎菌、B型肝炎、A型肝炎の予防接種は、感染リスクが全般的に高い子どもに対象を絞って推奨する。
+
+インフルエンザ、新型コロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242320.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/dbb6149f9ab085441049163df50fa9e5/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWsxaXNweG4wMDBuM2I2c2VobG5qdzdu-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtazFpcXNuNTAwMHkyN3A0ZjFuODBpbDA_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242319.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T09:42:00+09:00</dc:date>
+        <title>トランプ氏のベネズエラ攻撃がもたらす不確実性　グリーンランドとNATOめぐり</title>
+        <link>https://www.cnn.co.jp/world/35242319.html?ref=rss</link>
+        <description>トランプ米大統領によるベネズエラへの異例の軍事行動を受け、デンマークで不安が高まっている。デンマークのフレデリクセン首相はこうした背景から、同国の自治領であるグリーンランドについて、ホワイトハウスに厳しい警告を発した。
+
+フレデリクセン氏は「まず、米国大統領がグリーンランドを欲しがっているとする発言を真剣に受け止める必要があると思う」と述べた。
+
+「しかし同時に、米国が北大西洋条約機構（NATO）加盟...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242319.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/fa7f17851d6f4ffe46b96327034c91be/t/768/512/d/c-gettyimages-2254687746.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242317.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-06T08:33:00+09:00</dc:date>
+        <title>マドゥロ大統領が米NYで初出廷　ベネズエラをめぐる最新の動き</title>
+        <link>https://www.cnn.co.jp/world/35242317.html?ref=rss</link>
+        <description>ベネズエラのマドゥロ大統領が5日、米ニューヨークの連邦地裁に初めて出廷した。法廷では四つの罪状すべてについて無罪を主張した。
+
+一方、ベネズエラ首都カラカスでは、ロドリゲス副大統領がベネズエラの暫定大統領として宣誓を行った。
+
+知っておくべきことは以下のとおり。
+
+初出廷：マドゥロ大統領と妻のシリア・フローレス氏は、麻薬密輸と武器所持の罪について無罪を主張し、当面は拘束に抵抗しないことを選択した。次回...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242317.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/06/d07086c767944402bbf6c720030dcc41/t/768/512/d/2026-01-05t192039z-1513235219-rc2zuiap0fri-rtrmadp-3-usa-venezuela-maduro-new-york.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242304.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-05T17:17:00+09:00</dc:date>
+        <title>習主席、世界は「激動と変化の時代に」</title>
+        <link>https://www.cnn.co.jp/world/35242304.html?ref=rss</link>
+        <description>中国の習近平（シーチンピン）国家主席は5日、世界は「激動と変化の時代に入っている」と述べ、「一方的で威圧的な行動が国際秩序に深刻な影響を及ぼしている」と指摘した。中国国営中央テレビ（CCTV）が伝えた。
+
+習氏は、米国やベネズエラには言及せず、「各国は他国の国民が自主的に選択した発展の道を尊重すべきだ」と語った。
+
+習氏はさらに、国際法と国連憲章の目的と原則を順守すべきだとし、とりわけ大国が率先して行う...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242304.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/05/96a62eaa0661cd403192e9a1c5e47340/t/768/511/d/large-gettyimages-2254136951.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242303.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-05T16:44:00+09:00</dc:date>
+        <title>元人質だったイスラエル人女性、ハマス拘束下での性的虐待と「性奴隷」になる恐怖を語る</title>
+        <link>https://www.cnn.co.jp/world/35242303.html?ref=rss</link>
+        <description>元人質だったイスラエル人のロミ・ゴネンさん（25）は、イスラム組織ハマスに拘束されていた471日間に、性的暴行や嫌がらせ、脅迫を繰り返し受けたと明らかにした。パレスチナ自治区ガザ地区での自身の体験と「性奴隷」にされる恐怖についてゴネンさんが公の場で語ったのは初めて。
+
+ゴネンさんは2023年10月7日、23歳のときにノバ音楽祭で拉致され、人質に関する合意によって25年1月に解放された。イスラエルのテレビ番組で先週...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242303.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/05/9790c72bde1b0d7ccf478e1f35741c4c/t/768/477/d/screen-shot-2026-01-04-at-7-05-29-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242300.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-05T16:20:00+09:00</dc:date>
+        <title>次に何が起こるのか、不安とともに息をひそめる国民　ベネズエラ</title>
+        <link>https://www.cnn.co.jp/world/35242300.html?ref=rss</link>
+        <description>南米ベネズエラは、過去12年にわたって権力を握っていたマドゥロ大統領が突然、拘束・追放されたことで、新たな、そして非常に不確実な時代に入りつつある。
+
+次に何が起きるのか分からないという不安が広がる中、首都カラカスや他の都市の通りは静まり返っている。治安部隊が神経をとがらせる一方、人々は外出を控えている。政府系の民兵組織「コレクティーボ」が街頭に姿を見せる兆しは、ほとんどない。
+
+危険を承知で外出し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242300.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/05/605f7e7d62d9a1dc60261eac97738a9d/t/768/510/d/large--rtrmadp-3-usa-venezuela.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242290.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-05T15:30:00+09:00</dc:date>
+        <title>ブラジルやスペインなど6カ国、米国のベネズエラでの軍事行動を非難</title>
+        <link>https://www.cnn.co.jp/world/35242290.html?ref=rss</link>
+        <description>ブラジルとチリ、コロンビア、メキシコ、ウルグアイ、スペインの6カ国は4日、米国が3日未明に実施したベネズエラへの軍事攻撃を非難する共同声明を発表した。この攻撃では、ベネズエラのマドゥロ大統領が首都カラカスで拘束された。
+
+6カ国は声明で、米国の行動について、「国際法の基本原則、特に国連憲章に定められた武力の行使および武力による威嚇の禁止、独立国家の主権と領土保全の尊重」に反するとし、「外部からの干渉...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242290.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/05/dc034e6f905a3166a9d36248063ceba2/t/768/511/d/large-ap26004697924255.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242285.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-05T14:42:00+09:00</dc:date>
+        <title>トランプ氏、コロンビアへの軍事行動を示唆　ベネズエラへの攻撃に続き</title>
+        <link>https://www.cnn.co.jp/usa/35242285.html?ref=rss</link>
+        <description>トランプ米大統領は4日、南米コロンビアに対する軍事作戦を示唆し、「メキシコは行動を起こさなければならない」と述べた。米国はこれより前、ベネズエラに対する大規模な攻撃を実施して同国のマドゥロ大統領を拘束しており、強気の姿勢を強めた形だ。
+
+トランプ氏は、大統領専用機エアフォースワンの機内で記者団に対し、「コロンビアも非常に病んでいる。コカインを製造して米国に売るのが好きな病的な男が統治しているが、彼...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242285.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/05/2acaea04dde4a43e005c30d97b086455/t/768/511/d/large-c-gettyimages-2254097916.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242282.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-05T14:20:00+09:00</dc:date>
+        <title>ベネズエラ副大統領の姿勢軟化、米国との「協力」を呼び掛け</title>
+        <link>https://www.cnn.co.jp/world/35242282.html?ref=rss</link>
+        <description>米軍が軍事作戦を実施してマドゥロ大統領を拘束した南米ベネズエラで、ロドリゲス副大統領は、米政府に対し「協力のアジェンダ」をめぐって連携を求めたと明らかにした。
+
+ロドリゲス氏はSNSの声明で、このアジェンダについて、「国際法の枠組みの中で、地域社会の永続的な共存を強化するための共通の発展」を目指すものだと説明した。
+
+ロドリゲス氏は、ベネズエラが米国や周辺地域との間で「均衡が取れた敬意ある国際関係」の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242282.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/05/e7681a86cb209dae631396047036d127/t/768/517/d/large-c-gettyimages-2237782492.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242289.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-05T13:41:00+09:00</dc:date>
+        <title>「歴史に残る出来事」に静まり返るベネズエラ市民、支持者は抗議デモ</title>
+        <link>https://www.cnn.co.jp/world/35242289.html?ref=rss</link>
+        <description>大統領が米国によって拘束されたベネズエラの首都カラカス。街は静まり返っているものの、政府は普段通りの生活に戻るよう国民に呼びかけている。CNN取材班は4日、外出していた住民に話を聞いた。
+
+「運動が必要なペットがいるし、自分も家にこもっているとストレスが大きすぎるから」。外出の理由を尋ねたジュディス・レデスマさんはそう答えた。公園のベンチに隣に座った愛犬は、たくさんの買い物袋に囲まれている。
+
+レデス...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242283.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-05T12:57:00+09:00</dc:date>
+        <title>カリブ海の旅行客が立ち往生、米軍ベネズエラ作戦の影響で空域一時閉鎖</title>
+        <link>https://www.cnn.co.jp/usa/35242283.html?ref=rss</link>
+        <description>米軍がベネズエラのニコラス・マドゥロ大統領夫妻を拘束した作戦の影響で、カリブ海上空の空域が米連邦航空局（FAA）によって一時的に閉鎖され、米国などへ戻る予定だった旅行者多数が足止めされている。
+
+運行情報サイト「フライトアウェア」によると、プエルトリコのサンフアンやオランダ領アルバ島などカリブ海からの出発便は、3日から4日にかけて数百便が欠航となった。
+
+家族や親類で米領バージン諸島に1週間滞在し、デル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242283.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/05/75900551d2dc467b76411826822cf2aa/t/768/512/d/2026-01-03t225402z-1370308782-rc2otiat7ou1-rtrmadp-3-usa-venezuela.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242264.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-05T11:46:00+09:00</dc:date>
+        <title>【分析】トランプ氏によるベネズエラへの攻撃と大統領の拘束は合法か</title>
+        <link>https://www.cnn.co.jp/usa/35242264.html?ref=rss</link>
+        <description>昨年11月2日、ホワイトハウスのワイルズ大統領首席補佐官は米誌バニティ・フェアの取材に対し、ベネズエラでの地上攻撃には連邦議会の承認が必要になると語った。仮にトランプ大統領が「地上での何らかの行動を許可すればそれは戦争であり、続いて連邦議会が必要になる」という。
+
+数日後、トランプ政権の複数の当局者が非公開の発言で、連邦議会の議員らにほぼ同じ内容を告げた。つまり自分たちには法的正当性がなく、ベネズエ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242264.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/05/d1be2d11d56d45ce74acb058945a4676/t/768/512/d/gettyimages-2253880178.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242279.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-05T11:18:00+09:00</dc:date>
+        <title>ベネズエラ反体制派指導者マチャド氏は選挙に勝てない、自身の支持なければ　トランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35242279.html?ref=rss</link>
+        <description>米国のトランプ大統領は、南米ベネズエラの反体制派指導者マリア・コリナ・マチャド氏について、自分の支持がなければ選挙には勝てないと述べ、ベネズエラで指導者となるだけの国民的な支持を欠いているとの認識を示した。米紙ニューヨーク・ポストの取材に答えた。
+
+トランプ氏は4日のインタビューで、自身がマチャド氏を支持しなければ、マチャド氏は選挙に勝てないだろうとしつつ、「しかし、私は彼女をとても気に入っている...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242279.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/05/cf9f2e5fa25b3aead0e9e9a611c97003/t/768/511/d/large-c-gettyimages-2193176258.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242277.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-05T10:20:00+09:00</dc:date>
+        <title>スイスのバー火災　犠牲者の半数は未成年、14歳や15歳も　経営者を捜査</title>
+        <link>https://www.cnn.co.jp/world/35242277.html?ref=rss</link>
+        <description>スイス南部バレー州クランモンタナのスキー場にあるバーで1日に起きた火災で、警察は4日、犠牲者の中に14歳や15歳の未成年が含まれていたことを明らかにした。同店が適切な年齢確認を行っていたかどうかをめぐる疑問が浮上している。
+
+今回の火災では40人が死亡、100人以上が負傷した。バレー州警察は4日、死亡した40人については未成年20人を含む全員の身元が判明したと発表した。
+
+フランス外務省は、死者のうち8人がフランス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242277.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/05/e3dc1c67f4fa2fc11df5b773b0f55406/t/768/512/d/gettyimages-2254521582.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242270.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-05T09:51:00+09:00</dc:date>
+        <title>米国務長官、ベネズエラへの影響力を維持　米軍派遣の可能性排除せず　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/usa/35242270.html?ref=rss</link>
+        <description>米軍が軍事作戦を実施してマドゥロ大統領を拘束した南米ベネズエラの情勢をめぐり、ルビオ米国務長官は4日、テレビ番組でベネズエラをめぐる米国の関与について相次いで質問を受け、トランプ米政権が描くベネズエラの将来像について、より詳しく言及した。
+
+ルビオ氏は、トランプ米大統領が、近い将来、米国がベネズエラを「運営」することになると発言したことをめぐり、政権の焦点は将来の政策を決めることにあると述べた。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242270.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/05/14c2a8ea3b220246098100fee4c30acc/t/768/511/d/large-hnd-rtrmadp-3-usa-venezuela.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242263.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-04T17:30:00+09:00</dc:date>
+        <title>ベネズエラ大統領拘束、米当事者らが明かす作戦の内幕</title>
+        <link>https://www.cnn.co.jp/usa/35242263.html?ref=rss</link>
+        <description>まるでテレビを見ているようだった。
+
+ホワイトハウスが公開した複数の写真やX（旧ツイッター）上のライブ映像によると、トランプ米大統領はその時、フロリダ州の自宅「マール・ア・ラーゴ」のカーテンで仕切られた部屋にいた。自分の視聴用に設置されたスクリーンの周囲で、側近らと身を寄せ合いながら、高度な訓練を受けた米陸軍特殊部隊デルタフォースの兵士たちがベネズエラの首都カラカスにあるマドゥロ大統領の自宅に突入...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242263.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/04/126d9fd2f158c234386ae5798497241e/t/768/432/d/49648ce05e2ec22b.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35242239.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-04T15:30:00+09:00</dc:date>
+        <title>聖なる装飾からセクシーへ、レースが再び流行している理由</title>
+        <link>https://www.cnn.co.jp/style/fashion/35242239.html?ref=rss</link>
+        <description>米メトロポリタン美術館のアントニオ・ラッティ・テキスタイルセンターにある窓のない1室。この部屋の巨大な黒い紙の上には、数百年前のレースが何枚も広げられている。微細な縫い目で円や渦、さらには動物の模様が形作られ、中には丹念かつ精密な手作業で何年もかけて完成したレースもある。
+
+以前は、わずか数メートルのレースを作るのにも何年もかかった。現在は機械によるスピード生産が可能で、昨年のファッションウィーク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35242239.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/02/ed32b9e39757d205bf45fd7ad2143c46/t/768/432/d/gettyimages-2049047096.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242262.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-04T13:40:00+09:00</dc:date>
+        <title>ベネズエラ副大統領、暫定大統領として権限引き継ぎ　最高裁が命令</title>
+        <link>https://www.cnn.co.jp/world/35242262.html?ref=rss</link>
+        <description>ベネズエラの最高裁判所は3日夜、米軍によってマドゥロ大統領が拘束されたことを受け、ロドリゲス副大統領に暫定大統領の権限と職務を代行するよう命じた。
+
+命令ではマドゥロ氏について「職務の遂行が実質的かつ一時的に不可能」な状態にあると結論付けている。
+
+命令は国営テレビ局VTVの放送で、判事により読み上げられた。それによるとロドリゲス氏はベネズエラの大統領職に固有のすべての権限、職務、能力を暫定大統領とし...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242262.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/04/13d92c828da721d33311ab782b40f1b7/t/768/512/d/ap26003545365603.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242261.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-04T12:45:00+09:00</dc:date>
+        <title>夫と共に拘束、ベネズエラ大統領夫人のシリア・フローレス氏とはどんな人物か</title>
+        <link>https://www.cnn.co.jp/world/35242261.html?ref=rss</link>
+        <description>3日未明、南米ベネズエラのマドゥロ大統領と共に、妻で最高顧問のシリア・フローレス氏も米軍によって寝室から引きずり出され、拘束された。夫妻はすぐに国外へ連行された。今後米国で、麻薬の密輸に関する罪での裁判にかけられる見通しとなっている。
+
+マドゥロ氏が「シリタ」と呼ぶフローレス氏は、10年以上にわたりファーストレディーの地位にある。ただし、「チャビスモ（チャベス主義）」として知られるベネズエラの社会主...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242261.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/04/e87513531cf186e8685c78bc58f424f2/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWp5a3JhcnkwMDE2MzU2cG9qMXNsb2Js-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtanlrYXluajAxNzUyNm95NjhpaWRoZWU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242260.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-04T09:52:00+09:00</dc:date>
+        <title>拘束されたベネズエラ大統領、NYに到着　連邦捜査官10人以上に連れられ機外へ</title>
+        <link>https://www.cnn.co.jp/usa/35242260.html?ref=rss</link>
+        <description>米軍により拘束されたベネズエラのマドゥロ大統領は3日、米ニューヨーク州スチュワート空軍州兵基地に到着した。連邦当局者1人が明らかにした。本人が飛行機から降りる様子をCNN提携局WCBSが映像で報じた。
+
+WCBSの映像によると、マドゥロ氏は灰色の服を着て手錠をかけられ、黒い服を着た十数人の連邦捜査官に付き添われている。
+
+マドゥロ氏はヘリコプターでニューヨーク市マンハッタンに移動後、メトロポリタン拘置所に移送さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242260.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/04/1ec73d54eac3854e81280204fc02a58d/t/768/512/d/usa-venezuela.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
