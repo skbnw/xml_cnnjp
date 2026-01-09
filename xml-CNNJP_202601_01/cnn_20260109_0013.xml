@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-01-09T09:00:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242508.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242506.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242493.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242498.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242496.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242495.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242490.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242491.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242477.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242472.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242458.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242439.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242470.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242471.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242462.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242464.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242448.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242454.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242445.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242443.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242441.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242438.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242412.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242432.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242429.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242419.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242411.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242404.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242405.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242378.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35242508.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-09T09:00:00+09:00</dc:date>
+        <title>トランプ氏、米のベネズエラ管理は「長い時間」</title>
+        <link>https://www.cnn.co.jp/world/35242508.html?ref=rss</link>
+        <description>トランプ米大統領は7日、ベネズエラの再建に米国が長期的に関与する考えを示した。「非常に収益性の高い方法でベネズエラを再建する」と述べ、直接管理に強い意欲を示した。
+
+米紙ニューヨーク・タイムズとの2時間近くにわたるインタビューで、トランプ氏は米国がベネズエラをどれくらいの期間、直接介入するのか具体的には示さなかった。ただ、3カ月、半年、1年、あるいはもっと長期にわたるのかと問われ、トランプ氏は「もっ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242506.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-09T08:45:00+09:00</dc:date>
+        <title>ロシア、ウクライナ領内の外国部隊は「正当な標的」　英仏の部隊派遣合意受け</title>
+        <link>https://www.cnn.co.jp/world/35242506.html?ref=rss</link>
+        <description>ロシアは8日、ウクライナにおける西側諸国の部隊を「正当な標的」とする従来の立場を改めて強調した。この数日前にはフランスと英国が、ウクライナとロシアの間で和平合意が成立した場合にウクライナへ部隊を派遣すると表明している。
+
+ロシアのザハロワ報道官は声明で「ロシア外務省は、西側諸国が軍隊、軍事施設、倉庫、その他のインフラをウクライナ領内に展開することは外国の介入とみなされると警告する」と述べた。
+
+ロシ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242506.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/09/d5d998f16a9f80a52e5ac8f01105bf0b/t/768/512/d/gettyimages-2210963109.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242493.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T17:00:00+09:00</dc:date>
+        <title>6万年前の矢から毒物検出、当時の狩猟戦略に新たな知見　南アフリカ</title>
+        <link>https://www.cnn.co.jp/fringe/35242493.html?ref=rss</link>
+        <description>科学者たちが、石器時代の矢じりから植物毒の痕跡を検出した。 約6万年前の南アフリカで狩猟採集民が使用していた矢じりだという。
+
+この発見は現在知られている最古の毒矢であり、そのような道具と洗練された狩猟戦略がこれまで考えられていたより数千年早い時期から存在していたことを示すものだ。7日に科学誌「サイエンス・アドバンシズ」に掲載された論文の著者らが述べた。
+
+「持続的な狩猟において、毒矢は通常、獲物を即...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242493.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/f1c6ef04f30a763a31af6d04dacb1dd7/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWs0aWdzbm8wMDE1MzU2cHVwejBsaHo2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtazRpZDNnZTAwMHkyY3BqMTBoaWI3dWQ_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242498.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T16:24:00+09:00</dc:date>
+        <title>米ICE職員が移民取り締まり中に発砲、37歳女性が死亡　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/usa/35242498.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスで7日、不法移民の摘発にあたっていた移民税関捜査局（ICE）の職員が発砲し、女性が死亡した。
+
+死亡したのはレニー・ニコル・グッドさん（37）。ICE職員との衝突のすえに射殺されたグッドさんをめぐり、地域社会には怒りと悲しみが広がっている。
+
+ミネソタ州では、補助金の不正受給をめぐる不祥事が発覚し、ウォルズ州知事が知事選への出馬を断念。連邦政府が移民の取り締まりを強化していた。
+
+被害...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242498.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/4f785203da7741ba52710f340ec5227d/t/768/510/d/large--rtrmadp-3-usa-trump-minnesota.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242496.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T15:46:00+09:00</dc:date>
+        <title>トランプ政権、国連気候変動枠組み条約など66の国際機関からの脱退を表明</title>
+        <link>https://www.cnn.co.jp/usa/35242496.html?ref=rss</link>
+        <description>トランプ政権は、国連気候変動枠組み条約（UNFCCC）をはじめ、66の国際機関から米国を脱退させる。ホワイトハウスが7日に発表した覚書とSNSへの投稿で明らかになった。
+
+この動きが実現すれば、米国は国際的な気候変動対策協議から外れ、気候対策を優先課題とする各国との緊張が高まる可能性がある。
+
+ルビオ国務長官は声明で「我が国の利益に無関係あるいは相反する機関に対し、資源や外交的資本、そして我々の参加による正当...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242496.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/edeb669d1bd38fe42d61dd3d4a9585c6/t/768/511/d/gettyimages-2185677339.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242495.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T15:45:00+09:00</dc:date>
+        <title>古代エジプト人の全ゲノムを初めて解析　意外な祖先が明らかに</title>
+        <link>https://www.cnn.co.jp/fringe/35242495.html?ref=rss</link>
+        <description>古代エジプト人の全ゲノムを初めて解析したという研究結果が昨年発表された。エジプト文明初期に生きた男性の祖先について、意外な事実が明らかになった。
+
+遺骨は土器の中に密封され、エジプトの首都カイロの南に位置するヌワイラートという村に埋められていた。4500～4800年前の男性とみられる。これまでに採取された古代エジプト人のDNAとしては最古のサンプルだ。研究チームは、男性の遺伝物質の80％が北アフリカの古代人、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242495.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/04/4473747b2ddc2560278363c30a224378/t/768/565/d/facial-reconstruction-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242490.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T15:03:00+09:00</dc:date>
+        <title>アジア最大級の国際犯罪組織のトップか、中国に身柄引き渡し　カンボジア当局</title>
+        <link>https://www.cnn.co.jp/world/35242490.html?ref=rss</link>
+        <description>カンボジア当局は7日、アジア最大級の国際犯罪ネットワークの運営者とされ、米連邦検察から指名手配されていたプリンスグループのチェン・ジー会長（38）が逮捕され、中国に身柄を引き渡されたと明らかにした。
+
+チェン会長は中国とカンボジアの二重国籍。カンボジア内務省は声明で、チェン会長は両国による数カ月の捜査の末、6日に身柄を引き渡されたと述べ、カンボジア市民権は剝奪（はくだつ）されたと付け加えた。
+
+カンボ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242490.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/74efb3114a72420822a032efcae539b2/t/768/511/d/472707947-1217172123097906-1163720689449259672-na.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242491.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T14:44:00+09:00</dc:date>
+        <title>食品添加の保存料、がんや2型糖尿病のリスク増大と関係か　仏研究</title>
+        <link>https://www.cnn.co.jp/fringe/35242491.html?ref=rss</link>
+        <description>食品の賞味期限を延ばす目的で一般的に使われている保存料と、がんや2型糖尿病のリスク増大との関係を指摘する二つの研究が、フランスで発表された。
+
+今回の調査には、フランス国立保健医学研究所などが関与する「ニュートリネット・サンテ研究」を利用。2009年から調査を開始して、参加者17万人あまりにネット経由で食生活やライフスタイルを報告してもらい、国の国民健康保険システムに保存された医療データと比較した。
+
+7...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242491.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/8353641ebb10f68f178b78e8c7e14ea0/t/768/512/d/gettyimages-1157106624.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242477.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T13:36:00+09:00</dc:date>
+        <title>南米ベネズエラでの軍事作戦、賛否分かれる　米世論調査</title>
+        <link>https://www.cnn.co.jp/usa/35242477.html?ref=rss</link>
+        <description>米国で行われた世論調査によると、マドゥロ大統領を拘束し政権の座から排除した南米ベネズエラでの米軍の軍事行動について、米国民の意見はほぼ拮抗（きっこう）していることが分かった。
+
+CBSニュースとユーガブが7日に公表した調査では、賛成が48％、反対が52％だった。ワシントン・ポストやロイター通信とイプソスがこれまでに行った調査でも、世論が割れているという同様の結果が出ている。
+
+CBSの調査では、トランプ大統領...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242477.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/39d3808df9fba44719106c791d51363f/t/768/597/d/large-c-gettyimages-2254194482.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242472.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T12:42:00+09:00</dc:date>
+        <title>ベネズエラの石油は「世界有数の不純な石油」　トランプ氏が手に入れたら地球に何が起きるのか</title>
+        <link>https://www.cnn.co.jp/world/35242472.html?ref=rss</link>
+        <description>ベネズエラの地下に眠る石油は世界最大となる3000億バレル以上にのぼると推定される。トランプ米大統領は、ベネズエラのマドゥロ大統領を捕らえた後、この膨大な埋蔵量に対し所有権を主張している。
+
+化石燃料を崇拝し、米国の石油会社が数十億ドルを投資してこの「黒い金」を解き放つ構想をすでに打ち出しているトランプ氏にベネズエラ産の石油は魅力的に映る。
+
+しかし、気候変動の専門家らは、この石油が世界で有数の不純な...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242472.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/e1782f47e25c56173084febb709ca6d9/t/768/512/d/gettyimages-2252065070.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242458.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T12:10:00+09:00</dc:date>
+        <title>米国の次の標的か、ベネズエラの有力閣僚ディオスダド・カベジョ氏について知っておくべきこと</title>
+        <link>https://www.cnn.co.jp/world/35242458.html?ref=rss</link>
+        <description>3日未明、ベネズエラのマドゥロ大統領が拘束され、目隠しをされて米国に連行された直後、首都カラカスでディオスダド・カベジョ内相（62）が武装した集団に囲まれている映像が公開された。
+
+防弾ベストとヘルメットを身に着けたカベジョ氏は、マドゥロ氏の拉致を「我が国の国民に対する犯罪的なテロ攻撃だ」と非難した。空はまだ暗く、上空ではドローン（無人機）の音が聞こえていた。
+
+カベジョ氏は続けて国民に対し、冷静にな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242458.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/a0861339bf2efad2542d6c33b701c366/t/768/523/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWs0a3VkYjcwMDAzM2I2cGtiZDhvY2h5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtazRrMG1pMTAwMnoyNnBiNHdzODlqYWo_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242439.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T12:08:00+09:00</dc:date>
+        <title>アフリカ最古の火葬跡か、9500年前の女性の骨片見つかる　マラウイ</title>
+        <link>https://www.cnn.co.jp/fringe/35242439.html?ref=rss</link>
+        <description>マラウイ北部で発見された焼けた骨片は、アフリカでこれまで見つかった中で最も古い火葬跡の存在を明らかにした。同時に解明が困難かもしれない新たな謎も浮き彫りになっている。
+
+骨と火葬用の薪（まき）の堆積（たいせき）物を分析した結果、研究者たちは狩猟採集民が約9500年前に女性の遺体を火葬にしたと考えている。これは、1日付の科学誌「サイエンス・アドバンシズ」に掲載された研究論文で明らかになった。
+
+火葬跡と人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242439.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/0bf86cd28a4aabd7c0ce0d54502fc6eb/t/768/576/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWsycDB5aWowMDAyMzU2cHdibHZsZnR5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtazFhdDVkdTAwMjAyNm5xY2tweThmNGQ_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242470.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T11:47:00+09:00</dc:date>
+        <title>トランプ氏が対ロシア制裁法案を「承認」、来週にも採決　米上院議員</title>
+        <link>https://www.cnn.co.jp/usa/35242470.html?ref=rss</link>
+        <description>米共和党のグラム上院議員は、トランプ米大統領が、ロシア産石油を購入する国々に厳しい制裁を科す超党派の法案について「ゴーサイン」を出したと明らかにした。法案は来週にも上院で採決される可能性がある。
+
+グラム氏はSNSへの投稿で、7日にトランプ氏と「さまざまな問題」について「非常に生産的な」会談を行ったと明らかにした。その中でトランプ氏が「超党派のロシア制裁法案にゴーサインを出した」という。ホワイトハウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242470.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/cdd3339912db2aeb732d526bcfca49fb/t/768/511/d/large-gettyimages-2231791544-20260108003750187.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242471.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T11:45:00+09:00</dc:date>
+        <title>米国の急襲作戦で100人死亡、ベネズエラ内相が発表</title>
+        <link>https://www.cnn.co.jp/world/35242471.html?ref=rss</link>
+        <description>ベネズエラのカベジョ内相は7日遅く、マドゥロ大統領の身柄拘束を目的とした米国の攻撃で少なくとも100人が死亡したと明らかにした。
+
+カベジョ氏は「これまでのところ、あくまでこれまでのところだが、死者数は100人に上る。同程度の数の負傷者も出ている」と述べた。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242471.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/650644a791bb872709ae2ac0894df5c1/t/768/565/d/2026-01-03t115330z-1543953786-rc2ntiarv6g6-rtrmadp-3-usa-venezuela-explosions.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242462.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T11:09:00+09:00</dc:date>
+        <title>モロッコで見つかった化石、「祖先X」の謎解明につながるか</title>
+        <link>https://www.cnn.co.jp/fringe/35242462.html?ref=rss</link>
+        <description>モロッコで発見された化石は、人類の進化についてあまり知られていない時期のものであり、科学者が長年の謎を解明するための手がかりとなる可能性がある。その謎とは「人類より前に誰がいたのか？」だ。
+
+モロッコ・カサブランカのトーマス採石場にある洞窟で、あごの骨3点（このうち一つは子どものもの）と、歯、椎骨（ついこつ）、大腿（だいたい）骨が見つかった。年代は77万3000年前にさかのぼるとみられる。アフリカでこの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242462.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/9e3de4a861a24899c797dc224834379d/t/768/511/d/278a6633.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242464.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T11:01:00+09:00</dc:date>
+        <title>「真の地獄」　悪名高い拘置所に収容のマドゥロ大統領夫妻、待遇は</title>
+        <link>https://www.cnn.co.jp/usa/35242464.html?ref=rss</link>
+        <description>米国で麻薬関連などの罪に問われたベネズエラのニコラス・マドゥロ大統領と妻のシリア・フロレス氏。豪華な宮殿暮らしから一転、米ニューヨークの拘置所での生活を強いられている。
+
+収容されているのはブルックリン区の悪名高いメトロポリタン拘置所。「あそこは真の地獄だ」と連邦刑務所に詳しいコンサルタントのサム・マンゲル氏は言う。「暖房はほとんどない。全員にウールの毛布が1枚支給される。金属製のベッドの上で、非...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242464.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/c708433a607112f75f483e4066127ecb/t/768/511/d/gettyimages-2254194837.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242448.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T10:06:00+09:00</dc:date>
+        <title>米国の敵対国とは関係断絶を、トランプ政権がベネズエラに要求　石油生産再開の条件</title>
+        <link>https://www.cnn.co.jp/usa/35242448.html?ref=rss</link>
+        <description>米国のトランプ政権は、ベネズエラが石油生産を再開するために受け入れなければならないいくつかの要求を明らかにした。ホワイトハウスの高官2人がCNNに語った。
+
+ルビオ国務長官主導の会談で、トランプ政権はベネズエラのデルシー・ロドリゲス暫定大統領に対し、ベネズエラは中国、イラン、ロシア、キューバとの関係を断ち切り、石油生産において米国とのみ提携することに同意しなければならないと伝えた。高官らが明らかにし...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242448.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/91d2a37bcaafb53a34079e16d92a893a/t/768/512/d/venezuela-pdvsa-opec.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242454.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T09:52:00+09:00</dc:date>
+        <title>厳寒のベルリンで続く停電　送電設備に放火、環境活動集団が犯行声明</title>
+        <link>https://www.cnn.co.jp/world/35242454.html?ref=rss</link>
+        <description>大雪が降って氷点下の寒さが続くドイツの首都ベルリンで、約10万人が4日間以上続く停電に見舞われている。ベルリンでは3日に送電設備が放火され、極左環境団体ブルカングルッペが犯行声明を出していた。
+
+発端となった火災は現地時間の3日未明、ベルリン南部の運河にある送電設備で発生。この火災でリヒターフェルデ発電所付近の高圧ケーブル数本が破損した。
+
+火災は消し止められたものの、同日午前6時ごろに電力の供給が断た...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242454.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/deb4b8dbe46bf89d35de5acfea92af63/t/768/512/d/gettyimages-2254020905.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242445.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T08:55:00+09:00</dc:date>
+        <title>ロシア船籍のタンカー拿捕、米海軍特殊部隊シールズが作戦を支援</title>
+        <link>https://www.cnn.co.jp/usa/35242445.html?ref=rss</link>
+        <description>米軍が7日午前に北大西洋でタンカー「ベラ1号」に乗り込んで拿捕（だほ）した件で、米海軍特殊部隊SEALS（シールズ）が実行部隊に加わっていたことが分かった。作戦について説明を受けた関係者2人が明らかにした。
+
+関係者によれば、SEALSは「ナイト・ストーカーズ」の通称で知られる米陸軍第160特殊作戦航空連隊によってタンカーまで輸送されたという。
+
+米国防総省は、特殊作戦部隊の戦力については確認も言及もしない方針だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242445.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/31bc26f9b0facfc03a49fbaa6a5ec24a/t/768/432/d/2nd-tanker-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242443.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T08:16:00+09:00</dc:date>
+        <title>ICE職員が発砲、女性死亡　米ミネソタ州</title>
+        <link>https://www.cnn.co.jp/usa/35242443.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスで7日、不法移民の摘発にあたっていた移民税関捜査局（ICE）の職員が発砲し、女性（37）が死亡した。国土安全保障省は発砲は正当防衛だったと主張している。
+
+当局者がCNNに明らかにしたところによると、トランプ政権の移民取り締まり強化策の一環として、ICEはミネアポリスに約2000人の職員を派遣していた。
+
+国土安全保障省は事件についての声明で、「暴徒が車で職員をひき殺そうとした」と説明し、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242443.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/b5f806bff18111ad1eb1ee8f1ce66559/t/768/511/d/ap26007639250904.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242441.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-08T07:48:00+09:00</dc:date>
+        <title>米軍、ベネズエラ関連の石油タンカー2隻拿捕　ロシア船籍も</title>
+        <link>https://www.cnn.co.jp/world/35242441.html?ref=rss</link>
+        <description>米軍は7日、大西洋とカリブ海でベネズエラ関連の石油タンカー2隻を拿捕（だほ）したと発表した。大西洋を航行していたタンカーはロシア船籍で、ロシア運輸省は同タンカーとの通信が途絶えたことを確認した。
+
+米欧州軍は、北大西洋を横断していたベネズエラに関係するタンカーを拿捕したと発表した。同タンカーはロシア国旗を掲げていた。
+
+また、米南方軍も同日、カリブ海でタンカーを差し押さえたと発表した。無国籍船とみら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242441.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/df0e6363b91ec0a511e5b63eb881d00f/t/768/511/d/g-eh9lgxuaa3k85__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242438.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-07T19:21:00+09:00</dc:date>
+        <title>視線を追跡して瞬時に度数を調整する「オートフォーカス」眼鏡　来年発売へ　フィンランド新興</title>
+        <link>https://www.cnn.co.jp/fringe/35242438.html?ref=rss</link>
+        <description>フィンランドの新興アイウェアメーカーIXIが、装着者のニーズを感知して「オートフォーカス」するスマートグラスの開発を進めている。見た目はまるで普通の眼鏡だ。
+
+この眼鏡は、内蔵されたアイトラッキング（視線追跡）センサーと液晶が瞬時に度数を調整する。同社によると、既存の二重焦点（遠近両用）レンズや可変焦点レンズを改善したものだという。既存のレンズは遠くのものと近くのもの両方をみるための補助が必要な人を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242438.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/07/067e6e87d8e2f6cc8b11da719e965168/t/768/543/d/3-20260105130610920.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242412.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-07T18:52:00+09:00</dc:date>
+        <title>【分析】マドゥロ氏拘束で中国に痛手、それでも国内SNSは台湾への青写真と盛り上がる</title>
+        <link>https://www.cnn.co.jp/world/35242412.html?ref=rss</link>
+        <description>米特殊部隊が南米ベネズエラの首都中枢を狙った大胆な夜間作戦の計画を詰めるその最終段階に入っていたとき、同国のマドゥロ大統領は中国の中南米担当トップを務める外交官と共に写真に収まっていた。中国の指導力に対する惜しみない称賛を口にしながら。
+
+「習近平（シーチンピン）国家主席の絶えることのない兄弟愛に感謝する。兄のようなその愛情に」。マドゥロ氏は中国の中南米事務特別代表・邱小琪氏にそう告げた。現場に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242412.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/07/5febcb76df1ac06bb89b8693e6fcae81/t/768/432/d/venezuela-china.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242432.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-07T17:40:00+09:00</dc:date>
+        <title>エベレストで見つかった人間の足、山岳界最大の謎解く手掛かりか</title>
+        <link>https://www.cnn.co.jp/fringe/35242432.html?ref=rss</link>
+        <description>米誌ナショナル・ジオグラフィックのドキュメンタリーチームが2024年9月、エベレストの融解しかけた氷河から突き出た登山靴と靴下を発見したとき、彼らはその重要さをたちどころに理解した。それらの遺品は、1世紀にわたる謎を解く手掛かりに他ならなかった。
+
+ウールの靴下に縫い付けられた名札は「A・C・アービン」と読める。恐らく英国の登山家アンドルー・「サンディ」・アービンのものだろう。アービンが1924年に同胞のジ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242432.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/10/12/6d378a2be7b7c4a742b37ada18bf8625/t/768/432/d/everestdiscovery-03.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242429.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-07T16:27:00+09:00</dc:date>
+        <title>米国史上有数の悪名高いスパイ、オルドリッチ・エイムズ受刑者が死亡　大勢の情報源を死に追いやる</title>
+        <link>https://www.cnn.co.jp/usa/35242429.html?ref=rss</link>
+        <description>米情報機関のためにひそかに活動していたソ連やロシアの当局者の名前を漏えいし、多数の逮捕や処刑につながった米国史上有数の悪名高いスパイ、オルドリッチ・エイムズ受刑者が刑務所で死亡したことが分かった。84歳だった。
+
+連邦刑務所局の報道官によると、エイムズ受刑者は5日、勾留下で死亡した。エイムズ受刑者は中央情報局（CIA）のケースオフィサーだった人物で、1994年にFBI（連邦捜査局）に逮捕され、スパイ活動罪で終...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242429.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/07/52b1f6432d4516af7e019457c80d181f/t/768/511/d/ap26007041063739.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242419.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-07T13:58:00+09:00</dc:date>
+        <title>「一人っ子政策」廃止から10年、出産奨励策の効果薄く　中国</title>
+        <link>https://www.cnn.co.jp/world/35242419.html?ref=rss</link>
+        <description>中国政府が出生率の低下は経済成長を妨げかねないとして「一人っ子政策」を廃止してから、今月1日でちょうど10年。だがその後の出産奨励策にもかかわらず、人口増加は実現していない。
+
+中国の人口は2024年まで3年連続で減少した。24年の出生数は前年をわずかに上回ったものの死亡数には追いつかないうえ、これは一時的な現象にとどまる見通しだ。
+
+
+  
+  
+新生児の世話をする医療従事者＝2025年1月、中国・貴州省/VCG/Getty Im...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242419.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/07/0faa41a867c3104c962a30c6039f2516/t/768/432/d/large-08-pbeahumxndt-rtrmadp-3-china.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242411.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-07T12:22:00+09:00</dc:date>
+        <title>ベネズエラ暫定大統領、7日間の服喪を宣言　米軍の攻撃により死者</title>
+        <link>https://www.cnn.co.jp/world/35242411.html?ref=rss</link>
+        <description>南米ベネズエラのロドリゲス暫定大統領は6日、首都カラカスで起きた米国の攻撃による犠牲者を悼み、7日間の服喪を宣言した。
+
+ロドリゲス氏は1月6日、国営テレビVTVに対し、「私は、ベネズエラを守り、ニコラス・マドゥロ大統領を守るために命をささげた若い男女に敬意と栄誉、栄光をささげ、7日間の服喪を布告することを決定した」と述べた。
+
+ロドリゲス氏はまた、米ニューヨーク州ブルックリンのメトロポリタン拘置所に収容...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242411.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/07/8ba871d24f0e8c94b620e6cabdfcd50f/t/768/512/d/large-shutterstock-editorial-16229381a-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242404.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-07T11:36:00+09:00</dc:date>
+        <title>日常を取り戻そうとするベネズエラ　続く弾圧の恐怖、国会取材の記者拘束</title>
+        <link>https://www.cnn.co.jp/world/35242404.html?ref=rss</link>
+        <description>ニコラス・マドゥロ大統領が米国によって拘束されたベネズエラ。市民は表面上、普段の生活を取り戻そうとしているが、政府は大統領の排除に対する一切の支持表明を弾圧する姿勢を見せている。
+
+5日にはデルシー・ロドリゲス氏が暫定大統領に就任。全土に検問所が設置され、価格つり上げや飢えの深刻化が伝えられる中で、人権団体は弾圧のエスカレートに対する危機感を示した。
+
+同日出された布告では、大統領に広範な権限を与え...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242404.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/07/4f45e59ef6da9df1f872050b5ade873f/t/768/511/d/c-2026-01-04t153648z-688748249-rc2duiab2m98-rtrmadp-3-usa-venezuela.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242405.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-07T11:25:00+09:00</dc:date>
+        <title>ベネズエラが「最大5000万バレルの原油引き渡す」　トランプ氏発表、収益は米国が管理</title>
+        <link>https://www.cnn.co.jp/usa/35242405.html?ref=rss</link>
+        <description>トランプ米大統領は6日夜、ベネズエラが米国に対して、3000万〜5000万バレルの原油を引き渡すと明らかにした。原油は市場価格で販売され、その収益は米国が管理するという。
+
+トランプ氏はSNS「トゥルース・ソーシャル」への投稿で、「ベネズエラの暫定当局が、高品質で制裁対象の原油3000万〜5000万バレルを米国に引き渡すことを発表でき、うれしく思う」と述べた。
+
+トランプ氏は「この原油は市場価格で販売され、その資金は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242405.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/07/a07e17e32981af73aab47843782df752/t/768/511/d/large-gettyimages-2162226812-20260107002537070.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242378.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-07T10:58:00+09:00</dc:date>
+        <title>1月6日の議事堂襲撃から5年、ホワイトハウスが内容書き換え　事態激化は警察の責任と主張</title>
+        <link>https://www.cnn.co.jp/usa/35242378.html?ref=rss</link>
+        <description>米ホワイトハウスは6日、2021年1月6日の歴史的記録を全面的に書き換えた新しいウェブサイトを公開した。5年前に連邦議会議事堂を襲撃したトランプ支持派の暴徒を、法執行機関に挑発された「平和的な抗議者」と称している。
+
+この新しいウェブサイトは21年1月6日の暴動について、法執行機関と当時のペロシ下院議長によって扇動されたものだと根拠なく主張している。暴徒をその日の犠牲者に書き換え、トランプ大統領を英雄として...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242378.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/07/feba6f00bd1ac756c34c8b384664ce18/t/768/512/d/gettyimages-1230734366.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
