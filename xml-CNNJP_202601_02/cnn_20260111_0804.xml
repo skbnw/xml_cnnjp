@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-01-11T16:41:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242583.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242584.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35242582.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242581.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242580.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242579.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242578.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35242577.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242575.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242576.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35242574.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35242573.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242572.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242571.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35242556.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242569.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242563.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242564.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35242568.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242565.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242560.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242561.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242559.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242557.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242558.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242555.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/design/35242554.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35242541.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35242549.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242547.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242583.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T16:41:00+09:00</dc:date>
+        <title>「驚くべき」鉄器時代の戦場用のラッパ、完全に近い形で出土　英</title>
+        <link>https://www.cnn.co.jp/fringe/35242583.html?ref=rss</link>
+        <description>約2000年前の鉄器時代にさかのぼる、ほぼ完全な戦場用のラッパが英イングランドで出土した。
+
+発見した考古学者によると、「カルニクス」と呼ばれるラッパは英東部ノーフォーク州で見つかった鉄器時代の遺物群の一部で、「国際的に重要」な発見だという。私有地で定期調査が行われた際に見つかった。
+
+調査を行ったのは、プレ・コンストラクト・アーケオロジー（PCA）の専門家チーム。2025年夏、建設計画に伴う標準的な事前調査...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242583.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/08/effd1ba88fb52612a7824392e79b08ab/t/768/511/d/img-0008-20260107095538926.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242584.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T15:57:00+09:00</dc:date>
+        <title>「ガのように海を泳いだ」新種の古生物、その名も「モスラ」</title>
+        <link>https://www.cnn.co.jp/fringe/35242584.html?ref=rss</link>
+        <description>5億年以上前の海に生息した節足動物の仲間、「モスラ・フェントニ」。その化石60点あまりを研究した論文が発表された。新たに名付けられたこの古生物は三つの目を持ち、ガが飛ぶような姿で泳いでいたことから「シー・モス（海のガ）」とも呼ばれる。
+
+英国王立協会のオープンアクセス誌に昨年発表された論文によると、モスラ・フェントニは節足動物の系統から初期に枝分かれした「ラディオドンタ類」に属する。
+
+ラディオドンタ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242584.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/20/57a54f1aac2da06cbc30aef0d4eec328/t/768/432/d/romip-67993.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35242582.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T15:36:00+09:00</dc:date>
+        <title>遺体が横たわるエベレスト、それでも登頂を目指す理由とは</title>
+        <link>https://www.cnn.co.jp/travel/35242582.html?ref=rss</link>
+        <description>ぶ厚い雲が空を埋め尽くし、風速44メートル以上の凍てつく風が雪を運ぶ。零下34度という極寒の中、生命を脅かす吹雪や雪崩が頻発する。
+
+これが世界最高峰を誇るエベレストの典型的な気象条件だ。
+
+ヒマラヤ山脈にあり、ネパールとチベットにまたがるこの巨大な山は、標高8849メートルで、その頂上は空に浮かぶほとんどの雲より高い。
+
+エベレスト登頂を試みるには、数カ月、時には数年にわたるトレーニングと体調管理が必要だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35242582.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/05/03/9643a1dcd2712cfccdca890e3709e21b/t/768/512/d/moutaineers-climbing-the-Hillary-Step.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242581.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T14:51:00+09:00</dc:date>
+        <title>イランで続く反政府活動　デモ参加者の死者は78人に、ネット遮断続く　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35242581.html?ref=rss</link>
+        <description>イラン各地で政府に対する抗議デモが広がっている。米国を拠点とする人権団体によると、デモが始まってからの約2週間で、少なくとも78人のデモ参加者が死亡した。深刻な経済状況が引き金となった抗議行動は全国180以上の都市に広がっている。
+
+イランの人権活動家が設立した通信社HRANAによれば、デモをめぐり2600人が拘束された。
+
+当局が実施しているインターネットの遮断は続いているが、首都テヘランに住む住民はCNNに、抗...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242581.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/11/39d708f6d6b0a9531942e3cb53f3c56a/t/768/511/d/large-gettyimages-2254973124.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242580.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T14:44:00+09:00</dc:date>
+        <title>イランデモ、イスラム体制を支持してきた商店主が火付け役に　これが重要な理由</title>
+        <link>https://www.cnn.co.jp/world/35242580.html?ref=rss</link>
+        <description>イランでは体制に異議を唱える反政府デモが100を超える都市に広がりつつある。その発端となったのがイランの歴史上の強力な変化の担い手であり、かつ現在の体制に忠実と見なされてきた商人層「バザーリ」だった点は、特筆すべきだ。
+
+きっかけは、中央銀行が一部の輸入業者に市場より安く米ドルを提供していた制度の打ち切りを決めたことだ。これを受けて商店主らは価格を引き上げたほか、一部は店を閉める対応を取り、抗議デモ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242580.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/11/b83e18e69f9fd01f167fd5a292780a32/t/768/576/d/gettyimages-2254670273-20260110075325147.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242579.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T14:23:00+09:00</dc:date>
+        <title>トランプ氏、グリーンランド領有へ「強硬手段」も　穏当な取引できなければ</title>
+        <link>https://www.cnn.co.jp/usa/35242579.html?ref=rss</link>
+        <description>トランプ米大統領は9日、デンマーク自治領グリーンランドの領有をめぐる発言をさらに強め、米国が行動しなければ、ロシアや中国が将来、グリーンランドを占拠しかねないと主張した。
+
+トランプ氏は、グリーンランドを領有するための取引を「穏当な方法」でまとめられない場合、「強硬手段」で実行せざるを得ないと語った。
+
+トランプ氏はホワイトハウスで記者団に対し、「グリーンランドが望むと望まざるとにかかわらず、我々は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242579.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/11/ca493892404a5365a71171cc474d8c5e/t/768/432/d/donald-trump.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242578.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T13:30:00+09:00</dc:date>
+        <title>全米で抗議デモ、ICE職員による女性射殺めぐり　「ICEを追い出せ」</title>
+        <link>https://www.cnn.co.jp/usa/35242578.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスで不法移民の摘発にあたっていた移民税関捜査局（ICE）の職員が発砲してレネ・グッドさんが死亡した事件をめぐり、ICEに対する抗議デモが各地で行われた。デモを呼び掛けている権利擁護団体の全国連合組織によれば、全米で1000以上のデモが行われる見通し。
+
+ロサンゼルス中心部では10日、抗議デモの群衆が通りを行進し、「ICEを永遠に追い出せ」と書かれたプラカードを掲げ、「トランプ（大統領）は今...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242578.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/11/ac54f0e663a378330af1b21f24e5f976/t/768/512/d/large-gettyimages-2255038547.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35242577.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T12:58:00+09:00</dc:date>
+        <title>写真特集：全米で抗議デモ、移民当局による女性射殺めぐり</title>
+        <link>https://www.cnn.co.jp/photo/35242577.html?ref=rss</link>
+        <description>米ミネアポリスで移民税関捜査局（ICE）の職員によってレネ・グッドさん（37）が撃たれて死亡した事件をめぐり、全米で抗議デモが行われた&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35242577.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/11/ac54f0e663a378330af1b21f24e5f976/t/768/512/d/large-gettyimages-2255038547.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242575.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T12:39:00+09:00</dc:date>
+        <title>歯科医の男性と妻が自宅で殺害される、元夫を逮捕、10日間の追跡劇に幕　米オハイオ州</title>
+        <link>https://www.cnn.co.jp/usa/35242575.html?ref=rss</link>
+        <description>米オハイオ州の自宅で歯科医の男性とその妻が殺害された事件をめぐり、容疑者が逮捕された。容疑者を追う捜索は10日以上続き、地域社会を揺るがすとともに全米の注目を集めていた。
+
+警察によると、スペンサー・テペさん（37）とモニーク・テペさん（39）は昨年12月30日、コロンバス市内の高級住宅で、銃で撃たれたとみられる状態で死亡しているのが見つかった。住宅内には4歳と1歳の子ども2人がいたが、いずれもけがはなかった...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242575.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/11/baabf5460313d2c469dc54ff02eb87b8/t/768/511/d/large-usatsi-27910942-20260110191417646.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242576.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T12:36:00+09:00</dc:date>
+        <title>イランデモ、米国は「支援する用意」　トランプ氏が連帯のメッセージ</title>
+        <link>https://www.cnn.co.jp/usa/35242576.html?ref=rss</link>
+        <description>トランプ米大統領は10日、イランの反体制デモに立ち上がった人々への連帯のメッセージを投稿し、米国はイラン国民を支援する用意があると表明した。どのような形の支援があり得るのかは明言しなかった。
+
+トランプ氏はSNSトゥルース・ソーシャルに「イランは恐らくかつてないほど、自由に目を向けている。米国は支援する用意がある」と投稿した。
+
+トランプ氏に近い共和党のグラム上院議員もこの日、イラン国民に大統領の関心を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242576.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/11/37e14e43bc4f164f5b2c7e6c711dedda/t/768/512/d/ap26006557000906-20260110222003055.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35242574.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T11:49:00+09:00</dc:date>
+        <title>米ロックバンド「グレイトフルデッド」の創設メンバー、ボブ・ウィアーさん死去　78歳</title>
+        <link>https://www.cnn.co.jp/showbiz/35242574.html?ref=rss</link>
+        <description>代表的な米国のロックバンド「グレイトフル・デッド」の創設メンバーで、精力的な活動ぶりから60年間一度も休まずにツアーを続けているように見えたボブ・ウィアーさんが死去したことが分かった。公式サイトに声明が掲載された。
+
+声明によると、ギタリストでボーカリスト、ストーリーテラーでもあったウィアーさんは昨年7月にがんと診断され、「勇敢な」闘病生活を送っていた。肺の基礎疾患に倒れ、愛する人に囲まれながら「安...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35242574.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/11/0fc8ae12ef88bca4ec7ecd2c6ca0f5b0/t/768/515/d/gettyimages-1490512648.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35242573.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T11:04:00+09:00</dc:date>
+        <title>「あまりに下手」なテニス選手、主催者もプレーさせるべきではなかったと認める　ケニア大会</title>
+        <link>https://www.cnn.co.jp/showbiz/35242573.html?ref=rss</link>
+        <description>誰にも注目されずに終わってもおかしくない試合だった。だが、実際には瞬く間にネット上で話題となった。
+
+国際テニス連盟（ITF）の女子の下部大会「W35」の1回戦がケニア首都ナイロビで、クレーコートを舞台に行われた。通常であればテニス界で大きな話題になることはない大会だが、37分間にわたって繰り広げられた過酷な闘いを数百万人が目撃した。
+
+試合結果は特筆すべきものではなく、ドイツのロレーナ・シェーデルが6―0、6...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35242573.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/11/8bf12b014b0716b054da6e9cea1c32f8/t/768/514/d/gettyimages-666382012.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242572.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T10:13:00+09:00</dc:date>
+        <title>米中央軍、シリア国内の目標を攻撃　対ISIS報復作戦の一環</title>
+        <link>https://www.cnn.co.jp/usa/35242572.html?ref=rss</link>
+        <description>米国は10日、現在進めている報復作戦「オペレーション・ホークアイ・ストライク」の一環で、シリア国内の過激派組織イラク・シリア・イスラム国（ISIS）の目標に対して大規模攻撃を実施した。
+
+米中央軍はX（旧ツイッター）に投稿された声明で「本日の米東部時間午後0時半ごろ、中央軍はパートナーの部隊と共に、シリア各地に散らばった複数のISISの攻撃目標に対して大規模攻撃を実施した」と述べた。
+
+オペレーション・ホーク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242572.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/11/431fc8c5fdd56feb947a6d37e3f3eeac/t/768/432/d/screenshot-2026-01-10-at-4-53-24-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242571.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-11T09:11:00+09:00</dc:date>
+        <title>イラン各地で抗議デモ、病院には「遺体が山積み」　インターネット遮断は逆効果に</title>
+        <link>https://www.cnn.co.jp/world/35242571.html?ref=rss</link>
+        <description>イランで行われている抗議活動に参加した複数の人々が、首都テヘランの路上に多くの群衆が集まり、残忍な暴力が振るわれたと証言した。ある女性は、病院で「遺体が積み重なっている」のを見たと話した。
+
+身の安全を理由に匿名で証言した60代半ばの女性と70歳の男性は、8日と9日にテヘランで行われたデモには、あらゆる年齢層の人々が参加したと語った。だが、9日夜には、軍用ライフルを持った治安部隊が「多くの人」を殺害した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242571.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/11/c80f2542a1f091bb44047326852eff2d/t/768/576/d/large-iran-protests.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35242556.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-10T18:50:00+09:00</dc:date>
+        <title>フライドポテトにカレー、英国式「中華料理」に米国人から異論　SNSをにぎわす論争に</title>
+        <link>https://www.cnn.co.jp/travel/35242556.html?ref=rss</link>
+        <description>SNSで英国人が紹介したテイクアウトの中華料理に対して、米国人が自分たちの慣れ親しんだ中華料理とは違うと声を上げ、米英間の熱い論争に発展している。
+
+米国内の中華テイクアウトでは、鳥肉を揚げて甘辛いたれを絡めた「ゼネラル・ツォズ・チキン」や、五目焼きそばの「チャウメン」、春巻に似た「エッグロール」などが定番メニューだ。
+
+英国でも中華のテイクアウトは人気だが、その内容はあまり外に知られていない。米国式...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35242556.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/09/9b542bc50157d71966aef965a02de04e/t/768/432/d/cnn-travel-uk-chinese-take-away-food-group-opener.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242569.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-10T18:35:00+09:00</dc:date>
+        <title>イランのパーレビ元皇太子、2日間の全国スト呼びかけ　最後の国王の息子</title>
+        <link>https://www.cnn.co.jp/world/35242569.html?ref=rss</link>
+        <description>イランで10日以上にわたって反政府デモが続く中、1979年のイスラム革命で失脚したイラン最後の国王の息子、レザ・パーレビ元皇太子が2日間の全国ストライキを呼びかけた。
+
+亡命中の反体制派指導者であるパーレビ氏はX（旧ツイッター）に、デモ隊に語りかけたものとみられる動画を投稿。「経済の主要部門、特に運輸や石油・ガス、エネルギー部門の労働者と従業員は（土曜日から）全国ストライキを開始する」よう呼び掛けた。イ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242569.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/10/9fef7cbd8db9a482bb8231a99b81110c/t/768/511/d/2025-06-23t144621z-2105200028-rc2e8falqhjj-rtrmadp-3-iran-nuclear-reza-pahlavi.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242563.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-10T18:11:00+09:00</dc:date>
+        <title>女性射殺の米ICE捜査官、6月の捜査時に車で引きずられ負傷していた　発砲事件への影響指摘する声も</title>
+        <link>https://www.cnn.co.jp/usa/35242563.html?ref=rss</link>
+        <description>今週、米ミネアポリスで移民税関捜査局（ICE）の捜査官が車の中にいた37歳の女性を射殺した事件については、その経緯に関する疑問がますます深まっている。そうした中、この捜査官が以前に味わった経験が、本人の対応や受けてきた訓練と同様に議論の的となるかもしれない。捜査官にとってその経験は、トラウマ（心的外傷）となりかねないものだった可能性がある。
+
+今回の事件で被害者となったレネ・グッドさんを射殺する数カ月...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242563.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/10/bc924c59a20deaa9df7e5d55c63c67dc/t/768/698/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWs3aXhmNHAwMDAxM2I2cGkzOHpvc2dn-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntazdpbm5sZDAwMHkyN25rZGRqbDJuZmk_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242564.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-10T17:45:00+09:00</dc:date>
+        <title>米ICEによる女性射殺、携帯電話の映像浮上で捜査官の対応に新たな疑問</title>
+        <link>https://www.cnn.co.jp/usa/35242564.html?ref=rss</link>
+        <description>7日に米ミネアポリスの道路でレネ・グッドさんの車両に近づいた時、移民税関捜査局（ICE）のジョナサン・ロス捜査官は携帯電話のカメラを掲げ、映像を撮影していた。
+
+それから1分も経たないうちに、ロス捜査官は撮影を続けたまま銃を抜き、車を加速させたグッドさんを射殺した。
+
+この異例の映像や、居合わせた人が撮影した動画、CNNが作成した3Dモデルからは、グッドさんとパートナーがICEの捜査官に抗議していたことがうかが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242564.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/10/df5e00e5fee9642fb6b8415a508818e3/t/768/432/d/116288-rossmnangle-thumb-cln.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35242568.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-10T17:19:00+09:00</dc:date>
+        <title>旧ソ連の幻の「空飛ぶ怪物」、垂直離陸水陸両用機VVA114</title>
+        <link>https://www.cnn.co.jp/travel/35242568.html?ref=rss</link>
+        <description>旧ソ連の異色の航空機「バルティーニ・ベリエフVVA114」。近年ではモスクワ近郊の野原に朽ちた状態で1機が残るのみだが、かつては米国の潜水艦攻撃への対抗手段としてソ連が望みを託した機体だった。
+
+VVA114のVVAは「垂直離陸水陸両用機」の略で、14はエンジンの数を意味する。滑走路なしであらゆる場所から離陸し、水面すれすれの高度を飛び続けることができるように設計された。
+
+同機は1960年代、ポラリス弾道ミサイルに対...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35242568.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2021/02/12/26902ec490ff48578f5fa8dbad2885ad/35166443_002.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242565.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-10T16:34:00+09:00</dc:date>
+        <title>「大絶滅」で生命の9割が死滅、その後500万年にわたって猛暑　新たな化石がその理由を解明</title>
+        <link>https://www.cnn.co.jp/fringe/35242565.html?ref=rss</link>
+        <description>約2億5200万年前、地球上の生命はそれまでで最も壊滅的な打撃を受けた。「大絶滅」として知られる大量絶滅により生命の約90％が死滅した。
+
+その後の出来事は長い間、科学者を困惑させてきた。地球は致命的な高温となり、その状態が500万年も続いたのだ。
+
+国際的な研究チームが膨大な数の化石を使ってその理由を解明したと明らかにした。そのすべてが熱帯林に関係しているという。
+
+ネイチャー・コミュニケーションズ誌で発表...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242565.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/03/70fa0b01a5783ecb361f7ea5ea62a79a/t/768/431/d/large-001-post-extinction-lycopods.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242560.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-10T13:30:00+09:00</dc:date>
+        <title>ロシアがウクライナに発射、弾道ミサイル「オレシュニク」とは</title>
+        <link>https://www.cnn.co.jp/world/35242560.html?ref=rss</link>
+        <description>ロシアは8日夜から9日にかけ、ウクライナに向けてミサイル「オレシュニク」を発射した。2022年に本格的な戦争が勃発して以来、このミサイルが発射されるのは2度目。ウクライナとその支援国はこの攻撃について、西側諸国への警告を意図したものだと述べている。
+
+ロシア国防当局は今回のオレシュニクの着弾地点を明らかにしていないが、ウクライナ当局は9日、西部の都市リビウで複数の爆発と弾道ミサイルによる攻撃があったと報...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242560.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/10/53d9348cff73f9ec18080f88fbf47243/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWs2ejZjc3owMDAxM2I2cHloc2Z6cWt4-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtazZ5aHFnajAwNWcyN3FoYmNmNGJhOHc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242561.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-10T12:11:00+09:00</dc:date>
+        <title>反ICEデモ、今週末に全米で1000件以上を予定　連合組織が発表</title>
+        <link>https://www.cnn.co.jp/usa/35242561.html?ref=rss</link>
+        <description>全米各地で今週末、移民税関捜査局（ICE）に地域社会からの撤退を求めるデモが1000件以上予定されている。デモの動員に当たる権利擁護団体の全国連合組織が明らかにした。
+
+連合組織によると、10日と11日に「ICE Out For Good（ICEを永遠に追い出せ）」と銘打ったイベントが各地で連動して実施される。「地域社会におけるICEの暴力のエスカレート」や、ICEによる女性射殺、「全米の疎外されたコミュニティーで続く歯止めの効か...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242561.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/10/3e84d6841f9dcae0c8c997f8ac1e8344/t/768/512/d/gettyimages-2254809853.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242559.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-10T10:51:00+09:00</dc:date>
+        <title>米軍、カリブ海で新たな石油タンカーを拿捕　空母ジェラルド・フォードから展開</title>
+        <link>https://www.cnn.co.jp/usa/35242559.html?ref=rss</link>
+        <description>米南方軍は9日、カリブ海で新たに石油タンカーを拿捕（だほ）したと発表した。
+
+南方軍はSNSへの投稿で、米軍の部隊が国土安全保障省と連携して「空母ジェラルド・フォードから展開し、カリブ海でモーター／タンカーのオリナを難なく拿捕した」と述べた。
+
+船舶追跡サイト「マリントラフィック」によると、タンカーは東ティモールの国旗を掲げてベネズエラ近海を航行していた。
+
+今回の拿捕に先立ち、米国は今週、ベネズエラと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242559.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/10/c69b9822eb7d471333c2b40cb7ccfb75/t/768/432/d/screenshot-2026-01-09-at-9-26-44-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242557.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-10T10:30:00+09:00</dc:date>
+        <title>トランプ米大統領と石油会社幹部が会談、内容について分かっていること</title>
+        <link>https://www.cnn.co.jp/usa/35242557.html?ref=rss</link>
+        <description>大手石油会社の幹部らは9日、トランプ米大統領および政権関係者との会談に出席し、ベネズエラに対する計画については依然として検討中であることを明らかにした。
+
+エクソンモービル、シェブロン、コノコフィリップスといった大手石油会社のトップは、不安定な現地での探査や操業に着手する前に、安全保障上の保証が必要だと述べた。
+
+以下、知っておくべき重要な点をまとめた。
+
+・トランプ氏の構想：トランプ氏はベネズエラへ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242557.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/10/b7fb656c29b359f81e04b0993b6ec986/t/768/512/d/gettyimages-2255449578.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242558.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-10T09:47:00+09:00</dc:date>
+        <title>米ICEによる女性射殺、捜査官の携帯電話が捉えた対峙の映像浮上</title>
+        <link>https://www.cnn.co.jp/usa/35242558.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスで移民税関捜査局（ICE）の捜査官が女性を射殺した問題で、捜査官の携帯電話で決定的瞬間を至近距離から捉えた生々しい動画が浮上した。
+
+CNNが入手したこの動画について、国土安全保障省（DHS）の当局者は、捜査官の携帯電話のカメラで撮影されたものだと確認した。この動画は最初、ミネソタ州の保守系メディア「アルファ・ニュース」が入手した。
+
+バンス副大統領は映像をリポストし、捜査官が危険に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242558.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/10/5c985652f33952d429751529d1fed55a/t/768/432/d/116288-rossmnangle-thumb-cln.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242555.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-09T20:35:00+09:00</dc:date>
+        <title>トランプ米大統領、ベネズエラへの第2波攻撃を中止　協力を理由に</title>
+        <link>https://www.cnn.co.jp/usa/35242555.html?ref=rss</link>
+        <description>トランプ米大統領は、ベネズエラの米国への協力を理由に、「当初見込まれていた」同国への第2波攻撃を中止したと述べた。
+
+この発表は9日未明、自身のSNSトゥルース・ソーシャルへの投稿で行われた。トランプ氏はベネズエラ暫定政府の行動を称賛した。
+
+「ベネズエラは『平和の探求』の証しとして、多数の政治犯を釈放している」と、トランプ氏は記した。「これは非常に重要で賢明な行動だ」
+
+トランプ氏はさらに、両国は「特に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242555.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/09/4bd6bd123da0934c4396b7deb09fccc2/t/768/512/d/gettyimages-2253855841-20260109101353075.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/design/35242554.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-09T19:30:00+09:00</dc:date>
+        <title>たまごっち登場から30年、今なお人々が遊ぶ理由</title>
+        <link>https://www.cnn.co.jp/style/design/35242554.html?ref=rss</link>
+        <description>「結婚してくれますか？」。ウィリアム・マネジャさんは、白いドレスを着た見知らぬ人物と視線を合わせながら尋ねた。
+
+60分足らずで4度目のプロポーズだった。
+
+指輪の代わりに、2人は携帯型育成ゲーム「たまごっち」を取り出し、自分たちのバーチャルペットによるピクセルアートの結婚式を開いた。
+
+29歳のマネジャさんとそのパートナーをはじめとする、たまごっちの愛好家200人が、昨年8月にカナダ・トロントのセシル・コミ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/design/35242554.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/09/fbe5297514ee00683d25d7e1695b289e/t/768/432/d/20251215-style-tamagotchi-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35242541.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-09T17:20:00+09:00</dc:date>
+        <title>グウィネス・パルトロー、離婚発表後に映画の役失った過去明かす</title>
+        <link>https://www.cnn.co.jp/showbiz/35242541.html?ref=rss</link>
+        <description> 米女優のグウィネス・パルトローが、英バンドのコールドプレイのフロントマン、クリス・マーティンとの離婚をめぐるメディアの注目を受けて、映画から降板させられていたことを明かした。
+
+パルトローは現在、映画「マーティ・シュプリーム　世界をつかめ」のプロモーション中。本作ではティモシー・シャラメ演じる主人公と不倫関係にある、全盛期を過ぎた映画スターを演じる。
+
+6日に公開されたエイミー・ポーラーのポッドキ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35242541.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/09/2ffcd6f90a768e1ae8b473ebce029de1/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWs1YzVpcnUwMDA4MzU2cGZscWRlNWZx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtazVjM3ZjNzAwMXIyNnFhODhlNjNncXM_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35242549.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-09T16:45:00+09:00</dc:date>
+        <title>マスク氏の生成AI「Grok」、「デジタルで服を脱がせ」炎上　各国当局が調査開始</title>
+        <link>https://www.cnn.co.jp/tech/35242549.html?ref=rss</link>
+        <description>イーロン・マスク氏が所有するX（旧ツイッター）に搭載された生成AI（人工知能）「Grok（グロック）」を使った性的画像があふれかえっている。画像の対象は主に女性で、その多くは実在の人物だ。ユーザーはグロックに対して「デジタル加工で服を脱がせる」よう求め、きわどいポーズを取らせているものさえある。
+
+先週明らかになった複数の事例では、未成年者のように見える画像も含まれており、児童ポルノだとの声が多数上がっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35242549.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/09/63b542e489ea69ee3ce71cf897ba761f/t/768/511/d/gettyimages-2246892016.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242547.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-09T15:21:00+09:00</dc:date>
+        <title>ロシア、極超音速ミサイルを発射　ウクライナ首都で4人死亡</title>
+        <link>https://www.cnn.co.jp/world/35242547.html?ref=rss</link>
+        <description>ロシアは8日夜、ウクライナに多数のミサイルを発射し、首都キーウで少なくとも4人が死亡した。同国西部のインフラ施設には弾道ミサイルが直撃した。ウクライナ当局が明らかにした。
+
+今回の攻撃の数時間前には、ロシアが将来の和平合意の一環としてウクライナに展開される欧州部隊は「正当な軍事目標」になると改めて警告していた。また7日には米国がロシア船籍の石油タンカーを拿捕（だほ）していた。
+
+当局によれば、西部リビ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242547.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/09/be1d458fb4222c2c9f72edfdd39425d0/t/768/522/d/2026-01-09t001756z-582250592-rc2axiack2zx-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
