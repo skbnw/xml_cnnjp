@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-01-15T18:55:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242761.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242771.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35242774.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35242770.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242768.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35242762.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242760.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242759.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242754.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242753.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35242749.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242748.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242747.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242734.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242742.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242739.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242740.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242732.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242733.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242722.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242721.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242714.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242702.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242713.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35242710.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35242704.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242699.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242686.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242685.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242689.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35242761.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T18:55:00+09:00</dc:date>
+        <title>【分析】新たなイラン攻撃で米軍が使用し得る兵器とは</title>
+        <link>https://www.cnn.co.jp/world/35242761.html?ref=rss</link>
+        <description>トランプ米政権は昨年実施したイランの核施設爆撃を、史上最も偉大な軍事的成功の一つと喧伝（けんでん）した。
+
+この時は米空軍のB2爆撃機が世界最大級の爆弾14発を投下し、イランの核施設2カ所を攻撃。米軍側の犠牲は皆無で、航空機を失うこともなかった。攻撃に際し、数十機の戦闘機と空中給油機、支援用の航空機が任務の遂行を助けた。
+
+現在、トランプ大統領はイランを再度攻撃すると脅迫している。今回は数十万人のイラン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242761.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/df66ec2984dfd3bbdf1a601432dc7d58/t/768/432/d/ap18109645166463.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242771.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T18:50:00+09:00</dc:date>
+        <title>連邦捜査官が襲撃してきたとされる男性に発砲、抗議デモ起こる　米ミネアポリス</title>
+        <link>https://www.cnn.co.jp/usa/35242771.html?ref=rss</link>
+        <description>米ミネアポリスで14日、連邦捜査官が男性に発砲し負傷させる事案が発生した。男性は捜査官を襲撃したとされているが、現場近くでは捜査官の発砲に抗議するデモ隊が集結して法執行機関と対峙（たいじ）。市当局が平静を呼びかける事態となった。
+
+ミネアポリスでは1週間前、移民税関捜査局（ICE）の捜査官が女性を射殺する事件が起きたばかり。
+
+国土安全保障省（DHS）によると14日、連邦捜査官が「標的を絞った交通停止」を実施...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242771.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/142d04a7a16c89ca341ea37c73ef01bf/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtlc2Y4bmEwMDB6MjdvdzJ1czMxa2xw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2VzZjhuYTAwMTAyN293Y2VqZzRzNjg_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35242774.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T17:47:00+09:00</dc:date>
+        <title>【分析】年明けの混沌で金と銀の価格が高騰</title>
+        <link>https://www.cnn.co.jp/business/35242774.html?ref=rss</link>
+        <description>トランプ米大統領は南米ベネズエラの大統領を拘束したのに続き、イランに対して「強い行動」を取ると警告した。また、トランプ政権は連邦準備制度理事会（FRB）議長の刑事捜査に踏み切り、物価対策では銀行や機関投資家の重要な収益源を脅かす焦土作戦に出ている。
+
+2026年は混沌（こんとん）のスタートを切った。
+
+この状況では株式市場が急落してもおかしくないが、大半のニュースは受け流されてきた。株価は12日に最高値を更...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35242774.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/aa16ef9c6dffc67899d90c71484469a4/t/768/512/d/large-gettyimages-2212118870.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35242770.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T17:15:00+09:00</dc:date>
+        <title>激しい暴力に部分的なヌード、北朝鮮の映画にみられる大きな変化</title>
+        <link>https://www.cnn.co.jp/showbiz/35242770.html?ref=rss</link>
+        <description>北朝鮮でこのほど公開された映画は、観客がこれまでに目にしたことのないものを映し出していた。生々しい暴力描写や部分的なヌード、自爆ベストを使った爆破計画は、厳しい統制下にある北朝鮮の映画産業に大きな変化をもたらしている。
+
+北朝鮮の国家主義的なプロパガンダはここ最近、表現の様式を変えつつある。若い世代の関心を引きつけることを狙った大作映画が制作されているのだ。登場人物がポリ袋で窒息させられる場面も...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35242770.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/98eb0ce2ab66cded930719fa8e3d7392/t/768/432/d/nk-1-20260114145802671.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242768.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T16:42:00+09:00</dc:date>
+        <title>欧州諸国、グリーンランドでの演習に軍隊派遣へ　米国が併合の脅しを強める中</title>
+        <link>https://www.cnn.co.jp/world/35242768.html?ref=rss</link>
+        <description>トランプ米大統領が北極圏のデンマーク自治領グリーンランドを強制併合するとの脅しを強める中、複数の北大西洋条約機構（NATO）加盟国は14日、デンマークとの合同演習に参加するため、少数の軍要員をグリーンランドに派遣する方針を表明した。
+
+トランプ氏の発言はNATOで最大最強の加盟国が他の加盟国の領土を併合する可能性を示唆したもので、米国が主導する数十年来の安全保障同盟は危機に瀕している。
+
+グリーンランドの防...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242768.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/d4bb057fb6d9c0342e0ea50abeb4fe74/t/768/511/d/2026-01-14t204306z-1838046754-rc251jaae5qz-rtrmadp-3-usa-trump-greenland.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35242762.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T15:28:00+09:00</dc:date>
+        <title>米高級百貨店サックスが経営破綻　同業買収から1年</title>
+        <link>https://www.cnn.co.jp/business/35242762.html?ref=rss</link>
+        <description>米高級百貨店サックス・フィフス・アベニューの親会社サックス・グローバルが13日遅く、連邦破産法第11条（チャプター11）の適用を申請した。同社は2024年に同業のニーマン・マーカスを買収したことで多額の負債を抱えていた。
+
+サックスはニーマンとの合併以前から不安定な財務状況にあり、合併しても巨額の負債を克服するほどの効率化を実現できなかった。
+
+合併のタイミングも悪かった。近年、米国人の購買行動は大型百貨店...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35242762.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/5de82869d64f202bafd78b5964830a05/t/768/512/d/ap24344618673913.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242760.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T15:14:00+09:00</dc:date>
+        <title>銀河になりそこねた天体、「クラウドナイン」を発見か　暗黒物質のなぞ解明に手がかりも</title>
+        <link>https://www.cnn.co.jp/fringe/35242760.html?ref=rss</link>
+        <description>天文学者の国際チームがこのほど、「銀河になりそこねた」タイプの天体を見つけたとする研究結果を発表した。宇宙最大のなぞの一つ「暗黒物質（ダークマター）」に光を当てる発見となる可能性もある。
+
+米天文物理学専門誌「アストロフィジカルジャーナル・レターズ（ApJL）」に今月発表された研究によると、「クラウドナイン」と呼ばれるこの天体は暗黒物質の集まりで、初期の宇宙で起きた銀河形成の残骸と考えられる。
+
+暗黒...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242760.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/9526230f9e7d251189d92502989d78b5/t/768/471/d/stsci-01k7q4g9nw9tw4f0s95st16e5m.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242759.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T14:31:00+09:00</dc:date>
+        <title>米、ベネズエラ産原油の販売を正式に開始　初回の取引額は790億円</title>
+        <link>https://www.cnn.co.jp/usa/35242759.html?ref=rss</link>
+        <description>米国がベネズエラ産原油の初回の販売を完了した。政権当局者が明らかにした。取引額は5億ドル（約790億円）相当だという。
+
+同当局者によれば、今後数日から数週間のうちに追加の原油販売が行われる見通し。
+
+米国が今月ベネズエラで軍事作戦を実施して同国のマドゥロ大統領を拘束して以降、トランプ米大統領は、同国が持つ膨大な原油埋蔵量を活用する考えを明確にしてきた。
+
+トランプ氏は9日、石油業界がベネズエラの疲弊した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242759.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/009329d8d84882e252e3a9e094a52a2a/t/768/511/d/large-ap26008707074173.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242754.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T13:52:00+09:00</dc:date>
+        <title>寄生アメーバが引き起こす角膜炎、失明の恐れも　コンタクトレンズ利用者が感染防止のためにすべきこと</title>
+        <link>https://www.cnn.co.jp/fringe/35242754.html?ref=rss</link>
+        <description>米ラスベガス在住のテレサ・サンチェスさん（33）がメキシコで医療処置を受けたのは、4年ほど前のことだった。この間ずっと、右目に乾いた突き刺すような感覚があった。
+
+原因はコンタクトレンズが破れたためか、毎日交換するタイプから1カ月ごとに交換するタイプに切り替えて以来ずっと感じていた乾燥のため、あるいは闘病のためかもしれないと思っていたという。
+
+しかし、微生物が角膜に寄生して視力を永久に破壊し、頭全体...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242754.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/97181d4c8bfe26ec0b621926aafcd276/t/768/512/d/001-grace-acanthamoeba-2-crop.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242753.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T13:45:00+09:00</dc:date>
+        <title>「死んだ？」　孤独な若者に大人気のアプリが物語る中国の現状</title>
+        <link>https://www.cnn.co.jp/world/35242753.html?ref=rss</link>
+        <description>中国でここ数週間、不吉な名前のアプリが大ヒットしている。世界で2番目に多い14億の人口を誇る中国で、孤独感を深め、不満を募らせる若者らに支持されているようだ。
+
+その名も「死んだ？」というアプリは一人暮らしがターゲット。使い方は単純だ。毎日アプリにチェックインする必要があり、もし数日間チェックインがなければ自動的に緊急連絡先に通知が届く。
+
+中国国営メディアの環球時報によると、同アプリはここ数週間で人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242753.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/d3c1aea234b7ae32cdb1560407ff8601/t/768/510/d/gettyimages-1231104522.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35242749.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T12:14:00+09:00</dc:date>
+        <title>FBI、米紙記者の自宅を捜索・機器押収　トランプ政権の報道機関への措置「急速に激化」</title>
+        <link>https://www.cnn.co.jp/business/35242749.html?ref=rss</link>
+        <description>米連邦捜査局（FBI）が14日、米紙ワシントン・ポストのハナ・ナタンソン記者の自宅を捜索した。同紙によると、携帯電話1台、コンピューター2台、スマートウォッチ1台が押収されたという。
+
+ナタンソン氏は、この1年「連邦政府の密告者」として、トランプ大統領による政府改革の影響を受けた連邦職員数百人から情報を得ていた。
+
+記者宅の捜索は極めて異例。報道の自由を擁護する人々の間ではただちに警戒感が高まった。
+
+ワシン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35242749.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/1e580a340af509496b36b775dd56dcb5/t/768/512/d/gettyimages-2181215146.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242748.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T11:42:00+09:00</dc:date>
+        <title>米国人の51％、移民当局は都市をより危険にしていると認識　CNN世論調査</title>
+        <link>https://www.cnn.co.jp/usa/35242748.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスで、住民のレネ・グッドさんが米移民税関捜査局（ICE）の捜査官に撃たれて死亡した事件をめぐり、米国人の多くが不適切な力の行使だと受け止めていることがわかった。調査会社SSRSが実施したCNNの世論調査で明らかになった。
+
+約半数が今回の事件について、ICEの運営方法におけるより広範な問題の兆候だと捉えている。ICEの活動によって都市がより安全になったと答えた人の割合は3分の1未満だった。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242748.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/42bdf8c8d19a67cccdc2220ff240e322/t/768/512/d/large-c-gettyimages-2255442379.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242747.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T11:37:00+09:00</dc:date>
+        <title>イラン革命防衛隊の司令官が警告、「適切な時期」に米国へ報復　デモに関与と非難</title>
+        <link>https://www.cnn.co.jp/world/35242747.html?ref=rss</link>
+        <description>イランの精鋭「イスラム革命防衛隊（IRGC）」のパクプル司令官は15日までに、イラン国内で続く騒乱に米国とイスラエルが関与していると非難し、「適切な時期」に報復すると誓った。
+
+国営メディアによると、パクプル司令官は「間違いなく、トランプ（米大統領）とネタニヤフ（イスラエル首相）はイランの若者や国の守護者の殺害者だ。彼らの傭兵（ようへい）による犯罪行為が忘れられることは決してなく、適切な時期に報復を受...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242747.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/145b71d70ac6f5392928fb05bb8f1989/t/768/512/d/gettyimages-2147873607-20260114195236947.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242734.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T11:14:00+09:00</dc:date>
+        <title>クリントン夫妻への議会侮辱罪訴追、下院委員会が手続き開始へ　エプスタイン事件調査でヒラリー氏証言せず</title>
+        <link>https://www.cnn.co.jp/usa/35242734.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した富豪ジェフリー・エプスタイン氏を巡る調査に関連して、米国のヒラリー・クリントン元国務長官が連邦議会下院監視委員会での証言録取に応じなかったことを受け、クリントン夫妻を議会侮辱罪に問うための手続きが正式に開始される見通しとなった。
+
+共和党のジェームズ・コマー監視委員会委員長は14日、委員会は1週間以内に会合を開き、ヒラリー氏並びにビル・クリントン元大統領に対する議会侮...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242734.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/3aa429eb28f4f42f48857953aa579130/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtlOTBob3kwMDFmM2I2cGo0Mnp6cW8z-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2U2Ym5qYjAwMXgyNnAxNGR4YzZoamI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242742.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T10:55:00+09:00</dc:date>
+        <title>米、75カ国を対象に移民ビザ発給手続きを停止</title>
+        <link>https://www.cnn.co.jp/usa/35242742.html?ref=rss</link>
+        <description>米国は、75カ国を対象に移民ビザ（査証）の発給手続きを無期限に停止する。トランプ政権による移民取り締まりをさらに拡大した形だ。
+
+発給停止は、ブラジル、コロンビア、エジプト、ハイチ、ソマリア、ロシアなどの国々を対象とし、就労や米国在住の家族と合流するための移民ビザに適用される。留学や観光を目的とした非移民ビザには適用されないため、今年の夏に米国で開催されるサッカーW杯のために渡航を希望する人には適用...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242742.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/0cea6aaa722f640e2946e02a33be2d6f/t/768/512/d/c-2026-01-13t220557z-1687805488-rc290jaw16vb-rtrmadp-3-usa-trump-20260114000456140-20260114000528569-20260114000553574.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242739.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T10:28:00+09:00</dc:date>
+        <title>馬は嗅覚で人間の恐怖を察知、怖がっている人間に警戒強める　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35242739.html?ref=rss</link>
+        <description>馬は人が恐怖を感じているかどうかをにおいで察知し、怖がっている人に対しては驚きやすくなり警戒心を強める――。そんな研究結果が新たに発表された。
+
+研究チームは、人のわきの下から臭気化合物のサンプルを採取し、その後、標準化された試験中に馬が異なるにおいにさらされた際の行動を観察した。研究結果は14日に米科学誌プロスワンに掲載された。
+
+フランス馬・馬術研究所（IFCE）の研究者で、今回の論文の筆頭著者のプロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242739.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/1782d33e1b1e52135fa01e49b5993fc2/t/768/432/d/horses-smell-fear.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242740.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T10:12:00+09:00</dc:date>
+        <title>油井さんら4宇宙飛行士、予定より早く宇宙ステーション離脱　残るは3人のみ</title>
+        <link>https://www.cnn.co.jp/fringe/35242740.html?ref=rss</link>
+        <description>宇宙航空研究開発機構（JAXA）の油井亀美也さんなど4人の宇宙飛行士が14日、予定よりも早く国際宇宙ステーションを離れ、地球に向けて出発した。米航空宇宙局（NASA）が乗員の健康上の懸念を理由に、初めて予定を前倒しして帰還させる異例の措置を講じた。
+
+これで宇宙ステーションに残る宇宙飛行士は、ロシア宇宙機関のセルゲイ・クドスベルチコフさんとセルゲイ・ミカエフさん、NASAのクリス・ウィリアムズさんの3人だけにな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242740.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/c5d2716e74580104c1120269a10ffe03/t/768/432/d/still-22276945-3053735-966-still-20260114222522251-20260114222522253.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242732.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T09:42:00+09:00</dc:date>
+        <title>中東最大の米軍基地、一部人員に退避勧告　イラン周辺国で軍事攻撃の不安拡大</title>
+        <link>https://www.cnn.co.jp/world/35242732.html?ref=rss</link>
+        <description>米国のトランプ政権がイランに対する軍事行動を検討する中、米当局者は14日、中東最大の米軍基地であるカタールのウデイド空軍基地に所属する一部人員に対し、退避を指示したことを明らかにした。
+
+当局者は今回の退避勧告ついて、現在の緊張状態を考慮した「予防的措置」と位置付けている。
+
+在サウジアラビア米大使館も職員らに対して警戒を強めるよう勧告し、同地の軍事施設に対する不要不急の訪問を制限するよう求めた。市...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242732.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/ce4b5f41311a9f1dec398a51f27775c2/t/768/510/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtlNzh5cjYwMDAyM2I2cDZldWNjOTI2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2U2cDB6dzAwM3UyN3AyZG4wZWZraTA_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242733.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T09:35:00+09:00</dc:date>
+        <title>高架建設用クレーンが列車上に倒壊、32人死亡　タイ</title>
+        <link>https://www.cnn.co.jp/world/35242733.html?ref=rss</link>
+        <description>タイで14日、高架の建設に使われていたクレーンが走行中の列車の上に倒壊し、少なくとも32人が死亡、66人が負傷した。
+
+事故に遭った列車に乗車していた職員がCNNに語ったところによると、列車は首都バンコクを出発して東部ウボンラーチャターニー県に向かっていた。現地時間午前9時10分ごろにクレーンが倒れてきたという。クレーンは高速鉄道プロジェクトで使用されていた。
+
+
+
+
+
+
+
+（Reuters）
+
+
+
+事故現場をとらえた写真や映...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242733.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/d3395593d601354c12cfc94420432b63/t/768/511/d/2026-01-14t081026z-1861291419-rc2v0ja0dgm5-rtrmadp-3-thailand-accident.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242722.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T08:51:00+09:00</dc:date>
+        <title>ウクライナ軍で推定20万人が脱走、200万人が徴兵逃れ　新国防相が初めて明かす</title>
+        <link>https://www.cnn.co.jp/world/35242722.html?ref=rss</link>
+        <description>ウクライナのフェドロウ新国防相は14日、ウクライナ軍で許可なく持ち場を離れた脱走兵が20万人に上るとの推定を明らかにした。
+
+フェドロウ氏は新国防相としての承認採決を前に議会で発言し、約200万人のウクライナ人が兵役回避の疑いで「指名手配」されていることも明らかにした。
+
+ウクライナ軍は自国よりはるかに強大な敵を相手に国の防衛を試みており、ここ数年、負担を強いられている。
+
+前線の状況は苛烈（かれつ）で、ウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242722.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/8d23f65910a905171f9a484fa226f41a/t/768/511/d/2026-01-14t113539z-455465627-rc2w0jauz0my-rtrmadp-3-ukraine-crisis-ministers-defence.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242721.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T07:52:00+09:00</dc:date>
+        <title>トランプ氏、「イランでデモ参加者の処刑ない」</title>
+        <link>https://www.cnn.co.jp/usa/35242721.html?ref=rss</link>
+        <description>イラン当局が拘束した反体制デモ参加者を処刑するのではないかとの懸念がある中、トランプ米大統領は14日、「処刑の計画はない」と言明した。
+
+トランプ氏は「イランで殺害は止まり、処刑の計画もないとの情報を得た」と語ったが、情報源については「イラン側の重要な情報源から告げられた」と述べるにとどまった。
+
+イラン当局がデモに参加したエルファン・ソルタニ氏（26）の処刑を14日に行うとの見通しを示している、とソル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242721.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/e30973ebe25c08c08e5a3d0d47b80e84/t/768/547/d/gettyimages-2255677214.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242714.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-14T18:44:00+09:00</dc:date>
+        <title>ロシア国旗をペンキで描いた石油タンカー、大西洋で拿捕　18日間に及ぶ追跡劇の顛末</title>
+        <link>https://www.cnn.co.jp/world/35242714.html?ref=rss</link>
+        <description>石油タンカー「ベラ1号」は大西洋上で2週間近く米沿岸警備隊の巡視船に追跡された挙句、米軍から逃れるためにロシア国旗をペンキで船体に描くという斬新な手を打った。
+
+古びてさびの目立つタンカーには、「マリネラ号」という新たな名前も与えられた。ロシアはまもなく外交ルートを通じ、米国に追跡をやめるよう要請した。
+
+昨年12月31日のことだ。このタンカーは違法な原油輸送に使われる「影の船団」に属するとして、制裁対...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242714.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/14/03774dceef9e95d4cb9e8229049cc808/t/768/432/d/20260109-marinera-tanker-narrative.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242702.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-14T18:15:00+09:00</dc:date>
+        <title>日韓首脳がドラム外交を展開　K-POPのヒット曲を披露</title>
+        <link>https://www.cnn.co.jp/world/35242702.html?ref=rss</link>
+        <description>日韓首脳は日本での首脳会談初日の13日、サプライズでドラムセッションを行い、K-POPのヒット曲を豪快に演奏した。自称ヘビメタ好きと熱心な初心者の二人による、型破りな外交ぶりが炸裂（さくれつ）した。
+
+高市早苗首相と李在明（イジェミョン）大統領は、スーツから揃（そろ）いの青いトラックスーツに着替え、韓国が誇る文化発信アーティストたちのヒットチャートを賑（にぎ）わせる楽曲を力強く演奏した。
+
+二人はBTSの「D...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242702.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/14/248c1db4cee6d9b6c5e3315d8bae7e42/t/768/512/d/ap26014021811513.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242713.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-14T17:27:00+09:00</dc:date>
+        <title>インドの謎の鉄柱、1600年経った今もさびない理由とは？</title>
+        <link>https://www.cnn.co.jp/fringe/35242713.html?ref=rss</link>
+        <description>鉄の構造物が、風雨にさらされながら1600年もの間さびることなくそびえ立つことは可能なのだろうか。建造当時の技術不足を考えると、あり得ないことのように思える。
+
+だが、国連教育科学文化機関（ユネスコ）の世界遺産に登録されている「デリーのクトゥブ・ミナールとその建造物群」（インド・ニューデリー南郊のメヘラウリー地区に位置する13世紀初頭に建てられた歴史的記念碑と建造物の複合建築群）の敷地内には、まさにこ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242713.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/05/18/02a1feb28cacb7c64b066d3906471b48/t/768/432/d/d7yjty.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35242710.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-14T17:14:00+09:00</dc:date>
+        <title>中国、25年の貿易黒字は過去最大の191兆円　「トランプ関税」にも負けず</title>
+        <link>https://www.cnn.co.jp/business/35242710.html?ref=rss</link>
+        <description>中国の2025年の貿易黒字は前年比20％増と過去最大を記録した。世界最大の製造国である中国は米国からの貿易圧力に直面しながらも、他の世界市場に向けた輸出を拡大した1年を締めくくった。
+
+中国税関総署が14日に発表した25年の貿易統計によれば、輸出から輸入を差し引いた貿易黒字は過去最高の約1兆2000億ドル（約191兆円）だった。
+
+税関総署幹部は記者会見で、中国は「複雑かつ厳しい外部環境」に直面しながらも「前進した」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35242710.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/14/da1336eb6612c9d41b71a907e5420c5f/t/768/432/d/001-usa-trump-tariffs-china-20260114045359562.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35242704.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-14T17:05:00+09:00</dc:date>
+        <title>貴ガスを吸入して「1週間以内」のエベレスト登頂に挑戦、専門家からは懸念の声</title>
+        <link>https://www.cnn.co.jp/travel/35242704.html?ref=rss</link>
+        <description>始まりはパブでビールを飲んでいたときだった。元軍人の友人4人が、退役軍人の慈善団体への寄付を集めるために冒険旅行に出かけるのはどうかと話していると、ひとりがエベレスト登頂を提案してきた。
+
+英国議員のアル・カーンズさんはCNNに「みんな忙しいので、『エベレスト登頂に4～6週間、もしくは8週間も使うなんてむり。ありえない』と答えた」と語った。
+
+ところが、友人のひとりがこう切り返してきた。高度順応の過程を変...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35242704.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/15/ffead4469c7aa15f02d41df52c704f51/t/768/432/d/gettyimages-1148628379.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242699.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-14T16:17:00+09:00</dc:date>
+        <title>ベネズエラ暫定政権、米国人4人を解放　マドゥロ大統領退陣後で初</title>
+        <link>https://www.cnn.co.jp/world/35242699.html?ref=rss</link>
+        <description>南米ベネズエラの暫定政権が、同国で拘束されていた米国人少なくとも4人を釈放した。情報筋が13日、CNNに明らかにした。
+
+米国人拘束者の解放が確認されたのは、マドゥロ大統領の退陣後で初めて。ロドリゲス暫定大統領が率いる政権は、政治犯数十人の釈放を進めている。
+
+米国務省の報道担当者は13日、「ベネズエラで拘束されていた米国人の解放を歓迎する。暫定政権による正しい方向への重要な一歩だ」と述べた。
+
+米国務省高...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242699.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/14/d64e3e3e7d9fb2cf1b334c4bf69a5f01/t/768/512/d/large-ap26008662239960.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242686.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-14T15:54:00+09:00</dc:date>
+        <title>クリントン元大統領夫妻、エプスタイン事件調査での議会証言を拒否　議会侮辱罪で訴追の可能性</title>
+        <link>https://www.cnn.co.jp/usa/35242686.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した富豪ジェフリー・エプスタイン氏を巡る調査に関連して、米国のビル・クリントン元大統領と妻のヒラリー・クリントン氏は13日、連邦議会下院監視委員会での議会証言を拒否した。議員らは証言拒否が議会侮辱罪に相当すると脅していた。
+
+夫妻は今週の委員会出席に向けた最終期限を設定していた共和党のジェームズ・コマー委員長に対し、証言を拒否する決断を下したと書面で伝えた。
+
+コマー氏は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242686.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/14/39e4c4a62933167cface5622f4928dbc/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtjcmloY3IwMDAzM2I2cHdzZ3UyMGZu-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2NyaG96bTAwMnQyY3FoNjJpcDBjMWg_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242685.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-14T14:27:00+09:00</dc:date>
+        <title>【分析】反体制デモの鎮圧手法を急速に高めたイラン　最先端の軍事技術に高度な心理作戦</title>
+        <link>https://www.cnn.co.jp/world/35242685.html?ref=rss</link>
+        <description>イランは、全国的な抗議活動を迅速かつ確実に鎮圧するための新たな手法を導入した。これは、国内の反体制運動をイスラエルとの昨夏の戦争の延長と見なす政権の戦術転換を示唆している。
+
+専門家によると、政権が採り入れてきた従来の暴動鎮圧方法は、最先端の軍事技術と高度な心理作戦を組み合わせた手法へと急速にエスカレートした。
+
+相次ぐ騒乱のたびに学習を積み重ねてきた政権は、低空飛行の監視ドローン（無人機）、信号...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242685.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/14/9b908c11774bac37de2d31aa73a2af37/t/768/512/d/gettyimages-2254948954-20260113173530781.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242689.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-14T14:04:00+09:00</dc:date>
+        <title>銃による負傷者多数、路上には血の痕　国外脱出した医師が語るイランの惨状</title>
+        <link>https://www.cnn.co.jp/world/35242689.html?ref=rss</link>
+        <description>政府に対する大規模な抗議デモが続くイランで、国外に脱出したイラン人の医師が、病院や路上での混乱の様子や銃弾で負傷した患者の治療など現地の様子を語った。
+
+米国を拠点にする人権団体によれば、昨年末に始まった反体制デモでは、デモ参加者2400人あまりが死亡した。イラン当局による激しい弾圧が続く中、トランプ米大統領は、抗議活動を続けるようデモ参加者を促している。トランプ氏はまた、デモ参加者を処刑しないよう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242689.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/14/9b908c11774bac37de2d31aa73a2af37/t/768/512/d/gettyimages-2254948954-20260113173530781.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
