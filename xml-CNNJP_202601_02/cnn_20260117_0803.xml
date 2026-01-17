@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-01-17T16:35:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242851.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/design/35242849.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242846.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242848.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35242847.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242845.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242844.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242843.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242842.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242833.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35242835.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242832.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242825.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242829.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242823.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242819.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35242820.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242802.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242801.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242815.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242795.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242800.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35242797.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242796.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242794.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242791.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242788.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242761.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242771.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35242774.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242851.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-17T16:35:00+09:00</dc:date>
+        <title>米国民の過半数、トランプ氏の優先順位は「誤っている」　CNN世論調査</title>
+        <link>https://www.cnn.co.jp/usa/35242851.html?ref=rss</link>
+        <description>トランプ米大統領がホワイトハウスに復帰してから1年間のほぼあらゆる側面について、世論は否定的な評価を下していることが、CNNの委託を受けた調査会社SSRSの新たな世論調査で明らかになった。過半数の米国民はトランプ氏が誤った優先課題に注力しており、生活費問題への対応が不十分だと回答している。
+
+過半数に当たる58％は、第2次トランプ政権の1年目を失敗と評価した。
+
+重要な中間選挙の年に入ったトランプ氏や共和党に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242851.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/17/bd3de766302b8faa12a262f2f909c5f7/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtnMTJ0NTAwMDAxM2I2cDNpdWE1M3kz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2cwaXM4ejAwMHkyN3FnMTRxbGhybXI_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/design/35242849.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-17T14:19:00+09:00</dc:date>
+        <title>米偵察機「SR-71ブラックバード」　かつても今も世界最速</title>
+        <link>https://www.cnn.co.jp/style/design/35242849.html?ref=rss</link>
+        <description>米ロッキードが開発した戦略偵察機「SR-71ブラックバード」は冷戦時代、他のどの飛行機よりも高く、そして、速く飛ぶことができた。初飛行から半世紀以上が経過した今も、それは変わらない。
+
+1950年代後半にひそかに設計されたSR-71は、宇宙に届きそうなほど高く、ミサイルを凌ぐほど早く飛ぶことができた。同機は現在も、水平飛行での最高飛行高度と、ロケットを動力としない飛行機の最高飛行速度の記録を保持している。
+
+ま...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/design/35242849.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2019/12/12/15619aae5a9f3a74faccdbf41979ab31/t/768/432/d/001-sr71-blackbird.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242846.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-17T14:05:00+09:00</dc:date>
+        <title>古代の陶器に描かれたデザイン、人類の数学的思考示す最古の証拠か</title>
+        <link>https://www.cnn.co.jp/fringe/35242846.html?ref=rss</link>
+        <description>最大で8000年前に作られた陶器に描かれた植物の絵は、人類が数学的な思考を行った最も初期の事例かもしれない。ある研究から明らかになった。
+
+エルサレム・ヘブライ大学の研究者たちは、紀元前6200年から紀元前5500年の間に北メソポタミアで栄えたハラフ文化の下で作られた陶器を調査した。
+
+すると多くの鉢に花の絵が描かれているのを確認した。花びらの数は4枚、8枚、16枚、32枚、または64枚となっていた。これらの数字の使...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242846.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/17/1201e416f512e66131521ad7b9b8f7fe/t/768/379/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtmbHgybzgwMDBpM2o2cWVrb2R5a2Vt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2ZsbTNlZTAwMnQyNnFpMWN5bjloczU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242848.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-17T13:55:00+09:00</dc:date>
+        <title>深さ9500メートルに及ぶ超深海帯で生態系を発見、光のない極限環境で繁栄</title>
+        <link>https://www.cnn.co.jp/fringe/35242848.html?ref=rss</link>
+        <description>超深海を探査する海洋研究者らのチームが、ロシアと米アラスカ半島の間に位置する海溝での潜水艇調査で、海底に生物群を発見した。太陽光エネルギーを使う「光合成」の代わりに、海底の割れ目から湧き上がるガスを使って有機物を合成する「化学合成」の生態系としては、最も深い場所での観測とされる。
+
+中国科学院深海科学・工程研究所の杜夢然（ドゥモンラン）研究員らが昨年7月30日、英科学誌ネイチャーに発表した。
+
+ドゥ氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242848.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/13/61ccd3ac1937945dcf463ea17120b71c/t/768/512/d/figure-5.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35242847.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-17T13:00:00+09:00</dc:date>
+        <title>ジェニファー・ローレンス、ヒット映画の役を逃した経験明かす　理由は「そこまできれいではないから」</title>
+        <link>https://www.cnn.co.jp/showbiz/35242847.html?ref=rss</link>
+        <description>「ハンガー・ゲーム」や「X-Men」シリーズといったヒット作を彩ってきたジェニファー・ローレンスだが、少なくとも一つ、大作映画の役を逃していた。その理由は自身の容姿だったという。
+
+ローレンスはアカデミー賞受賞経験を持つ。クエンティン・タランティーノ監督による2019年の時代物映画「ワンス・アポン・ア・タイム・イン・ハリウッド」に起用されなかったのは、「そこまできれいではない」と関係者に言われたからだと明...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35242847.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/17/087cb3c25f43e465e6c8d6591303b200/t/768/432/d/gettyimages-2249451016.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242845.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-17T11:23:00+09:00</dc:date>
+        <title>マチャド氏のベネズエラ脱出、救出チームが動画を公開</title>
+        <link>https://www.cnn.co.jp/world/35242845.html?ref=rss</link>
+        <description>米国を拠点とするレスキューチーム「グレイ・ブル」は、先月ベネズエラの野党指導者マリア・コリナ・マチャド氏の国外脱出を支援した様子を収めた短い動画を公開した。
+
+マチャド氏は昨年12月初旬、約1年間の潜伏生活を送った後、ノルウェーでノーベル平和賞を受賞するためベネズエラを出国。ベネズエラ沿岸からボートに乗り込み、カリブ海の集合場所へと向かった。そこでグレイ・ブルの創設者で元特殊部隊の隊員、ブライアン・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242845.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/17/b66bbffd4c703f05d52ebeb51108bccf/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtoamVrcmswMDNlMjdwMmg4N2kxeG1v-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2hqZWtyazAwM3QyN3AyYXVobWN3Y2k_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242844.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-17T10:36:00+09:00</dc:date>
+        <title>米司法省、連邦法執行妨害でミネソタ州知事とミネアポリス市長を捜査　情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35242844.html?ref=rss</link>
+        <description>米司法省がミネソタ州のウォルズ知事とミネアポリスのフライ市長について、連邦法の執行を妨害している可能性があるとして捜査を行っていることが分かった。事情に詳しい複数の情報筋が明らかにした。
+
+事情に詳しい関係者がCNNに明かしたところによると、大陪審は捜査の一環で両氏に対する召喚状を発出した。ただし別の情報筋によると、ウォルズ氏の事務所には16日夜の時点で正式な通知は届いていない。フライ、ウォルズ両氏が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242844.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/17/73e39c7754278974d86bfa752fd82835/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtoaHk2cmcwMDBqMjdwZzNidzQyamd2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2hoeTZyaDAwMHkyN3BnNHBxcTAyZDY_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242843.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-17T10:08:00+09:00</dc:date>
+        <title>CIA長官がベネズエラ訪問、大統領代行と会談</title>
+        <link>https://www.cnn.co.jp/usa/35242843.html?ref=rss</link>
+        <description>米当局者によると、中央情報局（CIA）のラトクリフ長官は15日、南米ベネズエラの首都カラカスでロドリゲス大統領代行と会談した。
+
+「カラカスでの会談で、ラトクリフ長官は経済協力の可能性について話し合った。またベネズエラはもはや米国の敵対勢力、とりわけ麻薬密売人にとって安全な隠れ家ではあり得ないと伝えた」と、当局者は明らかにした。
+
+この会談は米紙ニューヨーク・タイムズが最初に報じた。トランプ大統領は今月...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242843.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/17/8dbb2f112401e353cce47c8a07d50d22/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtndWdsOWgwMDAzM2I2cDB3bHQweWU0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2d1MWdoNDAwM3IyY3BiN2xibGN5bGY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242842.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-17T09:01:00+09:00</dc:date>
+        <title>トランプ氏、グリーンランド併合に反対する国へ新たな関税検討　「安全保障上必要」</title>
+        <link>https://www.cnn.co.jp/usa/35242842.html?ref=rss</link>
+        <description>トランプ米大統領は16日、デンマーク自治領グリーンランドの併合をめざす自身の野心に反対する国に対し、新たな関税を課すことを検討していると明らかにした。
+
+トランプ氏はホワイトハウスで行われた医療に関する会合で、「グリーンランドの件で賛同しない国があれば、関税を課すかもしれない。我々には安全保障上、グリーンランドが必要だからだ。従ってそうするかもしれない」と述べた。
+
+トランプ氏の発言は、米国内の薬価...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242842.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/17/df4674b68f010b1f2e996befb2e1fdda/t/768/511/d/c-ap26014761768941.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242833.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T18:30:00+09:00</dc:date>
+        <title>T・レックスの成長速度、化石分析で従来の知見に変化　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35242833.html?ref=rss</link>
+        <description>新たな研究によると、ティラノサウルス・レックス（T・レックス）はこれまで考えられていたよりも長生きし、最大のサイズに達するまでにもっと長い時間を要していたことが分かった。
+
+科学者たちは長年、T・レックスの脚の骨の化石に刻まれた年輪を数え、死んだ時の年齢と成体サイズまでの成長速度を算出してきた。従来の研究によると、T・レックスは通常25歳前後で成長を停止し、30歳前後まで生きたとされる。
+
+しかし、14日に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242833.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/e269d47af8edb421be68ae992927bda6/t/768/480/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtmZWN3cGIwMDA4MzU2cHZ1amg4Y3d2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2ZlY2Z4cDAwMnoyNm50NTgzejNxMjA_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35242835.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T18:00:00+09:00</dc:date>
+        <title>トランプ氏が攻撃をちらつかせる国　石油産出量はベネズエラの3倍</title>
+        <link>https://www.cnn.co.jp/business/35242835.html?ref=rss</link>
+        <description>米国は、独裁政権による混迷が深まるイランへの攻撃を検討している。
+
+イラン政府は近年で最も弱体化しており、米国がベネズエラ政権を倒してからわずか2週間足らずで、もう一つのOPEC（石油輸出国機構）加盟国である同国を不安定にさせている。
+
+イラン全土で勃発した抗議活動を受け、政府がデモ参加者に加えた激しい弾圧は、トランプ米大統領が引いた一線を越えた。トランプ氏は、米政権が攻撃を検討していることを示唆してい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35242835.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/9b61bdc565070355abb60c321d1217bb/t/768/512/d/gettyimages-1779976536.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242832.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T17:05:00+09:00</dc:date>
+        <title>ペルシャ湾へ派遣の米空母打撃群、F35戦闘機やトマホークミサイルを搭載か</title>
+        <link>https://www.cnn.co.jp/world/35242832.html?ref=rss</link>
+        <description>イランでの抗議デモを巡る緊張が高まる中、情報筋によると、米軍は空母打撃群を中東地域へ移動させている。
+
+トランプ米大統領はデモ隊を支援する姿勢を示しており、ここ数日は軍事行動の可能性も検討している。
+
+オープンソースの情報によると、最も近い位置にいる米海軍の空母打撃群は空母「エイブラハム・リンカーン」を中心とするもので、最後に報告された位置はペルシャ湾から約8000キロ離れた南シナ海だった。
+
+専門家は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242832.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/4b677b0ef2b565b5c5d56e11826367a3/t/768/512/d/9441822.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242825.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T16:10:00+09:00</dc:date>
+        <title>4宇宙飛行士が地球に帰還、「医療問題」で予定より早く宇宙ステーション離脱</title>
+        <link>https://www.cnn.co.jp/fringe/35242825.html?ref=rss</link>
+        <description>米スペースXの宇宙船「クルードラゴン」に搭乗していた4人の宇宙飛行士が15日未明、太平洋に着水した。名前が明かされていない乗組員の健康状態の検査を目的とした、1週間の帰還作業に終止符が打たれた。
+
+乗組員らは14日の午後5時20分（東部標準時）、宇宙船に搭乗して国際宇宙ステーションを離れ、10時間の帰還の旅に出発していた。
+
+「クルー11」と呼ばれるミッションに参加していた宇宙飛行士たちは、15日の午前3時40分（東...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242825.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/7bd91ef63b20cbf76caab5b2b64e69d2/t/768/432/d/crew11splashdownexit-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242829.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T15:52:00+09:00</dc:date>
+        <title>異形の巨大機「スーパーグッピー」、宇宙船の運搬用に開発</title>
+        <link>https://www.cnn.co.jp/fringe/35242829.html?ref=rss</link>
+        <description>欧州エアバスの「ベルーガ」に米ボーイングの「ドリームリフター」、ウクライナ・アントノフの「AN225」――。ここに名前を挙げた世界最大級の航空機はいずれも、他機の部品のような巨大貨物を運ぶ目的で開発されたものだ。
+
+その珍しさと異形の外観から、3機は航空の世界でもひときわ目を引く。愛好家にとっては機体を一目見るのが夢になっている。
+
+しかし、これらの航空機は、比較的知名度の低いある航空機シリーズなくしては...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242829.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2020/12/18/0738f90abd68302c1c143fafd1d04f63/t/768/432/d/guppy-runway-1-super-169.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242823.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T14:30:00+09:00</dc:date>
+        <title>マチャド氏から「贈呈」されたノーベル平和賞メダル、今もトランプ氏の手元に</title>
+        <link>https://www.cnn.co.jp/usa/35242823.html?ref=rss</link>
+        <description>トランプ米大統領はベネズエラの野党指導者マリア・コリナ・マチャド氏から15日の会談で贈呈されたノーベル平和賞のメダルを、今も手元に置いていることが分かった。ホワイトハウスの当局者が明らかにした。
+
+トランプ氏はSNSトゥルース・ソーシャルへの投稿に、「ベネズエラのマリア・コリナ・マチャド氏ときょう面会できたのは、私にとって大変な名誉だった」と記した。
+
+「マリアは私の取り組みに対してノーベル平和賞をプレ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242823.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/c0f3da114733abdf76beffe1b8be73c4/t/288/432/d/55043601491-8f7391aeac-o.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242819.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T14:00:00+09:00</dc:date>
+        <title>太古のオオカミのミイラ、胃から巨体動物の組織片見つかる　シベリアの永久凍土で保存</title>
+        <link>https://www.cnn.co.jp/fringe/35242819.html?ref=rss</link>
+        <description>1万4000年前のシベリアの大草原地帯。生後2カ月のオオカミの子が、ケブカサイの肉をがつがつと食べていた。その直後、地下の巣穴が崩壊し、子オオカミとその姉妹は命を落とした。
+
+死骸と共に永久凍土に凍りついていたオオカミの胃の内容物から、科学者たちは絶滅前の最後の部類に入るケブカサイのDNA配列を解読することができた。ケブカサイは角のある巨体が特徴で、マンモスとも共存していた。今、オオカミの最後の食事から得...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242819.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/7a606ae53d8244bf38b50e1ae27c081b/t/768/576/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtkem92MnQwMDBkMzU2cHZocTVtamdw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2R6bDV1YTAwMHkyN3AyZXFkN2FjNnI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35242820.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T12:44:00+09:00</dc:date>
+        <title>イーロン・マスク氏の子どもの母親、xAIを提訴　性的ディープフェイク画像を無数に生成されたと主張</title>
+        <link>https://www.cnn.co.jp/tech/35242820.html?ref=rss</link>
+        <description>米実業家イーロン・マスク氏との間に子どもがいるアシュリー・セントクレア氏（27）が14日、マスク氏が率いる人工知能（AI）企業xAIを提訴した。同社のAIチャットボット「Grok（グロック）」が、自身の同意なしに性的に露骨なディープフェイク画像を生成したと主張している。
+
+ニューヨークで提起された訴状には、「xAIの製品である生成AIチャットボットのグロックが、AIを用いて服を脱がせ、被害者を辱め、性的に搾取している...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35242820.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/d4996a3e0b1672d467956c534c4d8e0d/t/768/432/d/still-22277806-2085-333-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242802.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T11:31:00+09:00</dc:date>
+        <title>米国防総省、「戦争省」への改称費用は最大198億円　議会予算局推計</title>
+        <link>https://www.cnn.co.jp/usa/35242802.html?ref=rss</link>
+        <description>トランプ米大統領が昨年9月に署名した大統領令に基づき、国防総省を「戦争省」に改称する費用は最大1億2500万ドル（約198億円）に上る可能性があることがわかった。議会予算局（CBO）が14日に公表した推計で明らかになった。
+
+CBOが民主党上院議員2名に宛てた書簡によると、国防総省がどのように名称変更を実施するかによって費用は1000万ドルから1億2500万ドルの間で変動する可能性がある。議会が国防総省にならって法的名称変...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242802.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/33c721ccf47ca7250f8bd5c21c5c4074/t/768/512/d/ap26014792373457.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242801.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T11:20:00+09:00</dc:date>
+        <title>子どもが凍死、テントの上にビル倒壊　援助届かないガザの過酷な冬</title>
+        <link>https://www.cnn.co.jp/world/35242801.html?ref=rss</link>
+        <description>パレスチナ自治区ガザで何十万人もの住民が、テントと防水シートだけで過酷な寒さや暴風から身を守る生活を強いられている。寒さで命を落とす子どもや、テントの上に崩れ落ちた建物の下敷きになる住民は後を絶たない。
+
+国連によると、イスラエルは今も援助物資の搬入制限を続けており、そのために弱者が犠牲になっている。
+
+モハメド・バシューニちゃんは、1歳の誕生日に凍死した。保健当局によると、低体温症で命を落とした子...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242801.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/1f5f788779a18ad6d413888dda332f24/t/768/432/d/videoframe-0-20260115192750963.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242815.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T10:58:00+09:00</dc:date>
+        <title>米軍が空母打撃群を中東へ移動、イラン情勢緊迫で　情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35242815.html?ref=rss</link>
+        <description>イランでの抗議デモをめぐり緊張が高まる中、米軍が空母打撃群を中東地域へ移動させていることが分かった。事情に詳しい情報筋が明らかにした。
+
+トランプ米大統領はデモ隊を支援すると言明しており、ここ数日、軍事行動の可能性を検討している。軍の作戦立案者は緊張が高まった場合、空母打撃群を含む追加兵器をその地域に展開させるのが一般的な対応だ。
+
+オープンソースの情報によると、最も近い位置にいるのは空母「エイブ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242795.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T10:25:00+09:00</dc:date>
+        <title>核実験なしの期間、過去最長を記録　世界に朗報も科学者は不安定な現状を懸念</title>
+        <link>https://www.cnn.co.jp/world/35242795.html?ref=rss</link>
+        <description>今週、世界は核に関する新たな節目を迎えた。ロシアや米国といった国々が軍事的威嚇を続ける最近の状況から考えると意外に思えるかもしれないが、節目の内容は前向きなものだ。
+
+「今日現在、世界は8年4カ月と11日間を核実験なしで過ごした。ここからは核爆発のない日々の最長記録が毎日更新されていくことになる」。憂慮する科学者同盟（UCS）の上級科学者ディラン・スポールディング氏は、今回の節目について14日のブログ記事...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242795.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/d4c8fea0ee213f3878e3be42cf6a43d1/t/768/568/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtmMnhqMTgwMDAxM2I2cGRnZml6b2tn-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2YyZGhpcTAwMHkyN3FxMmMxMGNic3E_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242800.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T10:13:00+09:00</dc:date>
+        <title>米国民の75％がグリーンランド領有に反対、6割がトランプ氏の他国への権力拡大に懸念　CNN世論調査</title>
+        <link>https://www.cnn.co.jp/usa/35242800.html?ref=rss</link>
+        <description>SSRSが実施したCNNの最新世論調査によると、米国人の4分の3が米国によるデンマーク自治領グリーンランドの領有に反対している。トランプ大統領の領土拡大に向けた取り組みが国民からの強い逆風に直面していることがうかがえる。
+
+米国によるグリーンランド領有に賛成する人はわずか25%だった。共和党員と共和党寄りの無党派層でさえ支持と反対がそれぞれ50%と拮抗（きっこう）している。民主党員と民主党寄りの無党派層は全体の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242800.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/91722e4ddfd171f2f307af67f24611d8/t/768/512/d/ap26014764178800.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35242797.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T09:56:00+09:00</dc:date>
+        <title>ミシュラン二つ星レストラン、衛生検査で下から2番目の評価　刺身を問題視？　英国</title>
+        <link>https://www.cnn.co.jp/business/35242797.html?ref=rss</link>
+        <description>ミシュランの二つ星を獲得した英国のレストランが、衛生検査で下から2番目の評価を受けて注目の的になっている。
+
+「アニシー（Ynyshir）」は英ウェールズで唯一ミシュランの二つ星を獲得し、2022年と23年の2年連続で英国最高のレストランに選ばれている。5時間で30種類の料理を提供するコースの料金は468ポンド（約10万円）から。
+
+しかし食の安全管理を担う食品基準庁（FSA）が昨年11月5日に実施した立ち入り検査で、衛生管理...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35242797.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/db532ec800fd25b449e3893e24c0406c/t/768/512/d/wns-120126-top-restaurant-one-star-hygiene-011.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242796.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T09:23:00+09:00</dc:date>
+        <title>トランプ氏、ICE巡る緊張で「反乱法」発動を示唆　ミネソタ州へ米軍派遣も</title>
+        <link>https://www.cnn.co.jp/usa/35242796.html?ref=rss</link>
+        <description>米ミネソタ州での移民捜査官の対応を巡り州当局と連邦当局が対立する中、トランプ大統領は15日、現地に米軍を派遣するため、数百年前に制定された「反乱法」を発動する可能性があると警告した。
+
+トランプ氏はSNSトゥルース・ソーシャルに「ミネソタ州の腐敗した政治家たちが法に従わず、プロの扇動者や反乱者たちが職務を遂行しようとしているだけの移民税関捜査局（ICE）の愛国者を攻撃するのをやめないようであれば、反乱法...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242796.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/a460c5a232a3793ff48ad865662e0b0a/t/768/511/d/2026-01-13t151449z-327336490-rc2f0ja63um1-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242794.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T09:10:00+09:00</dc:date>
+        <title>ベネズエラのマチャド氏、ノーベル平和賞メダルをトランプ氏に「贈呈」</title>
+        <link>https://www.cnn.co.jp/world/35242794.html?ref=rss</link>
+        <description>ノーベル平和賞を受賞したベネズエラの野党指導者マリア・コリナ・マチャド氏が15日、ホワイトハウスでトランプ米大統領と会談した。マチャド氏は会談でトランプ氏にノーベル平和賞のメダルを「贈呈」したと述べた。
+
+マチャド氏はトランプ氏に「（米独立戦争に従軍した）ラファイエット将軍（侯爵）は200年前、（中南米の革命家）シモン・ボリバルにジョージ・ワシントンの肖像が刻まれたメダルを贈った。ボリバルはそのメダル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242794.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/31edf9eb5fc55b5a082b011835f8665d/t/768/432/d/2026-01-15t201552z-2030091190-rc2w1ja1wd3j-rtrmadp-3-usa-trump-venezuela.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242791.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T08:16:00+09:00</dc:date>
+        <title>米・イランの緊張、湾岸諸国が外交で緩和試みる　当局者</title>
+        <link>https://www.cnn.co.jp/world/35242791.html?ref=rss</link>
+        <description>イランでの抗議デモをめぐって米国が軍事行動を辞さない構えを見せるなど、両国の間で緊張が高まったことを受けて、カタールなどの湾岸アラブ4カ国がこの3日間、外交で事態の鎮静化に努めていたことがわかった。当局者が15日にCNNに明らかにした。
+
+当局者によると、カタール、オマーン、サウジアラビア、エジプトは米国に対して、イランへの攻撃は安全保障と経済のリスクを伴い、米国やイラン周辺地域に影響を及ぼす可能性があ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242791.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/dc6af9e2415cf9cb431431e0473aea1e/t/768/512/d/gettyimages-2255277125-20260115175039687.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242788.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-16T07:51:00+09:00</dc:date>
+        <title>米、ベネズエラ関連の石油タンカー拿捕　6隻目</title>
+        <link>https://www.cnn.co.jp/world/35242788.html?ref=rss</link>
+        <description>米南方軍は15日、カリブ海で新たに石油タンカーを拿捕（だほ）したと発表した。ベネズエラに関係している石油タンカーの拿捕は6隻目。
+
+南方軍はSNSへの投稿で「ベネズエラから輸出される石油は適切かつ合法的に調整されたものに限られる」と指摘した。
+
+拿捕されたのは「ベロニカ号」。米沿岸警備隊および司法省と連携した合同タスクフォース「サザンスピア」が作戦を実行した。
+
+米国は昨年12月上旬以降、制裁対象の石油タン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242788.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/16/a2ada84241925d3ec8d70eae5edb15c9/t/768/469/d/screenshot-2026-01-15-at-9-15-55-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242761.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T18:55:00+09:00</dc:date>
+        <title>【分析】新たなイラン攻撃で米軍が使用し得る兵器とは</title>
+        <link>https://www.cnn.co.jp/world/35242761.html?ref=rss</link>
+        <description>トランプ米政権は昨年実施したイランの核施設爆撃を、史上最も偉大な軍事的成功の一つと喧伝（けんでん）した。
+
+この時は米空軍のB2爆撃機が世界最大級の爆弾14発を投下し、イランの核施設2カ所を攻撃。米軍側の犠牲は皆無で、航空機を失うこともなかった。攻撃に際し、数十機の戦闘機と空中給油機、支援用の航空機が任務の遂行を助けた。
+
+現在、トランプ大統領はイランを再度攻撃すると脅迫している。今回は数十万人のイラン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242761.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/df66ec2984dfd3bbdf1a601432dc7d58/t/768/432/d/ap18109645166463.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242771.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T18:50:00+09:00</dc:date>
+        <title>連邦捜査官が襲撃してきたとされる男性に発砲、抗議デモ起こる　米ミネアポリス</title>
+        <link>https://www.cnn.co.jp/usa/35242771.html?ref=rss</link>
+        <description>米ミネアポリスで14日、連邦捜査官が男性に発砲し負傷させる事案が発生した。男性は捜査官を襲撃したとされているが、現場近くでは捜査官の発砲に抗議するデモ隊が集結して法執行機関と対峙（たいじ）。市当局が平静を呼びかける事態となった。
+
+ミネアポリスでは1週間前、移民税関捜査局（ICE）の捜査官が女性を射殺する事件が起きたばかり。
+
+国土安全保障省（DHS）によると14日、連邦捜査官が「標的を絞った交通停止」を実施...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242771.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/142d04a7a16c89ca341ea37c73ef01bf/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtlc2Y4bmEwMDB6MjdvdzJ1czMxa2xw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2VzZjhuYTAwMTAyN293Y2VqZzRzNjg_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35242774.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-15T17:47:00+09:00</dc:date>
+        <title>【分析】年明けの混沌で金と銀の価格が高騰</title>
+        <link>https://www.cnn.co.jp/business/35242774.html?ref=rss</link>
+        <description>トランプ米大統領は南米ベネズエラの大統領を拘束したのに続き、イランに対して「強い行動」を取ると警告した。また、トランプ政権は連邦準備制度理事会（FRB）議長の刑事捜査に踏み切り、物価対策では銀行や機関投資家の重要な収益源を脅かす焦土作戦に出ている。
+
+2026年は混沌（こんとん）のスタートを切った。
+
+この状況では株式市場が急落してもおかしくないが、大半のニュースは受け流されてきた。株価は12日に最高値を更...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35242774.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/15/aa16ef9c6dffc67899d90c71484469a4/t/768/512/d/large-gettyimages-2212118870.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
