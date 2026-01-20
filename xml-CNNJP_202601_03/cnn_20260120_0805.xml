@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-01-20T16:59:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242938.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242930.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35242923.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35242932.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242928.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242925.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242918.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242910.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242921.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242917.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242915.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242914.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242905.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242913.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242903.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242897.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242892.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242888.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242887.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35242886.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242882.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242881.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242877.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242870.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242864.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242863.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/design/35242862.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242861.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35242860.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242859.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35242938.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T16:59:00+09:00</dc:date>
+        <title>26時間で3件のサメ襲撃　2人重体、海岸が閉鎖に　豪シドニー</title>
+        <link>https://www.cnn.co.jp/world/35242938.html?ref=rss</link>
+        <description>オーストラリア・シドニー周辺の海岸で、26時間の間にサメによる被害が相次いでいる。12歳の少年と20代の男性が重体となったほか、11歳の少年はサーフボードが壊れただけで難を逃れた。
+
+地元当局によると、最初の被害は18日午後4時20分ごろに発生。2件目は19日の昼前、3件目は19日午後6時20分ごろだった。
+
+シドニー湾で18日、泳いでいた少年がサメにかまれ、友人たちが水中から引き揚げた。少年は小児病院に搬送され重体とな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242938.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/129cebc84cfb9784705741d8135fb197/t/768/432/d/002-still-22288110-21915-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242930.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T15:42:00+09:00</dc:date>
+        <title>銀行強盗から犯罪小説家に転身した男、銀行襲った疑いでまた逮捕　米コロラド州</title>
+        <link>https://www.cnn.co.jp/usa/35242930.html?ref=rss</link>
+        <description>銀行強盗の罪で15年収監され、その体験を綴（つづ）った書籍を執筆した米コロラド州の男が、再び刑務所に入ることになるかもしれない。
+
+チャールズ・クリストファー・マルティネス容疑者は1月8日、銀行強盗の疑いで逮捕された。アーバダ在住の48歳の同容疑者はこの3日前、デンバーのコロラド大通りにある銀行へ強盗に入った人物とみられている。
+
+当局によると当該の強盗は、背中に「Tech Ops」と書かれた鮮やかなオレンジ色の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242930.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/d8981e538be168e7cbc94627d1dd59cb/t/768/568/d/KCNCrobber0119.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35242923.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T14:47:00+09:00</dc:date>
+        <title>イタリアのファッションデザイナー、ヴァレンティノ氏が死去　93歳</title>
+        <link>https://www.cnn.co.jp/style/fashion/35242923.html?ref=rss</link>
+        <description>イタリア・ファッション界の伝説的デザイナー、ヴァレンティノ・ガラヴァーニ氏が死去した。93歳だった。同氏が設立した財団が明らかにした。同氏の手掛けたエレガントなイブニングドレスは数十年にわたり、世界で最も華やかな部類の女性たちに愛されてきた。インスタグラムに投稿された声明によると、「ローマの自宅で、家族の愛に見守られながら安らかに息を引き取った」という。
+
+1932年、イタリア北部のヴォゲーラに生まれ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35242923.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/7a219ed6176719116bed85d1f2dec829/t/768/526/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtsZjBocXQwMDBuM2I2cDBvbThldGM1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2xldzB0eTAwNnIyN3AxZDZicjB5czk_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35242932.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T14:29:00+09:00</dc:date>
+        <title>富豪が公職に就く可能性、普通の人の4000倍高い　国際NGO報告書</title>
+        <link>https://www.cnn.co.jp/business/35242932.html?ref=rss</link>
+        <description>世界で最も裕福な人々は、他の人々に比べて政治的な権力を握る可能性がはるかに高いことがわかった。国際NGOオックスファムの年次報告書で明らかになった。
+
+報告書によると、世界の億万長者2027人のうち約74人が2023年に行政府または立法府の職に就いており、公職に就く確率は3.6%だった。これに対し、世界の平均的な市民が公職に就く確率はわずか0.0009%にとどまった。報告書は18日に公表された。
+
+オックスファム・アメリカ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35242932.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/0ea20fcd992ffce529cc01a0b1f06e77/t/768/512/d/large-gettyimages-909056062.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242928.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T13:54:00+09:00</dc:date>
+        <title>トランプ氏、グリーンランド掌握は「ノーベル平和賞もらえなかったから」　ノルウェー首相宛ての書簡で吐露</title>
+        <link>https://www.cnn.co.jp/usa/35242928.html?ref=rss</link>
+        <description>トランプ米大統領は、ノルウェーのストーレ首相に対し、もはや「純粋に平和を考える」義務を感じていないと述べた。理由はノルウェー・ノーベル委員会が自身にノーベル平和賞を授与しなかったためだという。
+
+トランプ氏はストーレ氏に宛てた異例のテキストメッセージの中で、グリーンランドを掌握すると繰り返し脅してきたことと、長年切望してきたノーベル平和賞を授与されなかったことを関連付けた。メッセージについては米...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242928.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/571e4d3a882cc1076bf606b27a740abd/t/768/432/d/thumb-22281704-6836-2-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242925.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T13:34:00+09:00</dc:date>
+        <title>エプスタイン文書の公開、「満足」は6％のみ　CNN世論調査</title>
+        <link>https://www.cnn.co.jp/usa/35242925.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した米富豪ジェフリー・エプスタイン元被告に関して米政府がこれまでに公開した資料の量について、満足している人は6%にとどまることが分かった。CNNが委託して調査会社SSRSが実施した世論調査で明らかになった。多くの米国人は、政府が意図的に情報を隠していると考えている。
+
+今回の世論調査は、連邦議会が司法省に対し、エプスタイン事件に関するすべての資料を公開するよう求めた2025年12月19...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242925.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/9055f8073a568367903e8452753ae0e6/t/768/511/d/large--3-usa-trump-epstein-files.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242918.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T12:18:00+09:00</dc:date>
+        <title>反ICEのデモ隊が礼拝中の教会に侵入、宗教指導者らから非難の声　米ミネソタ州</title>
+        <link>https://www.cnn.co.jp/usa/35242918.html?ref=rss</link>
+        <description>米ミネソタ州セントポールにある南部バプテスト派の教会で日曜礼拝を中断させたとして、複数の教会やキリスト教団体の指導者が、移民税関捜査局（ICE）への反対を唱えるデモ隊に対し非難の声を上げた。
+
+セントポール・シティーズ教会で18日、日曜礼拝が行われていたところ、約30人のデモ参加者が教会内に侵入した。彼らは笛を吹き、「ICE出て行け」の掛け声を上げ、レネ・グッドさんの名を唱えた。グッドさんは、今月7日に同州...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242918.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/1f7ab0b802bb04a28db738bf38f59d80/t/768/428/d/screenshot-2026-01-19-at-11-25-57-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242910.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T12:01:00+09:00</dc:date>
+        <title>牛がブラシで背中をかく様子を撮影、牛の道具使用の事例として初の記録　オーストリア</title>
+        <link>https://www.cnn.co.jp/fringe/35242910.html?ref=rss</link>
+        <description>牛は背中のかゆみをどうやって解消するのだろうか。オーストリアの牛の「ベロニカ」は、家畜に対する見方を変えるかもしれない解決策を示した。
+
+過去10年にわたり、ベロニカは口で棒を拾い上げ、端を巧みに操って、通常は届かない体の部位をかく様子が飼い主によって時折観察されてきた。ウィーン獣医大学の動物行動学の専門家チームが最近、この映像を目にしたとき、棒を使うベロニカの行動が並外れていることに気が付いた。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242910.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/4c6f6cd7a0e8e5f3c06c48191e5d5162/t/768/576/d/large-img-6769-20260119165717566.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242921.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T11:49:00+09:00</dc:date>
+        <title>トランプ大統領がエプスタイン元被告に贈った誕生日カード、再現作品が米首都の国立公園に登場</title>
+        <link>https://www.cnn.co.jp/usa/35242921.html?ref=rss</link>
+        <description>性的人身売買の罪に問われた米富豪ジェフリー・エプスタイン元被告にドナルド・トランプ大統領が贈ったとされる誕生日カードを再現した巨大レプリカが、米首都ワシントンの国立公園ナショナルモールに設置された。
+
+高さ約3メートルのこの作品は、「ザ・シークレット・ハンドシェイク」を名乗る集団が制作。2000年初めごろ、トランプ氏の名でエプスタイン元被告に送られたカードを再現している。
+
+誕生日カードには裸の女性の輪...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242921.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/f5432966c5b06f1e24e137c029b3a8a8/t/768/512/d/c-ap26019713768784.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242917.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T11:24:00+09:00</dc:date>
+        <title>欧州首脳、トランプ氏のグリーンランドに対する野望に抵抗　関税回避も模索　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35242917.html?ref=rss</link>
+        <description>トランプ米大統領は、ノルウェーのストーレ首相に送った衝撃的なメッセージの中で、デンマーク自治領グリーンランドの「領有」への関心とノーベル平和賞を受賞できなかったこととを結び付けた。
+
+一方、トランプ氏がグリーンランドの購入で合意するまで、欧州の同盟国に対して関税を課すと警告したことを受けて、欧州の株価は下落し、金の価格は最高値を更新した。
+
+トランプ氏の警告を受けて、欧州連合（EU）の大統領にあたる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242917.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/adc2153f66df784bfd7580ce4b0aa799/t/768/512/d/large-c-gettyimages-2256771607.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242915.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T11:08:00+09:00</dc:date>
+        <title>海岸を覆い尽くしたポテトとタマネギ、悪天候で貨物船からコンテナが相次ぎ落下　英国</title>
+        <link>https://www.cnn.co.jp/world/35242915.html?ref=rss</link>
+        <description>英イングランドの沖合で貨物船から相次いでコンテナが落下し、付近の海岸が見渡す限りポテトやタマネギに覆われた状態になっている。
+
+イングランド南部イーストサセックスの海岸では13日から清掃作業が始まった。地元議会によると、昨年暮れから今年初めにかけての悪天候で、貨物船2隻のコンテナが海中に落下した。
+
+イーストサセックスのリゾート地イーストボーンに住むジョエル・ボニッチさんは19日、CNNの取材に対し、同地...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242915.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/e74659d10a1b0ad885b4afd58bc77006/t/768/432/d/1000059980-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242914.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T10:56:00+09:00</dc:date>
+        <title>オーストラリア滞在の19歳カナダ人女性、野生犬の群れに囲まれ遺体で発見</title>
+        <link>https://www.cnn.co.jp/world/35242914.html?ref=rss</link>
+        <description>オーストラリア東部クイーンズランド州のガリ（旧フレーザー島）で19日、19歳の女性が野生犬ディンゴの群れに囲まれて死亡しているのが見つかった。警察は女性が死亡した経緯について捜査を行っている。
+
+ガリはユネスコの世界遺産に登録された名所で、毎年何十万もの観光客が訪れる。
+
+クイーンズランド警察の発表によると、遺体で見つかったのはカナダ国籍の女性で、過去6週間は島内の宿泊施設で働きながら滞在していた。同島...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242914.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/ae1130a98e42e92ee5d6da839758ec6f/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtsM3BjcTYwMDBoMzU2cHA5M3V4d3ox-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2wzb2Q5djAwNmcyNm54N3A5NWRpdTE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242905.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T10:26:00+09:00</dc:date>
+        <title>太陽から強力な太陽放射嵐、「過去20年以上で最大」と米予報機関</title>
+        <link>https://www.cnn.co.jp/fringe/35242905.html?ref=rss</link>
+        <description>太陽から放出される強力な太陽活動が地球に向かっており、米国時間の19日夜から20日早朝にかけて、予想外の場所でまばゆいオーロラが出現する公算が大きい。一方で衛星通信やGPS（全地球測位システム）の精度に影響を及ぼす可能性もある。
+
+米国立気象局の宇宙天気予報センター（SWPC）が現在監視中の太陽放射嵐は、5段階評価でレベル4に位置づけられる。
+
+SWPCがX（旧ツイッター）で共有したところによると、このレベルの激し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242905.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/8c1f4c1d77fe2c49f8a229faa25e5581/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtsbTRtbm0wMDB4MzU2cDk3aHZnZGp1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2xtMWcxODAwNmsyN3FsNzUxdjNyNm4_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242913.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T10:20:00+09:00</dc:date>
+        <title>スペイン高速鉄道脱線事故、40人死亡　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35242913.html?ref=rss</link>
+        <description>スペイン南部コルドバ近郊で18日、2本の高速列車が脱線し、少なくとも40人が死亡、数十人が負傷した。スペイン国内での鉄道事故としては過去10年あまりで最悪規模となった。
+
+事故があったのはマドリードから南へ約360キロ離れた小さな町アダムス近郊。北へ向かうマラガ発マドリード行きの高速鉄道が走行中、後部3両が脱線し、南へ向かうマドリード発ウエルバ行きの先頭車両に衝突。2本の車両とも横転した。
+
+現場を視察したス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242913.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/7719d2cae266c7e5cea55c7380cf1e96/t/768/510/d/2026-01-19t081646z-1195203583-rc274jayq3p6-rtrmadp-3-spain-accident-train.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242903.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-20T08:23:00+09:00</dc:date>
+        <title>トランプ氏、ガザの「平和評議会」にプーチン氏を招待　ロシア大統領府</title>
+        <link>https://www.cnn.co.jp/world/35242903.html?ref=rss</link>
+        <description>ロシアのプーチン大統領が、パレスチナ自治区ガザ地区の復興を監督する暫定統治機関「平和評議会」へ招待されたことがわかった。クレムリン（ロシア大統領府）が19日に発表した。平和評議会はトランプ米大統領が議長を務める。
+
+ロシアのペスコフ大統領報道官は定例記者会見で記者団に対し、「プーチン大統領も外交ルートを通じて平和評議会への招待を受けた」と述べた。
+
+クレムリンはこの要請を検討しており、「米国側からよ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242903.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/20/e437c86f1b588c77e3d917ca686d693f/t/768/547/d/gettyimages-2220986182-20260113184225074.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242897.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-19T17:15:00+09:00</dc:date>
+        <title>たき火にダンスに飼い猫、厳しい寒さを乗り切る工夫　ウクライナ首都</title>
+        <link>https://www.cnn.co.jp/world/35242897.html?ref=rss</link>
+        <description>カテリーナ・スクリディナさんは、就寝時に保温下着を着込み、上着2着とスカーフを身につける。羽毛布団にくわえ、毛布2枚を重ねて体を覆う。そして、最大の切り札は飼い猫の「プショク」だ。
+
+「プショクは体温が高いので、湯たんぽみたいなもの」とスクリディナさんはCNNに語った。
+
+スクリディナさんが暮らすウクライナ首都キーウのアパートでは、ロシアが8日に市のエネルギーインフラに大規模攻撃を仕掛けて以降、暖房がほ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242897.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/19/8c1a985ff6d7205c8f9ab5b8214508cf/t/768/511/d/large-gettyimages-2255608281-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242892.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-19T16:03:00+09:00</dc:date>
+        <title>サメに襲われた12歳の少年が重体、友人が水中から救出　豪</title>
+        <link>https://www.cnn.co.jp/world/35242892.html?ref=rss</link>
+        <description>オーストラリア・シドニーの海岸で、サメにかまれた12歳の少年を友人たちが水中から引き揚げて救出した。当局は、この少年は病院に搬送されたが、今も「生死の境をさまよっている」と明らかにした。
+
+ニューサウスウェールズ州警察海上管区司令官のジョセフ・マクナルティ警視は19日の記者会見で、「警察が現場に駆けつけたときは、恐ろしい光景だった」と語った。
+
+マクナルティ氏によれば、オオメジロザメのようなサメが、少...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242892.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/19/f80e092e29ab440b573f51cf2e6e52d8/t/768/432/d/still-22288150-28965-589-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242888.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-19T15:12:00+09:00</dc:date>
+        <title>南米チリで大規模な山火事、非常事態を宣言　数万人が避難</title>
+        <link>https://www.cnn.co.jp/world/35242888.html?ref=rss</link>
+        <description>南米チリのボリッチ大統領は、大規模な山火事が発生したことを受けて、非常事態宣言を発令した。
+
+チリ南部で広がる山火事は、地元社会に深刻な影響を及ぼしており、住民には避難命令が出された。
+
+ボリッチ大統領は、被害が最も大きいニュブレ州とビオビオ州に非常事態を宣言した。
+
+ボリッチ大統領は、山火事と闘うために利用可能なすべての資源を投入していると述べた。
+
+森林当局によると、18日午前の時点で、国内では24件...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242888.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/19/96f3c0b95c1ae2c2bb6d3e6f66a8bb4b/t/768/432/d/gettyimages-2256327278.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242887.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-19T14:38:00+09:00</dc:date>
+        <title>人口が4年連続で減少、25年のGDPは5.0%増　中国</title>
+        <link>https://www.cnn.co.jp/world/35242887.html?ref=rss</link>
+        <description>中国は人口減少が4年連続で続く中、2025年の出生率が過去最低を記録した。世界第2位の経済大国である中国にとって、今後数十年にわたり人口動態の課題を深刻化させる可能性がある。
+
+中国国家統計局が19日に発表したところによると、25年の出生率は人口1000人当たり5.63人と、23年の過去最低だった同6.39人を下回った。24年に一時的に出生数が持ち直したものの、16年以降続く減少傾向が反転したわけではなく、増加は例外的な動...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242887.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/19/0b659720b940c0312657d7a5ab958326/t/768/511/d/c-gettyimages-2255476110.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35242886.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-19T13:19:00+09:00</dc:date>
+        <title>トランプ米大統領、今度はアメフト試合中継に介入　「アーミー対ネイビー」の独占守る大統領令署名を宣言</title>
+        <link>https://www.cnn.co.jp/showbiz/35242886.html?ref=rss</link>
+        <description>米陸軍士官学校（アーミー）と米海軍士官学校（ネイビー）のアメリカンフットボールチームが対戦する毎年恒例の「アーミー対ネイビー」の試合について、トランプ大統領は17日、大学フットボールなど他の一切の試合との競合を阻止する大統領令に署名すると発表した。
+
+ホワイトハウスが大学フットボールの日程やテレビ放送に対して直接介入しようとするのは極めて異例。
+
+トランプ氏は自身のSNSトゥルース・ソーシャルに「アーミ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35242886.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/19/062e4aa18a4f10f5fe31d66f6a09638f/t/768/511/d/large-c-ap25347813939242.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242882.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-19T11:23:00+09:00</dc:date>
+        <title>イランのデモ参加者の男性、死刑執行は延期　米介入が影響か</title>
+        <link>https://www.cnn.co.jp/world/35242882.html?ref=rss</link>
+        <description>イランの抗議デモに参加して拘束され、死刑執行が危惧されていた男性について、家族や人権団体は18日、14日の死刑は執行されなかったことを確認した。健康状態は良好で、家族とも面会できているという。
+
+拘束されているのはエルファン・ソルタニ氏（26）。親族は18日、CNNの取材に対し、イランにいる家族から、ソルタニ氏が生きていて家族とも面会できているという連絡があったと語った。
+
+ノルウェーの人権団体ヘンガウも同日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242882.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/19/38739f5519ba474a5ce26a071a310ae0/t/768/432/d/large-screenshot-2026-01-14-at-3-45-20-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242881.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-19T11:04:00+09:00</dc:date>
+        <title>グリーンランドでサバイバル用品の売り上げ急増、軍事行動や不安定な情勢受けて</title>
+        <link>https://www.cnn.co.jp/world/35242881.html?ref=rss</link>
+        <description>デンマーク自治領グリーンランドで、サバイバル用品の販売が伸びている。地元の店主らがCNNの取材に明らかにした。グリーンランドをめぐってはトランプ米大統領が「領有」の意向を明らかにしており、軍事行動やその他の不安定化を懸念する住民が増えているという。
+
+グリーンランドの中心都市ヌークの複数の店主によると、キャンプ用コンロや長期保存できる乾燥食品、フリーズドライ食品の買い占めが起きている。
+
+ヌークの住民...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242881.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/19/b9af2d552ab19e23fd728931e3263843/t/768/511/d/large-gettyimages-2256339758.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242877.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-19T10:17:00+09:00</dc:date>
+        <title>欧州首脳、同盟国に圧力かけぬようトランプ氏に求める　グリーンランド領有巡り</title>
+        <link>https://www.cnn.co.jp/world/35242877.html?ref=rss</link>
+        <description>トランプ米大統領がデンマーク自治領グリーンランドの「領有」をめぐって、米国によるグリーンランド購入で合意に至らなければ同盟国に関税を課すと警告したことを受け、欧州の首脳からは反発の声が相次いでいる。
+
+トランプ氏の発言を受け、欧州連合（EU）の大使らはブリュッセルで緊急会合を開催した。グリーンランドの中心都市ヌークでは、人口の約4分の1にあたる人々が併合の可能性に反対する抗議デモに参加した。
+
+ここま...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242877.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/19/40c191c72eee0f0fb6e0d64cfa012b9c/t/768/511/d/large-p-3-usa-trump-greenland-protests.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242870.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-19T09:05:00+09:00</dc:date>
+        <title>高速鉄道が脱線　21人死亡、73人負傷　スペイン南部</title>
+        <link>https://www.cnn.co.jp/world/35242870.html?ref=rss</link>
+        <description>スペイン南部コルドバ近郊で18日、高速列車が脱線し、少なくとも21人が死亡したほか、73人が負傷した。アンダルシア州政府の緊急当局が明らかにした。
+
+アンダルシア州政府の保健相は地元メディアに対し、死亡者数は「20人を超えるとみられる」と述べていた。負傷者は6カ所の医療機関で手当てを受けている。
+
+州政府などによると、事故はマラガ発マドリード行きの高速列車が駅の進入部で脱線し、隣接する線路にはみ出したことで...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242870.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/19/d7dc03deb8173d8eba982bedee24e107/t/324/432/d/large-c-2026-01-18t213151z-694020093-rc2x3jake87p-rtrmadp-3-spain-accident-train.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242864.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-18T16:33:00+09:00</dc:date>
+        <title>カナダ、中国との関係改善へ　新たな「戦略的パートナーシップ」打ち出す</title>
+        <link>https://www.cnn.co.jp/world/35242864.html?ref=rss</link>
+        <description>カナダのカーニー首相は16日、訪問先の北京で、中国の習近平（シーチンピン）国家主席と会談し、中国との新たな「戦略的パートナーシップ」を打ち出した。カナダは、トランプ米大統領との関係悪化という歴史的な摩擦を背景に、中国との関係を立て直す動きに踏み出した。
+
+カナダ政府は会談後の声明で、中国製の電気自動車（EV）への関税を緩和する一方、中国側は年内にカナダ産キャノーラ種子に対する関税障壁を大幅に引き下げ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242864.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/18/48d4ac911fcc15f1034697f8ac5de6c6/t/768/534/d/large-i7-rtrmadp-3-china-canada.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242863.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-18T15:48:00+09:00</dc:date>
+        <title>ガザ暫定統治機関、米国務長官や英元首相が参加</title>
+        <link>https://www.cnn.co.jp/world/35242863.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区の暫定統治機関「平和評議会」に、英国のブレア元首相やカナダのカーニー首相、米国のルビオ国務長官らが参加することがわかった。
+
+平和評議会は、イスラエルとイスラム組織ハマスとの2年に及ぶ戦闘で荒廃したガザを非武装化して再建を目指す米国主導の計画における重要な一歩だ。平和評議会の議長はトランプ米大統領が務める。
+
+創設時点の幹部には、米国のウィトコフ特使やトランプ氏の娘婿クシュナ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242863.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/18/8094fc6233cbe73941de4b4bc670f689/t/768/511/d/large-ap26006617469257.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/design/35242862.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-18T15:20:00+09:00</dc:date>
+        <title>グラマンX29――前進翼を装備したあり得ない戦闘機</title>
+        <link>https://www.cnn.co.jp/style/design/35242862.html?ref=rss</link>
+        <description>米グラマン社の実験機X29は異形の航空機だ。その驚くべき前進翼は数ある大胆な革新点のひとつに過ぎない。
+
+X29が生み出されたのは冷戦の絶頂期。米航空宇宙局（NASA）や米空軍、国防高等研究計画局（DARPA）、グラマン社といった巨大組織が開発に参画した。究極の戦闘機をつくる取り組みの一環として1984年に初飛行が実現した。
+
+だが、実験性の高いデザインを採用した結果、X29は史上最も空力的に不安定な航空機となった。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/design/35242862.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/18/c4e8aea89d7498a1e1ebbc88d458e6ff/t/768/422/d/190705151210-grumman-x-29-ec89-0127-2__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242861.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-18T14:31:00+09:00</dc:date>
+        <title>知事が州兵を動員、移民当局への抗議デモ続く　米ミネソタ州</title>
+        <link>https://www.cnn.co.jp/usa/35242861.html?ref=rss</link>
+        <description>米移民税関捜査局（ICE）の捜査官が中西部ミネソタ州ミネアポリスで発砲して市民が死亡した事件をめぐり連邦法執行機関とデモ隊との緊張が高まるなか、同州のウォルズ知事は警察の支援に向けて州兵を動員し、抗議活動に備えるよう指示した。
+
+ミネアポリスでは17日、零下の厳しい寒さの中、繁華街や連邦政府機関の建物の周辺で、厚着をしたデモ参加者がシュプレヒコールを上げ、プラカードを掲げた。繁華街では道路の封鎖などの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242861.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/18/57243cda833a48dea1e108e7ee053e6e/t/768/511/d/large-001-usa-trump-minnesota-fraud.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35242860.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-18T14:26:00+09:00</dc:date>
+        <title>古代エジプト人はどうやってピラミッドの巨石を積み上げた？　近年浮上する新説</title>
+        <link>https://www.cnn.co.jp/fringe/35242860.html?ref=rss</link>
+        <description>今から4000年以上も前に、古代エジプトの巨大なピラミッドがどのように建てられたのかについて、エジプト学者らは長年にわたり熱い議論を交わしてきた。
+
+そして近年、エンジニアと地質学者で構成される研究チームが、新たな説を提唱している。それは、水圧リフト装置を使用し、ためてある水の浮力作用により、エジプト最古のピラミッドの中心部で重い石を浮かせていたとする説だ。
+
+紀元前27世紀ごろ、古代エジプト人がエジプ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35242860.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/10/08/8d5a5a4f789c43960452b07ec278b5e3/t/768/432/d/gettyimages-640240433.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242859.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-18T13:27:00+09:00</dc:date>
+        <title>米軍、シリア空爆でアルカイダ系幹部を殺害　米国人攻撃に関与</title>
+        <link>https://www.cnn.co.jp/usa/35242859.html?ref=rss</link>
+        <description>米国は17日、シリアで、国際テロ組織アルカイダ系組織の指導者に対して攻撃を実施したと発表した。この人物は、昨年12月に米国人3人が死亡した過激派組織イラク・シリア・イスラム国（ISIS）による襲撃と直接的な関係があったとされる。
+
+米中央軍によると、攻撃で死亡したのはビラル・ハサン・アルジャシム容疑者で、「経験豊富なテロリスト指導者」だったとされる。2025年12月13日にシリア中部パルミラで米軍兵士2人と民間人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242859.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/18/48917abf0a42c5eaf317f847f1314667/t/768/511/d/large-c-ap23268707018888.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
