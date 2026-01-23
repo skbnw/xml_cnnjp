@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-01-23T16:30:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243095.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243100.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243097.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243096.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243093.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243073.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243092.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243078.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243071.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243070.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243054.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35243053.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243048.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243014.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243044.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35243041.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243042.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243036.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243035.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243030.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243013.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243011.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243009.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243006.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35242994.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242977.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242990.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35242988.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242983.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35242985.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35243095.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T16:30:00+09:00</dc:date>
+        <title>グリーンランド巡る将来的な合意の枠組み、文書では存在せず　情報筋</title>
+        <link>https://www.cnn.co.jp/world/35243095.html?ref=rss</link>
+        <description>米国のトランプ大統領と北大西洋条約機構（NATO）のルッテ事務総長は、21日の会談でデンマーク自治領グリーンランドの問題を巡って口頭合意に達した。ただこれまでのところ、将来の合意について記した文書の作成には至っていない。協議に詳しい複数の人物がCNNに明らかにした。
+
+これらの情報筋によると、トランプ氏とルッテ氏は、グリーンランドにおける米軍の駐留を規定する1951年の米国、デンマーク、グリーンランド間の協定...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243095.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/4b3fd0a99b6de1f9882e7c53abf64f42/t/768/512/d/gettyimages-2256886778.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243100.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T15:30:00+09:00</dc:date>
+        <title>トランプ氏三男、友人女性を襲撃から救出か　ビデオ通話中異変に気づき通報と英裁判所</title>
+        <link>https://www.cnn.co.jp/world/35243100.html?ref=rss</link>
+        <description>トランプ米大統領の三男バロン・トランプ氏が昨年、英ロンドンにいる友人の女性とビデオ通話中、女性への暴行とみられる場面を目撃し、警察に通報していたことが分かった。英国の裁判所が明らかにした。
+
+英PAメディア通信によると、バロン氏の緊急通報の記録が21日、ロンドンの裁判所で開かれた公判で公開された。
+
+当該の裁判では22歳の男の被告が暴行、傷害、レイプ2件、故意の首絞め、司法妨害の罪に問われている。被告は全...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243100.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/7a408ffcda5c21e62e23db08a7be8688/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtwZmprcm0wMDA1MzU2cDU3OWV4MnV5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta3BmaWlvejAwZjAyNnA0Y3Axdjl0amU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243097.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T13:32:00+09:00</dc:date>
+        <title>ロシア、米ウクライナとの3カ国協議実施を確認　23日にUAE首都アブダビで</title>
+        <link>https://www.cnn.co.jp/world/35243097.html?ref=rss</link>
+        <description>ロシアは、ウクライナ・米国・ロシアの当局者による会談が23日にアラブ首長国連邦（UAE）で行われることを確認した。
+
+クレムリン（ロシア大統領府）のウシャコフ大統領補佐官は記者団に対し、会談はUAE首都アブダビで行われると述べた。
+
+ウクライナのゼレンスキー大統領は22日、スイス・ダボスで開催されている世界経済フォーラム年次総会（ダボス会議）で、3カ国会談が2日間の日程で行われると発表していた。これは、ロシア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243097.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/275b45f07f56f82142d25d86d3c09b5f/t/768/541/d/c-gettyimages-2257037678.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243096.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T13:16:00+09:00</dc:date>
+        <title>トランプ氏が議長を務める「平和評議会」とは　参加国など知っておくべきこと</title>
+        <link>https://www.cnn.co.jp/world/35243096.html?ref=rss</link>
+        <description>トランプ米大統領は、西側諸国を自身が議長を務める「平和評議会」に引き入れようと躍起になっている。これまでのところ支持を取り付けたのは、中東の君主ら、欧州最後の独裁者とされる人物、そして戦争犯罪容疑で指名手配されている少なくとも1人の指導者だ。
+
+トランプ氏は、世界的な紛争の解決を目指すこの評議会に数十カ国を招待したが、その権限は、国連に取って代わる「可能性がある」というトランプ氏の発言とともに、米...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243096.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/8731182f656bed31494a7ab60a5bb359/t/768/511/d/c-gettyimages-2256772747.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243093.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T11:56:00+09:00</dc:date>
+        <title>米アカデミー賞、「罪人たち」が史上最多の16部門ノミネート　「国宝」はメイク・ヘア賞候補</title>
+        <link>https://www.cnn.co.jp/showbiz/35243093.html?ref=rss</link>
+        <description>第98回米アカデミー賞の候補作品が22日に発表され、ライアン・クーグラー監督のバンパイアホラー映画「罪人たち」が、長編映画として史上最多の16部門でノミネートされた。
+
+日本映画はメイクアップ・ヘアスタイリング賞候補として、「国宝」の豊川京子さん、日比野直美さん、西松忠さんが選ばれている。
+
+「罪人たち」は、作品賞、監督賞、脚本賞、主演男優賞、助演女優賞、助演男優賞など16部門でノミネート。これまでの最多...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243093.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/3a4575a425a2b06c91fd8092a6fdfcb0/t/768/512/d/gettyimages-1248080712.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243073.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T11:25:00+09:00</dc:date>
+        <title>トランプ政権、米国のWHOからの脱退を完了</title>
+        <link>https://www.cnn.co.jp/usa/35243073.html?ref=rss</link>
+        <description>米保健福祉省は22日、米国が世界保健機関（WHO）からの脱退を完了したと発表した。トランプ大統領の長年の目標が達成されたことになる。
+
+​​トランプ氏は1期目の任期中にWHOからの脱退を試み、2期目の初日に大統領令で脱退を通告した。法律により、米国はWHOに対し脱退の1年前に通知を行い、脱退前には未払いの分担金を全額支払わなければならない。
+
+米国はWHOに対し依然として約2億6000万ドル（約412億円）の分担金支払いを義...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243073.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/7fb5093b704fe77b7a7e960ecde3b5f2/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtwejhsem0wMDAxM2I2cDZuY3c3aXJt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta3B5OG5hcTAwMXoyN3FnMGR3bmZpOGI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243092.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T10:54:00+09:00</dc:date>
+        <title>公園に大量のかぎ十字の落書き、15歳の2人を逮捕　米ニューヨーク</title>
+        <link>https://www.cnn.co.jp/usa/35243092.html?ref=rss</link>
+        <description>米ニューヨーク市ブルックリン区のユダヤ系住民が多い地域で、公園にナチス ・ドイツのシンボル「かぎ十字」が大量に落書きされているのが見つかり、ニューヨーク市警は22日、15歳の2人を嫌がらせ行為などの容疑で逮捕した。2人のうち1人についてはヘイトクライム（憎悪犯罪）としての器物損壊の疑いも持たれている。
+
+警察に最初の通報があったのは19日。ブルックリン区南西部のボローパークにある公園で、滑り台や壁、地面に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243092.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/1a37749a8575ed631fe53755fc75edee/t/768/432/d/still-22299838-72718-35-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243078.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T09:48:00+09:00</dc:date>
+        <title>移民捜査官が5歳児を拘束、児童生徒の強制連行相次ぐ　米ミネソタ州</title>
+        <link>https://www.cnn.co.jp/usa/35243078.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスで20日、保育園から帰宅した5歳の男の子が移民取り締まりの連邦捜査官によって拘束され、連行された。弁護士や学校関係者は22日、男の子がテキサス州にある移民税関捜査局（ICE）の施設で父親と一緒に勾留されていることを明らかにした。
+
+ミネアポリス郊外コロンビアハイツの学区長によると、拘束されたのは保育園児のリアム・コネホ・ラモス君。移動中の家族の車から降ろされて連行されたという。
+
+2...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243078.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/3e72e516010972f14a04599359e4f796/t/323/432/d/liam-photo-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243071.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T09:28:00+09:00</dc:date>
+        <title>ウクライナ、米ロと三者会合開催へ　UAEで23、24日</title>
+        <link>https://www.cnn.co.jp/world/35243071.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は22日、米国を交えてロシアとアラブ首長国連邦（UAE）で三者会合を行うと明らかにした。ウクライナでの戦争の終結に向けて和平交渉が活発になっているとみられる。
+
+ゼレンスキー氏はスイスで開かれている世界経済フォーラム年次総会（ダボス会議）で演説し、三者会合が23日と24日に行われることを記者団に明らかにした。
+
+ゼレンスキー氏は「全ての関係者が懸命に取り組めばこの戦争を終結でき...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243071.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/d8202cd898dc520a72e9f897a93debb4/t/768/432/d/2026-01-22t143532z-319419993-rc2e6jacup9c-rtrmadp-3-davos-meeting-trump-zelenskiy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243070.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T08:48:00+09:00</dc:date>
+        <title>トランプ氏の左手に突如大きなあざ　ホワイトハウス「ぶつけたため」</title>
+        <link>https://www.cnn.co.jp/usa/35243070.html?ref=rss</link>
+        <description>トランプ米大統領の左手に突如見られるようになったあざについて、ホワイトハウスは22日、平和評議会の発足式典でテーブルにぶつけたのが原因だと説明した。
+
+ホワイトハウスのレビット報道官は声明で「トランプ大統領は式典でテーブルの角に手をぶつけ、そのためにあざができた」と述べた。
+
+トランプ氏はアスピリンを毎日服用しているため、手にあざができやすいと医師が以前述べていたと述べた。
+
+ホワイトハウスの関係者は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243070.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/6ba0b471fc7461001b1e9fcfaee9d1d4/t/768/512/d/gettyimages-2257591652.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243054.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T18:00:00+09:00</dc:date>
+        <title>イランの体制と闘って数十年、クルド人の目に近づく勝利の光</title>
+        <link>https://www.cnn.co.jp/world/35243054.html?ref=rss</link>
+        <description>ケフィエと呼ばれる白黒のスカーフを身に付けた若い男性が、一度分解したAK47自動小銃を再び組み立てている。
+
+仲間や指揮官、そしてCNNの取材班に見守られる中、その若いペシュメルガ（クルド語で「死と対峙（たいじ）する者」を意味する）は真剣に取り組むが、一つの部品がどうしても元の位置に戻らない。
+
+周囲から笑いが起こる。教官は彼に別の小銃を手渡し、最初からやり直すよう促す。
+
+カリム・ファルカプール氏は若い戦...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243054.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/bdfe60dfde5f992734d7568c813fba04/t/768/512/d/gettyimages-2256403677.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35243053.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T16:45:00+09:00</dc:date>
+        <title>日本でいま最も人気のお土産？　コンビニで売られている2ドルのしま模様の靴下</title>
+        <link>https://www.cnn.co.jp/travel/35243053.html?ref=rss</link>
+        <description>観光客の一団がガイドに導かれて建物の中へ入る。ガイドは目の前の光景について、その歴史や背景を説明し、日本語の表示を英語に翻訳していく。
+
+目を輝かせた旅行者たちは、物に触れたり写真を撮ったりしてよいか丁寧に尋ねる。やがて自由に見て回れることになり、故郷の家族や友人への贈り物を買い求める。
+
+ここは神社ではない。日本のコンビニエンスストア「ファミリーマート」だ。
+
+こうしたツアーを考案したのは、日本の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35243053.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/62a1542e06761cdcb5c0156d21e1f619/t/768/432/d/2m31wpp.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243048.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T15:41:00+09:00</dc:date>
+        <title>「夜の太陽エネルギー」、宇宙に放射される赤外線で発電　人工衛星に活用へ</title>
+        <link>https://www.cnn.co.jp/fringe/35243048.html?ref=rss</link>
+        <description>水面をきらめかせ、砂浜に降り注ぐ太陽の光は、オーストラリア名物のひとつだ。同国の最大都市シドニーでは、太陽の力でエネルギーを生み出す研究が進められている。ただし、だれもが思い浮かべる方法とは違う。
+
+ニューサウスウェールズ大学（UNSW）の博士研究員、ジェイミー・ハリソン氏は「光を吸収するのでなく、放出することによって発電する装置を開発している」と話す。「太陽光パネルの裏返しのようなものだ」
+
+日中に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243048.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/60f51b5eec298cc86251e8820e54afa8/t/768/576/d/ir-sydney.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243014.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T13:36:00+09:00</dc:date>
+        <title>6万7800年前に描かれた手の輪郭、洞窟の壁から見つかる　インドネシア</title>
+        <link>https://www.cnn.co.jp/fringe/35243014.html?ref=rss</link>
+        <description>インドネシアの洞窟の壁面に赤い顔料で手の輪郭が描かれたのは、少なくとも6万7800年前のことだった。新たな研究によれば、これは世界最古の岩壁画である可能性がある。
+
+スラウェシ島の洞窟に残る、当該の手の輪郭をはじめとする見事な壁画は、初期の人類によって描かれた公算が大きい。これらの人類は「サフル」として知られる失われた大陸に広がった人々に属するとみられる。サフルは現在のオーストラリア、パプアニューギニ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243014.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/1f4d54157a004dc66a333a0cbcb33f5f/t/768/576/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtvM2p2d3gwMGQ4MjdxbDczODVnamJy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta28zanZ3eDAwZG4yN3FsYzRvdDEwOXU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243044.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T12:35:00+09:00</dc:date>
+        <title>ヘンリー王子、英紙はメーガン妃の「人生を完全に不幸にした」　法廷での証言で感情あらわに</title>
+        <link>https://www.cnn.co.jp/world/35243044.html?ref=rss</link>
+        <description>英国のヘンリー王子（41）は21日、ロンドンの高等法院で英紙デイリー・メールの出版社アソシエイテッド・ニューズペーパーズ・リミテッド（ANL）が行ったとされる違法な情報収集について証言した。証言を締めくくる際、ヘンリー王子は「彼らは私の妻の人生を完全に不幸にした」と感情をあらわにした。裁判は19日に始まり、9週間続く見込み。
+
+ヘンリー王子は、自身の主張の中心をなすデイリー・メール紙の記事について「当時自...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243044.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/2e9c812b68788d72b0cb93541438ee2c/t/768/512/d/gettyimages-2256812993.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35243041.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T12:05:00+09:00</dc:date>
+        <title>格安航空CEO、マスク氏との「けんか」を歓迎　航空券の販売増加につながる</title>
+        <link>https://www.cnn.co.jp/business/35243041.html?ref=rss</link>
+        <description>アイルランドの格安航空ライアンエアのマイケル・オライリー最高経営責任者（CEO）は、米実業家イーロン・マスク氏との公の場での口論について、「航空券の販売増につながっている」と歓迎する姿勢を示した。
+
+オライリー氏は21日、アイルランド首都ダブリンで開いた記者会見で、「予約にとって非常に良いことだ」と述べ、同社がここ数日、「Big Idiot Seat Sale（大ばか者シート・セール）」と銘打ったキャンペーンを実施して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35243041.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/9c728028ec248ed644a965801f975a23/t/768/537/d/large--3-ryanair-oleary-musk.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243042.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T11:43:00+09:00</dc:date>
+        <title>トランプ米大統領を引き返させた専用機トラブル、エアフォースワンの老朽化問題が浮上</title>
+        <link>https://www.cnn.co.jp/usa/35243042.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領を乗せて欧州に向かっていた大統領専用機「エアフォースワン」が20日夜、「電気系統の問題」に見舞われて米メリーランド州に引き返した。今回のトラブルは、老朽化が進む大統領専用機の問題を改めて浮上させている。
+
+エアフォースワン（ボーイング747-200B型機）は現地時間の20日午後11時過ぎ、メリーランド州のアンドルーズ統合基地に無事着陸。トランプ大統領は代替機に乗り換えて約1時間後、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243042.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/c3c830c164b49bceb63d494f17255e78/t/768/511/d/gettyimages-2257320478.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243036.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T11:13:00+09:00</dc:date>
+        <title>プーチン氏、グリーンランド問題は「関係ない」　トランプ氏に暗黙の後押しも</title>
+        <link>https://www.cnn.co.jp/world/35243036.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は21日、「グリーンランドで起きていることは、われわれには全く関係ない」と述べた。一方で、デンマーク自治領のグリーンランドを米国が「領有」することを暗に後押しする発言もした。
+
+プーチン氏は安全保障の会議で、ロシアには「米国と同様の問題を解決した経験がある」とし、トランプ米大統領の野心を示唆するような歴史的文脈を持ち出した。
+
+プーチン氏は、ロシアが1867年にアラスカを売却した例...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243036.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/1a64de28b4bcc3f5074d7708fef08fe2/t/768/432/d/large-gettyimages-2252840664.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243035.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T10:49:00+09:00</dc:date>
+        <title>地球上空できらめくオーロラ、宇宙から撮影　太陽嵐のさなかに</title>
+        <link>https://www.cnn.co.jp/fringe/35243035.html?ref=rss</link>
+        <description>過去20年で最強の規模となった先日の太陽嵐のさなか、地球上空できらめくオーロラの光が撮影された。撮影したのは、国際宇宙ステーション（ISS）に滞在するロシア宇宙企業ロスコスモスの宇宙飛行士だった。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243035.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/f41e255ecf59ceb0f6a0cd210c24d37b/t/768/432/d/116509-aurorahrz-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243030.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T10:24:00+09:00</dc:date>
+        <title>パレスチナのサッカー場、当面解体免れる　国際サッカー連盟がイスラエルに圧力</title>
+        <link>https://www.cnn.co.jp/world/35243030.html?ref=rss</link>
+        <description>イスラエルが占領するパレスチナ自治区ヨルダン川西岸のベツレヘムで計画していたサッカー場の解体が、国際社会の圧力を受けて保留になった。サッカー場は難民キャンプで暮らす子どもたちが貴重な遊び場として利用しており、住民らが解体中止を訴えていた。
+
+関係者がCNNに語ったところによると、解体計画に対して国際サッカー連盟（FIFA）のジャンニ・インファンティノ会長、欧州サッカー連盟（UEFA）のアレクサンドル・チェフ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243030.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/dad46e4d3e3614b731b3dc706fa2061b/t/768/512/d/01-gettyimages-2251752526.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243013.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T09:41:00+09:00</dc:date>
+        <title>トランプ氏、プーチン氏が平和評議会へ「参加」　ロシア側は「検討中」</title>
+        <link>https://www.cnn.co.jp/usa/35243013.html?ref=rss</link>
+        <description>トランプ米大統領は21日、ロシアのプーチン大統領が、自身が提唱するパレスチナ自治区ガザ地区再建のための「平和評議会」への参加要請を受け入れたと明らかにした。
+
+トランプ氏によれば、ガザ再建を監督する目的で設ける構想の平和評議会に、プーチン氏が加わることで合意した。
+
+トランプ氏は、なぜプーチン氏を招いたのかとの質問に対し、「我々はすべての人々、すべての国々の参加を望んでいるからだ。すべての国々で国民...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243013.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/6a2d7105d4ce8e4de466f47d5ac67cfc/t/768/511/d/large-ap26019399765215.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243011.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T09:28:00+09:00</dc:date>
+        <title>NATO、米国にグリーンランド一部地域の主権付与する案を協議　新たな基地建設のため</title>
+        <link>https://www.cnn.co.jp/world/35243011.html?ref=rss</link>
+        <description>北大西洋条約機構（NATO）の当局者はCNNに対し、NATO当局者による21日の会議で議論に上った提案の一つとして、デンマーク自治領グリーンランドに米国の主権的領土とみなされる土地を設け、そこに追加の軍事基地を建設するのをデンマークが認める案があると明らかにした。この案は以前の協議でも、NATO加盟国やルッテ事務総長の間で提案されていたという。
+
+トランプ米大統領は21日、ルッテ氏との会談後に関税の脅しを後退させた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243011.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/d0632349c69b8cc1a824c7ceb855dedb/t/768/511/d/gettyimages-2256899024.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243009.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T08:21:00+09:00</dc:date>
+        <title>トランプ氏、「グリーンランド守れるのは米国だけ」　領有へ武力行使は否定</title>
+        <link>https://www.cnn.co.jp/world/35243009.html?ref=rss</link>
+        <description>トランプ米大統領は21日、スイスで開かれている世界経済フォーラム年次総会（ダボス会議）で演説し、デンマーク自治領グリーンランドの米国による領有が必要だと改めて主張した。武力行使は否定したものの、速やかに交渉に応じるよう欧州に要求するなど強硬な姿勢を維持した。
+
+トランプ氏は「グリーンランドを守れる国は米国以外にない」と断言した。また、第2次世界大戦中にグリーンランドを守ったのは米国だとし、支配権の放...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243009.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/4526cf43accb65213cab63ffe9f1ed88/t/768/511/d/2026-01-21t135423z-1141119842-rc2p5japu3ud-rtrmadp-3-davos-meeting-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243006.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-22T07:59:00+09:00</dc:date>
+        <title>トランプ氏、欧州への「グリーンランド関税」見送り　NATOと枠組み</title>
+        <link>https://www.cnn.co.jp/usa/35243006.html?ref=rss</link>
+        <description>トランプ米大統領は21日、米国によるデンマーク自治領グリーンランドの領有に反対する欧州諸国に課す予定だった追加関税を見送ると表明した。グリーンランドをめぐって北大西洋条約機構（NATO）と枠組みを構築することで合意に達したためとした。
+
+スイスで開かれている世界経済フォーラム年次総会（ダボス会議）に出席したトランプ氏は演説後にNATOのルッテ事務総長と会談した。トランプ氏が自身のSNSに投稿したところによると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243006.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/62e78d343f5d85e813375941a0d213e2/t/768/432/d/116514-wef-trump-speech-00-00-00-26-still002.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35242994.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-21T17:55:00+09:00</dc:date>
+        <title>ネットフリックス、ワーナー買収巡り全額現金を提案</title>
+        <link>https://www.cnn.co.jp/business/35242994.html?ref=rss</link>
+        <description>米動画配信大手ネットフリックスは20日、米メディア大手ワーナー・ブラザース・ディスカバリー（WBD）の買収提案を修正し、現金のみで支払う方針を示した。
+
+ネットフリックスはWBDの将来を巡る攻防が続く中、ワーナー・ブラザースとHBOの買収について、これまでの現金と株式を組み合わせた提案から全額現金で支払う用意があると明らかにした。
+
+両社は、全額現金による新たな提案が、パラマウント・スカイダンスによるWBD全体...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35242994.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/21/5763baa57d6e86c78b3eecba856ee34f/t/768/511/d/large-gettyimages-2249496239.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242977.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-21T17:10:00+09:00</dc:date>
+        <title>【分析】グリーンランドめぐる米国と欧州の分断、ロシアにとって両刃の剣である理由</title>
+        <link>https://www.cnn.co.jp/world/35242977.html?ref=rss</link>
+        <description>クレムリン（ロシア大統領府）は長年、米国と欧州の間に恒久的な亀裂を生じさせ、西側の敵対勢力を分断・弱体化させる戦略を用いてきた。
+
+領土的野心や、ソ連時代の地位や権力を取り戻すという夢にとってやっかいな障害と見なす西側諸国の制度を弱体化させるべく、ロシアは長きにわたり、妨害工作や偽情報の拡散を進めている。
+
+特にウクライナ戦争以降のロシアは、強力な西側軍事同盟である北大西洋条約機構（NATO）を解体す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242977.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/21/5cbd79940c962debc056e37f05e4b3e5/t/768/512/d/c-2026-01-17t175810z-735032905-rc233ja47t7y-rtrmadp-3-usa-trump-greenland-protests.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242990.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-21T16:22:00+09:00</dc:date>
+        <title>手製の銃で安倍元首相を暗殺、山上被告に無期懲役の判決</title>
+        <link>https://www.cnn.co.jp/world/35242990.html?ref=rss</link>
+        <description>安倍晋三元首相を手製の銃で殺害した山上徹也被告（45）の判決公判が21日、行われ、無期懲役が言い渡された。NHKが報じた。
+
+安倍元首相の暗殺は銃暴力がまれな日本に衝撃を与え、強い影響力を持つ宗教団体に注目が集まる結果にもなった。
+
+
+  
+  
+山上被告を乗せた車が判決公判の行われる奈良地裁に入る様子/Koki Okada/AP
+  
+
+
+
+
+山上被告は2022年、奈良市の路上で安倍氏が選挙演説していた際、自宅で組み立てた銃で白昼銃撃...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242990.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/21/da94d8cd09761826281129a34a8e3a26/t/768/640/d/ap22189281079758.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35242988.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-21T15:35:00+09:00</dc:date>
+        <title>米大統領専用機に不具合、空軍基地に引き返す　トランプ氏は新しい機体に乗り換え</title>
+        <link>https://www.cnn.co.jp/usa/35242988.html?ref=rss</link>
+        <description>トランプ米大統領を乗せてスイスに向かっていた大統領専用機エアフォースワンは、軽微な電気系統の不具合が発生したため、ワシントン近郊のアンドルーズ空軍基地に引き返した。
+
+プール取材にあたる記者団によると、トランプ氏は新しい機体に搭乗した。
+
+元のエアフォースワンを待機させていた間、複数のスタッフが荷物を手に機体を降りるなど、慌ただしい動きが見られたという。
+
+乗務員は乗り換え作業を急ぎ、果物の箱や包装...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35242988.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/21/a758060bd2e7c844c589f6ee87a8ad14/t/768/511/d/large-ap26021162211520.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242983.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-21T13:57:00+09:00</dc:date>
+        <title>英国、中国の「メガ」大使館建設を承認　安全保障上のリスクが懸念される中で踏み切った理由は</title>
+        <link>https://www.cnn.co.jp/world/35242983.html?ref=rss</link>
+        <description>英国政府は20日、ロンドン金融街近くに中国が「メガ」大使館を建設する計画を承認した。議員や住民、亡命中の中国反体制派の人々からは安全保障上のリスクをもたらす可能性があるとの懸念の声が上がっていた。
+
+中国は2018年、英国がかつて貨幣を鋳造していたロイヤルミントコートの土地を約3億1200万ドル（現在のレートで約493億円）で購入した。しかし、中国にとって欧州最大の外交拠点となる2万平方メートルの新大使館計画は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242983.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/21/a73eaaa2bcd67a1db9fd66ff742187cc/t/768/512/d/gettyimages-2197790013.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35242985.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-21T13:52:00+09:00</dc:date>
+        <title>グリーンランド巡る米欧対立、NATOの「統一体としての存続」を脅かす　ロシア外相</title>
+        <link>https://www.cnn.co.jp/world/35242985.html?ref=rss</link>
+        <description>ロシアのラブロフ外相は20日、デンマーク自治領グリーンランドを巡る米国と欧州の外交対立に触れ、西側社会の「危機的傾向」を浮き彫りにするものだとの認識を示した。
+
+ロシアの首都モスクワで年次記者会見に臨んだラブロフ氏は、今回の分裂は団結した同盟としてのNATOの存続そのものを脅かしていると指摘した。
+
+さらに「グリーンランドに関する議論がNATOの結束の維持を巡る疑問に発展するとは、以前では想像も難しかった」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35242985.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/21/09691f02beca7bb2e322be5d24082ce2/t/768/526/d/2026-01-20t095554z-153382946-rc2w4jav7rs0-rtrmadp-3-russia-lavrov.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
