@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-01-25T16:55:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243140.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35243139.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35243138.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243136.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243135.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35243134.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243133.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243132.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243131.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243130.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243128.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243126.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243127.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243125.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243124.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35243114.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243121.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243122.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243119.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243120.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243118.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243117.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243062.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35243109.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243095.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243100.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243097.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243096.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243093.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35243137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-25T16:55:00+09:00</dc:date>
+        <title>欧州の最果てで見つけた魅力的な「観光地」、米国では渡航警戒リストに　ジョージア・パンキシ渓谷</title>
+        <link>https://www.cnn.co.jp/world/35243137.html?ref=rss</link>
+        <description>ジョージア（グルジア）のパンキシ渓谷を訪れようとすると、多くの場合、到着前から警告を受ける。たいていは、人里離れたこの地へ観光客を連れて行くことに不安を覚えるタクシー運転手の口からだ。
+
+渓谷でゲストハウスを営むカトゥナ・マルゴシュビリ氏によれば、運転手たちは「なぜそこへ行くのか。何をしに行くのか。分からないが、安全ではないのではないか」と口にする。
+
+欧州の東縁に近い旧ソ連の国、ジョージアのパン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/25/a55b006d11a390156a0941623464d3eb/t/768/432/d/copy-of-dsc05651__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243140.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-25T16:37:00+09:00</dc:date>
+        <title>サケを頭にのせて泳ぐシャチ、1980年代の不可解な現象の再来か</title>
+        <link>https://www.cnn.co.jp/fringe/35243140.html?ref=rss</link>
+        <description>ファッションは気まぐれで、流行は移り変わる。これはシャチにもあてはまるようだ。
+
+1987年、北米北西部の沖合でシャチの群れが数週間にわたり頭に死んだ魚を乗せて、一時的にサケの「帽子」をかぶっていた。ワシントン州のピュージェット湾で一昨年、「J27（ブラックベリー）」として知られる雄のシャチが頭にサケをのせている様子が撮影された。多くの観察者は当時の流行が復活したと断言した。
+
+サケを頭にのせたシャチの姿...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243140.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/12/09/b7515cd7616d363aad1e1fa8539b25c1/t/768/432/d/2019-08-19-09-11-24-a99-salmon.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35243139.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-25T15:40:00+09:00</dc:date>
+        <title>トランプ氏、カナダに100％の関税を警告　中国と貿易協定合意なら</title>
+        <link>https://www.cnn.co.jp/business/35243139.html?ref=rss</link>
+        <description>トランプ米大統領は24日、カナダに対して、中国と貿易協定で合意すれば、カナダからの輸入品に100％の関税を課すと警告した。カナダは米国にとって第2位の貿易相手国。
+
+今回のトランプ氏の警告は、カナダのカーニー首相との対立を一段と深める恐れがある。トランプ氏とカーニー氏を巡っては、カナダ・オンタリオ州がレーガン元米大統領の関税に関する演説を使った広告を出したことをきっかけに、報復的な関税の警告が続いてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35243139.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/25/878ea21a9540e20b36ee76b0ed50aca6/t/768/550/d/large-gettyimages-2257226679.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35243138.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-25T15:33:00+09:00</dc:date>
+        <title>写真特集：ジョージア・パンキシ渓谷の魅力を発見する</title>
+        <link>https://www.cnn.co.jp/photo/35243138.html?ref=rss</link>
+        <description>旧ソ連の国ジョージアのパンキシ渓谷。イスラム教徒が多数を占めるこの地域に観光地としての魅力を見いだす人が増えている。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35243138.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/25/344def0fed5fd44647cce4f188a75748/t/768/432/d/copy-of-dsc05651__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243136.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-25T14:01:00+09:00</dc:date>
+        <title>トランプ氏、今度は英軍を称賛　アフガンでのNATOの役割を軽視する発言が物議</title>
+        <link>https://www.cnn.co.jp/world/35243136.html?ref=rss</link>
+        <description>トランプ米大統領は24日、アフガニスタンでの北大西洋条約機構（NATO）の犠牲を軽視する発言に批判が相次ぐ中、英国軍部隊を称賛した。
+
+トランプ氏はSNS「トゥルース・ソーシャル」に「偉大で、非常に勇敢な英国の兵士たちは、常に米国と共にある！」と投稿した。
+
+トランプ氏はさらに「アフガニスタンでは457人が死亡し、多くが重傷を負った。彼らはまさに偉大な戦士たちだった。この絆は決して壊れることはない。英国軍は、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243136.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/25/9447726d1393476fd9ef93d39e304516/t/768/566/d/large-gettyimages-102526826.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243135.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-25T12:49:00+09:00</dc:date>
+        <title>米クライマーのアレックス・オノルド、台北101の登頂に成功　命綱なし</title>
+        <link>https://www.cnn.co.jp/showbiz/35243135.html?ref=rss</link>
+        <description>米国のロッククライマー、アレックス・オノルドが安全ロープや安全ネットなしで、台湾にある超高層ビル「台北101」の登頂に成功した。台北101の高さは1667フィート（約508メートル）で世界でも有数の高層ビル。このビルを命綱なしで登頂に成功したのはオノルドが初めて。
+
+ビルを登る様子は生中継された。CNNは現地で取材した。
+
+オノルドはCNNに対し、ビルを登るのは岩壁を登るのとは難易度が異なり、10年ほど前から超高層ビル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243135.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/25/c52f7052e0ab24de53b08d89b64c47e4/t/308/432/d/large-rmadp-3-taiwan-climbing.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35243134.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-25T12:19:00+09:00</dc:date>
+        <title>「過度の愛情示す」AIチャットボットに警戒を、ローマ教皇が警鐘</title>
+        <link>https://www.cnn.co.jp/tech/35243134.html?ref=rss</link>
+        <description>単なる友人以上の存在、さらには心の支えになってしまうAI（人工知能）チャットボットに警戒を――。ローマ教皇レオ14世は24日、過度の「愛情」を示すチャットボットについて警鐘を鳴らし、人間がAIを相手に深い感情的な絆を育むのを防ぐ規制を求めた。
+
+米国生まれのレオ14世は、カトリック教会の年次行事「世界広報の日」を見据えて発表したメッセージで、AIが人間の創造性や意思決定を希薄化する危険性に言及した。
+
+レオ14世...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35243134.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/25/398bcb698ecac89afea9fb69023fa2ae/t/768/511/d/gettyimages-2252143922.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243133.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-25T11:57:00+09:00</dc:date>
+        <title>ウクライナが3カ国協議は「建設的」、米も「非常に前向き」　2月1日に再協議</title>
+        <link>https://www.cnn.co.jp/world/35243133.html?ref=rss</link>
+        <description>ウクライナ情勢をめぐり、ウクライナとロシア、米国による3カ国協議が24日、前日に続いてアラブ首長国連邦（UAE）のアブダビで行われ、2日間の協議を終了した。ウクライナは「建設的だった」とし、米国も雰囲気は「非常に前向きだった」と明らかにするなど、3カ国はいずれも楽観的な姿勢を示した。
+
+3カ国の当局者が一堂に会するのは、ロシアがウクライナへの侵攻を開始した2022年以降で初めて。
+
+米当局者は、今回の協議につい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243133.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/25/a2ca35e1f6b9992c726577da5c457837/t/768/511/d/large--3-ukraine-crisis-russia-emirates-talks.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243132.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-25T10:43:00+09:00</dc:date>
+        <title>女性インフルエンサーの無事を確認、銃で連れ去られる動画が拡散　メキシコ</title>
+        <link>https://www.cnn.co.jp/world/35243132.html?ref=rss</link>
+        <description>メキシコ北西部シナロア州で行方不明となっていた米国とメキシコの二重国籍の女性インフルエンサーが無事に発見され、健康状態も良好なことが確認された。州検察当局が24日、明らかにした。
+
+検察はSNSへの投稿で、捜索に協力した市民らに感謝を示すとともに、「ラ・ニコレット」ことニコル・パルドさん（20）が安全に発見されたと発表した。
+
+パルドさんをめぐっては先に、白昼に銃を持った男たちに連れ去られる様子を捉えたと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243132.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/25/51a750cfe051410542389125b9d453be/t/335/432/d/image.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243131.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-25T10:38:00+09:00</dc:date>
+        <title>米ミネアポリス銃撃、男性は射殺前に連邦捜査官に銃を取り上げられていた　CNN映像分析</title>
+        <link>https://www.cnn.co.jp/usa/35243131.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスで連邦捜査官が男性を射殺した事件。CNNの映像分析では、複数の捜査官による銃撃の前、1人の連邦捜査官が死亡したアレックス・プレッティさん（37）から銃を取り上げているように見える。
+
+居合わせた人の動画には、プレッティさんを制圧しようと複数の捜査官がもみ合う中、1人の捜査官が割って入り、銃を回収する様子が映っている。この銃は国土安全保障省（DHS）の説明でプレッティさんが所持してい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243131.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/25/f0b9b7bab2fa54964bfe2e8b5ffd9f5c/t/768/615/d/ice-shooting-image-5-20260125031848811.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243130.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-25T09:05:00+09:00</dc:date>
+        <title>男性が国境警備隊員に撃たれて死亡、国土安全保障省と州で対立する主張　米ミネアポリス</title>
+        <link>https://www.cnn.co.jp/usa/35243130.html?ref=rss</link>
+        <description>米中西部ミネソタ州ミネアポリスで24日、男性が国境警備隊員に撃たれて死亡した。情報筋はCNNの取材に対し、死亡した男性は、地元の退役軍人省の病院で集中治療室（ICU）の看護師として働いていたアレックス・プレッティさんだと明らかにした。
+
+国土安全保障省（DHS）は、男性が拳銃を所持しており、捜査官が武装解除しようとした際に「激しく抵抗した」と発表した。これに対し、ミネソタ州のウォルズ知事は、映像を見る限りそ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243130.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/25/7d8ac54b677841be2347fe706308b822/t/768/504/d/large-rmadp-3-usa-trump-minnesota.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243128.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-24T18:55:00+09:00</dc:date>
+        <title>シャチが人間にえさを分け与えてくれた瞬間の映像　その理由は？</title>
+        <link>https://www.cnn.co.jp/fringe/35243128.html?ref=rss</link>
+        <description>カナダの海洋生物学者チーム「ベイ・セトロジー」のエグゼクティブディレクターを務めるジャレッド・タワーズ氏が、一対のシャチを観察するため水中にカメラを設置したところ、奇妙な光景を目にした。若いメスのシャチが「弟シャチを撮影するために水中に設置していたカメラに近づき、口を開けて死んだ海鳥を出した」というのだ。
+
+シャチは口を閉じ、タワーズ氏の反応をうかがうように動きを止め、死んだ海鳥が頭上に浮かんで...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243128.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/07/10/a305f2eaffb910cf021557047d8f7370/t/768/512/d/enp.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243126.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-24T18:45:00+09:00</dc:date>
+        <title>謎に満ちた超巨星ベテルギウス、新たな観測で最大級の疑問解明か　伴星の「航跡」で減光？</title>
+        <link>https://www.cnn.co.jp/fringe/35243126.html?ref=rss</link>
+        <description>天文学者は長年、赤色超巨星ベテルギウスの近くに隠れた伴星が存在することを示す手掛かりを探してきた。そして今回、研究者は新たな証拠を発見した。船の後方に残る「航跡」のような跡だ。この航跡はベテルギウスの上層大気を切り裂く形で伸びており、見えない伴星によって形成された可能性が高い。
+
+ベテルギウスの赤みがかった色は、地球から約650光年離れたオリオン座の方向から輝いているのが確認できる。
+
+恒星としてのサ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243126.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/24/4ec5e1de922b84782d92dc70aa5951ba/t/768/431/d/betelgeuse-01.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243127.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-24T18:40:00+09:00</dc:date>
+        <title>冷戦時代のリアル「トップガン」、30分でソ連のミグ4機撃墜も戦闘の事実を50年口外せず</title>
+        <link>https://www.cnn.co.jp/usa/35243127.html?ref=rss</link>
+        <description>ロイス・ウィリアムズさんは、まさに実在する「トップガン」だった。トム・クルーズが生まれる10年前のことだ。
+
+1952年11月のある肌寒い日、ウィリアムズさんはソ連のジェット戦闘機4機を撃墜し伝説になったが、その事実は50年以上誰にも知られることがなかった。
+
+元海軍飛行士として、ウィリアムズさんには2023年1月20日の式典で海軍十字章が授与された。同軍で2番目の高位に当たる勲章だ。
+
+以下、ウィリアムズさんがどれだ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243127.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/24/46c47db3da5f7c956b29a5e0593d6d0e/royce-williams-undated-2019-super-169.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243125.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-24T17:30:00+09:00</dc:date>
+        <title>米移民捜査官による5歳児連行、当局は「やむを得なかった」と説明　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/usa/35243125.html?ref=rss</link>
+        <description>小さなチェックのコートと青いニットのウサギの帽子を身につけた5歳のリアム・コネホ・ラモス君は、無表情で前を見つめていた。その後、取り囲む捜査官たちによって父親と共に身柄を拘束された。
+
+米ミネソタ州ミネアポリス郊外の自宅の私有車道で、マスクをした連邦捜査官にスパイダーマンのリュックの取っ手を握られながら、雪の付着した黒いSUV（スポーツ用多目的車）に乗せられるリアム君。それから飛行機に乗り、父親と共...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243125.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/3e72e516010972f14a04599359e4f796/t/323/432/d/liam-photo-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243124.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-24T14:42:00+09:00</dc:date>
+        <title>寒さで「木が爆発」？、寒波到来の米国で話題に　表現から来る誤解も　</title>
+        <link>https://www.cnn.co.jp/fringe/35243124.html?ref=rss</link>
+        <description>22日の朝、ジョン・サイラー氏と学生たちは一緒に米バージニア工科大学のキャンパスを歩いていた時、思わず足を止めた。セイヨウミザクラの木の幹に、異様なぎざぎざの傷跡が走っていた。
+
+サイラー氏はバージニア工科大の教授で、樹木生理学の専門家でもある。SNS上で「木の爆発」と呼ばれる現象でできた傷だとピンときた。
+
+「寒さで木が裂けていた」と、サイラー氏は振り返る。
+
+米国の半数以上の地域が強力な冬の嵐に備える...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243124.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/24/68628fc2703ed7f8b5fbd9c4bb40d1d5/t/768/512/d/gettyimages-2254882627.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35243114.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-24T14:00:00+09:00</dc:date>
+        <title>パイロットをしらふに保つ、航空会社の安全策</title>
+        <link>https://www.cnn.co.jp/travel/35243114.html?ref=rss</link>
+        <description>飲酒と重機の操作が両立しないことは、広く認識されている。
+
+アルコールは反応時間を遅らせ、判断力や集中力を鈍らせ、めまいや吐き気を引き起こすこともある。このような影響は、航空機の操縦においてはさらに危険性が高まる。
+
+職業パイロットが酒に酔った状態で飛行機を操縦することはまれであるが、近年相次いだ事案により、この問題が改めて注目を集めている。
+
+特に2024年12月、日本航空の2人のパイロットがフライトの前...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35243114.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/c474335a7d9e3347a409ac5098de3cdd/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWpncnNzaHowMDAxM2I2bnpscWRsMGNt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtaXh5dHBuYjAwMjAyNm94ODNodDBiMmU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243121.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-24T13:10:00+09:00</dc:date>
+        <title>NATO軍、アフガンの前線から「やや後方にいた」とトランプ氏　加盟国の怒り買う</title>
+        <link>https://www.cnn.co.jp/world/35243121.html?ref=rss</link>
+        <description>米国のトランプ大統領は北大西洋条約機構（NATO）の加盟国について、米国が「必要とする」時に「そこにいる」のかどうか改めて疑問を呈した。その際、NATO軍はアフガニスタンの前線から「やや後方にいた」と根拠なく主張した。
+
+「私は常にこう言い続けてきた。『もし我々が彼らを必要としたら、彼らはその場にいるだろうか？』。それこそが本当の試金石になる。だが私には確信が持てない。我々はその場にいただろうし、これか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243121.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/24/913272eacdcb66ec2e96aa449e2be3b5/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtxdWh1eWkwMDBvM2I2cHNwZm02cnhr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta3F1ZjUxcjAwMHkyNnFpYXlqdjRlb2w_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243122.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-24T12:19:00+09:00</dc:date>
+        <title>ロシア、ウクライナ首都をミサイルと無人機で攻撃　3カ国協議が終了した数時間後</title>
+        <link>https://www.cnn.co.jp/world/35243122.html?ref=rss</link>
+        <description>ウクライナ戦争終結を目指す3カ国協議の初日が23日に終了した数時間後、ウクライナの首都キーウが攻撃を受けた。
+
+ウクライナ空軍は、キーウがミサイルとドローン（無人機）による攻撃を受けていると報告。防空システムが作動したことを明らかにした。
+
+キーウにいるCNNの複数の記者から、爆発音を聞いたとの報告が寄せられている。
+
+キーウのクリチコ市長は、少なくとも11人が負傷し、そのうち2人が重体だと報告した。2人は地...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243122.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/24/9e90852de28991e41ff69547f536ad67/t/768/512/d/gettyimages-2257306809.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243119.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-24T11:35:00+09:00</dc:date>
+        <title>カナダの元スノーボード五輪選手を逮捕、麻薬密売でFBIの最重要指名手配犯に</title>
+        <link>https://www.cnn.co.jp/usa/35243119.html?ref=rss</link>
+        <description>スノーボードのカナダ代表として五輪に出場した経歴を持つ一方、現在は同国最大のコカインの密売人と目されている人物が逮捕され、米国当局に拘束されていることが分かった。
+
+逮捕されたライアン・ウェディング被告は米連邦捜査局（FBI）が挙げる「最重要指名手配犯10人」の一人で、拘束に1500万ドル（約23億円）の懸賞金がかけられていた。同被告は犯罪組織の運営、コカイン密売、殺人の罪で起訴され、米国、カナダ、メキシコ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243119.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/24/e55cb5058f95d740b0df21f1f8afd059/t/308/432/d/ryan-wedding-2024.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243120.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-24T10:47:00+09:00</dc:date>
+        <title>女性インフルエンサー、メキシコで銃を突きつけられ白昼拉致か　動画拡散</title>
+        <link>https://www.cnn.co.jp/world/35243120.html?ref=rss</link>
+        <description>メキシコ北西部シナロア州で今週、米国とつながりのある女性コンテンツクリエーターが行方不明になり、メキシコ当局が捜索を進めている。女性が白昼、銃を突きつけられて拉致される様子とみられる動画が拡散したことを受け、対応に乗り出した。
+
+米テスラ「サイバートラック」のカメラで撮影されたとされる映像には、武装した複数の男が「ラ・ニコレット」ことニコル・パルドさんを別の車に無理やり押し込む瞬間が映っているよ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243120.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/24/0fc8fdcfa9014253d36b1697aa7fd04b/t/335/432/d/untitled-4-20260123225805986.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243118.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-24T09:30:00+09:00</dc:date>
+        <title>ウクライナと米ロが3カ国協議、結論出すのは「時期尚早」とゼレンスキー氏</title>
+        <link>https://www.cnn.co.jp/world/35243118.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は、23日にアラブ首長国連邦（UAE）で行われた米国、ロシア、ウクライナの3カ国協議について、結論を出すのは「時期尚早」だと述べた。
+
+「本日の交渉の内容について結論を出すのは時期尚早だ。明日の協議がどのように進み、どのような結果になるかを見守ることになる。この戦争の終結と完全な安全保障の実現をウクライナだけが望むのではなく、ロシアにも何らかの形で同様の願望が生まれること...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243117.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-24T08:53:00+09:00</dc:date>
+        <title>米軍が東太平洋で「麻薬船」を攻撃、2人死亡　1人が生存</title>
+        <link>https://www.cnn.co.jp/usa/35243117.html?ref=rss</link>
+        <description>米軍は23日、東太平洋で麻薬密輸への関与が疑われる新たな船を攻撃し、米南方軍によると、2人が死亡した。
+
+生存者は1人。南方軍は、米沿岸警備隊に生存者の捜索救助任務を実施するよう通知したことを明らかにした。
+
+南方軍はX（旧ツイッター）に「1月23日、ピート・ヘグセス戦争省長官の指示を受け、統合任務部隊サザンスピアは指定テロ組織が運航する船舶に対し致死的な攻撃を実施した」と書き込んだ。
+
+「麻薬船」への一連...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243117.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/24/60dfe5c3bddf5a2d137b626df3a2afbb/t/768/432/d/still-22305290-1196-779-still-20260123224057843.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243062.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T18:35:00+09:00</dc:date>
+        <title>趣味は「影の船団」タンカーの追跡、シンガポール在住の営業マンに話を聞く</title>
+        <link>https://www.cnn.co.jp/world/35243062.html?ref=rss</link>
+        <description>自由時間にネットフリックスで映画を楽しむ人がいるように、レミー・オスマン氏（32）の趣味は、シンガポール海峡を通るさびた違法な石油タンカーを追いかけることだ。
+
+オスマン氏は食品、飲料の営業マンとして働く英国人。シンガポールにある自宅のコンドミニアムから、「影の船団」と呼ばれる制裁違反の船を撮影し、インターネットに投稿している。
+
+影の船団、別名「幽霊船団」あるいは「闇の船団」は、欧米諸国の制裁など...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243062.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/22/8ddf57cccc0f012eaa58612bba948372/t/768/432/d/whatsapp-image-2026-01-16-at-1-40-12-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35243109.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T18:24:00+09:00</dc:date>
+        <title>TikTok、米国事業の将来が確定　新合弁会社設立の取引完了</title>
+        <link>https://www.cnn.co.jp/tech/35243109.html?ref=rss</link>
+        <description>中国発の動画共有アプリTikTok（ティックトック）の米国事業を買収する合弁会社が正式に設立され、経営陣を発表した。当該の合弁会社が明らかにした。TikTok親会社の中国企業バイトダンス（字節跳動）から米国事業を切り離すようトランプ米大統領が設定した期限を翌日に控えての発表となった。
+
+今回の合弁会社設立取引の完了により、米国におけるTikTokの長期的な将来の確保に向けた長年の取り組みが決着する。国家安全保障上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35243109.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/cbd40804b562c880236066e258e51529/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtxNTJicHAwMDAxMzU2cGYydDlseTFl-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta3B4bm43djAwMXgyN3A4ZzRrcmRnZTg_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243095.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T16:30:00+09:00</dc:date>
+        <title>グリーンランド巡る将来的な合意の枠組み、文書では存在せず　情報筋</title>
+        <link>https://www.cnn.co.jp/world/35243095.html?ref=rss</link>
+        <description>米国のトランプ大統領と北大西洋条約機構（NATO）のルッテ事務総長は、21日の会談でデンマーク自治領グリーンランドの問題を巡って口頭合意に達した。ただこれまでのところ、将来の合意について記した文書の作成には至っていない。協議に詳しい複数の人物がCNNに明らかにした。
+
+これらの情報筋によると、トランプ氏とルッテ氏は、グリーンランドにおける米軍の駐留を規定する1951年の米国、デンマーク、グリーンランド間の協定...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243095.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/4b3fd0a99b6de1f9882e7c53abf64f42/t/768/512/d/gettyimages-2256886778.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243100.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T15:30:00+09:00</dc:date>
+        <title>トランプ氏三男、友人女性を襲撃から救出か　ビデオ通話中異変に気づき通報と英裁判所</title>
+        <link>https://www.cnn.co.jp/world/35243100.html?ref=rss</link>
+        <description>トランプ米大統領の三男バロン・トランプ氏が昨年、英ロンドンにいる友人の女性とビデオ通話中、女性への暴行とみられる場面を目撃し、警察に通報していたことが分かった。英国の裁判所が明らかにした。
+
+英PAメディア通信によると、バロン氏の緊急通報の記録が21日、ロンドンの裁判所で開かれた公判で公開された。
+
+当該の裁判では22歳の男の被告が暴行、傷害、レイプ2件、故意の首絞め、司法妨害の罪に問われている。被告は全...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243100.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/7a408ffcda5c21e62e23db08a7be8688/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtwZmprcm0wMDA1MzU2cDU3OWV4MnV5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta3BmaWlvejAwZjAyNnA0Y3Axdjl0amU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243097.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T13:32:00+09:00</dc:date>
+        <title>ロシア、米ウクライナとの3カ国協議実施を確認　23日にUAE首都アブダビで</title>
+        <link>https://www.cnn.co.jp/world/35243097.html?ref=rss</link>
+        <description>ロシアは、ウクライナ・米国・ロシアの当局者による会談が23日にアラブ首長国連邦（UAE）で行われることを確認した。
+
+クレムリン（ロシア大統領府）のウシャコフ大統領補佐官は記者団に対し、会談はUAE首都アブダビで行われると述べた。
+
+ウクライナのゼレンスキー大統領は22日、スイス・ダボスで開催されている世界経済フォーラム年次総会（ダボス会議）で、3カ国会談が2日間の日程で行われると発表していた。これは、ロシア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243097.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/275b45f07f56f82142d25d86d3c09b5f/t/768/541/d/c-gettyimages-2257037678.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243096.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T13:16:00+09:00</dc:date>
+        <title>トランプ氏が議長を務める「平和評議会」とは　参加国など知っておくべきこと</title>
+        <link>https://www.cnn.co.jp/world/35243096.html?ref=rss</link>
+        <description>トランプ米大統領は、西側諸国を自身が議長を務める「平和評議会」に引き入れようと躍起になっている。これまでのところ支持を取り付けたのは、中東の君主ら、欧州最後の独裁者とされる人物、そして戦争犯罪容疑で指名手配されている少なくとも1人の指導者だ。
+
+トランプ氏は、世界的な紛争の解決を目指すこの評議会に数十カ国を招待したが、その権限は、国連に取って代わる「可能性がある」というトランプ氏の発言とともに、米...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243096.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/8731182f656bed31494a7ab60a5bb359/t/768/511/d/c-gettyimages-2256772747.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243093.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-23T11:56:00+09:00</dc:date>
+        <title>米アカデミー賞、「罪人たち」が史上最多の16部門ノミネート　「国宝」はメイク・ヘア賞候補</title>
+        <link>https://www.cnn.co.jp/showbiz/35243093.html?ref=rss</link>
+        <description>第98回米アカデミー賞の候補作品が22日に発表され、ライアン・クーグラー監督のバンパイアホラー映画「罪人たち」が、長編映画として史上最多の16部門でノミネートされた。
+
+日本映画はメイクアップ・ヘアスタイリング賞候補として、「国宝」の豊川京子さん、日比野直美さん、西松忠さんが選ばれている。
+
+「罪人たち」は、作品賞、監督賞、脚本賞、主演男優賞、助演女優賞、助演男優賞など16部門でノミネート。これまでの最多...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243093.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/23/3a4575a425a2b06c91fd8092a6fdfcb0/t/768/512/d/gettyimages-1248080712.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
