@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-01-30T08:24:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243341.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243340.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35243336.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243334.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243330.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243333.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243331.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35243326.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243328.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243322.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35243323.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35243316.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35243313.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243311.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243303.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243293.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243292.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243286.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243279.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243276.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243268.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243261.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243259.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243254.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243255.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243234.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243232.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243231.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243226.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243215.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243341.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-30T08:24:00+09:00</dc:date>
+        <title>米政権、ミネソタ州での移民取り締まり縮小を指示　国境管理責任者が会見</title>
+        <link>https://www.cnn.co.jp/usa/35243341.html?ref=rss</link>
+        <description>トランプ米政権で国境管理の包括的責任者を務めるトム・ホーマン氏は29日、ミネソタ州に配置している移民取り締まり捜査官の「削減計画」に取り組むよう、連邦移民当局に命じたことを明らかにした。
+
+今回の判断は連邦捜査官が同州で市民2人を射殺したことをきっかけに、強引な移民取り締まりや政権に対して批判が一層強まっている中でのもの。事態の鎮静化を図るため、トランプ大統領はホーマン氏を同州に派遣していた。
+
+ホー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243341.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/30/d26a6eafcdbea415b5e983101ea4980b/t/768/511/d/ap26029507986538.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243340.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-30T07:54:00+09:00</dc:date>
+        <title>トランプ氏、「ロシアが攻撃1週間停止に同意」　ウクライナでの寒波受け要請</title>
+        <link>https://www.cnn.co.jp/usa/35243340.html?ref=rss</link>
+        <description>トランプ米大統領は29日、ウクライナで極めて厳しい寒さとなっていることから、ロシアのプーチン大統領にウクライナの主要都市への攻撃を1週間停止するよう要請し、同意が得られたと明らかにした。
+
+トランプ氏は閣議で米国同様にウクライナが記録的な寒波に見舞われていることに言及し、「首都キーウやその他の都市を1週間攻撃しないよう、プーチン大統領に個人的に要請した」「プーチン氏は同意した」と述べた。いつ要請した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243340.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/30/e74a3537ff0736fd4de8762638f24250/t/768/512/d/034-gettyimages-2256863104.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35243336.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T19:05:00+09:00</dc:date>
+        <title>「コンコルド」就航から50年、元パイロットたちが語る超音速の世界</title>
+        <link>https://www.cnn.co.jp/travel/35243336.html?ref=rss</link>
+        <description>1976年1月21日、当時十代の少年だったジョン・タイ氏は英ロンドン・ヒースロー空港の金網によじ登り、英ブリティッシュ・エアウェイズ（BA）の超音速旅客機「コンコルド」の就航に歓声を上げる群衆のなかにいた。
+
+りりしい機体が空へ飛び立ち、歴史をつくる瞬間を目撃したタイ氏は、興奮と驚きに包まれていた。
+
+約20年後、その操縦室に座る夢のような日が訪れようとは、本人も予想していなかった。
+
+タイ氏は初めてコンコルド...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35243336.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/be2d6282be489c0a78ad1350fda480e1/t/768/493/d/230426141347-01-concorde-pilots-perspective-plane.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243334.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T18:30:00+09:00</dc:date>
+        <title>コアラを山火事から救出、熱波で苦境に立つ動物たち　オーストラリア</title>
+        <link>https://www.cnn.co.jp/world/35243334.html?ref=rss</link>
+        <description>オーストラリア・ビクトリア州の農場で山火事が猛威を振るう中、住民たちがコアラ1頭を救助する出来事があった。
+
+記録的な熱波により気温が急上昇し、オーストラリア国内では火災が頻発している。
+
+記者が撮影した農場では火の手が上がる中、コアラのケビンが燃え盛る木の梢から逃げ出した。
+
+住民のカーリー・スミスさんは、現場では熱気や埃（ほこり）、煙が充満していると、火災の状況を説明する。
+
+農場の人々は苦しそうに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243334.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/28ac9de01b6c473fb45c9867d919dd2e/t/768/432/d/koala-16x9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243330.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T17:56:00+09:00</dc:date>
+        <title>中国、ギャングのメンバー11人を処刑　ミャンマーで巨額を窃取する犯罪帝国運営</title>
+        <link>https://www.cnn.co.jp/world/35243330.html?ref=rss</link>
+        <description>中国国営メディアは29日、当局が悪名高い犯罪組織「ミン一家」の構成員11人を処刑したと報じた。ミン一家はミャンマーでマフィアのような詐欺拠点を運営し、逃亡を試みた配下の労働者を殺害していた。
+
+ミン一家は、ミャンマー北部のいわゆる「四大ファミリー」の一つ。これらの組織はインターネット詐欺、売春、麻薬製造などを扱う数百の拠点を運営していたとされ、その構成員は同国の軍事政権と連携する地方政府や民兵組織で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243330.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/f163152998a810a9c6a80d69c12742a5/t/768/512/d/intermediate-people-s-court-of-wenzhou__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243333.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T17:18:00+09:00</dc:date>
+        <title>クレア・デインズ、44歳で妊娠が判明したときの心境語る　「錯乱した」</title>
+        <link>https://www.cnn.co.jp/showbiz/35243333.html?ref=rss</link>
+        <description>米俳優クレア・デインズは、44歳で3人目の子どもを妊娠したことを知ったとき、「錯乱した」と語っている。
+
+1996年公開の映画「ロミオ＆ジュリエット」でレオナルド・ディカプリオと共演し、一躍有名になったデインズは、夫で俳優のヒュー・ダンシーとの間に3人目の子どもを授かったことを知った時、涙があふれたという。
+
+ポッドキャストの番組に出演したデインズはこう語った。「泣きじゃくりながら産婦人科医に電話したの。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243333.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/a57945cd12ef99d78a31d7c7030b0147/t/768/514/d/2022-04-25t175113z-454335749-rc26tt9ih9mr-rtrmadp-3-film-downton-abbey-a-new-era-premiere.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243331.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T16:36:00+09:00</dc:date>
+        <title>学生を狙った痴漢事件の増加に警告、受験シーズン迎えて　日本</title>
+        <link>https://www.cnn.co.jp/world/35243331.html?ref=rss</link>
+        <description>日本の警察は、女子学生に対し、特に電車内での痴漢行為に注意するよう呼びかけている。犯人たちは、受験シーズンで学校に遅刻できないため、学生が事件を通報する可能性が低いことを認識しているという。
+
+東京を訪れたことがある人なら、すぐ後ろに潜んでいるかもしれない痴漢に注意するよう警告するポスターを見たことがあるだろう。あるいは、一般市民が痴漢行為の現場を取り押さえる様子を捉えたSNSの動画を見たことがある...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243331.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/aa07868ed3ed35726865776eb27aa6f5/t/768/432/d/3a-thumbnail-2-cnn-20260128091438976.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35243326.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T15:53:00+09:00</dc:date>
+        <title>有線イヤホンが今おしゃれ？　セレブやスポーツ選手の着用で人気復活</title>
+        <link>https://www.cnn.co.jp/tech/35243326.html?ref=rss</link>
+        <description>米プロバスケットボールNBAの選手といえば、ファッションモデル並みにトレンドを作り出す存在だ。
+
+レブロン・ジェームズは2008年、「Beats by Dre」のヘッドホンを首にかけて北京オリンピックに登場。まだ駆け出しだったこのブランドは、これで一夜にして爆発的ブームになった。
+
+それから約20年。注目の若手アンソニー・エドワーズからベテランのステフィン・カリーに至るまで、有線イヤホンを使う選手が増えている。
+
+レトロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35243326.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/b0f5360d76069c582e19ede51f6b4ddb/t/768/432/d/001-gettyimages-2257450011.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243328.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T15:21:00+09:00</dc:date>
+        <title>米ミネアポリスで射殺の男性、11日前に連邦捜査官と衝突　映像が浮上</title>
+        <link>https://www.cnn.co.jp/usa/35243328.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスで男性が税関・国境警備局（CBP）の捜査官によって射殺された事件に関連し、死亡したアレックス・プレッティさん（37）と連邦捜査官の間で事件の1週間前に衝突が起きていたことを示す新たな動画が浮上した。
+
+遺族の代理人はCNNに対し、28日に投稿された映像内の人物はプレッティさん本人だと確認した。
+
+デジタルメディア「ザ・ニュームーブメント」が投稿した映像には、プレッティさんが車で走り去ろ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243328.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/ad574248eac952212f210001b4ef5e0c/t/768/432/d/still-22319422-3479-635-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243322.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T14:58:00+09:00</dc:date>
+        <title>トランプ氏三男が英警察に通報した男、暴行罪で有罪　友人女性とビデオ通話中異変に気づく</title>
+        <link>https://www.cnn.co.jp/world/35243322.html?ref=rss</link>
+        <description>トランプ米大統領の三男バロン・トランプ氏が昨年、英ロンドンにいる友人の女性とビデオ通話中、女性への暴行とみられる場面を目撃して警察に通報していた件で、通報された男が女性への暴行で有罪となった。
+
+英PAメディア通信が28日に報じたところによると、ロンドン東部の裁判所での公判で有罪評決を受けたのはロシア国籍のマトベイ・ルミアンツェフ被告（22）。罪状は2025年1月17日から18日の間に実際に身体的危害を加えた暴...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243322.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/c48d2b3cbd9f54855cc52142c02b84bb/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWt2Yjl5ejQwMDB4Mzk2cHhzNmljOW12-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta3ZiNmR5MjAwMXoyNnFqZW04eGFocW8_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35243323.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T13:52:00+09:00</dc:date>
+        <title>アップルの「薄型iPhone」への賭け、消費者は支持せず　調査結果</title>
+        <link>https://www.cnn.co.jp/tech/35243323.html?ref=rss</link>
+        <description>アップルは昨年、主力スマートフォンである「iPhone（アイフォーン）」のデザインを約10年ぶりに刷新するという大きな賭けに出た。しかし、より薄型の「Air（エア）」は、購入者の心をつかめていないようだ。
+
+市場調査会社コンシューマー・インテリジェンス・リサーチ・パートナーズ（CIRP）のデータによると、Airの普及は、「17」「17プロ」「17プロマックス」に大きく後れを取っている。米国のiPhone購入者を対象にした調査...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35243323.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/89fc64b9f9f1bb44ee4377099774f5ae/t/768/511/d/large-ap25252694820340.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35243316.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T11:47:00+09:00</dc:date>
+        <title>旅行会社のAIブログが勧めた「穴場温泉」に観光客続々、実は存在せず　豪</title>
+        <link>https://www.cnn.co.jp/travel/35243316.html?ref=rss</link>
+        <description>オーストラリアの旅行会社のウェブサイトに、南部タスマニア島の秘境温泉を紹介するブログ記事が掲載された。その記事を頼りに温泉を目指す旅行客が続出。しかしその後、問題の記事を生成したのはAI（人工知能）で、この温泉は実在していなかったことが分かった。
+
+タスマニア島北部のお勧めスポットとして「静かな」温泉を紹介する記事は、タスマニア・ツアーズのウェブサイトに掲載された。その後削除されたが、CNNが入手した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35243316.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/88b09e137245ab474b0d79d4e8b8bd2c/t/768/512/d/large-gettyimages-1176982225.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35243313.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T11:12:00+09:00</dc:date>
+        <title>米FRBが政策金利を据え置き、4会合ぶりに利下げ見送り</title>
+        <link>https://www.cnn.co.jp/business/35243313.html?ref=rss</link>
+        <description>米連邦準備制度理事会（FRB）は28日、政策金利を据え置いた。FRBは、政治的介入なしに金利を設定できる権限を維持しようとしている。
+
+FRBは政策金利を3.50～3.75％の範囲に維持した。昨年後半に3会合連続で利下げを行った後の据え置きとなった。FRBのパウエル議長は会合後の記者会見で、今後も政策金利を維持する姿勢を示唆した。
+
+一方、パウエル氏はホワイトハウスとの対立については多くを語らなかった。パウエル氏は今月に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35243313.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/7af66dab0a9f69d30357caf3d88b5d3d/t/768/511/d/large-gettyimages-2258109508.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243311.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T10:26:00+09:00</dc:date>
+        <title>ロシアがウクライナの鉄道を攻撃、5人死亡　ゼレンスキー氏は「テロ行為」と非難</title>
+        <link>https://www.cnn.co.jp/world/35243311.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は、北東部ハルキウ州で、鉄道の列車がロシア軍のドローン（無人機）攻撃を受け、少なくとも5人が死亡したと明らかにした。ゼレンスキー氏は今回の攻撃を「テロ行為」だと非難した。
+
+現場では27日に起きた攻撃の被害に救急隊員が直面した。焼け焦げた残骸の周囲には犠牲者の遺体の一部が散乱し、死傷者の正確な数を直ちに把握することはできなかったという。
+
+列車にはおよそ300人が乗っており...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243311.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/1f7c51d4459bdfd254003c566ecd7218/t/768/576/d/large-3-ukraine-crisis-attack-kharkiv-train.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243303.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T09:35:00+09:00</dc:date>
+        <title>15人搭乗の航空機が墜落、生存者見つからず　南米コロンビア</title>
+        <link>https://www.cnn.co.jp/world/35243303.html?ref=rss</link>
+        <description>南米コロンビアで28日、乗客13人と乗員2人が搭乗した航空機が墜落した。生存者は確認されていない。コロンビア民間航空当局がCNNに明らかにした。
+
+搭乗者のなかにはディオヘネス・キンテロ議員も含まれている。同氏を下院議員に指名した政党が明らかにした。
+
+キンテロ氏の広報チームによると、航空機が消息を絶った後、同氏とアシスタントと連絡が取れなくなった。携帯電話の最後の位置情報は、離陸前のカミーロ・ダサ空港だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243303.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/8fd88baf69d3129f217b951ba2ee2c12/t/768/432/d/still-22318778-0-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243293.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T08:59:00+09:00</dc:date>
+        <title>トランプ氏、イランに核交渉を要求　「次の攻撃はさらに激しいものに」</title>
+        <link>https://www.cnn.co.jp/usa/35243293.html?ref=rss</link>
+        <description>トランプ米大統領は28日、イランに対し核をめぐる「公正な」交渉に応じるよう促し、応じなければ前回の核開発関連施設への攻撃よりもはるかに激しい軍事行動を取ると警告した。
+
+米軍は中東で複数日にまたがる演習を実施する予定で、米政権は中東地域で軍事的プレゼンスを強化している。トランプ氏は空母「エイブラハム・リンカーン」を中心とする艦隊が中東に向かっていることをSNSへの投稿で明らかにした。
+
+トランプ氏は「巨...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243293.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/dd7f1446d69a9c4cc9354577afaa6ab9/t/768/511/d/large-ap26020744538292.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243292.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-29T08:18:00+09:00</dc:date>
+        <title>発砲の捜査官2人、休職処分に　米ミネアポリス男性射殺</title>
+        <link>https://www.cnn.co.jp/usa/35243292.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスで看護師のアレックス・プレッティさんが移民を取り締まる捜査官に撃たれて死亡した事件をめぐり、発砲した捜査官2人が休職処分になっていることが明らかになった。国土安全保障省の報道官が28日、CNNに明らかにした。
+
+内部調査が行われる間、銃撃に関与した捜査官が休職となるのは標準的な処置。
+
+ミネソタ州での移民取り締まりを指揮していた国境警備隊トップのグレゴリー・ボビーノ氏は今週始め、C...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243292.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/29/3986451a1c096a9bc0055ccc96287688/t/768/510/d/large-gettyimages-2258420554.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243286.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-28T18:16:00+09:00</dc:date>
+        <title>32億年前の地球衝突で海を沸騰させた巨大隕石、「肥料爆弾」と呼ばれる理由とは</title>
+        <link>https://www.cnn.co.jp/fringe/35243286.html?ref=rss</link>
+        <description>今から30億年以上前、エベレスト山四つ分の大きさと推定される巨大な隕石（いんせき）が地球に衝突した。研究によると、その衝撃は、意外にも地球上の初期の生命体にとって有益だった可能性があるという。
+
+通常、巨大な隕石が地球に衝突すると、その衝撃は壊滅的被害をもたらす。6600万年前、現在のメキシコのユカタン半島沖に幅約10キロの小惑星が衝突したことにより、恐竜が絶滅した。
+
+しかし、32億6000万年前、恐竜を絶滅...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243286.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/06/733aa87e1bba1689bd1cfeffe91d00d7/t/768/432/d/salandscape.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243279.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-28T17:20:00+09:00</dc:date>
+        <title>ロシア軍の死傷者と不明者、ウクライナ侵攻で計120万人か　第2次大戦後の全紛争上回る</title>
+        <link>https://www.cnn.co.jp/world/35243279.html?ref=rss</link>
+        <description>4年近く前にウクライナ侵攻が始まって以降、ロシア軍の死傷者と行方不明者の数は約120万人に上ることが、米シンクタンク戦略国際問題研究所（CSIS）の新たな報告書で明らかになった。主要な軍事大国では第2次世界大戦後、類を見ない犠牲の多さだという。
+
+CSISの報告書では、膨大な人的損失にもかかわらず、戦場での領土獲得は比較的小規模にとどまっていると説明。ロシアが支配下に置くウクライナの領土は2022年以降、12％しか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243279.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/28/66a3bedecc9c2ef8c0697b951c1e2c89/t/768/511/d/gettyimages-1701277907.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243276.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-28T15:29:00+09:00</dc:date>
+        <title>米、中東で軍事演習を実施へ　イランとの緊張が高まる中</title>
+        <link>https://www.cnn.co.jp/usa/35243276.html?ref=rss</link>
+        <description>イランとの緊張を背景に米政権が中東地域で軍事的プレゼンスを強化する中、米軍が中東で複数日にまたがる航空演習を実施する方針であることが分かった。
+
+米中央空軍と共同航空構成部隊の指揮官を務めるデレク・フランス中将は声明で演習で触れ、空軍の要員が「厳しい状況下でも安全かつ正確に、パートナーと協力しながら分散して作戦を展開し、戦闘へ出撃できること」を証明する機会になると述べた。
+
+この発表に先立ち、トラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243276.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/28/4d826345595cce5f9e49944769c04a36/t/768/511/d/ap26026255858734.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243268.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-28T13:29:00+09:00</dc:date>
+        <title>オマル米下院議員に正体不明の物質噴射、男を拘束　ICE廃止など訴えた直後</title>
+        <link>https://www.cnn.co.jp/usa/35243268.html?ref=rss</link>
+        <description>米ミネソタ州で27日夜、男がオマル下院議員（民主党）に向けて強い臭いのする正体不明の物質を噴射する事件があった。オマル議員がノーム国土安全保障長官の辞任と移民税関捜査局（ICE）の廃止を求めた直後の出来事だった。
+
+地元や州の当局者と対話集会に出席したオマル氏は、聴衆から拍手が上がる中で発言を行っていた。そのタイミングで男が演壇に突進し、オマル氏に向けて怒鳴りながら、注射器のようなもので物質を噴射して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243268.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/28/54c20ce03c0a6bffc06fe20f6536b38a/t/768/432/d/attack.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243261.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-28T12:28:00+09:00</dc:date>
+        <title>「社畜」の現実映す？　悲しい顔になった馬の縫いぐるみ、中国で大人気</title>
+        <link>https://www.cnn.co.jp/world/35243261.html?ref=rss</link>
+        <description>中国で旧正月（春節）を前に、ある赤い馬の縫いぐるみが大人気になっている。
+
+この縫いぐるみは縫製ミスが原因で、笑顔になるはずの口の形が逆向きに付けられてしまった。ところが口がへの字になった悲しげな表情を、「社畜」生活の反映と受け止めて共感する人が続出した。
+
+浙江省にある日用雑貨品取引市場の義烏国際貿易都市では、卸売業者が午年の春節を前に、売り上げの急増を歓迎している。
+
+玩具店の店長は悲しい顔の馬...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243261.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/28/ef4e6202d4969fc608d5223d458ddca0/t/768/432/d/sad-horse-16x9.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243259.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-28T12:03:00+09:00</dc:date>
+        <title>メラニア夫人、異例のインタビューで米国民に「団結」呼びかけ　移民捜査官によるミネアポリス銃撃受け</title>
+        <link>https://www.cnn.co.jp/usa/35243259.html?ref=rss</link>
+        <description>移民捜査官による米市民2人の射殺事件をめぐりミネソタ州ミネアポリスで広がる抗議活動を受け、トランプ大統領の妻メラニア氏は27日、国民に団結を呼びかけた。
+
+メラニア氏はFOXニュースに「私たちは団結する必要がある。私は団結を呼びかけている。私の夫である大統領が昨日、州知事と市長と素晴らしい電話会談を行い、暴動のない平和を取り戻すために連携していることを私は知っている」と語った。
+
+トランプ氏が2期目に入っ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243259.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/28/fbff80bcc10599281bf29b41e5657e1c/t/768/521/d/gettyimages-2248825946.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243254.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-28T11:21:00+09:00</dc:date>
+        <title>米移民当局が冬季五輪で米国の警備支援、イタリアで憤り噴出　「ICEはいらない」</title>
+        <link>https://www.cnn.co.jp/world/35243254.html?ref=rss</link>
+        <description>米移民税関捜査局（ICE）が2月にイタリアで開幕するミラノ・コルティナ冬季オリンピックで米国の外交警備を支援する計画をめぐり、イタリアの議員や政治家から憤りの声が噴出している。
+
+米国ではミネソタ州ミネアポリスの移民取り締まりで市民2人が移民捜査官に射殺される事件が起きたばかり。これを受けてイタリアの議員らはジョルジャ・メローニ首相に対し、ICEの派遣阻止に向けた介入を求めている。
+
+米国土安全保障省は27...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243254.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/28/dbd1e10e8f0631d2b2533c09311d8287/t/768/512/d/gettyimages-2256091466.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243255.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-28T11:15:00+09:00</dc:date>
+        <title>米ミネアポリスの男性射殺、捜査官2人が発砲　国土安全保障省の初期報告　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35243255.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスで先週末にアレックス・プレッティさんが射殺された事件で、捜査官2人が発砲していたことが分かった。CNNは国土安全保障省（DHS）から議会へ提出された初期報告の内容を確認した。
+
+この報告書は、プレッティさんの射殺を巡る税関・国境警備局（CBP）の初期調査から作成された。隊員らが地面でプレッティさんともみ合う中、捜査官の1人が「銃を持っているぞ」と何度も叫び、その後に捜査官2人が発砲し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243255.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/28/5ae143d5154122f411b230abdf00a268/t/768/511/d/gettyimages-2257632248a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243234.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-28T09:59:00+09:00</dc:date>
+        <title>人類絶滅まであと85秒、「終末時計」の針進む　史上最も終末に近く</title>
+        <link>https://www.cnn.co.jp/world/35243234.html?ref=rss</link>
+        <description>核の時代の黎明（れいめい）期、人類が世界を破滅させる日がどれほど近いかを表す象徴として、科学者が「終末時計」を作り出した。それからおよそ80年。午前0時までの残り時間があと85秒となり、人類は史上最も終末に近付いた。1947年に時計を設置した米誌ブレティン・オブ・ジ・アトミック・サイエンティスツが27日に発表した。
+
+終末時計の午前0時は、人類が地球を生存不可能な場所に変える瞬間を表す。
+
+昨年、終末までの時...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243234.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/28/fec10deadf2d231d1c99f885f88dc39f/t/768/432/d/ap26026683763751.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243232.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-28T08:43:00+09:00</dc:date>
+        <title>米アリゾナ州で国境警備隊と銃撃戦、1人重体　連邦のヘリに発砲も</title>
+        <link>https://www.cnn.co.jp/usa/35243232.html?ref=rss</link>
+        <description>米アリゾナ州のメキシコ国境付近で27日早朝、追跡を受けた人物が国境警備隊の隊員と銃撃戦になり、連邦政府のヘリコプターにも発砲したことが分かった。容疑者は重体だという。連邦法執行当局の情報筋が明らかにした。
+
+情報筋によると、連邦捜査官は現地時間午前7時過ぎ、アリゾナ州アリバカ近郊でピックアップトラックを停止させようとしたものの、車内の人物は停車せず、最終的に車を降りて逃走した。
+
+容疑者は連邦政府のヘ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243232.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/28/e0a42d0a799c4fa0104c9629f70b0170/t/768/432/d/still-22314677-19996-158637783134-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243231.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-28T07:49:00+09:00</dc:date>
+        <title>トランプ政権、米ミネアポリス銃撃被害者の認識で矛盾　「国内テロリスト」と呼ぶ高官も</title>
+        <link>https://www.cnn.co.jp/usa/35243231.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスで看護師のアレックス・プレッティさんが移民捜査官に撃たれて死亡した事件をめぐり、トランプ大統領は27日、プレッティさんが「国内テロリスト」呼ばわりされているのは耳にしていないと述べた。政権の一部の高官は事件直後にそうした表現を用いてプレッティさんを非難しており、説明は矛盾している。
+
+国土安全保障省のノーム長官やミラー大統領次席補佐官らはプレッティさんを「国内テロリスト」だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243231.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/28/2aea8d95a77de835a01467f6df8e119c/t/768/511/d/gettyimages-2257967212.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243226.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-27T19:20:00+09:00</dc:date>
+        <title>ユキヒョウがスキーヤー襲う、中国の新疆ウイグル自治区で</title>
+        <link>https://www.cnn.co.jp/world/35243226.html?ref=rss</link>
+        <description>中国北西部でこのほど、観光客が希少なユキヒョウに襲われる出来事があった。観光客は写真を撮ろうとユキヒョウに近づいたという。当局と国営メディアが明らかにした。
+
+新疆ウイグル自治区コクトカイ鎮の林業草原局によると、この観光客はスキーをしてホテルに戻る途中、ユキヒョウに噛（か）まれたという。
+
+ユキヒョウは野生で目撃するのが最も難しい部類の動物。中国国営中央テレビ（CCTV）によると、当該の観光客はユキヒ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243226.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/27/84aa66e9b0601f00765976acc4778213/t/768/432/d/snow-leapard-still-22312880-12356-576000000001-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243215.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-01-27T18:27:00+09:00</dc:date>
+        <title>一度は破れたK―POPアイドルの夢、自作の映画主題歌で10年後に復活　EJAE</title>
+        <link>https://www.cnn.co.jp/showbiz/35243215.html?ref=rss</link>
+        <description>大ヒットアニメ映画「KPOPガールズ！　デーモン・ハンターズ」の感動的なフィナーレで、彼女の歌声は魂を喰らうモンスターたちを打ち負かした。しかし、韓国系米国人歌手EJAE（イジェ）にとって、この勝利は名声や富以上のものをもたらした。
+
+それは自らの正しさの証明だ。
+
+EJAEは韓国最大級の芸能事務所と契約し、K―POPスターを目指していた。11歳から10年以上、昼夜を問わない過酷な練習に耐えてきた。これはK―POP志望者に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243215.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/27/56cc6be05a7951dd6c6e6c4abadd9b84/t/768/432/d/gettyimages-2250257105.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
