@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-02-10T16:59:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243745.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243744.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243741.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243737.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243738.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35243736.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35243725.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243730.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243724.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243715.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243723.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243716.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243699.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243702.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243695.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243697.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243688.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243689.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243684.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243686.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243682.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243679.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243678.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243668.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243667.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243666.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35243665.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243664.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243663.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243662.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243745.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-10T16:59:00+09:00</dc:date>
+        <title>ビデオ通話で料理を教えてくれた母親、翌日詐欺に巻き込まれ射殺　米</title>
+        <link>https://www.cnn.co.jp/usa/35243745.html?ref=rss</link>
+        <description>米サウスカロライナ州コロンビア在住のマリオ・ホールさんが、母親であるロリーサ・トーランドホールさん（61）の姿を最後に見たのは、動画や音声の通話アプリ「フェイスタイム」でペッパーステーキの作り方を教わったときだった。
+
+オハイオ州ダブリンの自宅のキッチンで、母親はコンロのそばに携帯電話を立てかけ、ホールさんがフライパンを見られるようにしていた。
+
+「ペッパーステーキが食べたかったけれど、作り方が分か...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243745.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/10/a928e871646a64a37c37e109a3eac450/t/768/764/d/screenshot-2026-02-06-at-11-11-52-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243744.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-10T16:15:00+09:00</dc:date>
+        <title>アジアの花「リップスティック・バイン」、進化のルールを覆す　DNA解析で判明</title>
+        <link>https://www.cnn.co.jp/fringe/35243744.html?ref=rss</link>
+        <description>植物学者のジンイー・ルー氏は台湾の大学で学んでいたときに、地元の植生を記録し始めた。特に注目したのは「リップスティック・バイン」と呼ばれるつる性植物。台湾では短い筒形をした黄緑色の花を咲かせる。
+
+アジアのほかの地域でリップスティック・バインといえば、細長い筒形の真っ赤な花で知られる。花粉を運ぶのは主にタイヨウチョウという、細長いくちばしを持つ鳥だ。黄緑色の花が咲く種類もアジア各地にみられるが、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243744.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/10/622502b46c7fbd2572f24f2ab74e8b98/t/768/511/d/large-original-14.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243741.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-10T16:08:00+09:00</dc:date>
+        <title>五輪のメダルは壊れやすい？、選手からの報告相次ぐ　「跳びはねないで」の助言も</title>
+        <link>https://www.cnn.co.jp/showbiz/35243741.html?ref=rss</link>
+        <description>オリンピック（五輪）で常に注目を集めるもののひとつがメダルだ。今年のミラノ・コルティナ冬季五輪に出場するすべての選手にとっての目標であり、これほど重要なものは、丈夫な素材で作られていると思うのが普通だろう。
+
+ところが、手にした直後に壊れてしまったメダルがいくつか確認されている。アルペンスキー女子滑降で勝利したブリージー・ジョンソン（米）は、祝福の最中に金メダルのリボンが外れ、不具合に気づいた最...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243741.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/10/300b6f4523ef7bef9ad5d9bb5e34818b/t/768/488/d/large-original-13.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243737.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-10T15:00:00+09:00</dc:date>
+        <title>イスラエル大統領がオーストラリア訪問　各地で抗議運動、警察と衝突で逮捕者も</title>
+        <link>https://www.cnn.co.jp/world/35243737.html?ref=rss</link>
+        <description>イスラエルのイツハク・ヘルツォグ大統領が9日、オーストラリアを訪問した。オーストラリア政府はユダヤ教の祭日を狙ったテロ事件の被害者に連帯の意を表す立場から同大統領の訪問を歓迎。一方、ヘルツォグ大統領を戦争犯罪人とみなす市民らは各地で抗議運動を展開し、警官隊との衝突で逮捕者も出ている。
+
+シドニーのボンダイビーチで昨年12月14日に起きた銃乱射事件では、15人が犠牲になった。
+
+しかしイスラエルはパレスチナ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243737.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/10/2cec8c80f3a6524da77733b8757ccd58/t/768/511/d/large-original-10.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243738.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-10T14:45:00+09:00</dc:date>
+        <title>米軍の船舶攻撃で2人死亡、1人生存　東太平洋</title>
+        <link>https://www.cnn.co.jp/usa/35243738.html?ref=rss</link>
+        <description>米軍は5日、東太平洋で麻薬密輸への関与が疑われる新たな船舶を攻撃した。米南方軍によると攻撃で2人が死亡、1人が生存した。
+
+「2月9日、南方軍司令官フランシス・L・ドノバン将軍の指示により、合同任務部隊サザンスピアは指定テロ組織が運航する船舶に対し、致死的な物理的攻撃を実施した」と南方軍司令部はX（旧ツイッター）で発表。沿岸警備隊に対し、生存者の捜索救助活動を開始するよう通知したと付け加えた。
+
+沿岸警備...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243738.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/10/74b736699f607569d6ce46042ddfe08a/t/768/432/d/screenshot-2026-02-10-at-9-25-59-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35243736.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-10T14:00:00+09:00</dc:date>
+        <title>女性を口説く様子を収めた「マンフルエンサー」動画がネットに氾濫、スマートグラスが格好のツールに</title>
+        <link>https://www.cnn.co.jp/tech/35243736.html?ref=rss</link>
+        <description>トルワさんは米首都ワシントンの空港ラウンジでフライトを待っていたとき、見知らぬ男性に声をかけられた。
+
+会話を始めてしばらくしてからトルワさんはその人物と電話番号を交換することに同意した。ところが帰宅して男性のSNSを検索してみると、本人が空港で女性をナンパしている動画が大量に投稿されていた。
+
+これらの動画は、男性の眼鏡（スマートグラス）に内蔵されたカメラで撮影されたものだった。スマートグラスは普通...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35243736.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/10/6f2ded8b93f14a8e689af9f04c0199a8/t/768/512/d/gettyimages-1693405321.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35243725.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-10T11:42:00+09:00</dc:date>
+        <title>エディー・バウアーの店舗運営会社が破産申請　北米で店舗閉鎖の可能性</title>
+        <link>https://www.cnn.co.jp/business/35243725.html?ref=rss</link>
+        <description>米衣料品大手エディー・バウアーの店舗運営会社は9日、連邦破産法第11条（チャプター11）の適用を申請した。、売り上げ減少とサプライチェーン（供給網）の課題を理由に挙げ、米国とカナダにある同名のアウトドアスポーツウェア店舗約200店の売却を希望している。
+
+同社は、トランプ政権の不透明な関税政策やインフレなどの様々な要因により、財務上の逆風がさらに悪化していると訴えた。
+
+売却先を探す間、エディー・バウアー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35243725.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/10/4d93c9b5846a4948c435784dee89cbf7/t/768/512/d/c-gettyimages-2259766771.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243730.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-10T11:12:00+09:00</dc:date>
+        <title>類人猿のボノボに「ごっこ遊び」能力か、人間の子どもと同様　米研究</title>
+        <link>https://www.cnn.co.jp/fringe/35243730.html?ref=rss</link>
+        <description>類人猿のボノボにも、人間の子どもと同じような「ごっこ遊び」の能力があることを示唆する研究結果を米ジョンズ・ホプキンス大学の研究チームが発表した。
+
+この能力を実証するため、研究チームは「カンジ」というボノボに「お茶会ごっこ」をさせる実験を行い、5日の科学誌サイエンスに研究結果を発表した。
+
+類人猿がごっこ遊びをする可能性については、過去の研究でも指摘されていた。
+
+例えば2003年から04年にかけ、飼育され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243730.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/10/98418bd501dee66508256032b2127e20/t/768/511/d/large-original-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243724.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-10T10:35:00+09:00</dc:date>
+        <title>カフェイン入りのコーヒーや紅茶を毎日数杯飲むと認知症リスクが低減　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35243724.html?ref=rss</link>
+        <description>毎日カフェイン入りのコーヒーや紅茶を飲むことは、長期的な認知機能の向上につながる。学術誌JAMAに9日に掲載された研究で明らかになった。
+
+研究によると、1日に2～3杯のコーヒーまたは1～2杯の紅茶を飲む人に最も大きな効果が見られた。
+
+ハーバード大学T・H・チャン公衆衛生大学院栄養学助教で、この研究の筆頭著者ダニエル・ワン氏は、中年期にコーヒーを飲む人は後に認知症を発症するリスクが約18%低下し、紅茶を飲む人は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243724.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/10/a06d08434004812041979f897c7864ed/t/768/512/d/gettyimages-1326166021.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243715.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-10T10:12:00+09:00</dc:date>
+        <title>マクスウェル受刑者、エプスタイン事件調査でトランプ氏の潔白証明する用意　恩赦与えられればと弁護士</title>
+        <link>https://www.cnn.co.jp/usa/35243715.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した米富豪、ジェフリー・エプスタイン氏と共謀して未成年者を虐待した罪で禁錮20年の刑を言い渡されたギレーヌ・マクスウェル受刑者は9日、トランプ大統領に明確なメッセージを送り、もし恩赦を与えられるなら、エプスタイン氏に関するあらゆる不正行為からのトランプ氏の潔白を証明すると示唆した。
+
+マクスウェル受刑者の弁護士が9日午前、下院監視委員会でのオンライン証言録取の中で述べたこ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243715.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/10/225845c3e202b42665d38e8d5f1621d2/t/768/512/d/gettyimages-2260214967.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243723.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-10T10:08:00+09:00</dc:date>
+        <title>スノーボード女子ビッグエア、日本の村瀬心椛が金メダル</title>
+        <link>https://www.cnn.co.jp/showbiz/35243723.html?ref=rss</link>
+        <description>ミラノ・コルティナ冬季オリンピック（五輪）は9日、スノーボード女子ビッグエア決勝があり、村瀬心椛が金メダルを獲得した。
+
+村瀬は金メダルを獲得し、喜びの涙を流した。勝負は最終の2本にもつれ込んだ。先に滑った村瀬は高得点をマークし、合計179.00点とした。
+
+続いて注目を集めたのが、ユ・スンウン（韓国）だったが逆転はならなかった。ユ・スンウンは171.00点で銅メダルとなった。銀メダルは172.25点のゾイ・サドフス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243723.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/10/c35ad1731bd90ef768e5311343a85650/t/768/511/d/large-original-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243716.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-10T09:31:00+09:00</dc:date>
+        <title>アンドルー元王子、エプスタイン氏に機密情報を漏洩か　チャールズ国王は警察に協力する用意</title>
+        <link>https://www.cnn.co.jp/world/35243716.html?ref=rss</link>
+        <description>英国のチャールズ国王は、弟のアンドルー・マウントバッテン・ウィンザー元王子が、性犯罪で起訴され勾留中に死亡したジェフリー・エプスタイン氏に機密情報を共有したとされる疑惑について、警察が報告内容を精査する中で、協力する用意がある姿勢を示している。
+
+米司法省が公開したエプスタイン関連文書の最新分によると、アンドルー氏が英国の貿易特使を務めていた2010年に、機密情報をエプスタイン氏に送っていた可能性が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243716.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/10/1863e1cbc01585943846eecc979eed03/t/768/511/d/large-original.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243699.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-09T17:09:00+09:00</dc:date>
+        <title>バッド・バニーのスーパーボウルのハーフタイムショー、「史上最悪」とトランプ氏</title>
+        <link>https://www.cnn.co.jp/showbiz/35243699.html?ref=rss</link>
+        <description>トランプ米大統領は、米プロフットボールNFLの王者を決める第60回スーパーボウルのハーフタイムショーでのバッド・バニーのパフォーマンスについて「史上最悪の一つだ」と批判した。
+
+トランプ氏はスーパーボウルには出席せず、フロリダ州での観戦パーティーに参加。プエルトリコ出身のラッパー、バッド・バニーのハーフタイムショーについて「顔への平手打ち」と非難したほか、バッド・バニーが「何を言っているのか、誰にも分...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243699.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/09/24144d7aa17c5b96596a3f3f1adf4f59/t/768/480/d/large-gettyimages-2260105486.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243702.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-09T16:48:00+09:00</dc:date>
+        <title>ベネズエラ野党指導者、釈放直後に拉致される　マチャド氏の盟友</title>
+        <link>https://www.cnn.co.jp/world/35243702.html?ref=rss</link>
+        <description>ベネズエラの野党幹部の1人であるフアン・パブロ・グアニパ氏が8日夜、刑務所から釈放された直後、重武装した集団に拉致された。グアニパ氏の家族と複数の盟友が明らかにした。
+
+政治的理由で拘束されている人々の釈放を求める米国に応じる最新の取り組みとして、ベネズエラ政府は8日に政治犯とされる人物らを釈放していた。グアニパ氏は、釈放された複数の著名政治家の1人だった。
+
+国外にいるベネズエラの野党指導者マリア・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243702.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/09/ffa2ff2107a6530515c608e521458676/t/768/512/d/c-2026-02-08t231623z-291300317-rc2yhjagdpnb-rtrmadp-3-usa-venezuela-prisoners.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243695.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-09T15:20:00+09:00</dc:date>
+        <title>スーパーボウル　シーホークスが勝利、守備でペイトリオッツを圧倒</title>
+        <link>https://www.cnn.co.jp/showbiz/35243695.html?ref=rss</link>
+        <description>米プロフットボールNFLの王者を決める第60回スーパーボウルが行われ、ナショナル・カンファレンス（NFC）のシアトル・シーホークスがアメリカン・カンファレンス（AFC）のニューイングランド・ペイトリオッツを29―13で破り、勝利した。
+
+圧巻の守備と、必要十分な攻撃で、シーホークスはペイトリオッツを寄せ付けず、11年前の敗戦の雪辱を果たした。
+
+シーホークスの守備陣はシーズンを通じて力強かったが、スーパーボウルの舞...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243695.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/09/4f277c1a1f836c380c5b2f79eb04f87a/t/768/511/d/large-gettyimages-2260122938.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243697.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-09T15:07:00+09:00</dc:date>
+        <title>「リンゴ日報」創業者の黎智英氏に禁錮20年　国安法違反</title>
+        <link>https://www.cnn.co.jp/world/35243697.html?ref=rss</link>
+        <description>国家安全維持法（国安法）違反などの罪に問われた香港紙「リンゴ日報」の創業者、黎智英（ジミー・ライ）氏（78）に9日、禁錮20年が言い渡された。かつて自由な金融都市だった香港に対する中国政府の抜本的な取り締まりを象徴する、長年の法廷闘争に終止符が打たれた。
+
+中国政府は2020年、香港で包括的な国安法を施行した。黎氏は同法施行以降に起訴された政府批判者の中で特に注目を集めた人物のひとり。
+
+黎氏は90代後半にな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243697.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/09/2ba5b4ba1762ea0e760620fb67c75012/t/768/512/d/2021-02-01t100450z-1626607610-rc2mjl9o6srs-rtrmadp-3-hongkong-security-jimmy-lai-20260209010745562.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243688.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-09T13:46:00+09:00</dc:date>
+        <title>ニュージーランド、2050年までにノネコ根絶へ　250万～800万頭の駆除目指す</title>
+        <link>https://www.cnn.co.jp/world/35243688.html?ref=rss</link>
+        <description>ニュージーランド政府が2050年までにノネコを根絶させる計画を打ち出した。同国でノネコは在来種を脅かす捕食動物とみなされている。
+
+ニュージーランドはネコをイエネコとノラネコ、ノネコの3種類に分類している。駆除の対象となるノネコは自然保全省の推計で250万～800万頭。人里から離れた場所に生息し、獲物を捕って暮らしている。ノネコのために、在来種の鳥200種あまりが絶滅の危険にさらされているという。
+
+北島でノネ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243688.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/09/5970b9eba4681210b83498f7cb11ccd5/t/768/432/d/9-lives-mug-shot-still001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243689.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-09T12:57:00+09:00</dc:date>
+        <title>「この数日を乗り切らなければ」　停電で厳寒に直面するウクライナ、ロシアがエネルギーインフラを攻撃</title>
+        <link>https://www.cnn.co.jp/world/35243689.html?ref=rss</link>
+        <description>ロシアの無人機やミサイルによる継続的な攻撃でエネルギーインフラが損傷し、ウクライナでは数十万人の民間人が、暖房や明かりがほとんどないまま、数日間にわたって厳しい寒さに直面している。
+
+首都キーウでは、今後少なくとも4日間、零下の気温と強風が予想されている。
+
+キーウ市のクリチコ市長は8日、「これからの数日間を乗り越えなければならない。キーウにとって非常に厳しい日々になる」と述べた。「特に夜間、再び厳...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243689.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/09/289d8977eb23eb27c80cb0d9b101402f/t/768/524/d/large-001-ukraine-crisis-cold-kyiv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243684.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-09T11:40:00+09:00</dc:date>
+        <title>トランプ氏、衆院選大勝の高市首相に祝意　「大胆かつ賢明な決断が大きな成果」</title>
+        <link>https://www.cnn.co.jp/usa/35243684.html?ref=rss</link>
+        <description>8日に投開票が行われた衆院選を受け、トランプ米大統領は同日、高市早苗首相に対し、就任早期の総選挙という大きな賭けに出て自民圧勝を手にしたことに祝意を示した。
+
+「今日のとても重要な選挙における高市早苗首相と連立政権の大勝を祝福する。彼女は非常に尊敬され、高い人気を誇る指導者だ。総選挙を呼びかけた早苗の大胆かつ賢明な決断は大きな成果をもたらした」とトランプ氏はSNSに投稿した。
+
+「早苗、あなたと連立政...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243684.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/09/8f79eae63875da7913b8f22f3c8eb858/t/768/510/d/c-gettyimages-2259999998.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243686.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-09T11:38:00+09:00</dc:date>
+        <title>高市首相、衆院選挙で圧勝　政権基盤を強化</title>
+        <link>https://www.cnn.co.jp/world/35243686.html?ref=rss</link>
+        <description>衆院選が8日、投開票され、自民党が圧勝した。NHKが伝えた。高市早苗首相による大きな賭けは成功した。
+
+高市氏に対する信任投票と位置付けられた今回の選挙で、自民党は465議席のうち310議席以上を獲得。一つの政党が衆院で3分の2以上の議席を確保したのは第2次世界大戦後初めて。与党としては340議席を超えた。
+
+トランプ米大統領が支持を表明する強硬保守派の高市氏は、4カ月足らず前に首相に就任して以降、高い支持率を維持...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243686.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/09/b721f6903f8fc9142cfe51605b150ff7/t/768/511/d/large-p-rtrmadp-3-japan-politics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243682.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-09T10:51:00+09:00</dc:date>
+        <title>トランプ米大統領、「複雑な心境」吐露した米代表選手を「真の負け犬」</title>
+        <link>https://www.cnn.co.jp/showbiz/35243682.html?ref=rss</link>
+        <description>ミラノ・コルティナ冬季オリンピック（五輪）に米国から参加したフリースタイルスキー男子のハンター・ヘス選手が米国代表としての「複雑な心境」を吐露したことをめぐり、ドナルド・トランプ大統領がヘス選手を「真の負け犬」と罵倒した。
+
+トランプ大統領は8日、「オリンピックスキーヤーのハンター・ヘス、真の負け犬は、現在の冬季オリンピックで自分はこの国の代表ではないと言った」と自身のSNSトゥルース・ソーシャルに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243682.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/09/7be6f65e8e5bdf18cc1d858cbcabb3ef/t/768/520/d/large-gettyimages-2255598371.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243679.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-09T10:43:00+09:00</dc:date>
+        <title>モスクワで発生した軍幹部暗殺未遂、ロシア捜査委員会がウクライナの関与を主張</title>
+        <link>https://www.cnn.co.jp/world/35243679.html?ref=rss</link>
+        <description>ロシア首都モスクワで6日に発生したロシア軍幹部暗殺未遂事件をめぐり、ロシア連邦捜査委員会は容疑者がモスクワから逃亡後、アラブ首長国連邦（UAE）のドバイで逮捕されたと発表した。捜査委員会はウクライナ情報機関が関与しているとして非難している。
+
+共犯者とされる容疑者1人も拘束された。もう1人の容疑者はウクライナに逃亡したという。
+
+捜査委員会は、容疑者についてウクライナ西部テルノピリ州出身の60代半ばの男と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243679.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/06/71eaf81724f2f463c54887291c4cfc46/t/768/432/d/2026-02-06t080510z-1934874523-rc28gjaya04q-rtrmadp-3-ukraine-crisis-russia-shooting.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243678.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-09T10:11:00+09:00</dc:date>
+        <title>イスラエル、ヨルダン川西岸の統制強化　首相訪米前に入植地拡大図る</title>
+        <link>https://www.cnn.co.jp/world/35243678.html?ref=rss</link>
+        <description>イスラエルがベンヤミン・ネタニヤフ首相の訪米を前に、占領を続けるパレスチナ自治区ヨルダン川西岸地区に対する統制を強めている。
+
+イスラエル治安閣議は8日、同国の強制力を拡大し、イスラエルが国家として入植地拡大のために土地を購入することを認める措置を了承した。国連と国際社会はヨルダン川西岸を、将来的なパレスチナ国家のための土地と位置付けている。
+
+今回の措置に基づき、ヨルダン川西岸のA地区とB地区に対す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243678.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/09/1fe8a1adf821efaedb152bd2082cc069/t/768/511/d/large-gettyimages-2237772117-20251229000106375.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243668.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-08T15:49:00+09:00</dc:date>
+        <title>なぜ「スーパーボウル」のチケットはいつもこれほど高額なのか</title>
+        <link>https://www.cnn.co.jp/showbiz/35243668.html?ref=rss</link>
+        <description>米プロフットボールNFLの年間王者を決める「スーパーボウル」は通常のアメリカンフットボールの試合ではない。チケット価格も、それを如実に反映している。
+
+供給が限られる一方で需要は極めて旺盛なため、スーパーボウルはぜいたく品に近い性質を持つ。こうした状況を支える力学が、近い将来に変わる可能性は低そうだ。
+
+カリフォルニア州サンタクララのリーバイス・スタジアムで開催される今年のスーパーボウルも例外ではない...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243668.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/08/d3285766098adced225b25700e07fab9/t/768/512/d/large-ap26035124382323.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243667.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-08T15:39:00+09:00</dc:date>
+        <title>「古代エジプトの森の王」、ほぼ完全な頭蓋骨の化石発見　絶滅の原因に迫れるか</title>
+        <link>https://www.cnn.co.jp/fringe/35243667.html?ref=rss</link>
+        <description>猫のような鋭い歯と犬のような体を持つ古代の肉食動物「ヒアエノドン」はかつて食物連鎖の頂点にいた。しかし、ヒアエノドンのグループは約2500万年前に絶滅し、絶滅の原因についての研究が行われてきた。
+
+科学者の国際チームがこのほど、新たなパズルの一片を発見した。これは、これまで確認されていないヒアエノドンの種のほぼ完全な頭蓋骨（ずがいこつ）だった。この発見によって、これらの生き物とその進化の歴史について...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243667.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/20/c40462becf3a8f295cc4787f1481014b/t/768/432/d/shorouq-al-ashqar-the-lead-author-with-the-bastetodon-syrtos-skull-and-a-bastet-statue-crop.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243666.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-08T14:44:00+09:00</dc:date>
+        <title>中国が2020年に極秘の核実験か、米が非難　トランプ政権は中ロを含む核兵器合意を要求</title>
+        <link>https://www.cnn.co.jp/usa/35243666.html?ref=rss</link>
+        <description>米国は6日、中国が2020年に極秘の核実験を行ったとして非難した。トランプ米政権は、中国とロシアの双方を含む、より包括的な核兵器管理の合意を求めている。
+
+今月5日には、米国とロシアの間で核戦力を制限する唯一の枠組みとなっていた「新戦略兵器削減条約（新START）」が失効していた。これにより、世界最大の核保有国である両国の核兵器に、数十年ぶりに制限がなくなった。
+
+トランプ大統領と政権の高官らは、新STARTの制...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243666.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/08/62a79d447da66a64b800843cd6b81f1d/t/768/511/d/large-gettyimages-2233529223.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35243665.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-08T13:57:00+09:00</dc:date>
+        <title>強盗犯が落としたウジェニー皇后の冠、ルーブルが無惨な現状を公開　「完全修復」へ</title>
+        <link>https://www.cnn.co.jp/style/luxury/35243665.html?ref=rss</link>
+        <description>フランスのルーブル美術館で昨年発生した強盗事件。アポロン・ギャラリーに押し入った犯行グループは、電動工具で展示ケースを切断して、ナポレオン帝政時代の宝飾品を強奪した。
+
+しかし大胆にも窓から逃走を図った際、ウジェニー皇后の冠がすべり落ち、下の舗装道路にたたきつけられて破損してしまった。
+
+劇的な落下から100日あまりが経過した今週、ルーブル美術館は往時の輝きを取り戻すことを目指す修復作業を前に、冠の現...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35243665.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/08/a5b776690d6adfd5fb3a646e9aef8bcd/t/768/431/d/72bb30a2cc7053a69fdbaa8a535e770a-1500x1000.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243664.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-08T12:47:00+09:00</dc:date>
+        <title>「平和評議会」の初会合、今月19日に米首都で開催　米が招待状を送付</title>
+        <link>https://www.cnn.co.jp/usa/35243664.html?ref=rss</link>
+        <description>米政府は、トランプ大統領が主導する「平和評議会」の初会合を月内にも米首都ワシントンで開く計画だ。招待を受けた国の外交官と米当局者が明らかにした。だが、平和評議会の任務の全体像を巡っては、なお疑問が残っている。
+
+米国は6日、今月19日の会合への招待状を送付した。CNNが確認した招待状によると、会場は米平和研究所となっている。
+
+平和評議会は当初、イスラエルとイスラム組織ハマスの戦闘で荒廃したパレスチナ自...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243664.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/08/17ba5c87bf51b21f2d8690e17bda8c0f/t/768/511/d/large-c-gettyimages-2256944206.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243663.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-08T12:28:00+09:00</dc:date>
+        <title>フェラン米海軍長官、エプスタイン氏自家用機の搭乗者名簿に名前　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35243663.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した米富豪、ジェフリー・エプスタイン氏に関するここ数カ月で公開された文書の中に、フェラン米海軍長官の名前が記された搭乗者名簿があることが分かった。フェラン氏は2006年、エプスタイン氏の自家用機でロンドンからニューヨークへ移動していた。
+
+名簿にはフェラン氏のほか12人の搭乗者が記載されており、エプスタイン氏本人に加え、エプスタイン氏と近い間柄だったフランスのモデル事務所経...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243663.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/08/67905d5a7ebc862ecaf83c496746c68c/t/768/512/d/gettyimages-2231550529.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243662.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-08T11:58:00+09:00</dc:date>
+        <title>イタリア・ミラノで冬季五輪の抗議デモ、警察と衝突も　北部では鉄道破壊の疑い</title>
+        <link>https://www.cnn.co.jp/world/35243662.html?ref=rss</link>
+        <description>イタリア・ミラノで7日午後、ミラノ・コルティナ冬季オリンピック（五輪）に対する抗議デモが行われ、デモ参加者はプラカードを掲げ、腕を組み、歌い踊りながら、市内を平和的に行進した。だが、夜になると、一部の参加者が警察官や警察車両を標的にして暴力行為に及んだ。治安当局はこれに対し、催涙ガスや放水砲を使用して対応した。
+
+イタリア当局はこれとは別に、北部の鉄道路線で相次いだ事件について、組織的な破壊行為の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243662.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/08/5c8ceb619749ea196bd88952545cd5e6/t/768/511/d/large-olympics-protests.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
