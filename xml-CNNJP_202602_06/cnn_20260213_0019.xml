@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-02-13T08:53:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243833.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243828.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243829.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243825.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243824.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243821.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243816.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35243812.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243808.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243803.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243798.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243801.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243799.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35243775.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243797.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243779.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35243776.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243778.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243770.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243771.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243768.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243763.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35243762.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243761.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243760.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243759.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243758.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243757.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243755.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243754.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35243833.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-13T08:53:00+09:00</dc:date>
+        <title>スイス、人口制限問う国民投票6月実施へ　移民受け入れに影響か</title>
+        <link>https://www.cnn.co.jp/world/35243833.html?ref=rss</link>
+        <description>移民の受け入れを巡って意見が対立するスイスで、人口を1000万人に制限すべきかを問う国民投票が6月14日に行われる。賛成多数となれば、移民の受け入れ停止など政策の変更を余儀なくされる。
+
+右派の国民党が国民投票を提案した。案では人口が1000万人に達する前に政府に対策を講じるよう求めている。同国の現在の人口は910万人。
+
+投票で賛成多数となれば、人口が950万人に達した時点で政府は亡命希望者や外国人居住者の家族を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243833.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/13/d7bbbc43a2f06910ef358c223d9c2b6b/t/768/512/d/2024-11-28t072859z-1937569517-rc2pdbavnfgs-rtrmadp-3-swiss-politics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243828.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T19:14:00+09:00</dc:date>
+        <title>冬季五輪のカーリング、全てのストーンがスコットランド沖の小島から供給される理由</title>
+        <link>https://www.cnn.co.jp/fringe/35243828.html?ref=rss</link>
+        <description>冬季オリンピック（五輪）の種目であるカーリングで使用するストーンの重量は17～20キログラムと厳格に規定され、数十年にわたり使うことができる。プロ用ストーンの大半と、五輪用ストーンの全てはケイズ・オブ・スコットランドと呼ばれる企業が手作業で製造している。素材は英スコットランド沖の小さな無人島で採掘された花崗岩（かこうがん）だ。
+
+アイルサ・クレイグ島産の花崗岩は極めて微細な結晶構造を持ち、鉱物が密接...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243828.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/05742bc5a80460e84d44c97973e1f184/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWxpYTN0N2UwMDAyM2I2cHM4NGEwMXN0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbGk5Y3NpajAwMHkyN3FvMHk4ejJlbTc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243829.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T19:08:00+09:00</dc:date>
+        <title>ウクライナ五輪代表選手、戦死者追悼ヘルメットの着用めぐり失格　IOCのガイドライン違反</title>
+        <link>https://www.cnn.co.jp/showbiz/35243829.html?ref=rss</link>
+        <description>ミラノ・コルティナ冬季オリンピック（五輪）にウクライナ代表として出場予定だったスケルトン男子のウラジスラフ・ヘラスケビッチ選手（27）が失格となった。国際オリンピック委員会（IOC）が定める選手の表現ガイドラインの「順守を拒否した」ため。ヘラスケビッチ選手はウクライナ戦争で死亡したアスリートらの写真が貼られたヘルメットを競技中に着用すると主張していた。
+
+IOCのコベントリー会長は12日、ヘラスケビッチ選...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243829.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/0d7152ff4638d162a66ce183901ea838/t/768/512/d/gettyimages-2260361594.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243825.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T18:45:00+09:00</dc:date>
+        <title>地球の核に広大な水素の「海」か、地球の成長段階で水素が存在していた可能性　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35243825.html?ref=rss</link>
+        <description>地球の約70%を覆う、主に水素からなる海を想像してみてほしい。これを9倍にしてみよう。研究者らが最近推定したところによると、地球の核にはそれほど大量の水素があり、地球最大の水素貯蔵庫となっている可能性がある。
+
+計算上、核には水素の「海」が少なくとも9個、最大で45個の海に相当する水素が閉じ込められている可能性がある。言い換えれば、水素は地球の核の総重量の約0.07%から0.36%を占めているかもしれない。この研...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243825.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/3aa1da9a4da242eb30820684abe02bb9/t/768/512/d/c-gettyimages-1227503316.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243824.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T18:07:00+09:00</dc:date>
+        <title>3000年前に生存した古代エジプト人女性、CTスキャンで謎を解明</title>
+        <link>https://www.cnn.co.jp/fringe/35243824.html?ref=rss</link>
+        <description>米シカゴのフィールド自然史博物館の科学者が、古代エジプトのミイラ化した人間の遺体を詳しく調べた結果、その人物の身元や、彼らが来世に向けてどのような準備をしていたかについて詳細が明らかになった。しかも、この調査はすべて、遺体に巻かれた包帯を一切取り除くことなく行われた。
+
+同博物館の職員たちは、展示されている26体のミイラを特別仕様の台車に乗せ、同博物館の駐車場まで運び、そこで移動式CTスキャナーによ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243824.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/12/08/86bec2fcd5164aba235e524df45676a5/t/768/512/d/001-dsc04913.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243821.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T17:45:00+09:00</dc:date>
+        <title>シャチの群れが世界最大の魚ジンベエザメを捕食、詳細に記録　24年の研究</title>
+        <link>https://www.cnn.co.jp/fringe/35243821.html?ref=rss</link>
+        <description>メキシコ沖の太平洋で、シャチの群れがジンベエザメを狩りで殺す狡猾（こうかつ）な戦略を編みだした――。2024年11月にそんな研究結果が発表された。ジンベエザメは世界最大の魚で、成長すると全長18メートルに達する。
+
+シャチがジンベエザメを捕食できることは以前から断片的な証拠で示唆されていたが、海洋学者のチームはこのとき、カメラが捉えた4件の狩りの映像を分析し、捕食行動を初めて詳細に記録した。
+
+シャチたちはこ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243821.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/11/29/f75ee9b501e73280db72c7c140153883/t/768/432/d/image-6-by-kelseywilliamson.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243816.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T17:08:00+09:00</dc:date>
+        <title>高速道路を滑走路に　インドネシア、島々を安価な「空母」に転用へ</title>
+        <link>https://www.cnn.co.jp/world/35243816.html?ref=rss</link>
+        <description>インドネシアは、国内各地の有料道路を戦闘機の緊急滑走路として活用する計画に着手した。広大な群島国家に事実上、複数の空母を配備するのと同等の効果を持たせる狙いがある。
+
+インドネシア空軍参謀長のトニー・ハルジョノ氏は11日、将来的には国内38州のそれぞれに少なくとも1カ所、有料道路の一部を緊急滑走路として使用できる区間を設けたいとの考えを示した。具体的な時期は明らかにしていない。
+
+同日行われたデモンスト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243816.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/2c15fe29f856b52d67afdfc1ca79b200/t/768/511/d/large-ha6xo3kbaaastxq.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35243812.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T16:20:00+09:00</dc:date>
+        <title>「世界の薬局」インド、肥満症治療薬の発売ラッシュ訪れるか　特許切れ控え</title>
+        <link>https://www.cnn.co.jp/business/35243812.html?ref=rss</link>
+        <description>インドの商都ムンバイにあるシバジ公園では、毎朝多くの市民がパワーウォーキングに励む。スマートウォッチで歩数を確認しつつ、近くの屋台で揚げ物のスナックやシロップたっぷりの菓子をほおばる人々もいる。健康志向と飽食が交錯するこんな場面を背景に、肥満症治療薬の発売ラッシュが訪れようとしている。
+
+インドでは来月、デンマーク製薬大手ノボノルディスクの肥満症治療薬「オゼンピック」の主成分「セマグルチド」が特...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35243812.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/c4e1d55c69b30fd819608ea5314b22e8/t/768/432/d/large-p-3-lilly-obesity-india.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243808.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T16:09:00+09:00</dc:date>
+        <title>最も古い部類の陸生草食動物か、大きな顎に並ぶ歯で繊維をすりつぶす　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35243808.html?ref=rss</link>
+        <description>約3億700万年前に地球を闊歩（かっぽ）していた生物が、陸生草食動物が現れた経緯を探る科学者に解明の手がかりを与えてくれそうだ。新たに記述されたこの種は、植物ベースの食生活を送っていたことが確認された最古の四肢動物の一つとなる。
+
+学術誌ネイチャー・エコロジー・エボリューションに10日付で発表された研究によると、発見の中心となったのは、化石化した木の切り株の中から見つかった頭蓋骨（ずがいこつ）だ。カナ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243808.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/742054a9bde666ca9c2fd91d5e274b6a/t/768/512/d/tyrannoroter-illustration-environment.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243803.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T13:35:00+09:00</dc:date>
+        <title>NHL選手、12年ぶりに五輪に出場　アイスホッケー男子1次リーグは波乱の予感？</title>
+        <link>https://www.cnn.co.jp/showbiz/35243803.html?ref=rss</link>
+        <description>ミラノ・コルティナ冬季オリンピック（五輪）は11日、アイスホッケー男子の1次リーグが始まった。北米プロアイスホッケーNHLの選手が冬季五輪に出場するのは2014年以来だが、思わぬ展開となった。
+
+登録25人のうち24人がNHL所属のフィンランドは初戦でスロバキアに完敗した。スロバキア代表のNHL所属選手は7人にとどまる。
+
+スロバキアは、第2ピリオドで1―1の同点に追いつかれた後に突き放し、4―1で快勝した。
+
+その後の試合で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243803.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/017eb843569be921bdfa9f6899aaef9f/t/768/511/d/large-gettyimages-2260549630.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243798.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T13:16:00+09:00</dc:date>
+        <title>古代ローマ人が人糞を医療に使用、科学者が初の物的証拠を発見　トルコ</title>
+        <link>https://www.cnn.co.jp/fringe/35243798.html?ref=rss</link>
+        <description>トルコの研究者たちは、古代ローマ人が医療に人糞（じんぷん）を使用していたことを示す考古学的証拠を発見したと発表した。
+
+学術誌ジャーナル・オブ・アーケオロジカル・サイエンス・リポーツに掲載された研究によると、ローマ時代の文献にはこの慣習について記述があるものの、物理的な証拠が文書化されたのは今回が初めてだという。
+
+トルコのシバス・ジュムフリエット大学の考古学者で、この研究の筆頭著者であるチェンケ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243798.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/44f1fd1e4b565fbcae820f0fe7fa54fd/t/768/531/d/gettyimages-2201114790.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243801.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T12:35:00+09:00</dc:date>
+        <title>ベビーフードは70％以上が超加工食品、多すぎる添加物に専門家が警鐘　米</title>
+        <link>https://www.cnn.co.jp/fringe/35243801.html?ref=rss</link>
+        <description>米国で生後6カ月～36カ月の乳幼児向けに販売されているベビーフードや飲料、スナック菓子はほとんどが超加工食品で、潜在的な健康被害との関係が指摘されている添加物が入っている可能性が大きいという研究結果が発表された。
+
+研究チームは離乳食やベビーフードなど651点を調査した。その結果、最新の研究で「腸内フローラ（腸内細菌の群れ）の炎症や乱れ」との関係が指摘されている添加物を含む食品が70％以上を占めることが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243801.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/89942218e8fb02ec475991e752e28c9b/t/768/576/d/large-gettyimages-167232709.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243799.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T12:04:00+09:00</dc:date>
+        <title>俳優ジェームズ・バン・ダー・ビークさん死去　48歳　24年に大腸がんを公表</title>
+        <link>https://www.cnn.co.jp/showbiz/35243799.html?ref=rss</link>
+        <description>米テレビドラマ「ドーソンズ・クリーク」で主役を演じた俳優ジェームズ・バン・ダー・ビークさんが死去した。48歳だった。
+
+本人のインスタグラムに投稿された声明によると、バン・ダー・ビークさんは11日に亡くなった。「彼は勇気と信念、そして気品をもって最期を迎えた」と声明は述べている。
+
+代理人もCNNの取材に対し、この訃報（ふほう）を確認した。
+
+バン・ダー・ビークさんは2024年11月、ステージ3の大腸がんであるこ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243799.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/635d78a104604ede3a98cda5fe5c8314/t/768/504/d/gettyimages-2214524169-20260211193524545.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35243775.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T11:40:00+09:00</dc:date>
+        <title>世界の「汚職度」ランキング、米国が過去最低順位に転落</title>
+        <link>https://www.cnn.co.jp/business/35243775.html?ref=rss</link>
+        <description>専門家や実業家らへの調査に基づき、各国の公務員や政治家について認識される腐敗の度合いを計測する主要な国際指標において、米国が過去最悪の順位に転落したことが分かった。
+
+世界で最も強大な力を持つ民主主義国家である米国は昨年、汚職を監視するドイツの民間団体「トランスペアレンシー・インターナショナル」がまとめた腐敗認識指数（CPI）ランキングで182カ国中29位と、一つ順位を落とした。これは1995年に設立された...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35243775.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/fb11533195b5e7d9a25708aa37c86858/t/768/499/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWxnaGNqZTEwMDA1M2I2cHk5cDkxc3No-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbGdoYnVsbTAwMHkyNnAyNXYxMjBsMTk_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243797.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T11:32:00+09:00</dc:date>
+        <title>米主要都市で凶悪犯罪が大幅減少　殺人は19％減、強盗は20％減</title>
+        <link>https://www.cnn.co.jp/usa/35243797.html?ref=rss</link>
+        <description>米国の主要都市で昨年、凶悪犯罪が全体として大幅に減少したことがわかった。米国とカナダの大都市の警察首脳らで構成する組織「MCCA」のデータ分析で明らかになった。
+
+米連邦捜査局（FBI）がまとめた2024年までの統計によると、凶悪犯罪は新型コロナウイルスの流行期に急増した後、近年は全体として減少傾向が続いている。
+
+今月に入って公表されたMCCAの最新調査は、回答のあった68の法執行機関のうち67の統計をまとめたもの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243797.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/dc4bbe8bb9a70ae28515bd36e50691ba/t/768/512/d/large-gettyimages-2229895298.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243779.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T11:00:00+09:00</dc:date>
+        <title>カナダ銃乱射、18歳の容疑者について分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35243779.html?ref=rss</link>
+        <description>カナダ西部ブリティッシュコロンビア州タンブラーリッジで発生した銃撃事件で、警察は容疑者の身元をこの町に住むジェシー・バン・ルーツラー容疑者（18）と特定した。「4年ほど前に学校を中退していた」という。
+
+警察幹部は11日、バン・ルーツラー容疑者について「現在は学校に通っていなかった」と記者団に説明した。当局は校内で容疑者が死亡しているのを発見。自らを銃で撃った傷が死因とみられる。
+
+警察幹部によると、警...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243779.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/a03264e500de0eeb47270a8607e66d69/t/768/504/d/ap26042630821100a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35243776.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T10:53:00+09:00</dc:date>
+        <title>【分析】グーグル親会社が異例の100年債発行　不吉な前例と強い需要</title>
+        <link>https://www.cnn.co.jp/tech/35243776.html?ref=rss</link>
+        <description>米グーグルの親会社アルファベットに対し、投資家たちは2126年も、存続に疑いなしという相当な確信を持っている。
+
+企業が資金調達を必要とする時は、一般に株式か債券を発行する。グーグルは今週、債券の道を取った。だがその中にいわゆる100年債を含めるという選択は、いくつかの理由で波紋を呼んだ。
+
+アルファベットは10日、償還期間が100年という異例の社債を発行した。同社が人工知能（AI）への野心達成に向けて進める、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35243776.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/77f00f179dde5dc32388d7d7d994e327/t/768/547/d/gettyimages-2259952847.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243778.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T10:44:00+09:00</dc:date>
+        <title>米軍が対ドローンのレーザーシステム使用を計画　予告なしに空域閉鎖、その後解除</title>
+        <link>https://www.cnn.co.jp/usa/35243778.html?ref=rss</link>
+        <description>米テキサス州エルパソ上空の空域が11日、突如として一時的に閉鎖された。複数の関係者がCNNに語ったところによると、米国防総省が民間機に及ぼし得る危険について米連邦航空局（FAA）との調整を行わないまま、対ドローン用レーザーの使用を計画したことが発端となった。
+
+一連の出来事に詳しい関係者によると、米軍が今週、フィルムバルーン4個を撃墜するためにレーザー技術を使用したことを受け、FAAがこの空域の閉鎖に踏み切...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243778.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/05eeb64decefd69b3f4f08a3cf6ce30b/t/768/511/d/large-El-Paso-International-Airport.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243770.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T10:15:00+09:00</dc:date>
+        <title>ロシアがウクライナにドローン攻撃、幼児3人と父親が死亡</title>
+        <link>https://www.cnn.co.jp/world/35243770.html?ref=rss</link>
+        <description>ウクライナ東部でロシアのドローン（無人機）による攻撃があり、地元の救急当局によると幼児3人と父親が死亡、妊娠中の母親も負傷した。
+
+一家は爆撃を逃れ、前日にハルキウの西約60キロにある町に到着したばかりだった。ハルキウ州のシネフボウ知事が明らかにした。
+
+知事はSNSのテレグラムで、「（一家は）より安全な居住地を探していた。新しい場所での初日の夜だった」と述べた。
+
+一家が当初いた村の当局は11日、村へのさ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243770.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/e6fd6b7d75bb4fddc5c2a6742859ec8d/t/768/512/d/gettyimages-2261059295.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243771.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T09:24:00+09:00</dc:date>
+        <title>トランプ氏、「イランとの協議を継続」　イスラエル首相に伝える</title>
+        <link>https://www.cnn.co.jp/usa/35243771.html?ref=rss</link>
+        <description>トランプ米大統領は11日、ホワイトハウスでイスラエルのネタニヤフ首相と会談し、イランとの協議を継続する考えを伝えたことを明らかにした。
+
+ネタニヤフ政権はイランとの合意を模索するトランプ政権の取り組みに対して懐疑的だ。
+
+トランプ氏はネタニヤフ氏との会談について「とても良かった」とSNSに投稿し、明確なメッセージを伝えたと述べた。その一方で、会談では結論に至らなかったことをうかがわせた。
+
+トランプ氏は「...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243768.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-12T08:47:00+09:00</dc:date>
+        <title>カナダ銃乱射、容疑者は18歳の地元住民　犠牲者8人に訂正</title>
+        <link>https://www.cnn.co.jp/world/35243768.html?ref=rss</link>
+        <description>カナダ西部ブリティッシュコロンビア州で10日に発生した銃乱射事件で、王立カナダ騎馬警察（RCMP）は11日、容疑者の身元を明らかにした。また、犠牲者数を8人に訂正した。
+
+発表によると、ジェシー・バン・ルーツラー容疑者（18）は事件が発生した同州北東部タンブラーリッジの住人。出生時は男性で、6年前から女性に性別を変えていたという。
+
+事件はタンブラーリッジ・セカンダリースクールと住宅で発生した。当初、9人が殺害...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243768.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/12/0f7cc4079e326a79a2117ac9a83d0cd2/t/768/575/d/large-gettyimages-2260557951a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243763.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-11T16:40:00+09:00</dc:date>
+        <title>ロシア、「テレグラム」へのアクセスを制限　国内で数百万人が利用</title>
+        <link>https://www.cnn.co.jp/world/35243763.html?ref=rss</link>
+        <description>ロシア当局が同国で有数の人気を誇るSNSアプリ「テレグラム」へのアクセスを制限し始めた。政府は一般国民に対し、外国のプラットフォームではなく、厳しく管理された自国製アプリの利用を促し続けている。
+
+政府は10日、テレグラムへのアクセス制限は「ロシア国民を保護」するためだとし、当局が「犯罪者およびテロリスト」によるものとみなすコンテンツをテレグラムが阻止することを拒否していると非難した。
+
+ロシアの通信規...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243763.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/11/a314b521616966cfe2f58a79a75b8518/t/768/512/d/c-gettyimages-2232888238.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35243762.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-11T15:10:00+09:00</dc:date>
+        <title>SNSが「子どもの脳内中毒を設計」、ユーザーがメタとYouTube訴えた裁判始まる</title>
+        <link>https://www.cnn.co.jp/tech/35243762.html?ref=rss</link>
+        <description>SNSの使用で心の健康を害したとしてユーザーの女性が大手の米メタとYouTube（ユーチューブ）を訴えた裁判の公判が始まった。9日の冒頭陳述で原告側は、中毒性の高い機能が女性の心の健康を傷つけたと主張した。
+
+SNSを相手取って起こされている1500件あまりの訴訟の中で、公判が始まったのは今回が初めてで、今後の訴訟の先例として影響を及ぼす可能性がある。
+
+原告のケイリーさん（20）と母親は、メタやユーチューブが意図的...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35243762.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/11/8ab615c4f90e3edccaf8007df7be186f/t/768/512/d/2026-02-05t193828z-922489382-rc2ufjaafhab-rtrmadp-3-socialmedia-trial-parents.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243761.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-11T13:12:00+09:00</dc:date>
+        <title>ウクライナ代表選手の戦死者追悼ヘルメット、IOCに止められても着用続けると宣言</title>
+        <link>https://www.cnn.co.jp/showbiz/35243761.html?ref=rss</link>
+        <description>ミラノ・コルティナ冬季オリンピック（五輪）にウクライナ代表として出場しているスケルトン男子のウラジスラフ・ヘラスケビッチ選手（27）が、ウクライナの戦争で死亡したアスリートの写真を入れたヘルメットを使い続けると宣言した。
+
+国際オリンピック委員会（IOC）は先に、ヘラスケビッチ選手の状況に理解を示しながらも、問題のヘルメットの着用は政治的発言を禁じたIOCのガイドラインに「違反する」と指摘。代替として追...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243761.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/11/572d3d212fde8e12adbd61a87fc918d4/t/768/512/d/gettyimages-2260142032.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243760.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-11T12:15:00+09:00</dc:date>
+        <title>カナダの学校と住宅で銃乱射、9人死亡</title>
+        <link>https://www.cnn.co.jp/world/35243760.html?ref=rss</link>
+        <description>カナダ警察は10日、ブリティッシュコロンビア州北東部の学校と住宅で発生した銃乱射事件で少なくとも9人が死亡したと発表した。
+
+現地時間10日午後1時20分ごろ、タンブラーリッジ・セカンダリースクールで銃乱射が発生したとの通報を受け、警察が出動した。現場で6人が死亡、数十人が負傷。1人が病院搬送中に死亡した。
+
+警察は、容疑者も死亡し「自傷とみられる」と発表した。
+
+2人が重傷を負い、ヘリコプターで病院に搬送され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243760.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/11/418dd52f8770b7dde00576201cfd3740/t/768/512/d/still-22356140-369720-333-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243759.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-11T11:32:00+09:00</dc:date>
+        <title>ノルウェーのバイアスロン選手、メダル獲得後の記者会見で浮気告白　ミラノ・コルティナ五輪</title>
+        <link>https://www.cnn.co.jp/showbiz/35243759.html?ref=rss</link>
+        <description>ミラノ・コルティナ冬季五輪のバイアスロン男子20キロで銅メダルを獲得したストゥルラホルム・レグライド選手（ノルウェー）が10日、五輪史上でおそらく初めて、競技終了後の記者会見で恋人を裏切ったことを認めた。
+
+レグライド選手はノルウェーのテレビ局に対し、この事実を明かした。浮気を公表することが正しい選択かどうか確信が持てないとも述べた。
+
+「私たちは人生の中でさまざまな選択をする。基本的に人生はそうやっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243759.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/11/1c429e3190517e2958953186ded58ccb/t/768/512/d/gettyimages-2260917711.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243758.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-11T10:34:00+09:00</dc:date>
+        <title>玄関カメラに目出し帽姿の人物　米テレビ司会者の母親失踪でFBIが画像公開</title>
+        <link>https://www.cnn.co.jp/usa/35243758.html?ref=rss</link>
+        <description>米NBCテレビの番組「トゥデー」の司会者、サバンナ・ガスリーさんの母親ナンシーさん（84）がアリゾナ州の自宅から何者かに連れ去られたとみられる事件で、米連邦捜査局（FBI）はナンシーさん宅の玄関のカメラの画像と映像を公開した。そこには目出し帽を被った人物が映っている。
+
+FBIのパテル長官のX（旧ツイッター）のアカウントへの投稿によると、画像には「ナンシーさんが失踪した日の朝に、ナンシーさん宅の玄関に設置さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243758.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/11/8c7683c8953323d881b55c85df323567/t/323/432/d/ha0icsnaaaujqwj.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243757.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-11T10:05:00+09:00</dc:date>
+        <title>五輪出場選手の間でノロウイルス感染、防止策徹底図る</title>
+        <link>https://www.cnn.co.jp/world/35243757.html?ref=rss</link>
+        <description>ミラノ・コルティナ冬季オリンピック（五輪）で複数の選手のノロウイルス感染が確認されている。米オリンピック・パラリンピック委員会は10日、選手の感染を防ぐため、引き続きノロウイルスなどの感染防止対策に力を入れると説明した。
+
+米オリンピック・パラリンピック委員会の栄養士、キャリー・アプリック氏は、症例が確認されたことを念頭に改めて、頻繁な手洗いの徹底といった衛生対策に力を入れると説明。症状が表れた場...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243757.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/11/9af2a6bdee0c05975faa5482850aaad4/t/768/512/d/2026-02-03t092616z-1808774836-up1em230q7qqw-rtrmadp-3-olympics-2026-village.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243755.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-11T09:20:00+09:00</dc:date>
+        <title>モデルナのmRNAインフルエンザワクチン承認申請、米FDAが審査拒否</title>
+        <link>https://www.cnn.co.jp/usa/35243755.html?ref=rss</link>
+        <description>米食品医薬品局（FDA）が、モデルナが申請した初のmRNA季節性インフルエンザワクチンの審査を拒否した。同社が10日、明らかにした。トランプ政権の一部保健当局者から批判されてきたこの技術にとって新たな痛手となった。
+
+モデルナがオンラインに掲載した3日付の書簡によると、FDAは申請について、対照群が「臨床試験当時、米国で利用可能な最善の標準治療」を反映しておらず、「適切かつ十分に管理された」試験が含まれていな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243755.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/11/4e3fd1b26f7bb180e9643fad4caa24fd/t/768/512/d/c-gettyimages-2235743716.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243754.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-11T08:28:00+09:00</dc:date>
+        <title>トランプ氏、エプスタイン氏の行為「誰もが知っていた」　2006年ごろに指摘</title>
+        <link>https://www.cnn.co.jp/usa/35243754.html?ref=rss</link>
+        <description>米司法省が新たに公開したエプスタイン関連文書で、性犯罪で起訴され勾留中に死亡したジェフリー・エプスタイン氏に対する捜査が2006年ごろに公になった直後に、トランプ米大統領がフロリダ州パームビーチの警察に電話をかけ、感謝の意を伝えるとともに「（エプスタイン氏が）こうしたことをしていることを、誰もが知っていた」と語っていたことが明らかになった。
+
+文書は連邦捜査局（FBI）がパームビーチの元警察署長に行った...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243754.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/11/4dedb5e00a8d5d3ddb6da4897a94cfe4/t/768/512/d/gettyimages-2258839311-20260210151436983.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
