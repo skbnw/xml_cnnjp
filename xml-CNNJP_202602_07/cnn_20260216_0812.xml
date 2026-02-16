@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-02-16T16:46:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243916.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243941.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243938.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243934.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243932.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243931.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243923.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243919.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243915.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243914.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243913.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243911.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243910.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243909.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35243908.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243907.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243906.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243905.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35243836.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243904.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243900.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35243899.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35243898.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35243894.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243893.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35243896.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35243895.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35243882.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35243892.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35243891.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35243916.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-16T16:46:00+09:00</dc:date>
+        <title>金正恩総書記の娘、北朝鮮の次期指導者になるのか</title>
+        <link>https://www.cnn.co.jp/world/35243916.html?ref=rss</link>
+        <description>謎と陰謀に包まれた10代の少女が、北朝鮮の次期指導者になるかもしれない。
+
+一部の専門家は、指導者の金正恩（キムジョンウン）総書記が娘を後継者として育成しているとみている。金氏は近年、ますます頻繁に注目度の高い行事に娘を伴って姿を現しており、こうした動きが臆測を呼んでいる。
+
+娘の名前はキム・ジュエとされる。正確な年齢は不明だが、10代前半と推定されている。
+
+韓国の情報機関・国家情報院（国情院）が12日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243916.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/15/d62a70eb74ee34abfd01beebc540a0aa/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWxrZG5uMHAwMDA2M2I2cDdob25uYm1y-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbGtkbjR2dTAwMXoyNnA2ZWk1OTJnNWE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243941.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-16T16:08:00+09:00</dc:date>
+        <title>ロシア抑止へ向けた軍事費、「厳しい選択」必要と警告　英独の軍トップ</title>
+        <link>https://www.cnn.co.jp/world/35243941.html?ref=rss</link>
+        <description>米国の主要な同盟国2カ国の国防トップが、西側への志向を強めるロシアとの戦争を阻止するため、欧州各国に対し、防衛費の大幅な増額を支持するよう求める異例の公開要請を行った。
+
+ドイツ連邦軍トップのブロイアー総監と、英国のナイトン国防参謀長は、英紙ガーディアンと独紙ウェルトに共同で寄稿した論考で、欧州各国は安全保障を巡る「不都合な真実」に直面し、防衛支出を巡って「厳しい選択」を迫られていると警告した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243941.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/16/f6191d9d771dbd97f275c428cb291392/t/768/432/d/20260216-military.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243938.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-16T14:33:00+09:00</dc:date>
+        <title>「正しいことをするのに遅すぎることはない」、新たな動画で呼びかけ　米TV司会者の母親失踪</title>
+        <link>https://www.cnn.co.jp/usa/35243938.html?ref=rss</link>
+        <description>米NBCテレビの番組「トゥデー」の司会者、サバンナ・ガスリーさんの母親ナンシーさん（84）がアリゾナ州の自宅から何者かに連れ去られたとみられる事件で、サバンナさんは新たにインスタグラムに投稿した動画で誘拐した人物に向けてメッセージを発信した。
+
+「母を連れ去った人、あるいは居場所を知っている人へ。今からでも決して遅くはありません。あなたは迷子でも、孤独でもありません」
+
+サバンナさんは「正しいことをする...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243938.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/16/d1eb886bd46d5f39a61743c2b136cc0e/t/768/511/d/large-2026-02-14t063216z-1-lynxmpem1d02i-rtroptp-4-usa-crime-guthrie.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243934.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-16T13:38:00+09:00</dc:date>
+        <title>ロボットと「Xbox」のコントローラー　冬季五輪の写真の舞台裏を探る</title>
+        <link>https://www.cnn.co.jp/showbiz/35243934.html?ref=rss</link>
+        <description>ミラノ・コルティナ冬季オリンピック（五輪）の男子フィギュアスケートの熱狂にひたった翌日、CNN取材班は米写真配信大手ゲッティイメージズの五輪拠点を訪れ、同社のグローバルスポーツ担当副社長に話を聞いた。
+
+ゲッティは大会をできる限り創造的かつ迅速に記録するため、ミラノに拠点を設けている。
+
+イタリア各地の会場で競技の模様を撮影する写真家は39人。これに加え、スポンサー向けのコンテンツを撮影する商業写真家が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243934.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/16/d7b2f0dfce8a4294bc3e35afca9f4f95/t/768/511/d/large-001-gettyimages-2260379185.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243932.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-16T12:28:00+09:00</dc:date>
+        <title>イスラエル、ヨルダン川西岸の広大な土地を国有地化へ　「事実上の併合」とパレスチナ反発</title>
+        <link>https://www.cnn.co.jp/world/35243932.html?ref=rss</link>
+        <description>イスラエルが占領を続けているパレスチナ自治区ヨルダン川西岸地区で、土地の国有地化を促進させる措置を講じた。パレスチナ自治政府は「事実上の併合」として反発している。
+
+イスラエル政府がヨルダン川西岸の広大な土地を国有地として正式に登記する仕組みを作り出すのは、占領を始めた1967年以来で初めて。
+
+これについてイスラエル外務省は、土地登記に「秩序をもたらす」ための「行政措置」と説明しているが、閣僚らは入...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243932.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/16/c8fc4f1da1d89c2fc98ea666f33334b9/t/768/512/d/large-gettyimages-2252543131.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243931.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-16T11:08:00+09:00</dc:date>
+        <title>移民捜査官に銃撃された住民を暴行罪で訴追、虚偽発覚で取り下げ相次ぐ　トランプ米政権の信頼失墜</title>
+        <link>https://www.cnn.co.jp/usa/35243931.html?ref=rss</link>
+        <description>米ミネソタ州ミネアポリスでフードデリバリーの配達員をしていたアルフレード・アレハンドロ・アルホルナさんは先月、勤務中に米移民税関捜査局（ICE）に尾行されていることに気付いた。
+
+帰宅したところでつかみかかってきたICEの捜査官を振りほどき、アルホルナさんはいとこのフリオ・セサール・ソーサセリスさんの家に駆け込んだ。しかしソーサセリスさんはドアを閉めて鍵をかけようとしたところで、捜査官に脚を撃たれた。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243931.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/16/f606f647e02e2d4adc08bec2f0f4f02a/t/768/511/d/large-001-ap26030590925466.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243923.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-16T10:33:00+09:00</dc:date>
+        <title>ぬいぐるみが人気で品薄に、冬季五輪のマスコットは何の動物？</title>
+        <link>https://www.cnn.co.jp/showbiz/35243923.html?ref=rss</link>
+        <description>ミラノ・コルティナ冬季オリンピック（五輪）のアンバサダーを務める「ティナ」と「ミロ」のぬいぐるみが、あまりの人気で公式ストアでは品薄状態になっている。
+
+この事態は、一部のファンを落胆させている。中には、この「大惨事」に打ちひしがれたCNNの特派員も含まれる。
+
+マスコット関連商品の需要を見込めなかったとみられる大会組織委員会は、供給業者と協議しているとしている。
+
+では、そのマスコットは何の動物なのか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243923.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/16/c9d0993aca518c2f5c46c6d5ca1d0d13/t/768/510/d/large-001-gettyimages-2260526191a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243919.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-16T09:19:00+09:00</dc:date>
+        <title>出国しようとする元エネルギー相を拘束、汚職事件の捜査で　ウクライナ</title>
+        <link>https://www.cnn.co.jp/world/35243919.html?ref=rss</link>
+        <description>ウクライナ当局は15日、同国の元エネルギー相が大規模な汚職事件に関連して拘束されたと明らかにした。この人物は国外に出ようとしていたという。
+
+汚職を捜査する国家反汚職局（NABU）は、エネルギー相を務めた人物を「ミダス事件」の一環として拘束したと発表した。これは、昨年に大きな政治危機を引き起こしたウクライナのエネルギー分野を巡る広範な汚職疑惑の捜査を指す。
+
+NABUは声明で、初期の捜査が法の規定に従って進...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243919.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/16/dbc7cacc1f695f597be81579d0971766/t/768/529/d/large-p-3-ukraine-crisis-russia-kursk-nuclear.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243915.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-15T16:31:00+09:00</dc:date>
+        <title>500年前に沈没した英チューダー朝の軍艦、回収された乗組員の骨が示す驚くべき洞察</title>
+        <link>https://www.cnn.co.jp/fringe/35243915.html?ref=rss</link>
+        <description>英国の沈没船「メアリー・ローズ号」から回収された保存状態の良い骨は、乗組員の生活様式を明らかにし、骨の化学的性質の変化について驚くべき洞察を示している――。2024年、そんな研究結果が発表された。この洞察は現代の医学研究に役立つ可能性がある。
+
+研究結果は24年10月30日に学術誌「プロスワン」に掲載された。メアリー・ローズ号は、1545年7月19日にフランスとの戦いで沈没するまで、ヘンリー8世の治世下だったチュー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243915.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/11/01/66f9060d5e0384b15aba4c1a2f627b16/t/768/432/d/image6-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243914.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-15T16:02:00+09:00</dc:date>
+        <title>「ホーム・アローン」式のわなで家を要塞化、麻薬密売の男に禁錮7年　英</title>
+        <link>https://www.cnn.co.jp/world/35243914.html?ref=rss</link>
+        <description>英国の裁判所は、自身の麻薬ビジネスを守るために武器や爆発物などのわなを設置して自身の所有する不動産を要塞（ようさい）化していた麻薬密売の男に禁錮7年を言い渡した。
+
+禁錮7年が言い渡されたのはイアン・クラウトン被告。侵入者を阻止するために火炎放射器も自作していた。
+
+火炎放射器は、被告が所有物件に仕掛けていたわなのひとつ。被告は物件に、「これらの建物とその周辺の建物の敷地にブービートラップが仕掛けら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243914.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/15/1a5d5e4fa679cbb1f3301081d95f939d/t/768/432/d/117114-homealonetraps-hd-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243913.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-15T15:46:00+09:00</dc:date>
+        <title>ホホジロザメを襲うシャチの群れ、肝臓食べる様子をドローンで撮影　メキシコ</title>
+        <link>https://www.cnn.co.jp/fringe/35243913.html?ref=rss</link>
+        <description>シャチの群れが若いホホジロザメを集団で襲い、栄養豊富な肝臓を分け合って食べる様子をメキシコの研究チームが撮影した――。そんな研究結果が昨年、学術誌に発表された。
+
+この研究は昨年11月3日の海洋科学誌に発表された。ホホジロザメを襲うシャチの群れは南アフリカ、オーストラリア、米カリフォルニア州沖でも確認されているが、メキシコで記録されたのは初めてだとしている。
+
+メキシコの研究チームが2020年8月、メキシコ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243913.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/05/e49207a25dd2b7e2513e37c3d279518f/t/768/395/d/screenshot-2025-11-03-at-7-11-48-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243911.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-15T14:53:00+09:00</dc:date>
+        <title>移民当局の「無法行為」、独裁国家に例えて批判　オバマ氏</title>
+        <link>https://www.cnn.co.jp/usa/35243911.html?ref=rss</link>
+        <description>米国のオバマ元大統領は、米移民税関捜査局（ICE）による米ミネソタ州での対応について「危険だ」と批判し、「ならず者的な行為」は「権威主義国家」や「独裁政権」で見られた行為に似ていると述べた。
+
+オバマ氏の今回の発言は、14日に配信されたリベラル系ポッドキャスターのブライアン・タイラー・コーエン氏との幅広いインタビューの中でのもの。オバマ氏は前政権時には公の場への露出を抑え、民主党の次世代に道を譲る姿勢...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243911.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/15/d8aa7fd30c37567675c190dcd094d59c/t/768/511/d/large-001-gettyimages-2166940252.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243910.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-15T14:51:00+09:00</dc:date>
+        <title>スティーブ・バノン氏、フランシスコ教皇を「引きずり下ろす」　19年にエプスタイン氏に接近</title>
+        <link>https://www.cnn.co.jp/usa/35243910.html?ref=rss</link>
+        <description>米国のスティーブ・バノン元大統領首席戦略官が2019年、性犯罪で起訴され勾留中に死亡した富豪ジェフリー・エプスタイン氏とのやり取りで、当時のローマ教皇フランシスコに対抗する戦略について協議していたことが、司法省によって公開された文書で明らかになった。バノン氏は教皇を「引きずり下ろす」との考えを記している。
+
+先月公開された大量の文書の中に、バノン氏とエプスタイン氏の間で交わされた19年のメッセージが含...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243910.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/15/77a9ebba51b9f761ec237fa37f03e9c8/t/768/431/d/artboard-1-20260213225442537.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243909.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-15T13:12:00+09:00</dc:date>
+        <title>米エージェント「ワッサーマン」を売却へ、エプスタイン文書めぐり所属アーティストが反発</title>
+        <link>https://www.cnn.co.jp/showbiz/35243909.html?ref=rss</link>
+        <description>スポーツのマーケティングなどを行う米ワッサーマンを率いるケイシー・ワッサーマン氏が同事務所の売却手続きに入った。2028年ロサンゼルス五輪・パラリンピック組織委員会会長を務めるワッサーマン氏をめぐっては、性犯罪で起訴され勾留中に死亡した米富豪ジェフリー・エプスタイン氏の捜査に関連する文書に記載があったことを受けて、所属アーティストが反発を示していた。
+
+CNNが入手した13日付の社内メモによれば、ワッサー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243909.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/15/2e00e5369337da9b1a23733a5e6b1301/t/768/512/d/large-p-3-olympics-2026-ioc.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35243908.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-15T12:31:00+09:00</dc:date>
+        <title>米ウェンディーズ、26年半ばまでに数百店閉鎖へ　事業再生計画の一環</title>
+        <link>https://www.cnn.co.jp/business/35243908.html?ref=rss</link>
+        <description>米ファストフード大手ウェンディーズは13日、2026年半ばまでに全店舗の5～6%を閉鎖する方針だと明らかにした。
+
+今回の店舗閉鎖は、昨年11月に発表した事業再生計画の一環。当時も数百店舗を閉鎖すると明らかにしていた。
+
+暫定最高経営責任者（CEO）を務めるケン・クック氏は決算説明会で、計画の一環として25年10～12月期に28店を閉鎖したと述べた。決算発表によると、年末時点の米国内の店舗数は5969店だった。
+
+クック氏は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35243908.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/15/e74c36c70e55af1236e5c9e1ecbf0715/t/768/512/d/large-gettyimages-2244403240-20260213151701276.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243907.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-15T11:34:00+09:00</dc:date>
+        <title>ヒラリー・クリントン元米国務長官、エプスタイン文書は「恐ろしい」</title>
+        <link>https://www.cnn.co.jp/usa/35243907.html?ref=rss</link>
+        <description>米国のヒラリー・クリントン元国務長官は14日、性犯罪で起訴され勾留中に死亡した富豪、ジェフリー・エプスタイン氏に関して司法省が公開した文書に触れ、「憂慮すべき実に恐ろしい情報」が明らかになりつつあるとの認識を示した。
+
+クリントン氏はミュンヘン安全保障会議の場で記者から、エプスタイン文書に記されている欧米指導者の疑惑は欧米の価値観にどう影響するかと問われ、「恐ろしいことだ。今後も日を追うごとに文書...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243907.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/15/45225c512031744a36b6e4c838f464b6/t/768/511/d/c-gettyimages-2261645633.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243906.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-15T11:08:00+09:00</dc:date>
+        <title>スペースXとNASAの宇宙船がISSに到着、宇宙飛行士4人を補充　1カ月ぶりに本来の体制に</title>
+        <link>https://www.cnn.co.jp/fringe/35243906.html?ref=rss</link>
+        <description>米スペースXと米航空宇宙局（NASA）の宇宙船が14日、国際宇宙ステーション（ISS）に到着した。ISSは、医療上の懸念から一部の宇宙飛行士が緊急帰還したために最小限の人員だけが残っていたが、約1カ月ぶりに本来の体制に戻った。
+
+「クルー12」と呼ばれる今回のミッションは現地時間13日午前5時17分ごろ、米フロリダ州のケープカナベラル宇宙軍基地から打ち上げられた。宇宙船は30時間以上にわたって宇宙空間を飛行し、地球の上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243906.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/15/f398b8279a791424f4c136de5a25b44f/t/768/431/d/large-001-screenshot-2026-02-13-at-10-32-33-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243905.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-15T10:29:00+09:00</dc:date>
+        <title>ロシア反体制派ナワリヌイ氏、「ヤドクガエル」に含まれる毒で殺害　欧州5カ国が声明</title>
+        <link>https://www.cnn.co.jp/world/35243905.html?ref=rss</link>
+        <description>ロシア政府への批判を公言していた反体制派指導者、アレクセイ・ナワリヌイ氏が2年前に死亡した問題で、欧州5カ国は14日、南米のヤドクガエルに含まれる致死性の毒「エピバチジン」によって獄中で殺害されたとの見解を示した。
+
+声明によると、ナワリヌイ氏の遺体から採取したサンプルを分析した結果、「エピバチジンの存在が確定」した。ロシアでは自然界に見つからない物質だという。
+
+声明を発表した英国、スウェーデン、フ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243905.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/15/91ad280a9aac991ac8f0620c6165b093/t/768/547/d/gettyimages-2008636586.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35243836.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-15T09:19:00+09:00</dc:date>
+        <title>【分析】就任1年後に確定、トランプ関税の負担は外国人ではなく米国人へ</title>
+        <link>https://www.cnn.co.jp/business/35243836.html?ref=rss</link>
+        <description>ニューヨーク連邦準備銀行の新たな報告書は、経済学者が長らく警告してきた内容を裏付けている。つまり関税の負担はほぼすべて、それらを課す国の住民が負うということだ。
+
+この単純な事実は、21世紀の米国で今や経験的に学習されている。需要と供給に匹敵するほどの経済学の初歩。変わることのないこの世の現実だ。
+
+連邦準備銀行の調査によると、米国の企業と消費者は昨年、2025年の輸入税の約90%を負担した。これは驚く話で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35243836.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/13/c61191a3d595d0ab69f9ce12dfb4dc9c/t/768/512/d/ap26041460942415.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243904.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-15T09:08:00+09:00</dc:date>
+        <title>ジャンプ男子個人ラージヒル　ドメン・プレブツが金、二階堂蓮は銀</title>
+        <link>https://www.cnn.co.jp/showbiz/35243904.html?ref=rss</link>
+        <description>ミラノ・コルティナ冬季オリンピック（五輪）は14日、ノルディックスキー・ジャンプ男子個人ラージヒルで、スロベニアのドメン・プレブツ（26）が金メダルを獲得し、今大会2個目の金に輝いた。プレブツは合計301.8点を記録し、300点を超えた唯一の選手となった。
+
+プレブツはすでに妹のニカとともに出場した混合団体でもスロベニア代表の一員として金メダルを獲得している。
+
+プレブツは最終のジャンプを前に、二階堂蓮に差をつ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243904.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/15/d583a47cf0fd79552fbe12d48cc686e3/t/768/511/d/large-c-gettyimages-2261656103.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243900.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-14T19:00:00+09:00</dc:date>
+        <title>米国と欧州は「不可分」、ルビオ米国務長官が強調　ミュンヘン安全保障会議</title>
+        <link>https://www.cnn.co.jp/usa/35243900.html?ref=rss</link>
+        <description>ルビオ米国務長官は14日、ドイツで開催されたミュンヘン安全保障会議で演説を行い、過去の脅威から「世界を救った」米欧間の同盟の歴史的意義を強調した。
+
+「必要であれば単独で行動する用意はあるが、我々はここ欧州の友人たちとともに行動を起こす方を優先する。そうすることが我々の望みだ」と、ルビオ氏は語った。
+
+また米国と欧州について「我々は一体にして不可分である」と言い添え、数十年にわたる連携の重要性を強調...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243900.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/14/a8cef04de092782a332a442953085faa/t/768/512/d/2026-02-14t081753z-1062984199-rc2kljawmh2x-rtrmadp-3-security-munich.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35243899.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-14T18:00:00+09:00</dc:date>
+        <title>ようやく増加に転じた韓国の出生数、この流れは今後も続くのか</title>
+        <link>https://www.cnn.co.jp/world/35243899.html?ref=rss</link>
+        <description>活気あふれるコンベンションセンター内を、若いカップルたちが楽しそうに歩き回りながら、抱っこひもを試したり、ベビーカーを押してみたり、チャイルドシートの最新の安全機能について学んだりしている。
+
+1月のソウルで見られたこの光景は、出生率の急激な低下や、日本や中国などの近隣諸国も直面している人口危機といった、韓国を巡るいつものニュースとは正反対に映るかもしれない。
+
+だが、韓国の出生数はここ1年余り、緩...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35243899.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/14/146a27b3ddcb8def303e70f7d7c7d1af/t/768/494/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWxibDJiNzMwMDAyM2I2dDVkd3llZzZq-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta3c5dnJpYjAwYmcyNnAzYjNiaWEzamw_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35243898.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-14T17:43:00+09:00</dc:date>
+        <title>18世紀以降のタトゥーアートの変遷、私的コレクションに見る</title>
+        <link>https://www.cnn.co.jp/style/arts/35243898.html?ref=rss</link>
+        <description>タトゥーの起源は5000年以上前、自然の中でミイラ化されたエッツィという人物にさかのぼることができる。その体に炭で刻まれた61の模様は世界最古のタトゥーとみられている。
+
+人間の肌に墨を入れる行為は複雑な歴史を持ち、他の芸術形態と同じく、タトゥー固有の伝統やちょっとした収集品がある。収集対象には初期の道具や歴史的絵画、民族誌学上の写真に加え、最近では存命の著名アーティストによるイラスト（フラッシュシー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35243898.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/14/3fcb6e518a72aeee7f11cda6d7be4557/t/324/432/d/210318120942-03-tattoo-art-henk-schiffmacher-book-restricted__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35243894.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-14T17:30:00+09:00</dc:date>
+        <title>「嵐が丘」の映画化、陽光にきらめく水たまりのように浅薄</title>
+        <link>https://www.cnn.co.jp/style/arts/35243894.html?ref=rss</link>
+        <description>エメラルド・フェネル監督の映画「嵐が丘」を少しでも楽しもうと思うなら、映像に身を委ねるしかない。割れた卵の卵黄、カタツムリの粘液、スクリーンに光る雨滴――。どれを取っても表面を滑るように演出され、決して皮膚の奥深くまで届くことはない。
+
+英国の作家でもあるフェネル監督の3作目は、最初の予告編が公開された時点から賛否を呼んでいる。作家エミリー・ブロンテが描いたイングランドの荒野を映像化しようとした多く...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35243894.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/14/12f8bad1657b0b76da1e3bed533646f7/t/768/432/d/rev-1-whe-t2-0039-high-res-jpeg.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243893.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-14T17:10:00+09:00</dc:date>
+        <title>恐竜に関心あったエプスタイン氏、事件の影響が古生物学界にも</title>
+        <link>https://www.cnn.co.jp/usa/35243893.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した米富豪ジェフリー・エプスタイン氏の捜査に絡み、関連する文書に名前の挙がった一部の古生物学者が、英国で開催される恐竜イベントへの参加を禁じられた。当該の文書を巡っては財界、政界、学界の有力人物らとエプスタイン氏との関係が相次いで暴露される事態となっている。
+
+毎年開催されるこの恐竜イベント「ダイノコン」の運営は、X（旧ツイッター）に投稿した声明で「エプスタイン関連文書...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243893.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/14/9d3af6b8198f83f9187d9e0c63f1e66c/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWxsY202eWYwMDExM2I2cHFsczhqazRu-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbGxjOHB6NDAwMzEyNnA2Z3o4bWQxanM_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35243896.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-14T16:50:00+09:00</dc:date>
+        <title>6千年前の遺骨から未知のDNA、既知の祖先や子孫存在せず　コロンビア</title>
+        <link>https://www.cnn.co.jp/fringe/35243896.html?ref=rss</link>
+        <description>コロンビアで出土した古代人類の遺骨を調べていた研究チームが、この集団にいかなる既知の祖先も現生人類の子孫も存在しないことを突き止めたーー。昨年5月、そんな論文が発表された。
+
+研究チームは科学誌サイエンス・アドバンシーズに掲載された論文で、中央コロンビアのボゴタ高原から遺骨が出土した21人の遺伝子データについて報告した。これによると、21人は未知の集団に属しており、一部の人が生きた時代は6000年前にさか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35243896.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/12/6bcbde44acf270a4801e38e46402a980/t/768/432/d/gettyimages-973964122.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35243895.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-14T15:58:00+09:00</dc:date>
+        <title>写真特集：「嵐が丘」を映画化、豪華絢爛な衣装</title>
+        <link>https://www.cnn.co.jp/photo/35243895.html?ref=rss</link>
+        <description>マーゴット・ロビー主演で制作された映画「嵐が丘」。ウィリアム・ワイラー監督による1939年のハリウッド映画を思わせる豪華絢爛な衣装を見ていく&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35243895.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/14/7ac66367f8c628d9c6b01d5d9b49a1b5/t/345/432/d/rev-1-whe-t2-0027-high-res-jpeg-crop__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35243882.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-14T14:00:00+09:00</dc:date>
+        <title>ホテルの「丸見えバスルーム」はもうたくさん、プライバシーを取り戻したい旅行者におすすめの方法</title>
+        <link>https://www.cnn.co.jp/travel/35243882.html?ref=rss</link>
+        <description>数カ月前に付き合い始めた恋人と、週末に二人で旅行に行くことになったとする。
+
+好立地に魅力的な食事、「遊び心あふれる」デザインと、条件の揃った素晴らしいホテルを見つけ、チェックイン。しかし、いざ二人で部屋に入ると、思っていた以上に「親密な」展開になりそうだと気づく。
+
+その原因はトイレだ。パーティションで区切った小さなスペースに設置されているが、部分的にフロスト加工が施された一枚の薄いガラス板で仕...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35243882.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/13/380dfdf8546ee391fd7c9968e7bb3386/t/768/512/d/gettyimages-589124818.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35243892.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-14T13:30:00+09:00</dc:date>
+        <title>米軍が「麻薬船」攻撃、3人死亡　カリブ海</title>
+        <link>https://www.cnn.co.jp/usa/35243892.html?ref=rss</link>
+        <description>米軍は13日、カリブ海で麻薬密輸への関与が疑われる新たな船舶を攻撃した。米南方軍によると攻撃で3人が死亡した。
+
+「2月13日、南方軍司令官フランシス・L・ドノバン将軍の指示により、合同任務部隊サザンスピアは指定テロ組織が運航する船舶に対し、致死的な物理的攻撃を実施した」と南方軍司令部はX（旧ツイッター）で発表。米軍側の要員に被害はなかったとした。
+
+「麻薬船」への一連の攻撃は「オペレーション・サザンスピ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35243892.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/14/b59c9ff132aeaae63c6871db59a48192/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWxsbGF3aWcwMDM1MjZudzE0bm80MnZk-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbGxsYXdpZzAwMzYyNm53YWdmeDA3bmg_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35243891.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-14T13:15:00+09:00</dc:date>
+        <title>IOC、ナチス時代の五輪扱ったTシャツを販売　批判集中</title>
+        <link>https://www.cnn.co.jp/showbiz/35243891.html?ref=rss</link>
+        <description>ナチスドイツの独裁者、アドルフ・ヒトラーがナチス思想を誇示する場として利用した1936年ベルリンオリンピック（五輪）を記念する商品を販売しているとして、国際オリンピック委員会（IOC）に批判が寄せられている。
+
+ミラノ・コルティナ冬季五輪の開催で注目を集める五輪公式サイトには、物議を醸したナチスの五輪を扱った男性用Tシャツが掲載されている。IOCの「ヘリテージ・コレクション」の一部とされ、現在は「在庫切れ」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35243891.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/14/e4475263571a887690b1b0f7b1b60fe0/t/768/768/d/mens-natural-1936-berlin-games-olympic-heritage-t-shirt-ss5-p-201199650-pv-2-u-yzlizuxomtwcv6gsqn99-v-amquikux8kleue3qtzuv-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
