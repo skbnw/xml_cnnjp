@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-03-01T16:51:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244405.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244434.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244433.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35244432.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244430.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244431.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244429.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244428.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244427.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244425.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244424.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244423.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244422.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244421.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244420.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244419.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244418.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244414.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244413.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244412.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244411.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244410.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244409.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244408.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244407.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244406.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35244404.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35244401.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35244403.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35244389.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244405.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T16:51:00+09:00</dc:date>
+        <title>脱獄中に7歳女児を誘拐し殺害した男、30年後に身元判明　米ケンタッキー州</title>
+        <link>https://www.cnn.co.jp/usa/35244405.html?ref=rss</link>
+        <description>米当局はこのほど、約30年前に当時7歳のモーガン・バイオリちゃんを誘拐し、絞殺した人物が判明したと発表した。
+
+検察によるとロバート・スコット・フロバーグ容疑者は、刑務所から脱獄中だった1996年7月にバイオリちゃんを連れ去ったことを認めている。同容疑者はケンタッキー州ボーリンググリーンのアパート付近でバイオリちゃんを誘拐し、栗色のバンに乗せて別の町まで連れ去り、ハンカチで絞殺した後、遺体を遺棄。その後...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244405.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/28/816a39844154658a14da9cea6ece3b55/t/768/598/d/ap96072502524.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244434.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T16:30:00+09:00</dc:date>
+        <title>イラン、国防軍需相と軍参謀総長の死亡を確認</title>
+        <link>https://www.cnn.co.jp/world/35244434.html?ref=rss</link>
+        <description>イラン国営メディアは、米国とイスラエルによる28日のイラン攻撃により、国防軍需相と参謀総長が死亡したことを確認した。
+
+半国営タスニム通信は、昨年6月の12日間の紛争で前任者が死亡して以降、軍を率いていたムサビ参謀総長が2月28日の攻撃で死亡したと報じた。
+
+タスニム通信はまた、ナシルザデ国防軍需相が死亡したとも伝えた。
+
+イランはこれに先立ち、イラン革命防衛隊のパクプール司令官と安全保障担当の顧問を務めて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244434.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/77aa86079d1cb43242e4388383b28e58/t/768/432/d/20260301-iran-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244433.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T15:52:00+09:00</dc:date>
+        <title>ドバイで新たな爆発音、港湾上空に煙も　イランが中東各地で新たな攻撃</title>
+        <link>https://www.cnn.co.jp/world/35244433.html?ref=rss</link>
+        <description>現地のCNN取材班は3月1日午前、アラブ首長国連邦（UAE）ドバイで大きな爆発音を3回確認した。その数分後にも激しい爆発音が続いた。
+
+これまでのところ負傷者の報告はなく、新たな爆発の後に被害が生じた場所があるかは不明だ。
+
+ドバイで朝を迎えた住民は、夜間の攻撃による濃い黒煙がジェベル・アリ港から立ち上るのを目撃したと報告している。
+
+
+  
+    
+       
+    
+    
+     ドバイの街並みの上空に漂う煙（CNN）
+  
+
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244433.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/b594103aa8256b987ffaaef20ddf5622/t/768/432/d/0bb8e1ac-b318-45fc-a617-e6575aa11a4a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35244432.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T15:07:00+09:00</dc:date>
+        <title>トランプ米政権、アンソロピックを禁止　オープンAIが国防総省と契約</title>
+        <link>https://www.cnn.co.jp/tech/35244432.html?ref=rss</link>
+        <description>米オープンAIのサム・アルトマン最高経営責任者（CEO）は2月27日夜、同社のAI（人工知能）ツールを米軍の機密システムで使用する契約を国防総省と結んだと発表した。ただし、競合のアンソロピックが求めていたものと同様の制限が設けられるものとみられる。
+
+オープンAIとの契約は、トランプ大統領が連邦政府の全機関に対し、アンソロピックのAIツールの使用停止を命じたのと同じ日に発表された。ヘグセス国防長官は、アンソロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35244432.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/68b53a8dd1ae1e8bda854336b2f39f32/t/768/511/d/large-ap26050290048122.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244430.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T14:16:00+09:00</dc:date>
+        <title>エプスタイン氏の「島」で撮影、ラトニック商務長官の写真か　司法省のサイトで一時閲覧できず疑念の声</title>
+        <link>https://www.cnn.co.jp/usa/35244430.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した米富豪、ジェフリー・エプスタイン氏の私有島で、ラトニック商務長官がエプスタイン氏と一緒に写っているとされる写真が司法省のサイトから一時取り下げられ、連邦議会の議員から疑念の声が上がっている。
+
+問題の写真はそれまで、司法省のオンライン資料庫に保管されていた。この資料庫は1月下旬に「エプスタイン文書透明化法」に基づきアップロードされたファイルを集めたもの。
+
+司法省のウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244430.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/8c1f9ee99247062876af8b2f249e1233/t/768/569/d/efta01230639.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244431.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T14:00:00+09:00</dc:date>
+        <title>イランが湾岸の主要渡航拠点を攻撃、煙が充満したドバイ空港で乗客避難</title>
+        <link>https://www.cnn.co.jp/world/35244431.html?ref=rss</link>
+        <description>世界で最も利用者の多い空港の一つであるアラブ首長国連邦（UAE）ドバイの国際空港で1日、イランによる攻撃があったと伝えられる中、乗客が避難する出来事があった。イランが、米国と友好関係にある湾岸諸国の交通の拠点に対して攻撃を行った。
+
+映像には、煙が充満したドバイ国際空港の通路から人々が逃げ出す様子が映っている。当局は職員4人が負傷したと確認した。
+
+空港当局は避難のきっかけについて明らかにしていない。ロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244431.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/4226f36adf2d804088561ea57cc48959/t/768/432/d/still-22410483-6205-987999999999-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244429.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T13:11:00+09:00</dc:date>
+        <title>最高指導者ハメネイ師の死亡、イランのTVアナウンサーは涙ながらに読み上げ</title>
+        <link>https://www.cnn.co.jp/world/35244429.html?ref=rss</link>
+        <description>イラン最高指導者ハメネイ師の死亡を伝えたテレビのアナウンサーは、声明を読み上げる際、涙を流した。
+
+イランがハメネイ師の死亡を確認したのは現地時間3月1日未明。米国とイスラエルによる攻撃が始まった翌日のことだった。
+
+イランはハメネイ師の死亡を受け、40日間の服喪を発表している。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244429.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/d0ec99d2ab88c8748202c00acdd0a2c9/t/768/432/d/crying-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244428.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T12:50:00+09:00</dc:date>
+        <title>狙撃銃の写真に登場、金総書記の娘に注目集まる　後継候補か</title>
+        <link>https://www.cnn.co.jp/world/35244428.html?ref=rss</link>
+        <description>北朝鮮は28日、金正恩（キムジョンウン）総書記と10代の娘が射撃場にいる写真を公開した。後継者候補とうわさされる娘をアピールする最新の宣伝画像とみられる。
+
+北朝鮮の朝鮮中央通信（KCNA）によると、金氏と娘の「ジュエ」氏は、党への貢献をたたえて軍の幹部に銃を授与し、射撃も行った。金正恩氏の妹の金与正（キムヨジョン）氏や他の当局者らも同行した。
+
+CNNの検証でAI（人工知能）による改変の可能性があるとみられた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244428.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/82088b63560a191f8f989b792f5db356/t/768/507/d/large-01-2263388910.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244427.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T12:13:00+09:00</dc:date>
+        <title>イラン最高指導者ハメネイ師、テヘランの邸宅で「職務遂行中」に死亡　国営メディア</title>
+        <link>https://www.cnn.co.jp/world/35244427.html?ref=rss</link>
+        <description>イラン国営メディアの報道によれば、最高指導者ハメネイ師は首都テヘランにある邸宅の敷地内で死亡した。
+
+国営ファルス通信によると、ハメネイ師は28日未明に攻撃を受けた際、「自宅にある執務室」で「職務を遂行中」に死亡したという。
+
+欧州エアバスが提供した衛星画像には、攻撃後にハメネイ師の邸宅の敷地から黒煙が立ち上る様子が写っている。一連の画像から、敷地内の複数の建物が攻撃で大きな被害を受けたことがうかが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244427.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/195bdb3bad2fc33194f27c16b2f94843/t/768/511/d/c-ap24187182370182.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244425.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T10:57:00+09:00</dc:date>
+        <title>イラン、米国による先制防衛の主張は「侵略を正当化できない」　安保理会合</title>
+        <link>https://www.cnn.co.jp/world/35244425.html?ref=rss</link>
+        <description>イランのイラバニ国連大使は28日、米国とイスラエルによる同国への共同攻撃について、国連憲章に反する「戦争犯罪」だと非難した。
+
+イラバニ大使は国連安全保障理事会の緊急会合で発言した。会合には、米国やイラン、イスラエルの代表らが出席した。
+
+イラバニ大使は「この違法な武力行使を正当化しようとする根拠のない主張は、国際法上認められない」と述べ、「先制攻撃の行使、差し迫った脅威の主張、あるいはその他の根拠...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244425.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/fbd8f52be7fc6397f928df9b37a68fae/t/768/491/d/large-c-gettyimages-2263584265.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244424.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T10:51:00+09:00</dc:date>
+        <title>イラン国営メディア、最高指導者ハメネイ師の死亡を確認</title>
+        <link>https://www.cnn.co.jp/world/35244424.html?ref=rss</link>
+        <description>複数のイラン国営メディアで、最高指導者ハメネイ師の死亡を確認する報道が出ている。
+
+国営イラン放送（IRIB）は3月1日午前、「イランの最高指導者が殉教した」と報じた。
+
+政府系メヘル通信は、「この偉大な学者にしてムジャヒド（闘士）はイランの発展に命をささげた。そして今、天上の偉大な殉教者たちのもとにいる」と伝えた。
+
+
+  
+  
+イランの最高指導者ハメネイ師＝2023年1月、イランの首都テヘラン/Office of the Iran...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244424.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/c176694a9dbcc92059fda0bb5611c230/t/768/512/d/c-2023-01-12t141048z-1641938204-rc21py9x25ra-rtrmadp-3-iran-politics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244423.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T10:39:00+09:00</dc:date>
+        <title>ハメネイ師死亡後にイランを率いる人物、「良い候補がいる」　トランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35244423.html?ref=rss</link>
+        <description>トランプ米大統領は28日、イラン最高指導者ハメネイ師の死亡を発表した後、イランを率いる「良い候補が何人かいる」との考えを明らかにした。
+
+トランプ氏はCBSニュースとの電話インタビューで、誰がかじ取りを担うのかと聞かれ、「誰だか正確に分かっているが、言うことはできない」と答えた。
+
+イランの指導者に就いてほしい意中の人物が誰かいるのかとさらに問われると、トランプ氏は「そう思う。良い候補が何人かいる」と明...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244423.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/b81ad57eee5f39a5d63da7823c9dd023/t/768/512/d/c-2026-02-28t134601z-1403883851-rc2puja99wjo-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244422.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T10:06:00+09:00</dc:date>
+        <title>イスラエル各地に攻撃　1人死亡、121人負傷</title>
+        <link>https://www.cnn.co.jp/world/35244422.html?ref=rss</link>
+        <description>イスラエル各地で28日にあった攻撃により、1人が死亡し、121人が負傷した。イスラエルの救急活動組織マゲン・ダビド・アドム（MDA）が明らかにした。
+
+MDAは1日の声明で、負傷者の大半は「軽傷」だと明らかにした。
+
+MDAによると、救急隊員らは、医療処置を行い、全国の病院に計121人の負傷者を搬送した。50代の女性1人が死亡したほか、中程度のけがの患者が2人、軽傷の患者が119人だったという。
+
+テルアビブへのイランのミサ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244422.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/2986dc37f4bf5841a4afbe10a772dc4f/t/768/511/d/large-c-ap26059794068552.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244421.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T09:38:00+09:00</dc:date>
+        <title>ハメネイ師死亡の報道、イラン首都で歓声と祝福の声　「イスラム共和国に死を」と唱える女性も</title>
+        <link>https://www.cnn.co.jp/world/35244421.html?ref=rss</link>
+        <description>イランの最高指導者ハメネイ師が死亡したとの報道を受け、首都テヘランの一部地域では28日夜、歓声や祝福の声が上がった。
+
+CNNがテヘランの目撃者から入手した映像では、女性2人がペルシャ語で「イスラム共和国に死を」「シャー（国王）万歳」と連呼する声が聞こえ、その後、歓声や口笛が沸き起こっている。
+
+別の同様の映像では、テヘラン市内の住宅地一帯に歓声が響き渡っている様子が確認できる。
+
+イラン外務省の報道官は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244421.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/d6f0f25e41315d78fcbdb3463a3e798c/t/768/432/d/chant.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244420.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T09:00:00+09:00</dc:date>
+        <title>米・イスラエルが学校に攻撃、少女108人死亡　イラン国営メディア</title>
+        <link>https://www.cnn.co.jp/world/35244420.html?ref=rss</link>
+        <description>イラン南部ミナブの女子学校に対する米・イスラエルの攻撃で、少なくとも108人の女子生徒が死亡した。イラン国営メディアが伝えた。
+
+学校に対する米国とイスラエルによる攻撃で死亡した生徒の数は、少なくとも108人に増えた。国営イラン放送（IRIB）が同市の検察の話として伝えた。
+
+IRIBによれば、同州の知事は1日を州の公的な服喪の日と宣言した。
+
+IRIBが投稿した映像では、攻撃後の建物内の床に少なくとも八つの遺体袋が並...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244420.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/fd0cf2979ee8c57c1e0fc68a50afbcb1/t/768/511/d/large-ap26059720229863.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244419.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T08:12:00+09:00</dc:date>
+        <title>トランプ氏、イランの最高指導者が「死亡」</title>
+        <link>https://www.cnn.co.jp/usa/35244419.html?ref=rss</link>
+        <description>トランプ米大統領は28日、米国とイスラエルによるイランへの共同攻撃を受け、イランの最高指導者ハメネイ師が死亡したと明らかにした。
+
+トランプ氏はSNS「トゥルース・ソーシャル」への投稿で、ハメネイ師の殺害を称賛。ハメネイ師については「歴史上最も邪悪な人物のひとり」と呼んだ。
+
+トランプ氏は「これはイラン国民だけでなく、すべての偉大な米国民、そして世界中の多くの国々でハメネイ師と彼の血に飢えた凶悪な一味に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244419.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/ea8d6e30c8568f3a49e70b71ccb9a075/t/768/511/d/large--rtrmadp-3-iran-crisis-blast.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244418.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-01T06:55:00+09:00</dc:date>
+        <title>イラン最高指導者ハメネイ師の死亡を確認、イスラエル情報筋</title>
+        <link>https://www.cnn.co.jp/world/35244418.html?ref=rss</link>
+        <description>イスラエルは、28日の攻撃によってイランの最高指導者ハメネイ師が死亡したことを確認した。イスラエルの情報筋2人が明らかにした。
+
+情報筋の1人は、イスラエルがハメネイ師の遺体の写真を入手したと明らかにした。もう1人の情報筋は、公式発表の準備が進められていると述べた。
+
+これに先立ち、イスラエルのネタニヤフ首相は、ハメネイ師が「もはやわれわれと共にいない」ことを示す多くの兆候があると語っていた。
+
+一方、イ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244418.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/01/6d56a5c0fa964986cc1871e64653561f/t/768/512/d/large-a-rtrmadp-3-iran-nuclear-usa.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244414.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T18:45:00+09:00</dc:date>
+        <title>米軍が基地置く湾岸アラブ諸国、爆発の報告相次ぐ</title>
+        <link>https://www.cnn.co.jp/world/35244414.html?ref=rss</link>
+        <description>バーレーンとカタール、アラブ首長国連邦（UAE）のアブダビで、複数の爆発が発生したとの報告があった。いずれも米軍基地の所在地となっている。
+
+バーレーン内務省は市民に対し、最寄りの安全な場所へ直ちに避難するよう呼びかけた。
+
+イランの半国営通信社ファルス通信によると、イランはバーレーンにある米軍基地をミサイル攻撃した。
+
+バーレーンはペルシャ湾における米国の主要同盟国であり、首都マナマには米海軍第5艦隊...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244414.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/28/7ad958f3fc1f1edea194915a29a16594/t/768/432/d/image-2-20260228090858844.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244413.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T18:10:00+09:00</dc:date>
+        <title>イスラエルに向け「数十発」の弾道ミサイル発射　イランメディアが報道</title>
+        <link>https://www.cnn.co.jp/world/35244413.html?ref=rss</link>
+        <description>イランの精鋭「イスラム革命防衛隊（IRGC）」傘下のヌール・ニュースは、イスラエルに向けて「数十発」の弾道ミサイルが発射されたと報じた。
+
+別の国営通信社メフル通信は、ミサイルは「パレスチナ全域」を標的としていると報じた。これはイスラエルのことを指している。
+
+イランの英語国営通信社プレスTVは、「現在イランから30発から75発」のミサイルが発射されていると報じた。</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244412.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T17:52:00+09:00</dc:date>
+        <title>テヘランの情報機関付近から立ち上る煙、映像が捉える　イラン</title>
+        <link>https://www.cnn.co.jp/world/35244412.html?ref=rss</link>
+        <description>イスラエルと米国がイランへの大規模爆撃を実施する中、CNNが位置情報を特定した映像には、首都テヘランにある情報機関の施設の方向から煙が立ち上る様子が捉えられている。
+
+
+  
+    
+       
+    
+    
+     テヘランにあるイラン情報機関の本部の方向から煙が立ち上る様子（From Social Media）
+  
+
+
+
+  
+    
+       
+    
+    
+    CNNが検証した映像には、テヘラン北部にあるイラン情報機関に対する攻撃の様子が映ってい...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244411.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T17:38:00+09:00</dc:date>
+        <title>イランでの軍事作戦、「大規模かつ継続的」とトランプ氏　米国側の犠牲の可能性にも言及</title>
+        <link>https://www.cnn.co.jp/usa/35244411.html?ref=rss</link>
+        <description>米国のトランプ大統領は、イランにおける軍事作戦を「大規模かつ継続的」なものと表現し、イランが米国人の生命を危険にさらすのを防ぐことを意図していると述べた。
+
+「米軍は、この極めて邪悪で過激な独裁政権が米国と我が国の中核的な国家安全保障上の利益を脅かすのを防ぐため、大規模かつ継続的な作戦を実施している」と、トランプ氏はビデオメッセージで述べた。「我々は彼らのミサイルを破壊し、ミサイル産業を根こそぎ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244411.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/28/020f62265895b9524f208efa26084a26/t/768/512/d/gettyimages-2263400733.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244410.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T17:04:00+09:00</dc:date>
+        <title>イラン最高指導者の住居やオフィス付近で爆発音　国営メディア</title>
+        <link>https://www.cnn.co.jp/world/35244410.html?ref=rss</link>
+        <description>複数のイラン国営メディアは、首都テヘランのパスツール地区で爆発音が確認されたと報じた。この地区には、イラン最高指導者ハメネイ師の住居やオフィスを含む厳重警備が敷かれた施設がある。
+
+イランのファルス通信は、少なくとも7発のミサイルがこの地域に着弾したと報じた。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244410.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/28/6ce3fd37165c75bd49471e9082918f49/t/768/511/d/ap26059240652017.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244409.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T16:52:00+09:00</dc:date>
+        <title>イスラエルのイラン攻撃は米国と連携　情報筋</title>
+        <link>https://www.cnn.co.jp/world/35244409.html?ref=rss</link>
+        <description>イスラエルによる28日午前のイランへの攻撃は、米国と連携する形で行われた。イスラエルの情報筋1人がCNNに明らかにした。
+
+現時点では、これがイスラエルによる単独攻撃だったのか、それとも米国も攻撃に参加したのかは不明だ。
+
+イスラエルの攻撃は、イスラエルが深刻な脅威とみなしている弾道ミサイルとミサイル発射装置を標的としていた。
+
+一方、イランの国営ファルス通信の報道によると、同国では首都テヘランに加え、イ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244409.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/28/e1c84af830b8d86a7e12200d46cd21e2/t/768/512/d/ap26059256811672.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244408.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T16:37:00+09:00</dc:date>
+        <title>米国のイラン攻撃、軍事目標に集中　米当局者</title>
+        <link>https://www.cnn.co.jp/usa/35244408.html?ref=rss</link>
+        <description>米当局者はイランに対する米国の攻撃について、現時点で軍事目標に集中していると述べたが、作戦が進行中であることを理由に詳しい説明は控えた。
+
+別の米当局者は、攻撃の目的はイランの軍事的脅威に対処し、米軍を守ることにあると言及。最初の当局者によると、米国は今回の行動に先立ち、この地域に展開する米軍要員を保護する措置を講じていた。</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244407.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T16:21:00+09:00</dc:date>
+        <title>米国がイランを攻撃、米当局者3人　「小規模な攻撃ではない」</title>
+        <link>https://www.cnn.co.jp/usa/35244407.html?ref=rss</link>
+        <description>米当局者3人はCNNに対し、米国がイランに対する攻撃を実施していることを明らかにした。当局者の1人は、攻撃は進行中であり、「小規模な攻撃ではない」と説明した。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244407.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/28/91994a4fb5c1c1394158e4eab763dcb0/t/768/576/d/gettyimages-2263412518.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244406.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T16:20:00+09:00</dc:date>
+        <title>イスラエル、イランへの攻撃を開始　自国全土に非常事態を宣言</title>
+        <link>https://www.cnn.co.jp/world/35244406.html?ref=rss</link>
+        <description>イスラエルのカッツ国防相によると、イスラエルは28日午前、同国が言うところの「先制攻撃」をイランに対して開始した。またイスラエル全土に非常事態宣言を発令した。
+
+政府が非常事態を宣言したのは、イランがドローン（無人機）や弾道ミサイルで報復するとの懸念があるためだとしている。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244406.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/28/cb4059831ce5362fc36412a2d95ebbc0/t/768/512/d/gettyimages-2263410238.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35244404.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T14:39:00+09:00</dc:date>
+        <title>6惑星が一堂に、きょうの夜空に「惑星パレード」出現か　観測のコツは？</title>
+        <link>https://www.cnn.co.jp/fringe/35244404.html?ref=rss</link>
+        <description>米航空宇宙局（NASA）によれば、天候に恵まれた場合、天文ファンは28日の空に六つの惑星が一堂に会する光景を目にする機会が得られそうだ。
+
+アラバマ州ハンツビルにあるNASAマーシャル宇宙飛行センターの惑星科学者、ハイディ・ハビランド氏は、「惑星パレード」は太陽の周りを公転する惑星の位置がそろうことで起きると説明する。
+
+NASAによると、水星と金星、土星、木星は肉眼で観察できるものの、天王星と海王星については...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35244404.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/28/0838d7f047a9e7ba0cf3ccf857eaeb6b/t/768/511/d/gettyimages-1487603140.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35244401.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T14:00:00+09:00</dc:date>
+        <title>水中写真家コンテスト、今年の大賞はゾウアザラシの子ども2頭</title>
+        <link>https://www.cnn.co.jp/fringe/35244401.html?ref=rss</link>
+        <description>オーストラリア人写真家マティ・スミス氏が、2026年度の水中写真家コンテスト大賞を受賞した。受賞作品はフォークランド諸島の岩場にいるミナミゾウアザラシの子ども2頭を撮影した写真だ。
+
+主催者の声明によると、「岩場のルーキー」と名付けられたこの写真がコンテストの総合優勝を飾った。コンテストには7900件を超える応募があったという。
+
+  
+  
+コンテストの大賞作品に選出されたミナミゾウアザラシの子ども2頭の写真/Ma...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35244401.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/28/09607af8aff7d2b089f67a56058cd661/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW0zaXd3a3YwMDA0MzU2cnJyZnd6bG1t-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbTIzamY2YTAwMnEyN3FwNGtvaTV2a2Y_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35244403.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T13:56:00+09:00</dc:date>
+        <title>写真特集：26年水中写真家コンテスト、素晴らしい受賞作品の数々を見る</title>
+        <link>https://www.cnn.co.jp/photo/35244403.html?ref=rss</link>
+        <description>2026年水中写真家コンテストで各部門の賞に輝いた素晴らしい写真の数々を紹介する&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35244403.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/28/a307b2dadd73e82dfcfb6cad80568de5/t/768/528/d/sam-blount-upy-2026.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35244389.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-02-28T13:00:00+09:00</dc:date>
+        <title>50代男性　女性よりも老化が早く進行、PFASの影響か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35244389.html?ref=rss</link>
+        <description>新たな研究によると、有機フッ素化合物（総称PFAS）として知られる「永遠の化学物質」が、50代から60代前半の男性の老化を加速させているようだ。
+
+分解に何年も要することから「永遠の化学物質」と呼ばれるPFASは、全米科学・工学・医学アカデミーによると、米国人の約98%の血液中に存在している。
+
+研究では、実年齢ではなく生物学的年齢の指標となる「エピジェネティックな老化」は男性で特に進行していたことが明らかになっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35244389.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/27/615faab37dccff331df2896096fef956/t/768/512/d/gettyimages-2166873058.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
