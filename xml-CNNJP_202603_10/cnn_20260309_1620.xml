@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-03-09T18:26:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35244793.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244791.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244782.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35244781.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244773.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244772.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244771.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244766.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244765.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244763.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35244757.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244758.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244755.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244752.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244751.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35244750.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244749.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244748.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244747.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244746.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244745.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244744.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244743.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244742.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244741.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244721.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244739.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244738.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244737.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35244732.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35244793.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T18:26:00+09:00</dc:date>
+        <title>367万年前の人類の祖先「リトルフット」、デジタル復元で顔が明らかに</title>
+        <link>https://www.cnn.co.jp/fringe/35244793.html?ref=rss</link>
+        <description>科学者らはこのほど、367万年前に生きていた「リトルフット」と呼ばれる初期人類の祖先の顔面骨をデジタル技術を用いて正しい位置に再配置し、顔を再現することに成功した。
+
+著名な古人類学者ロナルド・クラーク氏は、ウィットウォーターズランド大学博物館に収蔵されている四つの小さな骨を見つけたのち、1990年代に南アフリカ・ヨハネスブルク北西部のスタルクフォンテイン洞窟群でリトルフットの完全な状態に近い化石を発見...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35244793.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/79244ddecdd93aecda7aecfae3cc7f87/t/768/512/d/c-gettyimages-2209822258.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244791.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T17:29:00+09:00</dc:date>
+        <title>中東各地で新たな空爆　イランがミサイル発射、イスラエルはレバノン武装組織のインフラを攻撃</title>
+        <link>https://www.cnn.co.jp/world/35244791.html?ref=rss</link>
+        <description>中東の各国は9日午前、相次いで、空からの攻撃を受けたと報告している。
+
+現在までに入っている情報は次の通り。
+
+
+
+
+
+
+テヘランの上空に漂う黒煙（CNN）
+
+
+イラン：イランが新たな最高指導者を選出してから数時間後、精鋭部隊「イスラム革命防衛隊（IRGC）」は新たなミサイル発射を発表した。一方、イスラエル軍はイランのミサイル発射拠点や政権のインフラを標的とした「新たな一連の攻撃」を実施したと発表した。首都テヘラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244791.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/b1ae49f6402b2fb41c131edffdbeff07/t/768/511/d/large-03-ap26067435893888.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244782.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T16:37:00+09:00</dc:date>
+        <title>中国、「戦火の拡大」に警告　トランプ氏との首脳会談は歓迎</title>
+        <link>https://www.cnn.co.jp/world/35244782.html?ref=rss</link>
+        <description>イランで戦争が続く中、中国の王毅（ワンイー）外相は8日、自国を平和と安定の擁護者として位置づける一方、今月末に予定される首脳会談を前に、米国に対して融和的な姿勢を示した。
+
+王氏は全国人民代表大会（全人代）の会期中に開いた記者会見で「この戦争は本来起きるべきではなく、誰の利益にもならない戦争だ」と述べた。
+
+王氏は中国について「世界で最も重要な平和と安定、正義の力」と強調し、「事態のさらなる激化を防...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244782.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/10586d47d5c1080491701c6c80b56fd5/t/768/525/d/large--3-china-parliament-diplomacy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35244781.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T15:33:00+09:00</dc:date>
+        <title>メーガン妃のライフスタイルブランド、ネットフリックスとの提携終了</title>
+        <link>https://www.cnn.co.jp/showbiz/35244781.html?ref=rss</link>
+        <description>英王室の公務から引退して米カリフォルニア州で暮らすヘンリー王子の妻、メーガン妃と米配信大手ネットフリックスがこのほど、メーガン妃のライフスタイルブランド「アズ・エバー」に関する提携を終了した。
+
+サセックス公爵夫人としても知られるメーガン妃は、ネットフリックスと共同で同ブランドを開発。昨年、ライフスタイル番組シリーズ「ウィズ・ラブ、メーガン」で立ち上げた。
+
+アズ・エバーは、ジャム、紅茶、ワイン、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35244781.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/2002d6a71e2833ea461d9d03d4ff6272/t/768/562/d/gettyimages-2211633212.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244773.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T13:55:00+09:00</dc:date>
+        <title>イランの次期指導者モジタバ師とは　強硬派の権力掌握確実に</title>
+        <link>https://www.cnn.co.jp/world/35244773.html?ref=rss</link>
+        <description>米軍とイスラエル軍の攻撃で2月28日に殺害されたイランのアリ・ハメネイ師の次男、モジタバ・ハメネイ師が「専門家会議」（定数88）によって最高指導者に指名された。父のハメネイ師は同職を40年近く務めた。
+
+数百万人のイラン国民が国王の統治を終わらせようと街頭に繰り出した1979年、父から子への権力継承の慣習は終止符が打たれたかに見えた。しかし、そうはならなかった。
+
+トランプ米大統領は先週、モジタバ師が後継者に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244773.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/cf5479c0cee3d12a5834a08c031b24e1/t/768/511/d/large-ap22259009050823-20260303221532227.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244772.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T13:29:00+09:00</dc:date>
+        <title>中央駅付近で火災、歴史的建造物に被害　英グラスゴー</title>
+        <link>https://www.cnn.co.jp/world/35244772.html?ref=rss</link>
+        <description>英スコットランドで最も利用者が多い鉄道駅の一つの近くで大規模な火災が発生し、グラスゴーの歴史的建物が炎に包まれて一部が崩落した。
+
+消防当局によると、8日午後4時ごろ、4階建ての商業ビルの地上階で火災が発生し、消防隊員数十人が出動した。
+
+劇的な画像には、夜空の下、ドーム状の屋根の周囲にオレンジ色の炎が巻き上がる様子が捉えられていた。シルエットになったクレーンから水が激しく燃え上がる火に向けて放たれて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244772.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/e057eac16d3e339b024fc703b3ef6a69/t/768/511/d/large-gettyimages-2265486319.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244771.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T12:46:00+09:00</dc:date>
+        <title>イラン攻撃の危険性忠告していたトランプ氏最側近ら、戦争支持に転換した経緯は</title>
+        <link>https://www.cnn.co.jp/usa/35244771.html?ref=rss</link>
+        <description>トランプ米大統領が初めてイランとの戦争の可能性を持ち出したとき、特に深刻な懸念のいくつかを示したのはトランプ政権のナンバー2だった。
+
+外国での戦争を批判し政治家として台頭した元海兵隊員のバンス副大統領は、中東で予測不能な紛争を始める危険性について忠告した。
+
+しかし、それでもトランプ氏が軍事行動に傾いていることが明らかになると、バンス氏は立場を一転。米国の犠牲者を最小限に抑え、イランの先制攻撃を阻...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244771.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/c85b9ca73c4ae70be6ee343afc1d8187/t/768/512/d/ap26062635966512.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244766.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T12:03:00+09:00</dc:date>
+        <title>ウクライナの専門家が中東へ、イラン製ドローン迎撃を支援　ゼレンスキー氏</title>
+        <link>https://www.cnn.co.jp/world/35244766.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は8日、ウクライナのドローン（無人機）の専門家が来週にも中東を訪問すると明らかにした。ゼレンスキー氏は、米国との資源共有は「双方向」になり得るとの考えを示した。
+
+ゼレンスキー氏の今回の発言は、ウクライナが、米国や湾岸諸国といった支援国によるイラン製ドローンの迎撃に協力できるかとの質問を受けたもの。
+
+ウクライナ地元メディアによると、ゼレンスキー氏はオランダの首相との記...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244766.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/fb1661403aebff1526995bd9022ecdfd/t/768/511/d/large-gettyimages-2264009955.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244765.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T11:25:00+09:00</dc:date>
+        <title>イラン戦争の終結時期、イスラエル首相と決定　トランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35244765.html?ref=rss</link>
+        <description>トランプ米大統領は、イランとの戦争をいつ終結させるかについて、イスラエルのネタニヤフ首相と協議して決定する意向を明らかにした。
+
+トランプ氏はイスラエルのオンラインメディア「タイムズ・オブ・イスラエル」との電話インタビューで、ネタニヤフ氏も決定に関与するが、最終判断は米国が下すと語った。
+
+トランプ氏は取材に対し、「少し相互的なものだ。我々は話し合ってきた。私は適切なタイミングで決定を下すが、あら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244765.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/fd170f56e66a48ff4a75c0a45a57e43c/t/768/512/d/large-ap26066839121599.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244763.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T10:48:00+09:00</dc:date>
+        <title>イラン新最高指導者、ハメネイ師の次男選出は「残念」　米CIA元長官</title>
+        <link>https://www.cnn.co.jp/world/35244763.html?ref=rss</link>
+        <description>米中央情報局（CIA）のデビッド・ペトレイアス元長官は、モジタバ・ハメネイ師（56）がイランの最高指導者に新たに選出されたことについて「残念だ」と述べた。モジタバ師は米国とイスラエルの攻撃によって死亡したハメネイ師の次男。
+
+ペトレイアス氏は9日、CNNの番組で「モジタバ師はハメネイ師と同じ路線を継ぐとみられる。つまり、非常に強硬なイデオロギーを持つ聖職者だ」と語った。
+
+ペトレイアス氏は「モジタバ師はつい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244763.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/d45a05fbd6ea31379cdd4ad6c9bfcb73/t/768/511/d/large-gettyimages-1645727713.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35244757.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T10:09:00+09:00</dc:date>
+        <title>トランプ氏、原油価格高騰は「代償としてはごくわずか」</title>
+        <link>https://www.cnn.co.jp/business/35244757.html?ref=rss</link>
+        <description>トランプ米大統領は8日、原油価格上昇をめぐる懸念を一蹴した。原油価格は同日、1バレル100ドルを突破している。
+
+トランプ氏はSNS「トゥルース・ソーシャル」に「イランの核の脅威が終息すれば、原油価格は急速に下落するだろう。短期的な価格は、米国そして世界の安全と平和のために払う代償としてはごくわずかだ。そうではないと考えるのは愚か者だけだ！」と投稿した。
+
+原油価格が1バレル100ドルの大台を超えたのはロシア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35244757.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/58193e6cf2c146532beb8c3bd1af1982/t/768/512/d/ap26062755537669a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244758.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T10:02:00+09:00</dc:date>
+        <title>イランとの戦争で重傷を負った米兵が死亡、米の死者7人に</title>
+        <link>https://www.cnn.co.jp/usa/35244758.html?ref=rss</link>
+        <description>米軍は8日、イランのサウジアラビアに対する先週の攻撃で負傷した米兵が死亡したと発表した。イランとの戦争による米兵の死者はこれで7人になった。
+
+米中央軍がX（旧ツイッター）に投稿した情報によると、死亡した兵士は1日、サウジアラビア国内の米軍に対するイランの攻撃で重傷を負っていた。
+
+この前日には、クウェートで死亡した兵士6人が米国に移送され、デラウェア州のドーバー空軍基地でドナルド・トランプ大統領ら政府...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244758.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/9099639660eaab33db6a762db9d8e173/t/768/511/d/large--rtrmadp-3-iran-crisis-saudi.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244755.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-09T09:17:00+09:00</dc:date>
+        <title>イラン最高指導者にモジタバ師選出、殺害されたハメネイ師の次男</title>
+        <link>https://www.cnn.co.jp/world/35244755.html?ref=rss</link>
+        <description>イラン国営メディアは9日、米軍とイスラエル軍の攻撃で2月28日に殺害されたアリ・ハメネイ師の後継となる最高指導者に、次男のモジタバ・ハメネイ師（56）が指名されたと伝えた。
+
+モジタバ師は聖職者で構成する「専門家会議」（定数88）によって最高指導者に選ばれた。
+
+専門家会議が過去に新指導者を選出したのは、1979年にイラン・イスラム共和国が誕生して以来、一度きりだった。30年以上前のこの時は、ルホラ・ホメイニ師...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244755.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/09/cf5479c0cee3d12a5834a08c031b24e1/t/768/511/d/large-ap22259009050823-20260303221532227.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244752.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-08T17:25:00+09:00</dc:date>
+        <title>テヘランに黒い雨、イスラエルの石油施設攻撃で油が混じったか　</title>
+        <link>https://www.cnn.co.jp/world/35244752.html?ref=rss</link>
+        <description>イスラエル軍によるイランの石油貯蔵施設への攻撃後、8日に目を覚ました首都テヘランの1000万人近い住民は、厚い黒雲に覆われた朝の光景を目にした。CNNのフレッド・プライトゲン記者が現地から伝えた。
+
+
+  
+    
+       
+    
+    
+     （CNN）
+  
+
+
+
+プライトゲン記者は「雨が本当に黒く染まっているのが見える。どうやら油が大量に混じっているようだ」と報じた。
+
+「つまり攻撃が行われた後、今朝テヘランで降り注いでい...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244751.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-08T16:03:00+09:00</dc:date>
+        <title>米国中部で激しい竜巻、8人死亡　建物も損傷</title>
+        <link>https://www.cnn.co.jp/usa/35244751.html?ref=rss</link>
+        <description>米中部の各地で5日から6日にかけて激しい嵐が発生し、竜巻によって、少なくとも8人が死亡したほか、建物ががれきの山になるなどの被害が出た。
+
+今回の荒天は5日に始まり、7日には大部分でおさまる見込み。
+
+7日は、テキサス州中部からミシシッピ川下流域、テネシー州西部、アラバマ州、さらにクリーブランドやピッツバーグを含む五大湖周辺の一部で、ひょうや強風、竜巻の可能性を伴う強い嵐が発生する恐れがある。
+
+東部での...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244751.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/08/ad496f3951c383c44691e15b0218246b/t/768/512/d/large-c2-gettyimages-2264663788.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35244750.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-08T15:43:00+09:00</dc:date>
+        <title>山中に隠された謎の「財宝」を発見、金貨598枚に金のブレスレットも　チェコ</title>
+        <link>https://www.cnn.co.jp/fringe/35244750.html?ref=rss</link>
+        <description>金のブレスレットが10個に葉巻ケースが17個、化粧用コンパクト1個、くしが1本。そして、金貨が598枚――。これらはすべて、東欧チェコの北東部でハイキングをしていた2人が偶然発見した謎の「財宝」の一部だ。
+
+匿名を希望するこの2人は、人気のハイキング場所であるクルコノシェ山脈の森の中を突っ切っていたところ、石壁から突き出ているアルミ製の箱を発見した。
+
+2人は箱を空けて盗品が入っていることがわかるとすぐに、近く...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35244750.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/21/29c74da1c1e239fa98e59c1980353db5/t/768/432/d/001-dsc-4475.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244749.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-08T14:47:00+09:00</dc:date>
+        <title>米NY市長公邸前で二つのグループが対峙、発火装置投げつけた2人逮捕</title>
+        <link>https://www.cnn.co.jp/usa/35244749.html?ref=rss</link>
+        <description>米ニューヨーク市長公邸の外で「不審な」装置2個が点火される事件があり、二つのグループが対峙（たいじ）して緊張が高まる中、2人が逮捕された。警察が明らかにした。
+
+ニューヨーク市警（NYPD）のティッシュ本部長は記者会見で、目撃者によれば、爆発物は、炎と煙を上げながら空中を移動し、警察官の数メートル手前でバリケードに当たって消えたと明らかにした。デモ隊の間で起きた出来事に関連し、計6人が逮捕されたという。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244749.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/08/21eb486ae2278033ed271eab89e83e06/t/768/512/d/large-c-gettyimages-2264701852.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244748.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-08T13:59:00+09:00</dc:date>
+        <title>イラン当局者から相反するメッセージ、ハメネイ師死後の体制内の亀裂露呈か</title>
+        <link>https://www.cnn.co.jp/world/35244748.html?ref=rss</link>
+        <description>イランの当局者からは7日、相反する発言やばらつきのあるメッセージが相次ぎ、最高指導者だったハメネイ師の死後、指導部内に亀裂が生じている可能性が浮き彫りになった。
+
+ペゼシュキアン大統領は7日、湾岸諸国へのイランの攻撃について謝罪する発言を行った。だが、イランの他の指導者から批判を受け、間もなく軌道修正。湾岸諸国は8日早朝、空爆や迎撃が行われたと報告した。
+
+イラン国家安全保障最高評議会のラリジャニ事務...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244748.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/08/b6b3f9565b1fb6214705d802d4ee4841/t/768/431/d/photo-2026-03-01-15-44-01-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244747.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-08T13:22:00+09:00</dc:date>
+        <title>在ノルウェー米大使館で爆発、建物に損傷　けが人なし</title>
+        <link>https://www.cnn.co.jp/world/35244747.html?ref=rss</link>
+        <description>ノルウェーの首都オスロにある米大使館で8日未明、爆発があり、建物の一部が軽微な被害を受けた。けが人はいなかった。
+
+ロイター通信は、ノルウェー警察が地元メディアに語った内容を引用して報じた。警察の報道官は公共放送NRKに対し、爆発は大使館領事部の入り口付近で起きたと述べた。容疑者の捜索が進められている。
+
+目撃者は地元メディアに対し、オスロ西部にある大使館の近くで午前1時ごろ、大きな爆発音を聞いたと話し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244747.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/08/b440112f10ce39b68efb889bb8c62d12/t/768/511/d/large-b-rtrmadp-3-norway-usa-blast.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244746.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-08T13:04:00+09:00</dc:date>
+        <title>イスラエル、対イラン戦争の「次の段階」に　石油貯蔵施設への攻撃開始</title>
+        <link>https://www.cnn.co.jp/world/35244746.html?ref=rss</link>
+        <description>イスラエルが戦争の次の段階として、イランの石油貯蔵施設への攻撃を開始した。イスラエルの情報筋がCNNに明らかにした。
+
+イスラエル軍は7日夜、イランの首都テヘランにある燃料施設を攻撃したと発表した。これらの施設は「イランの軍事組織を含むさまざまな利用者に燃料を供給している」という。
+
+イスラエル軍は声明で「これはイランのテロ政権の軍事インフラに対する損害をさらに深めるための新たな一歩となる重大な攻撃だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244746.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/08/a981ebe416068ffdf121fd5337c2cf21/t/768/511/d/large-c-gettyimages-2264725752.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244745.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-08T12:12:00+09:00</dc:date>
+        <title>米軍の対イラン軍事作戦、費用は1日あたり1400億円か　最大15兆円の可能性も</title>
+        <link>https://www.cnn.co.jp/usa/35244745.html?ref=rss</link>
+        <description>イランとの戦争が始まって数日が経過したが、終結の見通しは立っておらず、軍事作戦「壮大な怒り」に米国の納税者がどれほどの費用を負担することになるのかという疑問が浮上している。
+
+米国防総省は費用の見積もりを公表しておらず、今回の作戦のための追加支出の法案を議会に求めてもいない。
+
+米シンクタンク「政策研究所」の国家優先プロジェクトのプログラムディレクター、リンゼー・コシュガリアン氏は「これは非常に予...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244745.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/08/7abdcb15793bd0c5bcc97344071e4606/t/768/511/d/large-gettyimages-2264268893.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244744.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-08T11:21:00+09:00</dc:date>
+        <title>トランプ氏、女子小学校への攻撃は「イランの仕業」　メディアや専門家の分析と矛盾</title>
+        <link>https://www.cnn.co.jp/usa/35244744.html?ref=rss</link>
+        <description>トランプ米大統領は7日、少なくとも子ども168人、教師14人が死亡したイラン南部の小学校への攻撃について、イランの責任だと非難した。CNNや他のメディア、専門家による分析では米軍が関与した可能性が高いことが示されており、それと矛盾する形となる。
+
+トランプ氏は大統領専用機エアフォースワンの機内で記者団に対し、「私が見たことを基にすると、イランの仕業だ」とコメント。イランの兵器は「非常に精度が低い」とも述べ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244744.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/08/a6793874e9b537e746ed4cb6df8ee69b/t/768/511/d/ap26059720229863.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244743.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-08T10:35:00+09:00</dc:date>
+        <title>トランプ氏、イランへの地上部隊派遣の可能性「あり」　「非常に正当な理由」必要とも</title>
+        <link>https://www.cnn.co.jp/usa/35244743.html?ref=rss</link>
+        <description>イラン情勢をめぐり、トランプ米大統領は7日、戦争が続く中で、米軍の地上部隊をイランに派遣する可能性について「あり得る」と述べた。だが、その場合は「非常に正当な理由」が必要だとも指摘した。
+
+トランプ氏は米大統領専用機エアフォースワンの機内で記者団に対し、「今はそのことについて話すらしたくない。適切な質問だと思わない。答えないのはわかっているだろう。可能性はあるか。非常に正当な理由があればあり得る。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244743.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/08/c3ccb9a6fd7e37f602039d1e194c3ea0/t/768/511/d/large-gettyimages-2264792549.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244742.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-08T10:06:00+09:00</dc:date>
+        <title>バーレーンやUAEで爆発、イラン大統領が湾岸諸国への攻撃停止を表明するも</title>
+        <link>https://www.cnn.co.jp/world/35244742.html?ref=rss</link>
+        <description>イランのペゼシュキアン大統領は7日に湾岸地域への攻撃の停止を示唆したものの、バーレーンやカタール、アラブ首長国連邦（UAE）では現地時間の夜、再び爆発音が聞かれた。
+
+目撃者によると、バーレーンでは立て続けに大きな爆発音が聞こえた。着弾によるものか、迎撃によるものかは直ちには分からなかった。
+
+イランのファルス通信は、「バーレーンの米軍基地で大規模爆発」があったと主張した。
+
+バーレーン内務省はその後、S...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244741.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-08T09:12:00+09:00</dc:date>
+        <title>トランプ氏、イラン攻撃の「激化」を示唆</title>
+        <link>https://www.cnn.co.jp/usa/35244741.html?ref=rss</link>
+        <description>ドナルド・トランプ米大統領は7日、イランとの戦争をさらに激化させる考えを示し、SNS「トゥルース・ソーシャル」への投稿で「きょうイランは激しい攻撃を受けるだろう」と述べた。 
+
+トランプ氏は「イランの悪質な行動により、これまで標的とされてこなかった地域や集団に対し、完全な破壊と確実な死が真剣に検討されている」と書き込んだ。
+
+トランプ氏は、イランのペゼシュキアン大統領が先の演説で謝罪したことに触れ、ペゼ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244741.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/08/ed0e4129e307006b10deecb9305756b8/t/768/511/d/large-gettyimages-2264238075.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244721.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-07T18:37:00+09:00</dc:date>
+        <title>顔写真の再生やタトゥーの特定、成長した子どもの顔推定も　行方不明者探しにAIを活用　メキシコ</title>
+        <link>https://www.cnn.co.jp/world/35244721.html?ref=rss</link>
+        <description>メキシコ西部グアダラハラに住んでいたエクトル・ダニエル・フローレス・エルナンデスさんが行方不明になったのは、2021年のことだった。その2年後、父のエクトル・フローレスさんの目の前で、息子が再び口を開いた。人工知能（AI）を使って静止画をデジタル加工した動画の中で、当時19歳だったエクトル・ダニエルさんは失踪の経緯を語り、生きている自分を見つけてほしいと当局に訴えた。以来、息子探しは父親の人生の目的にな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244721.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/06/ad017b03415a5bb9ffa1bb5425673eca/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW0yOTNkaXEwMDE5M2I2cnAxbTBrOGgx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbTI3cWh6MjAwMnEyN3FsaHhmcDcweDM_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244739.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-07T18:20:00+09:00</dc:date>
+        <title>イラン、湾岸近隣諸国への攻撃を停止へ　大統領が演説で表明</title>
+        <link>https://www.cnn.co.jp/world/35244739.html?ref=rss</link>
+        <description>イランのペゼシュキアン大統領は7日午前、湾岸アラブ諸国への謝罪を表明する異例の演説を行った。今後はこれらの国々からの攻撃を受けない限り、イラン側からの攻撃を停止すると述べた。
+
+国営テレビの演説でペゼシュキアン氏は「イランから攻撃を受けた近隣国に対し、私個人として謝罪する」と発言。「我々に近隣国を攻撃する意図はない。これまで繰り返し述べたように、彼らは我々の兄弟だ」と語った。
+
+さらに、イランを暫定...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244739.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/07/d4407959c3aa5f375a8cabe3054314c1/t/768/512/d/gettyimages-2264633462.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244738.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-07T17:45:00+09:00</dc:date>
+        <title>イランは決して降伏しない、大統領が表明　トランプ氏の「無条件降伏」要求から1日足らず</title>
+        <link>https://www.cnn.co.jp/world/35244738.html?ref=rss</link>
+        <description>イランの軍隊がイスラエルとの応酬を続け、湾岸諸国に対して報復攻撃を行う中、ペゼシュキアン大統領は7日、イランは決して降伏しないと表明した。
+
+この1日足らず前、トランプ米大統領はイランが「無条件降伏」しない限り、米政府は交渉を行わないとの考えを示していた。
+
+だが、ペゼシュキアン氏は国営テレビでの演説で、「米国は我々が無条件降伏するという夢を墓場に持っていくことになるだろう」と語った。
+
+イランでは最...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244738.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/07/19e5cefe09e24797c04185ef8fb0542a/t/768/511/d/2026-01-31t133204z-1177494904-rc25cjajoicm-rtrmadp-3-iran-pezeshkian.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244737.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-07T16:44:00+09:00</dc:date>
+        <title>イスラエル、未明のイラン攻撃に戦闘機80機超を投入</title>
+        <link>https://www.cnn.co.jp/world/35244737.html?ref=rss</link>
+        <description>イスラエル国防軍（IDF）によると、7日未明にイランに対して実施した「大規模な波状攻撃」には、80機を超える戦闘機が投入された。
+
+IDFは一連の攻撃について、軍事インフラを狙ったもので、イランの精鋭「イスラム革命防衛隊（IRGC）」の将校を訓練するイマーム・ホセイン軍事大学も攻撃目標になったと説明。この大学には「複数の軍事資産が収容されていた」と付け加えた。
+
+このほかの攻撃目標には革命防衛隊の集合施設や、弾...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35244732.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-07T16:21:00+09:00</dc:date>
+        <title>サッカー女子イラン代表、試合前の敬礼と国歌斉唱で物議　政権が強制か</title>
+        <link>https://www.cnn.co.jp/showbiz/35244732.html?ref=rss</link>
+        <description>5日に行われたサッカー女子のアジアカップ・グループリーグで開催国オーストラリア戦に臨んだイラン代表チームについて、試合前の敬礼と国歌斉唱を強制されたとも取れる出来事があった。チームに近い情報筋がCNN Sportsに語った。この数日前の大会初戦では、チームは敬礼と国歌斉唱を拒否していた。
+
+2日の韓国との初戦をイランは0―3で落とした。チームを率いるマルズィエ・ジャファリ監督はこの試合の前、中東で勃発した戦争や...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35244732.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/07/7b41803a7e5c7b96719c2cdf2e2dbad4/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW1leXAxcXcwMDBxM2I2cjJvZnQ1ZWVm-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbWV3MDRjdjAwMHkyN3FjMjdvaWNrM2g_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
