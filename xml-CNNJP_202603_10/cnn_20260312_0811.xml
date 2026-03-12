@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-03-12T17:06:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35244963.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244960.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244902.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244953.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244957.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244956.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35244947.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244950.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244948.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35244932.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244938.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35244940.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244934.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244927.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244911.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244908.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244906.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35244903.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244897.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244892.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244898.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244891.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35244880.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244879.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244883.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35244878.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244851.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244873.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35244862.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35244854.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35244963.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T17:06:00+09:00</dc:date>
+        <title>石器時代の料理人、食材を「驚くほど選び抜く」　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35244963.html?ref=rss</link>
+        <description>欧州の古代の狩猟採集民は、これまで考えられていたよりもはるかに高度な調理法を持っていたことが、新たな研究でわかった。食材を「驚くほど選び抜いて」組み合わせており、地域ごとに料理の特徴も異なっていたという。
+
+研究チームは、土器の側面にこびりついた焦げた食べ物の残りかす「フードクラスト」を分析し、石器時代の料理人が多様な植物や動物に由来する材料を使って食事を作っていたことを突き止めた。
+
+米科学誌プ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35244963.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/10/2ba9eeb4f39edabac60595aba87a6036/t/768/409/d/large-journal-pone-0342740-g002.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244960.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T16:00:00+09:00</dc:date>
+        <title>米中西部で竜巻やひょう、2人死亡　建物にも被害</title>
+        <link>https://www.cnn.co.jp/usa/35244960.html?ref=rss</link>
+        <description>米中西部で10日夜から11日にかけて、竜巻や巨大なひょうを伴う嵐が発生し、少なくとも2人が死亡した。
+
+嵐の脅威はまだ去っていない。11日夜には、メキシコ湾岸から中部大西洋岸にかけて、5000万人超が激しい雷雨に見舞われる恐れがある。竜巻の危険も10日ほど深刻ではないものの、なお残っている。
+
+インディアナ州レークビレッジでは、同地を襲った竜巻によって80代の夫婦が死亡した。 同州の検視官が明らかにした。ほかにも...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244960.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/1e69aa5eacdaa11eae5c1e409c946a4a/t/768/512/d/large-gettyimages-2265445193.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244902.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T15:30:00+09:00</dc:date>
+        <title>【分析】イランでの戦争選んだトランプ氏、プーチン氏に好機もたらす</title>
+        <link>https://www.cnn.co.jp/world/35244902.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は、危機の中から好機を見つける方法を心得ている。広範に飛び火するイランを巡る戦争は、それを示す直近の好例だ。
+
+プーチン氏は年明け早々、ウクライナを屈服させる軍事作戦への自信を表明した。実際の戦場での進展には時間がかかっていたにもかかわらず。しかし1月初め、トランプ米政権がロシアの顔に泥を塗る形で、ベネズエラのマドゥロ大統領を失脚させる。ロシア政府の戦略的パートナーであるマド...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244902.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/11/a28c9bdb1191fe4fac18d2f7f3e6de1b/t/768/512/d/gettyimages-2265186388.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244953.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T15:15:00+09:00</dc:date>
+        <title>医療費高騰に苦しむ米国人、調査で実態判明　食事抜き、光熱費削って捻出する例も</title>
+        <link>https://www.cnn.co.jp/usa/35244953.html?ref=rss</link>
+        <description>食事を我慢する。光熱費を削る。車の運転を減らす。借金をする。
+
+何千万人もの人々が、医療費を賄うためにこのような犠牲を払っている。非営利団体ウェストヘルスと調査会社大手のギャラップが12日に発表した米国での調査で明らかになった。
+
+調査は昨年6月から8月にかけて約2万人の成人を対象に実施。回答者の約3分の1が、医療費を賄うために少なくとも何か一つのことに関する生活費を削減しなければならなかったと答えた。米...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244953.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/54c8a8b7614209a7d3ec90f8a47dea1d/t/768/512/d/c-gettyimages-1433614455.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244957.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T14:29:00+09:00</dc:date>
+        <title>米B1爆撃機に「バンカーバスター」を搭載、対イランに投入か　映像浮上</title>
+        <link>https://www.cnn.co.jp/world/35244957.html?ref=rss</link>
+        <description>英航空基地で11日に撮影された映像に、米空軍のB1爆撃機に地中貫通爆弾「バンカーバスター」が搭載される様子が映っていることが分かった。米国防総省がイラン上空に重爆撃機を送り込み、ミサイルやドローンの保管施設のような地中深く埋設された目標を攻撃する準備を進めている可能性がうかがえる。
+
+
+  
+    
+       
+
+    
+    
+     フェアフォード英空軍基地でB1爆撃機に統合直接攻撃弾（JDAM）が搭載される様子（Reuters...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244956.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T13:53:00+09:00</dc:date>
+        <title>イラン最高指導者モジタバ師、攻撃初日に脚や顔にけが　情報筋</title>
+        <link>https://www.cnn.co.jp/world/35244956.html?ref=rss</link>
+        <description>イランの新たな最高指導者モジタバ・ハメネイ師（56）は米国とイスラエルによる軍事作戦が始まった初日に脚を骨折したほか軽傷を負った。情報筋がCNNに明らかにした。
+
+情報筋によると、ハメネイ師は脚のけがに加え、左目の周囲を打撲し、顔に軽い切り傷を負った。
+
+イスラエルの情報筋は先に、ハメネイ師が暗殺未遂で負傷したとCNNに明らかにしていた。ハメネイ師が負傷したとのうわさも、ここ数日広がっていた。
+
+英紙ガーデ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244956.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/ae305527ddd4ad53a65e5ee69f68ec39/t/768/512/d/large-o-rtrmadp-3-iran-crisis-leader.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35244947.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T13:07:00+09:00</dc:date>
+        <title>イランでの戦争、中東の旅行業界に1日950億円の損失　国際機関が警告</title>
+        <link>https://www.cnn.co.jp/business/35244947.html?ref=rss</link>
+        <description>米国とイスラエルによるイランとの戦争を受けて海外旅行者の消費が減退する中、中東の旅行・観光セクターには1日あたり少なくとも6億ドル（約954億円）の損失が発生している。世界旅行ツーリズム協議会（WTTC）が明らかにした。
+
+WTTCは11日の声明で、航空便の混乱や旅行者の信頼感の失墜、そして地域間の接続性の低下が、中東地域全体の需要を押し下げていると付け加えた。中東は世界の到着旅客数の5%、国際線トランジット旅客...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35244947.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/827a73687c2dd9edb41d8427ecd5de39/t/768/576/d/gettyimages-2265110700.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244950.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T12:52:00+09:00</dc:date>
+        <title>湾岸諸国にイランから新たな攻撃の波、イラク領海ではタンカーへのドローン攻撃も</title>
+        <link>https://www.cnn.co.jp/world/35244950.html?ref=rss</link>
+        <description>湾岸諸国では12日早朝、石油施設やタンカーが攻撃を受け、各国はイランのドローン（無人機）やミサイルの新たな波を迎撃する対応に追われている。
+
+イラク： CNNが位置情報を特定した映像には、イラクのクルド自治区にあるアルビル国際空港から煙が上がる様子が映っている。これに先立ち、イラクの領海では外国籍の石油タンカー2隻がイランのドローンの攻撃を受け、少なくとも1人が死亡、38人が救助された。イランは関与を認め...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244950.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/a02b30139e2b5b490faa0a6c93590ad6/t/768/511/d/c-gettyimages-2265476886-20260312015805392.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244948.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T12:44:00+09:00</dc:date>
+        <title>G7、船舶の護衛を検討　イランでの戦争で供給網が混乱</title>
+        <link>https://www.cnn.co.jp/world/35244948.html?ref=rss</link>
+        <description>主要7カ国（G7）は11日、オンラインで首脳会合を開催し、中東での戦争がもたらす経済への影響について協議した。会合には欧州連合（EU）も参加した。
+
+報道向け資料によると、イランとの戦争でサプライチェーン（供給網）に混乱が生じ、海運の安全も脅かされるなか、G7は「治安状況が整った場合に船舶を護衛する可能性」を探っている。こうした取り組みは、海運会社や運送業者、保険会社とも協議して進めるという。
+
+米情報機関...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244948.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/18d6b663342c5009b6e80c6c5e31d7fc/t/768/512/d/large--rtrmadp-3-iran-crisis-g7.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35244932.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T12:24:00+09:00</dc:date>
+        <title>イランでの戦争に関連したAI生成動画や画像がSNSで氾濫　爆発にミサイル、兵士も偽物</title>
+        <link>https://www.cnn.co.jp/tech/35244932.html?ref=rss</link>
+        <description>2022年にロシアがウクライナに侵攻した後、ソーシャルメディアは戦争の新たな映像として提示された粗悪な偽情報で溢（あふ）れかえった。それらはフォトショップで加工された偽物、もしくは事実と異なる説明が付された映像で、実際にはビデオゲームや映画、過去の事件、無関係なニュース報道から切り取ったものだった。
+
+こうした旧態依然の偽情報は、現在イランとの戦争下で再び拡散している。今回は22年には容易に入手できな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35244932.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/bdc66ef902069636ff2bb389d74ceebe/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW1rdGdsOHowMDAwM2I2cnNmMDM4Y295-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbWpicDU2eTAwMzIyN3FwNHY0b2ExMXY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244938.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T11:32:00+09:00</dc:date>
+        <title>ロシア、イランにドローン戦術の具体的助言を提供　西側情報筋　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/world/35244938.html?ref=rss</link>
+        <description>ロシアはウクライナ戦争で培った高度なドローン（無人機）戦術でイランを支援し、中東に散らばる米国や湾岸諸国の標的への攻撃を助けていることが分かった。西側情報機関の当局者が明らかにした。
+
+湾岸諸国の防空網突破で予想外の成功を収めているドローン「シャヘド」はイランが設計したものだが、ウクライナ戦争で使用するためロシアが大量生産している。ロシアによるイランへの情報提供についてはこれまで、目標選定に関す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244938.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/b45698e827dc252e25ed45119c19426a/t/768/511/d/gettyimages-2227831917.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35244940.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T11:20:00+09:00</dc:date>
+        <title>NASA探査機、制御されない状態で大気圏突入　予想よりはるかに早く</title>
+        <link>https://www.cnn.co.jp/fringe/35244940.html?ref=rss</link>
+        <description>米航空宇宙局（NASA）の大型宇宙探査機が米国時間の11日早朝、予想よりも早く地球の大気圏に突入した。NASAによると、大部分は大気圏で燃え尽きる見通しだが、一部は燃え尽きないまま落下する可能性もある。
+
+NASAの発表によると、この探査機の残骸が人に危害を加える確率は約4200分の1と推定されている。これは過去に宇宙ごみが地球に落下した時よりも低い確率だとしている。
+
+バンアレンA探査機は重さ約600キロ。NASAがバンア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35244940.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/189653f8c04e80bbfa732f353843b276/t/768/432/d/arraydeployment.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244934.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T10:50:00+09:00</dc:date>
+        <title>トランプ氏、イランとの戦争に「勝った」と主張　問題は「いつやめるかだけ」とも</title>
+        <link>https://www.cnn.co.jp/usa/35244934.html?ref=rss</link>
+        <description>米国のトランプ大統領は11日の発言の中で、イランとの戦争について「我々は勝った」と主張した。だが、その主張を裏付ける十分な証拠は示さなかった。
+
+トランプ氏は「我々は勝ったと言わせてほしい。勝利を早々に宣言するのは好ましくない。我々は勝った。最初の1時間で戦争は終わったが、我々は勝った」と述べた。
+
+トランプ氏は、イランとの戦争がどれくらい続くかについて、一貫性のない発言を繰り返している。戦争が予定を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244934.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/50552b22ab92ddcdd7b5007788b379fa/t/768/512/d/large-gettyimages-2265462548.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244927.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T10:19:00+09:00</dc:date>
+        <title>ペルシャ湾で石油タンカー2隻が炎上、イランの攻撃か　1人死亡、38人救助</title>
+        <link>https://www.cnn.co.jp/world/35244927.html?ref=rss</link>
+        <description>イラク港湾公社のトップは12日、イラク領海内で外国籍の石油タンカー2隻が攻撃を受けてペルシャ湾で炎上し、同公社が乗員38人を救助したとCNNに語った。少なくとも1人は死亡したとしている。
+
+イラク港湾公社のファルハン・ファルトゥーシ総裁によると、救助した38人は全員が外国人だった。それ以上の詳細や船体の損傷については明らかにせず、「この2隻で起きた爆発の性質については分かっていない」としている。
+
+イラクのバ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244927.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/8a43a0e71cf0b6b34405dc0da370d79e/t/768/432/d/large-still-22443068-16492-403-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244911.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T09:52:00+09:00</dc:date>
+        <title>児童168人死亡のイラン小学校攻撃、古い情報を使った米軍の誤爆か　米軍調査</title>
+        <link>https://www.cnn.co.jp/usa/35244911.html?ref=rss</link>
+        <description>児童ら多数が死傷したと伝えられるイランの小学校攻撃は、古い情報を使ったことに起因する米軍の誤爆だったとみられることが、米軍による初期段階の調査で明らかになった。暫定調査結果について説明を受けた関係者2人が明らかにした。
+
+イラン国営メディアによると、この攻撃では子ども少なくとも168人と教員14人が死亡した。
+
+米軍の暫定調査によると、南部のミナブにある小学校に対する攻撃は、米軍が2月28日に隣接するイスラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244911.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/f37f0bc960384ba57791239548b17e5a/t/768/512/d/large-cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW1tYWFubHowMDA1MzU2c2xhanMzcnJr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbW1hOXAzaDAwMmwyNnBhNGU5bTFwdHo_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244908.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T09:12:00+09:00</dc:date>
+        <title>イスラエル、ベイルート南部に大規模攻撃　ヒズボラを標的</title>
+        <link>https://www.cnn.co.jp/world/35244908.html?ref=rss</link>
+        <description>イスラエルは11日、隣国レバノンの首都ベイルート近郊への「大規模な波状攻撃」を開始したと発表した。これより前にイランを後ろ盾とする武装組織ヒズボラは「数十発」のロケット弾を発射していた。
+
+イスラエル国防軍（IDF）はベイルート南部郊外ダヒエにあるヒズボラのインフラが標的だと明らかにした。イスラエルはダヒエをヒズボラの拠点とみなしている。
+
+IDFの報道官は攻撃前に、標的とする一帯の住民に対して「緊急かつ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244906.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-12T08:35:00+09:00</dc:date>
+        <title>イラン、港湾への報復攻撃を警告　自国で被害なら</title>
+        <link>https://www.cnn.co.jp/world/35244906.html?ref=rss</link>
+        <description>イラン軍は国内の港湾が攻撃された場合、周辺国の港湾や埠頭（ふとう）を標的にすると威嚇した。
+
+これより前に米中央軍は、イランが「国際海運を脅かす軍事作戦を実行する」のにホルムズ海峡沿いの民間の港湾を利用していると非難し、そのように使用されている港湾は「国際法のもとで正当な軍事標的となる」と警告していた。
+
+イランのメディアが11日に報じたところによると、イラン軍のシェカルチ報道官は「イランの港湾が脅...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244906.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/12/42379672072c2e7ce91077068706c3d4/t/768/512/d/large-2026-03-04t133557z-256039442-rc29u4aihtrl-rtrmadp-3-iran-crisis-energy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35244903.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T19:09:00+09:00</dc:date>
+        <title>古代欧州人、敵の脳をすくって食べていた可能性　考古学調査で痕跡発見</title>
+        <link>https://www.cnn.co.jp/fringe/35244903.html?ref=rss</link>
+        <description>かつての欧州に存在していた古代人類は、死んだ敵の頭蓋骨（ずがいこつ）から脳をすくって食べていた可能性があるという研究結果が昨年、科学誌サイエンティフィック・リポーツに掲載された。
+
+2025年2月6日に掲載された論文によると、フランスとスペイン、ポーランドの研究チームは1万1000～1万7000年前に現在の欧州で栄えたマグダレニア人の人骨10柱あまりを調査した。
+
+画像診断技術を使って調べた結果、長骨の中の骨髄や頭...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35244903.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/02/13/f20a38ac140b9baf1de3dcc3d9a7aa3b/t/768/432/d/image-2-20250211134020721.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244897.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T18:12:00+09:00</dc:date>
+        <title>【分析】トランプ氏、イランで何が起こっているかさえ知らなかった？</title>
+        <link>https://www.cnn.co.jp/usa/35244897.html?ref=rss</link>
+        <description>トランプ米大統領は7日、戦争初期にイランの小学校を攻撃し、多数の子どもを死亡させたのはイランだと主張した。
+
+9日になってトランプ氏は、その発言当時、話している内容についてほとんど知らなかったことを認めたうえで、その学校に命中したとみられる巡航ミサイル「トマホーク」はイランを含む他国も使っていると示唆した。イランはトマホークを保有していない。
+
+なぜ政権内の他の人々はイランに責任があるという同様の主...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244897.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/11/23ac7418078c0a603dc31c7fb9486c82/t/768/512/d/ap26068816755537.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244892.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T18:11:00+09:00</dc:date>
+        <title>「プーチンの墓で踊ろう」　戦時下のウクライナで今も続く抵抗運動としての「レイブ」</title>
+        <link>https://www.cnn.co.jp/world/35244892.html?ref=rss</link>
+        <description>雪と氷に覆われた暗い路地を人影が通り抜け、こもったビートが聞こえてくるコンクリート建てのビルへ向かった。ウクライナの首都キーウ中心部にあるそのビルの中で、赤い薄明かりがぼんやりと照らし出すのは、汗ばんだ体を押しつけ合って踊る集団だ。
+
+赤い照明は軍用の懐中電灯を連想させる。ここから東へ数百キロ離れた前線でロシアと戦う兵士たちは、敵に見つからないように明るさを抑えた懐中電灯を使う。だが、キーウで最...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244892.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/11/b36b3734c03718a0c19c22dc0c35ad79/t/768/432/d/large-001-ukraine-crisis-kyiv-nightlife.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244898.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T17:28:00+09:00</dc:date>
+        <title>ホルムズ海峡への機雷敷設、海運と世界経済に甚大な混乱の可能性　米軍退役少将</title>
+        <link>https://www.cnn.co.jp/world/35244898.html?ref=rss</link>
+        <description>軍事の専門家はCNNに対し、ホルムズ海峡に敷設された機雷の脅威は、海峡の通過を検討する船舶にとって大きな課題になるとの認識を示した。
+
+複数の情報筋はCNNに対し、イランがホルムズ海峡への機雷敷設を開始したと明かした。世界の原油のおよそ2割はホルムズ海峡を通過する。
+
+イランのイスラム革命防衛隊（IRGC）はかねて、ホルムズ海峡を通過する船舶は攻撃対象になると警告しており、戦争開始以降、海峡は事実上の封鎖状態...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244898.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/11/6e2e9e19b0e447e6ba0627faf18598e0/t/768/432/d/still-22439653-1365-8742472266242-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244891.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T14:13:00+09:00</dc:date>
+        <title>イラン革命防衛隊、戦争開始以降で「最も激しい」作戦の実施発表</title>
+        <link>https://www.cnn.co.jp/world/35244891.html?ref=rss</link>
+        <description>イラン国営メディアによると、イランのイスラム革命防衛隊（IRGC）は、戦争開始以降で「最も激しく重い作戦」を実施したと明らかにした。
+
+国営放送局IRIBによると、イランは長距離弾道ミサイル「ホラムシャフル」などを発射する夜間攻撃を行ったと主張。イスラエル国内の攻撃目標やこの地域の米国資産を狙ったとしている。
+
+革命防衛隊は「我々は目的意識と力をもって持続的な攻撃を続ける。この戦争を継続するに当たり、我々...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244891.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/11/e311f2e7b928d5b5c7044af3dbab4b1c/t/768/509/d/2026-03-11t003532z-270106255-rc202kaprj0j-rtrmadp-3-iran-crisis-israel.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35244880.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T13:56:00+09:00</dc:date>
+        <title>サッカー女子イラン代表、人道ビザ発給受けるメンバーが7人に　他のメンバーは豪州を出国</title>
+        <link>https://www.cnn.co.jp/showbiz/35244880.html?ref=rss</link>
+        <description>オーストラリアで開催中の女子サッカーの国際大会「AFC女子アジアカップ」に出場していたイラン代表チームの選手5人が現地で亡命を申請し、人道ビザの発給を受けた件で、オーストラリアのバーク内相は11日、新たに2人のメンバーが人道ビザを取得したことを確認した。イラン代表の残りのメンバーは、10日の夜遅くにシドニーを出発していた。
+
+これでビザが発給されたのは計7人（選手6人とチームのサポートメンバー1人）となった...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35244880.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/11/cfc98e50210738234b1de62e11da7a44/t/768/576/d/hdfszufamaatst.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244879.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T13:09:00+09:00</dc:date>
+        <title>イランの攻撃の矢面に立たされるUAE、戦争を始めたのはイスラエルと米国なのになぜ？</title>
+        <link>https://www.cnn.co.jp/world/35244879.html?ref=rss</link>
+        <description>イランはかねて、自国が攻撃を受ければ、地域紛争の引き金になると警告していた。
+
+米国とイスラエルはその警告を真に受けなかった。あるいは、そのリスクを冒す価値があると判断した。戦争開始から11日目に入ったいま、代償を払っているのは湾岸アラブ諸国であり、とりわけ大きな打撃を受けているのがアラブ首長国連邦（UAE）だ。
+
+UAE国防省によると、戦争開始以来、UAEに向けて1700発を超えるミサイルやドローン（無人機）が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244879.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/11/5a8b899b12833e4d9a2de43684d67ea8/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW1qZmZxNDYwMDBqMjZwMWF2NDRlMm4w-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbWpmZnE0NjAwMHkyNnAxOTRtZDduY2k_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244883.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T12:41:00+09:00</dc:date>
+        <title>戦闘機がドローンにミサイル発射　ドバイ海岸の上空</title>
+        <link>https://www.cnn.co.jp/world/35244883.html?ref=rss</link>
+        <description>アラブ首長国連邦（UAE）ドバイの海岸の上空で、戦闘機がドローン（無人機）に向けてミサイルを発射する様子を捉えた動画がSNSに投稿された。
+
+今回の出来事が撮影されたのは、8日のマンザル・ビーチ。
+
+ドローンはイランの「シャヘド」に似ていた。
+
+SNSに投稿された動画には、戦闘機が海岸上空を低空飛行した後、ミサイルを発射する様子が映っている。
+
+動画は着弾が確認できる前に終わっており、ミサイルがドローンに命中し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244883.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/11/ed312bb4d8b04fd1b1b21bd5d13faf6a/t/768/432/d/jet-16x9-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35244878.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T11:55:00+09:00</dc:date>
+        <title>最も危険とされた小惑星「2024　YR4」、月には衝突せず　至近距離を通過へ</title>
+        <link>https://www.cnn.co.jp/fringe/35244878.html?ref=rss</link>
+        <description>一時は観測史上最も危険な小惑星とみなされた「2024　YR4」について、月に衝突する可能性はなくなったという新たな観測結果が発表された。
+
+YR4は2024年12月に発見され、当初は32年12月22日に3.1％の確率で地球に衝突する可能性があると推定された。その後の観測で地球に衝突する可能性はなくなったものの、25年6月までに、今度は4.3％の確率で月に衝突する可能性があるという推定が発表された。
+
+専門家はこれまで、YR4が再び...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35244878.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/11/aa7fad9ee5aadee08750c6f183f07119/t/768/432/d/large-asteroid-artist-s-impression-20250724201010839.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244851.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T11:36:00+09:00</dc:date>
+        <title>米軍の「トマホーク」の破片か、イランの学校攻撃の現場で回収　写真公開</title>
+        <link>https://www.cnn.co.jp/world/35244851.html?ref=rss</link>
+        <description>イラン当局が壊滅的な攻撃を受けた現場から回収したと主張するミサイルの破片は、米国製の巡航ミサイル「トマホーク」のものとみられることが、CNNの分析から明らかになった。当該の攻撃は2月28日にイラン南部の小学校に対して行われ、多くの死者が出ていた。
+
+イラン国営放送局IRIBは、破片の写真4枚をSNSのテレグラムで共有した。キャプションには、これらは同国南部ミナブにある学校への攻撃の残骸だと記されている。国営メ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244851.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/11/99ac04070d7a5f34f466b4479498f5b0/t/768/405/d/c-screenshot-2026-03-08-at-17-10-14.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244873.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T11:11:00+09:00</dc:date>
+        <title>ホルムズ海峡で米海軍が取りうる措置は？　ペルシャ湾の専用掃海艇は昨年退役</title>
+        <link>https://www.cnn.co.jp/usa/35244873.html?ref=rss</link>
+        <description>イランがホルムズ海峡に機雷敷設を開始したとの報道が広がる中、米海軍が講じうる対抗手段に注目が集まっている。
+
+海軍は昨年9月以降、ペルシャ湾に専用掃海艇を配備していない。数十年にわたりペルシャ湾で運用されてきた専用掃海艇4隻のうち最後の1隻がバーレーンの米海軍施設で退役したためだ。
+
+この4隻は今年1月、解体のため重量船に積みこまれ、米国に送り返された。
+
+9月の退役時に中央海軍は、ペルシャ湾における掃海...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35244873.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/11/51e2de674edb278016ee57223a82c540/t/768/512/d/large-260121-n-hd763-1006.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35244862.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T10:34:00+09:00</dc:date>
+        <title>米国領事館に発砲　建物に損傷、負傷者なし　カナダ・トロント</title>
+        <link>https://www.cnn.co.jp/world/35244862.html?ref=rss</link>
+        <description>カナダのオンタリオ州トロントで10日、米国領事館に向けて何者かが発砲する事件があり、地元警察が捜査に乗り出した。発砲を受けて建物が損傷したものの、負傷者は出ていない。
+
+トロント警察によると、目撃者が現地時間の10日午前5時29分ごろ、領事館で銃声が聞こえたという情報を警官に伝えた。捜査当局は、このおよそ1時間前に発砲があったと見ている。
+
+警察は、発砲の痕跡や薬莢（やっきょう）が見つかり、建物の被害が確...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35244862.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/11/289d067b3be778ee07cb0978dbf264aa/t/768/512/d/large-cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW1rdmFxMzEwMDAwM2I2cncxb2Z2a3ow-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbWt0aGNhMjAwMHkyNnFoMnUwbzlrdnI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35244854.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-11T10:21:00+09:00</dc:date>
+        <title>米政権、ロシア産原油に対する制裁の追加緩和を検討　原油価格高騰受け</title>
+        <link>https://www.cnn.co.jp/usa/35244854.html?ref=rss</link>
+        <description>トランプ米政権は、イラン戦争で生じたエネルギー価格高騰への緊急対策の一環として、ロシア産原油に対する制裁のさらなる緩和を検討している。事情に詳しい関係者がCNNに語った。
+
+この措置は、世界の原油供給を強化し、ホルムズ海峡の事実上の通航停止に対抗することを目的としたもの。この1週間で原油価格は急騰している。
+
+トランプ大統領は9日の記者会見で、「我々は一部の国に制裁を課している」が、「この問題が解消する...</description>
+    </item>
+</rdf:RDF>
