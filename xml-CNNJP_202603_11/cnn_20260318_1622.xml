@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-03-18T18:39:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245210.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/design/35245217.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245213.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245207.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245202.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245192.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35245190.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245188.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35245186.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245182.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245178.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245179.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245162.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245168.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245160.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245159.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35245137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245147.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35245148.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245144.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245146.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245143.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35245133.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245138.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245128.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35245108.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35245122.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35245123.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245121.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245120.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35245210.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T18:39:00+09:00</dc:date>
+        <title>キューバ大統領、「揺るぎない抵抗」を約束　米国による支配の試みに対し</title>
+        <link>https://www.cnn.co.jp/world/35245210.html?ref=rss</link>
+        <description>キューバのディアスカネル大統領は17日、米国によるキューバ支配の試みは「揺るぎない抵抗」に遭うだろうと述べた。全国的な送電網の崩壊後、島の一部地域では電力供給が再開された。
+
+ディアスカネル氏は強気な姿勢でX（旧ツイッター）に投稿。60年以上にわたりキューバを孤立させようとしてきた米国の政権が現在、経済的弱体化を口実にキューバを掌握しようとしていると非難した。
+
+「この激しい経済戦争は他に説明のしようが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245210.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/6389174c85103cb931d4abfc60c8b891/t/768/511/d/cuba-crisis-power.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/design/35245217.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T18:36:00+09:00</dc:date>
+        <title>B2スピリット――20億ドルの全翼機に迫る</title>
+        <link>https://www.cnn.co.jp/style/design/35245217.html?ref=rss</link>
+        <description>「全翼機」の設計を取り入れ、レーダーにほぼ映らない爆撃機B2スピリットは、軍用機の中でとりわけ異彩を放っている。世界で最も高価な軍用機でもあり、1機当たりの値段は20億ドルを超える。
+
+冷戦の産物であるB2は当初、ソ連の防空網への侵攻を念頭に開発され、通常兵器と核兵器の両方を搭載する予定だった。しかし初飛行から間もない1989年、今から30年あまり前にベルリンの壁崩壊で冷戦が終結したため、B2がロシアの領空内に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/design/35245217.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/cf8d19d664696750b2b3b93971699daf/t/768/469/d/191203130527-gettyimages-52491242__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245213.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T18:00:00+09:00</dc:date>
+        <title>イラン、イスラエルに向け多数のミサイルを発射　周辺住民「すべてが吹き飛んだ」</title>
+        <link>https://www.cnn.co.jp/world/35245213.html?ref=rss</link>
+        <description>イランは18日、前日に起きたイラン高官2人の殺害に対する報復を宣言し、イスラエルへの新たな攻撃を開始した。
+
+
+  
+    
+      
+    
+    
+   住宅街の道路に散乱する破片と炎上する車両/MDA
+  
+
+
+テルアビブとエルサレムにいるCNN取材班は夜明け前、上空に閃光を目撃した。テルアビブ上空ではクラスター弾ミサイルとみられるものも確認された。
+
+テルアビブの複数の地点に破片が落下し、爆発物処理班と救急隊員が現場に急行し...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245207.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T16:45:00+09:00</dc:date>
+        <title>テルアビブに向けて発射されたミサイルか、イランメディアに映像　安保トップ殺害への報復作戦</title>
+        <link>https://www.cnn.co.jp/world/35245207.html?ref=rss</link>
+        <description>イランのタスニム通信がテレグラムに投稿した映像には、国家安全保障最高評議会のトップ、ラリジャニ事務局長殺害への「報復」でイスラエルのテルアビブに向けて発射されたものとされるミサイルが映っている。
+
+
+  
+    
+       
+
+    
+    
+    タスニム通信が公開した映像には、イスラエルのテルアビブに向けて発射されたものとされるミサイルが映っている（Tasnim News/Telegram）  
+
+
+
+イスラム革命防衛隊の広報部門は、イ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245202.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T16:11:00+09:00</dc:date>
+        <title>米西部に極めて異例の熱波襲来、3月に41度予想</title>
+        <link>https://www.cnn.co.jp/usa/35245202.html?ref=rss</link>
+        <description>この時期としては極めて異例で強烈な熱波が米国に到来している。4月がまだ始まっていないにもかかわらず、一部地域では4月の最高気温を更新する可能性がある。
+
+人為的な気候変動によってはるかに悪化したこの極端な現象は、3月にもかかわらず米カリフォルニア州やテキサス州、北部モンタナ州に至る地域に夏のような気温をもたらす見通しだ。カリフォルニア州サンフランシスコからアリゾナ州フェニックスの数百万人に猛暑警報な...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245202.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/7bce73f4705b28d9f7f495076ef1ebfb/t/768/495/d/gettyimages-2265836966.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245192.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T13:47:00+09:00</dc:date>
+        <title>米軍、イランのミサイル施設に新型地中貫通弾を投下　ホルムズ海峡狙う対艦ミサイルの脅威に対応</title>
+        <link>https://www.cnn.co.jp/usa/35245192.html?ref=rss</link>
+        <description>米軍は17日、ホルムズ海峡沿いに位置するイランのミサイル施設に対し、地中深くまで貫通するように設計された5000ポンド級の誘導爆弾を投下した。米中央軍がX（旧ツイッター）で明らかにした。
+
+中央軍の説明では「米軍は数時間前、ホルムズ海峡付近のイラン沿岸地帯に位置する強固なミサイル施設に対し、複数の5000ポンド級の地中貫通弾を投入することに成功した」「これらの施設に配備されたイランの対艦巡航ミサイルは、ホル...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35245190.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T13:37:00+09:00</dc:date>
+        <title>WBC決勝　ベネズエラが初優勝、米国との接戦を制す</title>
+        <link>https://www.cnn.co.jp/showbiz/35245190.html?ref=rss</link>
+        <description>野球の国・地域別対抗戦「第6回ワールド・ベースボール・クラシック（WBC）」は17日、決勝戦が行われ、ベネズエラがスター選手をそろえた米国の反撃をしのぎ、初優勝を遂げた。国際野球の祭典となった大会は決勝にふさわしい熱戦で幕を閉じた。
+
+ベネズエラの勝利は、政治的混乱や経済的不安、国際社会での孤立、さらに西半球のほかの国々への移民増加に揺れてきた同国にとって最高の瞬間のひとつとなった。試合会場となったマ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35245190.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/f7da94201fa9525fc88dc7f68b306520/t/768/512/d/large-ap26077107179682-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245188.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T12:05:00+09:00</dc:date>
+        <title>イラン、安保トップのラリジャニ氏の死亡確認　長年の公務の末に殺害され「殉教」</title>
+        <link>https://www.cnn.co.jp/world/35245188.html?ref=rss</link>
+        <description>イラン政府は、同国の外交・安全保障政策を統括する国家安全保障最高評議会トップのラリジャニ事務局長が死亡したことを確認した。
+
+国家安全保障最高評議会は18日未明、声明で、ラリジャニ氏の死亡を発表した。ラリジャニ氏について、長年にわたる公務の末に殺害され「殉教」したと表現した。
+
+これに先立ち、イスラエルのカッツ国防相は、ラリジャニ氏を16日夜に「排除」したと明らかにしていた。
+
+評議会によると、ラリジャ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245188.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/e9b829146f16ea27bb41982120bb9a7b/t/768/432/d/gettyimages-2154760815-20260317152520718.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35245186.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T11:24:00+09:00</dc:date>
+        <title>米東部の空に珍しい白昼の火球、ソニックブーム発生</title>
+        <link>https://www.cnn.co.jp/fringe/35245186.html?ref=rss</link>
+        <description>米東部で17日午前、日中でも明るく見える珍しい火球が目撃された。衝撃波による「ソニックブーム」の大音響も観測されている。
+
+火球の正体は、地球の大気圏で燃え尽きた異常に明るい隕石（いんせき）だったと思われる。米航空宇宙局（NASA）によると、火球が燃える時は夜空で3番目に明るい金星と同じかそれ以上の光を放つ。
+
+米流星協会によると、今回の火球は米東部時間の午前9時ごろ、バージニア、メリーランド、ペンシルベ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35245186.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/0da945f4936a74b16003f07b55a4b4a4/t/768/560/d/large-cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW11cTB1ZmswMDBqMjdwYzYwMmtob3Fy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbXVxMHVmbDAwMHkyN3BjMTFvbzlubTg_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245182.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T11:00:00+09:00</dc:date>
+        <title>人民元で取引される石油の安全なホルムズ海峡通過、イランが8カ国と協議　情報筋</title>
+        <link>https://www.cnn.co.jp/world/35245182.html?ref=rss</link>
+        <description>イラン政府は中東以外の8カ国との間で、中国人民元で取引される石油の安全なホルムズ海峡通過を認めるイランの提案について協議していることが分かった。イランの治安情報筋がCNNに明らかにした。
+
+これらの国は、イランが人民元で石油を取引する国の船舶に海峡通過を認める案を検討しているとの報道を受け、合意の可能性を探るためイラン政府に接触した。
+
+情報筋は8カ国の国名を明らかにしなかった。イランは現在の封鎖措置を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245182.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/c84e86102eb432b949cac65f5ce32cda/t/768/512/d/2026-03-14t094419z-660744045-rc2c2ka53y3b-rtrmadp-3-iran-crisis-india-sailors.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245178.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T10:47:00+09:00</dc:date>
+        <title>イスラエル、モジタバ師を見つけ出し「無力化」すると宣言</title>
+        <link>https://www.cnn.co.jp/world/35245178.html?ref=rss</link>
+        <description>イスラエル国防軍（IDF）のエフィー・デフリン報道官は17日、記者団に対し、イランの新たな最高指導者モジタバ・ハメネイ師を含む「イスラエル国家に脅威を与える者」は誰であろうと標的にし続けると語った。
+
+モジタバ師は就任以来、公の場に姿を見せておらず、発言もしていない。IDFは同師の消息を知っているのかと問いに対し、デフリン氏は「知らない」としたうえでこう付け加えた。
+
+「しかし、一つ言えることがある。我々...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245178.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/db715dec29522ceda0f3a814ea8f6ce6/t/768/512/d/2026-03-10t145909z-1346267152-rc26f49p3e5o-rtrmadp-3-iran-crisis-leader.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245179.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T10:30:00+09:00</dc:date>
+        <title>「イランは差し迫った脅威ではなかった」　米情報機関トップ、戦争に反対して辞任</title>
+        <link>https://www.cnn.co.jp/usa/35245179.html?ref=rss</link>
+        <description>米国のトランプ大統領が任命した情報機関のトップが17日、イランとの戦争に関する重大な疑念を理由に突如辞任を表明した。
+
+辞任したのは米国家テロ対策センターのトップだったジョー・ケント氏。X（旧ツイッター）に投稿した辞表の中で、米政権が戦争を開始した根拠に対して反論を展開し、トランプ大統領に戦争の終結を促した。
+
+「良心に照らして、現在イランで続いている戦争は支持できない」。ケント氏はそう述べ、「イラン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245179.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/31eb2289b422cb5de0de47d0e3e216ab/t/768/512/d/large-cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW11bnl4YXYwMDA0MzU2c3hveGh3N29i-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbXVudzQwcDAwMXcyN3AyOXRqd2ZzbjU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245162.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T10:12:00+09:00</dc:date>
+        <title>イラン、民兵組織の司令官の死亡を確認　報復誓う</title>
+        <link>https://www.cnn.co.jp/world/35245162.html?ref=rss</link>
+        <description>イランは17日、民兵組織バシジの司令官が殺害されたことを確認した。イランはこれを「米国とシオニストの敵によるテロ攻撃」と断じた。
+
+イスラエル軍は16日、標的を絞った攻撃でバシジのゴラムレザ・ソレイマニ司令官を殺害したと発表。その死は「政権の治安指揮統制機構に対するさらなる重大な打撃」だと述べていた。
+
+この件に詳しいイスラエルの情報筋はCNNに対し、バシジの他の幹部も殺害されたと語った。
+
+イランの精鋭部...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245162.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/50e87d497c3069fe0a336ef869a661a3/t/768/512/d/gettyimages-1184314118.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245168.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T09:50:00+09:00</dc:date>
+        <title>米強襲揚陸艦トリポリがマラッカ海峡に接近、中東へ向かう海兵隊を輸送か</title>
+        <link>https://www.cnn.co.jp/usa/35245168.html?ref=rss</link>
+        <description>米海軍の強襲揚陸艦トリポリが17日、シンガポール沖のマラッカ海峡に近づいていることがわかった。トリポリには中東に向かう海兵隊員や海兵が乗艦しているとみられる。
+
+CNNが確認した船舶自動識別装置（AIS）の追跡データによると、トリポリは17日午前、南シナ海の南西端に位置するシンガポールに接近していた。
+
+米海軍の艦船はしばしば、AISの発信機を切ったまま航行する。シンガポール周辺のように海上交通が過密な海域を通...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245168.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/d677b8b09aeb346a3d99634d4eeddb64/t/768/512/d/large-adp-3-iran-crisis-ship-usa.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245160.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T08:51:00+09:00</dc:date>
+        <title>トランプ氏、NATOの支援「必要ない」　ホルムズ海峡の安全確保で</title>
+        <link>https://www.cnn.co.jp/usa/35245160.html?ref=rss</link>
+        <description>トランプ米大統領は17日、対イラン戦争で北大西洋条約機構（NATO）の加盟国などが米国に協力することはないと明らかにした。前日にはホルムズ海峡の航行の安全を確保するのに協力する「数カ国」を「間もなく」発表すると明言していた。
+
+トランプ氏は自身のSNSで、「NATOの『同盟国』の大半がイランのテロリスト体制に対する我々の軍事作戦に関与したくないと通告してきた」と明らかにした。
+
+トランプ氏は16日に、即時の協力を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245160.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/8d520a6d05a92e20fa803465814bee56/t/768/512/d/large-gettyimages-2266466610.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245159.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-18T08:26:00+09:00</dc:date>
+        <title>イスラエル、イランの安保トップを殺害　民兵組織の司令官も</title>
+        <link>https://www.cnn.co.jp/world/35245159.html?ref=rss</link>
+        <description>イスラエルのカッツ国防相は17日、イランの外交・安全保障政策を統括する国家安全保障最高評議会トップのラリジャニ事務局長を16日夜に殺害したと発表した。
+
+カッツ氏はまた、イランの民兵組織「バシジ」の司令官も殺害したことを明らかにした。
+
+カッツ氏によると、テロと弾圧を行うイランの現体制の首脳陣の追跡を継続し、体制が強化されることのないよう、トップが選出されるたびに殺害するよう首相と自身がイスラエル国防...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245159.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/18/e9b829146f16ea27bb41982120bb9a7b/t/768/432/d/gettyimages-2154760815-20260317152520718.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35245137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T19:15:00+09:00</dc:date>
+        <title>蚊のDNAが人類の足取りをたどる手がかりか、進化して人間の血を好むように</title>
+        <link>https://www.cnn.co.jp/fringe/35245137.html?ref=rss</link>
+        <description>蚊は小さいながらも危険な昆虫だが、初めから人間の血液が好きだったわけではない。そもそも人間よりずっと前から生息していた。
+
+蚊がいつから人間の血液を好むようになったのかを知ることで、人類の祖先が地球上を移動した歴史を知るヒントが得られるとの研究が発表された。
+
+英マンチェスター大学の上級講師、キャサリン・ウォルトン氏らのチームが先月、科学誌サイエンティフィック・リポーツに論文を発表した。東南アジア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35245137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/fc8b2238d964b144c76049129a6768ec/t/768/511/d/large-gettyimages-2198782453.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245147.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T19:05:00+09:00</dc:date>
+        <title>トランプ氏、「キューバを手に入れるのは大きな栄誉」　米国による石油封鎖で全土の送電網が崩壊するなか</title>
+        <link>https://www.cnn.co.jp/world/35245147.html?ref=rss</link>
+        <description>米国のトランプ大統領は16日、キューバを「手に入れる栄誉」を得るかどうかについて思いを巡らせた。キューバではこの日、米国が事実上同国への石油の流入を遮断して以降初めて全土で送電網が崩壊した。
+
+トランプ氏は、「米国とキューバについて、米国がいつキューバを手に入れる栄誉を得るかという話を私は生涯ずっと聞いてきた。それは大きな栄誉だ」と述べた。「何らかの形でキューバを手に入れることだ。つまり、解放する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245147.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/83b593f07f29a602b3434362f9c9de6e/t/768/512/d/ap26076101896369.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35245148.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T18:45:00+09:00</dc:date>
+        <title>トランプ政権、イラン戦争めぐり報道に圧力　意に添わぬ内容は「犯罪的」、放送免許や買収で脅しも</title>
+        <link>https://www.cnn.co.jp/business/35245148.html?ref=rss</link>
+        <description>イランの戦争の状況を伝える米国の報道機関に対し、米国のドナルド・トランプ大統領や政権幹部が相次ぎ圧力をかけている。
+
+トランプ大統領は「犯罪者」「非愛国的」などの言葉を使って報道機関を非難した。米連邦通信委員会（FCC）のブレンダン・カー委員長は放送免許で脅しをかけ、ピート・ヘグセス国防長官は記者会見で報道機関を侮辱した。
+
+「情報の伝達者を攻撃する」戦略はあからさまだ。もっともそれは、この戦争に対す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35245148.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/68272e0bc07c7fdc60fd70af1d8f02a0/t/768/520/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW1zemk4cTgwMDAyM2I2cnZ5d3dmdm9o-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbXNteXMxMjAwMnEyNnA0OXh5Z2NjZGc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245144.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T17:35:00+09:00</dc:date>
+        <title>【分析】ホルムズ海峡危機、日本は軍艦派遣でトランプ氏を支援できるのか</title>
+        <link>https://www.cnn.co.jp/world/35245144.html?ref=rss</link>
+        <description>トランプ米大統領はホルムズ海峡への軍艦派遣について、同盟国にもっと積極的な姿勢を示すよう求めている。これに対し日本が乗り気でないのには、それなりの理由がある。
+
+トランプ氏は、自身の要請に反発する国々を批判。長年にわたって米国が安全保障を支援してきたこれらの国の忠誠心に疑問を呈している。
+
+「彼らを恐ろしい外部の脅威から守ってきたが、彼らはそれほど積極的ではなかった。その積極性の度合いは私にとって...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245144.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/37fb296003da90643d9de952161664b5/t/768/512/d/gettyimages-2266458925.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245146.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T17:11:00+09:00</dc:date>
+        <title>韓国、「最悪のシナリオ」に備え　中東での紛争拡大で</title>
+        <link>https://www.cnn.co.jp/world/35245146.html?ref=rss</link>
+        <description>韓国の李在明（イジェミョン）大統領は17日、中東情勢の悪化を受け、エネルギー節約のため「最悪の事態」を想定した対策を準備すべき時がきたとの認識を示した。
+
+トランプ米大統領が最近、韓国を含む同盟国に対してホルムズ海峡への艦船派遣を求めたことをめぐり、韓国国防省は同日、米国からの正式な要請はまだ受けていないと明らかにした。
+
+李氏は、紛争は当初の予想を超えて拡大しており、国民生活への影響も大きくなる可...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245146.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/365afcfe2eb825317434b7af0f490fc6/t/768/512/d/large-gettyimages-2264119818.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245143.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T16:15:00+09:00</dc:date>
+        <title>在イラク米大使館が標的に、防空システムが飛翔体を迎撃</title>
+        <link>https://www.cnn.co.jp/world/35245143.html?ref=rss</link>
+        <description>イラクの首都バグダッドで17日未明、米大使館施設から約600メートルの地点の上空で、防空システムが飛翔（ひしょう）体に対応する出来事があった。CNNが位置情報を確認した動画から明らかになった。
+
+動画の一つには、ロケット弾や迫撃砲を迎撃するための米軍の「C-RAM」システムから発射されたものと一致する対空砲火の軌跡が映っている。その後、飛翔体を迎撃したとみられる爆発が空中で確認できる。
+
+その後、地上にいた1人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245143.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/ee9daa71109bd5029645efacff4f2ceb/t/768/432/d/118042-usembassybaghdadexplosion-digvid.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35245133.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T15:52:00+09:00</dc:date>
+        <title>マリフアナは不安やその他の精神疾患を緩和せず、科学者たちが新たに分析</title>
+        <link>https://www.cnn.co.jp/fringe/35245133.html?ref=rss</link>
+        <description>既存の権威ある研究を2件分析した結果、医療用または嗜好（しこう）用マリフアナを様々な精神疾患の症状緩和に用いても効果がないことがこのほど明らかになった。
+
+医療用マリフアナには、カンナビジオール（CBD）やデルタ-9-テトラヒドロカンナビノール（THC）を含む製品が含まれる。THCは、マリフアナに含まれる陶酔感をもたらす成分。
+
+「マリフアナが処方される主な理由である不安、うつ病、心的外傷後ストレス障害（PTSD）...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35245133.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/dd89e5481c1fa01513209d4aa17d5c4e/t/768/508/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW10a3MyeXowMDFnM2I2cm41cnd4MjMw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbXRrYmtkMDAwMjAyNm1jMDVjMGJub2M_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245138.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T15:21:00+09:00</dc:date>
+        <title>イラン、今も戦争前とほぼ同量の原油をホルムズ海峡から輸出　他国の通航停滞するなか</title>
+        <link>https://www.cnn.co.jp/world/35245138.html?ref=rss</link>
+        <description>イランを攻撃する前の米国が、主要産油国であるイランは自国の石油輸出を妨げることを恐れてホルムズ海峡を封鎖したがらないと想定していたのであれば、それは誤算だった。
+
+世界石油生産量の5分の1が通過するこの海峡の通航は、2週間前に紛争が始まって以降、大幅に制限されている。この地域では少なくとも16隻の船舶がドローン（無人機）などの兵器による攻撃を受けており、イランはそのうち一部の攻撃について実行を認めてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245138.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/a62e78595252a64b514cdd91e9f9caa3/t/768/527/d/2026-03-09t133829z-1021977946-rc211kaxtlru-rtrmadp-3-iran-crisis-oil-kharg.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245128.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T13:50:00+09:00</dc:date>
+        <title>西側諸国首脳、イスラエルによるレバノンでの地上攻撃に警告</title>
+        <link>https://www.cnn.co.jp/world/35245128.html?ref=rss</link>
+        <description>カナダとフランス、ドイツ、イタリア、英国の首脳は16日、レバノンにおける暴力の激化に「深刻な懸念」を示し、「即時の緊張緩和」を求めた。
+
+5カ国の首脳は共同声明で、「ヒズボラによるイスラエルへの攻撃と民間人を標的にする行為はやめなければならず、武装解除しなければならない。われわれは、ヒズボラがイランと連携して敵対行為に加わる決定をしたことを非難する。これは地域の平和と安全をさらに危うくするものだ」と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245128.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/2c4dccd88b50a8489c5cb0d75e01278a/t/768/512/d/large-gettyimages-2266174065.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35245108.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T13:21:00+09:00</dc:date>
+        <title>米アカデミー賞授賞式、「ワン・バトル・アフター・アナザー」が作品賞など6冠　主な見どころ</title>
+        <link>https://www.cnn.co.jp/showbiz/35245108.html?ref=rss</link>
+        <description> 第98回アカデミー賞の授賞式が15日、米ロサンゼルスで行われ、ハリウッドの大スターたちが一堂に会した。スターらが素晴らしい映画作品の数々と映画そのものの持つ力を称賛する一方、現状世界で起きている苦難を忘れることはたとえ一晩だけであっても不可能なのだということを痛感させられる場にもなった。
+
+歴史的な受賞や感動的な音楽パフォーマンスなど、喜びにあふれた瞬間はあった。しかし同時に、悲しみの要素もそこには...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35245108.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/ba203dec6809c3e521244a352e3d5862/t/768/584/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW1zcWgxZTkwMDBnM2I2cno5aHFkcmU5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbXNtdTN3NDAwNTQyNXA0Z3JnYWVobmQ_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35245122.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T12:41:00+09:00</dc:date>
+        <title>アカデミー賞授賞式後のパーティー、より官能的な装いに身を包む俳優たち</title>
+        <link>https://www.cnn.co.jp/style/fashion/35245122.html?ref=rss</link>
+        <description>アカデミー賞授賞式のレッドカーペットは通常、授賞シーズンの装いの頂点と見なされている。スターたちが3月に会場で何を着るかは、タレント事務所、スタイリスト、ブランドの間で何カ月にもわたり交わされるビジネス交渉の集大成だ。ブランドは数百万回もの閲覧を獲得し、うまくいけば俳優たちは移り変わりの速い業界での存在感を確固たるものにし得る。
+
+だが、その苦労が過ぎれば、つまり契約が成立し、写真が公開され、デザ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35245122.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/841e9e72f82689823b0402c983f084fa/t/768/511/d/gettyimages-2266768532.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35245123.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T12:27:00+09:00</dc:date>
+        <title>写真特集：俳優たちがアカデミー賞授賞式後のパーティーで見せたセクシーかつ風変わりな装い</title>
+        <link>https://www.cnn.co.jp/photo/35245123.html?ref=rss</link>
+        <description>第98回アカデミー賞授賞式後のパーティーに参加した俳優たちの装いはセクシーかつ風変わりで、ほぼR指定ともいえるものだった。その一部を紹介する。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35245123.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/adaa9f68e301d0f14a14e6e6bb02fc35/t/345/432/d/oscar_03_large.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245121.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T12:01:00+09:00</dc:date>
+        <title>イスラエル、レバノン南部で地上作戦を拡大</title>
+        <link>https://www.cnn.co.jp/world/35245121.html?ref=rss</link>
+        <description>イスラエルがレバノン南部で地上作戦を拡大する中、イスラエルのカッツ国防相は、避難した、または避難中のレバノン南部の「数十万人」の住民について、「（イスラエル北部の）住民の安全が確保されるまで、リタニ川以南の地域には戻らないだろう」と述べた。
+
+イスラエルは、イスラム教シーア派組織ヒズボラがレバノンから6発のロケット弾を発射したことを受け、米国とともにイランへの攻撃を始めてから48時間もたたないうちに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245121.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/fd484932297202ff050519ef91f00b28/t/768/512/d/large-gettyimages-2266367365.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245120.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-17T11:33:00+09:00</dc:date>
+        <title>イラン、ホルムズ海峡は「閉鎖」しておらず「特別な条件下」に　パキスタンのタンカーが通過</title>
+        <link>https://www.cnn.co.jp/world/35245120.html?ref=rss</link>
+        <description>イランは16日、世界の原油の約5分の1が通過する重要な海上の要衝ホルムズ海峡について、「閉鎖」してはいないが、「特別な条件下」で運用していると明らかにした。
+
+ホルムズ海峡を通る船舶の航行は、2週間以上前に戦争が始まって以降、おおむね止まっており、イランは少数の船舶にしか通行を認めていない。
+
+イラン外務省の報道官は16日、「イランに対する軍事侵略に関与していない当事者は、イラン軍との連携と許可を得てホル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245120.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/17/aa3b94608a7409d62a658e64cda7e5a9/t/768/512/d/large-trmadp-3-iran-crisis-tankers-india.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
