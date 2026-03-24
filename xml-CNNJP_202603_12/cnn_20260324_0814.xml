@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-03-24T17:08:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245418.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35245402.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245412.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245405.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35245386.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245401.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245400.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245394.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35245393.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245389.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35245388.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245379.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245381.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245375.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35245371.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245365.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245364.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245362.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245361.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35245360.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245352.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245348.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245346.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245342.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245337.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245333.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245326.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35245325.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245324.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35245323.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245418.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T17:08:00+09:00</dc:date>
+        <title>全米の空港で慌ただしい1日、職員欠勤で移民捜査官派遣</title>
+        <link>https://www.cnn.co.jp/usa/35245418.html?ref=rss</link>
+        <description>米国各地の複数の空港では23日も長い列と混乱した人だかりが続いた。国土安全保障省の予算が2月に失効して以降、給与を受け取れていない運輸保安庁（TSA）職員の欠勤が増えているためだ。
+
+国土安全保障省は、こうした人手不足を補うため、影響が大きい14の空港に移民税関捜査局（ICE）の職員を投入した。民主党上院議員の一部は、今回の対応を非難している。
+
+現時点で分かっていることは次の通り。
+
+空港にICE職員投入：国土...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245418.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/a6903e56a2bcd2b1be5770ec4cc4ba55/t/768/512/d/large-gettyimages-2268029590.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35245402.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T16:00:00+09:00</dc:date>
+        <title>中南米を熱狂させるKポップ人気、その理由は</title>
+        <link>https://www.cnn.co.jp/showbiz/35245402.html?ref=rss</link>
+        <description>中南米ほどKポップ熱に浮かされている場所は、世界にほとんどない。
+
+韓国を代表する男性アイドルグループ「BTS」が4年近い活動休止を経て開催するワールドツアーも、中南米で数回の公演が組まれ、現地では復活への期待が高まっている。
+
+BTSの活動休止期間中も世界中で韓流ブームは続いていた。熱烈なファン層を維持する中南米では、その勢いが特に目立つ。
+
+X（旧ツイッター）は2021年にまとめた統計で、Kポップのファンが最...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35245402.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/d3e990057a4bebc1ae5dd7595cb66ac7/t/768/512/d/large-gettyimages-1426042480a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245412.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T15:50:00+09:00</dc:date>
+        <title>【分析】不審なほどに時機を計るトランプ氏の対イラン発言、意思決定の動機は何なのか？</title>
+        <link>https://www.cnn.co.jp/usa/35245412.html?ref=rss</link>
+        <description>トランプ米大統領がイランに対する重大なレッドライン（越えてはならない一線）を最近になって覆したことで、同氏の戦時の意思決定を動機づけているものは具体的に何なのか、という疑問が浮上している。
+
+トランプ氏は21日夜、イランに対し、48時間以内にホルムズ海峡を開放して世界経済への制約を解かなければ、イラン最大の発電所を攻撃すると宣言した。ところが23日午前になると、イランとの交渉が進展したことを理由に、さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245412.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/4e97d8fed6474c62e8f9a47a9c859403/t/768/512/d/gettyimages-2267561878.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245405.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T15:30:00+09:00</dc:date>
+        <title>米国土安全保障長官退くノーム氏、昨年税金使い広告キャンペーン　ヘアメイクや馬の費用に</title>
+        <link>https://www.cnn.co.jp/usa/35245405.html?ref=rss</link>
+        <description>今月末で米国土安全保障長官の任を退くクリスティ・ノーム氏は、ラシュモア山を背景にした自身の広告の制作費として、ヘアメイクアーティストや馬の費用に数万ドルの税金を費やしていた。CNNが入手した請求書で明らかになった。
+
+この広告を制作した国土安全保障省（DHS）の下請け業者「ストラテジー・グループ」への請求書によると、納税者の税金から、サウスダコタ州を拠点とする乗馬イベント業者へ2万ドル（約317万円）、ヘ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245405.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/df89cd13dba5fa40962b3a936b25dd83/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW4zZHRmaWQwMDA0M2I2cmtvc25zYzIy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbjNkczIxbTAwMHkyNnFpMHh0aDhiMHU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35245386.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T14:00:00+09:00</dc:date>
+        <title>最後のアングロ・サクソン王の命運決めた戦い、新研究が定説覆す</title>
+        <link>https://www.cnn.co.jp/fringe/35245386.html?ref=rss</link>
+        <description>中世イングランドの王、ハロルドにまつわる悲劇の物語は、今なお英国の大衆文化において大きな存在感を放っている。よく知られるヘースティングスの戦いでウィリアム征服王に領土を奪われたハロルドだが、新たな研究によると、その物語には見直しが必要になるかもしれない。
+
+アングロ・サクソン人の最後の王ハロルドの短い統治は、1066年のヘースティングスの戦いで終焉（しゅうえん）を迎える。勝利したノルマンディー公ウィ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35245386.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/15f176d266de8d14d04c7ef5b685a8ac/t/768/513/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW4zMjd6NWQwMDFoMzU2cmZxeXBya3gx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbjMxdmNqODAwMzEyN3FraGVuNTNhZWw_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245401.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T13:17:00+09:00</dc:date>
+        <title>トランプ政権、仏エネルギー大手に1580億円を税金で支払い　洋上風力発電所建設しない対価</title>
+        <link>https://www.cnn.co.jp/usa/35245401.html?ref=rss</link>
+        <description>トランプ米政権は23日、フランスのエネルギー大手トタルエナジーズが大西洋岸にウィンドファーム（集合型風力発電所）を建設する計画を放棄する代わりに米国内での化石燃料計画を推進することへの対価として同社に約10億ドル（約1580億円）を支払うと発表した。
+
+現政権は洋上風力発電計画に対し、ことあるごとに障壁を設けてきた。洋上風力はトランプ大統領が個人的に長年嫌悪してきた種類のエネルギーだ。
+
+内務省が昨年に再...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245401.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/1eb373e6d4b6d985a6172b45e2488f8b/t/768/512/d/ap26013809809106-20260323191514730.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245400.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T12:35:00+09:00</dc:date>
+        <title>軍輸送機の墜落、死者64人に　南米コロンビア</title>
+        <link>https://www.cnn.co.jp/world/35245400.html?ref=rss</link>
+        <description>南米コロンビアの南部で軍の輸送機が離陸直後に墜落した件で、少なくとも64人が死亡した。プトゥマヨ県のモリナ知事が明らかにした。多数の負傷者も出ている。
+
+C130ハーキュリーズは、ペルー国境に接するプトゥマヨ県のプエルトレギサモ近郊に墜落。機体は大破して炎上した。
+
+モリナ知事によると、機体には乗客114人が乗っており、このうち112人がコロンビア陸軍の隊員、2人が警察官だった。さらに乗員11人も搭乗していた。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245400.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/c80121b37d6f03c77d91568810c87e72/t/768/512/d/large-gettyimages-2267588957.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245394.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T12:06:00+09:00</dc:date>
+        <title>米空母ジェラルド・R・フォード、クレタ島に到着　艦内を修理</title>
+        <link>https://www.cnn.co.jp/usa/35245394.html?ref=rss</link>
+        <description>米海軍は23日、空母ジェラルド・R・フォードがギリシャのクレタ島スーダ湾に到着し、艦内の洗濯区画で火災が起きた後の整備と修理を受けると発表した。空母ジェラルド・R・フォードは火災前まで対イラン作戦に参加していた。
+
+海軍の発表によると、空母ジェラルド・R・フォードは「完全な任務遂行能力を維持している」という。CNNはこれに先立ち、同艦がスーダ湾へ向かっていると報じていた。米当局者は、同艦が同地に滞在する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245394.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/96a40bd1ce42ff9a37c23f355c669d10/t/768/512/d/large-dp-3-iran-crisis-usa-warship-greece.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35245393.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T11:32:00+09:00</dc:date>
+        <title>ヘビやヤモリなどの新種11種、カンボジアの洞窟で発見　孤立した環境で独特の進化</title>
+        <link>https://www.cnn.co.jp/fringe/35245393.html?ref=rss</link>
+        <description>カンボジア北西部バッタンバン州に広がる広大なカルスト台地の洞窟で、青緑色の毒ヘビやトビヘビ、数種類のヤモリ、小型カタツムリ2種、ヤスデ2種など新種の生物11種が発見された。調査団が23日に発表した。
+
+今回の調査で見つかった新種のうち、マムシの仲間の毒ヘビとヤモリ3種については今後、特徴を見極めて正式に命名される。それ以外の種は正式に新種と認定された。
+
+調査は2023年11月から25年7月にかけ、10の丘陵地帯に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35245393.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/8a4f383d06634ca68fe1ba0fa82c381a/t/768/472/d/01-website-use-cbd-0119-pcy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245389.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T11:09:00+09:00</dc:date>
+        <title>衝突事故のあった米NYの空港、事故以前からパイロットらは懸念　「何とかしてほしい」</title>
+        <link>https://www.cnn.co.jp/usa/35245389.html?ref=rss</link>
+        <description>CNNが過去2年間にわたる政府機関記録を調査した結果によると、パイロットらは米ニューヨークのラガーディア空港における意思疎通の不備、航空管制の判断ミスなどの危険について懸念を示していた。
+
+同空港では22日、エア・カナダ機が滑走路を高速走行中に消防車と衝突し、パイロット2人が死亡、数十人の乗客が負傷する事故が発生した。航空管制官は消防車に滑走路を横断する許可を出しており、土壇場でそれを止めようと試みたが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245389.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/9e13ee0359f66a0ee6c747b72143f18d/t/768/576/d/heheh97buaaw3jl.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35245388.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T10:58:00+09:00</dc:date>
+        <title>写真特集：カンボジアで新種の生物11種見つかる</title>
+        <link>https://www.cnn.co.jp/photo/35245388.html?ref=rss</link>
+        <description>カンボジアの広大なカルスト台地の洞窟で、青緑色の毒ヘビやトビヘビなど新種の生物11種が発見された&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35245388.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/8a4f383d06634ca68fe1ba0fa82c381a/t/768/472/d/01-website-use-cbd-0119-pcy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245379.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T10:11:00+09:00</dc:date>
+        <title>消防車に衝突の旅客機、操縦士2人が死亡　乗客ら数十人負傷　NYラガーディア空港</title>
+        <link>https://www.cnn.co.jp/usa/35245379.html?ref=rss</link>
+        <description>米ニューヨーク市のラガーディア空港で22日に起きた旅客機と消防車の衝突事故で、当局は旅客機の操縦士と副操縦士が死亡したことを明らかにした。乗客など数十人は負傷して病院に搬送され、ラガーディア空港は一時的に閉鎖されている。
+
+ニューヨークとニュージャージー州の港湾局によると、現地時間の22日午後11時40分ごろ、ジャズ・アビエーションが運航するエア・カナダの旅客機が、別の事故に対応していた港湾局の消防車に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245379.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/93b92e08051930410f34f7598998b77c/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW4yenkxcngwMDBlM2I2c3ZhaGNqZXg4-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbjJvenF5ZzAwMXQyN25wMm56eDBxYzQ_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245381.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T09:36:00+09:00</dc:date>
+        <title>コロンビア軍の輸送機が離陸時に墜落　8人死亡、83人負傷</title>
+        <link>https://www.cnn.co.jp/world/35245381.html?ref=rss</link>
+        <description>南米コロンビアの南部プトゥマヨ県で軍の輸送機が離陸時に墜落し、少なくとも8人が死亡したほか、83人が負傷した。県知事が明らかにした。
+
+事故を起こしたのはC130ハーキュリーズ機で、現場はペルーと国境を接するプトゥマヨ県のプエルトレギサモ。
+
+サンチェス国防相は、墜落原因はまだ特定されておらず、犯罪組織による攻撃を示す兆候はないと述べた。
+
+サンチェス氏はまた、機体は飛行可能な状態にあり、乗員も「適切な資格...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245381.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/c80121b37d6f03c77d91568810c87e72/t/768/512/d/large-gettyimages-2267588957.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245375.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-24T08:50:00+09:00</dc:date>
+        <title>米・イラン、戦争終結に向け協議　トランプ氏「発電所攻撃は延期」</title>
+        <link>https://www.cnn.co.jp/usa/35245375.html?ref=rss</link>
+        <description>トランプ米大統領は24日までに、米国とイランが週末に「実りある協議」を行ったとし、イランの電力・エネルギー関連施設に対する軍事攻撃を5日間延期する考えを示した。
+
+トランプ氏は自身のSNS「トゥルース・ソーシャル」に全文大文字で投稿し、協議の「雰囲気と方向性」を踏まえ、軍事攻撃を延期する決定を下したと述べた。
+
+「米国とイランは、この2日間にわたり、中東における両国の敵対関係の完全かつ全面的な解決に向け、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245375.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/24/f93da2e9eb201cb0346ba1c6d16fb727/t/768/512/d/large-ap26079713921726.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35245371.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T17:44:00+09:00</dc:date>
+        <title>人類史上最も高い現在の二酸化炭素濃度、人間の血液化学を変えつつある可能性</title>
+        <link>https://www.cnn.co.jp/fringe/35245371.html?ref=rss</link>
+        <description>人類が化石燃料を燃やし、大気中に二酸化炭素を放出することにより、地球は温暖化しているが、この気候汚染は我々の血液の化学的性質をも変化させている可能性がある。
+
+オーストラリアの呼吸生理学者アレックス・ラーカム氏は、同僚とともに、20年以上にわたる米国の健康データを分析した。その結果、大気中の二酸化炭素の増加と歩調を合わせるかのように、人々の血液化学にも変化が生じていることが明らかになった。
+
+人類は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35245371.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/23/08c36c7724d7c16eb8b2601c8c08f60f/t/768/576/d/gettyimages-926715326.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245365.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T16:46:00+09:00</dc:date>
+        <title>ユダヤ人ボランティア団体の救急車4台に放火・爆発　英ロンドン</title>
+        <link>https://www.cnn.co.jp/world/35245365.html?ref=rss</link>
+        <description>英ロンドン・ゴルダーズ・グリーン北部郊外のシナゴーグ（ユダヤ教の礼拝所）前で23日未明、ユダヤ人ボランティア救急団体の所有する複数の救急車が放火された。警察はこれを反ユダヤ主義にもとづく攻撃とみている。ゴルダーズ・グリーンにはロンドン最大のユダヤ人コミュニティーがある。
+
+炎が夜空を照らし、住民は大きな爆発音で目を覚ました。現場には数十人の消防士が駆けつけた。
+
+CNNに共有された防犯カメラ映像には、覆...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245365.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/23/bcde3ade52497ca8e65941aa53fcdeb2/t/768/432/d/still-22474460-11827-149000000001-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245364.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T16:32:00+09:00</dc:date>
+        <title>航空機が地上の車両と衝突して損傷　米NYのラガーディア空港</title>
+        <link>https://www.cnn.co.jp/usa/35245364.html?ref=rss</link>
+        <description>米ニューヨークのラガーディア空港で22日、エア・カナダ・エクスプレス機が滑走路上で車両と衝突し、機体が損傷した。現場の映像と航空管制の音声で明らかになった。
+
+米連邦航空局（FAA）は、「航空機の緊急事態」を理由に、ラガーディア空港で地上待機命令を出した。
+
+ニューヨーク市消防局によれば、22日午後11時38分ごろ、空港の滑走路で航空機と車両が関係する事故が起きたとの通報を受けて対応に当たった。
+
+航空機追跡サ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245364.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/23/5717aaa8aca64b1267f818d4e07e0ee1/t/768/512/d/large-gettyimages-2267519538.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245362.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T15:40:00+09:00</dc:date>
+        <title>IEA事務局長、エネルギー危機は1970年代の石油危機よりも深刻</title>
+        <link>https://www.cnn.co.jp/world/35245362.html?ref=rss</link>
+        <description>国際エネルギー機関（IEA）のビロル事務局長は23日、現在のエネルギー危機は「非常に深刻」であり、世界経済は「極めて大きな脅威」に直面していると述べた。
+
+ビロル氏によると、状況は1973年と79年に起きた2度の石油危機（オイルショック）や、ロシアのウクライナ侵攻後のガス市場の混乱よりも深刻だという。石油危機では、世界で1日あたり約1000万バレルの石油が失われた。
+
+ビロル氏は全豪記者協会で、「石油や天然ガスだけ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245362.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/23/061b7d114f01793864fae2e37e06e5af/t/768/512/d/large-adp-3-iran-crisis-fuel-iea.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245361.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T14:53:00+09:00</dc:date>
+        <title>【分析】トランプ氏、「よかった、死んでうれしい」　故人に対する無神経発言は新たな境地に</title>
+        <link>https://www.cnn.co.jp/usa/35245361.html?ref=rss</link>
+        <description>トランプ米大統領は長年にわたり、亡くなった人々に対して無神経なコメントを発してきた。相手が敵対していた人物であればなおさらだ。
+
+トランプ氏は21日、元連邦捜査局（FBI）長官ロバート・マラー氏の死を露骨に祝い、SNSにこう書き込んだ。「よかった、死んでうれしい」
+
+マラー氏は特別検察官として第1期トランプ政権中にロシア疑惑の捜査を指揮。トランプ氏と2016年の選挙活動を捜査した。
+
+トランプ氏はマラー氏の訃報（...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245361.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/23/f04157b41793e36d5e2bec568d93867b/t/768/512/d/gettyimages-2267127004.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35245360.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T14:32:00+09:00</dc:date>
+        <title>明らかになったバンクシーの正体、芸術界で匿名性が持つ価値とは？</title>
+        <link>https://www.cnn.co.jp/style/arts/35245360.html?ref=rss</link>
+        <description>美術界最大の謎が解明されたようだ。バンクシーの正体は、英ブリストル出身のめがねをかけた中年男性、ロビン・ガニンガム氏だったと明かされた。
+
+ガニンガム氏の名はロイター通信が広範な調査を通じて明らかにした。もっともそのことは英タブロイド紙メール・オン・サンデーが2008年に伝えており、何年も前から公然の秘密だったという見方もある。
+
+バンクシーの名で知られていたアーティスト本人は、例によって自分の身元に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35245360.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/23/c035cc78d436a9e5ef890da9e3879499/t/768/432/d/large-madp-3-britain-banksy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245352.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T12:32:00+09:00</dc:date>
+        <title>ロシア、ウクライナへの春季攻勢を開始　ゼレンスキー氏がイラン紛争の影響に「非常に悪い予感」募らせるなか</title>
+        <link>https://www.cnn.co.jp/world/35245352.html?ref=rss</link>
+        <description>ロシア軍は、ウクライナ東部で数十台の戦車と装甲車両などを投入した春季攻勢を開始した。ウクライナ軍とアナリストらが明らかにした。
+
+この攻撃は勢いを増しており、ウクライナのゼレンスキー大統領は中東紛争が自国にもたらす影響について「非常に悪い予感」がすると述べている。
+
+「見ての通り外交会談や3カ国協議が延期され続けている。理由は一つ、イランでの戦争だ」と、ゼレンスキー氏は22日のBBCとのインタビューで語...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245352.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/23/b6c1d195cb2336319bc178a57fef8c25/t/768/510/d/2026-03-09t091736z-1334953969-rc2e0kactcsd-rtrmadp-3-ukraine-crisis-donetsk-attack.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245348.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T11:40:00+09:00</dc:date>
+        <title> イスラエル、レバノン南部リタニ川周辺で攻撃拡大</title>
+        <link>https://www.cnn.co.jp/world/35245348.html?ref=rss</link>
+        <description>イスラエルのカッツ国防相は、自身とネタニヤフ首相が軍に対し、レバノン南部国境沿いの住宅の破壊を加速させるとともに、レバノン南部と国内のほかの地域を結ぶリタニ川にかかるすべての橋を破壊するよう命じたと明らかにした。
+
+カッツ氏は、イスラエルの狙いについて、親イラン組織のヒズボラの補給路を断ち、ヒズボラの武器移動を阻止し、イスラエル北部に住む人たちを守ることにあると述べた。
+
+カッツ氏は「イスラエル軍...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245348.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/23/d08345fd69673fe8c1f1409471feb399/t/768/512/d/large-gettyimages-2267396375.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245346.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T11:12:00+09:00</dc:date>
+        <title>イラン大統領、脅しは「結束を強めるだけ」　トランプ氏の最後通告受け</title>
+        <link>https://www.cnn.co.jp/world/35245346.html?ref=rss</link>
+        <description>イランのペゼシュキアン大統領は22日、トランプ米大統領がホルムズ海峡を「全面的に開放」しなければイランの発電所を攻撃すると威嚇したことを受け、イランに対する脅しは「われわれの結束を強めるだけだ」と述べた。
+
+トランプ氏は21日、ホルムズ海峡が48時間以内に船舶航行のため全面的に開放されなければ、イランのインフラを「攻撃し、壊滅させる」と述べていた。
+
+ペゼシュキアン氏は22日午後、X（旧ツイッター）への投稿...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245346.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/23/b1f4e59694f17d7b778150304817a0c0/t/768/512/d/large-icm-rtrmadp-3-iran-pezeshkian.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245342.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T10:33:00+09:00</dc:date>
+        <title>NATO事務総長、ホルムズ海峡を再開できると「確信」</title>
+        <link>https://www.cnn.co.jp/world/35245342.html?ref=rss</link>
+        <description>北大西洋条約機構（NATO）のルッテ事務総長は22日、NATOがホルムズ海峡を再開させることができると「完全に確信している」と述べた。
+
+ルッテ氏は米FOXニュースに対し、トランプ米大統領がNATOに向けた厳しい批判について言及した。
+
+ルッテ氏は今回の軍事作戦が秘密裏に行われたため、NATO加盟国は対応を調整するのに時間を要したと主張した。
+
+ルッテ氏は「欧州の同盟国や世界中のパートナーは、この数週間、我々が団結できる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245342.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/23/c909bed699533711ec5741a32a5377c1/t/768/512/d/large-w-rtrmadp-3-nato-defence.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245337.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T10:27:00+09:00</dc:date>
+        <title>イランのホルムズ海峡「無期限封鎖」警告受け、原油価格上昇</title>
+        <link>https://www.cnn.co.jp/world/35245337.html?ref=rss</link>
+        <description>トランプ米大統領がホルムズ海峡の石油輸送再開を求める最後通告を突きつけたのに対し、イランが同海峡を無期限に閉鎖すると警告したことを受け、22日の原油価格は上昇した。
+
+国際指標であるブレント原油価格は1.69%上昇し、1バレル＝114.09ドルほどとなった。米国産原油は100.29ドルと2%上昇。米金融大手ゴールドマン・サックスは20日、原油価格の高騰は2027年まで続く可能性があるとの見解を示した。
+
+トランプ氏は週末、ホ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245337.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/23/2376066c603fc7f4b25fcc307fe5e860/t/768/512/d/ap26078600292314-20260322223424502.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245333.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T09:49:00+09:00</dc:date>
+        <title>停戦実現なら機雷掃海のために自衛隊派遣の可能性　茂木外相</title>
+        <link>https://www.cnn.co.jp/world/35245333.html?ref=rss</link>
+        <description>茂木敏充外相は22日、米イスラエルとイランとの戦争で停戦が実現した場合、ホルムズ海峡での機雷掃海のために自衛隊を派遣することを検討する可能性があると明らかにした。
+
+茂木氏はフジテレビの番組で、仮定の話としたうえで、停戦状態になり、機雷が障害になっている場合、考えることになると述べた。
+
+日本は原油輸入の90%超を中東に依存している。こうした依存は、ロシアが2022年にウクライナへの全面侵攻を始めた後、日本...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245326.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-23T09:10:00+09:00</dc:date>
+        <title>イラン軍、ホルムズ海峡を「完全に閉鎖」　米が発電所を攻撃すれば</title>
+        <link>https://www.cnn.co.jp/world/35245326.html?ref=rss</link>
+        <description>イラン軍は22日、トランプ米大統領がイランの発電所を爆撃するとの威嚇を実行に移した場合、ホルムズ海峡を無期限で閉鎖する用意があると表明した。
+
+イラン軍の22日の声明は、電力産業に対するいかなる攻撃にも報復するというイラン政府からの最新の警告となった。
+
+トランプ氏は21日、ホルムズ海峡をめぐり、48時間以内に船舶の航行が全面的に開放されなければ、発電所などのインフラへの爆撃を命じると述べていた。
+
+イラン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245326.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/23/19e6063d743c98872c204d223bc9cbb1/t/768/512/d/large-c-gettyimages-2226239770.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35245325.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-22T18:24:00+09:00</dc:date>
+        <title>考古学的遺物に残る謎の赤い印、警察の鑑識課が解明に一役　スペイン中部</title>
+        <link>https://www.cnn.co.jp/fringe/35245325.html?ref=rss</link>
+        <description>人間の指紋の付いた欧州最古級の記号的遺物を発見した可能性がある――。スペイン中部の研究者らが昨年、そんな主張を展開して話題を呼んだ。数万年前のこの遺物にまつわる謎の解明には、普段犯罪捜査に従事する鑑識の専門家が一役買った。
+
+指紋が付いたとみられる当該の石は、セゴビアにあるサンラサロ岩窟住居で見つかった。新たな研究によれば、この石の存在は、ネアンデルタール人が象徴的な芸術を生み出す能力を備えていた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35245325.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/30/633e2a0623fb1ebcc2c4a7f880298013/t/768/432/d/12520-2025-2243-fig1-html.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245324.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-22T17:38:00+09:00</dc:date>
+        <title>ペルシャ湾に浮かぶイランの小さな島々、突如重要性を帯びる可能性　トランプ氏が照準か</title>
+        <link>https://www.cnn.co.jp/world/35245324.html?ref=rss</link>
+        <description>米国が地上部隊を投入してイラン政権への圧力を強める決定を下した場合、ペルシャ湾に浮かぶいくつかの小さな島が突如、重要性を帯びるかもしれない。
+
+既に米海兵隊の3部隊がこの地域へ向けて派遣されているが、トランプ米大統領がイランの領土の奪取を検討している気配はない。トランプ氏は19日、報道陣に対し、「どこにも部隊を投入する」つもりはないと述べる一方、「もしそのつもりであっても、当然、あなた方に言うはずが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245324.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/22/a6142ae2be167ac40cbcf1adf52eeee1/t/768/527/d/2026-03-09t133829z-1021977946-rc211kaxtlru-rtrmadp-3-iran-crisis-oil-kharg.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35245323.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-22T16:38:00+09:00</dc:date>
+        <title>モスクワで広がるネット遮断、日々の生活にも影響　デジタル弾圧への懸念強まる</title>
+        <link>https://www.cnn.co.jp/tech/35245323.html?ref=rss</link>
+        <description>友人にメッセージを返信したり、ピザを注文したり、車を呼んだり――。高度にネットワーク化された21世紀のロシアの首都モスクワのような街なら、手元の端末でそうしたことをするのは簡単な作業に見えるかもしれない。だがモスクワの住民たちは、前例のないモバイルインターネット遮断の中で、自分たちのスマートフォンの機能が著しく制限されていることに気がついている。
+
+ロシアは以前からデジタル検閲を行っており、フェイス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35245323.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/22/ab48df27125fc491382be64cc4924492/t/768/511/d/gettyimages-2266659386.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
