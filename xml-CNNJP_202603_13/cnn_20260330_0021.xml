@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-03-29T18:07:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245773.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35245758.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245756.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35245754.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245753.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245752.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245751.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245750.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245749.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245748.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245747.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245745.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245743.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245741.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245737.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245684.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/design/35245686.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245687.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35245683.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245682.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245643.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245652.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35245626.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35245630.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245623.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245620.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35245561.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245611.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35245605.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35245596.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35245773.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T18:07:00+09:00</dc:date>
+        <title>イラン首都に激しい夜間爆撃、政府系メディアが映像公開</title>
+        <link>https://www.cnn.co.jp/world/35245773.html?ref=rss</link>
+        <description>イランの首都テヘランでは29日午前、各地で激しい爆撃が続き、複数の地域で爆発が発生した。
+
+
+  
+    
+      
+
+    
+    
+     イランの政府系メディアが投稿した映像。28日夜に行われたテヘラン西部の住宅街への攻撃後の様子を捉えたものとされている（Fars News/Telegram）  
+
+
+
+政府系のファルス通信は、市内でここ1時間の間に爆発が複数あったと伝えた。これに先立ち、28日夜から29日未明にかけての時間帯にも攻撃の波にさ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35245758.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T16:23:00+09:00</dc:date>
+        <title>内向的な犬が集合、目も合わさず微妙な雰囲気に　スウェーデン</title>
+        <link>https://www.cnn.co.jp/fringe/35245758.html?ref=rss</link>
+        <description>内向的な犬を１カ所に集める催しを開催したところ、犬たちはよそよそしい態度に終始し、お酒が入る前の職場のクリスマスパーティーよりも悪い雰囲気になった――。スウェーデンのドッグパークで2022年、そんな出来事があった。
+
+犬たちは互いに離れて座り、どの犬も目を合わさない。飼い主の１人からは、まるで「牛の牧場」のようだとの声が上がった。
+
+この様子をとらえたスウェーデン人カップルの映像が拡散した。撮影したソフ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35245758.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/cadefc24879f9f63553aae0e675e6b00/t/768/432/d/220712202050-introverted-dogs-moos-vpx-super-169.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245756.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T15:40:00+09:00</dc:date>
+        <title>米強襲揚陸艦トリポリ、中東に到着　兵士3500人乗艦</title>
+        <link>https://www.cnn.co.jp/usa/35245756.html?ref=rss</link>
+        <description>中東地域での米軍のプレゼンスを強化する形で、水兵と海兵隊員3500人を乗せた米海軍の強襲揚陸艦トリポリが同地域に到着した。
+
+中東では、イエメンの親イラン反政府武装組織フーシがイスラエルに向けてミサイルを発射したことで新たな戦線が開かれた。
+
+米中央軍によると、兵士3500人を乗せたトリポリが中東に到着した。国防総省は今後の対応を検討している。CNNは先に、海兵遠征部隊が中東に派遣されると報じていた。
+
+イエメ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245756.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/51defbedd6ef02c586ac7b8c6bd5d3ba/t/768/513/d/large-madp-3-iran-crisis-ship-usa.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35245754.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T15:17:00+09:00</dc:date>
+        <title>ウェッブ望遠鏡がとらえた謎の「小さな赤い点」、正体は天文学者にも分からず</title>
+        <link>https://www.cnn.co.jp/fringe/35245754.html?ref=rss</link>
+        <description>カメラで何かを写そうとしたところへ、だれか横から写り込んでくることがある。それと同じように、米航空宇宙局（NASA）のジェームズ・ウェッブ宇宙望遠鏡がこれまでに撮影した画像のほぼすべてに、いくつもの明るく、小さな赤い点（LRD）が写り込んでいた。その正体については、まだ定説がない。
+
+ウェッブ望遠鏡が4年前に稼働してから、この不可解な天体が画像に何百も現れ、そのなぞを解こうと何百件もの研究が始まっている...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35245754.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/29d9371acc8cb69b7c0e168393092eb9/t/768/511/d/stsci-01jfjznjsd2vr3v9me4rtrg2rd.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245753.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T14:26:00+09:00</dc:date>
+        <title>「王はいらない」　全米で抗議デモ、トランプ大統領の政策に反対</title>
+        <link>https://www.cnn.co.jp/usa/35245753.html?ref=rss</link>
+        <description>全米で28日、「ノー・キングス（王はいらない）」と名付けられた大規模な抗議デモが行われた。参加者は、トランプ米大統領の政策や生活費の高騰、イランとの戦争に反対して声を上げた。
+
+28日を通じて、共和党が強い州でも民主党が強い州でも、大都市や郊外、小さな町で人々が集まり、行進し、歌い、踊り、プラカードを掲げた。ロサンゼルスとニューヨークでは大規模なデモが行われた。ミネソタ州の集会では、ブルース・スプリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245753.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/52f15658724638db08c363bf16635e9f/t/768/512/d/large-gettyimages-2268308249a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245752.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T13:39:00+09:00</dc:date>
+        <title>中東にある米・イスラエルの大学が「標的」に、イラン精鋭部隊が警告</title>
+        <link>https://www.cnn.co.jp/world/35245752.html?ref=rss</link>
+        <description>イランの精鋭部隊「イスラム革命防衛隊（IRGC）」は、イラン国内の大学に対する最近の攻撃の報復として、中東地域にある米国系とイスラエル系の大学を標的にすると警告した。
+
+IRGCは29日の声明で、これらの教育機関は「二つの大学が攻撃されるまで、正当な標的と見なされる」と述べた。IRGCは、イラン首都テヘランにあるイラン科学技術大学などの教育機関が攻撃を受けたと主張した。
+
+IRGCは、地域内の米国系大学の構内から少...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245752.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/a469985b57d34d636e9245a2ad00c90a/t/768/483/d/large-ap24040706461632.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245751.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T13:21:00+09:00</dc:date>
+        <title>イラン戦争から離脱の米空母ジェラルド・フォード、修理が完了　クロアチアの港に到着</title>
+        <link>https://www.cnn.co.jp/usa/35245751.html?ref=rss</link>
+        <description>米海軍は28日、艦内で発生した火災の影響でイランとの戦争から離脱していた空母ジェラルド・R・フォードがクロアチアのスプリト港に停泊したと発表した。
+
+ジェラルド・フォードは今月12日に艦内の洗濯区画で火災が発生し、ギリシャのクレタ島にある米海軍基地で修理を受けていた。米軍の当時の説明では、この火災は戦闘とは無関係。火災の前は、イランに対する米軍の作戦に参加していた。
+
+ジェラルド・フォードは米海軍で最も...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245751.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/18d1ec5ab82871e0543886d4297c81f6/t/768/431/d/gettyimages-2268249502.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245750.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T12:59:00+09:00</dc:date>
+        <title>イラン、パキスタンの船20隻にホルムズ海峡の通行を許可</title>
+        <link>https://www.cnn.co.jp/world/35245750.html?ref=rss</link>
+        <description>イランは、パキスタン船籍の船舶20隻がホルムズ海峡を通過することを認めた。パキスタンのダール外相がX（旧ツイッター）への投稿で明らかにした。合意に基づき、1日に2隻ずつ同海峡を通過するという。
+
+ダール氏は「これはイランによる歓迎すべき建設的な対応であり、高く評価されるべきだ」と書き込んだ。「これは平和の兆しであり、地域の安定をもたらすだろう」
+
+パキスタンは、米国とイランの交渉で仲介役を務めている。パ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245750.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/838c3508b362ea4525ab5610a545900b/t/768/431/d/large-adp-3-iran-crisis-pakistan-navy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245749.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T12:22:00+09:00</dc:date>
+        <title>レバノンで記者3人が死亡、イスラエル軍が攻撃　ヒズボラ系メディアの記者も</title>
+        <link>https://www.cnn.co.jp/world/35245749.html?ref=rss</link>
+        <description>レバノンで、イスラエル軍の攻撃があり、記者3人が死亡した。死者の中にはレバノンの親イラン組織ヒズボラ系のメディア「マナル」で働くレバノン人記者も含まれる。
+
+マナルは、同局の記者アリ・シュアイブ氏が乗っていた車両がイスラエル軍の空爆を受けたと明らかにした。
+
+イスラエル軍は、シュアイブ氏について、「記者を装ったテロリスト」だとし、レバノン南部にいるイスラエル兵の居場所を明らかにしていたと非難した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245749.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/d1c3639e0b3216de5bd74b4b37458038/t/768/512/d/large-ap26087449842368.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245748.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T12:06:00+09:00</dc:date>
+        <title>原油高と制裁緩和で「漁夫の利」を得るロシア、ウクライナは石油産業への攻撃強化</title>
+        <link>https://www.cnn.co.jp/world/35245748.html?ref=rss</link>
+        <description>ロシアが原油高と一部制裁の解除による恩恵を受ける中、ウクライナ軍はロシアのエネルギーインフラへの攻撃を強化している。
+
+ウクライナのドローン（無人機）はここ1週間で、複数のロシアの製油所や輸出ターミナルを攻撃した。昨年夏に開始したロシアの主要収入源を狙う作戦を加速させている。
+
+中東での戦争と原油価格急騰はクレムリン（ロシア大統領府）に思わぬ利益をもたらしており、ウクライナはロシアのエネルギー生産能...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245748.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/aa5200cc5f357f936f87de971ba30fe5/t/768/448/d/02-after-attack-overview-of-oil-terminal-fire-ust-luga-russia-27march2026-ge1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245747.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T11:27:00+09:00</dc:date>
+        <title>ウクライナ、カタールと防衛協定　ドローン戦の知見を共有</title>
+        <link>https://www.cnn.co.jp/world/35245747.html?ref=rss</link>
+        <description>ウクライナは28日、カタールと新たな防衛協定を締結した。湾岸諸国はドローン（無人機）との戦闘で培ったウクライナ政府の知見を活用しようとしている。27日にはサウジアラビアとも同様の協定を結んでいた。
+
+カタール外務省の声明によると、今回の協定には「技術分野での協力、共同プロジェクトの開発、防衛投資、ミサイルや無人機システムへの対処に関する専門知識の交換」が盛り込まれている。
+
+ウクライナのゼレンスキー大...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245747.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/d904d22f1c91b7a71313ffcb41ae335d/t/768/512/d/large-rmadp-3-security-munich-zelenskiy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245745.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T10:57:00+09:00</dc:date>
+        <title>イラン大統領、パキスタン首相に謝意　米との協議で仲介役</title>
+        <link>https://www.cnn.co.jp/world/35245745.html?ref=rss</link>
+        <description>イランのペゼシュキアン大統領は、戦争終結に向けた協議が続く中、パキスタンのシャリフ首相に謝意を伝えた。パキスタンは、イランと米国の間で仲介役を続けている。
+
+大統領府の声明によると、ペゼシュキアン氏はシャリフ氏との電話会談で、「パキスタンのイスラム教徒の人たちがイランに示してくれた支持と連帯」に感謝した。
+
+米国とイスラエルによる戦争を終わらせるための協議は続いており、パキスタンは、関係国との間で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245745.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/bcf3ccd9b5dc35af25fd57a99c44afd2/t/768/512/d/large-adp-3-iran-crisis-trump-leaders.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245743.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T10:17:00+09:00</dc:date>
+        <title>イスラエル、核施設に攻撃　イランは報復を示唆</title>
+        <link>https://www.cnn.co.jp/world/35245743.html?ref=rss</link>
+        <description>イスラエルは、イランへの攻撃を「激化、拡大する」と警告した後、イランの核施設や工業施設に対して大規模な攻撃を開始した。外交努力が続く中でも、双方とも自制する様子をほとんど見せていない。
+
+国際原子力機関（IAEA）によると、イスラエルは27日夜、イラン南西部フゼスタン州にある放射性物質を扱う製鉄所を含む2カ所の製鉄所を攻撃した。プルトニウム生産の重要施設があるアラクの重水炉も攻撃を受けた。IAEAは、放射線...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245741.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T09:43:00+09:00</dc:date>
+        <title>イランの攻撃受けたサウジ空軍基地、立ち上る煙を衛星画像で確認　米兵10人が負傷</title>
+        <link>https://www.cnn.co.jp/world/35245741.html?ref=rss</link>
+        <description>サウジアラビアのプリンス・スルタン空軍基地から煙が立ち上る様子が人工衛星画像で確認された。米当局者によると、この施設に対するイランの攻撃では米軍要員少なくとも10人が負傷したとされる。
+
+別の米当局者によると、死亡した要員はいないが、少なくとも2人が破片で命に別条のないけがを負った。ほかにも数人の要員が「影響を受けた」という。
+
+最初の当局者は、空中給油機が損傷したことも明らかにした。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245741.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/5d4b75780b940ba7cc671683321780ee/t/768/576/d/princesultanairbase-landsat9-2026-march-27.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245737.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-29T09:05:00+09:00</dc:date>
+        <title>親イラン組織フーシの参戦、海運に新たな脅威の可能性</title>
+        <link>https://www.cnn.co.jp/world/35245737.html?ref=rss</link>
+        <description>イエメンの親イラン反政府武装組織フーシが中東での紛争に加わったことで、中東地域での石油輸出や海運はさらに大きな危険にさらされるおそれがある。
+
+ホルムズ海峡は、この1カ月にわたって事実上閉鎖されている。フーシは、紅海とインド洋を結ぶもう一つの重要な海上の要衝であるバブルマンデブ海峡を脅かす可能性がある。
+
+バブルマンデブ海峡は、航行の難しさから「涙の門」とも呼ばれ、最も狭い地点の幅は29キロ。
+
+米エネ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245737.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/29/dd2a6d63024a181182152e6df2f78a7e/t/768/474/d/large-gettyimages-1016079374.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245684.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-28T19:30:00+09:00</dc:date>
+        <title>ホルムズ海峡の鍵を握る七つの島々、カーグ島より重要になる可能性も</title>
+        <link>https://www.cnn.co.jp/world/35245684.html?ref=rss</link>
+        <description>数千人規模の米地上部隊が中東へ向かっているとの報道が流れる中、彼らがイラン沖のカーグ島を奪取する任務に就くのではないかという臆測が高まっている。同島はペルシャ湾北部の主要な燃料拠点であり、イランの石油輸出の90％を扱う。
+
+しかし、カーグ島はペルシャ湾に点在する数十のイラン領島の一つに過ぎず、ホルムズ海峡を通る船舶や海軍艦艇の安全な航行を確保する上では、他の島々の方が重要になる可能性がある。
+
+これ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245684.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/28/29d196642a65cbc13e9cf9a85a63cf23/t/768/512/d/iran-nuclear-hormuz-strait.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/design/35245686.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-28T17:12:00+09:00</dc:date>
+        <title>「大いなる謎」、アマチュア考古学者が発掘したローマ時代の遺物</title>
+        <link>https://www.cnn.co.jp/style/design/35245686.html?ref=rss</link>
+        <description>英イングランドのアマチュア考古学者らが3年前、ローマ時代に作られた12面体を発掘した。この種の遺物で最も大きい物の一つとされるが、何に使われていたのかは謎に包まれている。
+
+ローマ帝国支配下のブリテン島で存在が確認されている12面体は、これを含めてわずか33個。世界では約130個となっている。イングランドのリンカンシャー地域を拠点とするノートン・ディズニー歴史考古学グループによれば、これらの12面体は「考古...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/design/35245686.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/04/30/f33cee79af976f1cc75268feaad6c7f7/t/768/540/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHZrd3kxbWgwMDBsM2I2amtwZjhzN2ww-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nsdmt3dmt2MzAwMHAxbXAzN3RiejlxZ3Q=.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245687.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-28T17:09:00+09:00</dc:date>
+        <title>イエメンのフーシ、イスラエルに向けてミサイル発射　イラン戦争への参加を表明</title>
+        <link>https://www.cnn.co.jp/world/35245687.html?ref=rss</link>
+        <description>イランを後ろ盾とするイエメンの反政府武装組織フーシは28日、イスラエルに向けて弾道ミサイルを発射したと発表し、同国との戦争への参加を表明した。
+
+声明の中でフーシは「イエメン軍は、全能のアッラーの助けとアッラーへの信頼のもと、弾道ミサイルの一斉射撃による初の軍事作戦を実行した。占領下のパレスチナ南部にあるイスラエルの重要軍事施設を標的とした」と述べた。
+
+イスラエル国防軍はこれに先立ち、イエメンから...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245687.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/28/81fcee1315b2d84a45d0bd7fe6dd4518/t/768/512/d/2026-03-27t133040z-1944767079-rc20dkasles5-rtrmadp-3-ran-crisis-yemen-houthis.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35245683.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-28T15:24:00+09:00</dc:date>
+        <title>オオカミ同士が殺し合い、群れの全頭を安楽死させる結果に　英野生動物公園</title>
+        <link>https://www.cnn.co.jp/fringe/35245683.html?ref=rss</link>
+        <description>英イングランド南東部にある野生動物公園でこのほど、オオカミの群れの力関係が崩れて争いが激化したため、群れ全体を安楽死させる出来事があった。
+
+野生動物公園「ワイルドウッド・トラスト」が27日の声明でCNNに明らかにしたところによると、争いが激しさを増す中で3頭が命に関わるけがを負い、群れの5頭すべてが殺処分となった。
+
+この野生動物公園はカンタベリー郊外に位置する。他の介入方法では争いを止められず、経験豊...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35245683.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/28/1de45d45a48e9eef19dba3b1ce3fe578/t/768/511/d/01kmq1rrn5030e85m19508c7hj.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245682.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-28T14:42:00+09:00</dc:date>
+        <title>イスラエル、イエメンからのミサイル発射を発表　イラン戦争開始以来初めて</title>
+        <link>https://www.cnn.co.jp/world/35245682.html?ref=rss</link>
+        <description>イスラエル軍は28日未明、イエメンからイスラエルに向けて発射されたミサイルを探知したと発表した。現在迎撃を行っているという。
+
+米国・イスラエルとイランとの戦争が4週間前に始まって以降、イスラエル当局がイエメンからのミサイル発射を確認したのは初めて。
+
+​​イランを後ろ盾とするイエメンの反政府武装組織フーシの幹部はこれに先立ち、CNNに対し、米国とイスラエルが攻撃を激化させた場合、イランを支援するために戦...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245643.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-28T14:00:00+09:00</dc:date>
+        <title>イスラエル兵が口にする入植者のイデオロギー、拘束したCNN取材班にパレスチナ人への復讐説く　ヨルダン川西岸</title>
+        <link>https://www.cnn.co.jp/world/35245643.html?ref=rss</link>
+        <description>イスラエル人入植者がパレスチナ人数人を残忍に襲撃し、彼らの村に違法な「前哨地」を新たに設置してから12時間後、イスラエル軍が介入に乗り出した。
+
+しかし兵士たちは入植者を拘束したり、違法な前哨地を撤去したりはせず、タヤシル村のパレスチナ人住民と、この侵入を取材していたCNNの取材班に狙いを定めた。
+
+「止まれ！　座れ！　座れ！」。イスラエル兵の一人が叫び、我々と、我々が話していたパレスチナ人にライフルを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245643.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/28/9e3eff67afba2b8c605fcb9e692d4dfd/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW45YmZvazEwMDAxM2I2cXN4OHRkMnJ0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntbjk5dzRsbTAwMHkyY3AxNGZyNzZyajI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245652.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-28T12:30:00+09:00</dc:date>
+        <title>サウジ空軍基地にイランの攻撃、米兵10人負傷　開戦以降の負傷者は300人超える</title>
+        <link>https://www.cnn.co.jp/world/35245652.html?ref=rss</link>
+        <description>サウジアラビアのプリンス・スルタン空軍基地にイランの攻撃があり、米兵少なくとも10人が負傷したことが分かった。米当局者がCNNに明らかにした。米軍要員の死者は出ていない。
+
+負傷者のうち少なくとも2人は破片による傷を負ったものの、命に別条はない。別の米当局者は、ほかにも複数の米兵が「影響を受けた」と明らかにしたが、兵士たちの身に何が起きたのかは現時点で不明だとしている。
+
+1人目の当局者は、空中給油機が損...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35245652.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/28/0f0f076c94f4ba7204d384ea2e485861/t/768/511/d/2026-02-27t170241z-1159172097-rc2fuja94hwi-rtrmadp-3-iran-crisis-saudi-airbase.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35245626.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-28T11:14:00+09:00</dc:date>
+        <title>タイガー・ウッズさんが自動車事故、飲酒運転の疑いで逮捕され勾留　米フロリダ州</title>
+        <link>https://www.cnn.co.jp/showbiz/35245626.html?ref=rss</link>
+        <description>ゴルフ界のスーパースター、タイガー・ウッズさんが27日、飲酒・薬物の影響下で車を運転した容疑で逮捕され、勾留されたことが分かった。フロリダ州マーティン郡のジョン・ブデンシーク保安官が発表した。
+
+ブデンシーク氏によると、ウッズさんはランドローバーを運転中に小型トレーラーを牽引（けんいん）していたピックアップトラックに接触した。この衝突でウッズさんのランドローバーは横転した。
+
+警察が現場に到着した際...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35245626.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/28/311e1201abbabedbe118de14b19eaf3c/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW45YXdpbmMwMDBjM2I2cWlxZ2E4d201-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbjlhdDN5cDAwMHkyNnAwZXY0YWVybDM_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35245630.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-28T11:02:00+09:00</dc:date>
+        <title>イエメンのフーシ、CNNにイラン戦争参加を示唆　事態がさらにエスカレートすれば</title>
+        <link>https://www.cnn.co.jp/world/35245630.html?ref=rss</link>
+        <description>イランを後ろ盾とするイエメンの反政府武装組織フーシの関係者はCNNに対し、米イスラエルが攻撃をエスカレートさせた場合、イランを支援して戦争に加わる用意があると表明した。
+
+フーシはこれまで、バブルマンデブ海峡の海運を妨害しており、同海峡や紅海の商船を攻撃して貿易に混乱をもたらしてきた。一部の専門家の間では、今回の戦争への参加を予想する見方もあったが、今のところイランを支援して参戦するには至っていない...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245623.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-28T09:41:00+09:00</dc:date>
+        <title>米空母ジョージ・H・W・ブッシュ、イランとの戦域に近い海域へ配備の見通し</title>
+        <link>https://www.cnn.co.jp/usa/35245623.html?ref=rss</link>
+        <description>米空母ジョージ・H・W・ブッシュが、イランとの紛争が続く地域に近い海域へ展開する見通しであることが分かった。事情に詳しい情報筋が明らかにした。
+
+情報筋によれば、同空母は中東を含む米中央軍の管轄区域に向かうという。
+
+同空母が既に同区域に展開する空母2隻に合流するのか、あるいは交代するのかは不明。2隻はここ数週間、イランに対する戦闘作戦に参加している。
+
+トランプ大統領は最近、紛争を激化させる公算が大き...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245623.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/28/f67f9eb8e50bd8068d6b66908534c89a/t/768/432/d/230331135338-uss-george-h-w-bush.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245620.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-28T09:04:00+09:00</dc:date>
+        <title>トランプ氏、ホルムズ海峡を「トランプ海峡」と呼ぶ　海峡再開を改めて要求</title>
+        <link>https://www.cnn.co.jp/usa/35245620.html?ref=rss</link>
+        <description>トランプ米大統領が27日にフロリダ州マイアミビーチで行った演説中、ホルムズ海峡を「トランプ海峡」と呼ぶ場面があった。
+
+トランプ氏は聴衆を前に「彼らはこれ、トランプ海峡を開く必要がある。私が言っているのは、ホルムズ海峡のことだ」と発言した。
+
+そのうえで、冗談めかして「失礼、申し訳ない。ひどい間違いだ」とコメント。「フェイクニュースは『うっかり発言した』と報じるだろうが、私に限ってうっかりはない。あ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245620.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/28/e8e0ebc2371b808dcbc21631522e5fae/t/768/510/d/gettyimages-2268148551a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35245561.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-27T17:00:00+09:00</dc:date>
+        <title>新たに発見された「地獄のサギ」、スピノサウルスめぐる長年の論争に新たな証拠</title>
+        <link>https://www.cnn.co.jp/fringe/35245561.html?ref=rss</link>
+        <description>約9500万年前に生息していた新種のスピノサウルスがニジェールで発見され、頭骨とあごの化石から、頭頂部に大きな骨のとさかを持っていたことが分かった。この生物は「スピノサウルス・ミラビリス」と命名され、スピノサウルス属では100年以上ぶりに特定された新種となる。
+
+先月19日に科学誌「サイエンス」に掲載された研究によれば、この先史時代の生物は、背中に帆のような構造を持つ巨大な魚食恐竜「スピノサウルス・エジプ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35245561.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/26/528ecb740f7bc41304ce05b9ff57ee42/t/430/432/d/10-single-spinosaurus-mirabilis-with-coelacanth-rfs-dnavarro-20260318223823263.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245611.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-27T16:42:00+09:00</dc:date>
+        <title>母親殺害の未解決事件、家族の執念で52年後に容疑者特定　米</title>
+        <link>https://www.cnn.co.jp/usa/35245611.html?ref=rss</link>
+        <description>マーラ・ウォルドマン・コンさんは家族旅行で訪れた米ミズーリ州オザーク湖のプールサイドでくつろいでいたとき、ニューヨークの捜査員から電話を受けた。そして何十年も待ちわびていた言葉を耳にした。「一致した」。
+
+その知らせは、1974年1月11日にニューヨーク州ロングアイランドの自宅で殺害されたマーラさんの母バーバラさんの殺人事件に関するものだった。50年を経て、警察は犯行現場のDNAが、同時期に近所に住んでいた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245611.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/27/44b21eb9c66db8b9ba6a6cf365ea21ca/t/768/614/d/img-2203-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35245605.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-27T16:05:00+09:00</dc:date>
+        <title>トランプ米大統領の署名、まもなくドル紙幣に掲載へ　現職大統領としては初</title>
+        <link>https://www.cnn.co.jp/usa/35245605.html?ref=rss</link>
+        <description>米財務省は26日、トランプ大統領の署名が今後発行される紙幣に掲載されると発表した。これはトランプ氏が自らの足跡を連邦政府に残そうとする最新の動きとなる。
+
+現職の米国大統領の署名が紙幣に掲載されるのは今回が初めて。ベッセント財務長官は、この措置は米国の建国250周年を記念するものだと述べた。
+
+「偉大な我が国とドナルド・J・トランプ大統領の歴史的功績を称賛するのに、彼の名前が記された米ドル紙幣を出すこと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35245605.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/27/9c24d59340e86fe9fb4fa5638db0e138/t/768/512/d/c-2026-03-26t213710z-1264420104-rc2kcka1jg8t-rtrmadp-3-usa-trump-currency.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35245596.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-03-27T14:50:00+09:00</dc:date>
+        <title>単なるスポーツを超えた日本の野球、MLBの日本人スター選手たちが背負う重圧とは</title>
+        <link>https://www.cnn.co.jp/showbiz/35245596.html?ref=rss</link>
+        <description>日本の野球は、礼に始まり礼に終わる。棚原安子さんはそう話す。
+
+これはチームメートや対戦相手、審判、そして観客に敬意を表す行為であると同時に、野球が日本の文化にもたらす意義への賛同とみなすこともできる。日本は米国の国民的娯楽である野球を、単なるスポーツ以上のものとして受け入れてきた。
+
+大阪で長年子どもたちに野球を指導している棚原さんだが、教えているのはゴロの処理や有効なバッティング方法だけではな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35245596.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/27/467735066739c7bb8faeb65f978db9a4/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW40em44cTEwMDBmM2I2cG9ieHdqbG51-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbjRzZzBmdzAwMncyNnFyZzhmdjJqaWc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
