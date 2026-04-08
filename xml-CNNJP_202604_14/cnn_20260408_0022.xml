@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-04-08T08:39:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246145.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246140.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246130.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246132.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246124.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246117.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246119.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246110.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246105.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246111.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246102.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246106.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246101.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246099.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246085.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246083.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246080.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246078.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246076.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246072.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246068.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246066.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246065.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35246061.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246064.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246063.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246060.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246058.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246057.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246145.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T08:39:00+09:00</dc:date>
+        <title>トランプ氏、イランとの2週間の停戦に同意　ホルムズ海峡再開を条件に</title>
+        <link>https://www.cnn.co.jp/usa/35246145.html?ref=rss</link>
+        <description>トランプ米大統領は7日、「文明全体」を破壊すると予告していた午後8時（日本時間8日午前9時）の期限まで2時間を切る中、イランとの2週間の停戦に同意したことを明らかにした。
+
+トランプ氏によれば、停戦合意はホルムズ海峡再開にイランが同意することを条件になされた。
+
+トランプ氏はSNSトゥルース・ソーシャルに「パキスタンのシャリフ首相およびムニール元帥と協議したところ、彼らから今夜イランに向け送り出されている破...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246145.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/3a015e1e218f94ecefbabdb82faf7855/t/768/511/d/ap26096678051341.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246140.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T20:00:00+09:00</dc:date>
+        <title>【分析】イランを一夜で「壊滅」できるのか　いくつかの数字から検証</title>
+        <link>https://www.cnn.co.jp/world/35246140.html?ref=rss</link>
+        <description>イラン全土を一晩で「壊滅」させられるとのトランプ米大統領の主張は、米国並びにイスラエルが実際に保有する戦力と整合しない。ある軍事アナリストが明らかにした。
+
+筆者はオーストラリア空軍の元将校で、現在はグリフィス・アジア研究所の研究員を務めるピーター・レイトン氏に見解を尋ねた。米国とイスラエルはどのような戦力を動員すれば、24時間以内にイランの発電所や橋梁（きょうりょう）を破壊することができるのか。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246140.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/02e10eabd6c84c3ca1895ff2fcdd4d63/t/768/512/d/iran-crisis-usa.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T19:00:00+09:00</dc:date>
+        <title>米軍のF15戦闘機、撃墜したのは肩撃ち式ミサイル　トランプ氏が発表</title>
+        <link>https://www.cnn.co.jp/world/35246137.html?ref=rss</link>
+        <description>週末にイラン上空で撃墜された米空軍のF15E戦闘機は、肩で支える装置から発射される赤外線誘導ミサイルによって撃ち落とされた。トランプ米大統領が6日、ホワイトハウスで明らかにした。
+
+「これは手で支えて肩から発射する形式の赤外線誘導ミサイルだった。運もあったが、彼らが発射したミサイルはエンジンのすぐそばに吸い込まれた」と、トランプ氏は語った。
+
+敵の攻撃によって米軍のF15が撃墜されたのは今回が初めて。この...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/172bbf1faba3e7414647170a66693dc1/t/768/575/d/gettyimages-2269315049.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246130.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T18:20:00+09:00</dc:date>
+        <title>イランの発電所や橋を爆撃、トランプ氏の脅しについて知っておくべきこと　戦争犯罪となる可能性は</title>
+        <link>https://www.cnn.co.jp/world/35246130.html?ref=rss</link>
+        <description>米国のトランプ大統領が設定した期限が刻一刻と迫ってくる。イランが期限までに合意に達してホルムズ海峡を開放しなければ、同国は激しい爆撃を受けて「地獄」を味わうことになる。トランプ氏はそう脅迫している。
+
+トランプ氏は、合意の期限を7日午後8時（米国東部時間、テヘラン時間8日午前3時30分）と定めた。しかしここ数週間は同様の最後通牒（つうちょう）を何度か突きつけ、その都度期限を延期する行動を繰り返してきた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246130.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/59d4b574752d7db5f7f2951b0389aaf8/t/768/512/d/iran-crisis-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246132.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T15:36:00+09:00</dc:date>
+        <title>【分析】トランプ氏に投票した有権者の「後悔」、今になって顕著に</title>
+        <link>https://www.cnn.co.jp/usa/35246132.html?ref=rss</link>
+        <description>イランとの戦争のさなかにトランプ米大統領の支持率が過去最低水準まで落ち込む中、長らく予想されていた現象の裏付けとなる確たる証拠が示されている。トランプ氏に投票したことを後悔する有権者の存在だ。
+
+かなりの数のトランプ氏支持者はしばらくの間、懸念を抱いてはいたが、ここ数週間での一連の世論調査は、その懸念がより深刻なものへと傾きつつあることを示している。
+
+マサチューセッツ大学アマースト校とユーガブの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246132.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/9165d14aec639597fcc418a55008d66a/t/768/512/d/gettyimages-2182349110a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246124.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T14:55:00+09:00</dc:date>
+        <title>イラン高官、若者たちに発電所囲む「人間の鎖」呼び掛け　トランプ氏の脅迫受け</title>
+        <link>https://www.cnn.co.jp/world/35246124.html?ref=rss</link>
+        <description>イランの青年・スポーツ省のアリレザ・ラヒミ次官は若者たちに向けて、国内の発電所を囲む「人間の鎖」を作るよう呼び掛けた。これより前、トランプ米大統領はイランがホルムズ海峡を再開しなければ公共インフラを爆撃すると脅迫していた。
+
+ラヒミ氏はX（旧ツイッター）への投稿で、「すべての若者、文化芸術家、アスリート、そしてチャンピオンたちを、全国キャンペーンの『明るい未来に向けたイラン青年の人間の鎖』に招待す...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246117.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T13:42:00+09:00</dc:date>
+        <title>ハイチのギャング組織、半数は子どもで構成　派遣される外国部隊と対峙も</title>
+        <link>https://www.cnn.co.jp/world/35246117.html?ref=rss</link>
+        <description>ハイチに新たな多国籍軍が集結する中、これら外国人の警察官や兵士たちは、間もなく数百人の子どもたちと対峙（たいじ）することになるかもしれない。
+
+専門家の推計によると、ハイチの武装集団の約50％は子どもたちで構成されている。国連事務総長が発表した子どもと武力紛争に関する最新の報告書によると、2024年だけでも、首都ポルトープランス全域で少なくとも302人の子どもがギャングに「徴募され、利用された」。そのほと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246117.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/2749afb641b20149575ae04617d6abf8/t/768/512/d/ap26075662597267.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246119.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T12:39:00+09:00</dc:date>
+        <title>受動的に画面を見続けると認知症リスクが上昇する可能性　座ったままでも脳の健康を保つ秘訣は</title>
+        <link>https://www.cnn.co.jp/fringe/35246119.html?ref=rss</link>
+        <description>座っている時間の長さだけでなく、座りながら何をしているかが健康に影響を与える可能性がある。そうした事実が新たな研究で明らかになった。
+
+研究によると、座ったままでのテレビ視聴など「精神的に受動的な」行動は認知症の発症リスクの上昇と関連している一方、クロスワードパズルなどの精神的に能動的な活動はある程度の予防効果をもたらす可能性があるという。
+
+この研究結果は、脳の健康と老化に関する知識に新たな示唆...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246119.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/94d43e43efadc5e42bfbc7c8fad2707f/t/768/432/d/gettyimages-1270285125.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246110.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T11:34:00+09:00</dc:date>
+        <title>派遣された外国部隊による性的虐待事案を調査、国連が詳細報告　ハイチ</title>
+        <link>https://www.cnn.co.jp/world/35246110.html?ref=rss</link>
+        <description>ギャングの暴力が蔓延（まんえん）するハイチの状況に対処するためケニアが主導し、米国が支援する軍事ミッション、多国籍治安支援（MSS）部隊について、隊員が関与したとされる4件の性的虐待事件に対する調査が行われた。国連が先ごろ発表した報告書で調査結果を詳述している。そのうち1件は12歳の子どもが被害に遭っているという。
+
+報告書によれば国連は昨年、ハイチにおけるMSSの隊員による性的搾取および虐待の申し立てを4...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246110.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/455f4f9edd86a12663190ad52cb89e93/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW5qNDlydDMwMDBuM2I2cWIyb29sZWp4-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbmozY21wNTAwMHkyOHA5Mjg0OTJvNWo_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246105.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T10:51:00+09:00</dc:date>
+        <title>トランプ氏の精神衛生状態に疑問の声、口汚すぎるSNS投稿めぐり</title>
+        <link>https://www.cnn.co.jp/usa/35246105.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領が口汚い罵（ののし）り言葉を連発してイランを恫喝（どうかつ）したSNSの投稿をめぐり、大統領は精神衛生状態の検査を受けるべきだと批判する声が噴出している。本人は6日の記者会見でそうした批判を一蹴した。
+
+トランプ大統領はイースターの5日、SNSへの投稿で、イランを「crazy bastards（狂った野郎ども）」呼ばわりして発電所やインフラを破壊すると威嚇。下品な放送禁止用語も使ってホル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246105.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/59d4b574752d7db5f7f2951b0389aaf8/t/768/512/d/iran-crisis-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246111.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T10:18:00+09:00</dc:date>
+        <title>子どもや女性ら数百人が米とイスラエルの攻撃で死亡、数千人負傷　イラン保健省</title>
+        <link>https://www.cnn.co.jp/world/35246111.html?ref=rss</link>
+        <description>イラン保健省は6日、今回の戦争が始まって以来、米国とイスラエルの攻撃によってイラン全土で何百人もの女性や子どもが死亡したと発表した。
+
+保健省によると、死亡した18歳未満の子どもは220人、負傷した子どもは1959人に上る。死者のうち18人は5歳未満、負傷者のうち70人は2歳未満だった。
+
+女性は少なくとも254人が死亡し、4830人が負傷した。
+
+イランの医療体制にも大きな影響が出ている。「481人が入院し、2万8918人は外来...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246111.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/34fee5801d8408c69933828960b8b52c/t/768/512/d/gettyimages-2269561718.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246102.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T09:54:00+09:00</dc:date>
+        <title>アルテミス2の有人宇宙船、地球から最遠に到達　アポロ13号の記録を更新</title>
+        <link>https://www.cnn.co.jp/fringe/35246102.html?ref=rss</link>
+        <description>月を目指す米航空宇宙局（NASA）の「アルテミス2」ミッションの宇宙船は6日、アポロ13号が打ち立てた1970年の記録を破り、人類として地球から最も離れた距離に到達した。
+
+宇宙船「オリオン」は米東部時間の6日午後1時56分、地球から約40万171キロの地点を通過してアポロ13号の記録を更新。同午後7時7分には約40万6778キロの地点に達し、アポロの記録を約6600キロ上回る見通し。
+
+オリオンは7時間かけて月を周回する予定で、月...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246102.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/b6eec846cef318b2bc517056a25d5354/t/768/512/d/as13-60-8675-orig.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246106.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T09:39:00+09:00</dc:date>
+        <title>イラン高官、トランプ氏は戦争に対する「制御を失っている」</title>
+        <link>https://www.cnn.co.jp/world/35246106.html?ref=rss</link>
+        <description>トランプ米大統領の6日の発言を受け、イランの安全保障関係の高官は、同国がトランプ氏に戦略的敗北をもたらしたと述べた。イラン国民に向けたトランプ氏の激化する発言は紛争に対する制御を失っていることを反映しているとしている。
+
+「（イスラエルの）ネタニヤフ首相と連携したイスファハン南部でのトランプ氏の軍事的失敗は戦略的な失敗であり、イラン国民に対する侮辱や攻撃的な言葉遣いが増えていることは、彼が戦争の管...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246101.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T08:52:00+09:00</dc:date>
+        <title>トランプ氏、情報漏らした「記者を収監」と威嚇　米空軍兵救出の報道巡り</title>
+        <link>https://www.cnn.co.jp/usa/35246101.html?ref=rss</link>
+        <description>トランプ米大統領は6日、イラン領内で撃墜された米空軍戦闘機の乗員2人目が行方不明であるとの3日の初期報道を巡り、情報を「漏洩（ろうえい）」した記者を収監すると威嚇した。
+
+トランプ氏は記者会見で、情報漏洩によりイランでの軍事救出作戦が困難になったと述べた。米当局者らは、3日に1人目の乗員が救出された後、この件を公にしないよう努めていたという。
+
+トランプ氏は、救出作戦について説明する中で、「我々はそれを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246101.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/8ffdf8c4bc41056a6db7b4bfab2ea0d1/t/768/512/d/2026-04-06t181852z-654743084-rc2ujka5hy6l-rtrmadp-3-iran-crisis-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246099.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T08:24:00+09:00</dc:date>
+        <title>トランプ氏が会見、イランは一夜で「壊滅」可能　同盟国批判も</title>
+        <link>https://www.cnn.co.jp/usa/35246099.html?ref=rss</link>
+        <description>トランプ米大統領は6日の記者会見で、イランを一夜にして「壊滅」させることも可能だと述べ、それは7日夜かもしれないと語った。
+
+「国全体を一夜で壊滅させることもできる。その夜は明日の夜になるかもしれない」と述べた。
+
+トランプ氏はこれまで繰り返し、イランが合意に応じない、あるいは重要な石油輸送路であるホルムズ海峡を再開しない場合、米国はイランの発電所や橋、その他のインフラを攻撃する可能性があると警告し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246099.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/a6777161bda803b3154a9b45262723f8/t/768/512/d/gettyimages-2270093730.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246085.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-06T16:00:00+09:00</dc:date>
+        <title>各国のイラン大使館、トランプ氏の脅しに相次ぎ皮肉で対抗　「しっかりしろ、じいさん」</title>
+        <link>https://www.cnn.co.jp/world/35246085.html?ref=rss</link>
+        <description>ホルムズ海峡をめぐってトランプ米大統領がイランに対し品のない言葉を交えた警告を発したことを受け、世界各地のイラン大使館がX（旧ツイッター）で皮肉まじりの批判的な反応を展開した。
+
+トランプ氏は5日午前、SNS「トゥルース・ソーシャル」に「7日はイランで発電所の日となり、橋の日となる。すべて一度に実行される。前代未聞の事態になる！！！　くそ海峡を開け、ろくでなし。さもなければ地獄で生きることになるぞ。よ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246085.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/06/0ca225dfe0ad707c5a24fa1494425833/t/768/545/d/2026-01-13t152519z-295025387-rc2e0javy62v-rtrmadp-3-iran-economy-protests-britain.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246083.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-06T14:20:00+09:00</dc:date>
+        <title>撃墜された米戦闘機乗員救出現場周辺の道を精密に破壊した痕跡　衛星画像で明らかに</title>
+        <link>https://www.cnn.co.jp/world/35246083.html?ref=rss</link>
+        <description>米軍の戦闘機F15E「ストライクイーグル」が撃墜され行方不明になっていた2人目の乗員が5日に救出された地域周辺の道路沿いに複数のくぼみができている。エアバスが新たに公開した衛星画像で明らかになった。
+
+衛星画像には、イラン中部イスファハン州の複数の道路沿いに少なくとも18個のくぼみが写っている。これらは、米軍が損傷を受けた自軍機を破壊した辺境地の飛行場から約20キロ離れた場所にある。
+
+  
+  
+道路の幅をちょ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246083.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/06/a2c21d5ce4d5b63220d099095c5f3fa1/t/768/412/d/c-f-15-crash-bombed-road-b-airbus-2025-april-5.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246080.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-06T13:01:00+09:00</dc:date>
+        <title>戦闘機F15E墜落現場に円形のくぼみ　衛星画像で確認</title>
+        <link>https://www.cnn.co.jp/world/35246080.html?ref=rss</link>
+        <description>新たに公開された衛星画像には、3日にイラン中部で米軍のF15E「ストライクイーグル」の残骸が発見されたのと同じ場所に、円形のくぼみが写っている。
+
+エアバス社が公開したこの衛星画像は5日に撮影されたもの。くぼみの付近には白い車両2台が写っている。また、そばに数人が立っている様子も確認できる。CNNの分析によると、くぼみの直径は約12メートル。
+
+くぼみができた原因は不明だが、機密機器が敵の手に渡るのを防ぐため...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246080.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/06/736780fd0a6355da0c2baaf9340ba890/t/768/522/d/c-img-pneo4-std-2026040507281.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246078.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-06T12:08:00+09:00</dc:date>
+        <title>ロシアのガス輸送パイプライン付近で爆弾発見、セルビアとハンガリーの国境付近</title>
+        <link>https://www.cnn.co.jp/world/35246078.html?ref=rss</link>
+        <description>セルビアのアレクサンダル・ブチッチ大統領は5日、ロシア産のガスを輸送するパイプラインの近くで爆発物の入ったバックパック2個が見つかったと発表した。
+
+発見場所はハンガリーとの国境付近。両国ともエネルギー供給はロシアへの依存が大きく、ロシア依存を減らそうとする他の欧州諸国とは立場が異なる。
+
+ブチッチ大統領によると、バックパックには「起爆装置の付いた大型の爆弾2個」が入っていた。発見場所はセルビア北部の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246078.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/06/855ad02acd1ae5700618c90b07b50913/t/768/512/d/2025-10-09t131354z-364960432-rc2b8ha0q4he-rtrmadp-3-us-sanctions-serbia-nis-vucic.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246076.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-06T11:24:00+09:00</dc:date>
+        <title>イランで撃墜された米軍機、高山に潜伏した乗員の発見に総力を賭けた米軍とCIAの救出作戦</title>
+        <link>https://www.cnn.co.jp/usa/35246076.html?ref=rss</link>
+        <description>敵の前線の背後で切り立った岩の裂け目にひとりで身を隠した米軍士官。負傷しながらも、やるべきことは分かっていた。生き延びて、敵の捜索をかわすこと。
+
+搭乗していた米軍の戦闘機F15E「ストライク・イーグル」がイラン上空で撃墜されてから1日以上、兵装システム士官（WSO）は森林に潜んでイラン軍の追跡をかわし続けた。切り立った崖をよじ登り、標高2000メートルを超す尾根に到達したときもあった。所持していたのは拳銃...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246076.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/05/cedf0a23db921f5358ccd96f2e1d012f/t/768/432/d/20260403-f15-jet-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246072.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-06T10:29:00+09:00</dc:date>
+        <title>イラン国会議長、トランプ氏は米国を「生き地獄」に引きずり込んでいる</title>
+        <link>https://www.cnn.co.jp/world/35246072.html?ref=rss</link>
+        <description>イランのガリバフ国会議長は、トランプ米大統領が米国を「生き地獄」に向かわせていると非難し、中東地域が「炎上する」可能性があると警告した。イランが米国と合意しホルムズ海峡を再開するまでの期限をめぐりトランプ氏が改めて脅しを強めたことに反応した形だ。
+
+ガリバフ氏は5日、英語でX（旧ツイッター）に「あなたの無謀な行動は、すべての米国の家族を生き地獄へと引きずり込んでいる。あなたが（イスラエルの）ネタニ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246072.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/06/17b4035a7d8fbd4bc848a6d991c3fc7e/t/768/512/d/gettyimages-2201233713.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246068.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-06T09:38:00+09:00</dc:date>
+        <title>トランプ氏、ホルムズ海峡再開の合意期限を7日夜に設定　イラン発電所・橋への一斉攻撃を警告</title>
+        <link>https://www.cnn.co.jp/usa/35246068.html?ref=rss</link>
+        <description>トランプ米大統領は5日午後、イランに対しホルムズ海峡の再開に向けた新たな期限を設定したとみられ、SNS「トゥルース・ソーシャル」に「米東部時間7日午後8時！」と投稿した。
+
+このわずか数時間前には「7日はイランで発電所の日となり、橋の日となる。すべて一度に実行される。前代未聞の事態になる！！！　海峡を開け、ろくでなし。さもなければ地獄で生きることになるぞ。よく見ておけ！」と書きこんでいた。
+
+トランプ氏が...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246066.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-05T19:18:00+09:00</dc:date>
+        <title>4億年前の最大の陸上生物、科学者たちにも説明不能の存在　研究</title>
+        <link>https://www.cnn.co.jp/fringe/35246066.html?ref=rss</link>
+        <description>約4億年前、恐竜はおろか樹木さえもまだ進化していない時代、謎めいた生物が風景の中で屹立（きつりつ）していた。その姿は、先史時代の巨石遺跡さながらだった。
+
+新たな研究により、この太古の生物は植物でも動物でも菌類でもなく、まったく未知の多細胞生物である可能性が示された。
+
+「これらの新たな分析結果から言えるのは、現代のどの生物群とも全く異なる生物だということだ」。そう語るのは、英エディンバラ大学の古生...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246066.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/02/06/b6f0896e9a2d5ce2503aac03bbed191f/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWw5Y3hseXcwMDA0MzU2cDEzOWgwMnZj-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbDljeDJzeDAwMXIyN3A2OHltZjA4NHc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246065.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-05T18:22:00+09:00</dc:date>
+        <title>「アルテミス2」の宇宙飛行士を悩ますトイレ問題、「袋」に用を足す事態に　</title>
+        <link>https://www.cnn.co.jp/fringe/35246065.html?ref=rss</link>
+        <description> 現在宇宙を猛スピードで突き進んでいる「アルテミス2」ミッションの飛行士4人。これまでのところ、おおむね静かな旅が続いており、心の平穏をかき乱すような飛行中の問題は全くと言っていいほど発生してない。
+
+ただし、トイレを除いて。
+
+「アルテミス2」の飛行士が乗るオリオン宇宙船では、ミッション3日目が終わりを迎えようとしていた4日未明、排泄（はいせつ）物の管理に絡む問題が持ち上がった。
+
+「トイレから排泄物を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246065.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/05/3c7a1e54759eb83b8c132e2b090f6ebb/t/768/576/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW5rbmFyZ3gwMDAwM2I2cXd5ZGV2Znc4-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbmttMXV0NjAwM3MyY3FnZmkyOWJiZWU_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35246061.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-05T15:32:00+09:00</dc:date>
+        <title>「AirPods Max 2」実機レビュー　競合のオーバーイヤーヘッドホンと比べて9万円の価値はある？</title>
+        <link>https://www.cnn.co.jp/tech/35246061.html?ref=rss</link>
+        <description>筆者は、2020年12月に発売されたアップル初のオーバーイヤー型ヘッドホン「AirPods Max」の待望のアップデートである「AirPods Max 2」を1年以上待ちこがれてきた。その間、何年も初代を着け続けてきたわけだが、アップルはAirPods Maxの充電ポートにアップデートを加え、カラーを変え、ソフトウェアアップデートによっていくつかの新機能を提供するにとどまっていた。しかし今回、同社はついにこのヘッドホンを「H2」チップで...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35246061.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/05/59c35c858d2babf3088e81a61f559eb8/t/768/432/d/apm2-editors-pick.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246064.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-05T14:41:00+09:00</dc:date>
+        <title>米戦闘機撃墜、乗員の救出に「強力な航空機数十機」を投入　トランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35246064.html?ref=rss</link>
+        <description>トランプ米大統領は5日、イラン上空で撃墜された米戦闘機の乗員を救出するため、米軍は「最も強力な兵器を装備した航空機数十機」を投入したと明らかにした。
+
+トランプ氏は「彼は負傷していたが、問題ないだろう。今回の奇跡的な捜索救助作戦は、昨日のもう1人の勇敢なパイロットの救出に続くものだが、これについては公表していなかった。二つ目の救出作戦を危険にさらしたくなかったからだ」とも述べた。
+
+「敵領土の奥深く...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246063.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-05T13:53:00+09:00</dc:date>
+        <title>米戦闘機撃墜、行方不明になっていた乗員を米軍が救出　トランプ氏発表</title>
+        <link>https://www.cnn.co.jp/usa/35246063.html?ref=rss</link>
+        <description>米国の戦闘機がイラン上空で撃墜された問題で、トランプ米大統領は5日早く、行方不明となっていた乗員が米軍によって救出されたとSNSトゥルース・ソーシャルで明らかにした。
+
+トランプ氏は「彼を救出した！　米国民の皆さん、米軍はこの数時間で米国史上有数の大胆な捜索救助作戦を成功させた。救出されたのは我々の素晴らしい士官搭乗員の1人であり、大きな尊敬を集める大佐でもある。無事を報告できてうれしい」と書き込んだ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246063.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/05/73e17ef7c623554567b8f995cd0193ce/t/768/432/d/file-f-15-operationepicfury.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246060.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-05T11:37:00+09:00</dc:date>
+        <title>米戦闘機撃墜、行方不明の乗員はどのような訓練を受けているのか　空軍元パイロットが解説　</title>
+        <link>https://www.cnn.co.jp/usa/35246060.html?ref=rss</link>
+        <description>イランで撃墜された米戦闘機の搭乗員の捜索が続く中、2008年にイラクで人員救出センターの責任者を務めたラビ・チョードリー氏がインタビューに応じ、米国の救助活動に自信を示した。
+
+チョードリー氏は4日、CNNに対し「我々の救出部隊や戦闘捜索救難能力は非常に高い練度を誇っており、搭乗員を友軍や家族の元に連れ戻すまで、決して立ち止まることはない」と語った。
+
+捜索救難作戦は24時間体制で「その人物を奪還するまで永...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246060.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/05/b566fc98cc014d8384fa57f75e2cb0b0/t/768/432/d/still-22511859-86419-67599999999-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246058.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-05T10:04:00+09:00</dc:date>
+        <title>トランプ氏とイラン、双方が「地獄」を警告　米戦闘機撃墜で乗員の捜索続く中</title>
+        <link>https://www.cnn.co.jp/world/35246058.html?ref=rss</link>
+        <description>イラン軍の当局者は4日、紛争が拡大すれば米国とイスラエルは「地獄」の罰に直面することになると警告し、トランプ米大統領からの脅しに呼応した形となった。
+
+トランプ氏はこの日、ホルムズ海峡の再開に向けた「時間は残されていない」と警告。SNSトゥルース・ソーシャルに 「私がイランに10日間の猶予を与え、合意するか、ホルムズ海峡を開放するよう求めたことを覚えているだろうか。時間切れが迫りつつある。地獄が降り注ぐ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246058.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/05/286eb14a1cb6b9873929f1db830dffd6/t/768/511/d/gettyimages-2269166363a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246057.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-05T09:14:00+09:00</dc:date>
+        <title>米戦闘機撃墜、イランは「完全な制空権」の奪還誓う　新開発の防空システム使用と主張</title>
+        <link>https://www.cnn.co.jp/world/35246057.html?ref=rss</link>
+        <description>イラン軍は5日までに、米国の戦闘機の撃墜を受け、イラン上空の「完全な制空権」を奪還する考えを言明した。イラン政府は今回の撃墜を米国にとって「屈辱的な」瞬間と位置付けている。
+
+イラン軍の報道官は撃墜に触れ、米国とイスラエルにとって「屈辱的な黒い金曜日」になったと称賛した。情報筋によると、戦闘機の乗員2人のうち1人は救出されたが、もう1人の状況は不明。米国は大規模な捜索救助活動に乗り出している。
+
+報道...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246057.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/05/cedf0a23db921f5358ccd96f2e1d012f/t/768/432/d/20260403-f15-jet-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
