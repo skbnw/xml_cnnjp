@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-04-09T09:14:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246202.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246201.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246198.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246192.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246190.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246191.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246189.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246188.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35246174.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246178.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246176.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246175.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246173.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35246165.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246169.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246166.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246163.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246164.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246157.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246159.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246145.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246140.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246130.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246132.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246124.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246117.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246119.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246110.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246105.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35246202.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-09T09:14:00+09:00</dc:date>
+        <title>イラン革命防衛隊、ホルムズ海峡の通航停止を発表　イスラエルのレバノン攻撃は「停戦違反」</title>
+        <link>https://www.cnn.co.jp/world/35246202.html?ref=rss</link>
+        <description>イランのイスラム革命防衛隊は9日、レバノンにおけるイスラエルの停戦違反を受け、ホルムズ海峡の海運が急速に滞り、停止に至ったと主張した。
+
+船舶追跡データの「マリントラフィック」によると、ホルムズ海峡を通過中の船は現時点では確認できない。これより前の報道では、米国とイランの間で7日に2週間の停戦合意が発効した後、ホルムズ海峡の通航が再開したと報じられていた。
+
+米ホワイトハウスはレバノンについて、米国と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246202.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/09/b9f20abbef01ac13eb7bc6377f191838/t/768/432/d/2026-04-08t111432z-2111572826-rc2wkkas8exb-rtrmadp-3-iran-crisis-oman-hormuz.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246201.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-09T08:21:00+09:00</dc:date>
+        <title>イスラエル、レバノンに最大規模攻撃　182人死亡、890人負傷</title>
+        <link>https://www.cnn.co.jp/world/35246201.html?ref=rss</link>
+        <description>レバノン保健省は8日、首都ベイルートを含む国内の複数地域に対するイスラエル軍の攻撃により、少なくとも182人が死亡したと発表した。
+
+同省によると、同日の攻撃でさらに890人が負傷した。
+
+保健省はこれらの数字は暫定的なものであり、現時点で入手可能な情報を反映した集計だとしている。
+
+レバノンのサラーム首相は同日声明を発表し、イスラエル軍の攻撃で「何百人もの平和的な非武装市民」が被害を受けたとして、9日を国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246201.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/09/e70c8ea94bd74f2ae0778a3c78eaecd3/t/768/512/d/gettyimages-2270414849.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246198.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T21:11:00+09:00</dc:date>
+        <title>ピラミッドの頂上をうろつく野良犬、パラグライダーが上空から撮影　エジプト</title>
+        <link>https://www.cnn.co.jp/fringe/35246198.html?ref=rss</link>
+        <description>ピラミッドの頂上で野良犬がうろついている――。エジプトで日の出の時間帯にピラミッド群の上空を飛行していた米国人パラグライダー、マーシャル・モッシャー氏やその仲間が一昨年の10月、そんな思いがけない光景を目撃した。
+
+モッシャー氏はCNN Travelの取材に、「ピラミッドの頂上で何かが行ったり来たり走り回っているのに気付いた」「マウンテンライオンではないかと思った仲間もいた」と振り返った。
+
+パラグライダーたち...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246198.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/3abae2a77de9a0d6fb1ddbcb91e98138/t/768/432/d/screen-shot-2024-10-18-at-1-24-19-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246192.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T19:30:00+09:00</dc:date>
+        <title>バンス米副大統領がハンガリーにいる理由</title>
+        <link>https://www.cnn.co.jp/world/35246192.html?ref=rss</link>
+        <description>米国のトランプ大統領が7日、「一つの文明を滅亡に追い込むべきかどうか」熟慮を重ねていた一方で、バンス副大統領はトランプ政権の多忙な戦時体制の合間を縫い、ハンガリーを訪問していた。
+
+理由は他でもない。ハンガリーで長年首相を務め、MAGA（米国を再び偉大に）運動の支持者たちからすこぶる人気の高いビクトル・オルバン氏が選挙戦で苦境に立たされているためだ。
+
+16年間政権を握ってきたオルバン氏は、これまでで最も...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246192.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/aace311c41eca0dfa021aefec2f81310/t/768/512/d/gettyimages-2270268113.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246190.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T18:45:00+09:00</dc:date>
+        <title>イスラエル、イランとは停戦もレバノンでは対ヒズボラ攻撃継続</title>
+        <link>https://www.cnn.co.jp/world/35246190.html?ref=rss</link>
+        <description>イスラエル国防軍（IDF）は8日、イラン国内での戦闘を停止すると発表した。一方で、レバノン国内の親イラン組織ヒズボラに対する地上作戦は継続すると明らかにした。
+
+イスラエル軍はまた、8日未明にかけてイラン国内で大規模な攻撃を実施したとも発表。停戦前に「イランのミサイル発射能力を大幅に低下させ、無力化する」のが目的だったとした。
+
+「同時にレバノン国内では、IDFはテロ組織ヒズボラに対する標的を絞った地上作...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246190.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/d9843e3a580c8627759743e8be4170ea/t/768/511/d/gettyimages-2269761137.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246191.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T18:33:00+09:00</dc:date>
+        <title>ホルムズ海峡での通航料徴収を求めるイラン、米海軍第5艦隊はどうなるのか？</title>
+        <link>https://www.cnn.co.jp/world/35246191.html?ref=rss</link>
+        <description>イランの国家安全保障最高評議会や国営メディアは停戦合意を受け、イラン側の要求を公表した。そのうち2点は中東における米海軍のプレゼンスの継続に疑問を投げかける内容だ。
+
+第一に、イラン政府はホルムズ海峡を通過する船舶に通航料を課すことを要求。第二に、この地域からの米軍の撤収を求めている模様だ。
+
+ここで重要なのは、通航料が軍艦にも適用されるのかという点だ。
+
+米海軍第5艦隊と海軍中央司令部は、ペルシャ湾...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246189.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T17:48:00+09:00</dc:date>
+        <title>停戦に懐疑的なイラン国民、首都で米・イスラエル国旗燃やす姿も</title>
+        <link>https://www.cnn.co.jp/world/35246189.html?ref=rss</link>
+        <description>8日未明、停戦合意が発表されると、イラン国民は街頭に集結した。しかし、合意内容に懐疑的な声も少なくなかった。
+
+現場の映像には、米国旗やイスラエル国旗を燃やす人々の姿が映っている。これはイラン政権支持の集会でよく見られる光景だ。またイラン国旗を振り、最高指導者モジタバ・ハメネイ師及び暗殺された父のアヤトラ・ハメネイ師の写真を掲げる人々もいた。
+
+  
+    
+      
+    
+    
+ Reuters
+  
+
+ロイター通信によ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246188.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T17:01:00+09:00</dc:date>
+        <title>トランプ氏、「完全かつ全面的勝利」と主張　停戦合意を受け</title>
+        <link>https://www.cnn.co.jp/usa/35246188.html?ref=rss</link>
+        <description>トランプ米大統領は7日、イランと2週間の停戦で合意したことを受け、米国が「完全かつ全面的な勝利」を収めたとの認識を示した。
+
+トランプ氏は仏AFP通信とのインタビューで「完全かつ全面的な勝利。100％だ。この点に疑問の余地はない」と発言した。
+
+イランが合意を破った場合、民間インフラを破壊するとの以前の脅しを実行に移す計画があるかには言及しなかった。
+
+トランプ氏はAFPの取材に、「状況を見ていく」としている。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246188.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/d7ac67ba61517119f2f07eddf80afcc9/t/768/512/d/gettyimages-2268831813-20260408034806945.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35246174.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T14:23:00+09:00</dc:date>
+        <title>英人気音楽フェスが中止、主要アーティストのカニエ・ウェストの入国拒否受け</title>
+        <link>https://www.cnn.co.jp/showbiz/35246174.html?ref=rss</link>
+        <description>英ロンドンで開かれる人気の音楽フェスティバルの主催者が、今回のイベントの中止を発表した。主要なアーティストとして出演予定だったラップ歌手カニエ・ウェストさん（現在は「イェ」に改名）の英国入国が拒否されたことを受けての措置だという。
+
+当該の「ワイヤレス・フェスティバル」の目玉としてウェストさんが登場するとの発表は、当初からユダヤ人団体や政治家からの批判を招いていた。近年ウェストさんが反ユダヤ主義...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35246174.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/6eb182c15a8aa7b45daf8263413c54a5/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW5vZmF0cTcwMDFiMzU2cXdxbWo4cHF1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntbm9keTh4bTAwMnQyN3AwMWJzajd5ZHY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246178.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T13:45:00+09:00</dc:date>
+        <title>トランプ氏、イランの勝利宣言をあざける　10項目の計画示した声明は「でっち上げ」</title>
+        <link>https://www.cnn.co.jp/usa/35246178.html?ref=rss</link>
+        <description>トランプ米大統領は7日夜、停戦合意を受けて勝利を主張したイラン国家安全保障最高評議会の声明を「でっち上げ」とあざけり、声明について報じたCNNにも批判の矛先を向けた。
+
+声明はイランが偉大な勝利を収め、10項目からなる計画を交渉の基礎として米国に受け入れさせたと主張する内容。CNNはイラン当局者から声明を入手し、複数のイラン国営メディアもこれについて報じている。
+
+トランプ氏は「CNNワールドニュースが報じた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246178.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/d788e48fb54480ee8b4582ad1f2b794f/t/768/432/d/2026-04-06t180059z-886265997-rc2tjkaajsmt-rtrmadp-3-iran-crisis-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246176.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T13:36:00+09:00</dc:date>
+        <title>トランプ氏、イランが停戦交渉に応じるよう中国が後押ししたとの考え</title>
+        <link>https://www.cnn.co.jp/usa/35246176.html?ref=rss</link>
+        <description>トランプ米大統領は、中国がイランに停戦交渉に応じるよう後押ししたと考えていると述べた。AFP通信が報じた。中国にとってイランは主要な同盟国。
+
+トランプ氏はAFPの電話取材で、中国がイランに停戦交渉を促したのかと問われ、「そうだと聞いている」と述べた。
+
+中国がイランに停戦へ向かうよう促したとの報道についてコメントを求められた在ワシントン中国大使館の報道官はCNNに対し、紛争が始まって以降、中国は「停戦を実...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246175.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T13:13:00+09:00</dc:date>
+        <title>【分析】合衆国憲法修正第25条の発動でトランプ氏の解任求める声、超党派で突如高まる</title>
+        <link>https://www.cnn.co.jp/usa/35246175.html?ref=rss</link>
+        <description>合衆国憲法修正第25条を巡る議論が再燃している。
+
+近年、議員らは憲法に定められた大統領解任のための手法を何度も取り上げてきた。2021年1月6日に連邦議会議事堂襲撃事件が起きた後、トランプ大統領の閣僚らは、当初多くの人が考えていたよりも真剣にこの選択肢を検討していたようだ。
+
+トランプ氏を実際に解任するには、各省長官の過半数と副大統領の支持が必要になる。だが、現時点で閣僚の誰かがそれを検討している様子や...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246175.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/dea9e2c1c368526cd06a3ca54858ec30/t/768/512/d/gettyimages-2269572137.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246173.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T11:45:00+09:00</dc:date>
+        <title>月の裏側から見た「地球の入り」や皆既日食を撮影、NASA有人宇宙船が月に最接近</title>
+        <link>https://www.cnn.co.jp/fringe/35246173.html?ref=rss</link>
+        <description>歴史に残る瞬間だった。米航空宇宙局（NASA）「アルテミス2」ミッションの有人宇宙船が、月に最接近して約6545キロ上空を通過した。
+
+4人の宇宙飛行士を乗せた宇宙船「オリオン」は月の向こう側を飛行して地球から約40万6771キロ離れ、アポロ13号が打ち立てた1970年の記録を更新していた。
+
+月に最接近した7時間の間に4人の宇宙飛行士は、地球からは見えない月面の光景を人類として初めて目にした。4人から見ると、神秘的な月の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246173.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/991a0837982af09e03b595290eaa1313/t/768/432/d/hftx7poxcaaks3g.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35246165.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T11:11:00+09:00</dc:date>
+        <title>原油価格が下落、株価は上昇　トランプ米大統領の停戦発表受け</title>
+        <link>https://www.cnn.co.jp/business/35246165.html?ref=rss</link>
+        <description>トランプ米大統領がイランとの2週間の停戦に合意したことを受け、原油価格は7日に急落した。合意を通じ、より多くの石油タンカーが重要なホルムズ海峡を通過できるようになるとの期待が高まった。
+
+しかしアナリストらは、ホルムズ海峡の事実上の封鎖にどのような変化が生じるのか、また停戦が戦争の長期的な終結につながるのかなど、依然として多くの疑問が残ると警告している。ホルムズ海峡は世界の石油輸送量の約20％が通過...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35246165.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/1861496246646d6c5c6e2cdcba9bac09/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW5wOHhyYW8wMDA3M2I2cXAycGUxMzgx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbnA4dmV6aTAwMHkyNnA5OGtyODYwbmk_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246169.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T10:37:00+09:00</dc:date>
+        <title>湾岸諸国とイスラエルでミサイル攻撃の報告　停戦発表後も</title>
+        <link>https://www.cnn.co.jp/world/35246169.html?ref=rss</link>
+        <description>湾岸諸国とイスラエルでは8日未明、トランプ米大統領がイランとの2週間の停戦で合意したと発表したあともサイレンが鳴り響き、複数の国がミサイルの飛来を報告している。
+
+
+
+  
+    
+       
+
+    
+    
+     イスラエル軍はイランから発射された複数のミサイルを特定し、迎撃対応を行っていると発表した（Reuters）  
+
+
+クウェートとアラブ首長国連邦（UAE）は、飛来するドローン（無人機）とミサイルの迎撃に当たっている。そ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246166.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T10:29:00+09:00</dc:date>
+        <title>ガザのWHO職員、イスラエル軍の銃撃で死亡　停戦後も増え続ける犠牲者</title>
+        <link>https://www.cnn.co.jp/world/35246166.html?ref=rss</link>
+        <description>パレスチナ自治区ガザで6日、世界保健機関（WHO）の職員だったパレスチナ人男性がイスラエル軍の銃撃によって殺害された。同僚や医師が明らかにした。
+
+医師によると、死亡したのはマジディ・アスランさん（54）。国際機関の印が入った車両を運転してガザを南北に結ぶ幹線道路を走行中、イスラエルに銃撃された。
+
+同僚のWHO職員ラエド・アスランさんはCNNの取材に対し、銃撃された車両は患者を避難させる途中で、全面にWHOの印...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246166.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/5a7143fe7aae94d209342c0ef57dd941/t/768/511/d/2026-04-06t104606z-31455357-rc2kjkabnq14-rtrmadp-3-israel-palestinians-gaza.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246163.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T10:12:00+09:00</dc:date>
+        <title>親イラン民兵組織、誘拐した米国人ジャーナリストを解放　イラク首都</title>
+        <link>https://www.cnn.co.jp/world/35246163.html?ref=rss</link>
+        <description>イラクの首都バグダッドで親イラン民兵組織に誘拐されていた米国人ジャーナリストが解放された。イラク政府の高官が7日にCNNに明らかにした。
+
+同高官によると、ジャーナリストのシェリー・キトルソン氏はイラク政府に迎えられ、現在渡航の手配が進められている。また政府は同氏の安全確保に全力を尽くしたという。
+
+中東を専門とする記者のキトルソン氏は先月、イラクの親イラン民兵組織「カタイブ・ヒズボラ」に拘束されてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246163.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/c779b24f68fa385d22eb61e8ab5ab2b5/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW5veGJsaGQwMDA3MzU2cnE0emdhMThl-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntbm93c2dtczAwMHkyN3FrMXBpMTIzcm4_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246164.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T09:49:00+09:00</dc:date>
+        <title>米軍、イラン国内への攻撃を停止　米当局者</title>
+        <link>https://www.cnn.co.jp/usa/35246164.html?ref=rss</link>
+        <description>米軍がイラン国内への攻撃を停止していることが分かった。米当局者が明らかにした。
+
+米中央軍によると、米国は今回の戦争開始以降、イラン国内の1万3000個を超える目標を攻撃してきた。
+
+トランプ米大統領は7日夜、2週間の停戦に同意したと発表。イランがホルムズ海峡の再開に同意することが条件だとしている。
+
+イランのアラグチ外相によれば、この2週間の間、イラン軍がホルムズ海峡の安全な通航の調整に当たる見通しだという。</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246157.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T09:35:00+09:00</dc:date>
+        <title>イスラエル当局、米・イランの停戦合意に懸念　情報筋</title>
+        <link>https://www.cnn.co.jp/world/35246157.html?ref=rss</link>
+        <description>イスラエル当局は、米国がイランと締結した一時的な停戦合意について懸念を抱いている。事情に詳しいイスラエルの情報筋が明らかにした。
+
+同筋によると、イスラエルはトランプ米大統領の意向に従い、停戦を順守する見込みだという。
+
+しかしこれはイスラエルにとっては不本意な動きだ。同国は依然としてイランに対する軍事行動を通じて達成したい目標や標的をリストアップしている、と同筋は述べた。
+
+3月中旬、CNNの取材に対...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246159.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T09:26:00+09:00</dc:date>
+        <title>イランが勝利を主張、米国に10項目の受け入れを強いたと説明</title>
+        <link>https://www.cnn.co.jp/world/35246159.html?ref=rss</link>
+        <description>イラン国家安全保障最高評議会は声明で、イランは大きな勝利を収め、米国側にイランの10項目の計画を受け入れることを強いたとの認識を示した。
+
+米国はこの計画の一環として、イランに対するすべての一次制裁および二次制裁を解除し、地域内のすべての基地から米軍を撤収させることに同意したという。
+
+評議会によれば、米国はイランによる核濃縮を受け入れ、ホルムズ海峡に対するイランの継続的な支配を認めることにも同意し...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246145.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-08T08:39:00+09:00</dc:date>
+        <title>トランプ氏、イランとの2週間の停戦に同意　ホルムズ海峡再開を条件に</title>
+        <link>https://www.cnn.co.jp/usa/35246145.html?ref=rss</link>
+        <description>トランプ米大統領は7日、「文明全体」を破壊すると予告していた午後8時（日本時間8日午前9時）の期限まで2時間を切る中、イランとの2週間の停戦に同意したことを明らかにした。
+
+トランプ氏によれば、停戦合意はホルムズ海峡再開にイランが同意することを条件になされた。
+
+トランプ氏はSNSトゥルース・ソーシャルに「パキスタンのシャリフ首相およびムニール元帥と協議したところ、彼らから今夜イランに向け送り出されている破...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246145.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/08/3a015e1e218f94ecefbabdb82faf7855/t/768/511/d/ap26096678051341.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246140.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T20:00:00+09:00</dc:date>
+        <title>【分析】イランを一夜で「壊滅」できるのか　いくつかの数字から検証</title>
+        <link>https://www.cnn.co.jp/world/35246140.html?ref=rss</link>
+        <description>イラン全土を一晩で「壊滅」させられるとのトランプ米大統領の主張は、米国並びにイスラエルが実際に保有する戦力と整合しない。ある軍事アナリストが明らかにした。
+
+筆者はオーストラリア空軍の元将校で、現在はグリフィス・アジア研究所の研究員を務めるピーター・レイトン氏に見解を尋ねた。米国とイスラエルはどのような戦力を動員すれば、24時間以内にイランの発電所や橋梁（きょうりょう）を破壊することができるのか。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246140.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/02e10eabd6c84c3ca1895ff2fcdd4d63/t/768/512/d/iran-crisis-usa.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T19:00:00+09:00</dc:date>
+        <title>米軍のF15戦闘機、撃墜したのは肩撃ち式ミサイル　トランプ氏が発表</title>
+        <link>https://www.cnn.co.jp/world/35246137.html?ref=rss</link>
+        <description>週末にイラン上空で撃墜された米空軍のF15E戦闘機は、肩で支える装置から発射される赤外線誘導ミサイルによって撃ち落とされた。トランプ米大統領が6日、ホワイトハウスで明らかにした。
+
+「これは手で支えて肩から発射する形式の赤外線誘導ミサイルだった。運もあったが、彼らが発射したミサイルはエンジンのすぐそばに吸い込まれた」と、トランプ氏は語った。
+
+敵の攻撃によって米軍のF15が撃墜されたのは今回が初めて。この...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/172bbf1faba3e7414647170a66693dc1/t/768/575/d/gettyimages-2269315049.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246130.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T18:20:00+09:00</dc:date>
+        <title>イランの発電所や橋を爆撃、トランプ氏の脅しについて知っておくべきこと　戦争犯罪となる可能性は</title>
+        <link>https://www.cnn.co.jp/world/35246130.html?ref=rss</link>
+        <description>米国のトランプ大統領が設定した期限が刻一刻と迫ってくる。イランが期限までに合意に達してホルムズ海峡を開放しなければ、同国は激しい爆撃を受けて「地獄」を味わうことになる。トランプ氏はそう脅迫している。
+
+トランプ氏は、合意の期限を7日午後8時（米国東部時間、テヘラン時間8日午前3時30分）と定めた。しかしここ数週間は同様の最後通牒（つうちょう）を何度か突きつけ、その都度期限を延期する行動を繰り返してきた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246130.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/59d4b574752d7db5f7f2951b0389aaf8/t/768/512/d/iran-crisis-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246132.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T15:36:00+09:00</dc:date>
+        <title>【分析】トランプ氏に投票した有権者の「後悔」、今になって顕著に</title>
+        <link>https://www.cnn.co.jp/usa/35246132.html?ref=rss</link>
+        <description>イランとの戦争のさなかにトランプ米大統領の支持率が過去最低水準まで落ち込む中、長らく予想されていた現象の裏付けとなる確たる証拠が示されている。トランプ氏に投票したことを後悔する有権者の存在だ。
+
+かなりの数のトランプ氏支持者はしばらくの間、懸念を抱いてはいたが、ここ数週間での一連の世論調査は、その懸念がより深刻なものへと傾きつつあることを示している。
+
+マサチューセッツ大学アマースト校とユーガブの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246132.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/9165d14aec639597fcc418a55008d66a/t/768/512/d/gettyimages-2182349110a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246124.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T14:55:00+09:00</dc:date>
+        <title>イラン高官、若者たちに発電所囲む「人間の鎖」呼び掛け　トランプ氏の脅迫受け</title>
+        <link>https://www.cnn.co.jp/world/35246124.html?ref=rss</link>
+        <description>イランの青年・スポーツ省のアリレザ・ラヒミ次官は若者たちに向けて、国内の発電所を囲む「人間の鎖」を作るよう呼び掛けた。これより前、トランプ米大統領はイランがホルムズ海峡を再開しなければ公共インフラを爆撃すると脅迫していた。
+
+ラヒミ氏はX（旧ツイッター）への投稿で、「すべての若者、文化芸術家、アスリート、そしてチャンピオンたちを、全国キャンペーンの『明るい未来に向けたイラン青年の人間の鎖』に招待す...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246117.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T13:42:00+09:00</dc:date>
+        <title>ハイチのギャング組織、半数は子どもで構成　派遣される外国部隊と対峙も</title>
+        <link>https://www.cnn.co.jp/world/35246117.html?ref=rss</link>
+        <description>ハイチに新たな多国籍軍が集結する中、これら外国人の警察官や兵士たちは、間もなく数百人の子どもたちと対峙（たいじ）することになるかもしれない。
+
+専門家の推計によると、ハイチの武装集団の約50％は子どもたちで構成されている。国連事務総長が発表した子どもと武力紛争に関する最新の報告書によると、2024年だけでも、首都ポルトープランス全域で少なくとも302人の子どもがギャングに「徴募され、利用された」。そのほと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246117.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/2749afb641b20149575ae04617d6abf8/t/768/512/d/ap26075662597267.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246119.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T12:39:00+09:00</dc:date>
+        <title>受動的に画面を見続けると認知症リスクが上昇する可能性　座ったままでも脳の健康を保つ秘訣は</title>
+        <link>https://www.cnn.co.jp/fringe/35246119.html?ref=rss</link>
+        <description>座っている時間の長さだけでなく、座りながら何をしているかが健康に影響を与える可能性がある。そうした事実が新たな研究で明らかになった。
+
+研究によると、座ったままでのテレビ視聴など「精神的に受動的な」行動は認知症の発症リスクの上昇と関連している一方、クロスワードパズルなどの精神的に能動的な活動はある程度の予防効果をもたらす可能性があるという。
+
+この研究結果は、脳の健康と老化に関する知識に新たな示唆...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246119.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/94d43e43efadc5e42bfbc7c8fad2707f/t/768/432/d/gettyimages-1270285125.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246110.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T11:34:00+09:00</dc:date>
+        <title>派遣された外国部隊による性的虐待事案を調査、国連が詳細報告　ハイチ</title>
+        <link>https://www.cnn.co.jp/world/35246110.html?ref=rss</link>
+        <description>ギャングの暴力が蔓延（まんえん）するハイチの状況に対処するためケニアが主導し、米国が支援する軍事ミッション、多国籍治安支援（MSS）部隊について、隊員が関与したとされる4件の性的虐待事件に対する調査が行われた。国連が先ごろ発表した報告書で調査結果を詳述している。そのうち1件は12歳の子どもが被害に遭っているという。
+
+報告書によれば国連は昨年、ハイチにおけるMSSの隊員による性的搾取および虐待の申し立てを4...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246110.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/455f4f9edd86a12663190ad52cb89e93/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW5qNDlydDMwMDBuM2I2cWIyb29sZWp4-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbmozY21wNTAwMHkyOHA5Mjg0OTJvNWo_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246105.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-07T10:51:00+09:00</dc:date>
+        <title>トランプ氏の精神衛生状態に疑問の声、口汚すぎるSNS投稿めぐり</title>
+        <link>https://www.cnn.co.jp/usa/35246105.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領が口汚い罵（ののし）り言葉を連発してイランを恫喝（どうかつ）したSNSの投稿をめぐり、大統領は精神衛生状態の検査を受けるべきだと批判する声が噴出している。本人は6日の記者会見でそうした批判を一蹴した。
+
+トランプ大統領はイースターの5日、SNSへの投稿で、イランを「crazy bastards（狂った野郎ども）」呼ばわりして発電所やインフラを破壊すると威嚇。下品な放送禁止用語も使ってホル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246105.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/07/59d4b574752d7db5f7f2951b0389aaf8/t/768/512/d/iran-crisis-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
