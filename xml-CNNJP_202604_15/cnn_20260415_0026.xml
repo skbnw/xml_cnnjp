@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-04-15T08:40:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246416.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246408.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246407.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246409.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246402.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35246403.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246395.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246397.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246394.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246374.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35246381.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246379.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35246370.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246373.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246372.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246368.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246358.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246356.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35246349.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246347.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246343.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246336.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246330.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246328.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246325.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246324.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246322.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246321.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246320.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246318.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246416.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-15T08:40:00+09:00</dc:date>
+        <title>トランプ氏、パキスタンで今後2日間に「何か起きる可能性」　イラン協議再開を示唆か</title>
+        <link>https://www.cnn.co.jp/usa/35246416.html?ref=rss</link>
+        <description>米国とイランが交渉の席に戻る道を模索する中、トランプ米大統領は14日、今後2日間のうちにパキスタンで「何かが起きる可能性がある」と言及した。
+
+トランプ氏はパキスタンの首都イスラマバードに派遣されている米紙ニューヨーク・ポストの記者に、「そこにとどまっていた方がいい。今後2日間で何か起きるかもしれない。我々はそちらへ行く方向に傾いている」とコメント。「可能性が高まっている、ということだ。なぜだか分か...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246416.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/15/115bd4a5f0aedc6bef170a414f84e56f/t/768/511/d/ap26101782399526.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246408.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T19:37:00+09:00</dc:date>
+        <title>米・イスラエル攻撃の被害額、イラン政府が43兆円と推計　地元メディア</title>
+        <link>https://www.cnn.co.jp/world/35246408.html?ref=rss</link>
+        <description>イラン政府のファテメ・モハジェラニ報道官は、準国営通信社タスニム通信に対し、米国とイスラエルによる攻撃の被害額を初期段階で約2700億ドル（約43兆円）と見積もっていることを明らかにした。ただし、この数字はまだ確定ではないという。
+
+モハジェラニ氏は、「交渉チームが現在追求し、イスラマバードでの協議でも取り上げてきた課題の一つが、戦争賠償問題だ」と述べ、「米国とイスラエルの攻撃によるイランの損失は、現...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246408.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/e2421a4f8d18903e86a5d04d433c3a6b/t/768/512/d/gettyimages-2270134939.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246407.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T19:26:00+09:00</dc:date>
+        <title>イラン封鎖の長期化、他地域での米海軍の戦力圧迫も　海軍専門家</title>
+        <link>https://www.cnn.co.jp/world/35246407.html?ref=rss</link>
+        <description>イランの港湾周辺海域における米国の長期封鎖は、世界各地における米海軍の作戦に負担をかける可能性があると、韓国の海軍専門家がCNNに語った。
+
+13日に始まったこの封鎖には、少なくとも15隻の米軍艦艇が参加する可能性があるが、封鎖を効果的に実施するには、より多くの艦艇と航空機が必要になる。韓国国防研究院の研究員で元韓国潜水艦士官のユ・ジフン氏はそう述べた。
+
+「封鎖線の管理、船舶の識別と捜索、航空監視、イラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246407.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/1fee55eb0827e3f5e5d7f99a7e924db2/t/768/512/d/c-gettyimages-2262090977.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246409.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T19:00:00+09:00</dc:date>
+        <title>トランプ氏の軍事的野望の先頭に立つ米空母ジェラルド・フォード、最長展開記録を更新へ</title>
+        <link>https://www.cnn.co.jp/usa/35246409.html?ref=rss</link>
+        <description>米海軍の最大にして最強の空母、ジェラルド・R・フォードの艦内で、先月半ばに火災が発生した。
+
+空母フォードは当時、約2週間前から始まった対イラン軍事作戦の一環として地中海東部に展開していた。洗濯室から火が出て、鎮火と片付け、再燃防止の処理に30時間かかり、乗組員約600人の寝台が損傷して使えなくなった。幸い重傷者は出なかったが、洗濯もできなくなった。
+
+フォードは今週、ベトナム戦争以降で最も長期にわたる空...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246409.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/3437bd8609378b09ac903ea9558d4c89/t/768/512/d/01-9493450.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246402.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T17:39:00+09:00</dc:date>
+        <title>オルバン氏の総選挙敗北、盟友のネタニヤフ氏にとっても痛手に</title>
+        <link>https://www.cnn.co.jp/world/35246402.html?ref=rss</link>
+        <description>イスラエルのネタニヤフ首相は、12日に行われたハンガリーの総選挙で最も緊密な欧州の盟友が惨敗するのを目の当たりにした。
+
+この結果は、イスラエル史上最長の在任期間を誇るネタニヤフ氏にとって大きな痛手になると共に、野党勢力を勢いづかせた。後者は10月に予定されている次期総選挙を国家の正念場と捉えている。
+
+ネタニヤフ氏はトランプ米大統領と同様、オルバン氏を公然と支持。3月下旬、ブダペストで開かれた保守派の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246402.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/d108698916a41758d4af937df7bd07bf/t/768/516/d/israel-palestinians-hungary.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35246403.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T16:59:00+09:00</dc:date>
+        <title>イラン戦争によるアジア太平洋地域での経済損失は推計47.5兆円　国連報告書</title>
+        <link>https://www.cnn.co.jp/business/35246403.html?ref=rss</link>
+        <description>国連の報告書によると、米イスラエルによるイランとの戦争の余波は、アジア太平洋地域の経済に数千億ドルの損失をもたらし、数百万人を貧困に陥れるおそれがある。
+
+国連開発計画（UNDP）が14日に公表した報告書の推計によると、中東での軍事行動の激化は、輸送、電力、食料にかかる費用を押し上げ、アジア太平洋地域で970億ドル（約15兆4000億円）から2990億ドル（47兆5000億円）の生産損失をもたらす可能性がある。
+
+報告書に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35246403.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/8dc94b0b9ebbc27df315a03d1b668681/t/768/512/d/gettyimages-2271138210.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246395.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T16:08:00+09:00</dc:date>
+        <title>トランプ氏、経済的痛手に対するイランの限界値を読み違えか　専門家らが指摘</title>
+        <link>https://www.cnn.co.jp/world/35246395.html?ref=rss</link>
+        <description>米国のトランプ大統領は、イランに経済的な痛手を負わせることで数週間にわたる空爆では成し遂げられなかったことを実現できると信じている。つまりイラン政府の意志を挫（くじ）き、譲歩を迫れると考えている。しかしこれはイランにとっての痛みの限界値を読み間違えている可能性があると、一部の専門家が指摘している。
+
+海上貿易の要衝であるホルムズ海峡の封鎖は、週末にパキスタンで行われた和平協議が進展なく終了したこ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246395.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/e820fb6bca102bb44207e594ca845f36/t/768/512/d/ap26103595642211.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246397.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T15:35:00+09:00</dc:date>
+        <title>英国の基地で目撃された米空軍の空中給油機KC135、破片による多数の穴　弾道ミサイル攻撃で損傷か</title>
+        <link>https://www.cnn.co.jp/usa/35246397.html?ref=rss</link>
+        <description>英国の基地に着陸した米空軍の空中給油機の胴体に、破片によってできた穴が修復されたとみられる跡が数十カ所あることが分かった。
+
+  
+    
+      
+    
+    
+Mark Lynham/Reuters
+  
+
+オハイオ州空軍州兵の標識を付けた4発空中給油機KC135が13日にロンドンの北約129キロにあるミルデンホール空軍基地を地上走行する様子が航空写真家マーク・リナム氏によって撮影された。
+
+リナム氏はこの動画を自身のフェイスブックのページ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246394.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T14:19:00+09:00</dc:date>
+        <title>高地に生息する希少な「クラウドジャガー」、10年ぶりに確認　ホンジュラスで回復の兆し</title>
+        <link>https://www.cnn.co.jp/world/35246394.html?ref=rss</link>
+        <description>中米ホンジュラス西部にあるシエラ・デル・メレンドン山脈の高地で、森林に仕掛けたカメラが野生のジャガーの姿をとらえた。同地でジャガーが確認されたのは10年ぶりだった。
+
+CNNが独占提供を受けた写真には、高地に生息する「クラウドジャガー」のオス1頭が写っている。撮影されたのは2月6日、標高約2200メートルの森林で、環境修復を目指すホンジュラスにとっては朗報だった。
+
+国際自然保護連合（IUCN）によると、かつて南...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246394.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/b9313c655ca950980331a40c57558029/t/768/432/d/img-0172-crop.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246374.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T14:02:00+09:00</dc:date>
+        <title>イランの港湾封鎖とホルムズ海峡からの機雷除去、米海軍に実行可能な方法とは</title>
+        <link>https://www.cnn.co.jp/world/35246374.html?ref=rss</link>
+        <description>イランとの戦争開始から6週間後、米国のトランプ大統領は海軍に対し、この紛争において最も困難な任務を与えた。それはイランの港湾の封鎖と、戦略的に重要なホルムズ海峡から同国製の機雷を除去することだ。
+
+米中央軍（CENTCOM）によると、封鎖命令は13日午前10時（米東部時間）から、海峡内外のイランのすべての港湾に適用される。イランは戦争勃発以来、世界のエネルギー貿易にとって極めて重要な航路であるホルムズ海峡を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246374.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/7cd57c2aa02d2c16151e54a21bef65c2/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW53eHYxNXYwMDAwM2I2cTR5dHhiZThr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntbnd4Y3JnYTAwMnAyNnAyOXdjNWRqNnk_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35246381.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T11:20:00+09:00</dc:date>
+        <title>オープンAIアルトマンCEO宅に火炎瓶投げ込んだ男、殺人未遂と放火未遂で起訴</title>
+        <link>https://www.cnn.co.jp/tech/35246381.html?ref=rss</link>
+        <description>米オープンAIのサム・アルトマン最高経営責任者（CEO）宅に火炎瓶が投げ込まれた事件をめぐり、当局は13日、これを投げ込んだとされる男が殺人未遂と放火未遂の罪に問われていると明らかにした。
+
+米連邦捜査局（FBI）が13日に提出した訴状によると、テキサス州出身のダニエル・モレノガマ被告（20）は10日夜、アルトマン氏の自宅に火炎瓶を投げ込んだあと、カリフォルニア州サンフランシスコにあるオープンAI本社のガラス扉を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35246381.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/316b5f14ceb68e1a7b4e2423846917e8/t/768/512/d/c-2026-03-20t193909z-1777114240-rc2i2kaptryb-rtrmadp-3-openai-altman-sister-lawsuit.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246379.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T10:30:00+09:00</dc:date>
+        <title>韓国大統領が人権侵害批判の投稿、イスラエルが反発　SNSで異例の非難の応酬に</title>
+        <link>https://www.cnn.co.jp/world/35246379.html?ref=rss</link>
+        <description>韓国の李在明（イジェミョン）大統領がSNSに投稿した動画をめぐってイスラエル政府が強く反発し、SNSで応酬を繰り広げている。李大統領が投稿したのは、イスラエルが占領するパレスチナ自治区ヨルダン川西岸で、イスラエル兵が遺体を建物から突き落とす場面をとらえた2024年の動画だった。
+
+李大統領は10日、「これが事実かどうかを確認する必要がある。もし事実であれば、どのような措置が取られたのか解明すべきだ」とX（旧ツ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246379.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/472fd48120c53c7d699e7c571195e926/t/768/512/d/2026-03-04t055023z-722441638-rc2fxjasypad-rtrmadp-3-philippines-southkorea.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35246370.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T09:55:00+09:00</dc:date>
+        <title>原油価格、今後数週間で「ピーク」迎える可能性　米エネルギー長官</title>
+        <link>https://www.cnn.co.jp/business/35246370.html?ref=rss</link>
+        <description>原油価格は封鎖されたホルムズ海峡をタンカーが通過できるようになるまで上昇する見込みだが、今後数週間で状況が変わる可能性もある。米エネルギー長官のクリス・ライト氏が13日にそう述べた。
+
+ライト氏は、セマフォー・ワールド・エコノミー会議の出席者に対し、「重要な航路であるホルムズ海峡を船舶が十分に通過できるようになるまでは、エネルギー価格は高止まりし、さらに上昇する可能性もある」と語った。そして、その...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35246370.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/08bbc1c75fb93f5dcc80335d91934c6d/t/768/511/d/gettyimages-2270751307.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246373.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T09:36:00+09:00</dc:date>
+        <title>スウォルウェル米下院議員、辞職の意向表明　性的不正行為疑惑受け</title>
+        <link>https://www.cnn.co.jp/usa/35246373.html?ref=rss</link>
+        <description>米民主党のエリック・スウォルウェル下院議員（カリフォルニア州選出）は13日、自身に対する性的不正行為の疑惑が浮上したことを受け、議員を辞職する意向を明らかにした。
+
+スウォルウェル氏をめぐっては、下院倫理委員会による調査開始が発表されたばかりで、与野党の双方から辞職を求める圧力が強まっていた。同氏は疑惑を否定しており、すでにカリフォルニア州知事選への出馬も取り下げていたが、それでも辞職を求める声は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246373.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/c4aafbbdb58daf7d9a73ea257d466be1/t/768/512/d/c-gettyimages-2255023222.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246372.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T09:05:00+09:00</dc:date>
+        <title>米軍によるイラン港湾の封鎖開始　最新の状況は</title>
+        <link>https://www.cnn.co.jp/world/35246372.html?ref=rss</link>
+        <description>米国とイランが先週末までに和平合意に至らなかったことを受け、米軍によるイランの港湾封鎖が13日から開始された。トランプ大統領は、イランの「高速戦闘艇」が封鎖に近づけば沈めると警告した。
+
+トランプ氏は、政権が13日午前にイラン当局者から電話を受けたとし、イランが「強く合意を望んでいる」と述べた。
+
+最新の動きをまとめる。
+
+米イランの交渉状況：米当局者がCNNに語ったところによると、米国とイランは協議を続け...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246372.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/a1effe44aa9ddd6a3543918e099058b1/t/768/432/d/2026-04-12t105733z-2123040405-rc2gnka77qi7-rtrmadp-3-iran-crisis-hormuz.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246368.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-14T08:25:00+09:00</dc:date>
+        <title>トランプ氏をキリストに模した画像が削除　対イラン戦争めぐりローマ教皇と対立</title>
+        <link>https://www.cnn.co.jp/usa/35246368.html?ref=rss</link>
+        <description>トランプ米大統領が投稿した、自身をイエス・キリストに模した画像がSNSから削除された。トランプ氏とローマ教皇レオ14世の間では、対イラン戦争をめぐり緊張が高まっていた。
+
+この画像は、米国旗やワシに囲まれたトランプ氏が、キリストのような姿で病人を癒やす様子を描いたもので、トランプ氏が対イラン戦争に反対するレオ14世を批判した直後の12日深夜、SNS「トゥルース・ソーシャル」に投稿された。
+
+13日午前遅くの時点...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246368.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/95c8a9e7b21876cccae8115810e1c418/t/768/432/d/trump-angel-ai-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246358.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-13T18:08:00+09:00</dc:date>
+        <title>イラン、「ペルシャ湾とオマーン湾に安全な港はなくなる」と警告　米国によるホルムズ海峡封鎖を前に</title>
+        <link>https://www.cnn.co.jp/world/35246358.html?ref=rss</link>
+        <description>イランのイスラム革命防衛隊（IRGC）は12日、自国の港が脅かされるようなことがあれば、「ペルシャ湾とオマーン湾に安全な港はなくなる」と警告した。米国が表明したホルムズ海峡封鎖を前にイラン国営メディアが報じた。
+
+米軍は12日、週末にパキスタンで行われた交渉が決裂したことを受け、ホルムズ海峡にあるイランの港に出入りするすべての船舶に対し、米東部時間13日午前10時から封鎖を実施すると発表した。
+
+政府系イラン...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246356.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-13T17:21:00+09:00</dc:date>
+        <title>【分析】ハンガリー総選挙、オルバン首相の敗北が示すポピュリズムの限界</title>
+        <link>https://www.cnn.co.jp/world/35246356.html?ref=rss</link>
+        <description>ハンガリーで12日に行われた総選挙でオルバン首相が敗北を喫したことにより、同国では2010年以降で初めて政権交代が起きることになった。
+
+世論調査では新興政党「ティサ（尊重と自由）」の決定的な勝利が示唆されていたものの、その支持者の多くは勝利がどのような感覚なのかを自分たちに想像させようとはしなかった。オルバン氏率いる反自由主義的な与党「フィデス・ハンガリー市民連盟」による16年の統治を経て、選挙は与党...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246356.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/13/2f71de09eabbdec6f0997fba4a9401ca/t/768/512/d/gettyimages-2270597077.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35246349.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-13T14:45:00+09:00</dc:date>
+        <title>ホルムズ海峡の再開が通航と石油価格高騰の解決に十分でない理由</title>
+        <link>https://www.cnn.co.jp/business/35246349.html?ref=rss</link>
+        <description>ホルムズ海峡の再開が難航している。だが、この重要な海峡が完全に再開し、石油やその他の必要な貨物が運び出されたとしても、それだけで正常な状態に戻るわけではない。
+
+物流を維持するには、空になった船が海峡に戻る必要があるからだ。専門家らによれば、停戦が一時的なものにすぎないという強いリスクがある限り、海運会社が海峡を通ってペルシャ湾内に入り始めることはないという。
+
+タンカー会社や船主、保険会社は、何...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35246349.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/13/3dccd9288c04f81b1433c30c4ee86a14/t/768/432/d/screenshot-2026-04-10-at-8-04-34-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246347.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-13T13:28:00+09:00</dc:date>
+        <title>トランプ氏、ローマ教皇を批判「外交政策にとって最悪」　イラン戦争に対する立場めぐり</title>
+        <link>https://www.cnn.co.jp/usa/35246347.html?ref=rss</link>
+        <description>ローマ教皇レオ14世がイランとの戦争について示した立場をめぐり、トランプ米大統領は12日、教皇を「外交政策にとって最悪だ」と強く批判した。
+
+トランプ氏は記者団に「核兵器を持つのは構わないと言うような教皇は好まない。彼は、世界を吹き飛ばすために核兵器を欲している国を軽く扱うべきではないと考える人物だ」と語り、「私は教皇レオのファンではない」と付け加えた。
+
+米国出身者として初の教皇であるレオ14世は、米...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246347.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/13/f7c457fd39c70163d27cd8f913f807a2/t/768/432/d/20260413-trump-pope.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246343.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-13T12:08:00+09:00</dc:date>
+        <title>「私たちは地球という惑星のクルー」　月周回から帰還した宇宙飛行士が語ったこと</title>
+        <link>https://www.cnn.co.jp/fringe/35246343.html?ref=rss</link>
+        <description>米航空宇宙局（NASA）の有人月探査計画「アルテミス2」の宇宙船が、4人の宇宙飛行士を乗せて無事、地球に帰還した。10日夜、太平洋に教科書通りの着水を果たし、11日にテキサス州ヒューストンにあるジョンソン宇宙センターに到着した4人は、盛大な拍手と歓声に迎えられた。
+
+NASAのジャレッド・アイザックマン長官とハグを交わした4人の宇宙飛行士は、歴史的な10日間の月周回を終えて以来、初めて家族と再会した。アイザックマ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246343.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/13/06b27350de8fbfb3db5230c95a974dc5/t/768/512/d/gettyimages-2270387233.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246336.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-13T10:57:00+09:00</dc:date>
+        <title>【分析】イランに繰り返し再開を迫ってきたホルムズ海峡、トランプ氏はなぜ封鎖しようとするのか</title>
+        <link>https://www.cnn.co.jp/usa/35246336.html?ref=rss</link>
+        <description>トランプ米大統領はイランに対し無条件で再開しなければならないと再三主張してきたホルムズ海峡を封鎖すると脅している。
+
+トランプ氏は12日午前、SNS「トゥルース・ソーシャル」に「ただちに、世界最強の米海軍はホルムズ海峡に出入りしようとするあらゆる船舶の封鎖手続きを開始する」と投稿。「いずれ『すべてが入り、すべてが出られる』状態に到達するだろうが、イランがそれを実現させていない」とも主張した。
+
+イランが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246336.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/13/56808fdf53270767c10586e69fb6ab11/t/768/512/d/2026-04-11t213807z-126325543-rc28nka8903e-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246330.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-13T09:32:00+09:00</dc:date>
+        <title>米海軍がホルムズ海峡封鎖へ、合意不成立受けトランプ米大統領が表明</title>
+        <link>https://www.cnn.co.jp/usa/35246330.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領は12日、イランとの協議が合意に至らなかったことを受け、米海軍がホルムズ海峡を封鎖すると述べた。米中央軍は、米東部時間の13日午前10時から封鎖を開始すると発表。イランの港に出入りする船舶のみを対象にするとしている。
+
+これに対してイランのイスラム革命防衛隊は12日、ホルムズ海峡に接近しようとする軍艦は全て報復の対象になると警告した。
+
+影響は原油価格にも及んでいる。米軍によ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246328.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-13T09:17:00+09:00</dc:date>
+        <title>ハンガリー総選挙、オルバン首相の与党が惨敗　16年ぶりに政権交代へ</title>
+        <link>https://www.cnn.co.jp/world/35246328.html?ref=rss</link>
+        <description>中欧ハンガリーで12日、総選挙（定数199）が行われ、現地時間午前0時時点で開票率が98%を上回り、結果が明らかになった。オルバン首相の16年にわたる政権は惨敗で幕を閉じた。
+
+ハンガリーの選挙管理当局によると、オルバン氏率いる与党「フィデス・ハンガリー市民連盟」は55議席程度を獲得する見込み。選挙前の135議席から大幅に減らす結果となる。
+
+オルバン氏は過去4回の選挙でフィデスを勝利に導き、毎回圧倒的多数を占めて...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246325.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-12T17:35:00+09:00</dc:date>
+        <title>卵の中で丸まった恐竜の赤ちゃん、完全な保存状態で発見　21年の研究再訪</title>
+        <link>https://www.cnn.co.jp/fringe/35246325.html?ref=rss</link>
+        <description>恐竜の赤ちゃんが卵の中で丸まったまま、完全な保存状態で残っている化石が見つかった――。科学誌「アイサイエンス」に2021年、そんな論文が発表され、恐竜と鳥のつながりにさらなる光を当てる研究になりそうだとの期待が寄せられた。
+
+化石は7000万年前のもので、中にオビラプトル科恐竜の胎児の骨格が保存されている。この胎児は所蔵先の博物館の名称にちなみ、「英良ベビー」と名付けられた。
+
+赤ちゃん恐竜の骨は小さくもろ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246325.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/12/65a0cc28e3f6074d4b174bc629b558de/t/768/432/d/211221063524-04-baby-dinosaur-fossil-egg-restricted-super-169.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246324.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-12T17:11:00+09:00</dc:date>
+        <title>ガラパゴス諸島のトマトに「逆進化」の兆候　その意味とは</title>
+        <link>https://www.cnn.co.jp/fringe/35246324.html?ref=rss</link>
+        <description>エクアドル沖数百キロに位置するガラパゴス諸島は、チャールズ・ダーウィンの進化論が誕生するきっかけとなった場所だが、そこに生息するある野生の植物が「逆進化」を遂げたようだ。
+
+ガラパゴス諸島で発見された、「ソラナム・ペンネリ」という学名で知られる小さなトマトは、2024年に研究者たちがアルカロイドの研究を行う中で初めて注目を集めた。アルカロイドは、植物が生み出す天然化合物で、植物が自ら作り出す「天然の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246324.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/11/30/be57fdcb9c04fd5935f558520fa6cb8f/t/768/511/d/img-5384-original.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246322.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-12T15:39:00+09:00</dc:date>
+        <title>【分析】米イラン協議の決裂、危機収束への束の間の希望に打撃</title>
+        <link>https://www.cnn.co.jp/world/35246322.html?ref=rss</link>
+        <description>長時間に及んだ米イランの協議が続く間、我々はパキスタンの首都イスラマバードで日が沈み、再び昇るのを見届けた。合意に至らず終わったことは、危機収束の糸口を見いだそうとする束（つか）の間の希望にとって根本的な打撃となる。
+
+これは極めて重要な会談だった。米国とイランの当局者による協議としては、1979年のイスラム共和国成立以降で最高レベルであり、議論の複雑さは並大抵のものではない。
+
+協議の場での発言以外...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246322.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/12/35e6ade82090a331780b69b150b99835/t/768/511/d/ap26102066715935a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246321.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-12T12:43:00+09:00</dc:date>
+        <title>米イラン協議は合意に至らず、戦争の行方は不透明なまま　浮上する疑問</title>
+        <link>https://www.cnn.co.jp/world/35246321.html?ref=rss</link>
+        <description>バンス米副大統領が21時間に及ぶイランとの和平協議は合意に至らなかったと発表したことで、紛争の今後を巡る疑問がいくつも浮上している。
+
+バンス氏の発表を受け、7日から始まった2週間の停戦の行方は不透明になったとみられる。イランはホルムズ海峡の再開を約束しておらず、世界のエネルギー供給は引き続き逼迫（ひっぱく）しそうだ。
+
+トランプ米大統領は停戦発効前、イランの指導者が取引に応じなければ「文明全体が滅び...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246321.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/12/cf005343baf99a85197da50a36f7a828/t/768/512/d/gettyimages-2270382269a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246320.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-12T11:24:00+09:00</dc:date>
+        <title>米イラン協議は合意に至らず、バンス氏が会見　核兵器開発の放棄約束せず</title>
+        <link>https://www.cnn.co.jp/usa/35246320.html?ref=rss</link>
+        <description>米国のバンス副大統領は12日、イランと長時間の協議を行ったものの、戦争を恒久的に終結させる合意には至らなかったと明らかにした。
+
+バンス氏はパキスタンの首都イスラマバードで記者会見を開き、「我々はここまで21時間にわたって協議を続け、イラン側と中身のある議論を重ねてきた。これが良い知らせだ」と述べた。
+
+そのうえで「悪い知らせは、合意に至らなかったことだ」と言及。「これは米国よりもイランにとってはるか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246320.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/12/9320e53a232a840a3e84da87dda1d2ba/t/768/432/d/still-22531488-3234136-483-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246318.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-12T10:57:00+09:00</dc:date>
+        <title>米海軍の駆逐艦2隻、ホルムズ海峡で機雷除去に着手　米中央軍が発表</title>
+        <link>https://www.cnn.co.jp/usa/35246318.html?ref=rss</link>
+        <description>停戦後もホルムズ海峡で一部の船舶が通航できない状態が続く中、米中央軍は11日、米海軍のミサイル駆逐艦2隻が機雷除去に着手したと明らかにした。
+
+米中央軍はX（旧ツイッター）への投稿で、駆逐艦「フランク・E・ピーターセン」と「マイケル・マーフィー」の両艦が「ホルムズ海峡を通過し、アラビア湾で活動に当たった。イスラム革命防衛隊によって敷設された機雷の完全除去を確実なものとする広範な任務の一環だ」と説明した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246318.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/12/5b3a5d1e45a8461cd99ea74d5e3ecba6/t/768/511/d/9579469.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
