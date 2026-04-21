@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-04-21T09:24:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246661.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246657.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246656.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246651.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246649.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35246640.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246637.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246617.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246635.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246627.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35246620.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246619.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246616.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246615.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246614.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246613.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246612.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246611.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246610.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246609.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246608.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246593.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246607.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246606.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246603.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246605.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246604.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35246602.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246600.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246601.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35246661.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-21T09:24:00+09:00</dc:date>
+        <title>ハンガリー次期首相、イスラエル首相が同国を訪問すれば「逮捕」との考え示す</title>
+        <link>https://www.cnn.co.jp/world/35246661.html?ref=rss</link>
+        <description>ハンガリーのマジャル次期首相は、国際刑事裁判所（ICC）から逮捕状が出ているイスラエルのネタニヤフ首相について、首都ブダペストに来れば逮捕されるとの考えを示した。
+
+ロイター通信の翻訳によると、マジャル氏は20日、記者団に対し「国際刑事裁判所の加盟国である場合、逮捕状が出ている人物が我々の領内に入れば、その人物は拘束されなければならない」と述べた。
+
+マジャル氏は、ハンガリーをICCに再加盟させるという自...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246657.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-21T08:44:00+09:00</dc:date>
+        <title>イスラエルとレバノン、23日に2回目の直接協議　当局者発表</title>
+        <link>https://www.cnn.co.jp/world/35246657.html?ref=rss</link>
+        <description>イスラエルとレバノンによる2回目の直接協議が、23日に米ワシントンで開催される予定であることが分かった。イスラエル当局者と米国務省当局者の双方が明らかにした。
+
+両国の当局者による1回目の会合は先週14日に開かれ、イスラエルのイェヒエル・ライター駐米大使と、レバノンのナダ・ハマデ駐米大使が出席した。今回の協議も前回と同様、大使級で行われるという。
+
+レバノン大統領府はこれに先立ち、同国代表団を元駐米大使...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246656.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-21T08:28:00+09:00</dc:date>
+        <title>トランプ氏、イランとの停戦延長の可能性「極めて低い」　期限は22日夜</title>
+        <link>https://www.cnn.co.jp/usa/35246656.html?ref=rss</link>
+        <description>トランプ米大統領は20日、イランとの停戦について、期限は米東部時間22日夜（日本時間23日午前）までとの認識を示したうえで、合意に至らなかった場合、これ以上延長する可能性は「極めて低い」と述べた。
+
+トランプ氏は米ブルームバーグ通信との電話インタビューで、「延長する可能性は極めて低い」と語った。停戦は当初2週間の予定で、4月7日夜に発効した。
+
+さらにトランプ氏は「急いで悪い合意を結ぶつもりはない。時間は十...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246656.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/21/815b4e32b6ddb7866be7dfcd1fba8f6e/t/768/512/d/ap26108712459309-20260420152618736.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246651.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-20T17:48:00+09:00</dc:date>
+        <title>イラン外務省、米国との2回目の和平交渉「現時点で」計画なし</title>
+        <link>https://www.cnn.co.jp/world/35246651.html?ref=rss</link>
+        <description>イラン外務省の報道官が20日、米国との次回の和平交渉に関する計画はないと明言した。和平交渉の行方をめぐって混乱が広がっている。
+
+イラン外務省のバガイ報道官は定例記者会見で「現時点では、次回の交渉に関する計画はない」と述べた。さらに、「イランの国益を守るために、期限や最後通告が重要だと考えている」と付け加えた。
+
+米国がイラン船籍の船舶を拿捕（だほ）したことを受け、イランは激しく反発しており、米イラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246651.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/20/492aac5902146416f8606f38cb51f25f/t/768/512/d/2026-04-05t170243z-57325735-rc23jkam7m34-rtrmadp-3-iran-crisis.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246649.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-20T16:31:00+09:00</dc:date>
+        <title>イラン船に砲撃した米海軍のミサイル駆逐艦「スプルーアンス」とは</title>
+        <link>https://www.cnn.co.jp/usa/35246649.html?ref=rss</link>
+        <description>19日にイランの貨物船に砲撃し、拿捕（だほ）した米海軍所属の艦船「スプルーアンス」は、アーレイ・バーク級ミサイル駆逐艦だ。
+
+米中央軍によると、スプルーアンスはイラン船籍の貨物船「トゥスカ」の機関室に5インチ砲で「数発」を発射し、航行不能にした。トゥスカにはその後、米海兵隊が乗り込み管理下においた。
+
+海軍の資料によると、スプルーアンスの5インチ砲Mk45は艦船、航空機、地上目標への利用を目的として設計さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246649.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/20/d1fec947e21cfe1b8b84390504712c34/t/768/512/d/9561132.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35246640.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-20T14:41:00+09:00</dc:date>
+        <title>iPhoneに最適なモバイルバッテリー3選　選び方のポイントも解説</title>
+        <link>https://www.cnn.co.jp/tech/35246640.html?ref=rss</link>
+        <description>最も必要としているときにiPhoneの電池が切れることほど困るものはない。だからこそ、iPhoneに最適なモバイルバッテリーを持つことは重要だ。便利なポータブル充電器は、外出先でも素早くバッテリーを補充してくれるので、重要なメッセージに返信できるし、道中で立ち往生しなくて済む。ポケットやバッグに楽々収まるスリムなデザインも魅力だ。
+
+とはいっても難しいのは選択肢の多さだ。複数台を充電できる大型で強力なものか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35246640.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/20/c718fdc340c6c3f55bb4cbf94434913a/t/768/432/d/lead-best-iphone-power-banks-cnnu-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246637.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-20T12:17:00+09:00</dc:date>
+        <title>米大使館職員とメキシコ捜査員、麻薬摘発作戦から戻る途中に交通事故死</title>
+        <link>https://www.cnn.co.jp/world/35246637.html?ref=rss</link>
+        <description>メキシコのチワワ州で19日、在メキシコ米国大使館の職員2人とメキシコ人の捜査員2人が、交通事故のために死亡した。当局によると、4人は麻薬製造施設の摘発作戦を終えて戻る途中だった。
+
+チワワ州司法長官によると、死亡したのは同州捜査局の幹部と護衛官、および在メキシコ米国大使館から派遣されたインストラクター2人だった。
+
+事故はチワワ・シウダードフアレス幹線道路で発生した。米大使館のインストラクター2人は、米国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246637.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/20/79e5cb89a8ce18a4dc5c0bae237d5fda/t/768/576/d/whatsapp-image-2026-04-18-at-12-34-25.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246617.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-20T11:24:00+09:00</dc:date>
+        <title>ロシア、大学生を兵役募集の標的に　「凄まじい」圧力 との証言も</title>
+        <link>https://www.cnn.co.jp/world/35246617.html?ref=rss</link>
+        <description>「今年になって何もかも変わった」
+
+「大学の『トップ』たちは今、学生たちに戦争に行くよう呼びかけている」
+
+「大学中に無人機部隊関連のポスターが貼られている。 文字通り至る所に」
+
+「圧力が凄まじい」
+
+これらはすべて、CNNへのダイレクトメッセージでロシア人学生たちが語った言葉だ。報復措置を取られる恐れがあるため彼らの氏名や所属大学は伏せておくが、こうした証言や増え続ける公開情報から得られる証拠は、ロシ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246617.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/19/4399ae6d2424db206dbf758388550295/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW5yNW9scWMwMDAxM2I2cXozODl5Nms1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntbm9lcjg3NDAwMHkyNnFkYWhsOGFidWs_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246635.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-20T11:13:00+09:00</dc:date>
+        <title>中国の人型ロボット、人間上回るハーフマラソン世界新記録を達成</title>
+        <link>https://www.cnn.co.jp/world/35246635.html?ref=rss</link>
+        <description>北京で19日に開かれたハーフマラソン大会で、人型ロボットが人間を大幅に上回る世界新記録を達成した。わずか1年前まで、ロボットは到底、人間に追いつくことはできていなかった。
+
+
+  
+    
+      
+    
+    
+   CNN
+  
+
+
+「ライトニング（「稲妻」の意味）」と名付けられたランニングロボットは、中国のスマートフォンメーカー、オナー（栄耀）が開発。今回の大会では21キロを50分26秒で完走し、人間の世界記録を6分以上も上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246635.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/20/3854fabe96557eff71716c38193de4ea/t/768/512/d/2026-04-19t013129z-2116603810-rc20skavx6pg-rtrmadp-3-china-robots-athletics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246627.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-20T10:28:00+09:00</dc:date>
+        <title>住宅3軒で銃撃、子ども8人死亡　容疑者は父親、警官が射殺　米ルイジアナ州</title>
+        <link>https://www.cnn.co.jp/usa/35246627.html?ref=rss</link>
+        <description>米ルイジアナ州シュリーブポートで19日早朝、男が3軒の住宅で発砲して子ども8人を殺害する事件が起きた。うち7人は自分の子どもだった。地元警察が明らかにした。米国でこれほどの犠牲者を出した銃撃事件は2024年1月以来だった。
+
+シュリーブポート警察はCNNに対し、死亡した子どもは1歳～12歳だったと伝えた。
+
+CNN提携局KSLAによると、警察は家庭内のトラブルがあったとみて捜査を続けている。
+
+警察によると、発砲したシャマ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246627.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/20/069edc68f8cd2631af5e39fde5945bd4/t/768/512/d/ap26109777978403a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35246620.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-20T09:47:00+09:00</dc:date>
+        <title>原油価格が再び上昇、米イランの停戦合意期限迫るなか</title>
+        <link>https://www.cnn.co.jp/business/35246620.html?ref=rss</link>
+        <description>原油価格が19日、イランが大半の船舶に対しホルムズ海峡を再び封鎖したことを受け、上昇した。ホルムズ海峡は世界の原油輸送の5分の1を占める重要な水路。価格上昇の背景には、米イラン間の停戦合意が22日に期限切れを迎えることもある。
+
+国際指標であるブレント原油は、イランが同海峡を再開するとの報道を受け、17日に3月10日以来の安値で取引を終えていたが、約7%上昇し1バレル＝96.88ドルとなった。米国産原油も7%上昇し、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35246620.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/20/7cc0fbdafea2af286177f5e70d82dc8f/t/768/512/d/ap26108447361822.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246619.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-20T09:06:00+09:00</dc:date>
+        <title>米海軍がイラン船に発砲・拿捕、トランプ氏発表　ホルムズ海峡の再開行き詰まるなか</title>
+        <link>https://www.cnn.co.jp/usa/35246619.html?ref=rss</link>
+        <description>トランプ米大統領は19日、オマーン湾で米海軍の海上封鎖を突破しようとしたイラン船籍の貨物船に対し、米軍が発砲し拿捕（だほ）したと発表した。
+
+「本日、全長約900フィート（約274メートル）、空母に匹敵する重量のイラン船籍の貨物船『トゥスカ』が米海軍の海上封鎖を突破しようとしたが、うまくいかなかった」とトランプ氏はSNS「トゥルース・ソーシャル」で述べた。
+
+「米海軍のミサイル駆逐艦『スプルーアンス』はオマー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246619.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/20/9ff7788304b21e3dea188c4c097a81b6/t/768/512/d/gettyimages-2271917249a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246616.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-19T18:17:00+09:00</dc:date>
+        <title>ホルムズ海峡の航行、再び停止状態に　船舶2隻への攻撃受け　</title>
+        <link>https://www.cnn.co.jp/world/35246616.html?ref=rss</link>
+        <description>ホルムズ海峡では18日に船舶2隻が攻撃を受けた後、再び船の往来が停止した。
+
+船舶追跡サイト「マリントラフィック」のデータによると、この海域の船の大半はペルシャ湾の奥深くか、比較的安全なオマーン湾の方へ移動した。
+
+英国海事貿易機関によると、イランの攻撃艇がホルムズ海峡を通過中のタンカーに銃撃したほか、別の船舶にも「詳細不詳の飛翔（ひしょう）体」が直撃したという。
+
+インド政府は、インド船籍の2隻がホル...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246615.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-19T17:28:00+09:00</dc:date>
+        <title>ホホジロザメの体に謎の噛み痕、写真公開で話題に</title>
+        <link>https://www.cnn.co.jp/fringe/35246615.html?ref=rss</link>
+        <description>体の側面に噛（か）まれた巨大な痕のあるホホジロザメ――。アゼルバイジャン人の写真家ジャリル・ナジャフォフ氏がそんな写真を数年前にSNSで公開し、話題を呼んだ。
+
+熱心なサメ愛好家で保護活動家、映像制作者でもあるナジャフォフ氏は2019年8月、友人とメキシコ沿岸部を探検していた時、自分たちのボートの近くを泳ぐホホジロザメを目撃した。
+
+これだけでも刺激的だが、続けて一行はサメの体の側面に謎の噛み痕があることに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246615.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/19/9608e5355e6138d2c03d4153cf4d9757/t/768/432/d/220105130730-shark-bite-crop.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246614.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-19T16:29:00+09:00</dc:date>
+        <title>「奇妙な」ぶよぶよ頭の魚に水陸両生のネズミ、ペルーで22年に見つかった新種27種</title>
+        <link>https://www.cnn.co.jp/fringe/35246614.html?ref=rss</link>
+        <description>南米ペルーで調査旅行を実施した研究者らが新種の動物27種を発見し、その中には「ぶよぶよ頭の魚」や半水陸両生のネズミも含まれていた――。一昨年にそんな調査結果が発表された。
+
+当該の調査旅行は非営利の環境団体が2022年に38日かけて実施。ペルー北西部のアルトマヨ保護林を探索した。約77万ヘクタールにわたって森林と農地が広がる同保護林には、多様な生態系が存在する。
+
+現地は人口の多い地域だが、地元の生物多様性や...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246614.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/12/25/2e20458171793605c14308b6e0bc209b/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTR3cnNva3AwMDBhM2Q1dnV5eXQ4Z3I3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtNHdrejFtMzAwNGwyN3A3aGRpbmRoamc=-thumbnail-675.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246613.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-19T15:18:00+09:00</dc:date>
+        <title>米国で徴兵登録が12月から自動化、イランとの戦争で改めて注目　その仕組みは？</title>
+        <link>https://www.cnn.co.jp/usa/35246613.html?ref=rss</link>
+        <description>米国の若い徴兵適格者の男性は、12月から選抜徴兵制度（セレクティブ・サービス）の対象者名簿に自動的に登録されることになる。これは昨年末に連邦議会で成立した年次国防政策法に盛り込まれた措置の一環だ。
+
+すでに18歳から26歳までの男性は、徴兵が必要になった場合に備えてセレクティブ・サービスへの登録が義務付けられている。米国で徴兵制度が最後に実施されたのは、ベトナム戦争中の1973年2月だ。
+
+セレクティブ・サー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246613.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/19/0eba2eb2fb9e4e218d8b8525cbc7822f/t/768/511/d/gettyimages-2220170402.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246612.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-19T13:31:00+09:00</dc:date>
+        <title>【分析】ホルムズ海峡巡るめまぐるしい動き、激動の24時間はどう展開したのか</title>
+        <link>https://www.cnn.co.jp/world/35246612.html?ref=rss</link>
+        <description>たった1日で状況は大きく変わった。米イラン間の停戦が失効に近づく中、17日のこの時間帯には、ホルムズ海峡を通過する船は増加に向かうだろうと考えた人がいても無理はなかったかもしれない。
+
+トランプ米大統領は17日、イラン政府からの発表を熱烈に歓迎。ホルムズ海峡は「完全開放され、完全な通航に向けた準備が整った。感謝する！」と表明した。
+
+イランのアラグチ外相はX（旧ツイッター）で海峡の完全な再開を示唆する一...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246612.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/19/e1d340c7af8cbb8048c295a9a71ac1f3/t/768/511/d/ap26108447289863a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246611.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-19T11:02:00+09:00</dc:date>
+        <title>ホルムズ海峡を巡るイランの内部対立、指導部内のより深い亀裂露呈　専門家が見解</title>
+        <link>https://www.cnn.co.jp/world/35246611.html?ref=rss</link>
+        <description>ホルムズ海峡を巡るイランの最近の内部対立は、対米戦略を巡る指導部内のより深い亀裂を浮き彫りにしている――。地域の専門家がCNNの取材に、そんな見解を明らかにした。
+
+イスラエル国家安全保障研究所（INSS）のイラン専門家、ダニー・シトリノウィッツ氏はCNNに対し、「こうした内部対立は単なる政治的茶番ではない。イランの長期的な対米戦略を巡るより深い争いを映すものだ」と説明した。
+
+イランのアラグチ外相は17日、X（...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246610.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-19T10:08:00+09:00</dc:date>
+        <title>ホルムズ海峡の通過、通航料を払う船舶が優先　イラン高官が明かす</title>
+        <link>https://www.cnn.co.jp/world/35246610.html?ref=rss</link>
+        <description>イランの高官は18日、CNNに対し、イランはホルムズ海峡の通航料を支払う船舶を優先する方針だと明らかにした。
+
+この高官は「通過を許可される船の数に限りがある状況を踏まえ、イランはホルムズ海峡を巡る新たな取り決めに速やかに対応し、警備・安全サービス料を支払う船舶を優先することを決定した」と説明した。
+
+高官によると、料金を支払わない船舶の通過は「延期される」という。
+
+イランは18日、米国による停戦中の「度...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246610.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/19/4463fd90e56d5f4c767732b52dbe46c8/t/768/511/d/ap26108498655681.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246609.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-19T09:36:00+09:00</dc:date>
+        <title>イラン革命防衛隊、米国が封鎖解除するまでホルムズ海峡を封鎖　「違反する船は攻撃対象」</title>
+        <link>https://www.cnn.co.jp/world/35246609.html?ref=rss</link>
+        <description>イランのイスラム革命防衛隊海軍は18日、SNSテレグラムに発表した声明で、革命防衛隊は同日夕からホルムズ海峡を封鎖すると明らかにした。
+
+革命防衛隊の声明では、「ホルムズ海峡への接近は敵との協力行為とみなされ、違反する船舶はすべて攻撃対象になる」としている。
+
+イランは17日に海峡開放を宣言したが、米国による停戦中の「度重なる信頼の裏切り」を理由に18日、船舶の通航を再び制限する方針を示した。
+
+革命防衛隊は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246609.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/19/bdfd35241a0eb79c77a73a6f3327ebeb/t/768/511/d/ap26108447243959.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246608.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-19T08:49:00+09:00</dc:date>
+        <title>キーウで銃撃・人質事件、6人死亡　容疑者も死亡　ウクライナでは異例の銃乱射</title>
+        <link>https://www.cnn.co.jp/world/35246608.html?ref=rss</link>
+        <description>ウクライナの首都キーウで18日、男が路上で市民に発砲した後、スーパーマーケットで人質を取る事件があり、ウクライナ当局によると、少なくとも6人が死亡、15人が負傷した。
+
+ウクライナのクラウチェンコ検事総長によると、銃撃したのはロシア首都モスクワ生まれの男（58）で、本人も死亡した。
+
+当局が事件の状況や動機の解明を進めている。クラウチェンコ氏は「テロ行為」として捜査が行われていると明らかにした。
+
+クラウチ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246608.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/19/dbd1ccbd5bc6c606d0757f719c6209b8/t/768/511/d/2026-04-18t154553z-1694014080-rc2rrka3t7g5-rtrmadp-3-ukraine-shooting.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246593.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-18T19:15:00+09:00</dc:date>
+        <title>最も快適な寝間着は裸？　専門家が解説</title>
+        <link>https://www.cnn.co.jp/fringe/35246593.html?ref=rss</link>
+        <description>厚手の毛布の下で寝返りを繰り返した経験があるなら、暑すぎることがどれほど睡眠を妨げるか、身を持って感じたことがあるだろう。
+
+「温度は睡眠において最も過小評価されている要因の一つ」と、全米睡眠財団の研究・科学部門でシニアバイスプレジデントを務めるジョセフ・ジエルゼウスキー氏は述べている。「光、画面、ストレスについてはよく耳にするが、温度や空気の流れのわずかな変化でさえ、寝つきや睡眠の深さに影響を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246593.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/18/a2a36244d7178a07dd0053dfa349c399/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW5qZ2RjNnQwMDBuM2o2cnNvZnZnMjZn-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbmplNTJtZTAwM3IyNnFiaG5ubjdoOHg_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246607.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-18T19:00:00+09:00</dc:date>
+        <title>トランプ氏、停戦延長しない可能性を示唆　イランとの合意なければ</title>
+        <link>https://www.cnn.co.jp/usa/35246607.html?ref=rss</link>
+        <description>米国のトランプ大統領は17日、米国とイランの間の暫定的な停戦を延長しない可能性に言及した。これにより両国が22日までに合意に至らなければ、軍事行動が再開される見通しが強まった。
+
+トランプ氏は大統領専用機エアフォースワンの機内で、交渉が不調に終わった場合に停戦を延長するのか、それとも攻撃を再開するのかと問われ、「延長はしないかもしれない」と答えた。
+
+「延長はしないかもしれない。そうなれば封鎖状態とな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246607.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/18/c7a908c575a269e1bb4589abe83d0611/t/768/512/d/rtrmadp-3-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246606.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-18T18:44:00+09:00</dc:date>
+        <title>イラン軍、ホルムズ海峡の通航に再び制限　米国による「信頼の裏切り」主張</title>
+        <link>https://www.cnn.co.jp/world/35246606.html?ref=rss</link>
+        <description>イラン軍は18日までに、ホルムズ海峡を通る船舶の通航に再び制限を課す方針を明らかにした。停戦中に米国が「繰り返し信頼を裏切った」と主張した。
+
+イランのアラグチ外相は17日、X（旧ツイッター）にホルムズ海峡が船舶に開放されたと投稿していた。しかし、イラン国営メディアは数時間後、「船舶の通航に対するイラン軍の完全な監督」を行う方針を確認し、「（米国による）いわゆる海上封鎖が続く場合、そうした通航は無効と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246606.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/18/9e1bae6a8fa0d05ce311bd2948e9f353/t/768/432/d/2026-04-17t153425z-1797731019-rc23rkaovsfd-rtrmadp-3-iraq-basra-oil__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246603.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-18T18:00:00+09:00</dc:date>
+        <title>息をのむようなホルムズ海峡の水中世界、イラン戦争長期化で危機に直面か</title>
+        <link>https://www.cnn.co.jp/fringe/35246603.html?ref=rss</link>
+        <description>ペルシャ湾で足止めされている船舶からそう遠くない場所に、生態系の驚異が広がっている。現在激しい紛争の渦中にあるホルムズ海峡は、イルカやこの地域で最も多様なサンゴの群落の生息地だ。周辺で紛争が激化する中、科学者らはこうした水中の世界が危機に瀕（ひん）している可能性があると指摘している。
+
+イランが一時的な停戦期間中の海峡の再開を発表したにもかかわらず、17日午前現在、約2000隻の船舶がペルシャ湾に足止...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246603.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/18/41cc5581ffbd0175905040ccaa4258d7/t/768/519/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW8wOTlpazEwMDAzM2I2cmRzM2ZjYXJl-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbzA1amdhbjAwMnEyYXA2ZmF6dWJnZ3E_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246605.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-18T17:54:00+09:00</dc:date>
+        <title>「太平洋の幽霊船」と呼ばれた米軍艦の残骸、24年に発見　保存状態は「格別」</title>
+        <link>https://www.cnn.co.jp/fringe/35246605.html?ref=rss</link>
+        <description>「太平洋の幽霊船」として知られる米海軍の駆逐艦の残骸が海底探査によって発見される――。米カリフォルニア州沖で一昨年、そんな出来事があった。
+
+
+「USSスチュワート」は1946年5月の米海軍の演習中、意図的に沈められたが、その地点が判明したという。共に探索に関わったエア・シー・ヘリテージ・ファウンデーションとサーチ・インクが2024年10月1日に発表した声明で述べた。
+
+海洋探査を手掛ける米企業オーシャン・インフィ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246605.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/10/04/b7701d053c09592c8d6d3b162c910cad/t/768/432/d/hisas-image-logo-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246604.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-18T17:27:00+09:00</dc:date>
+        <title>濃縮ウランを「核の塵」と呼び続けるトランプ氏、何のことを言っているのか？　専門家から疑念</title>
+        <link>https://www.cnn.co.jp/usa/35246604.html?ref=rss</link>
+        <description>トランプ米大統領は16日、イランが核兵器を保有しないことと「核の塵（ちり）」を引き渡すことに同意したと主張した。「核の塵」というのは、イランの高濃縮ウランの備蓄を指してトランプ氏が使っている言葉だ。
+
+「核の塵」は原子力産業で一般的な用語ではない。専門家の間では、濃縮ウランに関するトランプ氏やウィトコフ中東担当特使の発言を巡り、技術的な内容をどの程度理解しているのか疑念を抱かせるものだとの指摘が出...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246604.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/18/e9fd2d82a22a7aacf4bb6b0f1499a5c2/t/768/511/d/gettyimages-2271127367.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35246602.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-18T16:41:00+09:00</dc:date>
+        <title>スキャパレリ、ファッションの常識を覆した異色デザイナーの軌跡を探る　英展示会</title>
+        <link>https://www.cnn.co.jp/style/fashion/35246602.html?ref=rss</link>
+        <description>ファッションは長らく芸術と歩みを共にし、デザイナーたちは歴史上の偉大な芸術家の作品から着想を得てきた。高度な技術力と前衛的な野心を併せ持つことから、ファッションは絵画や彫刻と同じ地平にある芸術だと主張する声も多い。
+
+ロンドンのビクトリア・アンド・アルバート博物館（V&amp;A）で開催中の大規模な展覧会は、この二つの分野の関係性を、より切実な形で示している。「スキャパレリ：ファッションは芸術となる」展（3...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35246602.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/18/c8eae5748c7ddf7fdd5efa701578ee1b/t/768/432/d/schiaparelli-v-a-dv-thumb-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246600.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-18T13:58:00+09:00</dc:date>
+        <title>トランプ米政権、イランの資産凍結解除を検討　3兆円相当と情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35246600.html?ref=rss</link>
+        <description>トランプ米政権は、イランとの継続的な交渉の一環として、凍結されているイランの資産200億ドル（約3兆円）相当の解除を検討している。協議に詳しい2人の情報筋が明らかにした。
+
+協議に詳しい情報筋がCNNに語ったところによると、関係者らは早ければ今週末にもより包括的な戦争終結合意が最終決定されることを期待しているが、依然として意見の相違が残る部分もあるという。
+
+資産の凍結解除を巡っては、イランが経済的利益を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246600.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/18/21e3bbe103561ad74082da8f1f8521d9/t/768/512/d/gettyimages-2270805179.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246601.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-18T13:37:00+09:00</dc:date>
+        <title>米軍、インド太平洋でもイラン関係船を追跡　マラッカ海峡へ向かう「遠征海上基地」を衛星画像で確認</title>
+        <link>https://www.cnn.co.jp/usa/35246601.html?ref=rss</link>
+        <description>米軍制服組トップのケイン統合参謀本部議長は16日、米軍は中東から大きく離れた海域でもイラン関係の船を追跡する方針だと述べ、特にインド太平洋に言及した。
+
+英海運情報メディアのロイズ・リストによると、太平洋地域、とりわけマラッカ海峡周辺の停泊地には、イランのような国から違法または制裁対象の石油を輸送する「ダークフリート（影の船団）」のタンカーが集中している。
+
+ケイン氏は「我々は太平洋の管轄区域でも、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246601.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/18/e955111e9b4df6c727beb2314d1e500a/t/768/547/d/2026-04-16-00-00-2026-04-16-23-59-sentinel-2-l2a-true-color-20260418010017806.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
