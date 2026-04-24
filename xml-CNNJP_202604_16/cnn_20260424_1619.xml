@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-04-24T18:54:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246889.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246883.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35246884.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246872.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246873.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246865.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246866.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246824.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246861.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35246843.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246840.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246837.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246835.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35246833.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246831.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246762.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246813.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246822.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35246816.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246807.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246801.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246787.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246800.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35246799.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246794.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246788.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246771.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246773.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35246769.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35246768.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246889.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T18:54:00+09:00</dc:date>
+        <title>トランプ氏、英ヘンリー王子のウクライナ発言を一蹴　「私の方が英国を代弁」</title>
+        <link>https://www.cnn.co.jp/usa/35246889.html?ref=rss</link>
+        <description>トランプ米大統領は23日、ウクライナ戦争終結に向けた一層の行動を米国に求めた英ヘンリー王子の発言を一蹴し、ヘンリー王子の言葉は英国を代表していないと指摘した。
+
+トランプ氏は「ひとつ分かっているのは、ヘンリー王子は英国を代表して発言していないということだ。それは確かだ。むしろ私の方が彼より英国を代弁していると思う。ただ、彼の助言にはとても感謝している」とコメント。そのうえで「彼は元気か？　妻はどう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246889.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/3e162f9fd10992d2ec9c6027184f5696/t/768/511/d/ap26113774220463-20260424081916898.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246883.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T18:19:00+09:00</dc:date>
+        <title>3隻目の米空母ジョージ・H・W・ブッシュが中東に到着、専門家の見解は</title>
+        <link>https://www.cnn.co.jp/usa/35246883.html?ref=rss</link>
+        <description>米軍は23日、3隻目の空母となるジョージ・H・W・ブッシュが中東に到着したと発表した。専門家によると、同地域にこれだけの数の空母が展開されたのは過去20年以上で初めて。
+
+​​発表はトランプ大統領がイランとの戦争終結の時期について明言を避けたタイミングとほぼ重なった。
+
+中東全域の米軍を統括する米中央軍は、ソーシャルメディアへの投稿で、ニミッツ級空母のジョージ・H・W・ブッシュが管轄区域に入ったと明らかにした...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246883.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/fe95dc97fb71c14622e349b382d9cac6/t/768/512/d/hgm9d4px0aajepd.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35246884.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T17:38:00+09:00</dc:date>
+        <title>エコノミークラス最後列の最悪の席が一変、「半個室の隠れ家」に　「スカイヌーク」お披露目</title>
+        <link>https://www.cnn.co.jp/travel/35246884.html?ref=rss</link>
+        <description>旅客機でエコノミークラスの最後列に座りたいという人はほとんどいない。座席をリクライニングさせるスペースはなく、トイレに並ぶ人の列も絶えない。においは言わずもがなで、気が休まらない場所になりがちだ。
+
+しかし、この空間をもっと魅力的な場所に変貌（へんぼう）させられるとしたらどうだろう？
+
+半個室のポッド内で通路やトイレの音から遮断され、機内に持ち込んだ手荷物を収納するスペースもたっぷり――。そんな空間...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35246884.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/36b58cba3415a381208a41b927262a90/t/768/432/d/skynook-cca-03.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246872.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T16:10:00+09:00</dc:date>
+        <title>イスラエル警察、ユダヤ人男性を拘束　イスラエルとパレスチナの旗描かれた民族衣装着用で</title>
+        <link>https://www.cnn.co.jp/world/35246872.html?ref=rss</link>
+        <description>イスラエル警察はこのほど、イスラエルとパレスチナの旗が刺繍（ししゅう）されたキッパ（ユダヤ教徒の男性が頭にかぶる民族衣装）を着用していたユダヤ人男性を拘束した。キッパはその後切り裂かれたと当該の男性は主張している。この異例の事案は、全国的な注目を集めている。
+
+作家でヘブライ大学の非常勤講師も務めるアレックス・シンクレア氏（53）はCNNの取材に答え、テルアビブの南東約3​​5キロに位置する故郷モディイン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246872.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/e96f35ff704740ec5434db6014138988/t/768/721/d/678276241-26491327753870276-1850915608240475407-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246873.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T15:07:00+09:00</dc:date>
+        <title>中国からイランへ向かっていた拿捕船、船内で見つかった物資は「最高機密」　トランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35246873.html?ref=rss</link>
+        <description>トランプ米大統領は23日、中国からイランへ向かう船を20日に拿捕（だほ）した際に見つかった具体的な物資については公表できないと述べ、「最高機密」だと形容した。
+
+トランプ氏は大統領執務室で記者団に、「確かに船内には積み荷があったが、最高機密だ」とコメント。「我々は色々な物を押収した」と言い添えた。
+
+中国が米国によるイラン港湾封鎖を破ろうとしたことに怒っているかと問われると、「いや」と述べ、米国も「他...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246873.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/9d82efc7eb99fc7d8359c45f3706e24c/t/768/480/d/9629490__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246865.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T14:00:00+09:00</dc:date>
+        <title>イスラエル、戦争再開を準備　「イランを暗黒時代に戻す」と国防相</title>
+        <link>https://www.cnn.co.jp/world/35246865.html?ref=rss</link>
+        <description>イスラエルのカッツ国防相は23日、「イランを暗黒時代に戻す」準備ができているとの認識を示した。国防省で行われた情勢評価会議で述べた。イランとの戦争の再開に向けて意欲を表明した形だ。
+
+「標的は特定している」とカッツ氏は明言。現状は米国が戦争再開の「ゴーサイン」を発するのを待っているところだとした。その上で「ハメネイ王朝の排除を完遂し、イランを暗黒時代に戻す」と述べた。
+
+米国とイランによる新たな直接...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246865.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/a540a3fed2e1fececda663626964dad1/t/768/511/d/gettyimages-2256644337.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246866.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T13:36:00+09:00</dc:date>
+        <title>米軍、ホルムズ海峡を集中的に狙う計画を策定中　イランとの停戦崩壊に備え</title>
+        <link>https://www.cnn.co.jp/usa/35246866.html?ref=rss</link>
+        <description>米軍の当局者はイランとの現状の停戦が崩壊した場合に備え、ホルムズ海峡内のイランの能力を狙う新たな作戦計画を策定していることが分かった。事情に詳しい複数の情報筋が明らかにした。
+
+情報筋によると、検討されている攻撃目標の選択肢には、ホルムズ海峡やアラビア湾南部、オマーン湾周辺のイランの能力に対する「ダイナミック・ターゲティング」に重点を置いた攻撃が含まれる。具体的には、小型の高速攻撃艇や機雷敷設艇...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246866.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/096e958ddda377ca832df8e0ea7f363b/t/768/479/d/9629495a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246824.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T12:43:00+09:00</dc:date>
+        <title>前線に343日、とどまり続けた将校　長期配備が物語るウクライナ軍の人員不足</title>
+        <link>https://www.cnn.co.jp/world/35246824.html?ref=rss</link>
+        <description>歩兵将校のオレクシーさん（37）は343日間、前線を離れなかった。所属大隊によれば、ウクライナ軍将校の戦闘配備期間としては最長級だった。
+
+配備されたのは東部ザポリージャ州の集落の間にある森林。これほど長期間にわたった配備は、4年以上も続く戦争の中で、ウクライナ軍が深刻な人員不足に陥っている状況を物語る。
+
+オレクシーさんには一時的に前線を離脱する機会もあったが、人員不足を理由に自発的にとどまり続けた。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246824.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/f2d553edad0ae1185f166912974d9f3b/t/768/512/d/whatsapp-image-2026-04-20-at-17-34-06-1-20260420153140116.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246861.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T12:06:00+09:00</dc:date>
+        <title>マドゥロ大統領失脚に賭けて6千万円超の大儲け、米特殊部隊兵士を逮捕</title>
+        <link>https://www.cnn.co.jp/usa/35246861.html?ref=rss</link>
+        <description>ベネズエラのニコラス・マドゥロ大統領拘束作戦にかかわった米軍特殊部隊の兵士が、マドゥロ氏の失脚に賭けて40万ドル（約6400万円）の利益を得ていたとして逮捕・起訴された。
+
+23日に公開された起訴状によると、ギャノン・ケン・バン・ダイク曹長は昨年12月下旬、大手予測市場の「ポリマーケット」にアカウントを開設し、マドゥロ大統領が1月までに失脚するという予測に約3万2000ドルを賭けた。当たる確率は極めて低かった。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246861.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/35713a2089c3de2ecb26cef8d2d323d7/t/768/548/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW9jMDFlem8wMDBqM2I2cTlxbHU4YzZ2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntb2J6cnNuczAwMHkyNnA3OThtbGZ2dGo_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35246843.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T11:30:00+09:00</dc:date>
+        <title>「結婚前パーティー」の観光客、歴史的建造物によじ登って破損　イタリア</title>
+        <link>https://www.cnn.co.jp/travel/35246843.html?ref=rss</link>
+        <description>イタリアのフィレンツェで、独身最後の夜のパーティーを楽しんでいた観光客の女性が16世紀の建造物によじ登り、数千ドル相当の損害を生じさせた。
+
+フィレンツェ市の発表によると、シニョリーア広場にあるネプチューンの噴水に18日、28歳の女性が侵入した。女性の氏名や国籍は公表されていない。
+
+ネプチューンの噴水は1559年にフィレンツェ公コジモ1世デ・メディチが息子夫婦の結婚を記念して建設した。
+
+噴水には、馬に引かれ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35246843.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/2b5ddbdd59408f0dc6a1a6eeb44a8a94/t/768/510/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW9iZmoydmcwMDA0MzU2cWpvMjk1OXoy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntb2JmZ3B1cDAwM3AyZHFoNm14bDIwbjI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246840.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T10:34:00+09:00</dc:date>
+        <title>8歳になった英ルイ王子、誕生日記念写真が公開に　笑顔で腕を組む姿</title>
+        <link>https://www.cnn.co.jp/world/35246840.html?ref=rss</link>
+        <description>英国のルイ王子が23日に8歳の誕生日を迎え、王室は伝統を踏襲して記念写真を公開した。
+
+写真は両親であるウィリアム皇太子とキャサリン妃のSNSに投稿された。青いクォータージップの上着を着て腕を組み、笑顔を見せるルイ王子の姿が写っている。
+
+写真には「誕生日おめでとう、ルイ！　今日で8歳！」との言葉も添えられている。
+
+
+  
+  
+8歳の誕生日写真が公開された英ルイ王子/The Prince and Princess of Wales/X
+  
+
+
+
+皇太...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246840.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/fcd258aeecac5c26521e9d58de848f92/t/324/432/d/hgla6jqwwaa-s1r__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246837.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T10:24:00+09:00</dc:date>
+        <title>太古の海を支配する体長19メートルの巨大タコ、頑丈な顎で獲物を捕食</title>
+        <link>https://www.cnn.co.jp/fringe/35246837.html?ref=rss</link>
+        <description>およそ1億年前の海に生息していた全長19メートルの巨大タコは、食物連鎖の頂点に立つ捕食者だった――。そんな研究結果が23日の科学誌サイエンスに発表された。
+
+岩盤の中から見つかった巨大タコの顎（あご）化石は保存状態が極めて良好で、獲物の殻や骨をかみ砕く際に生じた摩耗の痕跡が残っていた。
+
+論文を発表した北海道大学の伊庭靖弘准教授は、この巨大タコは白亜紀の海の頂点捕食者だった可能性があると指摘。タコの化石の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246837.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/3c93ec52756f84d4bf6ce49b9361f315/t/342/432/d/ikegami-aea6285-image.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246835.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T09:30:00+09:00</dc:date>
+        <title>イスラエルとレバノン、停戦3週間延長　トランプ氏発表</title>
+        <link>https://www.cnn.co.jp/usa/35246835.html?ref=rss</link>
+        <description>米国のトランプ大統領は23日、イスラエルとレバノンの停戦が3週間延長されると発表した。これより前にはホワイトハウスで両国の代表者との会談を主催していた。
+
+「会談は非常にうまくいった！　米国はレバノンがヒズボラから自国を守れるよう支援していく」と、トランプ氏は自身のSNSトゥルース・ソーシャルに投稿した。ヒズボラはレバノンのイスラム教シーア派武装組織。
+
+先週発表された当初の停戦は10日後に期限切れとなる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246835.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/57bc5bc1c43e3b6cd287baa5d33c672d/t/768/512/d/ap26113729205321.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35246833.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T08:58:00+09:00</dc:date>
+        <title>米メタ、従業員の10％削減へ　AI巨額投資の一方で</title>
+        <link>https://www.cnn.co.jp/tech/35246833.html?ref=rss</link>
+        <description>米メタは23日、従業員のおよそ10％に相当する約8000人を解雇する計画を明らかにした。テクノロジー業界では人工知能（AI）を一因とする人員削減が相次いでおり、今回の決定はその最新事例となる。
+
+同社は約6000件の求人枠も閉鎖する。メタの最高人事責任者ジャネル・ゲイル氏が、ブルームバーグ通信が報じたメモの中で明らかにし、メタはCNNにその事実を認めた。
+
+人員削減は5月20日に実施される。
+
+ゲイル氏は人員削減の理由...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35246833.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/24/c2e0a81747d2d3c329bda69a4170bb8b/t/768/512/d/2022-11-09t164205z-822588172-rc2eix9s83ww-rtrmadp-3-meta-layoffs-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246831.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-24T08:24:00+09:00</dc:date>
+        <title>トランプ氏、ホルムズ海峡で機雷敷設のイラン船に攻撃命令</title>
+        <link>https://www.cnn.co.jp/usa/35246831.html?ref=rss</link>
+        <description>トランプ米大統領は23日、米海軍に対し、ホルムズ海峡の海域に機雷を敷設しているイランの船舶に向けて砲撃を行うよう命じた。
+
+トランプ氏はSNSへの投稿で、「米海軍に対し、ホルムズ海峡の海域に機雷を敷設している船舶は、たとえ小型船であっても（イラン海軍の艦艇159隻はすべて海底に沈んでいる！）砲撃し、撃破するよう命じた。ためらいは一切不要だ」と述べた。
+
+同時にトランプ氏は、米国がホルムズ海峡で機雷の除去作...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246831.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/23f9b6b5b2ad462ef8f47ab66480cbf5/t/768/512/d/ap26108712459309-20260420205053573__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246762.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T19:47:00+09:00</dc:date>
+        <title>【分析】トランプ氏が育てた陰謀論という怪物、今や本人に襲いかかる可能性</title>
+        <link>https://www.cnn.co.jp/usa/35246762.html?ref=rss</link>
+        <description>恐らく現代の政治家で、トランプ米大統領ほど陰謀論を主流派の言論に持ち込んだ人物はいないだろう。
+
+当時のオバマ大統領に対する虚偽の「出生地疑惑」を掲げて共和党政治でのキャリアを事実上スタートさせた後、トランプ氏はこの10年間、ありとあらゆる荒唐無稽な言説をまき散らし続けてきた。例えば2020年の大統領選が「盗まれた」という主張や、ハイチからの移民が人々のペットを食べているといった内容だ。またそうした言...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246762.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/cf1fe1671ed96e3ef7bf9e1d49b4755d/t/768/512/d/gettyimages-2161922008.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246813.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T19:30:00+09:00</dc:date>
+        <title>ストレスは精子に影響を与えるのか、男性が知っておくべき不妊に関する知識</title>
+        <link>https://www.cnn.co.jp/fringe/35246813.html?ref=rss</link>
+        <description>不妊治療クリニックを経営する筆者が問題に直面している男性から最初に聞く言葉は、たいてい同じだ。「自分が原因だとは思いもしなかった。先生、助けてください」
+
+筆者はあらゆるケースを見てきた。女性の側の検査結果に問題がなかったため紹介されてきたカップル、妊娠を試みる前に精液検査を受ける男性、不妊が切迫する前になんらかの目安を知りたいという男性などだ。
+
+本人たちには症状も前兆もない。ただ予期していなか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246813.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/660ccf91b9a01bfb03239f4fb309fbf6/t/768/576/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW83a2t1ZW0wMDBoMzU2cW0waXM5d2Ru-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbzdrM2xibjAwMXoyNnAwNnUxamcxNGo_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246822.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T19:19:00+09:00</dc:date>
+        <title>米空母ジョージ・H・W・ブッシュがインド洋に展開、中東に3隻目の空母派遣か　艦載機75機以上</title>
+        <link>https://www.cnn.co.jp/usa/35246822.html?ref=rss</link>
+        <description>米空母ジョージ・H・W・ブッシュが今月21日の時点でインド洋に展開したことが、国防総省のウェブサイトに掲載された写真から明らかになった。停戦が終了した場合や、イランの港湾封鎖を支援する場合、米海軍は近く中東に数十機の作戦機を追加投入する可能性がある。
+
+空母ブッシュや75機を超える艦載機の正確な位置は明らかになっていない。ただ、下院軍事委員会に名を連ねる民主党のグッドランダー議員は22日、CNNに対し、3隻...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246822.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/a8de0e6d411c6431a706c312d156bff9/t/768/489/d/9633195__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35246816.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T17:49:00+09:00</dc:date>
+        <title>歌手d4vdが起訴された14歳少女殺害事件、死因は「複数の貫通性外傷」　検視報告書</title>
+        <link>https://www.cnn.co.jp/showbiz/35246816.html?ref=rss</link>
+        <description>米歌手d4vdが14歳の少女を殺害して遺体を切断した罪に問われている事件で、死因は「複数の貫通性外傷」だったことが分かった。22日に公表された検視報告書で明らかになった。
+
+被害者のセレステ・リバス・エルナンデスさんは昨年9月、ロサンゼルスでd4vdのテスラ車のフロントトランクから遺体で発見された。車はハリウッドヒルズに捨てられていたとみられ、警察の押収車保管施設にレッカー移動された際、職員がトランクから漂う...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35246816.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/0c8123cc3f901dc8209c8e65e40a9adb/t/768/499/d/c-gettyimages-2271742046.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246807.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T17:16:00+09:00</dc:date>
+        <title>エルサルバドルで大規模な集団裁判始まる、被告はギャング構成員とみられる486人</title>
+        <link>https://www.cnn.co.jp/world/35246807.html?ref=rss</link>
+        <description>中南米のエルサルバドルでこのほど、数百人を対象とする大規模な裁判が始まった。被告はギャング組織「MS13」の構成員とみられている。
+
+計486人の被告に対する罪状の総数は4万7000件を超える。内訳は殺人、恐喝、薬物と武器の密輸などで、2012年から22年にかけて発生したもの。同国の検察が明らかにした。
+
+裁判の様子を捉えた動画には、頭をそり上げ、白い衣服を着た被告の集団が座って審理を受ける姿が映っている。
+
+複数の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246807.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/b573bf1bd5695159b82b6a68d7847ac3/t/768/432/d/still-22563405-12873-300000000001-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246801.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T14:59:00+09:00</dc:date>
+        <title>レバノン首相、イスラエルを戦争犯罪で非難　空爆によるジャーナリスト殺害受け</title>
+        <link>https://www.cnn.co.jp/world/35246801.html?ref=rss</link>
+        <description>レバノンの首相がイスラエルを戦争犯罪で非難した。レバノン南部では22日に発生した空爆でジャーナリスト1人が死亡、もう1人が重傷を負った。
+
+レバノン国営NNA通信によると、取材活動中に死亡したのはレバノンのアル・アクバル紙に勤務していたアマル・ハリール氏。同氏は3月以降、レバノンでイスラエルによって殺害された4人目のメディア関係者となる。もう一人のジャーナリストは、レバノン当局によってフリーランスのフォト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246801.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/0754f5baba65119281a863a0cfa9a433/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW9hbjdkemYwMDAwM2I2cXp6NXkyMzVz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntb2FuMXV6YzAwMHkyZG5rY3p3cTQ3cjQ_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246787.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T13:13:00+09:00</dc:date>
+        <title>イラン体制の「分裂」主張するトランプ氏、現実はもっと複雑</title>
+        <link>https://www.cnn.co.jp/world/35246787.html?ref=rss</link>
+        <description> 「深刻な分裂状態にある」。これは現状のイラン政府に対するトランプ米大統領の見立てだ。同氏によればイランとの停戦延長は、そのような政府に「統一された」提案をまとめる時間を与えるための措置だった。イラン側がパキスタンに現れず、現地でのバンス副大統領との第2回協議が開催できなかったことは、同国指導部がいかにまとまりを失っているかを露呈した――。ホワイトハウスはそう主張する。
+
+イラン情勢を注視する観測筋...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246787.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/a5ea82ffe90995a4716bdd110bd80c2a/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW9haGZ5aHgwMDA0M2I2cXZxYTVpb2Q0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntb2FkcXh5ODAwMHkyOHAxYTQ1eTlvNmI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246800.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T13:02:00+09:00</dc:date>
+        <title>イラン、親政権集会で弾道ミサイルとされる兵器を誇示　「ホラムシャフル4」か</title>
+        <link>https://www.cnn.co.jp/world/35246800.html?ref=rss</link>
+        <description>イランは21日夜、首都テヘランの革命広場で開催された親政権の集会に弾道ミサイルとされる兵器を持ち出した。イラン国営メディアが報じた。
+
+
+  
+    
+       
+    
+    
+     （IRIB/Telegram）  
+
+
+国営イラン放送（IRIB）の映像には、2週間の停戦の失効期限が迫る中、テヘラン中心部の革命広場に大勢の人が集まる様子が映っている。トランプ米大統領は21日夜、停戦を延長すると表明した。
+
+映像では、中距離弾道ミサイル「ホ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35246799.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T12:48:00+09:00</dc:date>
+        <title>欧州とアフリカの間に位置する狭い海域で124隻の沈没船が発見　ホルムズ海峡と同様の歴史的要衝</title>
+        <link>https://www.cnn.co.jp/fringe/35246799.html?ref=rss</link>
+        <description>スペインの考古学者らはこのほど、2020年から23年にかけて実施した調査によってジブラルタル海峡のアルヘシラス湾内で124隻の沈没船を含む151の水中遺跡を特定したと発表した。
+
+欧州最南端とアフリカ北西端の間に位置するジブラルタル海峡はホルムズ海峡と同様に、その海域に海上輸送と紛争の歴史を刻んでいる。
+
+考古学的証拠の多くは海峡東側のアルヘシラス湾に存在する。ジブラルタル湾とも呼ばれるこの場所は現在、石油を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35246799.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/98cf5fef8dccc99ca558d1cc88c92cb4/t/768/512/d/alejandro-manas-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246794.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T11:45:00+09:00</dc:date>
+        <title>イスラエル入植者が相次ぎ学校襲撃、パレスチナ人生徒など2人を射殺　ヨルダン川西岸の暴力激化</title>
+        <link>https://www.cnn.co.jp/world/35246794.html?ref=rss</link>
+        <description>イスラエルが占領するパレスチナ自治区ヨルダン川西岸で、イスラエル人入植者が学校を襲撃し、14歳の少年などパレスチナ人2人を射殺した。パレスチナ保健省などが明らかにした。
+
+現場をとらえた映像には、ヨルダン川西岸中部の村ムガイルで戦闘服姿の男がライフル銃を持って学校に近付き、少なくとも8回発砲する様子が映っている。活動家によると、この男は過去にもこの村を襲撃したことがある入植者だった。
+
+ムガイルの住民...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246794.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/9703a9f195cb04d9725142bd5883af79/t/768/512/d/c-gettyimages-2271821524.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246788.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T10:35:00+09:00</dc:date>
+        <title>米国防総省、ホルムズ海峡の閉鎖は「6カ月」に及ぶ可能性　議員らに説明</title>
+        <link>https://www.cnn.co.jp/usa/35246788.html?ref=rss</link>
+        <description>米国防総省当局者は21日、下院軍事委員会に対し、イランとの戦争終結後、ホルムズ海峡から機雷を完全に除去するには最大6カ月かかる可能性があるとする情報評価について説明を行った。情報筋がCNNに明らかにした。
+
+このブリーフィングについては米紙ワシントン・ポストが最初に報じた。その他の背景はすぐには明らかになっていないが、6カ月という期間は戦争がもたらす経済的・政治的な影響の大きさを改めて認識させるものだ。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246788.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/4e1ced970be1cbe76258d9f95c8b4204/t/768/533/d/2026-04-16t123730z-1086270317-rc2cqka31km8-rtrmadp-3-iran-crisis-usa.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246771.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T10:09:00+09:00</dc:date>
+        <title>ウクライナ情勢に関する協議、イランでの戦争終結まで待てず　ゼレンスキー氏</title>
+        <link>https://www.cnn.co.jp/world/35246771.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領はCNNの取材に答え、イランでの戦争によってロシアのウクライナ侵攻への注目が逸（そ）れていることを認めた。その上で、イランでの衝突が終結するまでウクライナでの戦闘終結に向けた取り組みを再開できないと考えるのは「大きなリスク」だとの認識を示した。
+
+ウクライナの大統領府からCNNのクリスティアン・アマンプール記者の取材に応じたゼレンスキー氏は22日、米国との専門的な協議は継続...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35246771.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/5e36402f8529df61419d9f5621c59bdd/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW85eWFyYXQwMDc4MjZxazc1amdlb2V1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntbzl5YXJhdDAwN24yNnFrYTQ5dmExcDY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246773.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T09:45:00+09:00</dc:date>
+        <title>フェラン米海軍長官が退任、更迭か　対イランの海上封鎖が続く中</title>
+        <link>https://www.cnn.co.jp/usa/35246773.html?ref=rss</link>
+        <description>米国防総省のパーネル報道官は22日夜、フェラン海軍長官が「即時」退任すると発表した。事情に詳しい情報筋6人はCNNに対し、フェラン氏は更迭されたと明らかにした。
+
+事情に詳しい情報筋2人によると、ヘグセス国防長官はフェラン氏に、辞任しなければ解任すると通告したという。ホワイトハウスの高官は、トランプ大統領もこの決定について把握していると明かした。
+
+海軍はフェラン氏退任に関する問い合わせを国防長官室に回し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246773.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/09c1c951d3ba89ad4d1a3aa18484ed39/t/768/520/d/ap25356831135164.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35246769.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T08:49:00+09:00</dc:date>
+        <title>トランプ氏、対イラン戦争に「期限なし」　中間選挙が決定に影響との見方を否定</title>
+        <link>https://www.cnn.co.jp/usa/35246769.html?ref=rss</link>
+        <description>トランプ米大統領は22日、イランとの戦争に「期限はない」と述べ、政治的配慮が自身の対応に影響を与えているとの見方を否定した。
+
+米FOXニュースのマーサ・マッカラム氏とのインタビューで述べた。21日午後に延長した停戦や新たな和平交渉についても「時間的な切迫はない」と語った。
+
+戦争はいつ終結するかとの質問に対し、トランプ氏は「期限はない」と述べ、急ぐ必要はないとの認識を示した。これまで同氏は、対イラン戦争...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35246769.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/23/23f9b6b5b2ad462ef8f47ab66480cbf5/t/768/512/d/ap26108712459309-20260420205053573__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35246768.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-23T08:24:00+09:00</dc:date>
+        <title>イランによる非米国籍の船舶拿捕、停戦違反とは見なさず　米報道官</title>
+        <link>https://www.cnn.co.jp/world/35246768.html?ref=rss</link>
+        <description>米ホワイトハウスのレビット報道官は22日、イラン革命防衛隊（IRGC）がホルムズ海峡で船舶2隻を拿捕（だほ）したと主張している件について、トランプ大統領は停戦違反とは見なしていないと明らかにした。
+
+レビット氏は米FOXニュースに対し、「これらは米国の船でもイスラエルの船でもなかった。国際船舶2隻だった」と述べた。
+
+その上で、「これらの2隻は高速砲艇によって拿捕された。イランは中東で最も強力な海軍を持つにも...</description>
+    </item>
+</rdf:RDF>
