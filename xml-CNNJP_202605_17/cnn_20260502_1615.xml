@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-05-02T18:53:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35247131.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35247133.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247132.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247129.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35247130.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247128.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247127.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247126.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247125.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247124.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247123.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35247117.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247118.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247112.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247110.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35247111.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247099.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247098.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247097.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247091.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247095.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247088.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247071.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247086.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247073.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247064.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247068.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247070.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247051.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247052.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/business/35247131.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-02T18:53:00+09:00</dc:date>
+        <title>閑散としたモスクワのショッピングモールが物語る、ロシア経済の苦境</title>
+        <link>https://www.cnn.co.jp/business/35247131.html?ref=rss</link>
+        <description>中流階級が暮らすモスクワ郊外の住宅街。きらびやかなショッピングモールのアトリウムには、エネルギッシュなポップミュージックが鳴り響いている。しかし買い物客の賑わいを彩るはずだった音楽が鳴り響くモール内は今やほとんどが空き室で、各店舗のガラスの仕切りは板で覆われている。このような光景から、ロシア経済の低迷が痛いほど伝わってくる。
+
+この広大な「グッドゾーン・モール」は、2014年に鳴り物入りでオープンし...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35247131.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/02/d0a82bfd83d49eed8db74a1ca22f82e2/t/768/512/d/img-2013-20260429052023915.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35247133.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-02T18:11:00+09:00</dc:date>
+        <title>米スピリット航空が全便の運航停止、事業閉鎖へ　カスタマーサービスも利用不能に</title>
+        <link>https://www.cnn.co.jp/business/35247133.html?ref=rss</link>
+        <description>米格安航空会社（LCC）のスピリット航空は2日、事業閉鎖に着手し、全便を欠航にするとともに、カスタマーサービスを閉鎖した。同社の破産手続きに関する専用ウェブサイトに声明が掲載された。
+
+短い声明では「大変遺憾ながら、スピリット航空は2026年5月2日、事業の秩序立った段階的縮小を始めた。この措置は即時発効する」とコメント。顧客に対して「全便が欠航となり、カスタマーサービスはもう利用できない」と説明した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35247133.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/02/f2f4f2706e0a17639bc7c7e26c3b8415/t/768/511/d/c-2026-04-23t174145z-481493790-rc21vka2ln86-rtrmadp-3-spirit-aviation-bankruptcy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247132.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-02T16:30:00+09:00</dc:date>
+        <title>60年近く動作していなかった人工衛星から強力な電波信号、天文学者を悩ませる　昨年論文発表</title>
+        <link>https://www.cnn.co.jp/fringe/35247132.html?ref=rss</link>
+        <description>オーストラリアの天文学者らは2024年6月、奇妙な電波信号を捉えた。それは地球に近い位置から発せられた非常に強力な電波信号で、一瞬の間、空にある他のすべてのものよりも輝きを放った。その発生源の探査は、地球周回軌道上のゴミ問題の増加をめぐる新たな疑問を引き起こした。
+
+当初、研究者らは自分たちが何らか新種の天体を観測していると考えていた。
+
+西オーストラリア州カーティン大学電波天文学研究所の准教授、クラン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247132.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/02/70f9ec4069bd10e16d6a86a33da58f88/t/768/512/d/unknown-1-20250626134501571.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247129.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-02T15:02:00+09:00</dc:date>
+        <title>米記者夕食会襲撃、散弾銃構え保安検査を駆け抜ける容疑者の姿　CNNが映像分析</title>
+        <link>https://www.cnn.co.jp/usa/35247129.html?ref=rss</link>
+        <description>トランプ米大統領と閣僚らが出席したホワイトハウス記者協会主催の夕食会で発生した銃撃事件について、ワシントンの連邦検察は4月30日、会場となったホテルの監視カメラ映像と事件現場の宴会場内で録音された音声を公開した。
+
+CNNがそれらを分析した結果、コール・トマス・アレン容疑者がどの時点で発砲したのか、あるいはそもそも発砲したのかどうか、明確には判明しなかった。しかし音声分析からは事件中に合計6発の銃弾が発...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247129.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/02/574113358d097a3cd3adb7f122cc44a4/t/768/432/d/119293-campbellwhcdsuspectvideo-16x9-thumb-clean.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35247130.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-02T14:32:00+09:00</dc:date>
+        <title>米スピリット航空、2日未明に全便の運航停止へ　燃料価格高騰で再建頓挫</title>
+        <link>https://www.cnn.co.jp/business/35247130.html?ref=rss</link>
+        <description> 事情に詳しい情報筋2人によると、米格安航空会社（LCC）のスピリット航空は近く、米東部時間2日午前3時をもって運航を停止すると発表する。米国の主要航空会社が事業停止するのはほぼ25年ぶり。
+
+スピリット航空はジェット燃料価格の高騰で、2度目の破産から脱却する計画が頓挫した。主要債権者にも受け入れ可能な救済策についてトランプ政権と土壇場で合意に至ることを目指していたが、この取り組みは1日、失敗に終わった。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35247130.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/02/ba6d16e8817be7e940cf2c06f22e2e28/t/768/511/d/gettyimages-2152000870-20260501160331444.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247128.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-02T13:02:00+09:00</dc:date>
+        <title>トランプ氏、米国は「一種の海賊」　米軍によるイラン船の拿捕を振り返り</title>
+        <link>https://www.cnn.co.jp/usa/35247128.html?ref=rss</link>
+        <description>トランプ米大統領は1日、米海軍がイランの貨物船に発砲して拿捕（だほ）した最近の出来事に触れ、「一種の海賊のよう」だったとの表現を用いた。
+
+トランプ氏は夜の会合で、「我々には素晴らしい軍隊、素晴らしい海軍がいる」と発言。
+
+さらに米軍が最近、「鉄の壁」に突っ込もうとした船舶の機関室に発砲した出来事を振り返った。これは米海軍の駆逐艦スプルーアンスが先月、封鎖を破ってイランの港へ向かおうとしたイラン船籍...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247128.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/02/cee5dd5e10eb170e0fa0d18ee4570170/t/768/512/d/gettyimages-2273509664__1___1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247127.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-02T12:03:00+09:00</dc:date>
+        <title>イランとの戦争は誤り、米国民の61％が回答　最新世論調査</title>
+        <link>https://www.cnn.co.jp/usa/35247127.html?ref=rss</link>
+        <description>1日に発表された米紙ワシントン・ポストとABCニュース、イプソスの世論調査によると、米国民の61％がイランに対する武力行使は誤りだったと考えている。
+
+ワシントン・ポストが指摘するように、これは2006年5月の同紙／ABCニュースの世論調査でイラク戦争を誤りだと答えた59％とほぼ同水準。さらに1971年のギャラップの世論調査では、ベトナム戦争についても米国民の約6割が同様の見解を示していた。
+
+現在、民主党支持者の約9...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247126.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-02T11:07:00+09:00</dc:date>
+        <title>トランプ氏が軽口、米軍はキューバを直ちに「制圧」　イラン戦争からの帰路に？</title>
+        <link>https://www.cnn.co.jp/usa/35247126.html?ref=rss</link>
+        <description>トランプ米大統領は1日、米国が直ちにキューバを「制圧する」可能性について冗談交じりに言及し、イランでの戦争から帰還する途上で米軍がキューバへ進攻するかもしれないと示唆した。
+
+トランプ氏は聴衆の中にいた友人を指して、「彼はもともとキューバ出身だが、我々はほぼ即座にあそこを制圧するつもりだ」と発言した。
+
+さらに、キューバに対して何らかの行動を起こすとすれば、中東での作戦が終了した直後になるだろうと示...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247126.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/02/2b44fd41e5960bd0d2f52a2d334eccaa/t/768/512/d/2026-05-02t001144z-2041830209-rc2o0lapzp0h-rtrmadp-3-usa-trump__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247125.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-02T10:18:00+09:00</dc:date>
+        <title>中東の米軍施設、半数超がイランの攻撃で損傷　衛星画像と聞き取りに基づくCNN調査</title>
+        <link>https://www.cnn.co.jp/usa/35247125.html?ref=rss</link>
+        <description>イランとその同盟勢力は中東8カ国の少なくとも16カ所の米軍施設に損害を与え、一部の施設は事実上使用不能な状態になっていることが、CNNの調査で判明した。
+
+この報道は、数十枚の人工衛星画像および米国や湾岸アラブ諸国の情報筋へのインタビューに基づく。損害評価の内容に詳しい議会スタッフによると、この地域にある米軍の拠点の半数超が被害を受けたという。
+
+情報筋は「評価の内容には幅がある」とコメント。「施設全体...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247125.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/02/b128f698e737e402a0272f90f0ced575/t/768/432/d/plane-20260430170617210.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247124.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-02T10:15:00+09:00</dc:date>
+        <title>米、ドイツから駐留部隊5000人撤退へ　首相のイラン戦争批判受け</title>
+        <link>https://www.cnn.co.jp/usa/35247124.html?ref=rss</link>
+        <description>米国防総省は1日、今後1年間でドイツから約5000人の米軍部隊を撤退させると発表した。
+
+この撤退は、トランプ大統領がイランとの戦争に対するドイツのメルツ首相の批判を非難した後に発表された。ただ撤退後もドイツ国内には3万人以上の米軍部隊が残ることになる。
+
+​​国防総省のパーネル報道官は声明で、今回の決定について「欧州における国防総省の部隊態勢を徹底的に見直した結果であり、作戦地域における必要性と現地の状況...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247124.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/02/023309ffa5e2c189ca4b720d3222ff14/t/768/524/d/gettyimages-2266321629.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247123.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-02T09:01:00+09:00</dc:date>
+        <title>トランプ氏、イランとの戦争に勝利していないとの発言は「反逆的」</title>
+        <link>https://www.cnn.co.jp/usa/35247123.html?ref=rss</link>
+        <description>トランプ米大統領は1日、米国がイランとの戦争に「勝利」していないとの発言は「反逆的」とみなすと発言した。ただ、これに先立ちトランプ政権は、議会に対して戦闘行為は「終了した」と通知していた。
+
+トランプ氏はフロリダ州ザビレッジズでの発言で、「急進左派は『我々は勝っていない』と繰り返すが、イランにはもう全く軍隊が残っていない。信じられない話だ。実際のところ、反逆的な発言だと思う。もしあなたが真実を知り...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247123.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/02/bb81b57168c974497fe29703baeb4b45/t/768/512/d/2026-05-01t222236z-36986557-rc2m0la8cqnq-rtrmadp-3-usa-trump__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35247117.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T17:43:00+09:00</dc:date>
+        <title>バンクシーの新たな彫像、ロンドンに登場　無批判な愛国心を風刺か</title>
+        <link>https://www.cnn.co.jp/style/arts/35247117.html?ref=rss</link>
+        <description>謎に包まれたアーティスト、バンクシーが、英ロンドン中心部に突如出現した巨大な彫像作品を手掛けたことを認めた。彫像はスーツ姿の男性が台座の上で闊歩（かっぽ）する姿を捉える。男性は手にした旗で顔をすっぽりと覆われた状態で、今まさに台座から足を踏み外そうとしている。
+
+バンクシーは4月30日に自身のインスタグラムに投稿したユーモラスな動画の中で、この作品の作者であることを明らかにした。動画には、作業員たち...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35247117.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/a76555bcc4a61a4b1ad3781e1a834ec9/t/768/512/d/gettyimages-2273139690.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247118.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T16:39:00+09:00</dc:date>
+        <title>奇跡の木として知られる植物、水道水のマイクロプラスチックを98％除去する能力も判明</title>
+        <link>https://www.cnn.co.jp/fringe/35247118.html?ref=rss</link>
+        <description>「奇跡の木」として知られるモリンガ（ワサビノキ）は、地球上で最も栄養密度の高い植物の部類に入り、その治癒効果が高く評価されている。新たに発表された研究では、このモリンガにもう一つの大きな利点があることが明らかになった。水からマイクロプラスチックを除去する能力が非常に高いというのだ。
+
+ブラジルと英国の研究チームが4月に発表した結果によると、モリンガの種子から抽出した成分は、一般的に使用されている化...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247118.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/8cf65ff8d96a579f033b9de2c8a7e80b/t/768/527/d/gettyimages-2272071372.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247112.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T15:15:00+09:00</dc:date>
+        <title>「石油が空から降ってくる」、ウクライナの無人機攻撃で環境災害　衛星画像に黒く染まった海</title>
+        <link>https://www.cnn.co.jp/world/35247112.html?ref=rss</link>
+        <description>ロシア黒海沿岸の町トゥアプセ。4月28日、目を覚ました住民は12日間で3度目となる終末的な光景に目にした。
+
+ロシア石油大手ロスネフチが所有するトゥアプセ製油所にウクライナのドローン（無人機）攻撃があり、濃い有毒ガスと炎が立ち上った。周囲のコーカサス山脈に届きそうなほどの高さだった。
+
+当局によれば、火災は30日朝までに消し止められた。16日と20日に起きた2回の攻撃でも鎮火に数日を要し、有毒物質が黒い雨となっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247112.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/683fe99016369f134188aa7ceeba59a7/t/768/432/d/c-ap26119394394263.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247110.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T15:01:00+09:00</dc:date>
+        <title>米駆逐艦ヒギンズ、数時間にわたり電源と推進力失う　国防当局者が発表</title>
+        <link>https://www.cnn.co.jp/usa/35247110.html?ref=rss</link>
+        <description>米海軍の軍艦がこのほど、インド太平洋で数時間にわたり電源と推進力を喪失する事態に陥っていたことが分かった。米国防当局者が明らかにした。海軍の声明によると、電気系統に「技術的な不具合」が発生したという。
+
+米第7艦隊の報道官は1日の声明で、当該のミサイル駆逐艦USSヒギンズについて「艦全体で電源を喪失した」と説明。「初期報告によれば電気系統の故障が発生し、火花や煙が出た可能性があるが、電源が失われるとそ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247110.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/e1218b7e8633899ae7991d2e28c7dbd6/t/768/512/d/8993058__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35247111.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T14:55:00+09:00</dc:date>
+        <title>【分析】景気は悪化しているのに株価は大幅高、その理由は</title>
+        <link>https://www.cnn.co.jp/business/35247111.html?ref=rss</link>
+        <description>米国のガソリン価格は4ドルを上回り、戦闘終結に向けた交渉は暗礁に乗り上げ、航空会社はジェット燃料不足を警告している。そうした中で、株価が大幅高を記録しているのはなんとも奇妙に思える。
+
+これはCNNのせいだ。いや、本当に。奇妙だと感じるのは、世界の出来事のせいでも市場の動きのせいでもなく、この二つの事象が連動しているという認識のせいだ。
+
+CNNをはじめとするメディアは、現在起きている出来事と株式市場のパ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35247111.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/3e18f44dd163e43f35c04f29c2d6e366/t/768/512/d/gettyimages-2271704576.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247099.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T12:50:00+09:00</dc:date>
+        <title>ミイラの腹部にホメロスの叙事詩、エジプトの遺跡で初の発見</title>
+        <link>https://www.cnn.co.jp/fringe/35247099.html?ref=rss</link>
+        <description>エジプトの古代都市オクシリンコスの遺跡で発掘されたミイラの腹部から、ホメロスの叙事詩「イリアス」の一節を記したパピルスが見つかった。
+
+同じ場所で発見されたほかのミイラの上にも、防腐処理の一環として、儀式関連と思われる文言が書かれたパピルスを封入した包みが置かれていた。しかし文学を記したパピルスの発見は今回が初めてだった。
+
+同地で発掘調査を続けているスペイン・バルセロナ大学のイグナシシャビエル・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247099.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/7d4e09d932ec2e896eaf566bc082c319/t/768/512/d/674194238-1368379395323603-8770794819049895567-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247098.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T12:06:00+09:00</dc:date>
+        <title>イラン司法トップ、死刑執行は「国民の正当な要求」反映　米攻撃開始後に21人処刑</title>
+        <link>https://www.cnn.co.jp/world/35247098.html?ref=rss</link>
+        <description>イランの司法トップで、反体制派の弾圧に中心的な役割を果たしてきた強硬派のエジェイ司法長官は1日までに、相次ぐ死刑執行は「国民の正当な要求」を映したものだと主張した。
+
+国連人権高等弁務官事務所によると、米国とイスラエルが2カ月あまり前に爆撃を開始して以降、イランでは少なくとも21人が処刑され、4000人が身柄を拘束されている。
+
+トゥルク国連人権高等弁務官はこうした措置について、イラン国民の権利を「厳しく...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247098.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/54ab252037c763771af7b72e0a44d5a6/t/768/512/d/3ddn02n__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247097.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T11:22:00+09:00</dc:date>
+        <title>米ドイツの対立は新たな局面に、イラン戦争めぐる米国批判から駐留米軍削減の可能性まで　最新の動き</title>
+        <link>https://www.cnn.co.jp/world/35247097.html?ref=rss</link>
+        <description>米国とドイツの対立が新たな局面を迎えている。トランプ米大統領はイランにおける米国主導の作戦をめぐる意見の相違を背景に、ドイツを含む欧州諸国からの米軍部隊の一部撤退をちらつかせている。
+
+トランプ氏は先月29日夜、自身のSNS「トゥルース・ソーシャル」に「米国はドイツ駐留米軍の削減の可能性を検討しており、近いうちに決定する予定だ」と投稿した。
+
+30日にはイタリアとスペインにも同様の脅しをかけた。両国におけ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247097.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/0b9942d6522a4a79757d0f063fe70eba/t/768/512/d/c-ap26120706778726.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247091.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T10:50:00+09:00</dc:date>
+        <title>5月は満月が2回、地球から最も遠い「マイクロムーン」連続の始まり</title>
+        <link>https://www.cnn.co.jp/fringe/35247091.html?ref=rss</link>
+        <description>5月は2回の満月が観賞できる月になる。最初の満月の「フラワームーン」は、天体観測サイト「アーススカイ」によると、日本時間の2日午前2時23分にピークを迎える。
+
+「完全な満月になる24時間前から24時間後にかけても、人間の目には満月に見える」。米航空宇宙局（NASA）の有人月探査計画「アルテミス3」の科学者ノア・ペトロ氏はそう解説している。
+
+5月最初の満月は、新月や満月が地球から最も遠い「遠地点」に位置する3回連...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247091.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/3f809600e12edabd6e6fc51da5a59035/t/768/512/d/gettyimages-1233122483.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247095.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T10:33:00+09:00</dc:date>
+        <title>トランプ氏、対イラン協議の現状を知るのは「数人」　交渉進展を示唆</title>
+        <link>https://www.cnn.co.jp/usa/35247095.html?ref=rss</link>
+        <description>トランプ米大統領は4月30日、イランとの協議の状況については自分とごく一握りの者しか知らないと述べ、表向きは停滞しているように見えるものの、交渉に進展があることを示唆した。
+
+トランプ氏は大統領執務室で「協議の現状については、私と数人を除いて誰も知らない」とコメント。ただ、イランの指導部を巡り不透明さが残ることも認めた。
+
+「問題なのは、誰が指導者なのか確実なことが誰にも分からない点だ。それが少々問題...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247095.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/7cb3dbbc0e0ff8445eea8cf4adffdb0d/t/768/512/d/ap26120706592105__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247088.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T10:11:00+09:00</dc:date>
+        <title>ロシア兵殺害した爆弾攻撃、「ブチャの虐殺者」狙ったか</title>
+        <link>https://www.cnn.co.jp/world/35247088.html?ref=rss</link>
+        <description>ロシア当局は、先月28日に極東ハバロフスク州で発生した爆弾攻撃で1人が死亡、数人が負傷したと発表した。ロシアとウクライナのメディアや軍事ブロガーは「ブチャの虐殺者」として知られるロシア軍司令官を狙った攻撃だった可能性が高いとしている。
+
+ロシアのメディアや軍事ブロガーは、死亡した人物の階級は中佐で、攻撃は閉鎖された兵舎内で発生したと伝えた。
+
+ロシアの著名軍事ブロガー「VChK-OGPU」によれば、真の標的は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247088.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/ea142347e73f34015115224a3e4b25a1/t/768/512/d/frbudxowqaak3ex.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247071.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T09:19:00+09:00</dc:date>
+        <title>第1次大戦中に沈没した米軍艦、ダイバーが残骸発見　英南部沖</title>
+        <link>https://www.cnn.co.jp/fringe/35247071.html?ref=rss</link>
+        <description>ドイツの潜水艦の艦長は、英イングランド南部の沖合で夕焼け空を背景に浮かび上がる標的のシルエットを視認すると、魚雷1発を発射するよう命じた。
+
+それが米国沿岸警備隊の巡視船「タンパ」とその乗組員131人の姿が確認された最後の瞬間となった。以後107年以上、この艦艇を目にした者はいない。
+
+ドイツ軍の魚雷が船体中央部に命中してから3分後、タンパは大西洋の海底に沈み、乗組員全員が死亡した。第1次世界大戦中に米軍が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247071.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/30/21ce3cd679fb7d82b3b10050920bb81a/t/768/549/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW9sNHJldHMwMDA0M2I2cXgyaTJvczhv-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntb2w0cGppMTAwMXoyN3FjaHBldDU1eGU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247086.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T09:06:00+09:00</dc:date>
+        <title>米政府、ホルムズ海峡めぐる新有志連合への参加を各国に要請</title>
+        <link>https://www.cnn.co.jp/world/35247086.html?ref=rss</link>
+        <description>トランプ米政権は、対イラン戦争が重要な海上交通路の混乱を長引かせる中、ホルムズ海峡での航行の自由を支援する新たな有志連合に参加するよう各国政府に強く求めている。
+
+「海洋自由構想」と名付けられた有志連合は、海峡の安全な通航を支援するための制裁での連携や情報共有など、外交努力の調整を目的としている。ホルムズ海峡は米国とイランの外交交渉における大きな障害の一つとなっており、両国はそれぞれ独自の封鎖を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247086.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/d19b33f4b216aa46f624d73c2fb5871f/t/768/512/d/ap26108447409970.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247073.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-01T08:30:00+09:00</dc:date>
+        <title>トランプ氏、スペインとイタリアの駐留米軍削減を示唆</title>
+        <link>https://www.cnn.co.jp/usa/35247073.html?ref=rss</link>
+        <description>トランプ米大統領は4月30日、スペインとイタリアに駐留する米軍部隊の規模を削減することを検討していると述べた。対イラン戦争をめぐって同盟国との意見の相違が続く中、米国は欧州における軍事的な配置を広く見直している。
+
+トランプ氏は、イタリアとスペインにおける駐留部隊削減の可能性について問われ、「彼らは必ずしも協力的ではなかった」と答えた。トランプ氏は29日夜にも同様に、ドイツに駐留する米軍部隊削減の可能...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247073.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/01/c30c5b21268f39e53e4bd82296204a8d/t/768/512/d/2026-04-30t192425z-376055108-rc2vzkabfhv2-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247064.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-30T19:06:00+09:00</dc:date>
+        <title>米記者夕食会襲撃、検察が情報提示　容疑者の行動の時系列と装備の詳細が明らかに</title>
+        <link>https://www.cnn.co.jp/usa/35247064.html?ref=rss</link>
+        <description>米連邦検察は29日、先週末にトランプ大統領と閣僚らが出席したホワイトハウス記者協会主催の夕食会で、警備を突破して銃撃したとされる容疑者に関する詳細な情報を公開した。政府の見解として、これまでで最も手堅い内容の説明となる。検察側は、容疑者がシークレットサービス（大統領警護隊）隊員に向けて発砲したことを示す証拠も提示した。
+
+司法省は、コール・トマス・アレン容疑者の勾留継続を求める検察側の主張をまとめ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247064.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/30/f9c68264e5f8ac356634fb008ba8d867/t/768/451/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW9rOWhjZHkwMDEzM2I2cTZvbW91ZjNs-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntb2s1dmt3ODAwMXIyN3A5Yjd4ZzBxbzA_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247068.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-30T18:44:00+09:00</dc:date>
+        <title>マレーシア沖に違法な洋上給油所、「影の船団」によるイラン産原油の取引・貯蔵拠点</title>
+        <link>https://www.cnn.co.jp/world/35247068.html?ref=rss</link>
+        <description>インド洋で21日、イラン産原油約190万バレルを積んだタンカー「ティファニ」が米軍に拿捕（だほ）された。ティファニはこの1年に数回、マレーシア沖とイランの間を行き来していた。
+
+  
+    
+      
+    
+    
+米軍は今月21日にタンカー「ティファニ」に対し海上阻止行動を実施した/Department of Defense
+  
+
+船舶追跡サイト「マリントラフィック」によると、ティファニは毎回、マレーシア沖の特定の海域にとどまってからいか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247068.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/30/52ad62daf0f309f8268fe899585e6e11/t/768/493/d/for-rosa-eopl.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247070.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-30T18:39:00+09:00</dc:date>
+        <title>金正恩氏、捕虜になるより死を選んだ兵士を称賛　ウクライナ戦争への関与の深まり示唆</title>
+        <link>https://www.cnn.co.jp/world/35247070.html?ref=rss</link>
+        <description>戦闘に従事する北朝鮮兵とロシア兵をかたどった巨大銅像の除幕式で、朝鮮労働党の金正恩（キムジョンウン）総書記がウクライナでの戦闘中、捕虜になるよりも死を選んだ兵士を称賛する場面があった。長年存在がささやかれていた北朝鮮の戦場ドクトリンを異例なほどはっきり認める発言となった。
+
+北朝鮮の朝鮮中央通信（KCNA）が公表した記録によると、金氏は「躊躇（ちゅうちょ）なく自爆を選んだ」者や自殺攻撃を行った者につ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247070.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/30/ae68fc8930d30e7c403de27156d05ecf/t/768/432/d/top-photo-20260430062904253.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247051.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-30T14:04:00+09:00</dc:date>
+        <title>ボンディ前米司法長官、下院監視委員会で証言へ　エプスタイン事件調査巡り</title>
+        <link>https://www.cnn.co.jp/usa/35247051.html?ref=rss</link>
+        <description>米国のボンディ前司法長官が来月、有罪判決を受けた性犯罪者の故ジェフリー・エプスタイン氏を巡る調査で証言を行う見通しであることが分かった。連邦議会下院の監視委員会に出席するという。
+
+委員会の報道官によると、ボンディ氏の証言は5月29日に予定されている。委員会はここ数カ月、トランプ政権の元高官であるボンディ氏に対し、司法省が同氏の指揮下でエプスタイン事件の文書をどのように扱ったかについて証言を求めてき...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247051.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/30/e2c71372d041f30903e4a0000eb4103f/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW9rNWowYjMwMDBjM2I2cWh5b3gyd3N6-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntb2s0aDBtNzAwM3oyZHBkYXFldDl2MnI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247052.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-04-30T13:17:00+09:00</dc:date>
+        <title>インド富豪が「麻薬王のカバ」80頭を救う申し出、コロンビア政府は駆除表明</title>
+        <link>https://www.cnn.co.jp/world/35247052.html?ref=rss</link>
+        <description>南米コロンビア政府が駆除を計画している「麻薬王のカバ」80頭について、インドの富豪アナント・アンバニ氏が自身の野生生物保護施設で引き取りたいと申し出ている。
+
+カバは「麻薬王」と呼ばれた故パブロ・エスコバルが1980年代にコロンビアに持ち込んだ。その後繁殖して約160頭に増え、在来種を脅かすようになったことから、コロンビア政府は数週間前、80頭を駆除する計画を発表した。
+
+この計画に対してアンバニ氏がコロンビ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247052.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/30/a2277541845e96d0a64ab5538b6a42bb/t/768/511/d/c-ap26103551234934.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
