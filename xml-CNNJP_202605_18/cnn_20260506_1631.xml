@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-05-06T18:11:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247172.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35247171.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35247170.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247169.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247168.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247167.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247166.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247164.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247163.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247162.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247160.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247158.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247157.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247156.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247155.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247151.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247150.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247149.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247148.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247147.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247146.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247145.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247144.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247143.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247141.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247140.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247138.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247136.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247135.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35247172.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-06T18:11:00+09:00</dc:date>
+        <title>マスクに映画、デッキでの一人散歩　ハンタウイルス集団感染に見舞われたクルーズ船での生活は</title>
+        <link>https://www.cnn.co.jp/world/35247172.html?ref=rss</link>
+        <description>ほんの1カ月前、彼らは冒険の旅に出発した。行き先は世界で最も辺境にある島々だ。クジラやイルカ、ペンギンとの出会いが待ち受け、氷に覆われた広大な海、そびえ立つ断崖、なだらかな緑の丘陵地帯が彼らに手招きしていた。
+
+しかし今、彼らは大西洋に停泊中の船内で客室に隔離され、致死性のウイルスの蔓延（まんえん）から身を守るためにできる限りの対策を講じている。
+
+当該のクルーズ船に乗る約150人の乗客にとって、これ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247172.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/06/37ff7c2a85fc3a4eee776009c44630d2/t/768/432/d/gettyimages-2274106297a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35247171.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-06T15:25:00+09:00</dc:date>
+        <title>写真特集：楽園の島に残る激戦の傷痕、パラオ・ペリリュー島を訪ねる</title>
+        <link>https://www.cnn.co.jp/photo/35247171.html?ref=rss</link>
+        <description>太平洋の孤島ペリリュー島では1944年9月、第2次世界大戦の太平洋戦域全体を通じて最も過酷な戦闘の一つが繰り広げられた。日本軍と米軍による激戦の痕跡を残す現地の遺物や戦没者の碑をCNN記者が訪ねた&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35247171.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/06/e37db9a4e0d38270d092bb0b5258c938/t/768/432/d/dji-20260110084720-0396-d.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35247170.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-06T15:20:00+09:00</dc:date>
+        <title>楽園の島が暗転、第2次大戦で最も過酷な戦場の一つに　パラオ・ペリリュー島の戦跡を訪ねる</title>
+        <link>https://www.cnn.co.jp/travel/35247170.html?ref=rss</link>
+        <description>青々と茂る島の樹木は、朝の雨を浴びてその無数の緑の色合いを一層深めている。沖合では、シュノーケラーたちが白化していないサンゴ礁のベッドの上に浮かんでいる。小さな木造の桟橋を降りると、島の訪問者はイチジクの木の茂みや、足首まで届くシダの間を通り抜ける。灰色の石を積んだ石塚が、ハイキングコースの目印だ。
+
+やがて何もない野原の真ん中に、日本軍の水陸両用車両が現れる。錆（さ）びた車輪の間からは、緑の植...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35247170.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/06/e37db9a4e0d38270d092bb0b5258c938/t/768/432/d/dji-20260110084720-0396-d.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247169.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-06T13:06:00+09:00</dc:date>
+        <title>ロシア領内深くへの攻撃で2人死亡、首都では規模縮小した戦勝記念パレードの準備</title>
+        <link>https://www.cnn.co.jp/world/35247169.html?ref=rss</link>
+        <description>ロシアのチュバシ共和国で5日、長距離ミサイルとドローン（無人機）による攻撃があり、2人が死亡した。国境から960キロ以上離れたロシア領内深くを標的としたウクライナによる異例の攻撃だった。
+
+ロシア国営通信RIAノーボスチによると、この攻撃でさらに34人が負傷し、その中には子供1人も含まれている。チュバシ共和国はミサイルとドローンの攻撃を受けて非常事態宣言を発令した。
+
+ウクライナのゼレンスキー大統領は、攻撃は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247169.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/06/1de5b16adf8a2b499ac00dbffbb455c4/t/768/432/d/screenshot-2026-05-05-at-12-10-08-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247168.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-06T11:57:00+09:00</dc:date>
+        <title>軍のイルカがホルムズ海峡で活動？　米海軍の訓練プログラムは実在</title>
+        <link>https://www.cnn.co.jp/usa/35247168.html?ref=rss</link>
+        <description>ホルムズ海峡でイランの機雷に対する懸念が強まる中、米国のピート・ヘグセス国防長官は5日、イランが米海軍に対抗するためイルカを配備する可能性について、質問に応じた。
+
+ヘグセス長官は、イランが作戦の一環として配備するイルカを保有していないことは「確認」できると返答。一方で、「我々がカミカゼイルカを保有しているかどうかは肯定も否定もしない」とした。
+
+ホルムズ海峡での米軍の作戦に詳しい関係者はCNNに対し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247168.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/06/32e2430d0a004e272b2bc96f809aab6c/t/768/512/d/9015671.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247167.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-06T10:52:00+09:00</dc:date>
+        <title>ハンタウイルス集団感染の船から3人避難、船はカナリア諸島へ</title>
+        <link>https://www.cnn.co.jp/world/35247167.html?ref=rss</link>
+        <description>アフリカ西部の島国カボベルデの保健省は、ハンタウイルスの集団感染が起きているクルーズ船から3人を避難させると発表した。
+
+クルーズ船に乗り込んで診察したカボベルデの医療従事者は、3人とも容体は安定していると診断した。当局は救急搬送機2機を派遣して患者の避難を支援すると述べ、うち1機は既に同国に到着しているとした。
+
+これに先立ち世界保健機関（WHO）は、乗船者の間で人から人への感染が起きた可能性があると指...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247167.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/06/85e947a2932907095b66dbc102f02f0a/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW9zZmg2cWcwMDAxMzU2cXZzaWJpcWp6-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntb3NmYXR0aDAwMHkyOHFpZmw2OGVzdnc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247166.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-06T09:42:00+09:00</dc:date>
+        <title>トランプ氏、ホルムズ海峡通過の誘導作戦を一時停止</title>
+        <link>https://www.cnn.co.jp/world/35247166.html?ref=rss</link>
+        <description>トランプ米大統領は、米国がホルムズ海峡での船舶の誘導作戦を一時的に停止すると発表した。一方で海上封鎖は維持するとし、「イランの代表団との完全かつ最終的な合意に向けて大きな進展があった」と主張した。
+
+「パキスタンをはじめとする各国の要請、イランに対する作戦における我々の目覚ましい軍事的成功、そしてイラン代表団との完全かつ最終的な合意に向けて大きな進展があったという事実に基づき、我々は、海上封鎖の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247166.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/06/a1f6f2fae6d6105bdd9af29409c403cf/t/768/512/d/gettyimages-2273981246.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247164.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-05T16:32:00+09:00</dc:date>
+        <title>中国湖南省の花火工場で大規模な爆発、26人死亡</title>
+        <link>https://www.cnn.co.jp/world/35247164.html?ref=rss</link>
+        <description>中国湖南省瀏陽市の花火工場で大きな爆発が起き、少なくとも26人が死亡、61人が負傷した。
+
+世界の花火産業の中心地として知られる同市は、巨大な衝撃波に見舞われた。窓ガラスは割れ、近隣の建物が損傷した。
+
+当局が原因究明を進める一方、救助活動も続いている。習近平（シーチンピン）国家主席は、行方不明となっている人々の捜索に「全力を挙げて取り組む」よう呼びかけた。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247164.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/05/a1f2a71c5eadac64f4e474b8e184370c/t/768/432/d/62694560-59673367-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247163.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-05T15:24:00+09:00</dc:date>
+        <title>プラスチックごみが渦巻く「太平洋ごみベルト」、はるかに重大な問題を抱えている可能性</title>
+        <link>https://www.cnn.co.jp/fringe/35247163.html?ref=rss</link>
+        <description>米ハワイとカリフォルニアの間の北太平洋には、テキサス州の倍以上の広さにプラスチックごみが渦巻く「太平洋ごみベルト」が存在する。プラスチックの破片はお互いにぶつかり合い、風で空中に舞い上がるほど微細な粒子へと分解される。新たな研究によると、大気中に分散したこれらの粒子は、私たち全員が関わりうるほどの影響を気候に与える可能性があるという。
+
+太平洋ごみベルトは大気中のマイクロプラスチックとナノプラス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247163.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/05/cd14e6a665d4ab9272a53b7d393c5fa6/t/768/558/d/gettyimages-2206645051.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247162.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-05T12:49:00+09:00</dc:date>
+        <title>【分析】裏目にでた「プロジェクト・フリーダム」、海運業幹部らは海峡通過に強い警戒感　船舶や港湾攻撃受け</title>
+        <link>https://www.cnn.co.jp/world/35247162.html?ref=rss</link>
+        <description>米中央軍が商船のホルムズ海峡通過を「誘導」する目的で始めた「プロジェクト・フリーダム」は裏目に出たようだ。この取り組みが新たな暴力を引き起こし、海運業界の幹部らは海峡通過に依然として強い警戒感を示している。
+
+香港の海運会社マンダリン・シッピングのティム・ハクスリー会長は「海峡は今も非常に危険であり、双方がより具体的な合意に至るまでほとんどの船舶が航行を避け続ける」との見方を示した。
+
+トランプ大...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247160.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-05T11:16:00+09:00</dc:date>
+        <title>クルーズ船で集団感染、3人死亡　ネズミなどげっ歯類媒介のハンタウイルスとは</title>
+        <link>https://www.cnn.co.jp/world/35247160.html?ref=rss</link>
+        <description>大西洋を航行中のクルーズ船で、ネズミなどのげっ歯類が媒介するハンタウイルスと思われる集団感染が発生し、これまでに3人が死亡した。
+
+世界保健機関（WHO）によると、ハンタウイルスの症例は1例が確認され、疑わしい症例5例についても調査を行っている。クルーズ船は南米アルゼンチンを出航し、西アフリカ沖の島国カボベルデに向かっていた。
+
+ハンタウイルスに感染すると、最初は倦怠（けんたい）感や発熱、悪寒、体の痛み...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247160.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/05/898e1278f881344a9b6f0eacf01fa98f/t/768/510/d/gettyimages-151059422-20260504133355476.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247158.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-05T10:43:00+09:00</dc:date>
+        <title>ユージェニー王女、第3子妊娠　英王室が発表</title>
+        <link>https://www.cnn.co.jp/world/35247158.html?ref=rss</link>
+        <description>英国のユージェニー王女が夫ジャック・ブルックスバンク氏との間に第3子を妊娠していることが分かった。バッキンガム宮殿が4日に発表した。
+
+今夏に新たな家族を迎える夫妻には、すでに2人の息子がいる。2021年2月にオーガスト・フィリップ・ホーク・ブルックスバンク君、23年5月にアーネスト・ジョージ・ロニー・ブルックスバンク君が誕生している。
+
+王室はSNSに投稿した声明で、「ユージェニー王女殿下とジャック・ブルック...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247158.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/05/d6f7be176bdedb053059abfd127bb0b6/t/768/515/d/gettyimages-2082152731.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247157.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-05T09:59:00+09:00</dc:date>
+        <title>132人死亡の中国旅客機墜落、故意の疑い強まる　操縦席のスイッチ操作をデータが記録</title>
+        <link>https://www.cnn.co.jp/world/35247157.html?ref=rss</link>
+        <description>中国東方航空の旅客機が墜落して132人の搭乗者全員が死亡した2022年の事故をめぐり、操縦室にいた人物が故意に両エンジンへの燃料供給を停止した可能性があることが、米国家運輸安全委員会（NTSB）の調査報告書で明らかになった。
+
+中国東方航空MU5735便（ボーイング737-800型機）は22年3月21日、中国南部・広西チワン族自治区の山中に墜落した。同国航空史上最悪級の事故だったにもかかわらず、中国民用航空局（CAAC）は原因の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247157.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/05/b2a8b5a38fa8463f6a46ec9e5b16abfd/t/768/511/d/gettyimages-1239545147.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247156.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-05T09:25:00+09:00</dc:date>
+        <title>トランプ氏、「世論調査はフェイク」　イラン戦争支持32％との結果受け</title>
+        <link>https://www.cnn.co.jp/usa/35247156.html?ref=rss</link>
+        <description>米国民が対イラン戦争への不満を募らせている兆候が見られる中、トランプ米大統領は4日、いつもの主張を持ち出した。世論調査は偽物だというのだ。
+
+「彼らは偽の世論調査を出している」と、ホワイトハウスで行われた中小企業向けイベントでトランプ氏は不満を表明した。「イランとの戦争に関する世論調査を実施したら、支持する人は32％だけだったという。私はそれを好んでいないし、戦争というものはまったく好きではない。だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247156.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/05/e46e0b0f020750cbeb1944e13afb72fc/t/768/512/d/gettyimages-2274511518.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247155.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-05T08:24:00+09:00</dc:date>
+        <title>トランプ氏、ホルムズ海峡でイラン小型船7隻を「撃沈」と発表</title>
+        <link>https://www.cnn.co.jp/usa/35247155.html?ref=rss</link>
+        <description>トランプ米大統領は4日、イランがホルムズ海峡で複数の船舶に向けて攻撃を行ったことを受け、米国がイランの小型船7隻を撃沈したと述べた。
+
+トランプ氏は、韓国の船舶を除き、イランの攻撃による被害は生じていないと付け加えた。
+
+「イランは、プロジェクト・フリーダムの船舶航行に関連し、韓国の貨物船を含む無関係の国々に向けて攻撃を行った。今こそ韓国がこの任務に加わるべき時かもしれない。我々は小型船、あるいは彼...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247155.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/05/6bb89dfde909ec3e30fb24344f572bc4/t/768/512/d/c-ap26120706778726.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247151.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-04T17:00:00+09:00</dc:date>
+        <title>初期症状など肺がんにまつわる七つの通説、その真偽は</title>
+        <link>https://www.cnn.co.jp/fringe/35247151.html?ref=rss</link>
+        <description>肺がんで亡くなる米国人はほかのどのがんよりも多く、乳がんに比べると3倍近くに上る。だがマンモグラフィーによる乳がん検診の受診率は8割にも達するのに対し、肺がん検診を受ける人ははるかに少ない。
+
+技術の進歩によって肺がんの早期発見も可能になったが、検診対象者のうち実際に受診するのは2割ほど。この問題の一部は、肺がんにまつわるいくつかの通説に起因するとも考えられる。
+
+通説1：「肺がんは喫煙者だけの病気」
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247151.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/04/8f6ee20eebb1887b1ed964411c694016/t/768/576/d/c-240520-nyt-mgb-0538-rt-fv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247150.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-04T15:01:00+09:00</dc:date>
+        <title>ヒズボラ、イスラエルに検知・阻止させない強力な兵器を配備</title>
+        <link>https://www.cnn.co.jp/world/35247150.html?ref=rss</link>
+        <description>爆発物を搭載したクアッドコプターがレバノン南部で屋根をかすめ、爆撃で破壊された建物の間や未舗装の道沿いを正確に飛行した。このドローン（無人機）は操縦士に標的の明瞭な一人称視点映像を示す。標的はイスラエルの戦車とその近くに立つ兵士らだ。
+
+映像の上部には白文字でこう表示されていた。「爆撃準備完了」
+
+このクアッドコプターは光ファイバードローンだと専門家たちは指摘した。イスラム教シーア派組織ヒズボラが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247150.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/04/94abe5dffae8b380b8e1424c9314be12/t/768/512/d/gettyimages-2272887551.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247149.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-04T12:34:00+09:00</dc:date>
+        <title>着陸態勢のユナイテッド航空機、滑走路近くで幹線道路走行中のトラックと街頭に衝突　米国</title>
+        <link>https://www.cnn.co.jp/usa/35247149.html?ref=rss</link>
+        <description>米ニュージャージー州警察によると、ニューアーク・リバティー国際空港で3日、着陸しようとした航空機が近くの幹線道路の街灯と大型トラックに衝突し、トラック運転手が負傷した。
+
+航空追跡サイト「フライトレーダー24」によると、イタリア・ベネチア発のユナイテッド航空ボーイング767型機は、空港のすぐ外側にある幹線道路を時速約257キロ超の速度で横切っていた。
+
+州警察の予備調査によると、降着装置のタイヤと機体下部が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247149.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/04/01977392e1debaff97964253ea833d3f/t/768/432/d/still-22593533-460-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247148.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-04T11:39:00+09:00</dc:date>
+        <title>トランプ氏、イランに関する前日の発言を否定　カメラの前で行った発言の否定は以前から</title>
+        <link>https://www.cnn.co.jp/usa/35247148.html?ref=rss</link>
+        <description>米国のトランプ大統領は2日、記者団に対し、イランの新たな和平提案を「検討している」と語った。これを受け、記者はトランプ氏が前日夜にイランとの合意を結ばない方が米国にとって好都合かもしれないと発言していたことを指摘した。
+
+これに対し、トランプ氏は「そんなことは言っていない」と反論。「私が言ったのは、もし今すぐ撤退すれば、再建に20年はかかるだろうということだ。しかし、今すぐ撤退するつもりはない。2年...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247148.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/04/8ab1853832842c6cd2f2c171296d24d3/t/768/512/d/gettyimages-2273703489.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247147.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-04T10:47:00+09:00</dc:date>
+        <title>イランと「非常に前向きな協議」　トランプ米大統領、前日の発言を一転</title>
+        <link>https://www.cnn.co.jp/usa/35247147.html?ref=rss</link>
+        <description>米国とイランが和平に向けた提案を交わす中、米国のドナルド・トランプ大統領は3日、米国の代表団は「非常に前向きな協議」を行っていると自身のSNSに投稿した。前日の発言からは一転する内容だった。
+
+トランプ大統領はトゥルース・ソーシャルへの投稿で、「私の代表団はイラン国との間で非常に前向きな協議を行っている。そうした協議は全てにとって非常に前向きな内容につながる可能性がある」とした。
+
+これに先立ち米国の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247147.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/04/96047cc8f8937030c34448398f2cdef8/t/768/512/d/gettyimages-2270428086-20260424171809518.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247146.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-04T10:20:00+09:00</dc:date>
+        <title>ジュリアーニ元NY市長が重体で入院　トランプ大統領「彼はひどい仕打ち受けた」と投稿</title>
+        <link>https://www.cnn.co.jp/usa/35247146.html?ref=rss</link>
+        <description>米ニューヨーク市のルディ・ジュリアーニ元市長（81）が重体となって病院に入院している。広報担当者が3日、X（旧ツイッター）に掲載した声明で明らかにした。容体は安定しているという。
+
+声明では、入院の理由については明らかにしていない。
+
+ドナルド・トランプ大統領はジュリアーニ氏の入院について「過激左派の狂人連中や民主党の全員からあんなひどい仕打ちを受けるとは何という悲劇――そして彼は何もかも正しかった！　...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247146.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/04/900650d45c8219cff1e9c20dd7f0564f/t/768/512/d/ap25314398405407.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247145.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-04T09:49:00+09:00</dc:date>
+        <title>乗客が乗員に暴行、操縦室に押し入ろうとした疑い　米空港で拘束</title>
+        <link>https://www.cnn.co.jp/usa/35247145.html?ref=rss</link>
+        <description>米ニュージャージー州のニューアーク・リバティー国際空港に到着したユナイテッド航空の旅客機内で2日、客室乗務員に暴行して操縦室に押し入ろうとしたとされる男性乗客が拘束された。当局がCNNに明らかにした。
+
+港湾警察がCNNに語ったところによると、拘束されたのは48歳の男で、精神鑑定のため病院に運ばれた。
+
+同機の搭乗者は1人が医療措置を断った。ほかにけが人の報告はないという。
+
+今回の事案はけんかとして報告され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247145.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/04/638afb62baa4e806a5eb3f6bee1b4988/t/768/512/d/gettyimages-2215067171.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247144.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-04T09:19:00+09:00</dc:date>
+        <title>米軍、ホルムズ海峡に滞留する商船の航行回復を支援　4日開始</title>
+        <link>https://www.cnn.co.jp/usa/35247144.html?ref=rss</link>
+        <description>米中央軍は、ホルムズ海峡における「自由な航行の回復」するためにトランプ米大統領が掲げる「プロジェクト・フリーダム」作戦を支援すると発表した。米当局者によると、これは護衛任務ではないという。
+
+中央軍は3日夜の声明で、4日から開始されるこの任務は「重要な国際貿易回廊を自由に航行しようとする商船を支援する」ものだと説明した。
+
+中央軍のクーパー司令官は、「この防衛任務への支援は、海上封鎖の維持と並行して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247144.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/04/73325c0d577f6cf234a444cdef4a9eb7/t/768/432/d/2026-05-01t172007z-982900821-rc210lax5ipo-rtrmadp-3-iran-crisis-saudi-liquor.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247143.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-03T17:09:00+09:00</dc:date>
+        <title>イスラエル、2個戦闘飛行隊の新設計画を承認　イラン戦争の「作戦上の教訓」理由に</title>
+        <link>https://www.cnn.co.jp/world/35247143.html?ref=rss</link>
+        <description>イスラエル内閣の調達委員会はイランとの戦争から得た「作戦上の教訓」を理由に、新たに2個飛行隊分の戦闘機を購入する計画を承認した。
+
+イスラエルのカッツ国防相が3日に明らかにしたところによると、新たな飛行隊はF35戦闘機とF15IA戦闘機で構成される見通しで、取引の規模は推計数十億ドルに上る。F35は米ロッキード・マーチン、F15IAは米ボーイングがそれぞれ製造を手掛ける。
+
+カッツ氏は「対イラン作戦から得た教訓を踏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247143.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/03/c2a7d16dacf757d79f53392b82db9c7f/t/768/548/d/photo-2026-05-03-10-25-34__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247141.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-03T16:16:00+09:00</dc:date>
+        <title>沖合に生息するサメからコカイン、野生の個体で初めて検出　24年研究</title>
+        <link>https://www.cnn.co.jp/fringe/35247141.html?ref=rss</link>
+        <description>ブラジルの沖合に生息するサメがコカインの陽性反応を示した――。2024年、そんな研究結果が発表された。野生のサメからコカインが検出されるのはこの時が初めてだった。
+
+この年の7月23日にCNNに送付されたブラジル・オズワルドクルズ財団の論文によると、研究チームはリオデジャネイロ沖に生息する「ブラジルヒラガシラ」と呼ばれるサメ13匹の検査を行い、13匹すべての肝臓と筋組織にコカインが存在することを突き止めた。
+
+論...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247141.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/07/24/6d6760769a28542febd2e56e00dbc3d5/t/768/523/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHl5aXprbmMwMDExMzU2a2E2bjRlYjU4-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NseXk4Y240aDAwMHdydG5yYzNxOWdyZGM=thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247140.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-03T15:50:00+09:00</dc:date>
+        <title>地球の大気中の粒子、月に吸収されていた　数十億年続く現象と天文学者</title>
+        <link>https://www.cnn.co.jp/fringe/35247140.html?ref=rss</link>
+        <description>地球の大気に由来する粒子が太陽風によって宇宙空間へと運ばれ、数十億年にわたり月面に着地し続けていた――。昨年12月、そんな研究結果が発表された。これらの粒子は月面の土壌と混ざり合ってきたという。
+
+この研究を受け、一つの謎に新たな光が当たった。その謎とはアポロ計画が月面サンプルを持ち帰って以降半世紀以上続くもので、当該のサンプルに水、二酸化炭素、ヘリウム、窒素といった物質の痕跡が含まれていたというも...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247140.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/01/14/38c8fd3cd45a54396953fc328f729952/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWtjbG13Nm0wMDB6M2I2MDcwMzUzMmJ1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta2Nsa2k0dDAwNHoyNm94NGtoczJwNHU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247138.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-03T14:29:00+09:00</dc:date>
+        <title>トランプ氏、イランの新提案を検討へ　「受け入れられる内容とは想像できない」とも</title>
+        <link>https://www.cnn.co.jp/usa/35247138.html?ref=rss</link>
+        <description>トランプ米大統領は2日夜、イランからの新たな提案を近く検討すると表明しつつも、「受け入れられる内容だとは想像できない」と語った。
+
+トランプ氏はフロリダ州でエアフォースワン（大統領専用機）に乗り込む際、「イラン側が合意案の概要について伝えてきた。これから具体的な文言が送られてくる」と明らかにした。
+
+イスラム革命防衛隊とつながりを持つタスニム通信が2日に報じたところによると、イランは米国からの提案に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247138.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/03/d707afa5108aa8059df281723cc4148e/t/768/511/d/ap26122809856269a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-03T13:28:00+09:00</dc:date>
+        <title>英女性、永久不妊手術の権利勝ち取る　男性には資金提供、保健当局の二重基準浮き彫り</title>
+        <link>https://www.cnn.co.jp/world/35247137.html?ref=rss</link>
+        <description>将来後悔するかもしれないという理由で、英国民保健サービス（NHS）を通じた永久不妊手術を拒否されていた女性が、10年にわたる闘いの末、オンブズマンに訴えを認められた。
+
+オックスフォードシャー在住の心理士、リア・スパソバさんはNHSでの不妊手術を何年も求めてきた。この間、かかりつけの医療機関は男性に対する精管結紮（けっさつ）術の費用を負担していた。
+
+NHSに関する苦情を調査する「議会・健康サービスオンブズマ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/03/5961d91d75e7269fef57b1b43c29fd56/t/768/512/d/gettyimages-2222930845.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247136.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-03T10:57:00+09:00</dc:date>
+        <title>【分析】膠着状態のホルムズ海峡　米国とイランは容認しても、代償を払うのは世界</title>
+        <link>https://www.cnn.co.jp/world/35247136.html?ref=rss</link>
+        <description>米国とイランの交渉が再び行き詰まる中、両国とも膠着（こうちゃく）状態の長期化を耐え抜く能力があるとのシグナルを送っている。だが、こうした停滞が続けば、世界の残りの国は、自ら選んだわけでもない戦争の重い代償を支払わされる結果になるかもしれない。
+
+イランの「非常に優秀な」交渉担当者（ルビオ米国務長官の評）は、トランプ米大統領に新たな提案を送付したものの、トランプ氏は不十分とみなしている。米国はイラ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247135.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-03T09:31:00+09:00</dc:date>
+        <title>在独米軍の削減、「5000人をはるかに上回る規模」に　トランプ氏が表明</title>
+        <link>https://www.cnn.co.jp/usa/35247135.html?ref=rss</link>
+        <description>トランプ米大統領は2日、在独米軍の削減計画に触れ、国防総省が今後1年間でドイツから撤退させると発表した当初の5000人を「はるかに上回る」規模で削減する方針だと明らかにした。
+
+トランプ氏はフロリダ州南部でエアフォースワン（大統領専用機）に乗り込む際、記者団に「大幅削減するつもりだ。5000人をはるかに上回る規模で削減する」と表明した。
+
+このほぼ1日前、国防総省は「欧州における戦力態勢の徹底的な見直し」の結...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247135.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/03/99efd11a5e2fab3d6876cda01fecbf2a/t/768/512/d/ap26122820427791__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
