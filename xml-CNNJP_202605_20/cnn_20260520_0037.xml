@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-05-20T08:52:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247707.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35247687.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35247693.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247679.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247682.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247672.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247659.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247666.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247661.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247655.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247656.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247651.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247649.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247646.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35247635.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35247627.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247624.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247622.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247620.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247614.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247613.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247612.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247611.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247609.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247610.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247607.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247608.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247606.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35247605.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35247593.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247707.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-20T08:52:00+09:00</dc:date>
+        <title>イラン攻撃再開まで「あと1時間」だった、湾岸アラブ諸国の要請で延期　トランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35247707.html?ref=rss</link>
+        <description>トランプ米大統領は19日、前日にイランへの新たな攻撃を実施する寸前のところまでいったが、湾岸アラブ3国の要請で延期したことを明らかにした。
+
+トランプ氏はホワイトハウスでCNNの記者に対し「あと1時間で実行するところだった。準備はすべて整っていた」とコメント。「今この瞬間に攻撃が行われていたはずだ」との認識を示した。
+
+トランプ氏は18日、アラブ首長国連邦（UAE）とサウジアラビア、カタールの首脳から、外交的...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247707.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/20/c19a31f5736141690459d676cd2e97f2/t/768/512/d/gettyimages-2276552423__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35247687.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-19T18:55:00+09:00</dc:date>
+        <title>カンヌ国際映画祭、ここまで登場したセレブたちの必見の装い</title>
+        <link>https://www.cnn.co.jp/style/fashion/35247687.html?ref=rss</link>
+        <description>2026年のカンヌ国際映画祭の見どころに関する議論は、これまで主に二つの点に集中してきた。公式選出作品からハリウッド作品が欠けていること、そしてフランスが舞台となった米人気ドラマ「ホワイト・ロータス　諸事情だらけのリゾートホテル」のシーズン4だ。
+
+今年、フランスのリビエラで開催されるこの由緒ある映画祭は、2025年にプレミア上映された「ミッション：インポッシブル／ファイナル・レコニング」のような作品群よ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35247687.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/19/c442a9ac24255f9a1e0a9b0e5d9eac19/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXAzdHA1a2kwMDAxM2I2dWgxcWtndWdo-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcDE0dGxpNjAwMHkyN3AwYjl5aGI2MWY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35247693.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-19T17:56:00+09:00</dc:date>
+        <title>映画「未知との遭遇」で有名になった「デビルズタワー」、UFOと遭遇できる？</title>
+        <link>https://www.cnn.co.jp/travel/35247693.html?ref=rss</link>
+        <description>神秘的な形をした巨岩と、そのふもとに広がる牧草地。米ワイオミング州のデビルズタワー国定公園は50年前、スピルバーグ監督の映画「未知との遭遇」（1977年）のロケ地として一躍有名になった。
+
+デビルズタワーはワイオミングの平原にそびえる、巨大な切り株のような岩の塔だ。その高さは約264メートルに及ぶ。
+
+「未知との遭遇」の中で「約12分間の映像が1976年にこの地で撮影された」と語るのは、国定公園の解説員を務めるブ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35247693.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/19/eaef727f4cc6db0483ce53f5eed7aaff/t/768/431/d/gettyimages-1204474113.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247679.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-19T16:20:00+09:00</dc:date>
+        <title>習氏、今度はプーチン氏を歓迎へ　トランプ氏との会談から数日後に</title>
+        <link>https://www.cnn.co.jp/world/35247679.html?ref=rss</link>
+        <description>トランプ米大統領を文字通りの「レッドカーペット」でもてなしてからわずか1週間足らず、中国の習近平（シーチンピン）国家主席は再び賓客を迎えることになった。しかも今回は、緊密な提携国だ。
+
+ロシアのプーチン大統領は19日に北京に到着する予定。今回の公式訪問は、世界的な地政学的混乱の中で中ロ両国の連携を示すという明確な意図に基づいている。
+
+中国とロシアはともに、トランプ政権下の対米関係の変化に対応しつつ、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247679.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/19/e9e9ec9c44a4da4867a38233058b014a/t/768/432/d/ww2-anniversary-putin.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247682.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-19T14:55:00+09:00</dc:date>
+        <title>【分析】トランプ氏、自身にとって最も重要な有権者層に対する掌握に陰り　世論調査で判明</title>
+        <link>https://www.cnn.co.jp/usa/35247682.html?ref=rss</link>
+        <description>トランプ米大統領の政治的台頭、そして後の復活を表す人口統計層があるとすれば、それは大学の学位を持たない白人有権者だ。
+
+米国の政治は教育水準によって分断が進んでおり、高学歴の有権者は民主党に、低学歴の有権者は共和党に流れている。そして後者のグループに属する白人有権者がトランプ氏支持連合の根幹を形成しており、CNNの出口調査によれば、トランプ氏が出馬した3回の大統領選それぞれで、この層の約3分の2がトラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247682.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/19/f111238e6d72711d7eb32a8a55fdea11/t/768/512/d/gettyimages-2274075380-20260518175443906.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247672.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-19T12:58:00+09:00</dc:date>
+        <title>米モスク銃撃、10代容疑者が母親の家から武器3丁持ち出す　警察署長</title>
+        <link>https://www.cnn.co.jp/usa/35247672.html?ref=rss</link>
+        <description>米サンディエゴ最大のモスク（イスラム教礼拝所）であるサンディエゴ・イスラムセンターで18日に発生した銃撃事件について、捜査当局は10代の容疑者のうち1人が事件の前に母親の家から3丁の武器を持ち出していたとみている。地元の警察署長が明らかにした。
+
+スコット・ウォール署長が記者団に説明したところによれば、17歳の容疑者の母親は警察に対し、息子と車、そして「複数の武器」の行方が分からなくなっていると通報して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247672.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/19/0d0f96d1e91fe7e808f34408d0da2100/t/768/512/d/california-shooting.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247659.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-19T11:31:00+09:00</dc:date>
+        <title>海底洞窟を探検中に行方不明、イタリア人ダイバー4人の遺体発見　モルディブ</title>
+        <link>https://www.cnn.co.jp/world/35247659.html?ref=rss</link>
+        <description>モルディブ政府は18日、スキューバダイビング中に行方不明になったイタリア人4人の遺体が発見されたと発表した。現場では多国籍チームが編成され、入り組んだ海底洞窟の捜索を続けていた。
+
+イタリア人のダイバー5人は14日、バーブ環礁の海底洞窟を探検中に死亡。1人の遺体はその日のうちに、迷路のように入り組んだ海底洞窟の入り口で発見された。
+
+残る4人については洞窟ダイバーのチームがモルディブの専門家と組んで捜索を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247659.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/18/a5f7d9ab825570853212bb60d3e9d1c4/t/768/576/d/ap26136328993205.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247666.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-19T11:22:00+09:00</dc:date>
+        <title>米軍が攻撃すれば「血の海」に、キューバ大統領が警告</title>
+        <link>https://www.cnn.co.jp/world/35247666.html?ref=rss</link>
+        <description>キューバと米国の間で再び緊張が高まる中、キューバのミゲル・ディアスカネル大統領は18日、米軍がもしキューバを攻撃すれば「血の海となって計り知れない結果を招く」と警告した。
+
+「キューバは脅威ではなく、いかなる国に対しても攻撃的な計画や意図はない。米国に対してそうした計画や意図を持たず、過去に持ったこともないことを、同国政府はよく知っている」。ディアスカネル大統領はX（旧ツイッター）にそう投稿した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247666.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/19/d0e006193be499a04f3ca942a8b278ef/t/768/521/d/gettyimages-2267139002.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247661.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-19T10:52:00+09:00</dc:date>
+        <title>発見からわずか8日の小惑星、地球に接近</title>
+        <link>https://www.cnn.co.jp/fringe/35247661.html?ref=rss</link>
+        <description>スクールバス1台から2台分ほどの大きさの小惑星が18日、地球に接近する。欧州宇宙機関（ESA）によると最接近したときの距離は9万1593キロで、地球と月の距離の約4分の1に相当する。
+
+米アリゾナ州トゥーソンのレモン山サーベイの天文学者らが今月10日に発見し、「2026JH2」と命名した。この天体はアポロ群と呼ばれる地球近傍小惑星の分類に属し、地球の公転軌道と交差する軌道で太陽を周回している。
+
+最接近したときの距離は地...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247661.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/19/79b8b0a5da80323beec67ff0ca565f06/t/768/432/d/1-asteroid-illo-width-1600.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247655.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-19T09:45:00+09:00</dc:date>
+        <title>市内最大のモスクで銃撃、3人死亡　米サンディエゴ</title>
+        <link>https://www.cnn.co.jp/usa/35247655.html?ref=rss</link>
+        <description>米サンディエゴ最大のモスク（イスラム教礼拝所）であるサンディエゴ・イスラムセンターで18日に銃撃事件が発生し、3人が死亡した。地元警察のスコット・ウォール警察署長が発表した。その後容疑者2人が死亡しているのが見つかったという。
+
+ウォール氏によると、警察官がモスクに到着した際、3人の遺体を発見した。いずれも成人男性だった。犠牲者のうち1人は警備員で、「事態の悪化を防ぐ上で極めて重要な役割を果たした」と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247655.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/19/0d0f96d1e91fe7e808f34408d0da2100/t/768/512/d/california-shooting.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247656.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-19T09:36:00+09:00</dc:date>
+        <title>アフリカのエボラ流行、死者100人超す　米国人1人も感染　戦闘激化で対応出遅れ</title>
+        <link>https://www.cnn.co.jp/world/35247656.html?ref=rss</link>
+        <description>アフリカのコンゴ民主共和国とウガンダで発生したエボラ出血熱の流行を食い止めるため、国際的な取り組みが続けられている。アフリカ疾病対策センター（CDC）によると、これまでに確認された死者は100人を超えた。米国は流行地域からの入国を制限する公衆衛生法を発動させた。
+
+米CDCは18日、コンゴ民主共和国で活動する米国人1人のエボラ陽性が確認されたと発表した。国際慈善団体サージによると、エボラ出血熱の症状を発症し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247656.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/19/7c46ea514d49a3774e9710fee4e998ce/t/768/510/d/gettyimages-2276106686-20260518031229786.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247651.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-19T08:52:00+09:00</dc:date>
+        <title>トランプ政権、支持者向けに17億7600万ドルの基金設立　腐敗行為との批判</title>
+        <link>https://www.cnn.co.jp/usa/35247651.html?ref=rss</link>
+        <description>米司法省は18日、前政権から不当に標的にされたと主張するトランプ大統領の支持者らを補償するため、17億7600万ドル（約2820億円）の基金を設立すると発表した。
+
+大統領の政権が、自身の支配下にある政府機関から税金を使って支持者に支払いを行うことを可能にする前例のない措置である。
+
+基金への請求資格にはほとんど制限がないようだ。トランプ氏は、数年前のロシア共謀疑惑の捜査から、2021年1月6日の米連邦議会議事堂襲...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247651.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/19/69ffec064800b3a0b09fffeab15195d7/t/768/512/d/gettyimages-2275858788.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247649.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-19T08:26:00+09:00</dc:date>
+        <title>トランプ氏、対イラン攻撃「見送り」表明　軍には「即応態勢」指示</title>
+        <link>https://www.cnn.co.jp/usa/35247649.html?ref=rss</link>
+        <description>トランプ米大統領は18日、19日に予定していたイランへの攻撃再開を「見送る」と表明した。カタール、サウジアラビア、アラブ首長国連邦（UAE）の首脳からの要請を理由に挙げ、戦争終結に向けた交渉がより「本格化」していると述べた。
+
+トランプ氏は自身のSNS「トゥルース・ソーシャル」への投稿で、合意に至らない場合に備え、軍指導部に対し「即時に、イランへの全面的かつ大規模な攻撃に踏み切れるよう準備を整える」よう指...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247649.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/19/9bdf5bc868d820e6b3d8492321a71897/t/768/512/d/gettyimages-2275802281.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247646.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-18T18:25:00+09:00</dc:date>
+        <title>戦闘準備を進めるイラン　国営テレビは生放送中に発砲、集会では市民に銃の使い方を訓練</title>
+        <link>https://www.cnn.co.jp/world/35247646.html?ref=rss</link>
+        <description>イラン首都テヘランに夜が訪れ、アルボルズ山脈の頂きが闇に消えていくころ、何千人ものイラン人が決まったように街頭へと繰り出し、反米支持者の動員を目的とした国家主導の集会に参加している。
+
+テヘランの高級住宅街、タジリシュ広場の近くでは「米国に死を」というお決まりのかけ声が響き、大量のイラン国旗がはためく。露天商たちは熱狂的な群衆に向けて茶や、愛国的な野球帽やワッペンといった記念品を売り歩いている。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247646.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/18/0ca1e4ef95568f5dc1f9dd5c0fa9adfd/t/768/512/d/gettyimages-2271249786.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35247635.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-18T15:51:00+09:00</dc:date>
+        <title>ボーズの新しい「Lifestyleコレクション」が日本で発売開始　ワイヤレススピーカーは驚くほどの力強さ</title>
+        <link>https://www.cnn.co.jp/tech/35247635.html?ref=rss</link>
+        <description>筆者はBOSE（ボーズ）の「Lifestyle Ultra」のスピーカー、サウンドバー、サブウーファーがSonosのホームオーディオの牙城に新たな脅威をもたらしているという話を耳にし、この戦いがどのような展開をみせるかに興味をそそられている。セットアップの各アイテムが豊かなサウンドを生み出すだけでなく、このサラウンドサウンドオーディオの3点セットは「Lifestyle Ultra Speaker」を2台目と組み合わせることもでき、サラウンドサ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35247635.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/18/aa2f53a4f3e8d0b25c955662d347b0ff/t/768/432/d/img-4910.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35247627.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-18T13:06:00+09:00</dc:date>
+        <title>北朝鮮女子サッカーチームが韓国入り、選手団の訪韓は約7年ぶり</title>
+        <link>https://www.cnn.co.jp/showbiz/35247627.html?ref=rss</link>
+        <description>北朝鮮の女子サッカー選手団が17日、アジア・チャンピオンズリーグに出場するため韓国の仁川国際空港に到着した。韓国が北朝鮮の選手団を受け入れるのは約7年ぶりだった。
+
+平壌から韓国入りした女子サッカーチーム「ネゴヒャン」の選手とスタッフは39人。北京経由で仁川国際空港に到着すると、大勢の報道陣の前を急ぎ足で通り抜けた。
+
+選手たちはおそろいのブレザーとスカート姿。歓迎の横断幕を掲げて出迎えた統一支持派のグ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35247627.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/18/74648841a8fb024745cff322b8ec4289/t/768/529/d/gettyimages-2276088495.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247624.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-18T11:40:00+09:00</dc:date>
+        <title>WHOが「緊急事態」宣言、今回のエボラ出血熱流行について分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35247624.html?ref=rss</link>
+        <description>世界保健機関（WHO）は17日、アフリカのコンゴ民主共和国とウガンダで流行しているエボラ出血熱について、「国際的に懸念される公衆衛生上の緊急事態」を宣言した。
+
+WHOによると、今回の流行は、エボラ出血熱を引き起こすオルソエボラウイルスの一種、ブンディブギョ株が原因となっている。
+
+現時点ではまだ「パンデミック（世界的大流行）緊急事態」の水準には達していない。しかし症例数は増えており、感染が疑われる死者は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247624.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/18/bd50f8e98304386179864ebeb263036e/t/768/510/d/gettyimages-2276106728.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247622.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-18T10:56:00+09:00</dc:date>
+        <title>ダイビング中に観光客4人死亡　困難極める洞窟での捜索活動で軍のダイバーも死亡する事態に　モルディブ</title>
+        <link>https://www.cnn.co.jp/world/35247622.html?ref=rss</link>
+        <description>インド洋のモルディブでスキューバダイビング中に死亡したイタリア人4人の遺体捜索を強化するため国際的な洞窟ダイバーらが17日、同国に到着した。この前日には回収作業で軍当局者1人が命を落としていた。
+
+モルディブ政府によると、世界的なスキューバダイビングの緊急事態に対応する団体「ダイバーズ・アラート・ネットワーク（DAN）」に所属するフィンランド人ダイバー3人は、この任務を遂行するための戦略を検討するため、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247622.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/18/a5f7d9ab825570853212bb60d3e9d1c4/t/768/576/d/ap26136328993205.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247620.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-18T09:16:00+09:00</dc:date>
+        <title>トランプ氏、イランに警告「何も残らなくなる」　国家安全保障チームとの協議受け</title>
+        <link>https://www.cnn.co.jp/usa/35247620.html?ref=rss</link>
+        <description>米国のトランプ大統領は17日、SNSに「イランについては、時は刻一刻と進んでいる。早く動いたほうがいい。さもなければ何も残らなくなる。期限は厳守しなければならない！」と投稿した。この前日にトランプ氏はイランとの戦争の今後について国家安全保障チームの主要メンバーと協議した。事情に詳しい関係者がCNNに明らかにした。
+
+関係者によると、バージニア州にあるトランプ氏のゴルフクラブで開かれたこの会合にはバンス副...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247620.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/18/65e453459b54d873fe3a6ea1f25083da/t/768/512/d/gettyimages-2276409200.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247614.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-17T18:28:00+09:00</dc:date>
+        <title>熱心なアマチュア、謎の古代民族ピクト人の指輪発見　1000年あまり地中に</title>
+        <link>https://www.cnn.co.jp/fringe/35247614.html?ref=rss</link>
+        <description>アマチュアの考古学愛好家が精巧な象眼細工を施した「見事な」ピクト人の指輪を発見する――。英スコットランドで2024年、そんな出来事があった。この指輪は1000年あまり地中に埋まっていた。
+
+発掘を主導したアバディーン大学によると、スコットランド北東部バーグヘッドの遺跡で、ボランティアが「中心にざくろ石か赤のガラスをはめ込んだ凧（たこ）形の指輪」を掘り起こした。
+
+発見者は同大卒業生の元エンジニア、ジョン・ラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247614.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/17/0d65858cda109dce650fda2b951b950c/t/768/432/d/pictish-ring.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247613.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-17T17:04:00+09:00</dc:date>
+        <title>ウクライナがモスクワへ大規模攻撃、3人死亡　ロシア国営メディア「ここ1年あまりで最大」</title>
+        <link>https://www.cnn.co.jp/world/35247613.html?ref=rss</link>
+        <description> ロシア国営タス通信は17日、地元当局者や軍関係者の話として、ウクライナが夜間に500機を超えるドローン（無人機）でロシアを攻撃し、首都モスクワ近郊で少なくとも3人が死亡したと報じた。
+
+タス通信が市長の発表をもとに報じたところによると、モスクワへの攻撃は「ここ1年あまりで最大」規模となった。ロシアは今週、ウクライナの首都キーウを狙った大規模攻撃を相次ぎ実施。ウクライナ当局によると、一連の攻撃で少なくと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247613.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/17/7cc5b0421276bf4847e39446f3f14bb0/t/768/576/d/2026-05-17t060927z-1453956728-rc2tala4o5o5-rtrmadp-3-ukraine-crisis-russia-drones-moscow.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247612.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-17T16:13:00+09:00</dc:date>
+        <title>座礁したザトウクジラ、デンマーク沖で死を確認　弱り切った状態で救出強行、動物虐待巡る論争に</title>
+        <link>https://www.cnn.co.jp/fringe/35247612.html?ref=rss</link>
+        <description> デンマーク環境保護庁は16日、浅瀬に座礁して何週間も身動きできなくなっていた若いザトウクジラの「ティミー」について、デンマーク沖で死んでいるのが見つかったと明らかにした。ティミーは論議を呼んだ救出活動で数週間前に自由の身となったばかりだった。
+
+環境保護庁の部門責任者、ジェーン・ハンセン氏はCNNの取材に「アンホルト島の近くで座礁していたザトウクジラは、以前にドイツで座礁して救助対象となった個体と同...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247612.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/17/b1a71401c579c4c55fca358f041adb56/t/768/511/d/gettyimages-2275931555.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247611.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-17T13:39:00+09:00</dc:date>
+        <title>【分析】「侵攻」に備えるキューバ国民、米国との対立激化で長年の想定に現実味</title>
+        <link>https://www.cnn.co.jp/world/35247611.html?ref=rss</link>
+        <description>数日前、CNNハバナ支局の入るビルの管理人が、緊急の用件で我々のドアをノックした。管理人の女性が知りたがっていたのは、米国による「差し迫った」侵攻の間も仕事に来るのか、ということだった。
+
+米政権によるキューバへの激しい圧力は既に、日常生活の中でひしひしと感じられていた。米国の石油禁輸措置が続く中、オフィスでは1日に何度も停電が起きる。悪化する経済危機の影響で、ビルの発電機の燃料はおろか、トイレット...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247611.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/17/95eef488169d536a49645f353616359a/t/768/432/d/2026-05-01t235422z-505092192-rc2a0lapu2zs-rtrmadp-3-may-day-cuba.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247609.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-17T09:55:00+09:00</dc:date>
+        <title>謎の巨大生物「ビッグフット」、米オハイオ州で目撃情報　長年の議論が再燃　</title>
+        <link>https://www.cnn.co.jp/fringe/35247609.html?ref=rss</link>
+        <description>マイク・ミラー、ベンジャミン・ラドフォード両氏は、長きにわたり、全身が毛に覆われた正体不明の巨大生物「ビッグフット（別名サスクワッチ）」について語ってきた。しかし、両氏の立場は対照的だ。
+
+オハイオ・ナイト・ストーカーズの一員として約20年にわたりイエティを追い続けてきたミラー氏にとって、サスクワッチ探しは一つのミステリーであり、その答えは身近な場所や、どこかの洞窟の中に潜んでいるかもしれない。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247609.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/16/d1cb5c471a90e34dd7bdbf954fc19bdb/t/768/432/d/img-3838-20260506171307616.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247610.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-17T09:35:00+09:00</dc:date>
+        <title>歩行者に車突っ込む、市民が刃物男にタックルして取り押さえ　イタリア　</title>
+        <link>https://www.cnn.co.jp/world/35247610.html?ref=rss</link>
+        <description>イタリア北部モデナで16日、車が歩行者に突っ込む事件があった。モデナのメッツェッティ市長によると、直後に居合わせた市民4人が介入し、車の運転手にタックルして取り押さえたという。
+
+メッツェッティ氏は国営メディアRAIに対し、「犯行に及んだ男は、刃物を振りかざしながら車から降りてきた」「市民4人が男を拘束して法執行機関に引き渡した。感謝している」と語った。
+
+メッツェッティ氏の最初の声明では、車はモデナ中心...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247610.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/17/603f13f149bc333aa8c3056acef7f1c9/t/768/512/d/2026-05-16t181101z-57720856-rc2gala0uux9-rtrmadp-3-italy-car-crowd__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247607.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-16T19:21:00+09:00</dc:date>
+        <title>米空母ジェラルド・フォード、最長展開記録更新し帰港　イラン戦争やマドゥロ氏拘束に参加</title>
+        <link>https://www.cnn.co.jp/usa/35247607.html?ref=rss</link>
+        <description>米国最大かつ最新鋭の空母「ジェラルド・R・フォード」が16日、米バージニア州の母港に帰還する見通しとなった。約1年にわたる航海の中ではベネズエラのマドゥロ前大統領の拘束作戦やイランとの戦闘に参加した一方、艦内火災や度重なる配管トラブルといった事案も発生していた。
+
+ジェラルド・R・フォードによる航海は、ベトナム戦争終結以来、空母が行った最長の作戦展開として歴史に刻まれる。トランプ大統領が海外での一連の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247607.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/16/8fa127eb04815dfcc9b1ccf2aef09f03/t/768/512/d/9595354.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247608.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-16T19:06:00+09:00</dc:date>
+        <title>米司法省、キューバのラウル・カストロ氏起訴を検討　罪状は96年の航空機撃墜など</title>
+        <link>https://www.cnn.co.jp/usa/35247608.html?ref=rss</link>
+        <description> 米司法省がキューバのラウル・カストロ元国家評議会議長（94）の起訴に向けて動いていることが分かった。 事情に詳しい情報筋が明らかにした。
+
+捜査の範囲は不明。ただ、連邦検察は複数の罪状を検討しており、キューバ軍が亡命支援組織「ブラザーズ・トゥー・ザ・レスキュー」の航空機2機を撃墜した1996年の事件に関するものも含まれる。
+
+この攻撃では男性4人が死亡し、うち3人は米国籍の保有者だった。
+
+
+  
+  
+フロリダ州...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247608.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/16/bf584a19041cd14e3a8f73d9f35bc8c0/t/768/511/d/ap26121550676152.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247606.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-16T18:00:00+09:00</dc:date>
+        <title>内戦にコスト高が追い打ち、3200キロ離れたイラン戦争で深まるミャンマー経済の窮状</title>
+        <link>https://www.cnn.co.jp/world/35247606.html?ref=rss</link>
+        <description>田植えの季節が近づく中、マウン・ヌ・セインさんは農業機械を動かす燃料と、稲を育てるための肥料を必要としている。しかし、セインさんにとって不可欠な物資を積んだ船は、3200キロ離れた海上で足止めされている。世界有数の重要水路の一つをイランが封鎖したためだ。
+
+今、セインさんは計算を迫られている。燃料費と農作業コストが米を売って得られる収入を上回ってしまった場合、果たして生き残れるのだろうか？
+
+「多くの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247606.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/16/c1234abcc3593b095dacc3c0ff0661ce/t/768/432/d/gettyimages-1533330184.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35247605.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-16T16:21:00+09:00</dc:date>
+        <title>3000年前の剣、ドイツで23年に発見　保存状態良好、なおきらめき</title>
+        <link>https://www.cnn.co.jp/style/arts/35247605.html?ref=rss</link>
+        <description>考古学者が埋葬地で八角形の柄（つか）を持つ3000年以上前の剣を発見する――。ドイツ南部バイエルン州で2023年、そんな出来事があった。
+
+バイエルン州記念物保存局の声明によると、保存状態は非常に良好で、発見時も光を放っていたという。
+
+  
+  
+剣は実戦用の武器だったと考古学者らはみている/Bayerisches Landesamt für Denkmalpflege
+  
+
+
+剣は同州ドナウ・リースの遺跡で23年6月に発見された。研究者の間では埋葬時の贈り...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35247605.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/16/e9e2af762f0ecd1e214f768cc60eba46/t/768/432/d/230616123459-01-bronze-age-sword-germany.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35247593.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-16T15:07:00+09:00</dc:date>
+        <title>SNSでの交流は孤独を深める可能性、対面での友人関係が不可欠　米研究</title>
+        <link>https://www.cnn.co.jp/tech/35247593.html?ref=rss</link>
+        <description>SNSの利用は友情を深めるどころか、むしろ孤独感を増す可能性があることが、米公衆衛生局の公式学術誌「パブリックヘルス・リポーツ」に6日に掲載された研究で明らかになった。
+
+30～70歳の米国人1500人以上を対象にした調査によると、SNSでつながっている人のうち、実際に会ったことのない人の割合が高いほど、孤独感を抱いている人が多いことが分かった。また、SNSで親しい友人と多くつながっていても、孤独感が軽減されるわ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35247593.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/15/f5b7bd83967d0b2d1c87b9128ad35269/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW9zem04OWgwMDBmMzU2cWFwMG5laHJu-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntb3N6NnZkbTAwMXoyN3A4M3ZpcGY2bnQ_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
