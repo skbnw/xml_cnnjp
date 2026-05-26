@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-05-26T09:03:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247982.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247981.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247968.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247957.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247954.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247949.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247938.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247936.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247933.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247927.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247926.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247925.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247924.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247923.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247922.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247921.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247920.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247857.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247919.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247918.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247917.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247916.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247909.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247915.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247912.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247913.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247911.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35247910.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35247906.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35247903.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35247982.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-26T09:03:00+09:00</dc:date>
+        <title>米軍、イランのミサイル発射施設と船艇を標的に「自衛のための攻撃」　戦闘終結に向けた協議続くなか</title>
+        <link>https://www.cnn.co.jp/world/35247982.html?ref=rss</link>
+        <description>米軍は25日、ホルムズ海峡周辺でイランのミサイル発射施設と船艇を標的にした「自衛のための攻撃」を実施した。米中央軍が明らかにした。米イランは停戦中で戦争終結に向けた交渉を続けている。
+
+ホルムズ海峡周辺で爆発があったとの報告についてCNNが質問したところ、中央軍の報道官は声明で「米軍は25日、イラン軍がもたらす脅威から米軍部隊を守るため、イラン南部で自衛のための攻撃を実施した」と述べた。
+
+報道官は「標的...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247981.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-26T08:31:00+09:00</dc:date>
+        <title>核問題と制裁巡る米イラン間の相違、早期解消に楽観的な見方</title>
+        <link>https://www.cnn.co.jp/world/35247981.html?ref=rss</link>
+        <description>米当局者によると、イランの核開発計画や制裁解除を巡る文言の相違が戦争終結に向けた合意の最終決定の妨げとなっているものの、これらの相違は比較的早期に解消されるとの楽観的な見方が出ている。
+
+イラン政府の交渉チームの幹部を含むイラン代表団が25日にカタールを訪問していることについて、米当局者の1人は、カタールの仲介能力を挙げ、前向きな兆候であると述べた。
+
+米国はイランに対し、高濃縮ウランの備蓄を処分し、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247981.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/26/6abb629dc4c46ee1720da101b7d70d40/t/768/512/d/2026-05-25t100403z-1580276791-rc26glacnn5f-rtrmadp-3-iran-crisis.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247968.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-25T16:58:00+09:00</dc:date>
+        <title>航空機の操縦を学ぶAI、自動化を受け入れ始める航空業界</title>
+        <link>https://www.cnn.co.jp/usa/35247968.html?ref=rss</link>
+        <description>小型のセスナ・キャラバンが滑走路を加速して離陸する。その間、隣に座るパイロットは操縦桿（かん）から手を離したままだ。
+
+このフライトで、筆者の左側に座るテストパイロットのマット・ダイアモンド氏は一切操縦していない。パイロットの通常業務の多くは、人工知能（AI）が代わりに対応している。
+
+法的な観点から言えば、筆者は被験者だ。機体にも「実験機」というラベルが貼られている。自律飛行技術を手がける新興企業...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247968.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/25/a9bd703bcc539e762903dcb91be88c7d/t/768/512/d/c-still-22625208-109651-638-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247957.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-25T14:29:00+09:00</dc:date>
+        <title>インド首相、「挙式は国内で」　イラン戦争で新たな圧力</title>
+        <link>https://www.cnn.co.jp/world/35247957.html?ref=rss</link>
+        <description>インド西部ムンバイに住むシュバンギ・セスさん（29）は子どものころ、イタリアの高級リゾート地、コモ湖畔で結婚式を挙げるのが夢だった。
+
+米俳優ジョージ・クルーニーさんと弁護士の妻アマルさん、歌手ジョン・レジェンドさんとモデルのクリッシー・テイゲンさんのような有名人も挙式した場所だ。
+
+だがセスさんは年が経つにつれ、伝統と文化を優先するようになった。
+
+今は「伝統的で地に足のついた結婚式がいい」と、イン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247957.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/25/3c20347640491d724172c295f75d5acb/t/768/432/d/india-linear-pkg-00-00-22-17-still006.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247954.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-25T12:44:00+09:00</dc:date>
+        <title>有害物質の貯蔵タンクが爆発の恐れ、住民5万人に避難勧告　米カリフォルニア州</title>
+        <link>https://www.cnn.co.jp/usa/35247954.html?ref=rss</link>
+        <description>米カリフォルニア州南部で巨大タンクの爆発や有害物質漏出の危険が高まり、住民数万人が避難を続けている。
+
+同州オレンジ郡消防局は24日、同タンクに亀裂が生じて内部の圧力が低下している可能性があることが分かったと発表。消防が大規模な爆発を食い止める作業を続ける中、「適切な方向に向けた第1歩」の展開と説明した。
+
+オレンジ郡では24日現在、約5万人に避難勧告が出されており、避難所やホテル、友人や親類宅などに多...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247954.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/25/0fcd5fefcfbc90a1e3ce52871c36d1dc/t/768/512/d/gettyimages-2277315859.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247949.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-25T11:36:00+09:00</dc:date>
+        <title>高層ビルが建ち並ぶ富裕都市香港、路地には日銭を稼ぐ多くの「段ボールおばあちゃん」</title>
+        <link>https://www.cnn.co.jp/world/35247949.html?ref=rss</link>
+        <description>混み合った街路を上手にすり抜けながら、回収した廃棄段ボールを山積みにした手押し車を押す高齢者。香港ではその姿を見かけないことのほうが珍しい。
+
+その多くは70代以上で、アジア有数の裕福な都市でなんとか暮らしていくため、わずかな稼ぎを目当てに数十キロの段ボールを運ぶ。
+
+肌を焦がすような炎天下でも激しい豪雨の中でも険しい坂道や狭い路地を進む。正式な職業ではないため、カートや回収物を当局に没収されるリス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247949.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/25/136b89ba1c0e478e048c01b38a8080b0/t/768/512/d/dsc00979-20260330054655450.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247938.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-25T10:34:00+09:00</dc:date>
+        <title>ロシアが核搭載可能な極超音速弾道ミサイル「オレシュニク」を使用、ウクライナ首都を攻撃</title>
+        <link>https://www.cnn.co.jp/world/35247938.html?ref=rss</link>
+        <description>ロシアがウクライナ首都のあるキーウ州に対する大規模攻撃で、新型の極超音速弾道ミサイル「オレシュニク」を使用した。この攻撃では少なくとも4人が死亡した。
+
+米国が中距離ミサイルに分類しているオレシュニクは、通常弾頭や核弾頭を複数搭載できる。ウクライナの防空システムで迎撃することはほぼ不可能。ロシアがオレシュニクを使用したのは今回で3度目だった。
+
+ウクライナのウォロディミル・ゼレンスキー大統領は、同ミ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247938.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/24/b49016fef3b2370735a62d3089a68b5e/t/768/534/d/2026-05-22t145330z-1488649606-rc2eelampu1w-rtrmadp-3-ukraine-crisis-luhansk-attack.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247936.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-25T10:01:00+09:00</dc:date>
+        <title>鉄道駅付近で爆弾攻撃、少なくとも23人死亡　パキスタン</title>
+        <link>https://www.cnn.co.jp/world/35247936.html?ref=rss</link>
+        <description>パキスタン南西部クエッタの駅近くで24日、通過する列車を狙った自爆攻撃があり、少なくとも23人が死亡、71人が負傷した。
+
+  
+    
+      
+    
+    
+Reuters
+  
+
+この攻撃について、中央政府からの独立を要求する反政府組織「バルチスタン解放軍（BLA）」が犯行声明を出した。
+
+警察は何者かが自爆したとみて捜査している。
+
+救急隊によると、現場では今も救出活動が続けられている。当局は現場一帯を封鎖して、治安部隊や爆...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247936.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/25/454a850059f78576e47c3163a897e1e0/t/768/512/d/ap26144231415641.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247933.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-25T09:25:00+09:00</dc:date>
+        <title>合意間近とされる米イラン協議、直近の動きは</title>
+        <link>https://www.cnn.co.jp/world/35247933.html?ref=rss</link>
+        <description>米国とイランの和平交渉をめぐり、トランプ米大統領は合意が近いと述べ、米国とイランの当局者も交渉の進展を示唆している。しかし米政権高官がCNNに明らかにしたところによると、24日に合意が成立する見通しは立っていない。
+
+高官によると、ホルムズ海峡とイランの核開発計画をめぐる具体的な条件など詳細はなお交渉中だ。交渉担当者らは、制裁緩和や凍結されたイラン資産の解除に関する内容も詰めている。
+
+トランプ氏は24日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247933.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/25/de5f0091443d209c133a4e6c21a4ed3a/t/768/512/d/gettyimages-2276029086-20260524134023603.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247927.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-24T18:36:00+09:00</dc:date>
+        <title>イラン大統領、最高指導者の許可なしに決定下されず　トランプ氏の「交渉まとまった」発言後</title>
+        <link>https://www.cnn.co.jp/world/35247927.html?ref=rss</link>
+        <description>イランの半国営タスニム通信によれば、ペゼシュキアン大統領は23日、イランでは最高指導者の許可なしに決定が下されることはないとの認識を示した。トランプ米大統領はこれより前、和平合意について「大筋で交渉がまとまった」と発言していた。
+
+ペゼシュキアン氏はまた、国防や国家安全保障を担うイランの憲法上の機関「国家安全保障最高評議会」の枠組みの外で決定が下されることはないとも指摘した。
+
+イランの最高指導者モ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247926.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-24T16:52:00+09:00</dc:date>
+        <title>「死の病菌」まき散らすゾンビゼミ、大発生と重なる自然界のスペクタクル　24年春</title>
+        <link>https://www.cnn.co.jp/fringe/35247926.html?ref=rss</link>
+        <description>2024年の春は、10年以上も土の中にいたセミが何十億匹も同時にはい出す大発生が予想されていた。樹上で大きな声で鳴き、メスを呼び寄せるオスのセミ。ところが中には病菌に体を乗っ取られ、ゾンビのように操られて菌をまき散らすセミもいる。
+
+この病菌はセミの生殖器を破壊して腹部を病菌の胞子に入れ替え、そのセミを操って盛んに交尾させる。こうして「死のソルトシェイカー」（研究者）と化したセミがさらに病菌をまき散ら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247926.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/24/57dc3d69e63ea7f918ee9f9ce5a5ef71/t/768/432/d/ap24092657502416.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247925.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-24T15:28:00+09:00</dc:date>
+        <title>PDFから墜落機のコックピット音声を再現、プライバシー侵害の恐れ　米当局が調査記録の公開停止</title>
+        <link>https://www.cnn.co.jp/usa/35247925.html?ref=rss</link>
+        <description>航空機事故の音声を静止画から抽出できる新技術が論議を招いている。米国家運輸安全委員会（NTSB）は、調査に関連するほぼ全ての情報公開をいったん停止する異例の措置を講じた。
+
+CVR（コックピットボイスレコーダー）と呼ばれる操縦席の音声記録は民間機のパイロットの会話をすべて録音しており、NTSBの調査では貴重な資料となるが、犠牲者や遺族への配慮から公開されることはほとんどない。
+
+米ケンタッキー州ルイビルでは昨...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247925.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/24/fbdc3d4aba831b1427a4c040e34947e7/t/768/432/d/still-22638477-10467-893-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247924.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-24T12:30:00+09:00</dc:date>
+        <title>米ホワイトハウス付近で発砲、シークレットサービスが容疑者射殺</title>
+        <link>https://www.cnn.co.jp/usa/35247924.html?ref=rss</link>
+        <description>米ホワイトハウス付近で23日、検問所に接近してきた人物が大統領警護隊（シークレットサービス）の要員に向けて発砲する事件があり、シークレットサービスは容疑者を射殺した。
+
+シークレットサービスの報道官が初期調査をもとに明らかにしたところによれば、事件は米東部時間午後6時前に発生した。
+
+シークレットサービスの要員が銃で応戦して容疑者は被弾し、近隣の病院で死亡したという。
+
+報道官は「銃撃戦の間、居合わせた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247924.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/24/5f890684abccee1709afc9acbd9156c7/t/768/512/d/gettyimages-2277368084__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247923.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-24T10:52:00+09:00</dc:date>
+        <title>トランプ氏、イランと「大筋で交渉まとまった」　ホルムズ海峡再開と主張</title>
+        <link>https://www.cnn.co.jp/usa/35247923.html?ref=rss</link>
+        <description>トランプ米大統領は23日、米国とイランの間の幅広い合意案の「交渉が大筋でまとまった」と明らかにした。ホルムズ海峡は再開される見通しだとも述べ、イランとの戦争終結に向けた動きに弾みが付く可能性を示唆した。
+
+トランプ氏は自身のSNSトゥルース・ソーシャルに、「合意案の交渉は大筋でまとまった。あとは米国とイラン、他の様々な国の間での最終調整次第だ」と書き込んだ。
+
+ただ、イランのファルス通信はトランプ氏の説...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247923.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/24/052b3a647e127b53060a1035d5aea982/t/768/511/d/gettyimages-2277150155.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247922.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-24T09:14:00+09:00</dc:date>
+        <title>ウクライナ首都にロシアの「大規模」ミサイル攻撃、プーチン氏の報復命令で</title>
+        <link>https://www.cnn.co.jp/world/35247922.html?ref=rss</link>
+        <description>米国とウクライナの当局が23日にロシアによるミサイル攻撃の可能性について警告した後、ウクライナの首都キーウでは、爆発音が聞こえた。ロシアのプーチン大統領はこれに先立ち、ウクライナの攻撃で死者が出たことへの報復を命じていた。
+
+ウクライナ空軍は23日深夜、ロシアの強力なミサイルに言及して「（オレシュニク）中距離弾道ミサイルの発射が進められている」と警告した。
+
+キーウの軍政当局者はSNSテレグラムへの投稿で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247922.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/24/b49016fef3b2370735a62d3089a68b5e/t/768/534/d/2026-05-22t145330z-1488649606-rc2eelampu1w-rtrmadp-3-ukraine-crisis-luhansk-attack.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247921.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T19:50:00+09:00</dc:date>
+        <title>ゴキブリが反体制運動のシンボルに、Z世代で支持広がる　インド</title>
+        <link>https://www.cnn.co.jp/world/35247921.html?ref=rss</link>
+        <description>普段人々から忌み嫌われることの多いゴキブリが、インドのZ世代の間で反体制運動のシンボルとなっている。経済的に厳しい立場にある若年層が、意表を突いたイメージ戦略で既得権益層に反旗を翻した形だ。
+
+この新たな運動を主導するのが、その名も「ゴキブリ人民党」。現与党のインド人民党（BJP）を皮肉った党名だが、同党は1週間足らずでインスタグラムのフォロワーを1900万人以上獲得した。これは政府のフォロワー数のほぼ2...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247921.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/23/f18aa6e7f16f4e8486a678de065f3bf6/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXBnZDV0ODEwMDAxM2I2cjZ0a3Vrazdl-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcGdkNWVnYTAwMXIyZHAwMzBiMjZhbjA_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247920.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T17:41:00+09:00</dc:date>
+        <title>エストニア情報機関トップ、「時間はロシアに味方していない」　戦場での損失と経済苦境でプーチン氏に圧力</title>
+        <link>https://www.cnn.co.jp/world/35247920.html?ref=rss</link>
+        <description>エストニア対外情報庁のロシン長官はCNNに対し、ロシアのプーチン大統領がウクライナとの戦争に勝利するために残された時間は尽きつつあるとの認識を示した。戦場での膠着（こうちゃく）と、ロシアの国内状況の深刻化を踏まえた発言。
+
+ロシン氏はエストニアの首都タリンにある対外情報庁の本部でインタビューに応じ、プーチン氏はあと4～5カ月で「強い立場から交渉できなくなる可能性がある」と指摘した。
+
+ロシン氏はプーチン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247920.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/23/1d3b259a2043e25035acfaac01cdedd9/t/768/432/d/2026-05-17t090321z-640752712-rc2uala6cjyl-rtrmadp-3-ukraine-crisis-russia-drones-moscow.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247857.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T15:34:00+09:00</dc:date>
+        <title>アフリカで新たなプレート境界形成か、科学者が手がかり発見</title>
+        <link>https://www.cnn.co.jp/fringe/35247857.html?ref=rss</link>
+        <description>サハラ砂漠以南のアフリカは数百万年後に分裂する可能性があり、科学者らはこの地質学的プロセスが初期段階にあるのではないかとみている。
+
+この分裂は、タンザニアからナミビアまで延びる全長約2500キロの地溝帯の一部であるカフエ地溝帯に沿って起きるとみられる。地溝とは地殻の割れ目であり、地表を変形させ、地盤沈下や地震を引き起こすことがある。世界には数千の地溝が存在し、その大半は活動を休止または停止している...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247857.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/22/cc6a88f32dc7ae26dbf86a74f0dd4ec7/t/768/432/d/picture-a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247919.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T14:55:00+09:00</dc:date>
+        <title>中国炭鉱のガス爆発、死者82人に　国営メディア</title>
+        <link>https://www.cnn.co.jp/world/35247919.html?ref=rss</link>
+        <description>中国東北部山西省・長治市の炭鉱で22日夜に発生したガス爆発の死者が82人となった。国営メディアが報じた。
+
+中国国営中央テレビ（CCTV）は「救助活動は現在も継続中。死傷者数はなお集計中」と伝え、9人が依然として行方不明だと付け加えた。
+
+現時点で炭鉱に閉じ込められている人数は明らかになっていない。
+
+新華社通信は先に、炭鉱内の一酸化炭素濃度が「基準値を超えた」と報じていた。
+
+近年、中国では化石燃料からの脱却...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247918.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T14:16:00+09:00</dc:date>
+        <title>「スターシップ」の再突入、鮮やかなピンクのプラズマで輝く船体を撮影</title>
+        <link>https://www.cnn.co.jp/fringe/35247918.html?ref=rss</link>
+        <description>米民間宇宙企業スペースXの宇宙船「スターシップ」を包む鮮やかなマゼンダ色の輝きが撮影された。宇宙船が地球大気圏の厚い内層へと突っ込む瞬間を象徴する光景の一つだ。
+
+ただ、スターシップのエンジンの問題を考慮すると、この時点では事態が危険なものになる可能性もあった。
+
+スペースXのケート・タイス氏は「再突入は少々、刺激的なものになるかもしれないと予想している。どこまでいくか状況を注視していく」と述べていた。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247918.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/23/149e69290afccbdf94d423f63e8ab68d/t/768/432/d/still-22649362-3772668-667-still__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247917.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T14:11:00+09:00</dc:date>
+        <title>ガザ支援船団の活動家、イスラエルで虐待受けたと主張　拘束中の性暴力を告発</title>
+        <link>https://www.cnn.co.jp/world/35247917.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区へ向かう途中でイスラエル軍に拿捕（だほ）された人道支援船団に乗船していた活動家らが、拘束中に殴打、拷問、性的暴力を受けたと訴えている。
+
+ガザ地区の住民への食料、医薬品、人道支援物資を積んだ「グローバル・スムード船団」は乗員428人でトルコを出港後、数日にわたって航行を阻止され、最終的に19日に拿捕された。
+
+一行は拘束後、トルコへ送還された。彼らが受けたとされる虐待行為は既に国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247917.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/23/9bf65703d0f65a6e24a6e4ed832f1d2d/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXBoOGl5dXcwMDBwMzk2bjZmd3B5c2di-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcGg2a2FudzAwMnoyNnFqNWNvMjd0cDE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247916.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T13:00:00+09:00</dc:date>
+        <title>スペースXの大型宇宙船「スターシップV3」、初めて打ち上げ　成功と失敗が入り混じる結果に</title>
+        <link>https://www.cnn.co.jp/fringe/35247916.html?ref=rss</link>
+        <description>米民間宇宙企業スペースXの大型宇宙船「スターシップV3」の打ち上げが22日に初めて行われ、成功と失敗が入り混じる劇的な結果となった。
+
+テキサス州南端部にあるスペースXの打ち上げ施設「スターベース」から行われた今回のミッションは、浮き沈みの激しい展開となった。打ち上げ後、ロケットはメキシコ湾上空を飛行。上段の宇宙船「スターシップ」は、船体の破壊につながりかねないエンジントラブルが繰り返し発生したものの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247916.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/23/2c49953642f77869d0cde11fd1cb26ad/t/768/512/d/c-ap26142825308022__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247909.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T12:30:00+09:00</dc:date>
+        <title>ネアンデルタール人、5万9000年前に虫歯治療か　石器で虫歯を削る？</title>
+        <link>https://www.cnn.co.jp/fringe/35247909.html?ref=rss</link>
+        <description>洞窟で見つかった歯の化石から、5万9000年前の先史時代の人類が虫歯治療を行っていた可能性が浮かび上がってきた。
+
+研究者らは、現在のロシア・シベリア南西部アルタイ山脈にあるチャギルスカヤ洞窟で、成人ネアンデルタール人の下あごの臼歯（きゅうし）を発見した。この洞窟には約4万9000～7万年前、ネアンデルタール人集団が居住していたとされる。
+
+「チャギルスカヤ64」と名付けられたこの歯は、洞窟内で見つかった数十本...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247909.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/23/a1ed9e381566caf1473a77f08bf52dbb/t/768/252/d/1-1-copy__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247915.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T11:51:00+09:00</dc:date>
+        <title>トランプ氏、安保担当の高官らと会議　イラン巡る今後の対応を検討</title>
+        <link>https://www.cnn.co.jp/usa/35247915.html?ref=rss</link>
+        <description>米国のトランプ大統領は22日、イランとの戦争における今後の方向性を検討するため、国家安全保障担当の高官らと会議を行った。会議の内容に詳しい関係者が明らかにした。
+
+トランプ氏が定期的に開いているこのホワイトハウスでの会議は、戦争終結に向けた合意形成を目指す外交努力が難航する中で行われた。会議は今後の展開に関する決定を下すことなく終了した。
+
+イラン外務省の報道官は22日、カタールとパキスタンの代表団が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247915.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/23/d13fc3dd2213aaae278e1f5835be86fb/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXBobGF0a3kwMDAwM2I2cnVjNzlhNjB2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcGhrdGE4YzAwMjAyN3FoYWI4bTRyZTc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247912.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T10:49:00+09:00</dc:date>
+        <title>観光客が渓谷に転落し死亡、マチュピチュ遺跡へ向かうハイキングコース</title>
+        <link>https://www.cnn.co.jp/world/35247912.html?ref=rss</link>
+        <description>観光地として人気が高いペルーのマチュピチュ遺跡へ向かう「インカ・トレイル」をハイキングしていたオーストラリア人観光客が渓谷に転落し、死亡した。
+
+当該の観光客、マシュー・ペイトンさんの遺体は現地時間21日の夕方に発見された。勤務先の豪ビクトリア州警察がCNNに声明で明らかにした。CNN提携局の9ニュースの報道によると、ペイトンさんは20日午後2時前後に転落したとみられる。
+
+52歳のペイトンさんは3人の子どもの父...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35247912.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/23/691e9aba03829fa02424be9ddd9c2dbe/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXBnd2ZkMDgwMDA2M2I2cmFvcDAwOXBi-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcGdwZnhpdjAwMXoyOHFiNXpzMjNidTg_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247913.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T10:25:00+09:00</dc:date>
+        <title>ギャバード米国家情報長官が辞任表明、夫のがん診断理由に　イラン巡り足並みの乱れも</title>
+        <link>https://www.cnn.co.jp/usa/35247913.html?ref=rss</link>
+        <description>ギャバード米国家情報長官は22日、夫ががんと診断されたことを理由に、6月末で辞任すると表明した。
+
+ギャバード氏はトランプ大統領に宛てた書簡で、「残念ながら、6月30日付で辞任を申し出なければならなくなった」と説明。「夫のエイブラハムが最近、極めてまれな骨のがんを患っていることが判明した。今後数週間から数カ月の間、大きな試練にさらされることになる。夫に寄り添って闘病生活を全面的に支えるため、このタイミ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247913.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/23/bcfb663b1781d38239485d6a6dc5f90b/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXBoNmh6bnIwMDAxM2I2cmlpMG5rYzNh-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcGg2OG5sZTAwMTAyOG5qZm84ZGJ5NHM_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247911.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T09:30:00+09:00</dc:date>
+        <title>中国の炭鉱でガス爆発、8人死亡　38人閉じ込め</title>
+        <link>https://www.cnn.co.jp/world/35247911.html?ref=rss</link>
+        <description>中国東北部山西省・長治市の炭鉱で22日夜、ガス爆発が発生し、少なくとも8人が死亡、38人が地下に閉じ込められている。中国国営メディアが明らかにした。
+
+新華社通信は先に、炭鉱内の一酸化炭素濃度が「基準値を超えた」と報じていた。
+
+新華社通信によると、長治市にある当該の炭鉱では救助活動が続けられている。爆発は現地時間午後7時30分に発生し、当時247人の作業員が地下にいた。
+
+新華社通信によると、23日午前6時（現...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35247910.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-23T08:43:00+09:00</dc:date>
+        <title>中国の炭鉱で一酸化炭素濃度上昇、4人死亡　90人閉じ込め</title>
+        <link>https://www.cnn.co.jp/world/35247910.html?ref=rss</link>
+        <description>中国山西省・長治市の炭鉱で22日夜、一酸化炭素濃度が「基準値を超え」、国営メディアによると、少なくとも4人が死亡、90人が地下に閉じ込められている。
+
+国営新華社通信によると、現場の炭鉱ではいまも救助活動が続いている。事故は現地時間午後9時43分、247人の作業員が地下にいた際に発生した。
+
+新華社によると、現地時間23日午前3時33分までに少なくとも157人が避難。死者4人も搬出された。
+
+国営メディアの報道によると...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35247906.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-22T19:21:00+09:00</dc:date>
+        <title>米軍航空ショーで墜落事故、210億円相当の機体喪失　リスク冒し開催する理由は</title>
+        <link>https://www.cnn.co.jp/usa/35247906.html?ref=rss</link>
+        <description>先週末、米アイダホ州で開催された航空ショーで海軍のジェット機2機が墜落した事故を受け、次のような疑問が浮上している。国防総省はなぜ、巨額の製造コストがかかる戦闘機とその乗組員を娯楽のために危険にさらすのか。
+
+「こうした疑問は、事故が起きるたびに必ずと言っていいほど飛び交うものだ」。ミッチェル航空宇宙研究所の上級研究員で、元米空軍戦闘機パイロットのジョン・ベナブル氏はそう述べた。
+
+17日にマウンテン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35247906.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/22/6ccbd290d514f786e2945b6e0e390392/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXBmMG9zbTcwMDE5M2I2cjYwdWpzeHB1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcGYwanZybzAwMHkyOXA0OWdvdGJqdWU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35247903.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-22T16:43:00+09:00</dc:date>
+        <title>小惑星探査機「Psyche」、フライバイで火星の希少な画像を捉える</title>
+        <link>https://www.cnn.co.jp/fringe/35247903.html?ref=rss</link>
+        <description>まれな金属質の小惑星に向かう途中の米航空宇宙局（NASA）の探査機「Psyche（サイキ）」が先ごろ、火星へのフライバイ（接近通過）を実施した際、火星の珍しい眺めを撮影した。
+
+2023年10月に打ち上げられたサイキは、火星と木星の軌道の間にある小惑星帯に位置する小惑星「16 Psyche（プシケ）」に向かっている。
+
+  
+  
+火星の南半球にある大型の二重構造をしたホイヘンスクレーターを示したエンハンスドカラー画像/NASA/JPL-...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35247903.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/22/141cef5f0ae1bfe1d207f8d0d66cea6b/t/768/560/d/psyche-instrument-imager-psyche-approach-timelapse-composite-mars-flyby-260519.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
