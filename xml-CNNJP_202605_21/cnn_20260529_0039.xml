@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-05-29T09:16:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248203.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248188.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248177.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248169.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248174.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248157.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248146.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35248137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35248141.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248140.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248117.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248132.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35248129.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248126.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248119.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248106.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248105.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248103.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248093.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248089.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248087.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248068.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248067.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248044.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248066.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248058.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248057.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248041.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35248033.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35248032.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35248203.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-29T09:16:00+09:00</dc:date>
+        <title>イラン、ホルムズ海峡通過を試みた船舶に警告射撃</title>
+        <link>https://www.cnn.co.jp/world/35248203.html?ref=rss</link>
+        <description>イランのイスラム革命防衛隊（IRGC）海軍は28日、IRGCに関連するテレグラムアカウントで、ホルムズ海峡付近で船舶4隻に警告射撃を行ったと発表した。
+
+投稿によると、これらの船舶は「事前の調整や許可なしに」通過しようとしていたという。
+
+IRGCは、防空部隊の報告をもとに爆発音の発生源は「交戦」によるものだったと述べた。
+
+これとは別に、IRGCに近いファルス通信は、同国軍が南部から「指定された標的」に向けミサイルを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248203.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/29/0ccbd0e64dacb46fcc1f3a5554480cb1/t/768/432/d/2026-05-25t172629z-2138645749-rc28glapctgv-rtrmadp-3-iran-crisis-oman-hormuza.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248188.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-29T08:32:00+09:00</dc:date>
+        <title>米イラン、海峡開放と核協議開始で暫定合意　トランプ氏は未承認</title>
+        <link>https://www.cnn.co.jp/world/35248188.html?ref=rss</link>
+        <description>米当局者は28日、米国とイランの協議で暫定合意に達したと明らかにした。だが、トランプ米大統領はまだこれを承認しておらず、地域情勢は依然として緊迫している。
+
+当局者らは、いかなる合意にもトランプ氏の承認が鍵になると警告しており、トランプ氏は合意に先立ち、協議の現状に満足していないと述べていた。また、戦争終結に向けたもう一つの不可欠な段階とみられるイラン最高指導者の承認が得られているかどうかも明らか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248188.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/29/e13c181f72275243b5c27d4b78966bbb/t/768/512/d/gettyimages-2277835305.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248177.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T18:39:00+09:00</dc:date>
+        <title>初期の天の川銀河が矮小銀河をのみ込んだ残骸発見か　進化の理解を変える可能性</title>
+        <link>https://www.cnn.co.jp/fringe/35248177.html?ref=rss</link>
+        <description>天の川銀河が約100億年前に矮小銀河をのみ込んだ残骸（ざんがい）とみられる恒星の集団を、英国の研究者らが発見した。のみ込まれた銀河は、北欧神話に登場するいたずらの神にちなんで「ロキ」と名づけられた。天の川銀河がどのように進化したか、その解釈に変化をもたらす可能性がある。
+
+私たちが住む天の川銀河は直径約10万光年で、1000億～4000億個の恒星が集まっている。1光年は光が1年間に進む距離のことで、約9兆4600億...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248177.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/28/90a8045bdbd2dd711f87517cc2ae73da/t/768/768/d/gaia-s-star-formation-map-slider.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248169.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T18:33:00+09:00</dc:date>
+        <title>トランプ氏告発した女性に対し刑事捜査、米司法省が開始</title>
+        <link>https://www.cnn.co.jp/usa/35248169.html?ref=rss</link>
+        <description>米司法省はトランプ大統領から性的暴行を受けたと告発した元雑誌コラムニスト、ジーン・キャロル氏に対する刑事捜査を開始した。事情に詳しい複数の情報筋が明らかにした。
+
+捜査はキャロル氏がトランプ氏を相手取って起こした2件の民事訴訟における証言で、偽証を行ったかどうかに焦点を当てている。1件は1990年代半ばにニューヨークのデパートで性的暴行を受けたとする訴訟、もう1件は2019年にトランプ氏が性的暴行を繰り返し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248169.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/28/8b4870eae0f03da534532cb9b96e44eb/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXBvYjNrOTMwMDAxM2I2cm0xM3I1eGQw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcG9hazducDAwMHkyOW1hZnZwczloOHg_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248174.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T18:09:00+09:00</dc:date>
+        <title>「脳卒中」ではないかと心配に　ジル・バイデン氏、24年大統領選討論会を振り返る　</title>
+        <link>https://www.cnn.co.jp/usa/35248174.html?ref=rss</link>
+        <description>ジル・バイデン前米大統領夫人は2024年大統領選討論会でトランプ大統領と相まみえたバイデン前大統領の姿について、「死ぬほど怖かった」と振り返り、脳卒中を起こしているのではないかと心配になったと明かした。
+
+ジル氏は31日放送予定のCBSニュースとのインタビューで、「怖かった。あの時のジョー（バイデン氏）のような姿は、以前も以後も一度も見たことがないから。本当に一度も」と語った。CBSは27日、インタビューの抜...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248174.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/28/38119862f6e9962391f32db1b7011ea7/t/768/500/d/gettyimages-2158937245.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248157.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T17:03:00+09:00</dc:date>
+        <title>危険水準のヒ素とカドミウム、市販の米から検出　米健康団体が25年に報告</title>
+        <link>https://www.cnn.co.jp/fringe/35248157.html?ref=rss</link>
+        <description>米国内で市販されている異なるブランド100以上の米のサンプルを調べたところ、危険な水準のヒ素とカドミウムが含まれていることが分かった。CNNに最初に公開された2025年の報告で明らかになった。
+
+「低い水準でさえ、ヒ素もカドミウムも深刻な健康被害と関連している。糖尿病や発達の遅れ、生殖毒性、心臓病などだ」。報告の共著者で、子どもの有毒化学物質への暴露低減に取り組む団体、ヘルシー・ベビーズ・ブライト・フュー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248157.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/05/16/546f0390f896b5575523a62da074fbbf/t/768/432/d/gettyimages-1141317711.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248146.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T14:32:00+09:00</dc:date>
+        <title>イラン革命防衛隊、米軍航空基地を狙った攻撃発表　未明の攻撃に報復</title>
+        <link>https://www.cnn.co.jp/world/35248146.html?ref=rss</link>
+        <description>イランのイスラム革命防衛隊（IRGC）は28日、米国による同日未明の攻撃の起点となった米軍航空基地を狙い攻撃を実施したと明らかにした。イラン政府系メディアが伝えた。
+
+どの航空基地を狙ったのか具体的には触れなかった。米国は中東の複数の国に航空基地を保有している。
+
+ファルス通信は革命防衛隊の広報部門の声明を引用する形で、「米侵攻軍がきょう未明、バンダルアッバス空港周辺の場所に対して飛翔（ひしょう）体を用...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35248137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T14:02:00+09:00</dc:date>
+        <title>全仏オープン初戦の大坂なおみ、目を引く衣装で観客魅了　まるで「夜のエッフェル塔」</title>
+        <link>https://www.cnn.co.jp/showbiz/35248137.html?ref=rss</link>
+        <description>テニスの4大大会（グランドスラム）で4勝を誇る大坂なおみ選手は、全仏オープン1回戦の試合前、目を引くツーピースの衣装でローラン・ギャロスの観客を魅了した。試合はドイツのラウラ・ジーゲムント選手に対してストレート勝ちを収めた。
+
+コートに姿を現した大坂選手は、黒のコルセットとプリーツスカートを合わせたスタイルに身を包んでいた。スカートの裾は同選手が歩くと、コートの赤土をかすめるように動いた。
+
+スタイリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35248137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/28/627cd3faa78b312f770620e480f59a76/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXBvMDY3eGcwMDAzM2I2cnk4Njg0ejFv-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcG54NzFmMDAwMHkyN25wZm8xN2YzbWI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35248141.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T13:37:00+09:00</dc:date>
+        <title>超高額のW杯チケットめぐり、米司法当局が調査　FIFAに召喚状</title>
+        <link>https://www.cnn.co.jp/business/35248141.html?ref=rss</link>
+        <description>サッカーワールドカップ（W杯）北中米大会のチケットが天文学的な価格に上昇したことをめぐり、米ニューヨーク州とニュージャージー州の司法長官が調査に乗り出した。
+
+ニューヨーク州のジェームズ司法長官とニュージャージー州のダベンポート司法長官は27日、共同で、ニュージャージー州メットライフ・スタジアムで開催される試合の価格設定について大会主催者である国際サッカー連盟（FIFA）に文書の提出を求める召喚状を発出...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35248141.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/28/ef5d9a4185739d5ed16fc3cfb8def5f0/t/768/512/d/gettyimages-2274470596.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248140.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T13:28:00+09:00</dc:date>
+        <title>「ドイツ赤軍」の元メンバーとみられる女に禁錮13年、30年近く逃亡生活</title>
+        <link>https://www.cnn.co.jp/world/35248140.html?ref=rss</link>
+        <description>ドイツの裁判所はこのほど、左翼過激派組織「ドイツ赤軍（RAF）」の元メンバーとみられ、一時は欧州の最重要女指名手配犯の1人に数えられていたダニエラ・クレッテ被告（67）に禁錮13年を言い渡した。逃亡中の罪に刑を科した。
+
+ニーダーザクセン州フェルデンの地方裁判所はクレッテ被告に対し、1999年から2016年にかけて犯した強盗致傷や恐喝、武器関連の違反行為などの罪で有罪を言い渡した。一連の犯罪はドイツ赤軍の正式解...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248140.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/28/7487c8f69e3048a1f99f905eb32c9f6d/t/768/482/d/gettyimages-2277799929.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248117.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T12:09:00+09:00</dc:date>
+        <title>【分析】オマーンを「吹っ飛ばす」とトランプ氏、これで世界の13カ国に1カ国を脅迫・攻撃した計算に</title>
+        <link>https://www.cnn.co.jp/world/35248117.html?ref=rss</link>
+        <description>米大統領選の候補者だった当時、トランプ大統領は対立候補への印象付けに余念がなかった。彼らは好戦的な介入主義者であり、米国をあらゆる種類の対外戦争に引きずり込むと、喜々として語っていた。最悪の場合、米国は第3次世界大戦に巻き込まれる恐れもあると強調していた。
+
+ところが大統領就任後、トランプ氏が自ら攻撃をちらつかせた、もしくは実際に攻撃してきた国々のリストは、ここへ来て驚くべき分量となっている。
+
+27...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248117.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/28/6810938481613d4d6fc0b3d927ae9be3/t/768/512/d/gettyimages-2276923055.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248132.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T11:53:00+09:00</dc:date>
+        <title>手のひらサイズの青いタコ、新種と判明　ガラパゴス諸島で発見</title>
+        <link>https://www.cnn.co.jp/fringe/35248132.html?ref=rss</link>
+        <description>これまで未確認だった新種のタコがガラパゴス諸島で発見されたとして、米研究チームが学術誌に論文を発表した。
+
+大きな目をした青いタコは、手のひらに載るほどの大きさ。調査団が2015年に遠隔操作の潜水ロボットを使い、水深約1773メートルの海底で堆積（たいせき）物の間を動き回っているところを捕獲した。
+
+海上の調査船にいた乗組員は縫いぐるみのようだと形容し、別の乗組員は「ちっちゃい、かわいい子だね？」と声を上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248132.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/28/4e0af28ecd403754ea044e5ca35cb1f9/t/768/430/d/screen-shot-2026-05-06-at-2-16-09-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35248129.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T11:23:00+09:00</dc:date>
+        <title>水道水の提供拒否した五つ星ホテルを宿泊客が提訴　最高裁「ホテルの判断は合法」　イタリア</title>
+        <link>https://www.cnn.co.jp/travel/35248129.html?ref=rss</link>
+        <description>イタリアの五つ星ホテルがレストランで宿泊客に水道水の提供を繰り返し拒否した行為をめぐり、同国の最高裁判所がいかなる法律にも違反しないとの判断を下した。
+
+CNNが入手した判決文によると、イタリア北部バディーアにあるホテル・サッソンゲルを提訴したのは2019年末に同ホテルに滞在した女性。女性は滞在中、スタッフからミネラルウォーターしか提供しないと告げられたとしており、水へのアクセスは基本的権利だと主張して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35248129.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/28/4a6a1f41dfaad7fe7d71a3fe7484503e/t/768/512/d/gettyimages-2256751732.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248126.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T10:51:00+09:00</dc:date>
+        <title>トランプ氏、ホルムズ海峡は米国が「監視」　オマーンが干渉すれば「吹き飛ばす」</title>
+        <link>https://www.cnn.co.jp/world/35248126.html?ref=rss</link>
+        <description>トランプ米大統領は27日、ホルムズ海峡は「すべての人に開放される」との見通しを示し、米国が「監視」に当たる方針を示した。これらの条件はイランとの交渉の一部に当たるとも付け加えた。
+
+トランプ氏はまた、オマーンに対して干渉しないよう警告。「オマーンは他国と同じように振る舞うことになるだろう。さもなければ、吹き飛ばさざるを得なくなる」と発言した。
+
+イランとオマーンに海峡の管理を認める短期的な合意を受け...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248119.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T10:03:00+09:00</dc:date>
+        <title>水没した洞窟に取り残された5人、洞窟ダイバーが無事発見　残る2人の捜索続く　ラオス</title>
+        <link>https://www.cnn.co.jp/world/35248119.html?ref=rss</link>
+        <description>ラオス中部のサイソンブン県で、水没した洞窟の奥に閉じ込められていた住民の男性7人のうち5人が27日、1週間ぶりに無事発見された。
+
+5人は地下の洞窟の奥深い場所にある空洞で、洞窟ダイバーが発見した。洞窟は大雨による鉄砲水で入り口がふさがれ、20日に中に入った7人が閉じ込められていた。
+
+救助隊はこの日発見された5人について、「生存していて全員無事」と伝えた。
+
+同団体が公開した映像には、暗闇の中で岩の上に座っ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248119.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/28/bf78ea3808e79f5a1f0dd02dc2025b31/t/768/432/d/2026-05-27t051427z-1347473972-rc2hhlar6qht-rtrmadp-3-laos-cave-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248106.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T09:32:00+09:00</dc:date>
+        <title>米軍が新たなイラン攻撃、ホルムズ海峡付近の港湾都市で爆発音</title>
+        <link>https://www.cnn.co.jp/world/35248106.html?ref=rss</link>
+        <description>米軍が27日、イランで新たな攻撃を実施した。米当局者によると、米軍や商船を脅かす施設を標的とした。
+
+当局者によると、米軍はイランから発進した無人機も撃墜した。
+
+イラン革命防衛隊とつながりのあるファルス通信は28日未明、ホルムズ海峡に近いイランの港湾都市バンダルアッバス東部で3回の爆発音が聞こえたと伝えた。バンダルアッバスは海軍基地がある戦略的要衝。
+
+ファルス通信によると、爆発音は現地時間の午前1時半...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248105.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T09:12:00+09:00</dc:date>
+        <title>イラン、ホルムズ海峡を23隻が通過と発表　「敵対国」の船舶は通航禁止</title>
+        <link>https://www.cnn.co.jp/world/35248105.html?ref=rss</link>
+        <description>イランの国営メディアは27日、過去24時間に23隻の船舶が自国の「安全保護」の下、ホルムズ海峡を通過したと発表した。ただ、イランはこれに先立ち、「敵対国」に属する船舶がホルムズ海峡を航行できないよう阻止していると警告していた。
+
+メフル通信は27日、「過去24時間に、石油タンカー、コンテナ船、その他の商船を含む23隻が許可を取得したうえで、イスラム革命防衛隊（IRGC）海軍との調整と安全保護の下、ホルムズ海峡を...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248103.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-28T08:43:00+09:00</dc:date>
+        <title>トランプ氏「中間選挙は気にしない」　イランとの合意急がない構え</title>
+        <link>https://www.cnn.co.jp/usa/35248103.html?ref=rss</link>
+        <description>トランプ米大統領は27日、イランとの戦争を終結させるために米国に有利な合意を取り付けると誓った。「中間選挙のことは気にしていない」として、自身により長く持ちこたえようとするイラン政権側の試みは通用しないと警告した。
+
+トランプ氏は閣議で、「彼らは私より長く持ちこたえられると考えたのだろう。『彼には中間選挙があるから、我々が持ちこたえてやろう』というわけだ」と語り、戦争が国内政治に及ぼす影響への懸念...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248093.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-27T18:10:00+09:00</dc:date>
+        <title>【分析】停戦をあざ笑うイラン、切望するトランプ政権</title>
+        <link>https://www.cnn.co.jp/world/35248093.html?ref=rss</link>
+        <description>米国とイランの間で停戦中とされる時期に起きた最新の攻撃への反応は、多くを物語るものだった。
+
+イランは、米国によるミサイル発射施設と艦船への攻撃を重大な停戦「違反」と断じ、報復をちらつかせた。
+
+一方の米国はイランを侵略者とみなしながらも、停戦はなお「継続中」だと強調した。
+
+米中央軍の報道官は、イランの艦船がホルムズ海峡で「機雷を敷設しようとしていた」と非難した。それが本当だとすれば極めて挑発的な...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248093.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/27/2b13939c5723a5860f856105789be336/t/768/513/d/ap26145645922848.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248089.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-27T18:03:00+09:00</dc:date>
+        <title>宇宙空間で突然の発話障害、ISSから早期帰還の飛行士が明かす　今後のミッションに与える影響は</title>
+        <link>https://www.cnn.co.jp/fringe/35248089.html?ref=rss</link>
+        <description>米航空宇宙局（NASA）のベテラン宇宙飛行士マイク・フィンク氏は、4回目となる国際宇宙ステーション（ISS）任務の開始から5カ月後、定例の船外活動の前日に夕食を取っていた。すると突然、同氏は言葉を話せなくなっていることに気付いた。今年1月に起きたこの症状は20分ほどで収まった。その間痛みを感じることはなかったが、フィンク氏は動揺した。
+
+「完全に不意を突かれた。とにかく急な症状で驚いた」と、フィンク氏は最近...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248089.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/27/4723e8926f551e0d8bb104bcb1e21c8e/t/768/432/d/gettyimages-2226408833.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248087.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-27T17:16:00+09:00</dc:date>
+        <title>レイプで有罪の少年3人、実刑にならず　英国で量刑見直しを求める声</title>
+        <link>https://www.cnn.co.jp/world/35248087.html?ref=rss</link>
+        <description>英国で先週、少女2人に対するレイプで有罪になった10代の少年3人に実刑ではなく、地域社会内での更生を命じる判決があり、全国的な批判の声が上がっている。
+
+スターマー英首相はこの判決を「心が痛む」「がく然とした」と形容。司法長官は26日に事件を控訴審に差し戻し、再度審理が行われることになった。
+
+地域社会内での更生を命じた判決について問われたスターマー氏は、「この判決を見聞きした誰もが心を痛めると思う」と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248087.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/27/f25cf5bd84c23b5834ed109b8b1830d3/t/768/512/d/2y72036.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248068.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-27T12:32:00+09:00</dc:date>
+        <title>中国外相、「交渉前進のたびに一筋の希望の光」と発言　米イラン協議巡り</title>
+        <link>https://www.cnn.co.jp/world/35248068.html?ref=rss</link>
+        <description>中国の王毅（ワンイー）外相は26日、記者団に対し、中国政府は米イラン間の膠着（こうちゃく）状況を打開すべく取り組んでいると述べた。
+
+米ニューヨークで国連安全保障理事会のハイレベル会合を主宰した後の発言。「長年の懸案を解決するのは一晩で終わる仕事ではないが、交渉が前進するたび、平和への一筋の希望の光が見えてくる」としている。
+
+王氏によれば、中国政府は米国やイラン、交渉仲介を主導するパキスタンといっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248068.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/27/44a6f058d9df7b3ef48955f3bd5eff5a/t/768/512/d/c-2026-05-26t181748z-1714880221-rc26hlalvyko-rtrmadp-3-un-china__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248067.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-27T12:30:00+09:00</dc:date>
+        <title>トランプ米政権、全政府職員にNDA義務付けを提案　メディアへの情報共有阻止狙い</title>
+        <link>https://www.cnn.co.jp/usa/35248067.html?ref=rss</link>
+        <description>トランプ米政権は、政府全体を対象とした秘密保持契約（NDA）を準備している。連邦職員がメディア機関に「政府の機密情報」を共有することを阻止する狙い。
+
+人事管理局（OPM）が26日付で官報に掲載した通知案によると、このNDAは現職および新規の連邦職員が「公務を通じて作成または取得した非公開、機密、または専有情報を保護」することへの同意を追跡することを目的としている。この提案は27日に公表される予定。
+
+各省庁は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248067.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/27/3ee73d3a7d7180689c7e3e7854a6dae6/t/768/512/d/gettyimages-2237580698.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248044.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-27T11:40:00+09:00</dc:date>
+        <title>高齢と暗殺の脅威、トランプ氏が不死身ではないと気付かせる二つの視点</title>
+        <link>https://www.cnn.co.jp/usa/35248044.html?ref=rss</link>
+        <description>米国のトランプ大統領は26日、健康診断を終えて病院を後にした。ホワイトハウスへ戻る途中には、何もかも「完璧に」検査したと宣言した。
+
+しかし、この発言によってトランプ氏の健康状態にまつわる疑問の声が収まる公算は小さい。本人も自分が決して不死身の存在ではないことを暗黙のうちに認め始めている（多くの場合は警備上の文脈のことではあるが）。また残りの人生の限られた時間について時折思いを巡らせ、天国に行ける...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248044.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/27/7289920ef12557f9a82cd24e1438d5a8/t/768/512/d/gettyimages-2278317646.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248066.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-27T11:17:00+09:00</dc:date>
+        <title>イランのインターネット接続が部分復旧、国民の不信感ぬぐえず</title>
+        <link>https://www.cnn.co.jp/world/35248066.html?ref=rss</link>
+        <description>イランで何カ月も途絶えていたインターネット接続が部分的に復活したと、監視団体が26日に伝えた。インターネットのほぼ全面的な遮断はイラン政府が全土に科した措置で、部分復旧した後も国民の不信感は払拭（ふっしょく）されていない。
+
+「確かにつながった。まだVPN（仮想プライベートネットワーク）を使わなければならないが。それでも手放しでは喜べない。インターネットは完全に開かれてはいない。ただ完全な遮断ではなく...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248066.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/27/5e31c7114e986a81cd8a3f8b67997bd3/t/768/512/d/ap26119338365738a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248058.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-27T10:37:00+09:00</dc:date>
+        <title>水没した洞窟に閉じ込められた7人、ダイバーらが懸命の救出活動　ラオス</title>
+        <link>https://www.cnn.co.jp/world/35248058.html?ref=rss</link>
+        <description>ラオス中部のサイソンブン県で、水没した洞窟の奥に住民7人が閉じ込められたまま1週間近く身動きできなくなっている。25日にはタイのベテラン洞窟ダイバーらが加わり、狭い洞窟を抜けて7人の救出を目指す作業が始まった。
+
+  
+    
+      
+    
+    
+住民が閉じ込められている洞窟の様子Facebook / Chakkit Taengtang
+  
+
+AP通信がラオスとタイの救助隊の話として伝えたところによると、地元住民7人は金を採掘しようと20日に洞...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248058.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/27/85e927d9e679b7b2c0dc435dbd204b5c/t/768/512/d/ap26145415695518.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248057.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-27T10:34:00+09:00</dc:date>
+        <title>「常軌を逸している」　早くも欧州を襲う熱波、次々と5月の最高気温更新　ロンドンで35度</title>
+        <link>https://www.cnn.co.jp/fringe/35248057.html?ref=rss</link>
+        <description> 欧州各地で次々と最高気温の記録が更新されている。一部の地域では、熱波の影響で心配になるほど早い時期に極端な高温が発生し、うだるような暑さになっている。
+
+欧州大陸は現在、強力な「ヒートドーム」に見舞われている。ヒートドームとは停滞する高気圧のことで、鍋のふたのような役割を果たして熱気を閉じ込め、押し下げる。ヒートドームは数日から数週間続くこともあり、人為的な気候変動によって発生確率や強度が増して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248057.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/27/5f02b36b390a90aaf5414d7f601c0a9b/t/768/511/d/gettyimages-2277599982.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248041.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-27T08:39:00+09:00</dc:date>
+        <title>イラン、米国の停戦違反への報復警告　MQ9無人機撃墜とF35戦闘機に対する攻撃主張　</title>
+        <link>https://www.cnn.co.jp/world/35248041.html?ref=rss</link>
+        <description>イランのイスラム革命防衛隊は26日の声明で、MQ9「リーパー」無人機を撃墜し、イラン領空に侵入したF35戦闘機と別の無人機1機に対しても攻撃を行ったと主張した。
+
+これらの出来事がいつ発生したのかは明らかにされていない。米軍は25日夜、ホルムズ海峡周辺のイランのミサイル発射施設や艦船を狙った「自衛のための攻撃」を実施していた。
+
+革命防衛隊は声明の中で、停戦違反があれば必ず報復すると警告した。
+
+イラン国営メデ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35248033.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-26T18:35:00+09:00</dc:date>
+        <title>【分析】W杯決勝でハーフタイムショー、一部の純粋主義者たちには耐えられない理由</title>
+        <link>https://www.cnn.co.jp/showbiz/35248033.html?ref=rss</link>
+        <description>いよいよ来るところまで来た。我々は今や鏡の国の奥深くまで迷い込み、マッドハッター（いかれ帽子屋）と夕食を共にしている。チェシャ猫と戦術を語り合い、ハートの女王と大会の予想を立てている。サッカー・ワールドカップ（W杯）決勝の最中に開催されるハーフタイムショー。それはスポーツ本来の姿からあまりにかけ離れた、まさに狂気の沙汰。ほとんど不道徳なものにさえ感じられる。
+
+しかし、これこそフットボールの（そう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35248033.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/26/17e7bed7b0c544d7458817bf37244440/t/768/432/d/gettyimages-2276298460.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35248032.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-05-26T17:32:00+09:00</dc:date>
+        <title>1日中快適に使えるキーボードはどれ？　物書きを生業にするテックライターが5製品を厳選　</title>
+        <link>https://www.cnn.co.jp/tech/35248032.html?ref=rss</link>
+        <description>キーボードは仕事用デスクで特に重要なアイテムの部類に入るため、筆者はいつも最良のものを見つけようとしている。確かにすべてのノートPC（と多くのデスクトップPC）には専用キーボードが付属しているが、それらはあくまでも最低限で、快適さに欠けると感じることが多い。そこで筆者はミニマリスト向けから機能豊富なメカニカルキーボードまで、さまざまなニーズに合ったキーボードを見つけるためにあらゆる製品をテストして...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35248032.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/26/c4e9c0073f8262d1ac4290f550b39fe2/t/768/432/d/lead-best-keyboards-cnnu-4.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
