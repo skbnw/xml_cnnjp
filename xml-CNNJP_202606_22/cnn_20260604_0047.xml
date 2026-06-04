@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-06-04T09:29:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248423.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248421.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248420.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248389.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248406.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35248402.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248387.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35248383.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35248384.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248366.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35248370.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248368.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248367.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248362.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248348.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248347.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248333.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35248329.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35248324.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35248318.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35248321.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248310.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248314.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35248305.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248309.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248302.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248304.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248301.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248298.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248291.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35248423.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-04T09:29:00+09:00</dc:date>
+        <title>イランによるクウェート空港攻撃、攻撃の瞬間を捉えた映像</title>
+        <link>https://www.cnn.co.jp/world/35248423.html?ref=rss</link>
+        <description>イランが3日未明に実施したクウェート国際空港への攻撃で、クウェートの民間航空局は、攻撃の瞬間を捉えた防犯カメラの映像を公開した。
+
+
+
+اللحظات الأولى للاعتداء الإيراني الغاشم من قبل المسيرات الذي تعرض له مبنى الركاب T1 في مطار الكويت الدولي بتاريخ 3 يونيو 2026 وتسبب بخسائر بالأرواح وإصابات بشرية بليغة وأضرار مادية جسيمةThe first moments following the brutal Iranian drone attack on Terminal 1 (T1) a...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248421.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-04T08:52:00+09:00</dc:date>
+        <title>米下院、トランプ氏の対イラン戦争権限を制限する決議案可決　共和党から造反</title>
+        <link>https://www.cnn.co.jp/usa/35248421.html?ref=rss</link>
+        <description>米下院は3日、トランプ大統領の対イラン戦争における権限を制限する決議案を可決した。トランプ氏と、同氏による戦争への対応に対する重大な反発となる。
+
+民主党は下院と上院の双方で、トランプ氏の戦争権限を制限するための採決を繰り返し主導してきたが、この取り組みはここ数週間で共和党からの支持を徐々に集めていた。
+
+採決結果は賛成215票、反対208票で、共和党議員4人が党の意向に反して賛成票を投じた。
+
+戦争権限決...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248421.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/04/ebd54846dc1518207f4e58898e118d5a/t/768/511/d/9571860.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248420.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-04T08:18:00+09:00</dc:date>
+        <title>イランの攻撃でクウェート空港被害、63人負傷　イラン外相「自衛のための攻撃」</title>
+        <link>https://www.cnn.co.jp/world/35248420.html?ref=rss</link>
+        <description>クウェート保健省は3日、イランによる同国への攻撃により国際空港が被害を受け、63人が負傷したと発表した。今回の攻撃は、戦闘開始以降にイランの攻撃を受けた湾岸諸国の中で、最も多くの負傷者数を出した事案の一つとなった。
+
+同省の報道官によると、負傷者のうち7人は大規模な緊急手術を必要とした。
+
+在クウェート・インド大使館は、攻撃でインド国籍の1人が死亡したと発表。大使館は声明で、「遺族と連絡を取っている」と...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248389.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T16:23:00+09:00</dc:date>
+        <title>トランプ氏、物議醸す住宅政策担当高官を国家情報長官代行に指名</title>
+        <link>https://www.cnn.co.jp/usa/35248389.html?ref=rss</link>
+        <description>トランプ米大統領は2日、住宅政策に携わる高位当局者のビル・パルト氏を国家情報長官（DNI）代行に指名した。パルト氏は、トランプ氏による報復キャンペーンをあおるうえで主導的な役割を果たしてきた人物。
+
+裕福な実業家から連邦住宅金融局長へと転じたパルト氏のDNI代行指名は異例に映る。同氏には国家情報分野での実績を伴う経歴が欠けているからだ。
+
+しかしパルト氏は、連邦準備制度理事会（FRB）やトランプ氏が政敵と見...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248389.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/03/cc25001927b1144ecb3edecfa0c455d7/t/768/504/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXB3bnFma2EwMDF4MjhucGdqbWQ4d3Bz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcHducWZrYjAwMXkyOG5wZ2szczU0NTA_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248406.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T16:19:00+09:00</dc:date>
+        <title>ウクライナ、ロシアのサンクトペテルブルクなど攻撃　プーチン氏肝いりの経済フォーラム開幕に合わせ</title>
+        <link>https://www.cnn.co.jp/world/35248406.html?ref=rss</link>
+        <description>ロシアはウクライナによるドローン（無人機）攻撃があり、レニングラード州上空で2日夜に撃墜した約60機を含め、数百機を撃ち落としたと明らかにした。ロシアの主要経済会合「サンクトペテルブルク国際経済フォーラ​ム」が開幕する中での攻撃となった。
+
+サンクトペテルブルクのベグロフ市長は、ウクライナ軍による夜間のドローン攻撃で3地区が狙われ、複数人が負傷したと発表。インフラ施設に被害が出たと明らかにした。
+
+ロシ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248406.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/03/d2f7172ec4f6e1ae30314a63522f557d/t/768/511/d/ap26154236654404.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35248402.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T16:01:00+09:00</dc:date>
+        <title>デュア・リパが結婚、初披露のウェディング姿はビアンカ・ジャガーを彷彿</title>
+        <link>https://www.cnn.co.jp/style/fashion/35248402.html?ref=rss</link>
+        <description>5月31日、ノースロンドンではアーセナルFCがプレミアリーグ制覇を祝うパレードが行われ、発煙筒で街が赤色に染まるなか、英国を代表するポップスターのデュア・リパと交際相手である英俳優カラム・ターナーはウェストロンドンへと向かった。リパの花嫁らしい白い装いをよごさずにすむ閑静なこの地にある市役所「オールド・メリルボーン・タウンホール」で2人はひそかに結婚した。報道によれば、2人は今週後半、イタリアのシチリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35248402.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/03/ae4303aa56c440f32909540fef9f6dca/t/768/512/d/0175081321-fullsize.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248387.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T12:44:00+09:00</dc:date>
+        <title>米国とイランが攻撃の応酬、停戦後最大規模の夜間攻撃　交渉は危うい状況に</title>
+        <link>https://www.cnn.co.jp/world/35248387.html?ref=rss</link>
+        <description>米国とイランは4月の停戦開始以降、最大規模となる夜間の攻撃の応酬を繰り広げた。連日のやり取りや各方面での不満の高まりを受け、交渉は危うい局面に差し掛かっている。
+
+夜間の応酬は、イランのカーグ島に向かうボツワナ船籍の石油タンカーを米軍が「ヘルファイア」ミサイルで攻撃したのをきっかけに始まったとみられる。中央軍によると、この船は米軍によるイランの港湾封鎖に従わなかった。
+
+これに対し、イランはリベリア...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35248383.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T12:33:00+09:00</dc:date>
+        <title>米CBS、看板報道番組のベテラン特派員を解雇　人事の刷新巡り経営陣と衝突</title>
+        <link>https://www.cnn.co.jp/business/35248383.html?ref=rss</link>
+        <description>米CBSニュースは2日、看板報道番組「60ミニッツ」のベテラン特派員、スコット・ペリー氏を解雇した。その数時間前には番組の新指導部に対する同氏の批判を巡り、経営陣との間で緊迫した会議が繰り広げられていた。
+
+新たに60ミニッツのエグゼクティブ・プロデューサーに就任したニック・ビルトン氏は2日夜、ペリー氏宛ての文書の中で、同氏と共に前進する道を探りたいと考えていたと説明。しかし番組の将来に対するペリー氏の反...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35248383.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/03/354b0dadae73609eaa0706907a1d97d9/t/768/524/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXB4YmN0NmMwMDA0M2I2cjFoc2c4bmhr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcHhhZm53NjAwMjAyOHA2aGVzbjY3NDc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35248384.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T11:33:00+09:00</dc:date>
+        <title>医療専門AI開発へマイクロソフトとメイヨーがタッグ、正確な情報提供目指す</title>
+        <link>https://www.cnn.co.jp/tech/35248384.html?ref=rss</link>
+        <description>かつて「グーグル先生」に尋ねていた医療や健康に関する質問を、AI（人工知能）に尋ねる人が増えている。
+
+しかし大半のAIチャットボットの背後にある大規模言語モデルの学習には、ネット上を流れる膨大な量の情報を含め、幅広いコンテンツが使われている。つまり、AIのアドバイスは不適切なことも、場合によっては危険なこともある。
+
+そこで米マイクロソフトと米医療大手のメイヨー・クリニックが手を組んで、医療情報専門のA...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35248384.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/03/5ee484061097b43f45209d640d910756/t/768/512/d/gettyimages-2272950878.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248366.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T11:21:00+09:00</dc:date>
+        <title>米民主党支持州7州、トランプ政権を提訴　洋上風力発電所建設しない対価の支払い巡り</title>
+        <link>https://www.cnn.co.jp/usa/35248366.html?ref=rss</link>
+        <description>米民主党が多数派を占めるブルーステート（青い州）7州は2日、合同でトランプ政権を提訴した。同政権がフランス企業に対して税金から約10億ドル（約1600億円）を支払い、洋上風力発電所の建設計画を放棄するよう求めたことを受けての措置となる。
+
+ニューヨーク州のレティシア・ジェームズ司法長官が主導するこの訴訟では、今年に入り仏エネルギー大手トタルエナジーズとトランプ政権の間で締結されたこの合意が、各州から必要...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248366.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/03/bda1353fe4b2117bdb03acb5aa0d08a9/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXB3dW1obnAwMDAzM2I2cm5tN3FkZjIw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcHd0ZGdoaTAwMHkyN3A2MmNtNGI5ZzE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35248370.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T10:57:00+09:00</dc:date>
+        <title>トナカイぞり体験の代わりに370万円相当の金塊探し　フィンランドが観光客に夏の楽しみを提案</title>
+        <link>https://www.cnn.co.jp/travel/35248370.html?ref=rss</link>
+        <description>サンタクロースの故郷として知られるフィンランドのラップランドはこのほど、トナカイぞり体験に代わり、夏の期間を通じた金塊探しを観光客に提案している。
+
+参加者は、フィンランド北部のリゾート地レビィの登山道や名所を探索し、2万ユーロ（約370万円）相当の金塊を探し求めることになる。同地はスキー場とオーロラで有名だ。
+
+レビィの観光当局が2日に発表した声明によると、「ミッドナイト・サン・ハント」は今月18日に始...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35248370.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/03/dc2f1a01f753686245f92d470f7ab6dd/t/345/432/d/gettyimages-1482865907.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248368.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T10:42:00+09:00</dc:date>
+        <title>ロシアがウクライナに大規模攻撃、首都とドニプロで23人死亡</title>
+        <link>https://www.cnn.co.jp/world/35248368.html?ref=rss</link>
+        <description>ウクライナの首都キーウと中部の都市ドニプロが2日未明、ロシアの激しい攻撃を受けた。ウクライナ当局によると、この攻撃で少なくとも23人が死亡、100人以上が負傷した。
+
+
+  
+    
+                
+                    
+                    
+                    
+                    
+                    
+            
+
+    
+ウクライナの首都キーウで建物が損壊したのを受け、緊急対応要員が出動する様子＝2日（Telegr...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248368.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/03/eaefcc7bb349916d28676a98c7c49818/t/768/512/d/2026-06-01t233635z-1274956870-rc2blla7iuu8-rtrmadp-3-ukraine-crisis-attack-kyiv-20260602101236204__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248367.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T10:16:00+09:00</dc:date>
+        <title>ルビオ米国務長官、イラン最高指導者は生存　「関与を深めつつある」</title>
+        <link>https://www.cnn.co.jp/usa/35248367.html?ref=rss</link>
+        <description>ルビオ米国務長官は2日、イランの新たな最高指導者モジタバ・ハメネイ師は生存しており、「関与を深めつつある」との認識を示した。
+
+ルビオ氏は上院外交委員会での証言でモジタバ師に触れ、「一定のレベルで関与を深めつつあることを示す兆候が存在すると考えている」と述べた。
+
+モジタバ師は戦争開始当初に父親や複数の軍幹部が殺害された攻撃で重傷を負って以来、公の場に姿を見せておらず、健康状態やイラン指導部内での役...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248362.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T09:48:00+09:00</dc:date>
+        <title>非常口と操縦室のドア開けようとした男、非番乗務員の首絞める　米旅客機が緊急着陸</title>
+        <link>https://www.cnn.co.jp/usa/35248362.html?ref=rss</link>
+        <description>米フロンティア航空の旅客機内で、乗客の男が飛行中に暴れて非番の客室乗務員の首を絞める事件があり、同機は行き先を変更してフロリダ州の空港に緊急着陸した。
+
+フロリダ州マイアミデード郡保安官事務所などの調べによると、事件はプエルトリコのサンフアンから米シカゴのオヘア国際空港に向かっていたフロンティア航空3345便の機内で5月31日に発生。出発から約45分後、乗客のフアン・ガブリエル・レイエス容疑者（51）が飛行...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248362.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/03/d86127bd83400a03cf5befc2bb70b47f/t/768/511/d/gettyimages-2277873906.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248348.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T09:19:00+09:00</dc:date>
+        <title>米軍、イランの島に「自衛のための」攻撃　中東各地へのミサイル攻撃など受け</title>
+        <link>https://www.cnn.co.jp/usa/35248348.html?ref=rss</link>
+        <description>米中央軍は2日、米軍がイランのゲシュム島に対して「自衛のための」攻撃を実施したと明らかにした。
+
+中央軍によれば、「イランによる中東各地への攻撃の試み」に対抗したものだという。
+
+中央軍はX（旧ツイッター）で「イランは近隣諸国に向けて複数の弾道ミサイルを発射したものの、いずれも意図した目標に命中しなかった。クウェートへ発射されたイランのミサイル2発は射程不足で落下、もしくは飛行中に分解し、バーレーンに...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248347.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-03T08:50:00+09:00</dc:date>
+        <title>ヒズボラとイスラエル軍の交戦続く、レバノンとイスラエルの代表団は協議</title>
+        <link>https://www.cnn.co.jp/world/35248347.html?ref=rss</link>
+        <description>レバノンとイスラエルの代表団が2日の新たな交渉に向けて準備を進める中、イランを後ろ盾とするレバノンの武装組織「ヒズボラ」とイスラエル軍は夜間にレバノン南部で交戦を続けた。
+
+イスラエル軍はヒズボラに対抗する「行動を取らざるを得ない」と表明しており、イスラエル軍のアドライ報道官はレバノン南部ナバティエの住民に対し、ザフラニ川の北へ避難するよう命じた。
+
+レバノン国営通信（NNA）によると、イスラエルはレ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248347.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/03/536a23049548e9b6fc5dff02e4077c1c/t/768/512/d/ap26153341201709__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248333.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T17:45:00+09:00</dc:date>
+        <title>失踪中のロスアラモス研究所職員、森林で遺体発見　米ニューメキシコ州</title>
+        <link>https://www.cnn.co.jp/usa/35248333.html?ref=rss</link>
+        <description>米ニューメキシコ州北部の国有林でハイカーが先週発見した遺体について、当局は約1年前に消息を絶ったロスアラモス国立研究所の職員、メリッサ・カシアスさんであると確認した。
+
+遺体はカシアスさんが失踪してから約11カ月後の5月28日に発見された。場所はカーソン国有林のマクガフィー・リッジ地域で、自宅のあるタオスから24キロ近く離れていた。ニューメキシコ州警察は報道向け発表で、遺体のそばから拳銃も見つかったと明...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248333.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/02/20f24ecdad5e6c1c9d207d48beb43f19/t/331/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXB2NGltcXEwMDAzM2I2cm96MHE1aGVv-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcHY0N2JnYTAwNXUyZHFuZGlhZDF3Y2E_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35248329.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T15:55:00+09:00</dc:date>
+        <title>アマゾンの「新Fire TV Stick HD」を1週間使ってみた　感動した点と残念な点</title>
+        <link>https://www.cnn.co.jp/tech/35248329.html?ref=rss</link>
+        <description>アマゾンが新型「Fire TV Stick HD」で、長らく待ち望まれていたストリーミングスティックの刷新を図った。同社はこのスティックのデザインを刷新しただけでなく、ホーム画面をアップグレードし、いくつかの目を引く新機能も導入している。残念な点としては、低価格帯の競合製品の中で最安値というわけではないことと、一部の新機能がまだ完成途上であることが挙げられる。2026年版Fire TV Stick HDを1週間試した結果を紹介しよ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35248329.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/02/c808fb427434626b80a208220a0692f3/t/768/432/d/amazon-fire-tv-stick-hd-2026-cnnu-review-lead.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35248324.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T15:34:00+09:00</dc:date>
+        <title>行き先は「地獄」？　物議の「666」番バスが夏季長距離路線で復活　ポーランド</title>
+        <link>https://www.cnn.co.jp/travel/35248324.html?ref=rss</link>
+        <description>「地獄」を意味する英語「ヘル（hell）」を想起させる「ヘル（Hel）」はポーランドに実在する地名だ。北部の沿岸に位置するリゾート地だが、海水浴客たちを現地に運ぶバスの路線番号は「666」。過去に物議を醸した不吉な番号が、3年ぶりに復活する見通しとなった。
+
+666という数字は聖書において「獣の数字」とみなされ、悪魔の象徴として広く認識されている。
+
+従来使用されていた666の番号が宗教団体からの苦情を受けて廃止さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35248324.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/02/92dd3e56abdb793e3f65ab33189d2a79/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXB1emtjcXcwMDAxMzU2cm43dHJmZDJm-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcHV6azhmYjAwM3kyZHFqNHkxcmJ0dnc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35248318.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T14:06:00+09:00</dc:date>
+        <title>コンサート中にピアニストが体調不良、観客の大学生が代演で窮地救う　豪</title>
+        <link>https://www.cnn.co.jp/showbiz/35248318.html?ref=rss</link>
+        <description>オーストラリアで開かれた映画「ラ・ラ・ランド」に関連したコンサートの最中、体調不良に陥ったピアニストに代わって客席にいた21歳の大学生がピアノを演奏し、公演の窮地を救う出来事があった。
+
+思わぬ事態の中、友人から奏者の代役に推薦されたのはスターリング・ナサさん。5月30日、シドニーのダーリング・ハーバー・シアターで開かれた当該のコンサートでは本来のピアニストが演奏できない状態となっていた。これを受け、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35248318.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/02/8b40dc00bf83db589745ec12b05b5061/t/768/512/d/screenshot-2026-06-01-at-14-05-49-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35248321.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T12:36:00+09:00</dc:date>
+        <title>「チャンスはほんの数秒間」、ケイト・モスをとらえた写真が歴史的な1枚に</title>
+        <link>https://www.cnn.co.jp/style/fashion/35248321.html?ref=rss</link>
+        <description>英国の写真家グレッグ・ブレナンさん（53）は、非常階段の下で毛皮のコートをまとい、たばこを手にしたケイト・モスさんを見つけた時、またとない場面に遭遇したことを確信した。2007年のことだ。しかし、この夜撮った写真のうち1枚（しかも自身が一番気に入った写真とは違う1枚）が、モスさんの「パーティー時代」を表すシンボルとなり、自身の40年近いキャリアで最も有名な作品になろうとは、思いもしなかった。
+
+2000年代半...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35248321.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/02/ae119bd6459ea369f7e0a205a6554f9b/t/352/432/d/kate-moss-colour-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248310.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T11:43:00+09:00</dc:date>
+        <title>親パレスチナの米国人、英政府が入国許可取り消し　言論の自由の「危険な前例」</title>
+        <link>https://www.cnn.co.jp/world/35248310.html?ref=rss</link>
+        <description>SNSでニュース番組などを配信している親パレスチナの米国人ハサン・パイカー氏（34）とおじのチェンク・ユガー氏が、英国の入国許可を取り消された。この措置をめぐって言論の自由を擁護する立場からは批判が噴出している。
+
+2人は今週ロンドンで開かれる大規模イベント「サウス・バイ・サウスウェスト（SXSW）」や、名門オックスフォード大学の討論会で講演する予定だった。
+
+英内務省はCNNの取材に対し、両氏の電子渡航認証（...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248310.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/02/e66eaf0247b9a9f51b8fb14ae75337dd/t/768/512/d/gettyimages-2266766569.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248314.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T11:15:00+09:00</dc:date>
+        <title>ロシアがウクライナ首都に激しい攻撃　集合住宅に着弾、住民ががれきの下敷きか</title>
+        <link>https://www.cnn.co.jp/world/35248314.html?ref=rss</link>
+        <description>ウクライナの首都キーウが2日未明、ロシアのドローン（無人機）やミサイルによる激しい攻撃を受けた。当局者によると、この攻撃で集合住宅の建物の一部が倒壊し、住民らががれきの下敷きになっている可能性がある。
+
+キーウのビタリ・クリチコ市長は、キーウ市内の集合住宅1棟が、ロシア軍の「ダブルタップ攻撃」によって一部倒壊したと述べた。
+
+キーウの軍事行政責任者ティムール・トカチェンコ氏は、「人々ががれきの下敷き...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248314.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/02/43cb57fd225edc5eb1ec61eeb1db6a55/t/768/512/d/2026-06-01t233635z-1274956870-rc2blla7iuu8-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35248305.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T10:59:00+09:00</dc:date>
+        <title>米AI企業のアンソロピックが上場申請、1兆ドル規模の可能性</title>
+        <link>https://www.cnn.co.jp/tech/35248305.html?ref=rss</link>
+        <description>米人工知能（AI）企業のアンソロピックは1日、米証券取引委員会（SEC）に新規株式公開（IPO）を申請したと発表した。オープンAIとの競争が激化する中、時価総額は1兆ドル（約160兆円）規模に達する可能性もある。
+
+アンソロピックが売りに出す株式数や価格などはまだ未定。年内にはアンソロピックに加えてオープンAIとスペースXも上場する見通しで、AI関連の3大IPOとして期待を集める。
+
+スペースXは先月下旬、上場の計画を発表...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35248305.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/02/f28e821c631689feeae32fcf3ef56bd7/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXB2ZWlqeG0wMDAwMzU2cnA1M2p6OHc0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcG1xOHlwczAwMHkyN3BhMWN4ZzNocGY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248309.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T10:42:00+09:00</dc:date>
+        <title>フランス、ロシア産原油運ぶ制裁対象タンカーを拿捕　ロシアは「ほぼ海賊行為」と反発</title>
+        <link>https://www.cnn.co.jp/world/35248309.html?ref=rss</link>
+        <description>フランス海軍は先月31日、ロシアの港から出航した制裁対象の石油タンカーを拿捕（だほ）した。拿捕したタンカーはここ数カ月で3隻目となる。
+
+フランスのマクロン大統領は1日、X（旧ツイッター）で石油タンカー「タゴール」を大西洋の「公海上で英国を含む複数のパートナーの支援のもと海洋法を厳格に順守して」拿捕したと発表した。
+
+マダガスカル船籍として登録された同タンカーはロシアのウンバ港を出航し、船舶追跡サイトで...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248309.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/02/0aabc5ff882bdb12276cbaf6f197fb08/t/768/432/d/03328050-56805065-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248302.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T09:44:00+09:00</dc:date>
+        <title>イランとの合意、「今後1週間で」成立も　トランプ氏が発言</title>
+        <link>https://www.cnn.co.jp/usa/35248302.html?ref=rss</link>
+        <description>トランプ米大統領は1日、ABCニュースに対し、ホルムズ海峡の再開とイランとの停戦延長に関する合意は「今後1週間で」成立可能だと考えていると述べた。
+
+外交交渉の可能性は依然として残っていると示唆しつつも、トランプ氏は「承認するにはまだいくつかの条件を満たす必要がある」と指摘した。
+
+イスラエルによるレバノン南部での行動にも言及し、「今日はちょっとした問題があったが、迅速に解決した。それは周知の通りだろう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248302.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/02/3fac3ded172f2ec8de17c198e7e0120e/t/768/512/d/gettyimages-2278487848.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248304.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T09:36:00+09:00</dc:date>
+        <title>トランプ政権、18億ドルの「反武器化」基金を断念か　共和党指導部に意向示唆</title>
+        <link>https://www.cnn.co.jp/usa/35248304.html?ref=rss</link>
+        <description>トランプ政権は1日、共和党の議会指導部に対し、18億ドル（約2870億円）規模の「反武器化」基金創設を断念する計画であることを示唆した。だが、その計画がどれほど確固たるものか、あるいは恒久的なものかは不明だと、2人の情報筋が明らかにした。
+
+トランプ大統領は、この物議を醸している基金への対応について公には確約しておらず、協議に詳しい3人目の情報筋は、政権は基金の追求に向けた取り組みを単に一時停止しているだ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248304.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/02/3e6a02fa83ee070018aa102d94bdecd5/t/768/512/d/gettyimages-2275229138-20260511051158259.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248301.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T09:05:00+09:00</dc:date>
+        <title>トランプ氏、電話会談でイスラエル首相に怒りぶつける　レバノンへの攻撃計画めぐり</title>
+        <link>https://www.cnn.co.jp/world/35248301.html?ref=rss</link>
+        <description>トランプ米大統領は1日、イスラエルのネタニヤフ首相と電話会談を行った。会談の内容を知る2人の関係者によると、トランプ氏がネタニヤフ氏にレバノンでの軍事作戦計画を縮小するよう迫る中で、両氏のやりとりは非常に激しいものとなった。
+
+トランプ氏は時折、相手をののしる表現を使い、計画されていた攻勢への不満を伝えた。攻撃計画は、イランとの暫定合意を仲介しようとするトランプ氏の取り組みを損なう恐れがあった。
+
+...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248298.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-02T08:29:00+09:00</dc:date>
+        <title>イラン、米との協議停止　イスラエルのレバノン攻撃に抗議</title>
+        <link>https://www.cnn.co.jp/world/35248298.html?ref=rss</link>
+        <description>イランの精鋭部隊「イスラム革命防衛隊」に近いタスニム通信は1日、イランはレバノンにおけるイスラエルの行動に抗議し、米国との協議を停止すると報じた。
+
+タスニム通信は「イスラエル政権によるレバノン攻撃が継続していること、またレバノンが停戦の前提条件の一つであったものの、レバノンを含めすべての戦線で停戦が破られていることを踏まえ、イランの交渉団は『仲介者を介した協議および文書のやり取り』を停止する」と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248298.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/02/3c06d963f81cbdd54f6b150176f170b0/t/768/512/d/gettyimages-2278529842.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248291.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-01T18:07:00+09:00</dc:date>
+        <title>火山噴火が排出した汚染物質を自ら浄化していた　温室効果ガス削減の新たな武器になる可能性</title>
+        <link>https://www.cnn.co.jp/fringe/35248291.html?ref=rss</link>
+        <description>2022年1月に南太平洋で海底火山が噴火し、地表から約64キロ上空まで灰や蒸気、ガスが噴き上げられた。この噴火は現代における火山噴火の中でも最も激しい部類に入る。今回発表された研究によれば、こうした噴火が強力な温室効果ガスと闘える新たな武器の存在を明らかにした可能性がある。
+
+トンガのフンガトンガ・フンガハアパイ火山は広島の核爆発の数百倍の威力で噴火し、津波と、地球を2周する衝撃波を引き起こした。学術誌...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248291.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/01/57ffc0fb7e9f69d9da21e5c38c2bd243/t/768/512/d/ap23220785508323.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
