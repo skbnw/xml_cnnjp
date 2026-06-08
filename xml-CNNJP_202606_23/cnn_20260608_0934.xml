@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-06-08T17:01:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248595.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248589.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248582.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248575.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248571.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248566.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248560.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248558.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248557.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248556.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248555.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248554.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248553.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248552.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248551.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248549.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/design/35248550.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248547.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248548.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35248545.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248546.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248544.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248541.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248542.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248540.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248539.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248533.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248409.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248528.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248521.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248595.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-08T17:01:00+09:00</dc:date>
+        <title>女性は男性よりも謝りがち　その理由は想像以上に複雑だった</title>
+        <link>https://www.cnn.co.jp/fringe/35248595.html?ref=rss</link>
+        <description>米ジョージア州に住む営業職のガブリエラ・クライアンさん（23）は、職場で同僚に頼まれて買ったコーヒーの種類が間違っていたからと謝ったことがある。実際はコーヒーショップのミスだった。
+
+「本当は自分のせいではない時も、よく『ごめんなさい』と言っている気がする」と、クライアンさんは言う。
+
+くだらない質問だったらごめんなさい。お手をわずらわせてすみません。ごめんなさい、意味が分かりません。申し訳ないけれ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248595.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/08/e1c69ee7d6bc63fdcf0f1778bfb07615/t/768/432/d/women-apologize2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248589.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-08T14:38:00+09:00</dc:date>
+        <title>女性首長が歴史を変える――現職初の産休めぐる論議、旧態依然の制度浮き彫りに</title>
+        <link>https://www.cnn.co.jp/world/35248589.html?ref=rss</link>
+        <description>史上最年少で選出された女性市長が、再び歴史を変えようとしている。京都府八幡市の川田翔子市長（35）が産休を取得すると発表して全国的な論議を巻き起こし、日本の男性中心の働き方と政治制度の中に根強く残る大きな溝を浮き彫りにした。
+
+2023年に選出された川田市長は9月中旬に出産予定で、前後8週間で計16週間の産休を取得予定。現職首長の産休は日本で初めてとみられる。
+
+公務員には産休が認められているが、選挙で選ば...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248589.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/08/c6237630b84c7cf0409500dc40c8dc76/t/768/511/d/gettyimages-2277922124.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248582.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-08T13:33:00+09:00</dc:date>
+        <title>偽の搭乗券で忍び込んだ男を機内のトイレで発見　航空機はゲートに引き返す事態に　米</title>
+        <link>https://www.cnn.co.jp/usa/35248582.html?ref=rss</link>
+        <description>米テキサス州当局によると、ユナイテッド航空機内で先月、トイレに隠れている男が見つかった。警察は、男が偽の搭乗券とみられるものを使い、米運輸保安庁（TSA）と搭乗口係員の目をすり抜けたとしている。今年に入り確認された密航の事例は今回が初めてではない。
+
+裁判所記録によると、アブドゥルラフマン・オリヨミ被告（25）は先週、重要インフラ施設の運用を妨害した重罪で起訴され、5日にテキサス州ハリス郡の拘置所に勾...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248582.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/08/bed3538d96e4ad5726be003b1d839eed/t/768/512/d/gettyimages-2245384454a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248575.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-08T11:31:00+09:00</dc:date>
+        <title>フェスティバル会場で銃撃、12人が重軽傷　容疑者の捜索続く　米オハイオ州</title>
+        <link>https://www.cnn.co.jp/usa/35248575.html?ref=rss</link>
+        <description>米オハイオ州トレドで開かれたフェスティバル会場付近で銃撃事件があり、少なくとも12人が撃たれて負傷した。うち2人は重体となっており、警察は容疑者の捜索を続けている。
+
+トレド警察は6日夜の記者会見で、2人の人物が撃ち合ったとみていることを明らかにした。いずれも拘束には至っていない。
+
+事件が起きたのは、2日間の日程で開かれる毎年恒例のフェスティバル会場付近。パレードや音楽などを楽しんでいた参加者は、突然...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248575.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/08/608614f7228ce3c7f8af82f728c11ce4/t/768/512/d/ap26158072210431.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248571.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-08T10:54:00+09:00</dc:date>
+        <title>トランプ氏、ネタニヤフ氏に報復攻撃控えるよう電話で説得</title>
+        <link>https://www.cnn.co.jp/usa/35248571.html?ref=rss</link>
+        <description>トランプ米大統領は7日の電話会談で、イスラエルのネタニヤフ首相に対しイランへの報復攻撃の実施を控えるよう伝えた。米当局者が明らかにした。トランプ氏は一段と不安定さを増すイランとの外交努力を維持したい考えだ。
+
+当局者によると、トランプ氏はネタニヤフ氏に対し、すでに高まっている地域の緊張をさらに激化させないよう警告し、イランとの合意は近いとの自身の考えを強調したという。
+
+この電話会談の前にイスラエル...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248566.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-08T10:24:00+09:00</dc:date>
+        <title>フィリピン南部ミンダナオ島沖でM7.8の地震</title>
+        <link>https://www.cnn.co.jp/world/35248566.html?ref=rss</link>
+        <description>フィリピン南部ミンダナオ島沖で8日、マグニチュード（M）7.8の地震が発生した。米地質調査所（USGS）が発表した。フィリピンと隣国インドネシアでは津波警報が発令された。
+
+USGSによると、地震は現地時間午前7時37分ごろ発生。震源の深さは約35キロだという。
+
+フィリピンの地震当局は津波警報を発令し、沿岸部に住む人々に避難を呼びかけた。米津波警報システムによると、フィリピンの一部地域では津波は潮位より1～3メート...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248566.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/08/0dbecefc14d67e65f57fb658909d3e86/t/768/432/d/716610679-1477067844461650-2180908379971326744-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248560.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-08T09:44:00+09:00</dc:date>
+        <title>トランプ氏、ネタニヤフ氏を牽制　イランとの合意「受け入れるほかない」</title>
+        <link>https://www.cnn.co.jp/world/35248560.html?ref=rss</link>
+        <description>米国のトランプ大統領は、米国がイランと結ぶいかなる合意もイスラエルのネタニヤフ首相は受け入れざるを得ないと述べた。ネタニヤフ氏に「決定権はない」からだという。
+
+トランプ氏は7日、英紙フィナンシャル・タイムズに対し、「決めるのは私だ。すべて私が決める。彼（ネタニヤフ氏）に決定権はない」とし、「彼に選択肢はない」と述べた。
+
+トランプ氏は、イランが7日夜に行ったイスラエルへのミサイル攻撃について、「合...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248558.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-08T09:10:00+09:00</dc:date>
+        <title>イスラエル軍、レバノンのヒズボラ攻撃「強化」を宣言　イランのミサイル攻撃受け</title>
+        <link>https://www.cnn.co.jp/world/35248558.html?ref=rss</link>
+        <description>イスラエル軍のデフリン報道官は7日の録画演説で、イスラエルはイランによるミサイル発射への対応として、レバノンのイスラム教シーア派組織ヒズボラへの攻撃を「強化」すると述べた。
+
+デフリン氏は「イスラエル北部の地域社会に対するヒズボラの絶え間ない攻撃を受け、われわれはダヒエを攻撃した」と述べた。首都ベイルート南郊のダヒエは現在、イスラエルの激しい攻撃下にある。「イスラエル国防軍（IDF）はレバノン全域で...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248557.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-08T08:45:00+09:00</dc:date>
+        <title>イラン、イスラエル北部の空軍基地を攻撃と主張　弾道ミサイル発射の映像を公開</title>
+        <link>https://www.cnn.co.jp/world/35248557.html?ref=rss</link>
+        <description>イランのイスラム革命防衛隊（IRGC）は、7日にイスラエル北部のラマト・ダビド空軍基地を弾道ミサイルで攻撃したと発表した。
+
+  
+    
+      
+    
+    
+イスラエルに向けた弾道ミサイルが発射された瞬間とされる映像/IRNA
+  
+
+IRGCは、ミサイルが発射された瞬間だとする映像を国営メディアで公開した。
+
+イスラエルに向けて最初に少なくとも3回の集中砲火が行われた後、イスラエル軍は「これまでのところ」イランの弾道ミサイ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248556.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-07T17:19:00+09:00</dc:date>
+        <title>世界最高齢を記録した117歳の女性、遺伝子が明かす長寿の秘密とは</title>
+        <link>https://www.cnn.co.jp/fringe/35248556.html?ref=rss</link>
+        <description>110歳を超えるスーパーセンテナリアン（超長寿者）がインタビューを受ける際、長寿の秘訣（ひけつ）について尋ねられるのは避けられない。
+
+しかし、もし彼らの長寿の秘訣を科学的に研究できるとしたらどうか？　彼らの遺伝情報は老化について何を教えてくれるのか？　なぜ彼らは多くの人が亡くなるような病気を回避できるのか？　もし何らかの秘密が明らかになれば、他の人々も同じように長生きできるようになるかもしれない。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248556.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/09/27/2b383d1af76468fcb8fd43e6e5bd0a1c/t/768/576/d/2008.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248555.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-07T14:46:00+09:00</dc:date>
+        <title>イスラエル兵が車に発砲、生後7カ月の乳児死亡　ヨルダン川西岸</title>
+        <link>https://www.cnn.co.jp/world/35248555.html?ref=rss</link>
+        <description>パレスチナ保健省によると、占領下のヨルダン川西岸で5日、イスラエル兵が車に向けて発砲し、パレスチナ人の生後7カ月の男児が死亡した。
+
+保健省によると、サム・ファハド・アブ・ハイカル君が両親と一緒に車に乗っていたところ、イスラエル兵がヘブロン近郊でこの車に向けて発砲。ハイカル君は死亡、両親は負傷した。
+
+祖母はロイター通信に対し、銃弾1発が車に命中してハイカル君の命を奪ったと振り返った。「信じがたい出来...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248555.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/07/c6e1aca2bffd2564e3943277bb0d5f76/t/768/511/d/ap26157276837217.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248554.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-07T13:26:00+09:00</dc:date>
+        <title>湾岸諸国の復興支援にイランの資産活用、米国が認める方針　情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35248554.html?ref=rss</link>
+        <description>米国は今後のイランの攻撃で被害を受ける湾岸諸国の復興支援に、イランの資産を活用することを認める方針だ。ベッセント財務長官の考えに詳しい情報筋が明らかにした。
+
+情報筋によると、財務省は過去に生じた被害の修復支援にイランの資産を充てることも検討するという。この情報筋はロイター通信が6日に報じた内容について確認した。
+
+ベッセント氏のチームは湾岸諸国の状況を評価して、紛争開始以降に生じた被害の修復にかか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248554.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/07/cc178231b136e402024f3e7b4e46eaee/t/768/512/d/2026-06-03t181124z-121173447-rc2hmlav7fsp-rtrmadp-3-iran-crisis-kuwait-airport-aftermath-20260607002358609__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248553.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-07T12:12:00+09:00</dc:date>
+        <title>米軍、イランのドローン2機を撃墜　ホルムズ海峡の船舶を脅かす</title>
+        <link>https://www.cnn.co.jp/usa/35248553.html?ref=rss</link>
+        <description>米軍は海上交通の要衝ホルムズ海峡で船舶の脅威になっていたとして、イランのドローン（無人機）2機を新たに撃墜した。米中央軍が6日、明らかにした。
+
+中央軍はX（旧ツイッター）への投稿で「中東に展開する米軍は今日、ホルムズ海峡の国際海上交通を脅かしていたイランの片道攻撃ドローン2機を撃墜した」と述べた。
+
+米軍は「引き続きイランの侵略に対する防衛」の態勢を維持するとも述べた。
+
+今回のドローン撃墜に先立ち、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248553.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/07/2f5ceffcc31811bb44604009fc447d12/t/768/512/d/hke2d5lxaaam7ga__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248552.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-07T11:33:00+09:00</dc:date>
+        <title>京都で行方不明になった米国人学生、遺体で発見　捜索の末</title>
+        <link>https://www.cnn.co.jp/world/35248552.html?ref=rss</link>
+        <description>京都での家族旅行中に行方不明になった米オーバーン大学の学生が、捜索救助活動に参加していた日本のボランティアによって遺体で発見された。遺族が明らかにした。森林に覆われた山で続いた懸命の捜索は、悲劇的な結末を迎えた。
+
+遺族がSNSへの投稿で明らかにしたところによると、ジェームズ・「ウェストン」・ヒギンボサムさん（20）は6日、京都郊外で遺体で発見された。地元警察はCNNに対し、死因は調査中だと明らかにした。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248552.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/07/1138b7fbbc1c568f75637f0e71fe5252/t/768/432/d/9f36d525-9841-4f45-a725-164.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248551.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-07T09:21:00+09:00</dc:date>
+        <title>ウクライナ、サンクトペテルブルク近郊の海軍基地へ攻撃　プーチン氏肝いりの国際フォーラム最終日</title>
+        <link>https://www.cnn.co.jp/world/35248551.html?ref=rss</link>
+        <description>ウクライナは6日未明、ロシアの製油所や軍事施設に対して大規模なドローン（無人機）攻撃を仕掛けた。クレムリン（ロシア大統領府）肝いりの国際フォーラムが最終日を迎えていたサンクトペテルブルク一帯でも、複数の施設が攻撃対象となった。
+
+ウクライナ軍によると、攻撃目標には海軍の施設や石油の貯蔵施設、ターミナルが含まれる。
+
+ウクライナのドローンが大挙してレニングラード州を狙ったのは、ここ数日で2度目。ロシア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248551.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/07/f625c7ec41467696a5ddd1a03ea8e251/t/768/511/d/still-22691721-333-66-still-20260606134332642.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248549.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-06T19:01:00+09:00</dc:date>
+        <title>京都で行方不明の米大学生、日本の市民が捜索支援に加わる</title>
+        <link>https://www.cnn.co.jp/usa/35248549.html?ref=rss</link>
+        <description>東京に住むある男性は、仕事を1週間休んで面識のない米国人に支援の手を差し伸べようとしている。別のボランティアも、全ての予定を投げ出して移動手段の提供や通訳を引き受ける。いずれも行方不明の息子を必死に探す、米国人の両親への思いを行動に移した形だ。
+
+京都で消息を絶った20歳の学生、ジェームズ・「ウェストン」・ヒギンボサムさんの捜索は1週間にわたって続いているが、発見につながる手がかりはまだ見つかってい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248549.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/05/7ec194a18d6afcd6868f4cdc7289c41b/t/305/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXB6N2JmeHowMDE3M2I2cnYyOTlxdndu-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcHoyYW82bzAwMHkyN3FnMWthNzRzNHI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/design/35248550.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-06T18:46:00+09:00</dc:date>
+        <title>レゴ、1万2060ピースの「サグラダ・ファミリア」発表　これまでで最大のセットに</title>
+        <link>https://www.cnn.co.jp/style/design/35248550.html?ref=rss</link>
+        <description>144年の歳月を経て完成に近付いているスペイン・バルセロナの「サグラダ・ファミリア」。デンマークの玩具大手レゴはファンに対し、ブロックを一つ一つ積み上げてこの象徴的な教会を再現するよう呼び掛けている――ただし、はるかに小さなスケールで。
+
+米ニューヨーク市の景観や名所からエッフェル塔、ローマのトレビの泉まで、世界の史跡名勝をミニチュアで再現したコレクションに追加する形で、レゴはサグラダ・ファミリアのセ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/design/35248550.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/06/4c7b08e679b812ab08318968cb9137e5/t/768/432/d/lego-icons-la-sagrada-familia-barcelona-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248547.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-06T16:37:00+09:00</dc:date>
+        <title>プーチン氏、ゼレンスキー氏の直接会談呼びかけを拒否　「意味がない」と一蹴</title>
+        <link>https://www.cnn.co.jp/world/35248547.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は、ウクライナのゼレンスキー大統領による首脳会談の呼びかけを退け、「意味がない」との見解を示した。
+
+ゼレンスキー氏は4日に公開書簡を発表。プーチン氏に対し、両国間での4年に及ぶ戦争を終結させるよう求めた。この書簡はプーチン氏がサンクトペテルブルク国際経済フォーラムで演説する準備を進めていたタイミングで公開された。
+
+しかしプーチン氏はこの提案を冷淡に受け流し、書簡の内容を「無...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248547.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/06/7eb652c80c0a689c5b84ce00da635f82/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXEwNHc0YWMwMDAwMmU2aWlyeDF2NmIz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTA0cDEzMjAwMHkyOHFtZzNkNzJqdXM_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248548.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-06T16:16:00+09:00</dc:date>
+        <title>美術館の来館者、展示作品の椅子に座る　監視カメラに破損の瞬間　25年イタリア</title>
+        <link>https://www.cnn.co.jp/world/35248548.html?ref=rss</link>
+        <description>オランダの画家ビンセント・ファン・ゴッホの最も有名な絵画の一つから着想を得たクリスタルで覆われた椅子が、深刻な損傷を被った――。イタリアの美術館で昨年、そんな出来事があった。美術館の発表によると、観光客1人が写真撮影のために座った際に破損したという。
+
+伊北部ベローナのパラッツォ・マッフェイが公開した映像には、同美術館の「ゴッホ」の椅子と共に男女が交代でポーズを取る様子が映っている。
+
+ここで男性が椅...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248548.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/06/17/45112ae315f0b14a34a5866a51bcab17/t/768/432/d/italy-chair-00-00-13-16-still001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35248545.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-06T15:05:00+09:00</dc:date>
+        <title>エベレストで起きた奇跡、消息途絶えた山岳ガイドが1週間後に生還</title>
+        <link>https://www.cnn.co.jp/travel/35248545.html?ref=rss</link>
+        <description>エベレストを下山中に死亡したとみられていた山岳ガイドが、ベースキャンプへ自力で戻ってくる様子が確認された。1週間近くの間、食料も酸素ボンベもないまま山中で過ごしていたとみられる。
+
+52歳のヒラリー・ダワ・シェルパさんは6日間にわたり、無線での連絡も本人の姿も確認できない状態が続いていた。最後に目撃されたのは5月29日、標高7060メートルに位置するキャンプ3での休憩中だった。
+
+シェルパさんは、先に下山して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35248545.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/06/1d3c837930b0a9b29194d45534392640/t/768/516/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXEwa2Vyem4wMDA0M2I2cm4yNzRhcXp3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTBrZHNsejAwMHkyN252MjEyM2V2dm8_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248546.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-06T13:56:00+09:00</dc:date>
+        <title>イランがホルムズ海峡と湾岸地域へ攻撃、米軍がミサイルなど迎撃　米中央軍</title>
+        <link>https://www.cnn.co.jp/world/35248546.html?ref=rss</link>
+        <description>米中央軍は6日、ホルムズ海峡や湾岸地域に向けてイランが発射した弾道ミサイルとドローン（無人機）を迎撃したと明らかにした。
+
+
+  
+    
+       
+
+    
+    
+     米軍は5日、ゴルクとゲシュム島にあるイラン沿岸防衛拠点を攻撃した（US Central Command）  
+
+
+
+中央軍は声明で「ホルムズ海峡に向けて発射されたイランの片道攻撃ドローン4機を中央軍が撃墜した数時間後、イランはクウェートとバーレーンに向けて弾道ミサイル7...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248544.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-06T12:43:00+09:00</dc:date>
+        <title>国際宇宙ステーションで空気漏れ、NASAが飛行士に退避指示　ロシア側の対応受け</title>
+        <link>https://www.cnn.co.jp/fringe/35248544.html?ref=rss</link>
+        <description>国際宇宙ステーション（ISS）のロシア側区画で空気漏れが発生し、宇宙飛行士5人は5日、ロシア側が対応に当たる間、ISSにドッキングしている宇宙船に退避することを余儀なくされた。
+
+米航空宇宙局（NASA）の5日夜の声明によると、ロシアの宇宙機関「ロスコスモス」は「漏洩（ろうえい）の可能性が指摘される箇所へのアクセスを改善し、さらなる点検を行う」ため、ブラケット（固定具）を切断する計画だった。
+
+この方法は「当該...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248544.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/06/1182d4f8f4e5aebe633f204aa5d17cd0/t/768/511/d/iss065e212164-large.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248541.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-06T12:30:00+09:00</dc:date>
+        <title>コロンビア大統領選、親トランプ派の候補が代表ユニホームの着用を禁じられた理由</title>
+        <link>https://www.cnn.co.jp/world/35248541.html?ref=rss</link>
+        <description>南米の選挙管理当局は今後投票日を設定する際、サッカーの試合日程を考慮に入れた方がいいかもしれない。
+
+今回のコロンビアの事例からは、そうした教訓が得られそうだ。2018年以来となるワールドカップ（W杯）出場への熱狂が、今月21日に予定されている大統領選の決選投票を前に、政界にも波及したためだ。
+
+その結果、3日にはコロンビアの首都ボゴタの地方裁判所が、有力候補と目される右派のアベラルド・デラエスプリエジャ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248541.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/06/3a3eb3cb80c75f853992273734526ec6/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXExZDRkaHowMDAwM2I2cmRlZjMwajBi-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTFjOWtpZzAwMnEyZHFrYXd3MmFxYzc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248542.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-06T10:43:00+09:00</dc:date>
+        <title>米軍、イランの沿岸レーダー施設を攻撃　ドローン4機を撃墜後</title>
+        <link>https://www.cnn.co.jp/usa/35248542.html?ref=rss</link>
+        <description>米軍は5日、イランの片道攻撃ドローン（無人機）4機を撃墜後、イラン国内にある「沿岸監視レーダー施設」を攻撃した。米中央軍が明らかにした。
+
+中央軍はX（旧ツイッター）への投稿で「これらの攻撃ドローンは地域の海上交通に差し迫った脅威を突き付けていた。米軍はその後、さらなる攻撃を防ぐため、ゴルクとゲシュム島にあるイランの沿岸監視レーダー拠点を攻撃した」と説明した。
+
+中央軍は「正当性のないイランの侵略に対...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248540.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-06T10:06:00+09:00</dc:date>
+        <title>イラン最高指導者の顧問、凍結資産巡る交渉の膠着指摘　戦争拡大を警告　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/world/35248540.html?ref=rss</link>
+        <description>イラン最高指導者の軍事顧問、モフセン・レザイ氏は5日、CNNに対し、米国との和平合意の成否はトランプ政権がイランの凍結資産240億ドル（3兆8400億円）の解除に応じるかどうかにかかっているとの認識を示した。戦闘が再開した場合、米国は「暗い回廊に入る」ことになると警告した。
+
+レザイ氏は首都テヘランでCNNの単独インタビューに応じ、「交渉は膠着（こうちゃく）状態にある。（米国のトランプ）大統領がこの膠着を打開し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248540.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/06/63beeb7fab44db167e0cadaa11a302e3/t/768/432/d/rezaei.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248539.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-06T09:51:00+09:00</dc:date>
+        <title>ノルウェーの皇太子妃、肺移植の待機リスト入り</title>
+        <link>https://www.cnn.co.jp/world/35248539.html?ref=rss</link>
+        <description>ノルウェー王室は、メッテ・マリット皇太子妃が「生命を脅かす慢性肺疾患」のため、肺移植の待機リストに登録されたと発表した。
+
+5日に王室が発表した声明によると、52歳の皇太子妃は今後王室の公務を遂行することができなくなる見通し。ノルウェー王位継承者ホーコン皇太子と結婚している皇太子妃は、2018年に予後不良の慢性進行性肺疾患である肺線維症と診断された。
+
+オスロ大学病院の肺専門医であるアレ・ホルム医師は声明...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248539.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/06/9cf73b982f4df96c36a5ab840c8bfc1c/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXEwbzc5ZzUwMDA1MzU2cjc0aWo4c2p2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTBvNmkzdjAwMHkyN3BjYXVoYjd4anc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248533.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-05T18:53:00+09:00</dc:date>
+        <title>レバノン南部にイスラエルの攻撃、4人死亡　きしむ停戦</title>
+        <link>https://www.cnn.co.jp/world/35248533.html?ref=rss</link>
+        <description>レバノン南部に5日、イスラエルの攻撃があり、レバノンの国営通信社NNAによると、4人が死亡した。
+
+イスラエル、レバノン両政府が3日に米国の仲介で停戦合意を交わしたにもかかわらず、ナバティエとビントジュベイルの町に対して攻撃が実施された。
+
+合意条件の概要を記した米国務省の文書によると、停戦は「（イスラム教シーア派組織）ヒズボラによる攻撃の完全な停止」と、レバノンのリタニ川以南からの「ヒズボラの要員全員...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248533.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/05/d17bc11c32450a2d203debc2cb025962/t/768/512/d/2026-06-05t062224z-17255832-rc2fnla5cpkm-rtrmadp-3-iran-crisis-lebanon-israel__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248409.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-05T17:49:00+09:00</dc:date>
+        <title>業界最長、勤続66年の客室乗務員が引退へ</title>
+        <link>https://www.cnn.co.jp/usa/35248409.html?ref=rss</link>
+        <description>ジョアン・プリンスクランドールさんにとって、客室乗務員でいることはいつも魅惑的だった。
+
+その仕事は新たな経験への扉を開き、世界中を飛び回り、新しいことを学ぶ機会を与えてくれた。プリンスクランドールさんは、ハイヒールとファッションに彩られたフライトの日々を覚えている。そうしたものの多くは今日にはないものだ。
+
+66年以上を経た今も、プリンスクランドールさんが飛び続けているのは、その魅惑の記憶があるか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248409.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/03/c0991aa56096defaffad5a60cd59e26f/t/768/432/d/screenshot-2026-05-29-at-9-29-58-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248528.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-05T17:31:00+09:00</dc:date>
+        <title>高齢の脳、リチウムでアルツハイマー病防げる可能性　25年研究</title>
+        <link>https://www.cnn.co.jp/fringe/35248528.html?ref=rss</link>
+        <description>ほぼ10年がかりの大規模な調査の中で、アルツハイマー病と脳の老化に関する多くの謎を解く可能性のある一つの鍵を発見した――ハーバード大学医科大学院の研究者らが昨年、そんな見解を明らかにした。その鍵とはごく平凡な金属、リチウムだ。
+
+リチウムと言えば、医療の世界では気分安定剤として非常によく知られる。双極性障害やうつ病の患者がこれを服用する。米食品医薬品局（FDA）がリチウムを承認したのは1970年だが、医師ら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248528.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2025/08/08/9967dd2bf0988975edd60f6016ee16ca/t/768/551/d/gettyimages-2161269644.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248521.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-05T16:16:00+09:00</dc:date>
+        <title>イラン出身のアーティスト、マルジャン・サトラピさんが56歳で死去　「ペルセポリス」の著者　</title>
+        <link>https://www.cnn.co.jp/world/35248521.html?ref=rss</link>
+        <description>漫画「ペルセポリス」でイラン国民の苦境を世界に訴えたイラン系フランス人のアーティストで、活動家でもあったマルジャン・サトラピさんが死去した。享年56。
+
+フランス大統領府は4日、死去を発表した声明でサトラピさんの作品を称賛。「世界中の人を魅了した」とたたえた。
+
+「サトラピさんの死去により、フランス文化をけん引した人物、自由への飽くなき情熱を持った芸術家が失われた。その作品は普遍的なメッセージを伝え、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248521.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/05/60646d27d68dd10fa8c4ab45c4ec5505/t/768/512/d/2024-03-12t130143z-1065862297-rc2ak6arz0t7-rtrmadp-3-olympics-2024-tapestry.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
