@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-06-12T16:01:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35248880.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248869.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248868.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248867.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35248865.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248861.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248859.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248852.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248850.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35248839.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248836.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248830.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248827.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/architecture/35248790.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248787.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35248779.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248782.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248769.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248763.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248766.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248750.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248748.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248749.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248747.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248746.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35248731.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248737.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248718.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248711.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35248705.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/tech/35248880.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-12T16:01:00+09:00</dc:date>
+        <title>持ち運びできるBluetooth対応スピーカー4選　予算やサウンド重視型からバランス型まで</title>
+        <link>https://www.cnn.co.jp/tech/35248880.html?ref=rss</link>
+        <description>最高のポータブルスピーカーは、あらゆる場面を盛り上げてくれる。次のホームパーティーをにぎやかにしたいときも、屋上やビーチで質の高いサウンドを楽しみたいときも、はたまたシャワー中の熱唱に欠かせないバックバンドとしてもポータブルスピーカーは活躍してくれる。しかし、ポケットサイズの小型機から円筒型の製品まで選択肢は無数だ。どれをとっかかりにすればいいのか――。大丈夫、そこは我々の出番だ。
+
+CNN Underscor...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35248880.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/12/b4bd86f0df63cdee3e7dbabc47b040b3/t/768/432/d/best-tested-badge-24.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248869.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-12T14:46:00+09:00</dc:date>
+        <title>地上最大のサソリ、野球のバットと同サイズ　化石の再調査から姿を復元</title>
+        <link>https://www.cnn.co.jp/fringe/35248869.html?ref=rss</link>
+        <description>野球のバットと同じ大きさの巨大なサソリを想像してみよう。そいつが苔（こけ）に覆われた岩の上や大木の周囲を慌ただしく這（は）い回り、近くの小川へと滑り込んでいく姿を。
+
+ある科学者のチームの説明によれば、そのようなサソリが今からざっと4億1500万年前、現在の英国に当たる地域に生息していた。これまでに知られている中で最大のサソリだという。
+
+この興味深い新たな知見を得るべく、専門家たちはロンドンの自然史博...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248869.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/12/442b9d88e2a66b66bebd64eeaf5acef6/t/768/512/d/life-reconstruction-of-praearcturus-gigas-franz-anthony-high-res.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248868.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-12T11:50:00+09:00</dc:date>
+        <title>俳優グウィネス・パルトローがイスラエルの高級不動産を宣伝、SNSで非難殺到</title>
+        <link>https://www.cnn.co.jp/world/35248868.html?ref=rss</link>
+        <description>アカデミー賞受賞俳優のグウィネス・パルトロー（53）が、イスラエルの高級不動産を宣伝する広告に出演したことをめぐって非難の的になっている。
+
+パルトローが出演したのはテルアビブ北郊のシーサイドタウン、ヘルツリヤにある51階建ての高級物件「51パーク」の宣伝。撮影は米ニューヨークで行われ、CMは今週公開された。
+
+CMの中でパルトローは、「世界の象徴的な建築物が公園に近いのには理由があります。51パーク」と宣伝...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248868.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/12/7eaaf9ad26603607c8704e5c7b423670/t/768/531/d/ap26079659846298.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248867.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-12T11:26:00+09:00</dc:date>
+        <title>イラン国営メディアに核爆発模した映像、局は「編集ミス」と釈明</title>
+        <link>https://www.cnn.co.jp/world/35248867.html?ref=rss</link>
+        <description>イラン国営放送（IRIB）は12日未明、ニュース番組の中で、核爆発を模したように見える映像を流した。爆発はとある都市で起きている。IRIBはその後、映像が流れたのは内部のミスだったと釈明した。
+
+3Dグラフィックで作られた当該の映像は、特定されていない都市の上空に閃光（せんこう）が走った後、キノコ雲が立ち上る内容。この映像はイラン国内で大きな波紋を呼び、IRIBがハッキングされたのではないかという臆測がネット上...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248867.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/12/9b99ea61e8ecc610a031e172c94e05a0/t/768/415/d/whatsapp-image-2026-06-12-at-6-58-23-am.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35248865.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-12T10:56:00+09:00</dc:date>
+        <title>人気ビーチのパラソル禁止に批判殺到、使用OKは10歳までと高齢者のみ　イタリア</title>
+        <link>https://www.cnn.co.jp/travel/35248865.html?ref=rss</link>
+        <description>海水浴客らでにぎわうイタリア・サルデーニャ島の人気ビーチで、非常時の安全確保を理由に、10～65歳の人がパラソルや傘を使うことが禁止された。
+
+対象となるのはサルデーニャ島南部にあるプンタモレンティスビーチ。10歳までの子どもがいる家族連れと、65歳以上の高齢者に限り、大型のパラソル1本のみ使用を認める。それ以外はパラソルや日除けタープ、テントなどの使用を禁止する。
+
+同ビーチではさらに、6月5日から10月下旬...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35248865.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/12/c3aaa1407363b70802b90ff442ece8c6/t/768/512/d/gettyimages-1401714142.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248861.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-12T10:42:00+09:00</dc:date>
+        <title>イラン、米国とのいかなる合意も「最終決定していない」　トランプ氏の主張と矛盾</title>
+        <link>https://www.cnn.co.jp/world/35248861.html?ref=rss</link>
+        <description>イラン外務省のバガイ報道官は11日、国営イラン通信（IRNA）に対し、米国との合意が最終決定したとの報道は「単なる臆測」だと述べ、イランはいかなる合意についてもまだ最終決定を下していないと語った。
+
+バガイ氏は、カタールとパキスタンが「仲介役として積極的に動いている」と述べたが、「米国の行動が外交プロセスに影響を与えている」としている。
+
+IRNAによると、バガイ氏は「最初から交渉の状況はわれわれには明確で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248861.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/12/afd24db795b6eb2b31f478a224bcd97b/t/768/512/d/ap26152502681032.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248859.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-12T10:29:00+09:00</dc:date>
+        <title>米首都の公園に刻まれた巨大な「8647」の数字、「大統領暗殺を示唆」と政権が非難</title>
+        <link>https://www.cnn.co.jp/usa/35248859.html?ref=rss</link>
+        <description>米首都ワシントン中心部の国立公園ナショナルモールで11日、芝生の上に巨大な「8647」の数字が刻まれているのが見つかった。8647は反トランプを表す数字とされ、政権は大統領に対する脅迫と解釈している。ワシントンではトランプ大統領の誕生日にあたる14日にUFCの格闘技試合が予定されている。
+
+  
+
+
+                
+                    
+                    
+                    
+                    
+                ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248859.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/12/bbc2ba096921981b878c26e0abf4070e/t/768/546/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXE5c29mZXowMDBoM2I2cmNrbG1qMTV1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTlyZDZsZzAwMHkyN3A4MGE5OTR1a2o_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248852.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-12T09:42:00+09:00</dc:date>
+        <title>英国防相ら2人辞任、軍事費めぐり対立　スターマー首相に新たな打撃</title>
+        <link>https://www.cnn.co.jp/world/35248852.html?ref=rss</link>
+        <description>英国のヒーリー国防相は11日、スターマー首相との予算をめぐる対立を理由に辞任した。スターマー氏にとっては新たな打撃となった。ヒーリー氏は、政府が英国軍に「必要な資源」を提供する意思がないと述べた。
+
+その後まもなく、カーンズ国防担当閣外相もX（旧ツイッター）に投稿した書簡で辞任を発表した。カーンズ氏は、政府が軍に対し、任務を遂行するために必要なものを提供すること、任務完了時に軍を支える「忠誠心を示す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248852.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/12/b7b92ce441b0cc7f58a9286e469d9608/t/768/512/d/2026-04-09t104619z-1337844109-rc2mlkax5rvf-rtrmadp-3-ukraine-crisis-britain-healey.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248850.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-12T09:36:00+09:00</dc:date>
+        <title>「イランとの戦争、今日終わらせた」、トランプ氏が主張</title>
+        <link>https://www.cnn.co.jp/world/35248850.html?ref=rss</link>
+        <description>トランプ米大統領は11日、米国がイランとの「戦争を終結させた」と主張した。これに先立ちトランプ氏は、両国が戦闘停止に向けた「非常に強力な覚書」に合意したと発言していた。
+
+「あなた方が耳にしたかどうかは分からないが、我々は今日、イランとの戦争を終結させた」。トランプ氏はジョージア州知事選に出馬しているバート・ジョーンズ州副知事を支持するテレビ演説の中でそう述べた。
+
+「彼ら（イラン）は核兵器を保有し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248850.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/12/4cfd30cdb64682fcab0ca544c866a4ac/t/768/513/d/ap26162754586044.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35248839.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-12T09:02:00+09:00</dc:date>
+        <title>北中米W杯が開幕、共催国メキシコが南アフリカを破る</title>
+        <link>https://www.cnn.co.jp/showbiz/35248839.html?ref=rss</link>
+        <description>米国、カナダ、メキシコが共催するサッカー・ワールドカップ（W杯）が11日、開幕した。開幕戦はメキシコが南アフリカに2―0で勝利。ゴールよりも多くのレッドカードが出される試合展開となった。
+
+メキシコは開始10分にフリアン・キニョネスがゴール。後半にはラウル・ヒメネスが追加点を挙げた。
+
+メキシコの戦いぶりは組織的で堅実。ホームのエスタディオ・アステカには大勢のサポーターが詰めかけ、チームに熱い声援を送った...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35248839.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/12/6a1e9daffe87e88125f080544679581b/t/768/504/d/Screenshot2026-06-11174731.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248836.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-12T08:16:00+09:00</dc:date>
+        <title>トランプ氏、イラン合意文書に近く欧州で署名か　米軍の攻撃中止も表明</title>
+        <link>https://www.cnn.co.jp/world/35248836.html?ref=rss</link>
+        <description>トランプ米大統領は11日、イランとの戦争を終結させる可能性のある「偉大な合意」を主張し、数日以内に最終決定に至るとの見通しを示した。
+
+トランプ氏は、合意文書の署名式が間もなく行われるとし、開催地は欧州になる可能性があると述べた。署名式にはバンス副大統領が出席する見込みだという。
+
+「文書はほぼ最終段階の形にある。どうなるか見てみよう」と述べ、「かなり早くまとまるはずだ」と続けた。
+
+また、イスラエル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248836.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/12/bbcaa5b35be35d0555620ee96e0f4053/t/768/512/d/2026-06-11t193149z-113917332-rc2vrlaxbhrs-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248830.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T19:16:00+09:00</dc:date>
+        <title>カルテルから露天商まで、W杯効果で潤う業種と取り残される人々　メキシコ</title>
+        <link>https://www.cnn.co.jp/world/35248830.html?ref=rss</link>
+        <description>緑、白、赤のメキシコ国旗が、首都メキシコ市の各所を彩っている。11日に開催されるサッカー・ワールドカップ（W杯）開幕戦に向けて、市内では準備が進んでいる。
+
+鮮やかな緑色のメキシコ代表ユニホームを販売する店舗から、試合を宣伝するデジタル広告看板の業者まで、誰もがこの大会を商機と捉えているようだ。
+
+ある試算によれば、今回のW杯によって同国はざっと37億ドル（約5930億円）の収益を生み出す可能性がある。この...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248830.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/11/b0c223dbcfb1e5ce2ce82db4300e6592/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXE4bjE3ZmowMDA1M2I2cjl1eDFzdmsz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcThpZjlvbzAwMHkyN3FwNmRiNmRqZWU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248827.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T17:50:00+09:00</dc:date>
+        <title>イラン、中東の米軍基地を狙った攻撃実施　米国の攻撃への報復</title>
+        <link>https://www.cnn.co.jp/world/35248827.html?ref=rss</link>
+        <description>イラン国内の複数の目標を攻撃したとの米国の発表を受け、イラン革命防衛隊は、クウェートやバーレーン、ヨルダンの米軍基地を狙った報復攻撃を11日未明に実施したと明らかにした。
+
+イランが米国の攻撃への報復で中東の米軍基地を狙うのは2夜連続。敵対行為の激化を受け、国連のグテーレス事務総長は、現状は停戦というよりも「戦闘の規模が縮小した」状況に見えるとコメントした。
+
+トランプ米大統領は最初の夜に行われた攻撃...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/architecture/35248790.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T16:55:00+09:00</dc:date>
+        <title>サグラダ・ファミリア、「イエスの塔」完成　それでも144年続く工事は終わらず</title>
+        <link>https://www.cnn.co.jp/style/architecture/35248790.html?ref=rss</link>
+        <description>だれもが見上げずにはいられない。スペイン北東部バルセロナの大聖堂「サグラダ・ファミリア」を訪れる人々は思わず、造形的な塔をかたどる現実離れした、ねじれた線に沿って、それぞれの尖塔（せんとう）の先へと目を走らせる。
+
+  
+    
+      
+    
+    
+Maria Contreras Coll for CNN
+  
+
+その視線がついに、かつてない高さまで達した。着工から144年あまりを経て、最後の主要な構成要素となる主塔「イエスの塔」最上部の十...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/architecture/35248790.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/11/303c3ab4a401f71feb42795e4e32010d/t/768/512/d/ap26153542883498.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248787.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T16:02:00+09:00</dc:date>
+        <title>イランのメディア、破壊された貯水施設の写真を公開　米国製爆弾の残骸とされる画像と共に</title>
+        <link>https://www.cnn.co.jp/world/35248787.html?ref=rss</link>
+        <description>イランの半国営通信社は、当局がミサイル攻撃によって破壊されたとする飲料水貯水施設の写真を掲載した。同じく掲載した弾薬の破片の画像については、複数の専門家がCNNに対し、米国製爆弾のものと思われるとの見解を示した。
+
+CNNは画像に写る弾薬が実際にその現場で発見されたものであることを独自に確認できていない。画像は半国営メヘル通信が公開した。損傷した貯水タンクの写真は、まずX（旧ツイッター）上で「acceladeal...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248787.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/11/f3231297c3de39704899b8f1ac591d99/t/768/576/d/photo-2026-06-10-02-36-32.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35248779.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T13:14:00+09:00</dc:date>
+        <title>元プロレスラーの「X-Men」俳優タイラー・メイン、「極めてまれ」な乳がんを公表</title>
+        <link>https://www.cnn.co.jp/showbiz/35248779.html?ref=rss</link>
+        <description>映画「X-Men」に出演する俳優タイラー・メインさんが、「極めて珍しい」乳がんの一種を患っていることを明かした。
+
+2000年公開の同作でセイバートゥース役を演じたメインさんは、インスタグラムへの投稿で、乳がんと診断されたと公表した。乳がんは主に女性に関連づけられる疾患だ。
+
+59歳のメインさんは元プロレスラー。24年の「デッドプール＆ウルヴァリン」でもセイバートゥース役を再演した。当初は診断結果を秘密にしてお...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35248779.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/11/e8d059330a30ee249cf93a5ce2e19366/t/768/512/d/film-deadpool-and-wolverine-premiere.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248782.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T13:12:00+09:00</dc:date>
+        <title>石油タンカーのホルムズ海峡通過を支援する「秘密任務」、米軍が遂行　トランプ氏発言</title>
+        <link>https://www.cnn.co.jp/usa/35248782.html?ref=rss</link>
+        <description>トランプ米大統領は10日、石油タンカーや商船のホルムズ海峡通過を支援する「秘密任務」の実施を先月米軍に指示したことを明らかにした。この結果、1億バレルを超える石油がホルムズ海峡を通過したと主張している。
+
+トランプ氏はSNSトゥルース・ソーシャルに「先月、偉大な米軍に対し、石油タンカーその他の商船のホルムズ海峡通過を支援する秘密任務の遂行を指示した」と書き込んだ。
+
+「この試みの結果、1億バレルを超える石...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248782.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/11/c3f68652035385bd71125f958c4351b7/t/768/512/d/ap26161579789457__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248769.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T11:42:00+09:00</dc:date>
+        <title>死にゆく星の壮絶な輝き――「水晶玉星雲」の新たな画像公開</title>
+        <link>https://www.cnn.co.jp/fringe/35248769.html?ref=rss</link>
+        <description>夜空に輝くまばゆい天体をとらえた新たな画像が公開された。死にゆく星は、対をなす星とともに、水晶玉のような光を放っている。
+
+「NGC 1514（別名「水晶玉星雲」）」の画像は、ハワイのマウナケア山にあるジェミニ北望遠鏡で、ジェミニ多天体分光器を使って撮影された。
+
+画像を撮影した米国立光赤外線天文学研究所（NOIRLab）の天文学者、トラビス・レクター氏によると、研究者らは毎晩数時間を割き、息をのむような光景を探...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248769.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/11/fdbe439c6783530ad38ee5cc9fb3c795/t/768/589/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXE1bGo0OXIwMDBkMzU2cjFyMTh5NWgz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTVsOXB0ZTAwMXgyN3FmYnIweDZzczQ_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248763.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T10:57:00+09:00</dc:date>
+        <title>ガウディ没後100年、ローマ教皇がサグラダ・ファミリア「イエスの塔」を祝福</title>
+        <link>https://www.cnn.co.jp/world/35248763.html?ref=rss</link>
+        <description>スペイン・バルセロナにそびえる最大の名所「サグラダ・ファミリア」で知られる建築家アントニ・ガウディは、列車にはねられて1926年に死亡した。居合わせた人たちから物乞いと勘違いされ、すぐに手当てを受けられなかった。
+
+その死からちょうど100年目にあたる10日、ローマ教皇レオ14世が同地を訪れ、「イエス・キリストの塔」の完成を記念するミサを行った。これでサグラダ・ファミリアは世界一高い教会になる。
+
+ガウディは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248763.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/11/2494dbb4eee06fd18d24ddd149ea192f/t/768/432/d/2026-06-10t171938z-1711206472-rc25rlaujn7j-rtrmadp-3-pope-spain.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248766.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T10:41:00+09:00</dc:date>
+        <title>米軍、イランへの新たな攻撃を終了　中央軍発表</title>
+        <link>https://www.cnn.co.jp/usa/35248766.html?ref=rss</link>
+        <description>米中央軍によると、米軍は10日、イランに対する一連の新たな攻撃を完了した。
+
+中央軍はX（旧ツイッター）への投稿で、「中央軍の部隊はイラン各地の軍事監視拠点や通信システム、防空施設に対する攻撃を実施した。この地域の海域を通過する米軍や国際商船に脅威を及ぼしていたイランの目標を狙い、海兵隊や空海軍の装備から精密誘導兵器を発射した」と明らかにした。
+
+中央軍は今回の空爆を「イランによる不当で継続的な侵略」...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248750.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T10:31:00+09:00</dc:date>
+        <title>イラン戦争の波及効果で数百万人の飢餓リスク増大、WFPが警告</title>
+        <link>https://www.cnn.co.jp/world/35248750.html?ref=rss</link>
+        <description>イランでの戦争の波及効果により、最も脆弱（ぜいじゃく）な何百万人もの人々が危機的な飢餓、あるいはそれ以上の深刻な状況へと新たに陥る恐れがある。国連世界食糧計画（WFP）のカール・スカウ事務局長代行がCNNに語った。
+
+ホルムズ海峡の閉鎖によって燃料費が急激に高騰し、WFPの活動コストは大幅に増加している。燃料価格の上昇は世界中の食料価格も押し上げている。さらに深刻なのは、スーダンのような国々で作物を植える...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248750.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/11/9391ff160c588550f726dc03c4e4b1b3/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXE3M3N3cmIwMDA4M2I2cmVzenFteWFp-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTcydHNhbTAwMHkyN3BhZ2NrYmRhMWU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248748.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T09:35:00+09:00</dc:date>
+        <title>FBIがウェブサイト十数件を差し押さえ、中国工作員が米当局者の勧誘に使用か</title>
+        <link>https://www.cnn.co.jp/usa/35248748.html?ref=rss</link>
+        <description>米連邦当局は10日、中国の工作員とみられる人物らが、安全保障上の機密情報の取り扱い資格を持つ米政府の元当局者や現職当局者を勧誘するために使用していたとされる十数件のウェブサイトを差し押さえた。
+
+差し押さえに関する連邦捜査局（FBI）の宣誓供述書によると、氏名が明らかにされていない複数の人物が、これらのウェブサイトを偽の「コンサルティング会社」の隠れみのとして使用。米国内の個人を勧誘して、金銭的な報酬...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248748.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/11/e24a4265ec724737f4e2995f0b26647d/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXE4aTZqZ24wMDAwM2I2cnA3czJuc2tq-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcThob3kxNjAwMHkyOHA1OXRlODFkM2E_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248749.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T09:23:00+09:00</dc:date>
+        <title>ホルムズ海峡を「全船舶に対して閉鎖」、米国の追加攻撃を踏まえ　イラン革命防衛隊</title>
+        <link>https://www.cnn.co.jp/world/35248749.html?ref=rss</link>
+        <description>イランのイスラム革命防衛隊（IRGC）は11日までに、米国による新たな攻撃の実施を受け、戦略的要衝のホルムズ海峡は「すべての船舶に対して閉鎖される」と明らかにした。
+
+革命防衛隊はテレグラムへの投稿で「地域の情勢不安を踏まえ、石油タンカーや商船を含む全船舶に対するホルムズ海峡の即時閉鎖が宣言された」と説明。「海峡通過を試みるいかなる船舶も攻撃対象となる」と表明した。
+
+米中央軍はイランの主張に反論し、商...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248749.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/11/2a2324055dc4621a7c1b8ae5a244fa7f/t/768/432/d/2026-06-10t172844z-2100469173-rc2mpla7qxua-rtrmadp-3-iran-crisis-shipping-oman__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248747.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T08:54:00+09:00</dc:date>
+        <title>トランプ氏、イラン攻撃再開を表明　合意交渉の停滞受け</title>
+        <link>https://www.cnn.co.jp/usa/35248747.html?ref=rss</link>
+        <description>トランプ米大統領は10日、戦争終結に向けた交渉で十分な進展が見られないとして、米国がイランへの攻撃を再開すると述べた。
+
+トランプ氏は同日、「我々は彼らを攻撃する。極めて激しく攻撃する」と発言。イランによる米軍のアパッチヘリコプターの撃墜を、攻撃再開の口実とする考えを示した。
+
+記者団に対し、「ヘリコプターの一件を踏まえれば、我々にはそうする権利があると思う」と述べた。
+
+さらに、「昨日、我々は彼らを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248747.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/11/491cdd70c9a9519bb1a963bf94188e88/t/768/512/d/ap26161558696611__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248746.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-11T08:37:00+09:00</dc:date>
+        <title>米軍、イランへの追加攻撃を開始　前日に続き2日連続</title>
+        <link>https://www.cnn.co.jp/usa/35248746.html?ref=rss</link>
+        <description>米中央軍は10日、イラン国内の複数の目標に対して2日連続となる攻撃を開始したと発表した。
+
+中央軍は一連の攻撃を「イランによる不当で継続的な侵略」への対抗措置と位置付けている。
+
+中央軍はX（旧ツイッター）への投稿で「米中央軍は米東部時間きょう午後5時15分、最高司令官の指示に基づき、イラン国内の複数の目標に対する追加の自衛的攻撃を開始した」と明らかにした。
+
+イランとの合意に向けた交渉の難航が続く中、トラ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35248731.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-10T18:38:00+09:00</dc:date>
+        <title>いよいよ開幕、北中米W杯　グループステージを盛り上げる必見の試合10選</title>
+        <link>https://www.cnn.co.jp/showbiz/35248731.html?ref=rss</link>
+        <description>2026年サッカー・ワールドカップ（W杯）が、その栄光とともに間もなく開幕する。米国、カナダ、メキシコの3カ国で共同開催される今大会は出場国を拡大。途切れることなく繰り広げられる熱戦がファンを魅了する。
+
+過去最多となる48チームが、サッカー界最高の栄誉であるトロフィーを懸けて合計104試合を戦う。このうちグループステージの試合は72試合と、大会史上最多の水準となる。
+
+17日間に及ぶグループステージで、どの試合...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35248731.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/10/e3852643b512a10f2e56045a73429bd1/t/768/517/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXE1cWhqYTkwMDF3M2I2cjNxaW1obm1p-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTVwemVrbjAwMHkyN3AyNmRvZWRpNGE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248737.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-10T18:03:00+09:00</dc:date>
+        <title>エア・カナダの元機長、偽のパイロットライセンスで17年間フライト</title>
+        <link>https://www.cnn.co.jp/world/35248737.html?ref=rss</link>
+        <description>エア・カナダの元パイロットが、偽のパイロットライセンスで17年ちかくにわたり数万人の利用客を乗せて飛行したとして罪に問われている。カナダ警察が9日に発表した。
+
+ジェフリー・ウォール被告は今月1日に逮捕された。捜査当局によると、同氏は2009年から25年にかけて、適切なライセンスを一度も取得せず、義務付けられた試験を受けることもなく、国内線、国際線あわせて900便超の機長を務めたという。
+
+オンタリオ州ピール地...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248737.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/10/52fa471ca4f3fe7ed9b82c81bcfcf382/t/768/512/d/gettyimages-2265480977.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248718.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-10T15:50:00+09:00</dc:date>
+        <title>金正恩氏ご満悦の北朝鮮女子サッカー、目覚ましい活躍の原動力を関係者に聞く</title>
+        <link>https://www.cnn.co.jp/world/35248718.html?ref=rss</link>
+        <description>北朝鮮の女子サッカーが快進撃を続けている。アジアサッカー連盟（AFC）女子チャンピオンズリーグ制覇を受けて、金正恩（キムジョンウン）総書記がこのほど祝賀行事を開き、選手たちは感激の涙を流した。
+
+  
+    
+      
+    
+    
+先月行われたAFC女子チャンピオンズリーグで優勝したネゴヒャン女子蹴球団と握手を交わす金正恩（キムジョンウン）総書記/KCTV
+  
+
+平壌を拠点とする「ネゴヒャン女子蹴球団」は先月、敵対する韓...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248718.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/10/ba50a444b2bdb663fa055be7d97139f7/t/768/508/d/ba17daa7c520d4470098ccb07bf3313469307d8c07db77ce0abe0a1594ebd8d7b41a280088ed9cacc1bb7383eede69a491bfa0273c55d90a326fa4d1b532f3a8a470946fec0d6d20eadb868f2f096ce8.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248711.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-10T13:33:00+09:00</dc:date>
+        <title>イランの攻撃か、米海軍第5艦隊の施設の方向から閃光　バーレーン</title>
+        <link>https://www.cnn.co.jp/world/35248711.html?ref=rss</link>
+        <description>CNNが位置情報を特定したウェブカメラの映像には、バーレーン首都マナマにある米海軍第5艦隊の施設の方向から明るい閃光（せんこう）が発生する瞬間が映っているとみられる。
+
+
+  
+    
+                
+                    
+            
+    
+     アースTVのウェブカメラが捉えた映像。10日朝、バーレーン首都マナマにある米海軍第5艦隊の施設の方向から明るい閃光が発生する様子が映っている（EarthTV）  
+
+
+この映像は、...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35248705.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-10T12:14:00+09:00</dc:date>
+        <title>黒人俳優が演じるジェームズ・ボンド、「観客が受け入れない」　イドリス・エルバが見解</title>
+        <link>https://www.cnn.co.jp/showbiz/35248705.html?ref=rss</link>
+        <description>人気スパイ映画シリーズ「007」の主人公ジェームズ・ボンド役の候補としてかねて噂（うわさ）されている英国の俳優、イドリス・エルバは、「黒人男性、アフリカ系男性」がボンドを演じるのは観客が受け入れないだろうと語った。
+
+ダニエル・クレイグが2021年公開の映画「007／ノー・タイム・トゥ・ダイ」で自身最後となるボンド役を務めてからというもの、今後誰がこの役を引き継ぐのかを巡り臆測が飛び交っている。これまでの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35248705.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/10/a30052fe38da29996134277ddc6a2a87/t/768/522/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXE2ZXd4Y24wMDAwM2I2cm9jdmZvYmMw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTZlbTh2MjAwMXoyN3FqZXllZmVjOXI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
