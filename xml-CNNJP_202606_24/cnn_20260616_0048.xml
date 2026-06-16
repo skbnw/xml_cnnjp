@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-06-16T09:45:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248952.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248950.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248948.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35248933.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35248929.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248928.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248926.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248923.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248920.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248914.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248913.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248908.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248907.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248899.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248905.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248902.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248901.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248898.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248897.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248895.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35248892.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35248896.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35248893.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248894.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35248891.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35248889.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35248888.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248887.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35248886.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35248883.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248952.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-16T09:45:00+09:00</dc:date>
+        <title>米空軍のB52爆撃機墜落、乗員8人死亡　米カリフォルニア州の空軍基地</title>
+        <link>https://www.cnn.co.jp/usa/35248952.html?ref=rss</link>
+        <description>米空軍のB52戦略爆撃機が15日午前、カリフォルニア州ロサンゼルス北東部のエドワーズ空軍基地を離陸直後に墜落し、乗員8人が死亡した。同基地が発表した。
+
+墜落したB52ストラトフォートレスは通常の試験飛行中で、現地時間の午前11時20分に離陸した。現在は機体などの回収作業に移行しているという。
+
+ヘイズ大佐は記者会見で「悲劇的な事故であり、生存者がいる可能性はなかった」と述べた。
+
+同基地によると、墜落現場からは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248952.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/16/e1718a503712a110d168cb13456c2d21/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXFmbG9qem4wMDBjM2I2Nmsxa2N2ZHBw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcWZrOTcxNjAwMHkyOHFvaGZ1MWhwZnY_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248950.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-16T09:08:00+09:00</dc:date>
+        <title>ネタニヤフ氏、トランプ氏と「つねに意見が一致するわけではない」　レバノンなどへの駐留継続を明言</title>
+        <link>https://www.cnn.co.jp/world/35248950.html?ref=rss</link>
+        <description>イスラエルのネタニヤフ首相は15日、記者会見で米国とイランの覚書について発言し、トランプ米大統領とは「つねに意見が一致するわけではない」と述べた。
+
+ネタニヤフ氏は記者会見で、こうした意見の相違について「最高に仲の良い家族の間でも起きることだ」とし、「トランプ氏は米国の大統領であり、私はイスラエルの首相だ。私はイスラエルの安全保障上の利益に責任を負っており、それは賢明に行われる必要がある」と述べた...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248948.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-16T08:24:00+09:00</dc:date>
+        <title>米イラン、戦闘終結の覚書に署名　ホルムズ海峡は19日に全面開放へ</title>
+        <link>https://www.cnn.co.jp/world/35248948.html?ref=rss</link>
+        <description>米政府高官は15日、戦闘終結に向けた米国とイランの覚書に、米側はトランプ米大統領とバンス副大統領、イラン側はガリバフ国会議長がオンラインで署名したことを明らかにした。正式な署名式は19日に行われるとしている。
+
+主要7カ国首脳会議（G7サミット）でフランス東部エビアンを訪れたトランプ氏は、記者団に対し、ホルムズ海峡は「すでに一部開放されている」と述べ、米国とイランが覚書に正式署名する予定の19日に全面的に...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35248933.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-15T16:15:00+09:00</dc:date>
+        <title>アマゾン「Kindle Scribe Colorsoft」を1週間試してみた　11万円超に見合う価値はある？</title>
+        <link>https://www.cnn.co.jp/tech/35248933.html?ref=rss</link>
+        <description>アマゾンの新型「Kindle Scribe」と「Kindle Scribe Colorsoft」が登場し、最高の電子書籍リーダーの王座をめぐる戦いは新たな章の幕を開けた。両モデルはもう一つの戦いにも挑んでいる。reMarkableの「Paper Pro」や「Paper Pro Move」と同様に、自然な書き心地を備えているのだ。ただ、Kindleを探しているにせよ電子書籍リーダーを探しているにせよ、疑問は変わらない。これらの新型タブレットに500ドル（日本では税込8万9980...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35248933.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/15/37ac725224cfc9caafc1dc21a3bf4de1/t/768/432/d/kindle-scribe-2025-and-scribe-colorsoft-cnnu-review-04.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35248929.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-15T14:10:00+09:00</dc:date>
+        <title>「立つ鳥跡を濁さず」――W杯の日本人観客席が必ずきれいになっている理由</title>
+        <link>https://www.cnn.co.jp/showbiz/35248929.html?ref=rss</link>
+        <description>今年のサッカーワールドカップ（W杯）北中米大会に出場する48チームの成績は誰にも予測できない。しかし日本が最も整然としたチームになることに賭ければ、間違いなく勝つ。日本人がそこにいたことさえ気づかないかもしれない。
+
+異文化リーダーシップに詳しいミチキモーガンワールドワイド創業者のモーガンのぞみ最高経営責任者（CEO）は、8歳の時に米シアトルから東京へ移転した時のことを鮮明に覚えている。学校生活の違いが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35248929.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/15/bba0e23a1a3c38bbf5e344267db1aa5d/t/768/512/d/2026-06-08t235706z-1313642907-up1em681uj4cn-rtrmadp-3-soccer-worldcup-jpn-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248928.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-15T12:41:00+09:00</dc:date>
+        <title>トランプ氏、ホルムズ海峡の通航は「恒久的に無料」　核協議の合意なければ攻撃再開とも</title>
+        <link>https://www.cnn.co.jp/usa/35248928.html?ref=rss</link>
+        <description>米国のトランプ大統領は14日、イランとの間で達した合意により、最終的にホルムズ海峡の「通航は恒久的に無料」になると述べた。
+
+トランプ氏は米紙ニューヨーク・タイムズの電話取材に対し、同海峡の再開を合意の主要な成果として挙げた。イランは紛争前に通航料を課しておらず、この取り決めはおおむね戦争前の状況を回復するものとなる。
+
+トランプ氏は、イランが今後数週間で核開発計画の今後について妥当な合意に至らなけ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248926.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-15T12:10:00+09:00</dc:date>
+        <title>トランプ氏、ネタニヤフ氏を非難　「非常にやっかいな男」</title>
+        <link>https://www.cnn.co.jp/usa/35248926.html?ref=rss</link>
+        <description>米国のトランプ大統領は14日、イスラエルのネタニヤフ首相は米政権の外交努力に感謝すべきだとして強く非難した。
+
+トランプ氏は米紙ニューヨーク・タイムズの電話取材に対し、イスラエルは米イラン間の合意によって恩恵を受けると主張。中国の習近平（シーチンピン）国家主席とロシアのプーチン大統領が和平を前進させるために協力してくれたと称賛する一方で、ネタニヤフ氏を批判した。
+
+「彼は非常にやっかいな男だ」とトラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248926.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/15/88fefe5d81851834dc5fd256d8517b43/t/768/512/d/gettyimages-2280060058.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248923.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-15T11:33:00+09:00</dc:date>
+        <title>ウクライナ首都に大規模攻撃、世界遺産の大修道院が炎上　18人負傷</title>
+        <link>https://www.cnn.co.jp/world/35248923.html?ref=rss</link>
+        <description>ロシアが15日にかけて行った大規模な夜間攻撃により、ウクライナ首都キーウでは中心部にある世界遺産の修道院で火災が発生している。キーウのクリチコ市長によると、この攻撃により市内全域で少なくとも18人が負傷した。
+
+  
+    
+      
+    
+    
+@Epifaniy via X
+  
+
+画像には、およそ1000年の歴史を持つキーウ・ペチェールシク大修道院から炎がわき上がる様子が映っている。
+
+同地にいるCNNの記者は、爆発音を複数回聞いた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248923.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/15/3d0439944579b0426112c5b8aac3cff9/t/768/576/d/2026-06-15t011057z-2093246118-rc21ula4zmq8-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248920.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-15T11:00:00+09:00</dc:date>
+        <title>スカイダイビングに向かう飛行機が離陸直後に墜落、12人死亡　米ミズーリ州</title>
+        <link>https://www.cnn.co.jp/usa/35248920.html?ref=rss</link>
+        <description>米ミズーリ州西部の空港で14日、飛行機が離陸直後に墜落し、操縦士と乗客11人が死亡した。当局が明らかにした。米国で起きたスカイダイビング機の墜落事故としては過去数十年で最悪規模となった。
+
+米連邦航空局（FAA）によると、飛行機は午前11時35分ごろ、バトラー記念空港を離陸した。しかしベイツ郡当局によれば、飛行機は高度を確保できず、左に急旋回し、滑走路から約270メートルの地点に墜落した。
+
+ミズーリ州の警備当...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248920.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/15/c57256b89695010350b0c5724b669b4a/t/768/432/d/plane-crashed-near-butler-memorial-airport-in-missouri.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248914.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-15T09:37:00+09:00</dc:date>
+        <title>欧州各国首脳、ホルムズ海峡の「至急の再開」求める</title>
+        <link>https://www.cnn.co.jp/world/35248914.html?ref=rss</link>
+        <description>トランプ米大統領はSNS「トゥルース・ソーシャル」で、米国とイランによる19日の合意署名後にホルムズ海峡が再開されると発表した。
+
+フランス、ドイツ、イタリア、英国の首脳は共同声明で、イラン戦争終結に向けた合意の発表を「温かく」歓迎するとともに、「無条件かつ制限のない航行の自由を伴うホルムズ海峡の至急の再開」を求めた。
+
+首脳らは「われわれは厳格な防衛・独立任務を通じて商船の通航を確約し、機雷除去を実施...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248914.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/15/19d1c7f3227d7eb3110f7a5086ce71e0/t/768/512/d/2026-06-08t104923z-1107213373-rc2hplagb3cg-rtrmadp-3-iran-crisis.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248913.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-15T08:50:00+09:00</dc:date>
+        <title>イラン外務次官、米との合意を発表　19日にスイスで署名・発効</title>
+        <link>https://www.cnn.co.jp/world/35248913.html?ref=rss</link>
+        <description>イランのガリババディ外務次官は、米国との覚書の文言が最終決定し、19日にスイスで正式に署名されると述べた。覚書は同日に発効するという。
+
+ガリババディ氏は、現地時間の「15日未明から二つの問題について即時に発効する」と説明した。一つはレバノンを含む全戦線での恒久的かつ即時の戦闘終結で、二つ目は米国がイランに対して実施していた海上封鎖の解除と終了だという。
+
+ガリババディ氏は、この覚書は「外交努力による...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248908.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-14T17:03:00+09:00</dc:date>
+        <title>米イラン合意、当局がオンライン署名を計画している理由</title>
+        <link>https://www.cnn.co.jp/usa/35248908.html?ref=rss</link>
+        <description>事情に詳しい複数の当局者によると、米イラン間の了解覚書への署名をオンラインで行う計画がここ1日でまとまった。合意を速やかに確定させ、土壇場での破談を避けるためだという。
+
+トランプ米大統領は先週、署名は欧州で対面形式で行われ、米国からはバンス副大統領が出席する見込みだと述べていたが、この計画は実現しなかった。
+
+一因はスケジュール上の複雑さにある。大統領と副大統領は警備や継続性の観点から、同時に外遊...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248907.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-14T15:15:00+09:00</dc:date>
+        <title>「奇妙」が支配する世界、海のトワイライトゾーンの謎に迫る</title>
+        <link>https://www.cnn.co.jp/fringe/35248907.html?ref=rss</link>
+        <description>海底ほど深くない水面下約200～1000メートルに存在する海のトワイライトゾーン（正式には中深層と呼ばれる）には、アンコウ、コウモリダコ、さらに豆電球のような形のクダクラゲなど、さまざまな種が生息する。
+
+ここは「奇妙」が支配する世界だ。暗闇の中では目は小さく、逆に歯は大きくなる。また多くの種が透明で、発光する生物も多い。深海のいたる所で目にするヨコエソは、人間の小指よりも小さい。
+
+このトワイライトゾー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248907.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/14/d6b2c1786548602e3b75603698a4b743/t/768/579/d/210629171958-05-ocean-twilight-zone-creatures-restricted-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248899.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-14T13:28:00+09:00</dc:date>
+        <title>「紙巻きたばこより安全」とうたわれる電子たばこ、本当に安全？　がんリスクを指摘する新研究も</title>
+        <link>https://www.cnn.co.jp/fringe/35248899.html?ref=rss</link>
+        <description>電子たばこは、紙巻きたばこよりも安全な代替品として宣伝されることが多いが、より安全だからといって安全とは限らない。学術誌「カルシノジェネシス」に最近掲載された総説によると、ニコチンを含む電子たばこは、一部のがんの発症リスクを高める可能性があることが新たな証拠によって示された。
+
+今回は、CNNのウェルネス専門家であるレアナ・ウェン医師に、電子たばこに関するさまざまな疑問について話を聞いた。ウェン医師...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248899.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/14/2ca7ed10519f41e896ba9a2462351871/t/768/431/d/gettyimages-2182785591__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248905.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-14T12:57:00+09:00</dc:date>
+        <title>米ケネディ・センター、建物からトランプ氏の名前を完全撤去</title>
+        <link>https://www.cnn.co.jp/usa/35248905.html?ref=rss</link>
+        <description>米首都ワシントンの文化施設「ケネディ・センター」の事務局長は13日、建物からトランプ大統領の名前を撤去したと発表した。トランプ氏による首都改造の試みを象徴する設置物が消え去った。
+
+作業員は12日、看板の上に防水シートをかぶせ、撤去作業の様子を一切見えないようにしていた。フローカ事務局長が裁判所の判断に従いトランプ氏の名前を取り外したと明らかにした後も、13日の時点で建物のファサードにはシートがかけら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248905.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/14/dd129fcc53dbbf27f88d36ed2d325d6c/t/768/511/d/c-gettyimages-2280596268.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248902.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-14T11:05:00+09:00</dc:date>
+        <title>メリンダ・ゲイツ氏、「おぞましい」エプスタイン氏を振り返る　「生理的な拒絶反応」吐露</title>
+        <link>https://www.cnn.co.jp/usa/35248902.html?ref=rss</link>
+        <description>米マイクロソフトの共同創業者ビル・ゲイツ氏と元妻メリンダ・ゲイツ氏はいま、性犯罪で起訴され、勾留中に死亡した故ジェフリー・エプスタイン氏とビル氏の過去の関係に再び向き合っている。ビル氏は今週、エプスタイン氏との過去のやり取りについて議会で証言。メリンダ氏も新たなインタビューで、エプスタイン氏への「生理的な拒絶反応」について吐露した。
+
+メリンダ氏は2021年にビル氏と離婚し、現在は慈善活動に従事して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248902.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/14/33c7a5fad434d39bdd1eaffcc2f32df6/t/768/511/d/c-gettyimages-2220192903.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248901.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-14T09:18:00+09:00</dc:date>
+        <title>トランプ氏、イラン合意「14日に署名予定」　イラン側はタイミングについて反論</title>
+        <link>https://www.cnn.co.jp/usa/35248901.html?ref=rss</link>
+        <description>トランプ米大統領は13日、イランとの合意は「あす署名が行われる予定だ」と述べ、署名が済めばホルムズ海峡の封鎖は解除されるだろうと付け加えた。
+
+イラン政府も条件に関する双方の合意が近いことを示唆しているものの、イスラム革命防衛隊は、14日に署名が行われるとの見通しについては否定。14日にこだわるトランプ氏の「異常な執着」を批判した。ここ数日の目まぐるしい外交の中でまたしても米国とイランの発言に食い違い...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248901.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/14/9429f01fd07a66eb7c9843bb37495548/t/768/512/d/gettyimages-2280575472-1__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248898.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-13T18:45:00+09:00</dc:date>
+        <title>米国の出生率急落、スマートフォンの普及が原因か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35248898.html?ref=rss</link>
+        <description>米国の出生率はもう数十年にわたり低下傾向にあり、研究者や政策立案者たちはその原因を突き止めることで問題の解決を図ろうとしている。原因についてはこれまであらゆる説が唱えられてきた。具体的には保育費の高騰や避妊の普及、さらにはチャイルドシート規制の影響までが取り沙汰された。
+
+そうした中、1本の新たな研究論文が大胆な仮説の下で別の原因を提示している。それはスマートフォンだ。他の研究者たちの中には、この...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248898.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/444118125e2f61d8412809029dc2ee72/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXE5ajFjMXMwMDAwM2I2cnMydXU5cGEw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTlodWVuNDAwM3IyN293Mzcyc2U3b2k_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248897.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-13T18:11:00+09:00</dc:date>
+        <title>イランがウラン貯蔵施設を封鎖する動き強化、地雷を設置　情報筋</title>
+        <link>https://www.cnn.co.jp/world/35248897.html?ref=rss</link>
+        <description>イランはここ数週間、核兵器級に近いウランの貯蔵施設を封鎖する動きを大幅に強化しており、トンネルを意図的に崩落させたり、入り口に地雷を仕掛けたりしていることが分かった。米国の諜報（ちょうほう）に詳しい情報筋5人が明らかにした。
+
+情報筋によると、約500キロに上るイランの高濃縮ウランに到達するのは、わずか1カ月前に比べてもはるかに困難かつ危険で、時間のかかる作業になっている。トランプ米大統領は1カ月前、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248897.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/8fa0de8a22720c62564b604191b7abd1/t/768/491/d/gettyimages-2271975372__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248895.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-13T16:04:00+09:00</dc:date>
+        <title>ロシアの大都市に迫るウクライナの攻撃、ふつふつと湧き上がる不満</title>
+        <link>https://www.cnn.co.jp/world/35248895.html?ref=rss</link>
+        <description>ロシア・モスクワ州のアパート。午前4時ごろ、上空に響く轟音（ごうおん）で目を覚ましたエレナ・ウラジーミロブナさん（56）が窓の外を見ると、頭上を飛ぶ複数のドローン（無人機）が目に飛び込んできた。
+
+音はすぐに小さくなり、危険は過ぎ去ったかに思われた。だがその時、付近から大きな衝撃音が鳴り響いた。
+
+「私たちの部屋の下、バルコニーの下に棚のような出っ張りがある。ドローンはその出っ張りに落下して炎上し、黒...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248895.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/14a37ef60216eb9aca48e2a695f3c08d/t/768/432/d/screenshot-2026-05-29-at-15-27-52__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35248892.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-13T15:06:00+09:00</dc:date>
+        <title>女性のまなざしが捉えたマリリン・モンロー、思索的な内面写し出す</title>
+        <link>https://www.cnn.co.jp/style/arts/35248892.html?ref=rss</link>
+        <description>世界で最も有名な金髪の美女が、遊具の上に腰かけ、本を読みふけっている。スタジオ用のメイクも照明もなく、靴も履いていない。時は1955年、あらわになった彼女の手足からは、夏の日差しのような輝きが放たれている。
+
+写真は遊び心に満ちている。彼女は子どもの遊び場で、色鮮やかなロンパースを身にまとっている。同時にどこか真剣でもある。腕に抱えられた分厚い本は、難解なことで悪名高いジェームズ・ジョイスの小説「ユ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35248892.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/467f6a44cf74d93ae97139e3c99382a5/t/768/432/d/marilyn-monroe-mount-sinai-long-island-1955-by-eve-arnold-cr.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35248896.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-13T14:52:00+09:00</dc:date>
+        <title>北中米W杯、米国が初戦飾る　4得点でパラグアイを圧倒</title>
+        <link>https://www.cnn.co.jp/showbiz/35248896.html?ref=rss</link>
+        <description>米国、カナダ、メキシコが共催するサッカー・ワールドカップ（W杯）でグループDの米国は12日、パラグアイと対戦し4―1で勝利した。大会の船出としてはこれ以上ないスタートを切り、勝ち点3をきっちり獲得した。
+
+パラグアイのオウンゴールで先制した後、米国は猛攻撃を展開。ストライカーのフォラリン・バログンが2得点を挙げた他、ジョバンニ・レイナがアディショナルタイム終盤に追加点を決め、快勝へと導いた。
+
+米国は試合の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35248896.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/82bd391f86651ce03a7d934763c9f012/t/768/512/d/gettyimages-2280602335.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35248893.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-13T13:48:00+09:00</dc:date>
+        <title>北大西洋に謎の「冷たい斑点」、将来の不吉な兆候か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35248893.html?ref=rss</link>
+        <description>グリーンランドとアイスランドの南に位置する北大西洋の広範な海域で、非常に奇妙な現象が起きている。他の海洋の大部分が温暖化する一方、当該の海域は逆に低温化している。新たな研究はこの謎に対する答えを提示すると共に、それが不吉な兆候だと指摘。気候変動における最も憂慮すべき転換点の一つへと、世界が突き進んでいることを示す現象に他ならないと警鐘を鳴らしている。
+
+「コールド・ブロブ（冷たい斑点）」または「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35248893.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/192f1cba9f184163104e9084938fab00/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXE3emh2b3gwMDAxM2I2cmZ2YmVxZmts-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTd6aHJxNDAwMzIyYXFtNG9nM2ZyYWk_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248894.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-13T12:48:00+09:00</dc:date>
+        <title>イランのウランを押収する地上作戦、米軍が先月急きょ準備もトランプ氏が見送り　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35248894.html?ref=rss</link>
+        <description>米軍制服組のトップが先月下旬、フロリダ州にある米中央軍司令部を秘密裏に急きょ訪問し、イランに地上部隊を派遣して高濃縮ウランを押収する計画について、対面で説明を受けていたことが分かった。事情に詳しい情報筋2人がCNNに明らかにした。高濃縮ウランは核兵器製造に必要な重要原料。
+
+情報筋によると、この時のブリーフィングは極めて緊急かつ機密性が高い内容だったため、ケイン統合参謀本部議長は5月19日、ベルギー首都...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248894.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/9bc126c06c86994bc324b0c447eb1dc0/t/768/512/d/ap10082013813.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35248891.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-13T11:21:00+09:00</dc:date>
+        <title>ベネズエラ犯罪組織トップ、米軍の攻撃で殺害　トランプ氏が発表</title>
+        <link>https://www.cnn.co.jp/usa/35248891.html?ref=rss</link>
+        <description>米国がテロ組織にも指定するベネズエラの麻薬カルテル「トレン・デ・アラグア」の最高幹部の一人が、米軍の攻撃によって殺害された。トランプ米大統領が12日に発表した。
+
+トランプ氏は同日夜、自身のSNSトゥルース・ソーシャルへの投稿で「ニーニョ・ゲレロ」の名で知られるエクトル・ルステンフォード・ゲレロ・フローレス被告が「迅速かつ致命的な軍事攻撃」によって殺害されたと明らかにした。殺害の日時や場所については明...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35248891.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/986dba52038dbe15412634d55c3fef7d/t/768/432/d/hectorflores122325.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35248889.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-13T10:40:00+09:00</dc:date>
+        <title>マグリットの名画「ピレネーの城」、子どもが松ぼっくりで傷つける</title>
+        <link>https://www.cnn.co.jp/travel/35248889.html?ref=rss</link>
+        <description>ベルギーの画家ルネ・マグリットの絵画が、松ぼっくりを手にしていた5歳の男の子によって傷つけられる出来事があった。
+
+破損したのは、エルサレムのイスラエル博物館に所蔵されている「ピレネーの城」。最近の出来事で子どもによって「軽微な損傷」（イスラエル博物館）を受けたことから、現在、博物館の保存担当者が修復を行っているという。
+
+1959年のこの絵は、荒れた海の上空に浮かぶ巨大な岩の上の城を描いたもので、イス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35248889.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/99db41bbb1e36a58fea12fdc2b4e9782/t/768/431/d/shutterstock-editorial-7711333i.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35248888.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-13T10:25:00+09:00</dc:date>
+        <title>スペースX株、記録的なIPO受け19％上昇　マスク氏が「兆万長者」に</title>
+        <link>https://www.cnn.co.jp/business/35248888.html?ref=rss</link>
+        <description>富豪のイーロン・マスク氏が率いる米宇宙開発企業スペースXの株は12日の新規株式公開（IPO）で大幅な上昇を記録し、同社の時価総額を2兆ドル（約320兆円）超へと押し上げた。これに伴い、マスク氏は世界初の「トリリオネア（兆万長者）」としての地位を確固たるものにした。
+
+スペースXは1株150ドルで取引を開始し、取引中には176.52ドルまで上昇、最終的に161.11ドルで取引を終えた。引けにかけて上げ幅をやや縮小したものの、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35248888.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/026fd323dccb3c4124ef2deb63485031/t/768/512/d/2026-06-12t144925z-60872350-rc2dsla5yi3a-rtrmadp-3-spacex-ipo.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248887.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-13T09:46:00+09:00</dc:date>
+        <title>ホルムズ海峡の今後の管理、オマーンと「近く」共同声明発表　イラン外相</title>
+        <link>https://www.cnn.co.jp/world/35248887.html?ref=rss</link>
+        <description>イランのアラグチ外相は12日夜、ホルムズ海峡の今後の管理に関する声明が「近く」発表される見込みだと明らかにした。
+
+イラン学生通信（ISNA）によると、アラグチ氏はイラン国営テレビの取材に対し、当該の声明はオマーン政府と共同で発表されると述べた。ホルムズ海峡はイランとオマーンの領土の間に位置している。
+
+この発言は、米国とイランの合意に関する最終的な枠組み案が成立したとされる中で出たもの。合意文書への署...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248887.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/4b88700116d76f95d24f74145023a326/t/768/432/d/iran-crisis-oman-hormuz-20260612182603745.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35248886.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-13T08:49:00+09:00</dc:date>
+        <title>イラン外相、米国との合意は「これまでになく近付いている」</title>
+        <link>https://www.cnn.co.jp/world/35248886.html?ref=rss</link>
+        <description>イランのアラグチ外相は12日、米政権との間の了解覚書の締結が「これまでになく近づいている」との認識を示す一方、合意を巡る臆測は慎むよう注意を促した。
+
+アラグチ氏はX（旧ツイッター）に、合意が最終決定されるまで「メディアは内容に関する臆測を慎むべきだ」と投稿した。
+
+そのうえで「我々の責任ある透明性の高いやり方に沿って、すべての詳細はしかるべき時期に国民に公開される」と続けた。
+
+トランプ米大統領は12日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35248886.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/a97526d300d4f8b4362ad356511764ee/t/768/512/d/gettyimages-2220694569__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35248883.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-12T19:38:00+09:00</dc:date>
+        <title>英国で大論争を巻き起こしたベッカムの腰布騒ぎを振り返る</title>
+        <link>https://www.cnn.co.jp/style/fashion/35248883.html?ref=rss</link>
+        <description>それはスマートフォンを1日に何度もスクロールしているうちに見過ごしてしまうような類いのセレブのスナップ写真だ。サッカーのスター選手とその恋人のポップ歌手が手をつないで夜の街を出歩いている。そこには夏の気軽さが漂い、日焼けしたふたりはカジュアルな黒のトップスとズボン、サンダルといういでたちだ。
+
+ただし、その選手とは世界的に有名なデービッド・ベッカム氏で、腰には柄物のサロンを巻いていた。1998年当時の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35248883.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/12/c32134be2b74b330ad5c895f8fc9c3db/t/768/432/d/29703088-cr.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
