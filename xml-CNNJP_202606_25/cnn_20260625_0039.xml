@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-06-25T09:21:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249384.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249381.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249378.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249376.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249374.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35249373.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35249348.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249350.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35249335.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249341.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35249339.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249318.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35249329.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249325.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249321.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249306.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249296.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35249293.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35249285.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35249281.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35249269.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249259.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249265.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35249256.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249251.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249249.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249252.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249247.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249242.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249238.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35249384.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-25T09:21:00+09:00</dc:date>
+        <title>ベネズエラでM7超える連続地震、首都で建物倒壊の被害　津波に警戒呼びかけ</title>
+        <link>https://www.cnn.co.jp/world/35249384.html?ref=rss</link>
+        <description>南米ベネズエラ北部の沿岸付近で24日、大きな地震が連続して発生し、首都カラカスで建物が倒壊するなどの被害が出ている。
+
+米地質調査所（USGS）によると、マグニチュード（M）7.2の地震に続き、わずか40秒後に暫定値で同7.5の地震が発生した。
+
+米津波警報センターによると、震源から300キロ圏内では津波による被害の恐れがある。プエルトリコとバージン諸島を対象とする津波警報は解除された。
+
+震源はベネズエラ北部ユマレ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249384.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/25/d58055ad35f6bc02d62608250fae12eb/t/768/512/d/c-gettyimages-2282642834__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249381.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-25T08:32:00+09:00</dc:date>
+        <title>フランス観測史上「最も暑い日」に、24時間の平均30度　欧州各地で記録的な熱波続く</title>
+        <link>https://www.cnn.co.jp/world/35249381.html?ref=rss</link>
+        <description>欧州各地に記録的な熱波が到来し、フランスは24日、観測史上最も暑い一日となった。英国やスペインでも6月の最高気温の記録が更新された。
+
+フランス気象局によると、フランスでは24日、24時間の平均気温が30度に達し、観測史上最も暑い一日となった。前日に記録された29.9度を上回り、わずか1日で最高記録を更新した。
+
+首都パリを含む国内の各地域では、気温が40度を超えた。パリから西南西に約450キロ離れたパリュオーでは43...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249381.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/25/fac2be660153e1a90517fa0f37e55860/t/768/512/d/ap26175600523875__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249378.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-25T05:00:00+09:00</dc:date>
+        <title>【分析】原油価格の今後の動向、中国が左右する可能性</title>
+        <link>https://www.cnn.co.jp/world/35249378.html?ref=rss</link>
+        <description>米国とイランがホルムズ海峡の恒久的な開放や中東原油の輸送再開に向けた方策を議論するなかで、市場の次なる動きは、交渉の場にはいない国、つまり中国にかかっているとも考えられる。
+
+中国は世界第2位の原油消費国だ。イランの戦争で日量1100万バレル以上の原油が入らなくなり、供給を維持するためにあらゆる手を尽くしてきた。輸入量を減らして大規模な備蓄に頼り、クリーンエネルギーの利用を拡大することで、国内での価格...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249378.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/0270b580dad356f2f0a618efc3baa79c/t/768/576/d/gettyimages-2219995390-20260622043020483.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249376.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T18:15:00+09:00</dc:date>
+        <title>【分析】トランプ氏のイランでの政治的失態、大きさが鮮明に</title>
+        <link>https://www.cnn.co.jp/usa/35249376.html?ref=rss</link>
+        <description>トランプ米政権がイランと覚書に署名してから初めて実施された主要世論調査には、トランプ大統領にとって朗報に見える点がある。米国民の圧倒的多数が、イランにさらなる譲歩を求めるよりも戦争を終わらせるべきだという考えに同意しているのだ。
+
+しかし、それは国民が実際に合意に満足しているからではない。戦争が大失敗で、とにかく終わってほしいと思っているからだ。
+
+CBSニュースとユーガブの新たな世論調査は、暫定的で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249376.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/630effb5ba09ed74b16eb3f276c8bb92/t/768/512/d/gettyimages-2282262467.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249374.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T18:12:00+09:00</dc:date>
+        <title>北朝鮮、5000トン級の駆逐艦「崔賢」を就役　海軍増強を本格化</title>
+        <link>https://www.cnn.co.jp/world/35249374.html?ref=rss</link>
+        <description>北朝鮮は23日、国の歴史上最大規模の軍艦となる5000トン級の駆逐艦「崔賢（チェヒョン）」を就役させた。軍事アナリストの間では、北朝鮮の敵国が有事に考慮しなければならない要素はこれまで以上に増える可能性があるとの指摘が出ている。
+
+金正恩（キムジョンウン）総書記は西岸の南浦造船所で行った演説で、北朝鮮の軍事史における新たな章の始まりを画す出来事だと述べ、北朝鮮海軍は「70年を超える停滞に終止符を打った」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249374.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/8cd6e004c77a6f2481152d871c2161e6/t/768/508/d/ba17daa7c520d4470098ccb07bf-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35249373.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T17:54:00+09:00</dc:date>
+        <title>仲良く空の旅？、ハクトウワシの背に乗るハゴロモガラス　米写真家が19年に撮影</title>
+        <link>https://www.cnn.co.jp/fringe/35249373.html?ref=rss</link>
+        <description>アマチュア自然写真家のジェーソン・マッカ―ティーさんは2019年のその日、シャッターチャンスを求めて米ミネソタ州中部にある自宅の近くを歩き回っていた。すると、日頃信じている大自然とのつながりのおかげなのか、現実とは思えないほど魅力的な被写体に巡り合うことができた。
+
+それは自分の何倍も体の大きなハクトウワシの背に乗ってともに空を飛んでいくハゴロモガラスの姿だった。
+
+羽に赤い模様の入った小さなハゴロモガ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35249373.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/a5539a9890f83913974889d7345da40e/t/768/432/d/image__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35249348.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T17:12:00+09:00</dc:date>
+        <title>新たに発見されたクモ、「死の罠」で獲物捕らえる様子を初めて撮影　豪州</title>
+        <link>https://www.cnn.co.jp/fringe/35249348.html?ref=rss</link>
+        <description>糸を紡ぐクモのほとんどは獲物を捕らえる際、網を張って獲物がうっかり引っかかるのを待つ。しかしオーストラリアで新たに発見された種は、その糸で円錐（えんすい）形の「死の罠（わな）」を作り、獲物をおびき寄せる。罠を餌と思ったツムギアリがこれに噛（か）みつくと、罠から伸びる糸が上方へ縮んでアリを罠ごとクモ本体の主網へと引き上げる仕組みだ。クモが糸の伸縮を利用してこのような離れ業をやってのける様子は、こ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35249348.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/46834690563116a382b39b5a99cf4bf9/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXFwbXFvOGgwMDBqMjdwYTg2ejQ1ZGEz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcXBtcW84aDAwMHkyN3BhZTV0MDNiZTY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249350.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T13:51:00+09:00</dc:date>
+        <title>対イラン戦争権限を制限する上院の決議、「間が悪く無意味」　トランプ氏が言及</title>
+        <link>https://www.cnn.co.jp/usa/35249350.html?ref=rss</link>
+        <description>トランプ米大統領は23日夜、自身の対イラン戦争権限を制限するための上院の採決に触れ、「間が悪く無意味だ」との認識を示した。
+
+SNSトゥルース・ソーシャルへの投稿で述べた。上院は決議案の可決により「敵に支援と便宜を与えた」とも付け加えた。
+
+決議はトランプ氏に対し、イランとの紛争から軍を撤退させるよう求める内容。トランプ氏への重大な非難であり、この戦争が議会内で支持を得ていないという強力なメッセージとな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249350.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/8ce679596eaad8da81dd3a84c9ff6d1a/t/768/512/d/gettyimages-2282478642__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35249335.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T12:46:00+09:00</dc:date>
+        <title>北中米W杯、給水タイムに響くブーイング　スタジアムDJは定番曲のカラオケで対抗</title>
+        <link>https://www.cnn.co.jp/showbiz/35249335.html?ref=rss</link>
+        <description>サッカーのワールドカップ（W杯）北中米大会が開催されている各地のスタジアムでは、試合とは別の形で激しい戦いが繰り広げられている。
+
+戦いの舞台は給水タイム、使用する武器はカラオケだ。
+
+試合の前後半それぞれの途中に設けられる2回の給水タイム（そして広告の時間）に対して観客が発するブーイングは、日程が進むごとにその音量を増している。観客は、給水タイムの導入により国際サッカー連盟（FIFA）がサッカーを事実...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35249335.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/f1cd3b1a2ffce1257d34a0576e5dbf5f/t/768/478/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXFwbW9iNmYwMDA2M2I2cmtqeGMwazht-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcXBsZXIwcDAwMHkyOXFpYTYwajVueTE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249341.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T12:11:00+09:00</dc:date>
+        <title>ビル・ゲイツ氏、エプスタイン氏の性犯罪目撃は否定　被害者と同じ場にいた可能性は認める</title>
+        <link>https://www.cnn.co.jp/usa/35249341.html?ref=rss</link>
+        <description>米マイクロソフトの創業者ビル・ゲイツ氏は、性犯罪で起訴され勾留中に死亡した米富豪ジェフリー・エプスタイン氏の被害者と関わったことはないと証言する一方で被害者と同じ場にいた可能性は認めた。米下院監視委員会が23日に公開した非公開の聴取記録で明らかになった。
+
+任意の聞き取りは今月10日に連邦議会議事堂で行われた。ゲイツ氏はその中で、エプスタイン氏との3年間におよぶ関係はあくまで仕事上のものであり、いかな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249341.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/3b10cccee32004372a1528fb4ac8afe7/t/768/512/d/gettyimages-2280287763.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35249339.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T11:32:00+09:00</dc:date>
+        <title>米政府、W杯イラン代表に対する姿勢やや軟化　試合当日の出国は引き続き要請</title>
+        <link>https://www.cnn.co.jp/showbiz/35249339.html?ref=rss</link>
+        <description>サッカー・ワールドカップ（W杯）北中米大会に出場するイラン代表チームの入国について、米政府が姿勢をやや軟化させている。米国土安全保障省は、26日にエジプトと対戦する試合の2日前に、イラン代表チームが入国することを認めたと明らかにした。
+
+国土安全保障省の広報は、「イラン代表チームは6月26日にシアトルで行われる第3戦に向け、試合2日前の米入国を許可された」とCNNに語った。
+
+一方で「イラン代表チームは引き続...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35249339.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/810d98e2b12a754df2fe95859dac038c/t/768/511/d/ap26167069202082.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249318.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T10:57:00+09:00</dc:date>
+        <title>毒性持つ毛虫が大量発生、被害樹木からの巣の除去に追われる当局　ドイツ</title>
+        <link>https://www.cnn.co.jp/world/35249318.html?ref=rss</link>
+        <description>ドイツ全土の当局は、有毒な毛虫が大量発生する深刻な事態への対応に追われている。この毛虫は重篤な健康被害を引き起こす可能性があり、首都ベルリンを含む各地で公園やその他の屋外施設が閉鎖を余儀なくされている。
+
+当該のギョウレツケムシの体表は、有毒物質を含む微細なとげ状の毛で覆われている。この毛が人に触れると発疹、結膜炎、呼吸困難を引き起こす可能性がある。有毒な毛は簡単に抜け落ち、風によって遠くまで運...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249318.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/edc9892cc014ee287b4283254fc0a12c/t/768/512/d/gettyimages-2280560608.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35249329.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T10:43:00+09:00</dc:date>
+        <title>記録的な酷暑が続く欧州、エアコン普及率が低すぎる理由は？</title>
+        <link>https://www.cnn.co.jp/fringe/35249329.html?ref=rss</link>
+        <description>過酷な熱波到来の頻度が高まっている欧州。記録的な猛暑が続く中で、逃げ場はほとんどない。エアコンのある家は極めて少なく、住民は扇風機や保冷剤、冷たいシャワーなどで暑さをしのぐ。
+
+住宅のエアコン普及率は、米国の90％に対し、欧州はわずか20％程度にとどまる。
+
+気候変動の影響で熱波は過酷化、長期化が進み、到来時期も早まっている。熱中症による死者も増える中、豊かな欧州諸国がエアコンの導入に対して消極的に見...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35249329.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/69f7f4c142878596174811024fda5e91/t/768/432/d/gettyimages-2277821273.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249325.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T10:20:00+09:00</dc:date>
+        <title>IAEA、イラン原発の査察を実施　昨年の米イスラエル攻撃で損傷した施設は立ち入れず</title>
+        <link>https://www.cnn.co.jp/world/35249325.html?ref=rss</link>
+        <description>国際原子力機関（IAEA）は今月上旬、イラン南部で稼働中のブシェール原発の定期査察を実施した。しかし2025年に行われた米・イスラエルによるイランへの攻撃で損傷を受けた核施設については、約1年間立ち入りできていない。
+
+そのため、IAEAはイランによるウラン濃縮がすべて停止されていることを確認できていないと述べた。
+
+同機関のグロッシ事務局長は、「したがってIAEAは現時点でブシェール原発を除き、核不拡散条約（NPT...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249325.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/26944fdb3618036191fb74576bf8b7d8/t/768/512/d/gettyimages-2150706184.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249321.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T09:48:00+09:00</dc:date>
+        <title>トランプ氏の対イラン戦争権限を制限する決議案、上院が可決　共和党から4人造反</title>
+        <link>https://www.cnn.co.jp/usa/35249321.html?ref=rss</link>
+        <description>米上院は23日、トランプ大統領にイランとの紛争から軍を撤収させるよう求める決議案を可決した。トランプ氏に対する重大な非難であり、この戦争が議会内で支持を得ていないという強力なメッセージとなった。
+
+民主党はトランプ氏の戦争権限を制限するため、上下両院で繰り返し採決に踏み切ってきた。このところ共和党内で徐々に支持が広がりつつあり、トランプ氏の怒りを買っている。
+
+共和党のランド・ポール、スーザン・コリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249321.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/b949ecabf5bfc896bff8a0ad7a94bc5f/t/768/511/d/2026-06-18t132850z-1218256325-rc2dwlavuhdy-rtrmadp-3-usa-congress.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249306.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-24T08:40:00+09:00</dc:date>
+        <title>トランプ氏、イランが核査察の受け入れに同意と主張　イラン側の否定は「間違い」</title>
+        <link>https://www.cnn.co.jp/usa/35249306.html?ref=rss</link>
+        <description>トランプ米大統領は23日、国際原子力機関（IAEA）の査察官によるイラン訪問の予定は決まっていないとの主張を一蹴し、イラン政府はすでにこの取り決めに同意したと強調した。
+
+トランプ氏はペンシルベニア州に到着した際、IAEA査察官による訪問の予定はないとするイラン当局者の発言や、米イラン間の合意に査察が盛り込まれているかどうかについて記者団から聞かれ、「イランは間違っている。彼らは自分たちが間違っていること...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249306.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/24/4934af3b7eb8627f87e0349e3a6240bc/t/768/512/d/2026-06-23t173126z-961287327-rc2tzlaljv27-rtrmadp-3-usa-trump__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249296.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-23T20:00:00+09:00</dc:date>
+        <title>イランで撃墜された米F15パイロット、「クラゲ」型の編隊組むドローン目撃したと報告　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35249296.html?ref=rss</link>
+        <description>今年4月にイラン上空で撃墜され、特殊部隊によって救出された米軍戦闘機パイロットが、脱出する直前に衝撃的な光景を目撃したと語っていることが分かった。事情に詳しい4人の関係者が明らかにした。それによると、当時空中には複数のイラン製ドローン（無人機）が浮遊していた。一体となって移動するその編隊は、クラゲのような形をしていたという。
+
+これまで報じられていなかったこの証言は、当該の事案発生後の事情聴取でF15...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249296.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/23/75ad0a59777d5c829903c6148bba5d1e/t/768/576/d/c-hfigtftbgaa04f5.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35249293.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-23T18:15:00+09:00</dc:date>
+        <title>インスタントラーメン、「体に悪い」と言われても世界中で愛され続ける理由</title>
+        <link>https://www.cnn.co.jp/travel/35249293.html?ref=rss</link>
+        <description>健康志向のパートナーが、出張で留守になった夜の食事。人気アニメ「KPOPガールズ！ デーモン・ハンターズ」に登場する、主人公たちの大好物。ある時は疲れて帰宅したシェフたちの空腹を満たし、またある時は恋人に婚約指輪を買うための倹約生活を支える。
+
+世界中の人々にとって、インスタントラーメン（即席麺）ほどユニークな食べ物はあまりない。一方ではごほうびのジャンクフードとして、また一方では頼りになる主食として...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35249293.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/23/86208a085b3e78c75efafbf024991092/t/768/512/d/260612-sv-travel-instant-ramen-noodles-dsc01247.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35249285.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-23T17:34:00+09:00</dc:date>
+        <title>北中米W杯、選手のスパイクがピンクだらけなのはなぜ？</title>
+        <link>https://www.cnn.co.jp/showbiz/35249285.html?ref=rss</link>
+        <description>7月19日、サッカー・ワールドカップ（W杯）北中米大会の決勝戦が米ニュージャージー州にあるメットライフ・スタジアムで行われた後、栄光のトロフィーが優勝チームの主将に手渡される。その少し前には、大会得点王を獲得した選手に対し、もう一つの栄誉である「ゴールデンブーツ賞」が贈られる。
+
+ただしここまでの状況を見る限り、今回のブーツの色は黄金ではなくピンクとする方が妥当なようだ。
+
+この夏、米国、カナダ、メキ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35249285.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/23/9823c931c713ccd65dff22e073e1c0da/t/768/513/d/gettyimages-2281757404.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35249281.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-23T16:19:00+09:00</dc:date>
+        <title>いろいろありすぎるiPad、結局どれを買ったらいい？　テストの結果からおすすめ4モデルを解説</title>
+        <link>https://www.cnn.co.jp/tech/35249281.html?ref=rss</link>
+        <description>最高の「iPad」について語るのは、捨て曲のないアルバムでトップソングを議論するようなものだ。誰もが一理ある。アップルは最高のタブレットをいくつも作っているので、選んだものが買えるなら、その判断におそらくは満足するだろう。とはいえ、トップクラスのiPadについて語るとき、筆者は「やりすぎ」という言葉を何度も使ってきたので、今が究極のアップル製タブレット購入ガイドを書くのにちょうどいい頃合いだと思った。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35249281.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/23/079ac44d634b2d72042e0d1710fade5e/t/768/432/d/best-tested-12.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35249269.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-23T14:13:00+09:00</dc:date>
+        <title>メッシ、W杯最多得点記録を更新　オーストリアから2点挙げチームも連勝</title>
+        <link>https://www.cnn.co.jp/showbiz/35249269.html?ref=rss</link>
+        <description>サッカーのワールドカップ（W杯）北中米大会で、アルゼンチン代表のリオネル・メッシは22日にさらなる歴史を作った。W杯の歴代最多得点者として、ドイツのミロスラフ・クローゼを抜き、単独トップに躍り出たのだ。
+
+グループJのオーストリア戦、24日で39歳になるメッシは、試合開始8分のPKで枠を捉えられず、上記の記録更新のチャンスを一度逃した。しかしその30分後、ペナルティーエリア外からの強烈なシュートで得点。PKでの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35249269.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/23/79d533a0a0e52a7712171b95c173f6d6/t/768/501/d/gettyimages-2282792109.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249259.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-23T12:45:00+09:00</dc:date>
+        <title>行方不明になった米TV司会者の母親、死亡を伝えるメモが報道機関に届く</title>
+        <link>https://www.cnn.co.jp/usa/35249259.html?ref=rss</link>
+        <description>米テレビ番組司会者の母親ナンシー・ガスリーさんが行方不明になっている事件に関連して、ガスリーさんが死亡したという内容のメモが複数の報道機関に送り付けられた。捜査状況に詳しい関係者がCNNに明らかにした。
+
+これに先立つ1通目のメモでは、数百万ドルの身代金を要求していたという。捜査当局は、ガスリーさんを誘拐した犯人からの要求だったと見ている。2通目のメモには、自分たちに殺害の意図はなかったが、ガスリーさ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249259.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/23/82896b71040be7cb7846dd49c6d3b8a1/t/768/570/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXFwczBoNGMwMDBvM2I2NmJ6MmVrOWV0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcXBycnl2dDAwMXgyN3BhY3owYjdvM2Y_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249265.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-23T12:00:00+09:00</dc:date>
+        <title>フランス、猛暑により公共の場での飲酒を制限　欧州に2カ月で2度目のヒートドーム現象</title>
+        <link>https://www.cnn.co.jp/world/35249265.html?ref=rss</link>
+        <description>欧州で2カ月のうちに2度目となるヒートドーム現象が発生し、うだるような暑さに見舞われている。気温は40度を上回り、大陸の広範囲が危険な状況となっている。フランスは公共の場での飲酒を禁止し、スペインはワールドカップ（W杯）観戦を楽しむファンゾーンを閉鎖。英国では6月気温の最高記録を更新するとみられている。
+
+22日にはアイルランドからギリシャにいたる26カ国が猛暑警報を発令した。2カ月で2度目となるこの厳しい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249265.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/23/379c91a9739ca06a145eb8eb1c32e43c/t/768/512/d/2026-06-20t165253z-653600370-rc2sxlaylzsx-rtrmadp-3-europe-weather-france-heat.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35249256.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-23T11:21:00+09:00</dc:date>
+        <title>アラン・グリーンスパン元FRB議長、100歳で死去</title>
+        <link>https://www.cnn.co.jp/business/35249256.html?ref=rss</link>
+        <description>かつて好景気を牽引（けんいん）する名指揮者と称賛された一方、退任後に起きた住宅バブル崩壊と金融危機の責任の一端を負わされた米連邦準備制度理事会（FRB）のアラン・グリーンスパン元議長が死去した。妻のアンドレア・ミッチェル氏が明らかにした。100歳だった。
+
+グリーンスパン氏は、1987年にロナルド・レーガン大統領の指名を受けてFRB議長に就任し、その後4人の大統領の下で5期を務めた。ジョージ・W・ブッシュ大統領...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35249256.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/23/bda5674a60ffe5f27daf2e6a63bc349c/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXFwNGgzMGQwMDBiM2I2cnY5ZjhtaGdl-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcXA0N2MwNDAwM3YyZG5wOGQ0eWVjbGE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249251.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-23T10:28:00+09:00</dc:date>
+        <title>警察を待ち伏せて銃撃か　警官など2人を殺害、容疑者も死亡　カナダ</title>
+        <link>https://www.cnn.co.jp/world/35249251.html?ref=rss</link>
+        <description>カナダのケベック州モントリオールで警察を狙ったと思われる銃撃事件があり、モントリオール警察の警官1人を含む2人が死亡した。容疑者も警察との銃撃戦で死亡した。
+
+事件は現地時間の22日、モントリオールで最も人口の多いコートデネージュ地区で発生した。
+
+モントリオール警察の発表によると、死亡した警官とは別に、女性警官1人も重体となって病院に搬送されたが、現在の容体は安定しているという。市民1人も軽傷を負った...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249251.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/23/e4fef4cb38d3ee35c7096f62407db7ca/t/768/512/d/c-gettyimages-2282283350.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249249.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-23T09:54:00+09:00</dc:date>
+        <title>イランの核兵器保有阻止、経済恐慌のリスクよりも「優先」　トランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35249249.html?ref=rss</link>
+        <description>トランプ米大統領は22日、イランが核兵器を保有するのを防ぐことは長期的な軍事行動が経済にもたらす影響を懸念することよりも重要だとの認識を示した。そうした影響には世界恐慌のリスクも含まれるとした。
+
+イランが合意を守らなかった場合には世界的な恐慌を招くリスクを負ってでも同国を攻撃する方針なのかどうか問われたトランプ氏は、記者団に対し、「まあ、私のやり方ではそうならない。恐慌にはならないだろう」と答え...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249249.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/23/fb41e9574a717853dd24f027abb3a0dc/t/768/512/d/gettyimages-2282812744.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249252.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-23T09:49:00+09:00</dc:date>
+        <title>バンス米副大統領とイラン、核査察受け入れめぐり見解に相違</title>
+        <link>https://www.cnn.co.jp/world/35249252.html?ref=rss</link>
+        <description>米国のバンス副大統領は22日、イランとの恒久的な戦闘終結の模索に重点を置いた協議を終え、スイスを離れた。21日に行われた米国とイランの協議については「非常に良い1日」だったと総括している。
+
+出発に先立ちバンス氏は、イランが核査察官の受け入れに合意したとし、これをイランの「恒久的な非核化」に向けた「第一歩」と評した。一方のイランは査察をめぐる新たな約束はしていないとし、国営イラン通信（IRNA）は、18時間...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249247.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-23T08:42:00+09:00</dc:date>
+        <title>スターマー英首相が辞任表明、後任は前マンチェスター市長が有力</title>
+        <link>https://www.cnn.co.jp/world/35249247.html?ref=rss</link>
+        <description>英国のスターマー首相が22日、辞任を表明した。
+
+数カ月にわたり政治的混乱が続く中、与党・労働党内の議員から辞任を求める圧力が強まっていた。
+
+スターマー氏は首相官邸前で会見し、経済を「より強固」にしたことや、英国の国民保健サービス（NHS）の診療待ち時間を短縮したことなど、首相としての実績を挙げた。その上で、労働党内から「次期総選挙に向けて、自身が党を率いるのに最もふさわしい人物なのか」との疑問が生じ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249247.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/23/a9bddf2340c3a9deab8a3084c51eb109/t/768/512/d/2026-06-22t101218z-1834604927-rc2yylaoyarq-rtrmadp-3-britain-politics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249242.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-22T19:07:00+09:00</dc:date>
+        <title>日本に蔓延する盗撮犯罪、子どもが加害者のケースが急増</title>
+        <link>https://www.cnn.co.jp/world/35249242.html?ref=rss</link>
+        <description>アヤカさんが初めて盗撮されたのは6歳のときだった。
+
+スイミングスクールの指導者は10年以上にわたって子どもを標的にしてきた男で、アヤカさんの陰部の写真や動画を盗み撮りした。男は映像をテレグラムの小児性愛者グループで共有。グループの連中は男を「神」と呼ぶほどに喜んでいた。
+
+  
+    
+      
+    
+    
+盗撮の現行犯で捕まえる様子@super_dominator riki
+  
+
+アヤカさんの父親であるスズキさん（ふたりの名前はプ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249242.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/22/b72c5846539a2a688f6aa6aa7341550d/t/768/432/d/upskirter-offender-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249238.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-22T16:29:00+09:00</dc:date>
+        <title>テスラ車が住宅に突っ込む、家の中にいた女性が死亡　米テキサス州</title>
+        <link>https://www.cnn.co.jp/usa/35249238.html?ref=rss</link>
+        <description>米テキサス州で19日、電気自動車（EV）メーカー、テスラの車が住宅に突っ込み、家の中にいた女性（76）が死亡した。警察が明らかにした。
+
+近所の住宅の監視カメラによると、テスラ車が猛スピードで駆け抜けたあと、周囲に大きな音が鳴り響いた。
+
+
+
+
+
+家の中にいた女性は病院に搬送されたが、この事故で負ったけがにより死亡した。
+
+ハリス郡の保安官事務所によると、運転していた男性は衝突した当時、自動運転支援システムで...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249238.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/22/27cc80af71de647581465bc0eab0f038/t/243/432/d/oardefault.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
