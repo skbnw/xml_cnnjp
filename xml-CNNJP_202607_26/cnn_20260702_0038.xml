@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-07-02T08:56:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249878.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249877.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35249871.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249863.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35249858.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35249859.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249840.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35249826.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249830.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249831.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35249818.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249801.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249814.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249800.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35249792.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35249786.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249790.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35249776.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249775.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35249766.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249773.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35249764.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249765.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249759.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249760.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249757.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249709.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35249650.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249605.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249578.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249878.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-02T08:56:00+09:00</dc:date>
+        <title>トランプ氏、復帰1年目に暗号資産事業で10億ドル超の収入</title>
+        <link>https://www.cnn.co.jp/usa/35249878.html?ref=rss</link>
+        <description>トランプ米大統領は昨年、暗号資産（仮想通貨）の保有、ロイヤルティー収入、不動産投資などを通じて数十億ドルを得ていたことが、6月30日に公開された最新の年次資産報告書で明らかになった。
+
+報告書によると、トランプ氏は、息子のエリック・トランプ氏とドナルド・トランプ・ジュニア氏が一部経営に関与する企業「ワールド・リバティー・ファイナンシャル」に関連する暗号資産トークンの販売で、5億2600万ドル（約855億円）...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249878.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/02/0da4948a4bd46f7985757726e5166730/t/768/512/d/gettyimages-2275692320-20260630221545796.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249877.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-02T08:31:00+09:00</dc:date>
+        <title>バンス副大統領、ドーハでの協議は「順調」と発言</title>
+        <link>https://www.cnn.co.jp/usa/35249877.html?ref=rss</link>
+        <description>バンス米副大統領は1日、カタールの首都ドーハでの協議は「順調に進んでいる」と述べ、核問題をめぐる協議が近く始まるとの見通しを示した。
+
+バンス氏は、バージニア州で米軍関係者に向けて演説した後、CNNのアダム・カンクリン記者に対し、「まだかなり初期の段階だが、協議は順調だ」と語った。
+
+また、「現在、技術交渉担当者らがドーハでイラン側、カタール側、その他の関係者と着席し、詳細の一部について協議している」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249877.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/02/7e4b0b46e4b42860901e04c09f5a785e/t/768/512/d/gettyimages-2283606462__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35249871.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-01T20:15:00+09:00</dc:date>
+        <title>「私は生ける彫像」、コンゴ代表随一の名物ファンが受け継ぐ初代首相の遺志　北中米W杯</title>
+        <link>https://www.cnn.co.jp/showbiz/35249871.html?ref=rss</link>
+        <description>サッカーのワールドカップ（W杯）北中米大会を戦うコンゴ代表は、鮮やかなスカイブルーのユニホームを身にまとう選手たちだけでなく、「非公式の12人目の選手」でも注目を集めている。その人物とは、ミシェル・ンクカ（クカ）・ムボラディンガさん。本名よりも、愛称の「ルムンバ・ベア」の方が通りがいい。
+
+ムボラディンガさんはコンゴ代表の最も有名なサポーターであり、2025年にモロッコで開催されたアフリカ・ネーションズ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35249871.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/01/cb207e8608742d765b054f829ed701f3/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXFzMWY2djkwMDAwM2I2cjg3eWl6aWUy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcXFwa29scjAwMXoyOG56MnBsYjRyZTg_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249863.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-01T18:08:00+09:00</dc:date>
+        <title>ロシアでの高給を約束された多数のペルー人、たどり着いた先はウクライナの前線</title>
+        <link>https://www.cnn.co.jp/world/35249863.html?ref=rss</link>
+        <description>ノルマさんが最後に息子（31）の姿を見たのは1月末、ペルーの首都リマの空港で見送った時だ。息子はSNSの求人広告で、ロシア軍のコックとして働く仕事を見つけたと話していた。ウクライナの戦場からは遠く離れた勤務地で、給料も高く、ロシア市民権を獲得できる可能性もあるという。
+
+ノルマさんはこれを聞いた途端に怪しいと感じた。息子は国外へ出たことも、武器を手にしたこともなかった。（2人を報復から守るためにフルネー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249863.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/01/ab3793b0f19e2e211a9ebc158086c99b/t/768/512/d/gettyimages-2274493519a-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35249858.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-01T15:21:00+09:00</dc:date>
+        <title>サッカーW杯で活躍のスター選手、バーキンでも注目の的に</title>
+        <link>https://www.cnn.co.jp/style/fashion/35249858.html?ref=rss</link>
+        <description>ノルウェーのストライカー、アーリング・ハーランド氏は注目されることに慣れっこだ。195センチの高身長と肩まで伸びたブロンドの髪はバイキングの血筋を強く想起させる。世界最高クラスのサッカー選手でもあり、ノルウェー男子代表を約30年ぶりとなるFIFAワールドカップ（W杯）出場に導いた。だが数週間前、スタイリストでティックトッカーのジャック・サボワ氏はハーランド氏にまつわる別のものを取り上げた。エルメスのバッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35249858.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/01/b68886952e423fc6ccbf8fb31dd8d264/t/768/512/d/gettyimages-2265994566.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35249859.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-01T15:19:00+09:00</dc:date>
+        <title>世界の6月の海面水温、過去最高を更新　「未踏の領域」へ突入する恐れ</title>
+        <link>https://www.cnn.co.jp/fringe/35249859.html?ref=rss</link>
+        <description>地球の海水温が1年のこの時期としては前例のない水準に達している。新たなデータによると、6月は過去最高記録を更新しており、世界の気象や海洋生物に憂慮すべき影響がありそうだ。
+
+人工衛星や船舶、ブイからの測定値を組み合わせた欧州の「コペルニクス気候変動サービス」のデータによると、6月21日の世界の平均海面水温は20.86度に達し、2024年に記録した従来の6月の最高記録をわずかに上回った。
+
+この記録は別のデータセッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35249859.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/01/e314e09c22f3f88cf383803a0d96e2a5/t/768/511/d/gettyimages-2282113559.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249840.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-01T13:29:00+09:00</dc:date>
+        <title>衛星画像で見るベネズエラ大地震の爪痕、建物約5万9000棟に甚大な被害</title>
+        <link>https://www.cnn.co.jp/world/35249840.html?ref=rss</link>
+        <description>6月24日にベネズエラを襲った2度の大地震。ホルヘ・ロドリゲス国会議長は30日、1900人以上の死亡が確認され、負傷者は10000人を超えると明らかにした。
+
+CNNは地図と衛星画像を使って被害状況を視覚化した。
+
+衛星画像を分析したオレゴン州立大学の推定によると、この地震では約5万9000棟の建物が損壊または倒壊した。首都カラカスの北のラグアイラ州は災害地域に指定されている。
+
+グアイラ州では建物の29％に被害が出たと推定...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35249826.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-01T12:09:00+09:00</dc:date>
+        <title>アンソロピックの最先端AIモデル、米国政府が輸出規制を解除</title>
+        <link>https://www.cnn.co.jp/tech/35249826.html?ref=rss</link>
+        <description>米国政府が米人工知能（AI）企業アンソロピックの手掛ける最先端AIモデルに対する輸出規制を解除した。同社が6月30日夜に発表した。
+
+「商務省がクロード・ フェイブル5およびミュトス5に対する輸出規制を解除したとの通知を受け取った」と、アンソロピックは声明で述べた。「明日からアクセスの復旧を開始し、近日中に最新情報を知らせる」としている。
+
+この声明は、ハワード・ラトニック商務長官が問題となっているアンソロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35249826.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/01/12b1a58551b8cd1c1dd61baf484b770e/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXIxYWo5b3owMDAyMzU2cnV5cXRnOG9i-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcjFhaXpxcTAwMHkyN295Y3VubmdrdWU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249830.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-01T11:16:00+09:00</dc:date>
+        <title>米市民権の「出生地主義」を終わらせるトランプ氏の試み、最高裁が違憲判断</title>
+        <link>https://www.cnn.co.jp/usa/35249830.html?ref=rss</link>
+        <description>米連邦最高裁は6月30日、100年あまり解釈が定着してきた「出生地主義（出生地に基づく市民権の付与）」を終わらせようとするトランプ大統領の試みを退け、トランプ氏の看板政策となっていた大統領令について無効との判断を示した。ただ、この大統領令は当初から法的に疑わしいものだった。
+
+今回の判断はトランプ氏にとって大きな敗北になる。トランプ氏は「バースツーリズム（出産旅行）」の根絶を公約の一つに掲げて当選し、...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249831.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-01T11:14:00+09:00</dc:date>
+        <title>モナコの住宅で爆発、「暗殺未遂」でウクライナ出身の富豪が負傷</title>
+        <link>https://www.cnn.co.jp/world/35249831.html?ref=rss</link>
+        <description>モナコの集合住宅で先月29日、小包爆弾が爆発し、3人が負傷した。当局が明らかにした。ウクライナ出身の実業家を狙った暗殺未遂を受け、モナコとフランス全域で大規模な捜索が行われている。
+
+CNNのフランス提携局BFMTVは、爆発の標的は実業家のバディム・イエルモライエフ氏（58）だったと報じた。イエルモライエフ氏は祖国を離れ、2019年にウクライナ国籍を放棄している。
+
+地元当局は被害者の身元を公表せず、少なくとも21年...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249831.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/01/adeb77b99f562495425863cf9cb16b5f/t/768/511/d/gettyimages-2283460794.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35249818.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-01T10:49:00+09:00</dc:date>
+        <title>テイラー・スウィフトとトラビス・ケルシー、3日にNYで挙式　周辺道路は封鎖</title>
+        <link>https://www.cnn.co.jp/showbiz/35249818.html?ref=rss</link>
+        <description>米歌手テイラー・スウィフトさんと米プロフットボールNFLのスター選手トラビス・ケルシーさんが、ニューヨーク・マンハッタンのマディソン・スクエア・ガーデン（MSG）で今週、結婚式を挙げる見通しだ。関係者が6月30日、CNNに明らかにした。
+
+関係者によると、現地時間の7月2日午後6時から始まる「リハーサル」には招待客約100人が出席する見通し。
+
+結婚式は3日に予定され、夕方から「カクテルパーティー」が始まる。披露宴は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35249818.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/01/145a407f777dfbb9820c13c8da1b1047/t/768/512/d/gettyimages-2268530963.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249801.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-01T09:56:00+09:00</dc:date>
+        <title>機内で客室ドアを開けようとする乗客、リージョナル機が緊急着陸　米</title>
+        <link>https://www.cnn.co.jp/usa/35249801.html?ref=rss</link>
+        <description>6月30日に乗客1人が機内のドアを開けようとしたためリージョナルジェット機が緊急着陸した事案を受け、連邦航空局（FAA）が調査を行っている。
+
+ 航空機追跡サイト「フライトアウェア」によると、メサ航空が運航するユナイテッド航空3989便は、離陸からわずか15分後に米インディアナ州インディアナポリスへ引き返し、着陸した。同便はテキサス州ヒューストンへ向かっていた。
+
+同便のパイロットは「機内のドアを開けようとする...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249801.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/01/c2489400c1fa90b50610fbd31d52ac54/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXIxNHdrOWcwMDA0M2I2cjR3aXk1c2p0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcjE0dzMzdTAwNG8yNm50Nmp6aGVvdm4_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249814.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-01T09:43:00+09:00</dc:date>
+        <title>米フロリダ州でワニの人身被害相次ぐ、川で遊泳の31歳女性が死亡</title>
+        <link>https://www.cnn.co.jp/usa/35249814.html?ref=rss</link>
+        <description>米フロリダ州中部でワニによる人身被害が相次ぎ、31歳の女性が命を落とした。
+
+フロリダ魚類野生生物保護委員会（FWC）によると、ワニによる人身被害は依然として比較的まれだが、直近では過去7日間で3人が襲われた。
+
+6月28日午後にはオーランド北郊で遊泳のため友人らと川に立ち寄った女性が襲われた。一緒にいた交際相手の男性は、ワニの口から女性を引き離そうとしたという。
+
+救急通報した人は、女性が「凄惨（せいさん）...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249814.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/01/087102eea4805d07045b2bb4865aade3/t/768/512/d/gettyimages-2223997625.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249800.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-01T09:09:00+09:00</dc:date>
+        <title>ウクライナ、モスクワ一帯に大規模ドローン攻撃　衛星通信センターに被害か、乳児死亡　</title>
+        <link>https://www.cnn.co.jp/world/35249800.html?ref=rss</link>
+        <description>ウクライナは6月30日、ロシア最大級の衛星通信センターを攻撃したと明らかにした。この施設への攻撃は1週間あまりで2度目。ウクライナは4年続く戦争の終結に向けロシアに圧力をかけるため、長距離ドローン（無人機）攻撃を強化している。
+
+攻撃を受けたのはウクライナ国境から約500キロのモスクワ北郊に位置するドゥブナ衛星通信センター。ウクライナのゼレンスキー大統領はこの施設について、情報収集やウクライナで戦うロシア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249800.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/01/7b81238a4ed4f31bc9378b50362e07a4/t/768/432/d/2026-06-30t074539z-993338725-rc274mah1s0y-rtrmadp-3-ukraine-crisis-russia-drones-20260630114006024.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35249792.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-30T19:20:00+09:00</dc:date>
+        <title>アルゼンチン人サッカー選手、ベネズエラ地震で妻と2人の子どもを失う</title>
+        <link>https://www.cnn.co.jp/showbiz/35249792.html?ref=rss</link>
+        <description>サッカー・ベネズエラ2部リーグのチームに所属するアルゼンチン人選手が、先週ベネズエラで発生した地震により妻と2人の子どもを亡くした。同国でこれほどの規模の地震が起きるのは1世紀以上ぶりのことだった。
+
+CSマリティモ・デ・ラグアイラでプレーするルーカス・トレホ選手は、この3日間の大半を地震の後の瓦礫（がれき）をかき分けながら過ごした。妻のヤニナさんと2人の子どもたちの姿を見つけるためだ。
+
+トレホ選手の義...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35249792.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/30/91d8d08b2b482ddb0f15dc6897aac26a/t/768/621/d/screenshot-2026-06-28-at-1-29-16-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35249786.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-30T18:41:00+09:00</dc:date>
+        <title>ウィンブルドン初戦の大坂なおみ、真っ白な着物で観客魅了　お気に入りの映画から着想</title>
+        <link>https://www.cnn.co.jp/showbiz/35249786.html?ref=rss</link>
+        <description>テニスの4大大会（グランドスラム）で4勝を誇る大坂なおみ選手は29日、ウィンブルドン選手権初戦で真っ白な着物を身にまとって登場し、ファンを魅了した。その衣装は自身のお気に入りの映画の一つ「キル・ビル」から一部着想を得たものだという。
+
+
+
+
+
+
+
+大坂はコートサイドの記者団に対し、「（『キル・ビル』の劇中で）ルーシー・リューの演じたキャラクターと、その真っ白な着物に完全に恋をしてしまった」と振り返った。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35249786.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/30/0ff35d32a54869908a5deeea3fb68db4/t/768/443/d/naomi-osaka-kimono.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249790.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-30T17:46:00+09:00</dc:date>
+        <title>【分析】炎上するロシア、それでもプーチン氏が屈すると期待してはいけない理由</title>
+        <link>https://www.cnn.co.jp/world/35249790.html?ref=rss</link>
+        <description>ロシア全土が深刻なガソリン不足に見舞われるなか、首都モスクワの街頭では乗用車やトラックの運転手たちが長い列を作り、不機嫌ながらも辛抱強く順番を待っている。CNNが聞いたところでは、多くの人が燃料を探して一日中走り回ったという。世界有数のエネルギー生産国の首都としては異例で、ウクライナ戦争の影響とは無縁だった都市には想定外の状況だ。
+
+しかし紛争が5年目に突入した今になって初めて、ロシア国民はクレムリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249790.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/30/1116d86a3e454003ead677706e8a7aa6/t/768/564/d/gettyimages-2281563924.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35249776.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-30T15:23:00+09:00</dc:date>
+        <title>40万年前の遺物を洞窟で発見、現生人類以前の「複雑で豊かな」社会の存在示す　イスラエル</title>
+        <link>https://www.cnn.co.jp/fringe/35249776.html?ref=rss</link>
+        <description>イスラエルで考古学者たちが、ネアンデルタール人以前の人類に近い生物が使用していた洞窟を発見した。彼らは最大で約40万年前に現地で暮らしていたとみられる。この時代についてはほとんど知見がなく、当該の洞窟は科学者が調査できる数少ない遺跡の一つとなる。
+
+洞窟はイスラエル北部のフレイディスという町の郊外に位置しており、建設工事の影響を受ける予定だったことから、考古学者たちが調査を行うことになった。
+
+1970...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35249776.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/30/e724b61251b98feab092320a268d9f97/t/768/576/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXF0OWdhYjUwMDAxMzU2cnczNjg1anpz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcXQ5Znp2eDAwNjcyN3AxN2lkNTl6OXY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249775.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-30T12:28:00+09:00</dc:date>
+        <title>がん克服のキャサリン妃、英3大高峰を24時間で制覇　専門病院の活動を支援</title>
+        <link>https://www.cnn.co.jp/world/35249775.html?ref=rss</link>
+        <description>がん闘病を経験した英国のキャサリン皇太子妃（44）が、自身も治療を受けたがん専門病院の慈善活動を支援するため、英国の3大高峰を24時間で制覇するチャレンジを完遂した。
+
+キャサリン妃が挑んだのは、イングランドとスコットランド、ウェールズの3大高峰を24時間以内に制覇する「スリー・ピークス・チャレンジ」。ロンドン西部チェルシーにあるロイヤル・マースデン病院の慈善事業を支援する目的だった。
+
+「たくさんの人か...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249775.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/30/d84afca14b7592019c61be2cc421045d/t/768/432/d/thumbnail-kate-three-peaks-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35249766.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-30T12:14:00+09:00</dc:date>
+        <title>北中米W杯決勝トーナメント、パラグアイがPK戦でドイツ撃破　日本はブラジルに逆転許し敗退</title>
+        <link>https://www.cnn.co.jp/showbiz/35249766.html?ref=rss</link>
+        <description>サッカーの北中米W杯はグループステージを勝ち上がった32チームによる決勝トーナメントが行われ、パラグアイが4度の優勝を誇るドイツをPK戦の末に破る番狂わせを演じた。
+
+ラウンド32でPK戦にもつれ込んだ試合はこれが初めて。ドイツがW杯でPK戦の末に敗れるのも史上初めてとなる。
+
+パラグアイは前半で訪れたチャンスを確実にものにした。フリオ・エンシソがペナルティースポット付近から放ったヘディングシュートはマヌエル・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35249766.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/30/bd7c55c0464b6cb7d164ed35bec5d942/t/768/512/d/gettyimages-2283406539-20260629234319536.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249773.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-30T11:39:00+09:00</dc:date>
+        <title>米最高裁、トランプ氏の性的暴行めぐる上告却下　8億円の支払い義務が確定</title>
+        <link>https://www.cnn.co.jp/usa/35249773.html?ref=rss</link>
+        <description>トランプ米大統領が元雑誌コラムニスト、ジーン・キャロル氏に対する500万ドル（約8億円）の支払いを支持する評決と、性的暴行と名誉毀損（きそん）を認定した判断を不服として申し立てた上告をめぐり、米連邦最高裁は29日、この上告を却下し、審理を行わない判断を下した。この判断により、トランプ氏はキャロル氏に損害賠償を支払う義務を負うことになる。
+
+キャロル氏は2019年、名誉毀損でトランプ氏を提訴していた。その後...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249773.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/30/8824719851362f6714dc30811bb29c63/t/768/512/d/carroll-trump-split2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35249764.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-30T10:41:00+09:00</dc:date>
+        <title>夜空を彩る「ストロベリームーン」、夏の始まりの満月</title>
+        <link>https://www.cnn.co.jp/fringe/35249764.html?ref=rss</link>
+        <description>「ストロベリームーン」と呼ばれる夏の始まりの満月が夜空を彩っている。
+
+満月になるのは21日の夏至からわずか数日後の30日。天体観測サイトの「アーススカイ」によると、ストロベリームーンの月の出と入りは、北半球では今年最も低い軌道を描き、南半球では最も高い軌道を描く。
+
+満月がピークを迎えるのは日本時間の30日午前8時57分。月が地球から最も遠い「遠地点」に達した翌日の満月となる。遠地点に近い満月は「マイクロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35249764.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/30/6661099af56cdb10f13ea02617a1f891/t/768/512/d/gettyimages-2219028953.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249765.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-30T10:04:00+09:00</dc:date>
+        <title>青少年福祉施設で銃撃　職員の男女6人が死亡、容疑者は親権相談の父親　ドイツ</title>
+        <link>https://www.cnn.co.jp/world/35249765.html?ref=rss</link>
+        <description>ドイツ北部シュターデの青少年福祉施設で銃撃事件が発生し、女性4人と男性2人が死亡した。警察が29日に明らかにした。
+
+シュターデ警察によると、犠牲者は全員成人で、5人は現場で死亡し、1人は搬送先の病院で死亡した。ほかにも複数の負傷者が出ている。
+
+ロイター通信が警察の話として伝えたところによると、犠牲者は同施設の職員で、入居者ではなかった。
+
+事件後間もなく逮捕された容疑者は、ドイツ生まれでトルコ国籍をも...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249765.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/30/f7841bafa5ed103889ae8a4189f3c484/t/768/512/d/gettyimages-2283325406.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249759.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-30T09:41:00+09:00</dc:date>
+        <title>イラン、米との協議「今後数日予定なし」　覚書の履行に注力</title>
+        <link>https://www.cnn.co.jp/world/35249759.html?ref=rss</link>
+        <description>イランは29日、今後数日間、米国との協議をいかなるレベルでも予定していないと発表した。イラン政府は最終合意に向けた協議への移行よりも、覚書の履行に引き続き重点を置いているという。
+
+イラン国営放送（IRIB）が29日に報じたところによると、イラン外務省のバガイ報道官は、政府の現在の最優先事項は覚書の条項の履行を確実にし、この取り決めに従って自国の要求を主張していくことだと述べた。
+
+バガイ氏は、米国が石油...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249759.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/30/30b572bcbc6abda2198cd86188c78192/t/768/512/d/ap26152502681032.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249760.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-30T09:12:00+09:00</dc:date>
+        <title>ベネズエラ地震、死者1719人に　当局が建物被害評価に着手</title>
+        <link>https://www.cnn.co.jp/world/35249760.html?ref=rss</link>
+        <description>南米ベネズエラを24日に襲った大地震で、ロドリゲス国会議長は29日、死者が少なくとも1719人に達したと発表した。
+
+米地質調査所（USGS）は、最終的な死者数が1万人以上に達する可能性が44％あるとしている。
+
+ロドリゲス氏によると、地震の影響を受けた人は少なくとも2万2619人に上り、このうち5034人が負傷した。損壊した建物は少なくとも855棟で、そのうち189棟が完全に倒壊したという。
+
+地震が発生した24日以降、余震は609...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249760.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/30/8f00f58ce3881102b0e499415b05b484/t/768/512/d/2026-06-29t151206z-1731040281-rc2r3maoq4te-rtrmadp-3-venezuela-earthquake-aftermath.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249757.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-30T08:55:00+09:00</dc:date>
+        <title>米民間旅客機、着陸中にドローンとの衝突を報告</title>
+        <link>https://www.cnn.co.jp/usa/35249757.html?ref=rss</link>
+        <description>ジェットブルー航空の旅客機が29日、ジョン・F・ケネディ（JFK）国際空港への着陸準備中にドローン（無人機）と衝突したと報告した。米連邦航空局（FAA）が明らかにした。
+
+FAAがCNNに宛てた声明によると、ジェットブルー948便の操縦士は29日午前7時15分ごろ滑走路へ最終進入中、高度約914メートルで衝突があったと報告した。
+
+航空交通管制傍受サイト「ATC.com」が録音した音声によると、操縦士は管制塔に対し、旋回中にドロー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249757.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/30/3b3d632c90a7bb2ec55d8094a4ff37b0/t/768/512/d/gettyimages-1566713827-20260629165518751.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249709.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-29T18:20:00+09:00</dc:date>
+        <title>記録的な猛暑は米東部でも　100地点超で最高気温に並ぶか更新の可能性</title>
+        <link>https://www.cnn.co.jp/usa/35249709.html?ref=rss</link>
+        <description>米国の東部半分の地域に住む数百万人が記録的で長引く暑さに見舞われる恐れがある。
+
+厳しい暑さと湿気は今週前半、中西部に居座り、その後来月1日までに中部大西洋岸と北東部へ移動する。広範囲に及ぶヒートドームは東部に残り、3日までにピークを迎える。
+
+多くの地域では、38度前後の気温が数日続き、高い湿度によって体感温度は43度以上に達する見通しだ。
+
+世界各地の熱波は人為的な温暖化によって、厳しさと頻度を増して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249709.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/29/e23c02816a8c448f6f8cdb6d4dcda3f4/t/768/512/d/gettyimages-2283179754.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35249650.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-29T15:32:00+09:00</dc:date>
+        <title>2026年に買うべき「MacBook」はどれ？　現行モデルをテストした結果からおすすめを紹介</title>
+        <link>https://www.cnn.co.jp/tech/35249650.html?ref=rss</link>
+        <description>最適な「MacBook」モデルを見極めるには今が絶好の時期だろう。今年に入ってアップル初の低価格ノートブック「MacBook Neo」が登場したというのが理由のひとつだ。とはいえ、MacBook Neoはその価格とデザインで大きなゲームチェンジャーになるものの、すべての人にとって最適なMacBookとは限らない。とりわけ、最新の「MacBook Air」「MacBook Pro」では、搭載されたM5チップによって長期にわたって使い続けられるよう性能のア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35249650.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/29/3663665805e14a66ea86d22314ccaf42/t/768/432/d/macbook-air-m5-best-tested.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249605.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-29T13:11:00+09:00</dc:date>
+        <title>バイデン氏、トランプ氏は「なんたる負け犬」　惨敗した大統領選討論会から2年</title>
+        <link>https://www.cnn.co.jp/usa/35249605.html?ref=rss</link>
+        <description>米国のバイデン前大統領は27日夜、メリーランド州で開かれた資金集めのパーティーで民主党員を鼓舞した一方、自身の後を継いでホワイトハウス入りしたトランプ大統領の行動を非難し、うぬぼれが強く腐敗していると評した。
+
+バイデン氏は出席者に向かって「自分の虚栄心を満たすためのプロジェクトにとどまらない。ホワイトハウスのイーストウイング（東棟）を取り壊して宴会場のための場所をつくり、ケネディセンターに自分の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249605.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/29/630df05a82da4d28977289d364aedb84/t/768/432/d/still-22757582-6469413-18-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249578.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-06-29T10:53:00+09:00</dc:date>
+        <title>86時間ぶりに女性救出、懸命の捜索救助活動続く　ベネズエラ地震の死者1450人に</title>
+        <link>https://www.cnn.co.jp/world/35249578.html?ref=rss</link>
+        <description>ベネズエラを24日に襲った2度の地震から4日後の28日、大きな被害が出たラグアイラ州カラバジェーダ地区では、市民ボランティアや世界各国から集まった救助隊員が懸命の捜索救助活動を続けている。
+
+同地区では、3日間以上も瓦礫（がれき）の中に閉じ込められていた女性が救出された。
+
+エルサルバドルのナジブ・ブケレ大統領は、「86時間もがれきの下敷きになっていた60歳のベルキス・ホセフィナ・バレット・ガルシアさんを、11...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249578.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/29/8cc92eb76f6670198cf561c4e40d5c56/t/768/512/d/ap26179493367310.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
