@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-07-05T09:09:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250052.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250051.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250049.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250048.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35250047.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35250046.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250045.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250011.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250009.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35250007.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250006.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35249999.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249998.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249987.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249985.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249984.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249979.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249972.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35249970.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249945.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249957.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35249942.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249940.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249935.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35249932.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35249928.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249929.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35249926.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249925.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35249906.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35250052.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-05T09:09:00+09:00</dc:date>
+        <title>プーチン氏、米建国250周年に祝意　トランプ氏へ親しさ示すメッセージ</title>
+        <link>https://www.cnn.co.jp/world/35250052.html?ref=rss</link>
+        <description>ロシアのプーチン大統領は4日、米国の建国250周年を記念して、トランプ米大統領に「心からの祝意」を示す個人的なメッセージを送った。
+
+プーチン氏は不安定な関係にあるトランプ氏に対し、「親愛なる大統領閣下」と呼びかけたうえで、「親愛なるドナルド」と続けた。メッセージは異例なほどくだけた友好的なもので、通常の公的な伝達で使われる表現ではなく、親しい友人に対して使うロシア語の「あなた」を用いていた。
+
+クレ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250052.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/05/433a5cb754d95443ddb4ffb38a39c7be/t/768/508/d/gettyimages-2283207306.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250051.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-04T17:22:00+09:00</dc:date>
+        <title>ダークチョコから有害な重金属を検出　24年米研究</title>
+        <link>https://www.cnn.co.jp/fringe/35250051.html?ref=rss</link>
+        <description>ダークチョコレートなどカカオを原料とする食品に、重金属の鉛とカドミウムが多く含まれている――。そんな研究結果が2024年に発表された。
+
+鉛やカドミウムは神経毒性があり、がんや慢性疾患との関連、生殖や発達への影響が指摘されるが、作物の栽培される土壌に天然に存在するため、食品への移行は避けられない。ただ一部の土壌には、重金属が入った肥料の使い過ぎや産業汚染が原因で、より多く含まれている。
+
+新たな研究では...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250051.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/04/bf81a9c0da5cb27c214e7450e5a55b0f/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHo5MTJsb2YwMDAzM2I2a3Z3M2J3ZWF6-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nsejh6bnV3ejAwMG42NHA1Nm5kYTN1YWw_thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250049.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-04T16:03:00+09:00</dc:date>
+        <title>殺害されたハメネイ師の葬儀に大勢の市民、響く嘆きの声　イラン</title>
+        <link>https://www.cnn.co.jp/world/35250049.html?ref=rss</link>
+        <description>旗を振る人に、涙をぬぐう人。イランの前最高指導者ハメネイ師の葬儀に合わせ、数千人が首都テヘランに集まった。
+
+
+  
+
+
+                
+             
+
+            
+
+    
+     (Telegram/IRNA） 
+
+
+
+参列者は夏の猛暑の中、リズムを取りながら自分の胸をたたいた。大規模礼拝施設「モサラ」でガラスケースに収められたハメネイ師の遺体が公開されると、女性たちの嘆きの声が騒音を切り裂いて響いた。
+
+AP通信によると、群...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250048.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-04T14:06:00+09:00</dc:date>
+        <title>欧州を襲った記録的な猛暑、数十年前なら「ほぼ起こり得ず」　その理由とは？</title>
+        <link>https://www.cnn.co.jp/fringe/35250048.html?ref=rss</link>
+        <description>6月下旬に欧州を襲い、これまでの記録を塗り替えた今回の猛暑は、数十年前であれば「ほぼ起こり得なかった」とする新たな分析結果が発表された。人間が引き起こした気候危機が「明白な原因である」と指摘している。
+
+異常気象をもたらす気候変動の影響を分析する科学者ネットワークの「ワールド・ウェザー・アトリビューション（WWA）」が先月26日に発表した研究によると、現在も続く熱波は、欧州で「観測史上最も深刻」なもの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250048.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/04/98a5c9b0ddfbd768d30e23a2ffa9cf4a/t/768/512/d/shutterstock-editorial-16958205ab.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35250047.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-04T13:00:00+09:00</dc:date>
+        <title>ロシアのキーウ攻撃、異例の犠牲者数になった理由　ジェット推進ドローンが一因か</title>
+        <link>https://www.cnn.co.jp/tech/35250047.html?ref=rss</link>
+        <description>ウクライナの首都キーウに対して2日に行われた攻撃では、少なくとも30人が死亡した。キーウに対する攻撃としては戦争開始以来、3番目に多い犠牲者数となった。
+
+ウクライナはこれまで数百回の大規模航空攻撃にさらされてきたが、今週の攻撃ではとりわけ甚大な被害が出た。その要因はロシアが攻撃目標として住居ビルを選んだこと、弾道ミサイルや徘徊（はいかい）型兵器、ジェット推進式ドローン（無人機）といった兵器が使用さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35250047.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/04/aac97271a245cc22a5d52b34a5a19fe8/t/768/511/d/gettyimages-2283715027.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35250046.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-04T11:14:00+09:00</dc:date>
+        <title>テイラー・スウィフトさん、トラビス・ケルシーさんと結婚　NYの大型アリーナで挙式</title>
+        <link>https://www.cnn.co.jp/showbiz/35250046.html?ref=rss</link>
+        <description>大ヒットラブコメ映画さながらの楽しくオープンな交際を繰り広げてきた米歌手テイラー・スウィフトさんと、米プロフットボールリーグ（NFL）のスター選手トラビス・ケルシーさんが結婚した。少女時代や失恋について掘り下げた楽曲で20年かけて音楽界の頂点に上り詰めたスウィフトさんにとって、新たな時代の幕開けになりそうだ。
+
+スウィフトさんの代理人はCNNに対し、2人が3日に結婚したことを確認した。
+
+結婚式は米ニューヨ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35250046.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/04/c7836baf1d874a39b2f7a67b0dee1592/t/768/432/d/just-married.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250045.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-04T09:31:00+09:00</dc:date>
+        <title>モナコのウクライナ人富豪を狙った爆発、容疑者は男性装った女　ヘビとみられるタトゥー</title>
+        <link>https://www.cnn.co.jp/world/35250045.html?ref=rss</link>
+        <description>モナコで先月29日、ウクライナ人の富豪が爆弾で襲撃され負傷した事件で、地元当局は男性を装ったウクライナ人の女を主な容疑者として名指しした。
+
+国際刑事警察機構（インターポール、ICPO）の赤手配書によると、この女はアナスタシア・ベレゾフスカ容疑者（39）。最後に居住していた場所はドイツで、右腕の肩から肘（ひじ）にかけてヘビをモチーフにしたとみられるタトゥーが入っている。
+
+検察によると、ベレゾフスカ容疑者...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250045.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/04/e73499559eaba1819866fbb381c66e27/t/768/432/d/20260703-monaco-manhunt-split.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250011.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T19:03:00+09:00</dc:date>
+        <title>イラン革命防衛隊の司令官、公の場に異例の登場　ハメネイ師の葬儀を前に</title>
+        <link>https://www.cnn.co.jp/world/35250011.html?ref=rss</link>
+        <description>イランの首都テヘランで前最高指導者ハメネイ師の葬儀に向けた準備が進む中、イスラム革命防衛隊のバヒディ司令官が2日、珍しく公の場に姿を見せた。
+
+イラン国営放送（IRIB）が公開した写真には、2日にテヘランで開催された式典中、強硬派のバヒディ司令官がハメネイ氏の棺（ひつぎ）の隣に座る様子が映っている。
+
+バヒディ氏は前任者のパクプール司令官が戦争初日に米イスラエルの攻撃で死亡したことを受けて就任したものの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250011.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/a9cdca5adb95b591942f24194b158aad/t/768/512/d/ap26184104616734__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250009.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T18:36:00+09:00</dc:date>
+        <title>殺害されたハメネイ師の壮大な葬儀始まる、米建国250周年に合わせ　トランプ氏に挑戦的なメッセージ</title>
+        <link>https://www.cnn.co.jp/world/35250009.html?ref=rss</link>
+        <description>米国とイスラエルによる対イラン戦争の開始時に殺害されてから4カ月がたち、最高指導者だったハメネイ師が、2カ国5都市にまたがり1週間にわたって執り行われる葬儀で追悼される。葬儀には数百万人が参列するとみられる。
+
+世界最強クラスの軍事大国を相手に多大な犠牲を払った戦争、そして数十年に及ぶ深刻な経済的苦境にもかかわらず、イラン政府にハメネイ師を盛大な式典で送り出すための費用を惜しむ様子はみられない。宗教...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250009.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/bc5a5b21cd0dc7323686d3516333646d/t/768/512/d/gettyimages-2283826587.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35250007.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T17:15:00+09:00</dc:date>
+        <title>テイラー・スウィフト結婚式、前日のイベント終了も披露宴は謎に包まれたまま　NY厳戒</title>
+        <link>https://www.cnn.co.jp/showbiz/35250007.html?ref=rss</link>
+        <description>米歌手テイラー・スウィフトさんとプロフットボールNFLのスター選手トラビス・ケルシーさんの結婚式はリハーサルディナーが終了したと報じられているものの、披露宴については謎に包まれたままだ。
+
+米ニューヨークの大型アリーナ「マディソン・スクエア・ガーデン」の外では、さながら「王室の結婚式」と評される式の装飾や著名ゲストの姿を一目見ようと、ファンや報道陣が待ち構えていた。ただ、厳重な警備に加えプライバシー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35250007.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/9f1b8cb97b6866d1a81519d4c7473c73/t/768/512/d/2026-07-02t010739z-1637741210-rc2b5map6s22-rtrmadp-3-people-taylor-swift-kelce__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250006.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T16:53:00+09:00</dc:date>
+        <title>中国、少数民族への統制強める新法を施行</title>
+        <link>https://www.cnn.co.jp/world/35250006.html?ref=rss</link>
+        <description>中国の習近平（シーチンピン）国家主席は長年、チベット族やウイグル族などの少数民族に対し、中国人としての意識と中国共産党への忠誠心を持つことを求めてきた。
+
+その圧力がこのほど、新たな法律という形で教育現場や各地域、家庭、さらには国外で違反したとみなされる人々にも及ぶことになった。
+
+「民族団結進歩促進法」と名づけられた法律で、1日から施行された。民族の団結を損なったり、分裂をあおったりする行為を禁止...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250006.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/cf5efe127cdd0e0e51d600b98292b6a4/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXIxc3pvc2wwMDFpM2I2cjhkdzUzbHFk-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcjFzdThzbzAwMHkyN3A5ZXMzbzlzbXc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35249999.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T15:36:00+09:00</dc:date>
+        <title>「死んだ星」を周回する惑星、太陽が終わりを迎えたときに起きることを予告している可能性　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35249999.html?ref=rss</link>
+        <description>巨大な系外惑星がどのように主星の激しい死から生き延び、その星の残骸のすぐ近くを回るようになったのかをめぐり、新たな手がかりをもたらす可能性のある研究結果が発表された。
+
+この発見は、50億年後に太陽が死を迎えるときに太陽系最大の惑星である木星や土星のような巨大ガス惑星がたどる運命を予告するものになる可能性がある。
+
+天文学者らは2020年、死んだ白色矮星（わいせい）の周囲を猛スピードで公転する、不可解な...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35249999.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/7455bb86de7ae9425f804447f2e64048/t/768/432/d/exoplanet-wd-1856-b-artist-s-concept.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249998.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T15:30:00+09:00</dc:date>
+        <title>チベットの旗を手にした男性、焼身自殺図り死亡　米NYの国連本部前</title>
+        <link>https://www.cnn.co.jp/usa/35249998.html?ref=rss</link>
+        <description>米ニューヨークの国連本部前で2日、チベットの旗を手にした男性が焼身自殺を図り、死亡した。米国内でこのような焼身自殺が行われるのは極めて異例。
+
+ニューヨーク市警（NYPD）の報道官がCNNに語ったところによると、法執行機関は午後6時30分ごろに緊急通報を受けて対応し、全身に重度のやけどを負った52歳の男性を発見した。
+
+男性は病院に搬送されたが、その後死亡が確認されたと報道官は述べた。
+
+警察は男性がなぜ焼身自殺...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249998.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/87e9dabb4cd18a6976b329ad4ecd0eb3/t/768/512/d/gettyimages-2236338822.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249987.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T14:27:00+09:00</dc:date>
+        <title>米リンカーン記念堂の反射池、損壊の罪でカヌーの元五輪選手を起訴</title>
+        <link>https://www.cnn.co.jp/usa/35249987.html?ref=rss</link>
+        <description>オリンピック（五輪）のカヌー競技に出場した経歴を持つ元選手が、米首都ワシントンにあるリンカーン記念堂の「リフレクティング・プール（反射池）」を損壊したとして首都ワシントン上位裁判所の大陪審に起訴されたことが分かった。
+
+起訴状によると、デビッド・ハーン被告は2日、1000ドル（約16万円）を超える価値のある財産の損壊1件で起訴された。有罪となれば、この重罪には最長10年の禁錮刑が科される可能性がある。
+
+
+
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249987.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/3bb8e326817f82e7fd7d1de9b98a467e/t/768/512/d/2026-07-01t160849z-209488509-rc215mapot8u-rtrmadp-3-usa-250.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249985.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T13:07:00+09:00</dc:date>
+        <title>新たな米海兵遠征部隊、中東に到着　米中央軍が発表</title>
+        <link>https://www.cnn.co.jp/usa/35249985.html?ref=rss</link>
+        <description>米・イラン間での最終的な和平合意をめぐる協議がイランの前最高指導者アヤトラ・アリ・ハメネイ師の葬儀を前に一時停止しているなか、米中央軍は第2の海兵遠征部隊（MEU）を乗せた艦船が中東で活動していると発表した。MEUは通常、2000人を超える海兵隊員で構成される。
+
+「ボクサー水陸両用即応群（ARG）と、それに乗艦している第11海兵遠征部隊は、計画された展開の一環として現在中東で活動している」と、中央軍はX（旧ツイ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249985.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/28da51660f85bd6bff419a9e41c8f950/t/768/512/d/9780985.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249984.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T12:18:00+09:00</dc:date>
+        <title>米東海岸で危険な熱波　20万戸超が停電でエアコン使えず</title>
+        <link>https://www.cnn.co.jp/usa/35249984.html?ref=rss</link>
+        <description>米東海岸で危険な熱波の勢いが強まっており、電力網への負荷が増している。人々がエアコンの効いた自宅やオフィスで涼もうとしているためだ。最高気温記録が多くの地点で更新される中、屋外では数百万人が7月4日の独立記念日を祝う準備を進めている。
+
+最も激しい暑さは3日まで続く見通し。ワシントンからボストンにかけては気温が35～40度程度まで上昇し、湿度によって体感気温が43度を上回る地点もみられた。
+
+2日には少なく...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249984.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/0ad8f5a7bdc67eb6871e4742d7c18cf7/t/768/512/d/gettyimages-2283753833.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249979.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T11:44:00+09:00</dc:date>
+        <title>ロシアによるキーウ大規模攻撃、死者27人に　住居ビルから逃げ惑う市民</title>
+        <link>https://www.cnn.co.jp/world/35249979.html?ref=rss</link>
+        <description>2日未明、ウクライナの首都キーウの自宅アパートが爆発で揺れ、イリーナ・モスカエバさん（61）と子どもたちはベッドから飛び起きて走り出した。このアパートはロシアの大規模攻撃で被害を受けた数多くの住居ビルの一つで、キーウ全域では少なくとも27人が死亡した。
+
+
+  
+    
+      
+                    
+                    
+                    
+                    
+            
+    
+    
+(Social media)
+ 
+
+
+ただ、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249979.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/d7f15a72744b044396cc46cffe36da3c/t/768/511/d/gettyimages-2283702238.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249972.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T11:35:00+09:00</dc:date>
+        <title>ベネズエラ地震から8日、がれきの中から奇跡的に男性を救出　死者2千人超</title>
+        <link>https://www.cnn.co.jp/world/35249972.html?ref=rss</link>
+        <description>ベネズエラを襲った大地震から8日後の2日、北部のラグアイラ市で倒壊した9階建てビルの下敷きになっていた男性が、奇跡的にがれきの中から助け出された。
+
+エルナン・アルベルト・ギル・フローレスさんは、ショッピングモールの駐車場でがれきの下に閉じ込められ、現地や各国から集まった救助隊が数日前から懸命の救出作業を続けていた。
+
+  
+
+
+                
+                    
+                    
+                  ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249972.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/bf0317ddaa6d44ba762e7e07477fc333/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXIyeXZpMHQwMDBwM2I2cnE3NTJjbnVt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcjJ5M2cxcDAwMzQyN3FnYmRsdTRyang_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35249970.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T11:16:00+09:00</dc:date>
+        <title>トランプ氏はどうやって1600億円もの暗号資産収入を得たのか？　自身のミームコインが大暴落する中</title>
+        <link>https://www.cnn.co.jp/business/35249970.html?ref=rss</link>
+        <description>トランプ米大統領は2度目の就任式を数日後に控えていた当時、自身の名を冠した暗号資産ミームコインを発行した。暗号資産を支持する政権の発足と、一族の高収益事業の立ち上げを告げる動きだった。
+
+トランプ氏は昨年、この事業によって数億ドルを手にしている。暗号資産関連全体の収入は10億ドル（約1600億円）を上回った。
+
+ただしミームコイン「＄トランプ」に投資した人々の大半は、それほど幸運ではなかった。
+
+＄トランプ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35249970.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/7230c1580debd26acb97b585416c83c4/t/768/487/d/2026-07-01t130608z-656202174-rc215ma36ofx-rtrmadp-3-usa-250-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249945.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T10:10:00+09:00</dc:date>
+        <title>米軍人、連邦議会議事堂で逮捕される　トランプ氏の弾劾求めた直後</title>
+        <link>https://www.cnn.co.jp/usa/35249945.html?ref=rss</link>
+        <description>米空軍の少佐がこのほど、トランプ大統領とバンス副大統領の弾劾（だんがい）と罷免（ひめん）を求める演説を行った後、連邦議会議事堂の階段上で逮捕された。
+
+草の根活動団体「リムーバル・コアリション」によると、ジェイソン・ワトソン少佐の逮捕は1日、同団体が主催した記者会見で演説を行った後に起きた。記者会見でワトソン少佐は自身が現役軍人であることを明かし、軍服を着用していた。テキサス州選出の民主党下院議員...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249945.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/856a60c4f8b47eb36be69e16cfd96d4c/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXIzcTR1bWowMDAxM2I2cmw1bmY5ZWxq-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcjNwaTJqajAwM3kyZG52Y3pueGQ1c2U_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249957.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T10:00:00+09:00</dc:date>
+        <title>北京最高層ビルに突入の小型機、パイロットは66歳男性　当局は「自殺願望」あったと発表</title>
+        <link>https://www.cnn.co.jp/world/35249957.html?ref=rss</link>
+        <description>中国当局は2日、北京の最高層ビルに突っ込んだ小型機について、操縦していたのは地元在住の66歳の男性で、以前から自殺をほのめかしていたと発表した。
+
+小型機は6月26日夕、オフィスや大使館などが集まる地区にある109階建てのCITICタワー（高さ528メートル）に突っ込み、パイロットの男性が死亡したほか、13人が負傷した。
+
+中国政府はこの衝突に関する情報統制を徹底させ、当局が発生の事実を確認するまでにほぼ丸1日を要し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249957.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/cf648118638e437c126f18bf2019baed/t/768/511/d/gettyimages-2283551112.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35249942.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T08:56:00+09:00</dc:date>
+        <title>オープンAI、トランプ政権に株式5％譲渡で協議　FT報道</title>
+        <link>https://www.cnn.co.jp/tech/35249942.html?ref=rss</link>
+        <description>対話型人工知能（AI）「チャットGPT」を開発する米オープンAIが、AI企業への政府の監視が強まる中、トランプ政権に自社株式の5%を譲渡することについて協議していると報じられた。
+
+英紙フィナンシャル・タイムズ（FT）は２日、「初期段階の協議」に詳しい関係者2人の話として、この提案には、他の米AI企業も政府に対し、同様に株式を譲渡することが含まれると伝えた。
+
+オープンAIのサム・アルトマン最高経営責任者（CEO）は、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35249942.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/5610065bdd61b5e7e57735796f6d26a3/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXIzOXAzNGcwMDBpM2I2cmc2ZDR3OXZ2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcjM5MGJhYjAwMXgyN28wNjh3aTBwdDQ_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249940.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-03T08:30:00+09:00</dc:date>
+        <title>イラン、協議を一時停止　ハメネイ師の葬儀控え</title>
+        <link>https://www.cnn.co.jp/world/35249940.html?ref=rss</link>
+        <description>イランの代表団は3日までに、カタールを出国した。イランは、米国とイスラエルが命じた攻撃により2月下旬に殺害された前最高指導者ハメネイ師の数日間にわたる葬儀を前に、外交を一時停止している。
+
+イランのメディアは、報道の焦点をほぼ全面的に葬儀関連に切り替え、葬儀の準備、葬列に伴う運用上の変更点、壮大な儀式に込められた象徴的意味などを伝えている。
+
+イラン代表団を率いるガリバフ国会議長は、ハメネイ師の葬儀...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249940.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/03/fff45a1e8d15fae519a3e86bc60af479/t/768/515/d/2026-07-02t093832z-1527380497-rc2k5ma16j33-rtrmadp-3-iran-crisis-khamenei.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249935.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-02T20:31:00+09:00</dc:date>
+        <title>スターリングラード超える惨状、ウクライナ戦争の総死傷者200万人に達する　米シンクタンク</title>
+        <link>https://www.cnn.co.jp/world/35249935.html?ref=rss</link>
+        <description>ロシアがウクライナへの全面侵攻を開始するという決断は、現在までに約45万人の命を奪ったとみられる。新たな研究によると、この戦争の総死傷者数は200万人を超えたと推定されている。
+
+米シンクタンク、戦略国際問題研究所（CSIS）の調査では、ロシア軍の死者、負傷者、行方不明者を合わせた死傷者数は140万人に達したと推定される。この驚異的な数字は、ロシアの人口のおよそ1％に相当する。
+
+こうした損耗はロシア国内で均等...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249935.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/02/d20c2718e4bbbd6d3542e429629dba3a/t/768/512/d/ukraine-crisis-donetsk.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35249932.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-02T19:10:00+09:00</dc:date>
+        <title>引き出しに眠っていた骨、「南極大陸で見つかった最初の恐竜化石」と判明</title>
+        <link>https://www.cnn.co.jp/fringe/35249932.html?ref=rss</link>
+        <description>博物館の引き出しに何十年も眠っていた骨が、実は南極大陸で初めて見つかった恐竜化石だったと分かり、このほど研究論文が発表された。
+
+英ロンドン自然史博物館の声明によると、これは1985年に英国南極観測局（BAS）の調査で見つかった椎骨（ついこつ）の化石で、当初は大型爬虫（はちゅう）類の骨と考えられていた。
+
+そのまま数十年の間、収蔵庫に眠っていたが、BASで地質学コレクションの管理を担当する古生物学者、マーク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35249932.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/02/84996a6cf357920407f7d6baed752d3a/t/768/571/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXIwbGQ4OHMwMDA2MzU2cjdjNzVnMThm-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcjBsYWN2bDAwMnYyN3FpMXA2MGJiNTc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35249928.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-02T18:10:00+09:00</dc:date>
+        <title>二つの顔を持って生まれた子猫、3日後に死ぬ　20年米オレゴン州</title>
+        <link>https://www.cnn.co.jp/fringe/35249928.html?ref=rss</link>
+        <description>米オレゴン州の農場で2020年、二つの顔を持つ猫が生まれる出来事があった。子猫は世界中の動物好きの心をとらえたが、生後わずか3日で息を引き取った。
+
+「ビスケッツ＆グレイビー」と名付けられたこの子猫は、同州で農家を営むキングさん一家の飼い猫「キーンリー」から生まれた子猫6匹のうちの1匹だった。
+
+ビスケッツ＆グレイビーは二つの鼻と四つの目、二つの小さな口を持っていた。脳幹は一つだったが、それぞれの顔で食べ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35249928.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/02/19d2360337bc91d5a240f11804f1a8a0/t/768/432/d/image__2_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249929.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-02T17:34:00+09:00</dc:date>
+        <title>トランプ氏、所有リゾートからの収入が急増　事業利益と政治の重複を如実に反映</title>
+        <link>https://www.cnn.co.jp/usa/35249929.html?ref=rss</link>
+        <description>トランプ米大統領の資産が2期目就任以降急増している。新たな資産報告書では、同氏がフロリダ州に所有する二つの主要リゾートでも記録的に収入が増加したことが明らかになった。この事実はトランプ氏の個人ビジネスと大統領職がいかに重なり合っているかを鮮明に示している。
+
+トランプ氏は昨年初め以降、会員制クラブ「マール・ア・ラーゴ」とゴルフリゾート「トランプ・ナショナル・ドラル」を20回以上訪れており、資金集めの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35249929.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/02/40d8e1f9e3924081a1153e406cee9355/t/768/512/d/49-gettyimages-2255992676.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35249926.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-02T17:31:00+09:00</dc:date>
+        <title>米海軍ヘリがアラビア海で「緊急着水」、行方不明の乗員を捜索</title>
+        <link>https://www.cnn.co.jp/usa/35249926.html?ref=rss</link>
+        <description>アラビア海で1日にMH60S「シーホーク」ヘリコプターが不時着水したことを受け、米海軍は行方不明になっている乗員1人の捜索を行っていると発表した。
+
+米海軍中央軍がX（旧ツイッター）に投稿した内容によると、空母ジョージ・H・W・ブッシュに配備されていたヘリコプターが「アラビア海で緊急着水を行った。敵対行為が原因で緊急事態が発生した形跡はない」という。
+
+SNSへの投稿では「ヘリコプターの乗員4人のうち3人は救助さ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249925.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-02T16:50:00+09:00</dc:date>
+        <title>キーウへの大規模攻撃で13人死亡、市長が発表</title>
+        <link>https://www.cnn.co.jp/world/35249925.html?ref=rss</link>
+        <description>ウクライナの首都キーウで1日夜から2日未明にかけて発生した大規模な攻撃により、13人が死亡した。市長が明らかにした。この数時間前にはウクライナのゼレンスキー大統領が、ロシアによる大規模攻撃の計画について警告していた。
+
+ウクライナ空軍は、ロシアが「大規模な複合攻撃」として約500機のドローン（無人機）と数十発のミサイルを同国に向けて発射したと発表。首都を異なる方向から同時に標的にしたとの認識を示した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249925.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/02/00665c0da12ad4d3530b9cf2b6ed6817/t/768/531/d/2026-07-01t225541z-252913404-rc2a5maipv42-rtrmadp-3-ukraine-crisis-attack-kyiv__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35249906.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-02T12:43:00+09:00</dc:date>
+        <title>11歳男児が狂犬病で死亡、目覚めたら顔の上にコウモリが　カナダ</title>
+        <link>https://www.cnn.co.jp/world/35249906.html?ref=rss</link>
+        <description>カナダのオンタリオ州でコウモリに接触した11歳の男児が狂犬病に感染して死亡した症例が、学会誌に発表された。
+
+この症例はマニトバ大学小児科学部が6月29日のカナダ医師会誌に発表した。狂犬病に感染したのはオンタリオ州北部のコテージに滞在していた男児で、目を覚ましたところ、1匹のコウモリが鼻と口の上にとまっていた。
+
+驚いた男児はコウモリを顔からはたき落とし、父親が鍋でつかまえて屋外へ放した。
+
+男児にかまれ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35249906.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/02/b84e9a0e3997e23ace119e3a98c748f5/t/768/512/d/gettyimages-1709865006.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
