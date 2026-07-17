@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-07-17T09:07:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250696.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250693.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250685.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250662.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250667.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250665.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250660.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250648.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250651.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250635.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250632.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250628.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250626.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250620.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250622.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250615.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250510.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35250602.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250606.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250586.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250601.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250600.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250582.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250569.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250562.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35250556.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250557.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250551.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250531.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250527.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35250696.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-17T09:07:00+09:00</dc:date>
+        <title>イラン、米国を非難　民間インフラへの攻撃は「戦争犯罪」</title>
+        <link>https://www.cnn.co.jp/world/35250696.html?ref=rss</link>
+        <description>イラン外務省は16日、米国が同国への攻撃で民間インフラを標的にしたとして、「戦争犯罪」を犯したと非難した。一方、ペルシャ湾岸の近隣アラブ諸国に対する自国の攻撃については、自衛行為だと主張した。
+
+同省は声明で、米国が「特に民間施設やインフラを標的とすることにより、数多くの戦争犯罪」を犯したと非難した。
+
+こうした攻撃は「国連憲章および国際法の基本原則に対する明白な違反に当たる」と述べた。
+
+また、近隣...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250693.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-17T08:25:00+09:00</dc:date>
+        <title>米イラン協議の決裂、「終わりなき戦争」の恐れ　専門家</title>
+        <link>https://www.cnn.co.jp/world/35250693.html?ref=rss</link>
+        <description>停戦協議が頓挫し、米国とイランが攻撃の応酬を続けるなか、両国が「終わりなき戦争」に突入する恐れがあると地域情勢の専門家が警告した。
+
+国際紛争に関するシンクタンクの「国際危機グループ（ICG）」の上級顧問でイラン・プロジェクトのディレクターを務めるアリ・バエズ氏は「1ページ半の覚書をまとめるのに約2カ月を要したが、それが崩壊するまでにはわずか3週間しかかからなかった」と述べた。
+
+バエズ氏はCNNの番組「コ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250693.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/17/fa0cf2822c3b33db3de609cc6f6d2977/t/768/512/d/gettyimages-2268249468.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250685.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-16T19:47:00+09:00</dc:date>
+        <title>ウクライナ、国防相を更迭　軍事的成果見られる中、理由は？</title>
+        <link>https://www.cnn.co.jp/world/35250685.html?ref=rss</link>
+        <description>ウクライナでフェドロフ国防相（35）が解任された。最近の軍事的成功にもかかわらず、大規模な内閣改造が行われる中での解任は、国民の抗議や軍内部の不和を引き起こしている。
+
+フェドロフ氏は、テクノロジーの活用と兵員募集でみせた革新的な手法が評価される一方、同国の国防組織内の関係者らと衝突していた。
+
+多種多様なドローン（無人機）を開発するウクライナの新興企業を支援。これらのドローンはロシア軍の前進を鈍ら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250685.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/16/2b453e6f1bb09c9c6f4bae10d22254e6/t/768/511/d/2024-02-25t104633z-1216304445-rc2k96a7ckam-rtrmadp-3-ukraine-crisis-leaders-fedorov.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250662.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-16T17:56:00+09:00</dc:date>
+        <title>メディチ家にまつわる謎、400年以上の時を経て解明か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35250662.html?ref=rss</link>
+        <description>1434年から1737年まで、フィレンツェとトスカーナをほぼ途切れることなく統治したイタリアの名門、メディチ家の夫婦が謎の死を遂げて以来、夫婦の早すぎる死の原因をめぐって様々な噂（うわさ）が飛び交ってきた。現在、科学者たちはその答えを見出したと考えている。それによると夫婦の死因は殺害ではなく、マラリアだったという。
+
+1587年、トスカーナ大公フランチェスコ1世・デ・メディチとその妻ビアンカ・カッペッロは、数...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250662.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/16/5f81c66986da901a9a72cb399daf330f/t/768/432/d/gettyimages-1485515835.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250667.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-16T15:11:00+09:00</dc:date>
+        <title>カナダで大規模な山火事　煙による大気汚染、米国1億人に影響</title>
+        <link>https://www.cnn.co.jp/world/35250667.html?ref=rss</link>
+        <description>カナダで大規模な山火事が発生している。煙は国境を越えて米国に流れ込み始め、中西部と北東部の1億人以上が危険な大気汚染にさらされている。
+
+15日には煙が北東部の景観を覆い、大気の質が急激に悪化した。ニューヨークやボストンでは、山火事の煙に含まれる微粒子の濃度上昇により、大気が健康に有害な状態にあるとして大気質警報が出された。中西部のシカゴやデトロイトなどでは、最悪レベルの煙が到達する前に警報が発表さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250667.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/16/5a81cf1c9bcc3264f07add1e9c11a0b9/t/768/432/d/20260714-stunning-geocolor-view.png'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250665.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-16T12:50:00+09:00</dc:date>
+        <title>米ICE執行官がまた移民男性を射殺　25歳の父親、善良な働き者の若者がなぜ</title>
+        <link>https://www.cnn.co.jp/usa/35250665.html?ref=rss</link>
+        <description>米メーン州の現場には、花やろうそくが手向けられている。妻はその場にくずおれ、3歳の娘は泣き続けた。ホアン・セバスティアン・デュラン・ゲレロさん（25）は13日、ここで移民税関捜査局（ICE）の執行官によって射殺された。
+
+コロンビア出身のデュラン・ゲレロさんは同州ビデフォードでフードデリバリーの配達員をしていた。近隣住民は、善良な働き者だったと振り返る。
+
+「移民がビデフォードを素晴らしい町にしている」。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250665.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/16/54a79d5e27d33faab81baf5f9e1d1d52/t/768/768/d/joan-20260714021406098.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250660.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-16T12:02:00+09:00</dc:date>
+        <title>ホワイトハウスで大規模漏洩調査、携帯電話の提出求められる　カタール寄贈機の安全懸念めぐり　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35250660.html?ref=rss</link>
+        <description>米国のワイルズ首席補佐官と、トランプ大統領の最側近であるパテル連邦捜査局（FBI）長官は先週、自らホワイトハウスでの大規模な調査を指揮した。カタールから贈られ、新たなエアフォースワン（大統領専用機）として使用されている航空機の安全上の不備について情報を漏らした政府内の人物を特定する目的。一部の当局者はホワイトハウスの敷地内で捜査担当者に携帯電話を提出するよう求められたという。事情に詳しい複数の情報...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250660.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/16/c5ed1094a466e0fce1c4b7e525fe46f4/t/768/512/d/gettyimages-2220897902.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250648.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-16T11:30:00+09:00</dc:date>
+        <title>ロシアに「ホルムズ海峡型の危機」迫る、ウクライナ軍の攻撃で重要な水路が封鎖</title>
+        <link>https://www.cnn.co.jp/world/35250648.html?ref=rss</link>
+        <description>黒海への玄関口に対するロシアの支配力が揺らぎ始めている。ウクライナによる一連の攻撃を受け、今週には黒海へつながる重要な水路の通航を停止せざるを得なくなった。こうした措置によって現在、世界との貿易を行うクレムリン（ロシア大統領府）の能力は制限された状態にある。
+
+この展開はロシアにとって大きな情勢の逆転を意味する。アゾフ海は長年にわたりウクライナ政府の手が届かない場所にあり、ロシアにとっては対ウク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250648.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/16/2184aaf0d678d96f2ee1c9a4c92180ab/t/768/478/d/s2l2a-1649173066739609-timelapse.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250651.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-16T10:31:00+09:00</dc:date>
+        <title>トランプ氏、イランで軍事作戦を拡大する選択肢を検討</title>
+        <link>https://www.cnn.co.jp/world/35250651.html?ref=rss</link>
+        <description>トランプ米大統領は、イランでの軍事作戦を拡大するための選択肢について説明を受けている。事情に詳しい2人が明らかにした。14日にホワイトハウス地下のシチュエーションルーム（危機管理室）で開かれた会議では主にホルムズ海峡に対するイランの支配力を弱めるための方法が話し合われ、ここでも選択肢が示された。
+
+トランプ氏は、今後1週間でイランへの攻撃を強化する意向を公に表明。民間インフラや、エネルギー関連施設を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250651.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/16/6b2ae8a2656672d48d336dcfcadaba2d/t/768/426/d/2026-07-15t130548z-2103525751-rc2demaz2lpw-rtrmadp-3-iran-crisis.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250635.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-16T09:25:00+09:00</dc:date>
+        <title>米下院民主党、対イスラエル軍事支援阻止の法案に103人が賛成票　初めて反対上回る</title>
+        <link>https://www.cnn.co.jp/usa/35250635.html?ref=rss</link>
+        <description>米下院で15日、イスラエルに対する数十億ドル規模の軍事支援を阻止する修正案の採決が行われ、民主党議員100人以上が賛成票を投じた。最終的に同案は否決されたものの、民主党内でこの問題をめぐり分断が深まっている現実を浮き彫りにした。
+
+支援阻止の修正案には民主党議員103人が賛成した。同案を提出したのはドナルド・トランプ大統領批判で知られる共和党のトーマス・マッシー議員で、米国によるイスラエル支援に対して以...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250635.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/16/79cc8b171e9a823b34317f59943fb955/t/768/512/d/c-gettyimages-2284695487.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250632.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-16T08:45:00+09:00</dc:date>
+        <title>米軍、イランへ新たに2度の攻撃　ホルムズ海峡の船舶を保護する目的で</title>
+        <link>https://www.cnn.co.jp/usa/35250632.html?ref=rss</link>
+        <description>米軍は15日、イランに対する2度の攻撃を新たに実施した。米軍による攻撃が行われるのはこれで5日連続となる。
+
+米中央軍によると、直近の攻撃で狙ったのは「ホルムズ海峡を自由に航行する船舶を脅かすために利用されている」イラン側の標的だという。
+
+米軍は、ホルムズ海峡付近の島を標的とした早朝の攻撃に続き、米東部時間午後3時にも追加の攻撃を開始した。
+
+米中央軍はX（旧ツイッター）への投稿で、「米軍は最高司令官の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250632.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/16/08bbb8a894345a8e9c17752d074d49dc/t/768/524/d/uscentralcommand.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250628.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T19:50:00+09:00</dc:date>
+        <title>希少なTレックスの化石が競売に、史上最高額の81億円で落札　NY</title>
+        <link>https://www.cnn.co.jp/fringe/35250628.html?ref=rss</link>
+        <description>米サウスダコタ州で発掘されたティラノサウルス・レックス（Tレックス）の骨格標本が、競売にかけられた化石として世界最高額で落札された。サザビーズが14日にニューヨークで開催したオークションでついた価格は5013万ドル（約81億円）だった。
+
+この約6700万年前の骨格標本は、「ガス」という愛称で呼ばれている。その名は、標本が発見されたサウスダコタ州ハーディング郡の土地を所有していた牧場主、故ゲーリー・「ガス」・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250628.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/6af3fa31b6e4fcb7972f023a4400fcae/t/768/432/d/gettyimages-2283666884.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250626.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T18:54:00+09:00</dc:date>
+        <title>トランプ氏がほのめかした「地上戦」、これは何を意味するのか</title>
+        <link>https://www.cnn.co.jp/usa/35250626.html?ref=rss</link>
+        <description>イランとの対立が激しさを増す中、トランプ米大統領は14日、地上戦の可能性を遠回しにほのめかしたものの、具体的な詳細については曖昧（あいまい）な姿勢を取った。
+
+トランプ氏は米FOXニュースとのインタビューで地上戦について聞かれ、「それはしたくない」とコメントした。
+
+そのうえで「地上作戦が必要になる場合もあるが、我々の代わりに遂行してくれる人たちがいる」と語ったが、それが誰なのかには一切触れなかった。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250626.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/cf79bdb2ae05232b1ed706ac91ee0235/t/768/512/d/gettyimages-2285445661__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250620.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T18:05:00+09:00</dc:date>
+        <title>熱波襲来で芝生枯れる、隠れていた17世紀の庭園が出現　22年英国</title>
+        <link>https://www.cnn.co.jp/fringe/35250620.html?ref=rss</link>
+        <description>英国全土で熱波が猛威を振るった2022年、中部ダービーシャーにある歴史的邸宅チャッツワース・ハウスの芝生が枯れ、17世紀に存在した観賞用庭園の遺構が現れる出来事があった。邸宅を管理する団体が当時明らかにした。
+
+同団体によると、観賞用庭園の輪郭は1699年にさかのぼるものだという。
+
+史料の絵を見ると、当時は広大な庭園であったことが分かる。この庭園は1730年ごろに置き換えられた。
+
+再び雨が降り、芝生が伸びるに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250620.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/aabc2b0e7c2ea35a18f3818d753e01da/t/768/432/d/image__6_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250622.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T17:56:00+09:00</dc:date>
+        <title>【分析】トランプ氏の常套手段を使い、本人を窮地に追い込むイラン</title>
+        <link>https://www.cnn.co.jp/world/35250622.html?ref=rss</link>
+        <description>イランはトランプ米大統領のやり方にのっとって、本人を翻弄（ほんろう）しているようだ。
+
+トランプ氏は13日、イランが合意を守るとは信頼できないと不満をもらし、イランの統治者らの動きを非難した。その行動はトランプ氏の代名詞ともいえる手法の一つだ。
+
+「合意は成立していたのに、イランが破った。イランはいつも破る」。トランプ氏は、戦争を一時的に停止させた覚書についてFOXニュースにこう語った。パリ協定の2度の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250622.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/44d992bbcfaeeea493f08317929a50f2/t/768/512/d/gettyimages-2285350068.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250615.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T17:27:00+09:00</dc:date>
+        <title>皇族の数が足りない日本、女性天皇はなぜ認められないのか</title>
+        <link>https://www.cnn.co.jp/world/35250615.html?ref=rss</link>
+        <description>日本には初の女性首相が誕生したが、その政権が皇位継承の危機を回避しようと取り組む法改正によって、女性が天皇になる可能性はますます狭まりそうだ。
+
+日本で現在、皇位継承権を持つのはわずか3人で、そのうち2人は60歳を過ぎている。皇室が直面する継承問題は深刻だ。
+
+これまでの数百年間、皇位は男系男子だけが受け継いできた。ビジネスや政治などの分野でも男性優位で、家父長制の色が濃い日本社会のイメージ通りだ。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250615.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/02e43d15ce97ceff4ead3f22796fc192/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJlZTR2cDgwMDA0M2I2cmhrd3Z4MTJ6-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcmVjZXZxbTAwMXoyOG5vOTYwazBicmE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250510.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T14:00:00+09:00</dc:date>
+        <title>カタールから寄贈の機体を改修、新型「エアフォースワン」は米大統領が直面する脅威に対応できるのか？</title>
+        <link>https://www.cnn.co.jp/usa/35250510.html?ref=rss</link>
+        <description>トランプ米大統領は先週、訪問先のトルコを出発する際、35年前に導入された改造型ボーイング747に搭乗した。先ごろ大々的にお披露目され、駐機場の向かい側に止まっていた新型エアフォースワン（大統領専用機）は使用しなかった。
+
+この判断を受け、カタールから寄贈された新専用機に対する厳しい目が向けられている。同機は異例ともいえる短期間で改修が行われたため、重装備の「空飛ぶホワイトハウス」として機能するために必...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250510.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/13/b0525d6aef0cefdb345bb72116f6c601/t/768/511/d/2026-07-02t005345z-2093677689-rc2c5madju1g-rtrmadp-3-usa-trump-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35250602.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T13:34:00+09:00</dc:date>
+        <title>中国GDP、4～6月期は4.3％増　コロナ禍以降で初めて成長目標に届かず</title>
+        <link>https://www.cnn.co.jp/business/35250602.html?ref=rss</link>
+        <description>中国国家統計局は15日、今年の第2四半期の経済成長率が市場予想を下回る前年同期比4.3%だったと発表した。中国は現在、国内外の経済的課題への対応に苦慮している。
+
+市場が予想した中国国内総生産（GDP）の成長率は4.5%だった。中国が経済的不振を認めるのは異例。同国はかねて、インフラ投資や輸出を通じて産業活動の下支えに取り組んできた。
+
+今回の結果は、中国が今年の経済成長目標に掲げる4.5～5%にも届かなかった。この...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35250602.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/6662cfdfaaa841b04488730cec4ecf17/t/768/461/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJsY25zdzEwMDAwM2I2cmRucjB4bGcy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntcmxib3U0YTAwMXgyN3BhODF3OWRuMm8_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250606.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T12:33:00+09:00</dc:date>
+        <title>激しい下痢を起こす寄生虫感染症、米国で昨年をはるかに上回る症例数　野菜が原因との見方も</title>
+        <link>https://www.cnn.co.jp/fringe/35250606.html?ref=rss</link>
+        <description>米疾病対策センター（CDC）は14日、5月1日以降に国内で感染が確認されたサイクロスポラ症の症例は1645件に上り、さらに5100件以上について調査が進められていると発表した。近年に比べ症例数が大幅に増加した計算になる。
+
+CDCによると、中西部ミシガン州とオハイオ州で拡大している集団感染は、ウェストバージニア州やケンタッキー州の症例とも関連があるという。サイクロスポラ症の患者は水状の下痢や、腹部のけいれんや張り...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250606.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/348ed34e5d35d3f34a0afa365b0953af/t/768/432/d/170807210626-new-cyclosporiasis-outbreak-0807.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250586.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T11:38:00+09:00</dc:date>
+        <title>星間空間で初めて糖を検出、生命の鍵握る化合物　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35250586.html?ref=rss</link>
+        <description>天文学者たちが、ラズベリーにも含まれる天然の糖を星間雲の塵（ちり）とガスから検出した。当該の星間雲は天の川銀河の中心付近に存在する。
+
+この甘い発見は、生命に不可欠な化合物が恒星間の広大な空間でも形成され得ることを初めて示す事例となった。これを受けて、生命の起源にとって重要な他の分子も宇宙で見つかる可能性があるとの期待が高まっている。
+
+スペインの宇宙生物学センターの天文学者が率いる研究チームが今...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250586.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/7711ed9608f2859fac896c6e27627f2d/t/768/552/d/stsci-01evsv6pxgb5wazhh0kfah2v48.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250601.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T11:16:00+09:00</dc:date>
+        <title>トランプ氏、ホルムズ海峡通航料徴収計画を24時間で断念　背後に必死の働きかけ</title>
+        <link>https://www.cnn.co.jp/world/35250601.html?ref=rss</link>
+        <description>トランプ米大統領がホルムズ海峡に通航料を課す計画を打ち出したことで、湾岸の同志国や自身の側近の多くに衝撃が走り、要求を撤回するよう説得すべく国際的な働きかけが始まった。事情に詳しい複数の関係者がCNNに明らかにした。
+
+トランプ氏の周囲は13日に突如発表されたこの構想について、追求することのないよう数カ月にわたって本人に警告していた。米国の戦争目的を損なうだけでなく、イランがもくろんでいるとされる通航...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250601.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/a1ca02048948a9d648c1c9d719da0fad/t/768/432/d/2026-07-01t133311z-1978263035-rc21mlarmmk7-rtrmadp-3-oil-opec-20260714194415514.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250600.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T10:39:00+09:00</dc:date>
+        <title>登山道で大麻を食べた？　突然動けなくなった大型犬、山岳救助隊に運ばれ下山</title>
+        <link>https://www.cnn.co.jp/fringe/35250600.html?ref=rss</link>
+        <description>英最高峰のベン・ネビス山（標高1345メートル）で、飼い主と一緒に登山していた大型犬が急に具合が悪くなり、駆け付けた山岳救助隊に運ばれて下山した。飼い主の女性は、大麻を食べたことが原因だったと話している。
+
+飼い主でドッグトレーナーのクリスティーナ・ブルームさんによると、救助されたのは5歳のメスの黒ラブラドル犬「トーキョー」。5日にスコットランドのベン・ネビス山で登山を始めて数時間後に具合が悪くなり、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250600.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/f9bfd8901fdb175221871275dc178a9e/t/768/511/d/741757099-1472927974873021-4790680284474900049-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250582.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T10:00:00+09:00</dc:date>
+        <title>ウクライナの6月の民間人死者数、月別で22年以降最多に　都市部への長距離ミサイルで甚大な被害</title>
+        <link>https://www.cnn.co.jp/world/35250582.html?ref=rss</link>
+        <description>国連は14日、今年6月は2022年4月以降でウクライナの民間人の死者数が最も多い月になったと発表した。激しさを増すロシアの攻撃の影響で、前線から遠く離れた都市でも壊滅的な被害が出ている現状が浮き彫りになった。
+
+国連ウクライナ人権監視団（HRMMU）によると、6月に死亡したウクライナの民間人は少なくとも293人。今年に入ってからの民間人の死者数は1400人近くに達した。前年の同じ時期に比べ37％増え、24年の同時期と比較...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250582.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/6dad5db5606229603b0d7ae9af296061/t/768/534/d/2026-06-02t082857z-843755721-rc2glla0nnns-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250569.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T09:48:00+09:00</dc:date>
+        <title>上空に「退屈」の文字、試験飛行のパイロットが暇つぶし？　英国</title>
+        <link>https://www.cnn.co.jp/world/35250569.html?ref=rss</link>
+        <description>2時間のテスト飛行の最中に暇をもてあましたとみられる航空機のパイロットが、いたずら半分に「I'm bored（退屈だ）」の文字を英国の上空に描き出した。
+
+高度約1100フィート（335メートル）の上空に描かれたこの文字は、航空機追跡サイトの「フライトレーダー24」が現地時間の11日午前にとらえた。
+
+追跡データによると、英航空会社レイブンエアの航空機は、イングランド北西岸のリバプールを出発して2時間の飛行を行い、ウィ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250569.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/cba4c2cbf34e2b72a946677d227d0791/t/768/512/d/screenshot-2026-07-14-at-10-38-04-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250562.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-15T08:42:00+09:00</dc:date>
+        <title>米軍、イランへの追加攻撃を実施　海上封鎖も再開</title>
+        <link>https://www.cnn.co.jp/usa/35250562.html?ref=rss</link>
+        <description>米軍の声明によると、米国は14日、海上封鎖の再開を前にイランに対する新たな攻撃を実施した。
+
+米中央軍はX（旧ツイッター）への投稿で「米東部時間きょう午後3時、ホルムズ海峡での商船攻撃に使用されるイランの能力を引き続き弱体化させるため、イランに対する追加攻撃を開始した」と説明。一連の攻撃について、米軍部隊が「イランの港湾や沿岸地域に対する海上封鎖の再開を準備する」中で実施されたと付け加えた。
+
+攻撃の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250562.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/15/2040cb4811d05a78c4745999496ed89b/t/768/512/d/ap26194339749499-20260714201341306__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35250556.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-14T18:45:00+09:00</dc:date>
+        <title>トランプ氏、ホルムズ海峡通過の安全提供に20％の手数料要求　具体的な仕組みは</title>
+        <link>https://www.cnn.co.jp/business/35250556.html?ref=rss</link>
+        <description>米国とイスラエルによる対イラン戦争が勃発して以来、海運会社は、イランが支配する重要な貿易ルートであるホルムズ海峡を船舶が安全に航行できるよう、保護の強化を求めてきた。トランプ米大統領はここへ来て、米国がその保護を提供できると述べている。ただその見返りとして、海峡を通過する貨物に対し20％の手数料を課すとしている。
+
+「米国は今後、『ホルムズ海峡の守護者』として知られることになるだろう。だがそうであ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35250556.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/14/676f52f8a09f3d6f9f222038d61d547a/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJqZDZqZzgwMDJ4MjdudmNoejRlc2Fl-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcmpkNmpnODAwMnkyN252ZHA4NTkzdHM_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250557.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-14T18:19:00+09:00</dc:date>
+        <title>米軍、イラン攻撃で無人水上艇を初めて実戦投入　分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35250557.html?ref=rss</link>
+        <description>米中央軍は13日、イランの港湾に対する前日の攻撃で初めて使用した片道攻撃用の無人艇について詳細を公表した。
+
+中央軍の声明では、「3隻の『コルセア』無人水上艇（USV）がバンダルアッバス海軍基地の港を攻撃した。米軍が海上ドローンを実戦投入するのは初めてだ」と説明している。
+
+添付された動画には、無人艇が整備施設内の「潜水艦」（中央軍の説明）に衝突する様子が映っている。潜水艦は稼働しているようには見えなか...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250551.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-14T16:34:00+09:00</dc:date>
+        <title>ウクライナの水陸両用攻撃ロボット、上陸作戦を実施　映像公開</title>
+        <link>https://www.cnn.co.jp/world/35250551.html?ref=rss</link>
+        <description>毎週のように新たな展開を見せるウクライナで、今度は機関銃を搭載した水陸両用攻撃ロボットが登場した。
+
+ウクライナが公開した映像には、ボートで輸送された後、ロシアの陣地を攻撃する地上ロボットが映っている。場所は争奪戦が繰り広げられているウクライナ南部ヘルソンの一帯で、重要な河口が位置する。
+
+取材班はこの巨大マシーンを使ってロシア軍に恐怖を植え付けようと試みている部隊に話を聞いた。10メートルほどの距...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250551.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/14/7ba9ae9c44b8285dd26353d89a710fbf/t/768/432/d/22801494-land-sea-drone-16x9-cl-00-00-34-15-still002.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250531.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-14T15:57:00+09:00</dc:date>
+        <title>突進するバイソンに跳ね飛ばされた男性、手術受け回復中　米イエローストーン国立公園</title>
+        <link>https://www.cnn.co.jp/usa/35250531.html?ref=rss</link>
+        <description>孫と毎年恒例の旅行に出かけた米国の男性が、モンタナ州の病院に運び込まれる事態に見舞われた。イエローストーン国立公園でバイソンに襲われたためだ。
+
+カール・マクダニエルさん（65）は10日夕方、公園内のブリッジ・ベイ・キャンプ場でバイソンに突進され、空中へ跳ね飛ばされた。その衝撃で大腿（だいたい）骨を骨折し、入院を余儀なくされた。マクダニエルさん本人と国立公園局が明らかにした。
+
+マクダニエルさんは13歳...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250531.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/14/9cf0883fb238b51e10d4841a8c85de6b/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJqYzVmemswMDJkMjhwNjNpazQyOHVz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcmpjNWZ6azAwMnMyOHA2ZW9lbWg1aXM_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250527.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-14T14:40:00+09:00</dc:date>
+        <title>パリ近郊で森林火災、セーヌ川の水で消火　欧州を襲う熱波で増え続ける死者</title>
+        <link>https://www.cnn.co.jp/world/35250527.html?ref=rss</link>
+        <description>欧州全土で猛暑が続く中、フランス・パリの南部で大規模な森林火災が発生し、消防隊が懸命の消火活動を続けている。
+
+CNN提携局のBFMTVは13日、これまでに800ヘクタール以上の森林が焼失したと伝えた。消防隊は航空機でセーヌ川から水をくみ上げて消火活動に使っているという。
+
+  
+
+
+                
+                    
+                    
+                    
+                    
+                    
+           ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250527.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/14/7c21e027f8b68dc1e50284df12ff41b0/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJqMGVieWMwMDFvMzU2cjdmbWVuenp0-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntcml4emtoejAwNngyOHAyMDd0M2d3OWE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
