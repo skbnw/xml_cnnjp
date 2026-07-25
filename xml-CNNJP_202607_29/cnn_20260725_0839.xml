@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-07-25T16:24:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250964.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250963.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250962.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250961.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250960.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250959.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250954.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250953.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250948.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250947.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250945.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250943.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250938.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250928.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35250920.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250919.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250896.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250913.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250906.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250903.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250894.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35250893.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250892.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250887.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250877.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250876.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250867.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250865.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250857.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250859.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250964.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-25T16:24:00+09:00</dc:date>
+        <title>13夜連続でイラン攻撃の米中央軍、24日は新たな発表なし</title>
+        <link>https://www.cnn.co.jp/usa/35250964.html?ref=rss</link>
+        <description>2週間近く連日イランへの攻撃を続けてきた米中央軍だが、24日はイラン攻撃を実施したとの発表を行わなかった。
+
+中央軍はここ13日間の毎晩、イラン国内の軍事目標を攻撃しているとX（旧ツイッター）に投稿していた。だが、米東部時間24日中にそうした発表はなかった。中央軍の本部があるフロリダ州タンパは米東部時間を採用している。
+
+中央軍が24日に対イランの軍事行動を取らなかったのかは不明だ。
+
+CNNは中央軍にコメントを...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250963.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-25T15:30:00+09:00</dc:date>
+        <title>ザトウクジラの口にのみ込まれたダイバー、吐き出されて助かる　21年米</title>
+        <link>https://www.cnn.co.jp/fringe/35250963.html?ref=rss</link>
+        <description>ダイバーの男性がザトウクジラの口にのみ込まれ、危うくクジラの餌になるところだったものの、吐き出されて助かった――。米マサチューセッツ州ケープコッドで2021年、そんな出来事があった。
+
+マイケル・パッカードさんは6月11日、同州プロビンスタウン沖でロブスター漁のためダイビングをしていたとき、不意にクジラに襲われた。
+
+パッカードさんはCNN提携局WBZに対し、「13．7メートルほど潜ったところで突然、大きな衝撃を感...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250963.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/25/4467b3688078cbb22380895179b070bc/t/768/432/d/diver-swallowed-by-whale-super-169.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250962.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-25T14:23:00+09:00</dc:date>
+        <title>寄生虫感染症の集団感染、さらに4州で確認　レタスが感染源か　米CDC</title>
+        <link>https://www.cnn.co.jp/usa/35250962.html?ref=rss</link>
+        <description>米国で下痢を引き起こす寄生虫感染症「サイクロスポラ症」の感染が拡大している問題で、米国疾病予防管理センター（CDC）は、玉レタスとの関連が疑われる一連の症例が9州で確認されたと明らかにした。
+
+すでに集団感染が確認されていたインディアナ州、ケンタッキー州、ミシガン州、オハイオ州、ウェストバージニア州に加え、イリノイ州、カンザス州、オクラホマ州、ペンシルベニア州の4州も発生地域に加わった。
+
+州の追加につ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250962.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/25/44f28b53673442a56bb72bf1407194f0/t/768/768/d/ap26189642009611-20260724125056625.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250961.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-25T11:41:00+09:00</dc:date>
+        <title>銃撃で中断の記者夕食会、改めて開催　トランプ氏は居眠り？</title>
+        <link>https://www.cnn.co.jp/usa/35250961.html?ref=rss</link>
+        <description>4月に銃撃事件の発生で中断したホワイトハウス記者協会主催の夕食会が24日、高級ホテル「ウォルドルフ・アストリア」で改めて開催された。トランプ氏は壇上に座ったまま、居眠りしているとみられる場面もあった。
+
+トランプ氏はホワイトハウス記者協会のウェイジア・ジャン会長と、ホワイトハウスのレビット報道官の間に着席。宴会場内のスクリーンで記者協会の過去の奨学生を紹介するビデオが流れている間など、長時間にわたっ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250960.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-25T10:31:00+09:00</dc:date>
+        <title>スペースXの大型ロケット「スターシップV3」、試験飛行を完了　宇宙船もブースターも制御された状態で着水</title>
+        <link>https://www.cnn.co.jp/fringe/35250960.html?ref=rss</link>
+        <description>米民間宇宙企業スペースXは24日、大型ロケット「スターシップ」の試験飛行を完了した。先週の試験では、離陸時に複数のエンジンが点火せず、打ち上げが中止されていた。
+
+今回の試験飛行は「フライト13」と呼ばれる。いくつかの重要なハードルをクリアした後、スターシップの上段を構成する宇宙船がインド洋に制御された着水を行い、試験終了となった。ロケットブースターの「スーパーヘビー」は飛行開始から2分後にスターシッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250960.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/25/1e0ffe00f948c11dbe72ba560aa6014c/t/768/432/d/still-22835398-2883875-997-still__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250959.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-25T09:04:00+09:00</dc:date>
+        <title>トランプ氏、イラン情勢をエスカレートさせる可能性について協議　情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35250959.html?ref=rss</link>
+        <description>トランプ米大統領は24日、ホワイトハウスで有力顧問や閣僚と会談し、イランでの状況をエスカレートさせる可能性について協議した。事情に詳しい情報筋がCNNに明らかにした。
+
+トランプ氏は会談後、記者団に対し、米当局がイランと積極的に交渉中だと強調しつつも、米軍が爆撃を継続したり、「さらに激しい攻撃を加えたりする」可能性もあると述べた。進行中の協議でのイランの交渉姿勢は「より真剣」になっている様子だとも語っ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250954.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-24T18:34:00+09:00</dc:date>
+        <title>中国船、CNN取材班乗せたフィリピン船に放水砲発射　緊張高まる南シナ海の環礁付近で</title>
+        <link>https://www.cnn.co.jp/world/35250954.html?ref=rss</link>
+        <description>南シナ海の係争海域付近で24日、中国船がCNNの取材班を乗せた船舶を含むフィリピン船に放水砲を発射した。当該海域で双方が緊張感を持って対峙（たいじ）するのは今週に入って3度目。
+
+今回CNNは、フィリピン水産資源局の船舶に独占的に乗船する機会を得た。同船は中国とフィリピンの双方が領有権を主張するスカボロー礁付近で、地元漁民向けの燃料補給を行う任務に就いていた。
+
+  
+
+
+                
+                    
+ ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250954.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/24/5263bd442d6389a03cff93162498444f/t/768/432/d/thumb-22834454-4042-5129999999995-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250953.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-24T17:14:00+09:00</dc:date>
+        <title>イラン、バーレーンとヨルダンにある米国の標的を攻撃　国営メディア</title>
+        <link>https://www.cnn.co.jp/world/35250953.html?ref=rss</link>
+        <description>イラン国営のプレスTVによると、イラン軍は現地時間24日午前、バーレーンのシェイク・イーサ空軍基地およびヨルダンのアル・アズラク空軍基地にある米国の標的に向けて攻撃用ドローン（無人機）を発射したと主張した。
+
+  
+
+
+                
+                    
+                    
+                    
+                    
+                    
+            
+
+    
+     （Telegram/IRIB） 
+
+イラン国営放送IRIBが公...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250948.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-24T15:00:00+09:00</dc:date>
+        <title>バス車内に置き去りの小型サルを保護、規制強化の影響か　ロンドン</title>
+        <link>https://www.cnn.co.jp/world/35250948.html?ref=rss</link>
+        <description>英ロンドン市内を走る路線バスの車内で先週、洗濯物の収納袋に入った小型のサル「マーモセット」が保護された。
+
+飼い主に捨てられたとみられる。ロンドンなどイングランド全域で最近、霊長類の飼育に関する法律が改正された影響との見方が強い。
+
+サルは17日午前、ロンドン北西部のミル・ヒル・ブロードウェイからケンサル・ライズに向かう路線の終点近くで発見された。
+
+英NPO、王立動物虐待防止協会（RSPCA）によると、子ど...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250948.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/24/d084baac642205336335953bb2e032db/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJ1bGFzZWIwMDA3MzU2cmdyZ2RlNnQz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcnVsOHNyeTAwMXoyN25xNzh1czg3cmU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250947.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-24T14:24:00+09:00</dc:date>
+        <title>街は暑すぎ？、無料映画が市民の「納涼」に一役　伊ローマ</title>
+        <link>https://www.cnn.co.jp/world/35250947.html?ref=rss</link>
+        <description>イタリアの首都ローマは、1983年の大ヒット映画「再会の時（原題：The Big Chill）」にちなんだ暑熱対策の取り組みを開始する。記録的な暑さに見舞われているこの夏、日中の暑い時間帯に冷房の効いた映画館で映画を無料上映するという内容だ。
+
+エネルギー会社エネルによると、イタリアでは家庭にエアコンがある人は全体の半数にも満たない。ローマではうだるような暑さに苦しむ市民たちが、耐え難い暑さをしのぐために手持ち型...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250947.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/24/526435002a49dd171b658bf61321ebcf/t/768/512/d/gettyimages-2284122468.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250945.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-24T12:38:00+09:00</dc:date>
+        <title>ロシア工作員、米国の核科学者や防衛関連企業のメールにサイバー攻撃　官民の情報部門が警告</title>
+        <link>https://www.cnn.co.jp/usa/35250945.html?ref=rss</link>
+        <description>ロシアのハッカー集団がこの1年にわたり、サイバー諜報（ちょうほう）活動の一環として、原子力科学者、防衛関連企業、政府職員を標的にしていたことが、民間の研究者らによる調査と23日に公開された情報機関の警告によって明らかになった。
+
+標的の選定からは核融合技術の他、ウクライナとの戦争に寄与し得る情報に対するクレムリン（ロシア大統領府）の関心がうかがえる。
+
+この活動の一部を調査した米国のメールセキュリティ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250945.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/24/a539a5ebfeeeeff0b9f93c42ddc1a15d/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJ5MjdtaWIwMDBuMzU2cmxxd3BocjVv-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcnkxOGs3MjAwMHkyNnFwZWZiYmZpZG0_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250943.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-24T11:08:00+09:00</dc:date>
+        <title>デザートにアリをトッピング、韓国ミシュラン二つ星レストランの経営者を起訴</title>
+        <link>https://www.cnn.co.jp/world/35250943.html?ref=rss</link>
+        <description>ミシュランの二つ星を獲得した韓国・ソウルのレストランが、客に出すデザートにアリをまぶしていたとして、経営者が食品衛生法違反の罪で起訴された。有罪になれば多額の罰金と1年以下の禁錮を言い渡される可能性がある。
+
+問題とされたのは、単に昆虫が料理に使われたことだけではなかった。
+
+韓国の食品に関する法律では、食材として使用できる昆虫に関して細かい取り決めがある。
+
+検察によると、問題の飲食店は、米国やタイ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250943.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/24/b81f2c6b63d4e96d1b7dd64470ac8c08/t/768/393/d/ants-from-the-us-credit-ministry-of-food-and-drug-safety-bmp.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250938.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-24T10:06:00+09:00</dc:date>
+        <title>米軍、イランにさらなる攻撃　13夜連続</title>
+        <link>https://www.cnn.co.jp/usa/35250938.html?ref=rss</link>
+        <description>米中央軍はSNSへの投稿で、米軍がイランに対しさらなる攻撃を実施していると発表した。
+
+中央軍はX（旧ツイッター）で、「13夜連続の攻撃になる。イランの責任を問うとともに、イスラム革命防衛隊による商船への脅威を減じることが目的だ」と述べ、攻撃は米東部時間午後6時45分に始まったと言い添えた。
+
+トランプ米大統領はこれより前、連日の空爆に続いて「もっと同じ目に遭わせる必要がある」と述べ、現時点ではイランとの新...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250928.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-24T09:16:00+09:00</dc:date>
+        <title>刃物で襲われ2人が負傷、被害者はアジア系とユダヤ系　ヘイトクライムか　米NY</title>
+        <link>https://www.cnn.co.jp/usa/35250928.html?ref=rss</link>
+        <description>ニューヨーク市マンハッタンで現地時間の23日午後、男性2人が刃物で襲われて負傷した。警察は、ヘイトクライム（憎悪犯罪）だった可能性があるとみて捜査している。
+
+ニューヨーク市警によると、被害者のうち1人はアジア系、もう1人はユダヤ系だった。目撃者や被害者は、男が「アラー・アクバル（神は偉大なり）」と叫びながら被害者を刺したと話している。
+
+2人に襲いかかったとされるラウル・モラレス容疑者（51）は取り押さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250928.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/24/2b9f31c1fc13ae481abc43b13be91cf1/t/768/432/d/stabbing-still-22833209-201048-071-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35250920.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-24T08:57:00+09:00</dc:date>
+        <title>トランプ政権、10～12.5％の新関税を発表　24日に発動</title>
+        <link>https://www.cnn.co.jp/business/35250920.html?ref=rss</link>
+        <description>トランプ米政権は23日、新たな関税を24日から発動すると発表した。トランプ大統領は今年前半、最高裁によって最も強硬な関税措置が退けられたことを受け、外国製品に課税する別の手段を模索すると明言していた。
+
+米通商代表部（USTR）が発表した声明によると、24日午前0時1分から、欧州、中国、インドを含む米国の数十の貿易相手国・地域から輸入される製品に、10～12.5％の新たな関税が課される。対象となる60の国・地域から...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35250920.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/24/8664f63a49d8052362913316c390e00f/t/768/547/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJ4dHFpbnIwMDAzM2I2cmdveHoyczQx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntcnh0bzlxcjAwMHkyN3A5NDloZjJiOHA_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250919.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-24T08:21:00+09:00</dc:date>
+        <title>米、サウジとの原子力協定「白紙」も　イスラエルとの国交正常化が条件</title>
+        <link>https://www.cnn.co.jp/usa/35250919.html?ref=rss</link>
+        <description>米ホワイトハウスは23日、すでに署名されたサウジアラビアとの民生用原子力に関する協定について、同国がイスラエルとの外交関係を正常化しない限り「白紙になる」と表明した。
+
+レビット報道官は、トランプ大統領がこれまで、サウジを含む各国に対し、イスラエルとアラブ諸国の関係を正常化させる「アブラハム合意」への参加を繰り返し求めてきたことを指摘した。
+
+一方で、トランプ氏が提示した原子力協定に関する新たな条件...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250896.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-23T19:45:00+09:00</dc:date>
+        <title>古代ポンペイで噴火を生き抜いた人々の物語　新作ドキュメンタリーでよみがえる</title>
+        <link>https://www.cnn.co.jp/fringe/35250896.html?ref=rss</link>
+        <description>古代ローマの都市ポンペイの遺跡はよく、過去をそのまま残すタイムカプセルに例えられる。かつて栄えた港町が、紀元79年に起きたベスビオ山の噴火で厚い灰に覆われ、静まり返った。
+
+米オハイオ州のマイアミ大学で古典学研究を率いるスティーブン・タック教授はCNNとのインタビューで、「ずっとそう語られ続けてきた」と話した。「ポンペイを歩き回ればだいたい出くわすのが、だれもかも死に絶え、何もかも消え去ったという筋書...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250896.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/23/56e8634d2f0bc286f8bd76160a5a66f7/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJ0OHh3eW8wMDAxMzU2cmhvcHVhYWFj-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcnBlZHdzcTAwMncyN25uMHE4ZzBqeGc_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250913.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-23T18:34:00+09:00</dc:date>
+        <title>シャチの激しい体当たり、マンボウが粉々に「爆発」　捕食戦略か遊びか</title>
+        <link>https://www.cnn.co.jp/fringe/35250913.html?ref=rss</link>
+        <description>大型の重い魚に猛スピードで体当たりし、その衝撃で一瞬にしてバラバラの肉片に粉砕する――。「キラーホエール」とも呼ばれるシャチの間では従来、こうした協調的な捕食戦略は知られていなかった。
+
+しかし2024年と25年、ダイバーたちはメキシコ沖の太平洋やカリフォルニア湾で、2件のこうした事例を水中カメラで捉えた。研究チームは22日付の学術誌「フロンティアズ・イン・エソロジー」で、この残忍な体当たりに言及。映像から...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250913.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/23/6c129af1101965425056c48a8d9523fb/t/768/441/d/gettyimages-1925931469.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250906.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-23T16:35:00+09:00</dc:date>
+        <title>干ばつで水位低下、人造湖から次々に遺体発見　22年米ネバダ州</title>
+        <link>https://www.cnn.co.jp/usa/35250906.html?ref=rss</link>
+        <description>米国最大の人工貯水池ミード湖で2022年、大規模な干ばつによって水位が低下し、複数の遺体が相次ぎ見つかる出来事があった。米国立公園局が発表した。
+
+発表によると同年7月、ネバダ州ボールダーシティーで、ミード湖から人の遺体が見つかったという通報があり、パークレンジャーが出動して遺体を回収した。
+
+死因についてはクラーク郡検視局が調査に当たった。
+
+ミード湖では同年5月1日にも、樽（たる）に入った遺体が見つかっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250906.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/23/1d3b0f28c1022b8c7e0720a3d7b0d691/t/768/432/d/image__7_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250903.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-23T15:05:00+09:00</dc:date>
+        <title>フーシ、紅海でサウジのタンカー攻撃と主張　衛星画像に炎上するタンカーか</title>
+        <link>https://www.cnn.co.jp/world/35250903.html?ref=rss</link>
+        <description>イランを後ろ盾とするイエメンの反政府武装組織フーシは、サウジアラビアの石油タンカー2隻を現地時間23日午前に攻撃したと主張した。米航空宇宙局（NASA）の衛星画像には、紅海で炎上するサウジ船籍のタンカー「エンセリア」が写っているとみられる。
+
+CNNによる海運データの分析によると、画像に見える明るい点は、エンセリアが自動船舶識別装置（AIS）を通じて送信した位置情報と一致する。前日の衛星画像では同じ位置にそう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250903.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/23/924f12df25299d72451c919fbd2881ea/t/768/524/d/snapshot-2026-07-22t00-00-00z-1__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250894.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-23T12:44:00+09:00</dc:date>
+        <title>ロシアの倉庫2カ所にウクライナの攻撃、ネット通販大手が確認</title>
+        <link>https://www.cnn.co.jp/world/35250894.html?ref=rss</link>
+        <description>ロシアで22日、倉庫2カ所がウクライナの攻撃を受けた。
+
+ロシアのインターネット通販大手企業は、南西部クラスノダールとネビンノムイスクの倉庫が攻撃を受けたことを確認した。
+
+地元知事によると、一帯への夜間攻撃で少なくとも1人が死亡したという。
+
+
+
+
+
+
+
+ロシア国防省は、夜間にウクライナのドローン（無人機）242機を迎撃したとしている。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250894.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/23/66f1e66c32f02b7f4b1413cf5eb4314b/t/243/432/d/oar2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35250893.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-23T11:26:00+09:00</dc:date>
+        <title>テスト中のAIが「脱走」して他社に不正侵入、試験問題の答えがある場所を推論</title>
+        <link>https://www.cnn.co.jp/tech/35250893.html?ref=rss</link>
+        <description>米オープンAIは、実験中の人工知能（AI）モデルが人の指示を受けずにテスト環境を脱出し、他社の本番環境に不正侵入したと発表した。サイバーセキュリティー試験でAIが「不正」を試みたと説明している。
+
+AIシステムが自律的にテスト環境を破って外部のシステムに到達していたことが明らかになった、ほぼ初めてのケースだった。こうした「エージェント型攻撃」の筋書きについては、いずれ起きるだろうと業界が予告していた。例...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35250893.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/04/14/316b5f14ceb68e1a7b4e2423846917e8/t/768/512/d/c-2026-03-20t193909z-1777114240-rc2i2kaptryb-rtrmadp-3-openai-altman-sister-lawsuit.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250892.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-23T10:55:00+09:00</dc:date>
+        <title>エプスタイン氏に若い女性を紹介、モデルスカウトの男性が遺体で発見　フランス</title>
+        <link>https://www.cnn.co.jp/world/35250892.html?ref=rss</link>
+        <description>性犯罪で起訴され勾留中に死亡した米富豪、ジェフリー・エプスタイン氏に10年以上にわたりモデルを紹介していたフランスのモデルスカウトが20日、パリ近郊の自宅で遺体で発見された。
+
+遺体で見つかったのはダニエル・シアド氏。地元裁判所の副検察官は22日の声明でCNNに対し、遺体はパリ近郊コロンブの自宅で見つかったと明らかにした。
+
+死因究明のため検視が行われる見通し。
+
+CNNが最近インタビューしたところ、シアド氏は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250892.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/23/42d0af1038a100f9c291f5a88fc4300b/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJ2emJ4OTQwMDNpMjdwODU4aXI4NWdx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcnZ6Yng5NDAwM3gyN3A4Y3VqeThsNjY_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250887.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-23T09:40:00+09:00</dc:date>
+        <title>イタリア南部で山火事、猫たちを放火に利用　尾に可燃性液体染みた布くくりつけ</title>
+        <link>https://www.cnn.co.jp/world/35250887.html?ref=rss</link>
+        <description>イタリア南部で山火事が発生し、消防が懸命の消火活動を続けている。放火とみて調べていた捜査当局は、複数の猫が可燃性の液体を染み込ませた布を尻尾にくくりつけられ、放たれていたと発表した。
+
+「その動物たちが放たれて走り回り、火が燃え広がった」。カラブリア州市民保護局は21日、フェイスブックにそう投稿。ほかにも火のついたろうそくや発火装置など、放火だったことを裏付ける証拠が見つかったと指摘した。
+
+現場は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250887.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/23/14e8751edf8fcdf0e9512b4f8e2e9bed/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJ3ZjNtNHYwMDAwM2I2cmVlZ2oyaXp6-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcndlZ2RibDAwMHkyNnFuN2txaDdicWQ_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250877.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-23T08:58:00+09:00</dc:date>
+        <title>米国、サウジとの原子力協定に署名　核燃料の国内濃縮を認める可能性</title>
+        <link>https://www.cnn.co.jp/usa/35250877.html?ref=rss</link>
+        <description>トランプ米大統領は22日、サウジアラビアとの原子力協定を承認した。米当局者2人と事情に詳しい関係者によると、この協定により、サウジが国際的な監視の「ゴールドスタンダード」を採用することなく、民生用原子炉向けの核燃料を自国で濃縮できるようになる可能性がある。
+
+米エネルギー省は同日午後、協定への署名を発表した。今後、義務付けられた審査期間に入るため、議会に提出される。
+
+米当局者の1人によると、「123協定...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250877.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/23/68e13ff4de0734670734753818e6b787/t/768/512/d/gettyimages-2247321300.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250876.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-23T08:28:00+09:00</dc:date>
+        <title>トランプ氏、ホルムズ海峡で船舶攻撃なら「橋・発電所を破壊」　イランも反撃を警告</title>
+        <link>https://www.cnn.co.jp/world/35250876.html?ref=rss</link>
+        <description>トランプ米大統領は22日、イランがホルムズ海峡を航行する船舶を標的にするたびに、米国は「橋または発電所を1カ所爆撃し、破壊する」と述べた。
+
+トランプ氏は自身のSNS「トゥルース・ソーシャル」に、「今後、イラン・イスラム共和国がホルムズ海峡で船舶に対し、ミサイル、ロケット弾、ドローン（無人機）、その他いかなる装置や兵器であれ、それらを用いて攻撃を行うたびに、米国は橋または発電所を1カ所爆撃し、破壊する。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250876.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/23/75b8a06f0adac4e995db8db5f05fd9cd/t/768/512/d/usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250867.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-22T18:30:00+09:00</dc:date>
+        <title>警察の拘束下でモロッコ人男性死亡、正義求める抗議活動が一部暴徒化　伊北部</title>
+        <link>https://www.cnn.co.jp/world/35250867.html?ref=rss</link>
+        <description>イタリア北部のボローニャで、モロッコ人の男性が警察の拘束下で死亡した事案をめぐり、抗議活動が発生している。拘束時の映像はオンライン上で拡散。抗議活動の一部は暴力的なものとなった。
+
+イタリアの検察当局がCNNに明らかにしたところによると、現在警察官2人と救急対応に当たった初期対応者4人が、過失致死の疑いで捜査対象となっている。亡くなったのは42歳の男性で、警察官に手錠をかけられて拘束された後に死亡したと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250867.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/22/fac5bf58fb40bb24cfe371927a3e9d42/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJ1emtla20wMDAyMzU2cmhtbGsxNnN6-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcnV2NjJpOTAwMjAyOHA0OGszcjJodzY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250865.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-22T17:16:00+09:00</dc:date>
+        <title>トランプ氏が「間もなく」攻撃と発言、イランの「ピックアックス山」とは何か</title>
+        <link>https://www.cnn.co.jp/world/35250865.html?ref=rss</link>
+        <description>トランプ米大統領がイランの「ピックアックス山」を攻撃するとの主張を続け、地下核施設と疑われるこの場所に注目が集まっている。イスラエルの見方では、イラン政府はこの施設に高濃縮ウランの備蓄の一部や、高度な濃縮遠心分離機を保管しているとされる。
+
+ピックアックス山について現時点で分かっていることは以下の通りだ。
+
+どんな施設なのか？　ピックアックス山はイラン中部の地中深くに位置する強固に要塞（ようさい）...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250865.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/22/f4fdbe47d5ad336bb31dc480d54ccb78/t/768/514/d/2026-07-01t223900z-435700050-rc2d4ma91io9-rtrmadp-3-iran-crisis-20260721204321873__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250857.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-22T15:56:00+09:00</dc:date>
+        <title>タイタニック号乗客の手紙が競売へ、悲劇の前の船上生活伝える内容</title>
+        <link>https://www.cnn.co.jp/world/35250857.html?ref=rss</link>
+        <description>1912年に沈没した豪華客船「タイタニック」での生活の詳細を記した手紙が、オークションにかけられている。「実に興味深い」内容というその手紙の落札価格は、3万5000ポンド（約764万円）前後と予想される。
+
+手紙はヘンリー・ホッジズという乗客によって書かれたもので、英国のオークション会社ヘンリー・アルドリッジ・アンド・サンの出品情報によると、日付はタイタニックが出航した1912年4月10日となっている。
+
+手紙の中で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250857.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/22/4d8f6ad3ed86baf8364ec6c57c95c692/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJ1cTQ2NG4wMDA1MzU2cmw3M3VtOWNj-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcnVxMnVxOTAwMXgyOG5xYTAwYjNwa2E_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250859.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-22T14:56:00+09:00</dc:date>
+        <title>ロシア軍艦、英国沖で異例の実弾演習　バーナム新首相はウクライナ支援を表明</title>
+        <link>https://www.cnn.co.jp/world/35250859.html?ref=rss</link>
+        <description>バーナム英首相の就任初日となった20日、ロシア海軍の艦艇が英国沖で異例の実弾演習を実施したことが分かった。英国防省が明らかにした。
+
+英メディアはこの艦艇を「ネウストラシムイ」と特定した。実施場所はイングランド南西部の港湾都市、プリマスの沖合約40カイリの公海上。
+
+国防省の報道官はCNNの取材に対し、「英王立海軍は演習の全過程を監視した。引き続きこの艦艇の動向を注視しており、国の安全を守る用意はできてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250859.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/22/e35ce72de257c9c3f4c4d992eee93ac4/t/768/432/d/gettyimages-2175722790.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
