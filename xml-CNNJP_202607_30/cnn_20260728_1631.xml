@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-07-28T21:44:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251030.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35251028.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251027.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251017.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251016.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251015.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251014.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35251011.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251008.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251006.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251004.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251003.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250997.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250989.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250985.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250986.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250978.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250983.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250977.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250975.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250974.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250971.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250970.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250969.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250967.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35250966.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250965.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250964.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35250963.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35250962.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35251030.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-28T21:44:00+09:00</dc:date>
+        <title>熊本でM7.1の地震、ショッピングモール一部崩落　多数の人々が取り残されたとの報道</title>
+        <link>https://www.cnn.co.jp/world/35251030.html?ref=rss</link>
+        <description>28日、熊本県熊本地方を震源とするマグニチュード（M）7.1の地震が発生した。地震後、県内にあるショッピングモールの一部が爆発を伴って崩落し、多数の人々が中に取り残された状況となっている。NHKが報じた。
+
+NHKが消防当局の話として伝えたところによると、建物の2階部分が崩落した際、何人が中に取り残されていたかは不明。警察によれば20～30人の従業員の安否が分かっていないという。NHKが報じた。
+
+またNHKはある病院の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251030.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/28/410ceb9296e66a680a5931511a916e67/t/768/511/d/japan-quake.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35251028.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-28T18:04:00+09:00</dc:date>
+        <title>サムスン「Galaxy Z Fold8」を試してみた　初めて折りたたみスマホが欲しいと思えた新デザイン</title>
+        <link>https://www.cnn.co.jp/tech/35251028.html?ref=rss</link>
+        <description>今やサムスンが毎年夏に発表するものについては、だいたい予想がつくようになっている。大型の折りたたみスマホ「Galaxy Z Fold」、小型の折りたたみ「Z Flip」、そして1種類か2種類の「Galaxy Watch」だ。だからこそ、超コンパクトなZ Flipと生産性重視のZ Foldの中間に位置する新デザインを採用した新型「Galaxy Z Fold8」には、本当に驚かされ、うれしくなった。これは筆者が折りたたみスマホとして今までで一番気に入ったデ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35251028.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/28/f7c831cb2678bcbf654525ba3452818a/t/768/432/d/galaxy-unpacked-summer-2026-cnnu-20.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251027.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-28T16:35:00+09:00</dc:date>
+        <title>ネタニヤフ氏とトランプ氏の会談、今回は筋書き通りに進まないかもしれない理由</title>
+        <link>https://www.cnn.co.jp/world/35251027.html?ref=rss</link>
+        <description>何年もの間、イスラエルのネタニヤフ首相がトランプ米大統領との会談で米首都ワシントンを訪れるときには、筋書に沿った演出が施されてきた。赤絨毯（じゅうたん）に温かい握手、そしてイスラエルと米国の同盟関係の緊密さを強調する共同メッセージなどだ。
+
+しかし、両者が最後に会ってから5カ月、その関係は著しく変化した。イランとの戦争が始まった当初に見られた緊密な協力関係と惜しみない称賛は、トランプ氏による罵倒（...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251027.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/28/c859f26db27941e0df3ccec89f0efb42/t/768/512/d/c-gettyimages-2223423623-20260727215100580__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251017.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-28T15:08:00+09:00</dc:date>
+        <title>地元住民への侮辱行為に怒りの声噴出、修学旅行中のイタリア人学生らが謝罪　タイ</title>
+        <link>https://www.cnn.co.jp/world/35251017.html?ref=rss</link>
+        <description>修学旅行で東南アジアのタイを訪れたイタリア人学生たちが、首都バンコクで地元の女性と口論になる様子を捉えた動画がSNSで拡散した。女性に対する学生らの侮辱的な言動はタイ国内で強い怒りを引き起こし、後に本人たちや大使館が公に謝罪する事態となった。
+
+
+
+
+
+
+当該の動画はバンコクを走る鉄道、BTSスカイトレインの車内で撮影された。修学旅行中の学生グループに対し、タイ人の乗客1人が車内で大声を出さないよう求める様...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251017.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/28/61777685816140001935023a28e6b062/t/244/432/d/tb-font.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251016.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-28T14:03:00+09:00</dc:date>
+        <title>【分析】多数の共和党支持者含む米国民、資本主義への信頼失う　世論調査で浮き彫りに</title>
+        <link>https://www.cnn.co.jp/usa/35251016.html?ref=rss</link>
+        <description>トランプ米大統領は、今年の中間選挙に向けた主な戦略はことあるごとに民主党を「社会主義者」、さらには「共産主義者」と呼ぶことだと示唆している。最近の民主党予備選では、民主社会主義が以前よりいくらか足場を固めつつあることを示す証拠もある。
+
+しかし、現在の米国政治におけるより大きな流れは、社会主義の台頭というよりも、資本主義や経済的公正さに対する信頼の低下かもしれない。
+
+そして新たな世論調査は、右派...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251016.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/28/8d289d0d36e6d9701bf208eb79a13390/t/768/512/d/gettyimages-2284353329.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251015.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-28T13:15:00+09:00</dc:date>
+        <title>欧州の山火事、今年これほど猛威を振るう理由は</title>
+        <link>https://www.cnn.co.jp/world/35251015.html?ref=rss</link>
+        <description>欧州では今夏、例年より多くの山火事が発生している。猛暑によって植生が極度に乾燥し、景観全体が火口箱のような状態になったためだ。
+
+  
+
+
+                
+                    
+                    
+                    
+                    
+                    
+            
+
+    
+     （@UMEgob/X） 
+
+ひとたび火花が飛べば、植生が非常に乾燥しているため炎はより容易に燃え広がる。この状況は、冬に十分な雨が...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251014.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-28T12:21:00+09:00</dc:date>
+        <title>フランスの山火事、放火の疑いで160人以上を事情聴取　首相明かす</title>
+        <link>https://www.cnn.co.jp/world/35251014.html?ref=rss</link>
+        <description>フランスで猛威を振るっている山火事を巡り、当局が今月6日以降、故意に火災を起こした疑いで160人以上を拘束または事情聴取していたことが分かった。ルコルニュ首相が明らかにした。
+
+「これらの火災のすべてが事故というわけではない。中には故意に火が付けられたものもある。これは最長で禁錮15年の刑が科される犯罪だ」。ルコルニュ氏は27日にX（旧ツイッター）への投稿でそう述べた。
+
+その上で、現在フランスで発生してい...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35251011.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-28T11:20:00+09:00</dc:date>
+        <title>英俳優トム・ホランド、過去の出演作こき下ろす　最新2作は「嘘なしで」宣伝</title>
+        <link>https://www.cnn.co.jp/showbiz/35251011.html?ref=rss</link>
+        <description>新作映画「オデュッセイア」と「スパイダーマン：ブランド・ニュー・デイ」に出演している英俳優のトム・ホランドが、過去の出演作には心から宣伝できないものもあったと告白した。
+
+22日に「Dish」のポッドキャスト番組に出演したホランドは、最新の2作について、「ものすごく気に入っている。自分が本当に誇りに思える映画の宣伝はすごくやりやすい」と語り、こう続けた。
+
+「なぜって、この映画を観に行くべき理由を聞かれた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35251011.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/28/2c49cabeac4897e37d0742f6a45d3120/t/768/512/d/gettyimages-2286150989.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251008.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-28T10:38:00+09:00</dc:date>
+        <title>南北戦争時代の砦から盗まれた砲弾、預け入れ荷物の保安検査で発見　米アラバマ州</title>
+        <link>https://www.cnn.co.jp/usa/35251008.html?ref=rss</link>
+        <description>米アラバマ州の空港保安検査で、南北戦争時代の砦（とりで）から盗まれた砲弾5発が、預け入れ荷物の中から見つかった。
+
+米運輸保安庁（TSA）の発表によると、ガルフショアーズ国際空港で今月、預け入れ荷物のX線検査を行っていた職員が、手投げ弾のような不審物を発見した。
+
+発見した職員は「とっさに信管が見えない、すぐに助けを呼ばなければと思った」「全体は見えなかったけれど、爆発物かもしれないと思って怖かった」と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251008.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/28/058fd5ee16df066094344316bc7b7089/t/768/667/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXMzcm90MXIwMDAyMmU2aWN5ZGdqcm9q-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtczNwdG81dzAwMHkyN3FwaHlncmdqNXo_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251006.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-28T09:33:00+09:00</dc:date>
+        <title>フェスティバル会場で銃撃戦、15歳容疑者を拘束　3人死亡、3人が銃撃に関与か　米シアトル</title>
+        <link>https://www.cnn.co.jp/usa/35251006.html?ref=rss</link>
+        <description>米シアトルのフードフェスティバル会場で26日に起きた銃撃事件に関連して、15歳の容疑者が拘束された。この事件では3人が死亡した。
+
+警察によると、死亡したのは56歳の女性と、19歳の男性、44歳の男性の3人。
+
+警察の調べによれば、現場で銃撃した人物は少なくとも3人いた。このうち1人は15歳の容疑者で、もう1人は現場で死亡した知人。残る1人の身元などは分かっていないとAP通信は伝えている。
+
+15歳の容疑者と死亡した人物...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251006.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/28/5fe53898b96398f837b0027298588fc8/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXMybzF1Z3AwMDAyM2I2cjgycm0zamZv-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtczJrNG5weTAwMXIyYXFiMDBzYWVhZXY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251004.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-28T09:03:00+09:00</dc:date>
+        <title>トランプ氏、28日にゼレンスキー氏とネタニヤフ氏と会談へ</title>
+        <link>https://www.cnn.co.jp/usa/35251004.html?ref=rss</link>
+        <description>トランプ米大統領は28日、ウクライナのゼレンスキー大統領とイスラエルのネタニヤフ首相をホワイトハウスに迎え、個別に会談を行う予定だ。ウクライナと中東での紛争が焦点になるとみられる。ホワイトハウス当局者がCNNに明らかにした。
+
+当局者によると、トランプ氏はネタニヤフ氏と会談し、対イラン戦争、レバノンとの交渉の進展、イスラエルとアラブ諸国との国交正常化の枠組み「アブラハム合意」の拡大に向けた取り組みにつ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251004.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/28/84b451b74dfb88d7fabe008eabe16515/t/768/432/d/zelenskynetanyahu.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251003.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-28T08:28:00+09:00</dc:date>
+        <title>米、イランへの攻撃を一時停止　和平協議の再開要請受け</title>
+        <link>https://www.cnn.co.jp/usa/35251003.html?ref=rss</link>
+        <description>トランプ米大統領は27日、イラン政権側からの要請を受け、米国が同国への攻撃を一時停止したと明らかにした。一方で、新たな停戦合意に至らなければ、攻撃を再開すると警告した。
+
+トランプ氏は大統領専用機内で記者団に対し、「彼らは『攻撃をやめて、会談したい』と非常に丁寧に求めてきた」と述べた。「今はまさにそういう状況だ。今後どうなるかを見極める。合意に至らなければ、元の状態に戻るだけだ」と続けた。
+
+今回の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251003.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/28/295ef5db7ad8b44ae308abdf45a7bce3/t/768/512/d/gettyimages-2287859658.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250997.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-27T19:10:00+09:00</dc:date>
+        <title>【分析】イラン巡るあらゆる分岐点、トランプ氏の選択はことごとく裏目に</title>
+        <link>https://www.cnn.co.jp/usa/35250997.html?ref=rss</link>
+        <description>米国のトランプ大統領は、イランを巡る問題でまたしても岐路に立たされている。しかし、こうした局面を迎えるたびに同氏の選択肢は狭まる一方であり、どのような行動を選ぼうとその代償は拡大の一途をたどる。
+
+トランプ政権は26日、イランへの空爆の一時停止について、外交のための時間を確保することが目的だと説明した。米軍は13夜連続となる攻撃を実施した後、3夜にわたって空爆を停止している。ただ同政権は、さらなる衝突...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250997.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/27/6a96b3dff4118aa467712cd23bbeddd7/t/768/513/d/ap26203859749396.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250989.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-27T15:04:00+09:00</dc:date>
+        <title>老化は44歳と60歳で急激に進行、疾病リスクも増大　24年研究</title>
+        <link>https://www.cnn.co.jp/fringe/35250989.html?ref=rss</link>
+        <description>人生には老化が急激に進む時期が2回あるという研究結果が24年に発表された。最初は44歳、次は60歳の頃に、分子の急激な老化が起きるという。
+
+研究結果は米スタンフォード大学とシンガポールの南洋理工大学の研究チームが科学誌ネイチャー・エイジングに発表した。108人を対象に、加齢による分子（RNA、たんぱく質、マイクロバイオーム）の変化を数年間にわたって観察した結果、老化は徐々に進行しているわけではないことが判明...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250989.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/27/b2ff6e9b332e4bbd4579aa3e33d1a6bd/t/768/432/d/gettyimages-669938158-675_1200.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250985.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-27T13:13:00+09:00</dc:date>
+        <title>フードフェスティバルで銃撃、2人死亡　米シアトル</title>
+        <link>https://www.cnn.co.jp/usa/35250985.html?ref=rss</link>
+        <description>米シアトルのフードフェスティバル会場で26日夜、銃撃事件が発生し2人が死亡、複数人が負傷した。消防当局が発表した。現場は同市の象徴的なタワー、スペースニードルの近くだった。
+
+シアトル消防局は、午後6時過ぎにシアトルセンターで銃撃事件が発生したとの通報を受け、現場に駆けつけたと発表した。
+
+消防局の発表によると、現場で2人の死亡を確認したほか、2歳の幼児を含む4人が病院に搬送された。ハーバービュー・メディ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250985.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/27/ce6ddb6a762a176d33eb55354ba29c00/t/768/512/d/ap26208108196469.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250986.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-27T12:47:00+09:00</dc:date>
+        <title>【分析】「あれを覚えているか？」　起きたことのない出来事を国民に思い出すよう求めるトランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35250986.html?ref=rss</link>
+        <description>トランプ米大統領は23日、国民にこう問いかけた。2年前に起きた大規模なテレビの機能停止を覚えているかと。
+
+そのような機能停止は起きていない。空想を話すのが好きなトランプ氏は以前と同じように、自身が作り出した出来事を思い出すよう国民にはっきりと求めた。
+
+今回、編み出した話は風力エネルギーについてだった。長年風力発電を激しく非難し、その動きを阻止しようとしてきたトランプ氏は、風力発電が採用されている地...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250986.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/27/77bbc6d77e4ceae552458d27e41b3412/t/768/512/d/gettyimages-2287358719.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250978.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-27T11:09:00+09:00</dc:date>
+        <title>性的少数者イベント会場付近に車突入し1人死亡、29人負傷　容疑者は射殺　ドイツ</title>
+        <link>https://www.cnn.co.jp/world/35250978.html?ref=rss</link>
+        <description>ドイツのベルリンで開かれた性的少数者（LGBTQ+）のイベント会場付近で25日、群衆に車が突っ込むなどして1人が死亡、29人が負傷する事件があった。容疑者の男は26日、警察に射殺された。ドイツ政府は「イスラム主義者のテロ攻撃」と形容している。
+
+事件は現地時間の25日夜に発生。LGBTQ+プライドイベント会場付近の公園で、歩行者らが突っ込んで来た車にはねられ、刃物で襲われた。
+
+  
+
+
+                
+                  ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250978.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/27/bca12cb7bf45124a064fce216d15ced7/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXMxcmV0ZXAwMDBzM2I2cjJvN2w3dnhx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtczB1enFlcjAwMXoyN3FqNnE1eTh3dXA_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250983.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-27T11:02:00+09:00</dc:date>
+        <title>フランスとスペインで30万人が避難、イタリアでは観光客を船で救助　欧州で続く山火事</title>
+        <link>https://www.cnn.co.jp/world/35250983.html?ref=rss</link>
+        <description>欧州各地で山火事が猛威を振るう中、フランスとスペインで30万人以上が避難を続けている。フランスではボルドー周辺で懸命な消火活動が続く。スペインのマドリード近郊では、ほぼ消し止められた現場でも火がくすぶり続け、一帯には濃い煙が立ち込めている。
+
+被災地では今週半ばにかけて再び猛暑が予想される一方、降雨の予報はなく、消火活動は時間との闘いとなっている。
+
+仮設避難所に身を寄せた多くの住民が不安を募らせる...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250977.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-27T10:02:00+09:00</dc:date>
+        <title>イラン戦争の米軍死傷者数、600人上回る　国防総省、ひそかに集計区分を変更</title>
+        <link>https://www.cnn.co.jp/usa/35250977.html?ref=rss</link>
+        <description>米国防総省は25日、戦争の死傷者データベースを更新し、負傷者を新たに140人あまり記録するとともに、イランによる攻撃で先週死亡した兵士4人を再び掲載した。戦争による人的被害をめぐっては透明性の欠如が問われている。
+
+防衛死傷者分析システム（DCAS）には、「7月7日以降」の死傷者を追跡する区分「海外作戦」も新設された。
+
+この新たな区分のデータと対イラン軍事作戦「エピック・フューリー（壮絶な怒り）作戦」の更新...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250977.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/27/2cddc1cd6e572766ac1915fd0e68dcde/t/768/549/d/gettyimages-2287213640.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250975.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-27T09:57:00+09:00</dc:date>
+        <title>ウクライナの7月の民間人死者数、月別で22年以降最多に</title>
+        <link>https://www.cnn.co.jp/world/35250975.html?ref=rss</link>
+        <description>ウクライナでは今月、ロシアとの戦争における民間人の死傷者数が過去4年あまりで最多を記録した。ウクライナ政府が明らかにした。
+
+今月のロシアによる攻撃で死亡した民間人は少なくとも377人。2129人が負傷し、2022年4月以来、戦争被害が最も大きい月となった。
+
+今月の攻撃には、迎撃が困難な弾道ミサイルが多数含まれており、ウクライナの首都キーウが複数回標的とされた。
+
+ウクライナのゼレンスキー大統領によると、ロシア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250975.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/27/c612f79f541f26da99b43f8c3f1cedc2/t/768/539/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXMxcjZwOGcwMDEzM2I2cmxsaDVmMGR6-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtczFxZ3A4ZjAwMXYyOHA3OGp2ZTM3NnY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250974.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-26T17:43:00+09:00</dc:date>
+        <title>米国で流行する寄生虫感染症の集団感染、起点は人間の排泄物　汚染経路は過去一度も特定できず</title>
+        <link>https://www.cnn.co.jp/usa/35250974.html?ref=rss</link>
+        <description>米国各地で激しい下痢を引き起こす寄生虫感染症「サイクロスポラ症」の症例が増え続けるなか、保健当局者はこの寄生虫をめぐる長年の疑問に頭を悩ませている。いったい、どうやって人の便が食品に混入しているのか。
+
+サイクロスポラをめぐる恐ろしい事実は、その感染源が人間だけだということだ。この寄生虫はこれまで、人間の便からしか見つかっていない。従って、食品や水に含まれているとすれば、「感染源は人間だ」。米食...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250974.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/26/21eabe3d30bfeb720fe32e3a86d1f54d/t/768/512/d/gettyimages-2184597515.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250971.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-26T15:01:00+09:00</dc:date>
+        <title>「私は歩く死人」　サウジアラビアで死刑を待つエチオピア移民、執行は年間数百人</title>
+        <link>https://www.cnn.co.jp/world/35250971.html?ref=rss</link>
+        <description>毎朝目が覚めると、今日が最期の日になるかもしれないと思う。監房のドアのノックは、その時が来たという知らせかもしれない。別れの電話も、最後の食事もない。サウジアラビアでは何の予告もなく死刑が執行されることがある。
+
+「私は歩く死人だ」「友人の死刑が執行されて以来、食事はせず、水も飲まない」
+
+そう語るアマヌエルさん（仮名）は、サウジアラビア南西部にあるハミス・ムシャイト拘置所に何年も前から収容されて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250971.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/26/4de94cb7f23b56f6b024950e6bc366de/t/768/432/d/ethiopian-death-walk.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250970.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-26T13:01:00+09:00</dc:date>
+        <title>米副大統領ら、イランとの戦争激化に懸念示す　攻撃は「保留」と国防総省関係者</title>
+        <link>https://www.cnn.co.jp/usa/35250970.html?ref=rss</link>
+        <description>米国のトランプ大統領が24日にホワイトハウスで開かれた会合でイランとの戦争を激化させる可能性を検討した際、バンス副大統領と軍制服組トップのケイン統合参謀本部議長が懸念を示したことが分かった。事情に詳しい関係者と当局者がCNNに明らかにした。
+
+米国は24日夜、約2週間にわたり毎晩続けてきたイランへの爆撃作戦を停止したようだ。国防総省の関係者は25日、CNNに対し、作戦は「保留」だと語った。
+
+関係者らによると、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250970.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/26/95d22932c079804354b63a48c9c0fd8d/t/768/512/d/2026-03-07t204221z-74407929-rc2wzjatbv9a-rtrmadp-3-iran-crisis-transfer-usa.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250969.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-26T11:58:00+09:00</dc:date>
+        <title>26年前に殺害された10代少女の身元が判明　遺伝子系図活用　米</title>
+        <link>https://www.cnn.co.jp/usa/35250969.html?ref=rss</link>
+        <description>米マサチューセッツ州チェルシーで2000年11月に発見された遺体の身元が判明した。この進展によって26年近くに及ぶ捜索は終結を迎えた。
+
+事件の解決につながったのは、DNA分析と書類記録調査を組み合わせた調査遺伝子系図で、過去10年にわたって人物の身元を逆算するために使われてきた手法だった。通常は容疑者の捜索に用いられているが、全米で身元不明となっている数百人の特定にも役立っている。
+
+ティファニー・ブラッドリ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250969.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/26/dd962933e591d61fd5240516cb222956/t/768/576/d/c-gettyimages-2279010561.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250967.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-26T09:59:00+09:00</dc:date>
+        <title>イラン当局者、トランプ氏の「イランは交渉に真剣」との発言を一蹴　地上侵攻を歓迎とさえ示唆</title>
+        <link>https://www.cnn.co.jp/world/35250967.html?ref=rss</link>
+        <description>イラン当局者は、イランの交渉姿勢が「より真剣になってきている」とするトランプ米大統領の発言を一蹴し、同国が米軍による地上侵攻の可能性を歓迎しているとさえ示唆した。
+
+イランメディアがアサディ将軍と伝えた軍高官は25日、「敵との戦争は消耗戦であり、終わることはない」と述べた。「侵略者である米軍の地上部隊が、われわれが地上で交戦できる状況に置かれるよう神に願っている」
+
+米国は約2週間にわたってイラン各地...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35250966.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-26T09:14:00+09:00</dc:date>
+        <title>欧州の山火事が猛威　スペイン・フランスで25万人超が避難</title>
+        <link>https://www.cnn.co.jp/world/35250966.html?ref=rss</link>
+        <description>欧州南西部で山火事が猛威を振るっている。フランスとスペインでは25万人以上が避難を余儀なくされ、スペイン・バレンシア州マニセスでは少なくとも1人が死亡した。
+
+フランスのルコルニュ首相は、現地の気象条件が変化するなか、今後数時間は「厳しいものになる可能性がある」と警告した。スペイン中部では「まったく前例がなく、これまで見たことのない」緊急事態に対応するため、消防隊が昼夜を問わず活動を続けている。
+
+避...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35250966.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/26/629fec0c9706eaa297dff4020382188c/t/768/512/d/gettyimages-2286968602.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250965.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-25T18:14:00+09:00</dc:date>
+        <title>青銅器時代の「シャーマン」、男性の金属職人ではなく女性だった　DNA分析で判明</title>
+        <link>https://www.cnn.co.jp/fringe/35250965.html?ref=rss</link>
+        <description>かつて高位の男性金属職人のものと考えられていた青銅器時代の人骨が、実際には女性のものだったことが、新たなDNA分析で判明した。この発見は、古代英国社会に関する長年の通説に疑問を投げかけている。
+
+約4000年前のこの人骨は、「アプトン・ラベルのシャーマン（霊媒師）」として知られるようになった。英ロンドンのフランシス・クリック研究所のトム・ブース主任研究員は今月16日、CNNの取材に対し、この人骨は高い地位に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250965.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/25/cab81bf51b00e5e9945073db8037bf87/t/768/768/d/ceremonialjewellery.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250964.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-25T16:24:00+09:00</dc:date>
+        <title>13夜連続でイラン攻撃の米中央軍、24日は新たな発表なし</title>
+        <link>https://www.cnn.co.jp/usa/35250964.html?ref=rss</link>
+        <description>2週間近く連日イランへの攻撃を続けてきた米中央軍だが、24日はイラン攻撃を実施したとの発表を行わなかった。
+
+中央軍はここ13日間の毎晩、イラン国内の軍事目標を攻撃しているとX（旧ツイッター）に投稿していた。だが、米東部時間24日中にそうした発表はなかった。中央軍の本部があるフロリダ州タンパは米東部時間を採用している。
+
+中央軍が24日に対イランの軍事行動を取らなかったのかは不明だ。
+
+CNNは中央軍にコメントを...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35250963.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-25T15:30:00+09:00</dc:date>
+        <title>ザトウクジラの口にのみ込まれたダイバー、吐き出されて助かる　21年米</title>
+        <link>https://www.cnn.co.jp/fringe/35250963.html?ref=rss</link>
+        <description>ダイバーの男性がザトウクジラの口にのみ込まれ、危うくクジラの餌になるところだったものの、吐き出されて助かった――。米マサチューセッツ州ケープコッドで2021年、そんな出来事があった。
+
+マイケル・パッカードさんは6月11日、同州プロビンスタウン沖でロブスター漁のためダイビングをしていたとき、不意にクジラに襲われた。
+
+パッカードさんはCNN提携局WBZに対し、「13．7メートルほど潜ったところで突然、大きな衝撃を感...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35250963.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/25/4467b3688078cbb22380895179b070bc/t/768/432/d/diver-swallowed-by-whale-super-169.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35250962.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-25T14:23:00+09:00</dc:date>
+        <title>寄生虫感染症の集団感染、さらに4州で確認　レタスが感染源か　米CDC</title>
+        <link>https://www.cnn.co.jp/usa/35250962.html?ref=rss</link>
+        <description>米国で下痢を引き起こす寄生虫感染症「サイクロスポラ症」の感染が拡大している問題で、米国疾病予防管理センター（CDC）は、玉レタスとの関連が疑われる一連の症例が9州で確認されたと明らかにした。
+
+すでに集団感染が確認されていたインディアナ州、ケンタッキー州、ミシガン州、オハイオ州、ウェストバージニア州に加え、イリノイ州、カンザス州、オクラホマ州、ペンシルベニア州の4州も発生地域に加わった。
+
+州の追加につ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35250962.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/25/44f28b53673442a56bb72bf1407194f0/t/768/768/d/ap26189642009611-20260724125056625.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
