@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-08-04T09:02:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251236.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251235.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251229.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251222.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251220.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251215.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35251214.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251216.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251211.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251209.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251202.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251201.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251200.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251199.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251198.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251197.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251196.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251195.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35251194.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251193.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251192.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251190.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251188.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35251187.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251179.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251181.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251174.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251177.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251170.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251137.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251236.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T09:02:00+09:00</dc:date>
+        <title>米で流行の寄生虫感染症、初の死者確認　ミシガン州で2人死亡</title>
+        <link>https://www.cnn.co.jp/usa/35251236.html?ref=rss</link>
+        <description>米中西部ミシガン州の保健当局は3日、寄生虫感染症「サイクロスポラ症」の集団感染に関連して2人が死亡したと発表した。
+
+米国の複数州で発生している激しい下痢を引き起こす今回の集団感染で、死者が確認されたのはこれが初めて。
+
+ミシガン州保健福祉局は、「ミシガン州に影響を及ぼしているサイクロスポラ症の集団感染に関連して、2人の死亡が確認された。医療記録によると、2人はいずれも重い基礎疾患を抱えており、サイク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251236.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/ae6da7d45226e6c433d5aa4f7b91772e/t/768/768/d/ap26189642009611-20260724125056625.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251235.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T08:46:00+09:00</dc:date>
+        <title>トランプ氏、イランに合意署名の「最後のチャンスを与える」と警告</title>
+        <link>https://www.cnn.co.jp/usa/35251235.html?ref=rss</link>
+        <description>トランプ米大統領は3日、米国と「良い内容の文書に署名」するのはイランにとって「最後のチャンス」だと述べた。トランプ氏は先に、ペルシャ湾岸諸国の要請を受けてイランへの攻撃を再び見送り、協議を継続すると約束していた。
+
+トランプ氏は大統領執務室で記者団に対し、「多くの国から電話があった」と説明。「どの国も、イランに最後のチャンスを与えたがっていた。これが最後のチャンスだ」と語った。
+
+過去にもイランへの...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251229.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-03T19:03:00+09:00</dc:date>
+        <title>米軍、イランを罰する「創造的で型破りな」アイデアを内部メールで募集　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35251229.html?ref=rss</link>
+        <description>対イラン戦争を遂行する米中央軍の高官からメールで届いた要請はこうだった。「アイデアが必要だ」。
+
+事情に詳しい関係者によると、中央軍の情報部門に所属する将官は先月29日、軍のアナリストらに広く送ったメッセージに「イランに圧力をかけ、罰するための、創造的で型破りな新しい方法を探している」と記した。別の関係者も軍高官が先週、イランに対処する新たな方法を求めるメッセージを送ったと明らかにした。
+
+軍当局者...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251229.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/03/470b55b1e7a1f12f0385876d1654ddb3/t/768/512/d/ap26097458539982-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251222.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-03T15:06:00+09:00</dc:date>
+        <title>イランの代理勢力、中東各地で勢力を盛り返す　拡大する戦争で価値を発揮</title>
+        <link>https://www.cnn.co.jp/world/35251222.html?ref=rss</link>
+        <description>イランに忠実な武装組織が中東各地で勢力を盛り返し、米国・イスラエルとの戦争を続けるイランの影響力を強めているようだ。
+
+専門家によると、これらの組織は数十年にわたり、イランへの直接攻撃に対する強力な抑止力として重要な役割を果たしてきた。しかし、イランが支援する地域の武装組織で構成する反イスラエル・反欧米ネットワーク「抵抗の枢軸」は大幅に弱体化した。2023年にイスラム組織ハマスが仕掛けた攻撃に対する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251222.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/03/d4f904b190cff2835ad41523b985732f/t/768/512/d/gettyimages-2284550445.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251220.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-03T12:13:00+09:00</dc:date>
+        <title>「一種たりとも置き去りにしない」　動物たちを火災から守れ、施設や警備隊が奮闘　スペイン</title>
+        <link>https://www.cnn.co.jp/world/35251220.html?ref=rss</link>
+        <description>スペインで発生した大規模な山火事で、避難を強いられたのは人間だけではなかった。
+
+猛火が迫る中、鳥類から爬虫類、大型ネコ類に至るまで、あらゆる動物たちを救う必要があった。
+
+サファリパークの「サファリ・マドリード」では、飼育員らが園内にとどまり続け、動物たちを空調の効いた屋内施設へ避難させた。空がオレンジ色に染まって灰色の煙が立ち込めると、周辺に水をまいて火災を食い止めようとした。
+
+マドリード西部...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251220.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/03/5c816783d985eae387f5ac69d6677cac/t/768/512/d/zap06078-final.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251215.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-03T11:18:00+09:00</dc:date>
+        <title>バーガー店前で銃乱射　10人殺傷、容疑者は自殺　米アイダホ州</title>
+        <link>https://www.cnn.co.jp/usa/35251215.html?ref=rss</link>
+        <description>米アイダホ州トゥインフォールズにあるファストフードチェーン店前で1日午後、男が銃を乱射して3人を殺害し、７人を負傷させた。警察によると、容疑者の男は事件後、自分を銃で撃って自殺した。
+
+  
+    
+      
+    
+    
+銃撃現場から走って逃げるバーガー店の従業員ら（Kevin Bell Jr.）
+  
+
+トゥインフォールズ警察は2日、銃撃したのはチャド・ウィリアムズ容疑者（24）だったと発表した。
+
+警察によると、発砲を続ける容疑...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251215.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/03/d6ec4ce52aff0e71d73f2307cc069120/t/768/431/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXNhem42N2EwMDAwM2I2cjUwMmowN3J6-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntc2F5b2FrcDAwMXgyYXA4YTZpODh1eTI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35251214.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-03T10:34:00+09:00</dc:date>
+        <title>米政府が円買い介入、対ドルで40年ぶりの安値記録する中</title>
+        <link>https://www.cnn.co.jp/business/35251214.html?ref=rss</link>
+        <description>トランプ米大統領は2日、円が対ドルで40年ぶりの安値に下落したことを受けて米国が円買いを行った措置について、「友好の証」だと述べた。
+
+トランプ氏は大統領専用機エアフォース・ワンの機内で記者団に対し「円安に悩まされている日本は、少しばかりの支援を求めてきた。我々は常に日本を支援する」と語った。
+
+トランプ氏の発言に先駆け、英紙フィナンシャル・タイムズは7月31日、関係者の話として、ニューヨーク連邦準備銀...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35251214.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/03/8e738dcaf25a4b4f193bdf313d200007/t/768/512/d/2026-08-01t003128z-1880402009-rc23pmatuxyw-rtrmadp-3-japan-yen-bessent-notepad.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251216.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-03T10:28:00+09:00</dc:date>
+        <title>モスクワ市長、レストランでの爆発は「テロ攻撃」と言明　標的めぐり臆測広がる</title>
+        <link>https://www.cnn.co.jp/world/35251216.html?ref=rss</link>
+        <description>ロシア首都モスクワのソビャニン市長は2日、レストランで少なくとも2人が死亡し、21人が負傷した爆発について、「テロ攻撃」だったと述べた。
+
+国営メディアによると、身元不明の女が1日、即席の爆発装置とみられる物を持ち、クドリンスカヤ広場にあるレストランに入ろうとした。爆弾は女が店内に入る前に爆発し、女を呼び止めた警備員と客1人が死亡したという。
+
+当局は女の身元をすぐには明らかにしなかった。女が意図的に装...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251216.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/02/e5445d3d42d6a3e8aa762bb8f8464162/t/768/524/d/2026-08-01t191803z-93250343-rc2vpmam7fw9-rtrmadp-3-russia-explosion.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251211.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-03T09:40:00+09:00</dc:date>
+        <title>ナスカ地上絵見物の小型機が墜落、観光客11人と乗員2人が死亡　ペルー</title>
+        <link>https://www.cnn.co.jp/world/35251211.html?ref=rss</link>
+        <description>ペルー南部のイカ県で1日、ユネスコの世界遺産に登録された「ナスカの地上絵」上空を遊覧飛行するアエロディアナの小型機が墜落し、欧州からの観光客11人と乗員2人が死亡した。
+
+  
+    
+      
+    
+    
+墜落した機体の残骸に対応する緊急要員（IDS Noticias via Reuters）
+  
+
+ペルー運輸通信省は2日、アエロディアナが航空規則や運航手順に従っていたかどうかを検証すると表明。この調査が完了するまで同社は全便の運航を停...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251211.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/03/361338831467e02784f4425ed458b6b5/t/768/514/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXNjOHhrMHkwMDAwM2I2cnNwc3Q0ZjF2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntc2M3NDI1aDAwMnUyN3FnZGh1NWR3eHo_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251209.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-03T09:18:00+09:00</dc:date>
+        <title>トランプ氏、イランとの協議「3日に再開」　イランは自国が攻撃中止を求めたとの主張を否定</title>
+        <link>https://www.cnn.co.jp/world/35251209.html?ref=rss</link>
+        <description>トランプ米大統領は、イランに対する「大規模な攻撃」を中止したと述べたうえで、イランとの協議が3日に再開されると明らかにした。
+
+ニュージャージー州ベッドミンスターにある自身のゴルフクラブで週末を過ごしたトランプ氏は2日、大統領専用機内で記者団に対し、「イラン側は攻撃の規模を知っていた。攻撃の準備が進んでいるのを目にしていたからだ。今、我々がしているのは、交渉という形でイラン側と話すことだ。協議は3日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251209.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/03/3ae4ccd4c78e32694773a252fdca0deb/t/768/511/d/2026-08-02t220959z-610570231-rc2lqmascuop-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251202.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-02T16:45:00+09:00</dc:date>
+        <title>不要のペットの寄付を呼び掛け、餌にして「自然の食物連鎖」模倣するため　25年デンマーク動物園</title>
+        <link>https://www.cnn.co.jp/fringe/35251202.html?ref=rss</link>
+        <description>デンマーク北部のオールボー動物園が昨年、モルモットやウサギ、ニワトリ、さらには小型のウマなど、飼い主が手放したいペットを寄付してほしいと呼びかけた。展示目的ではなく、園内の肉食動物の餌にするためだ。
+
+同園はフェイスブックへの投稿で「動物たちの自然な食物連鎖を模倣したい」と述べた。
+
+「ニワトリやウサギ、モルモットは捕食動物の重要な食源となっている」とし、鋭い歯を持つ口を開けたオオヤマネコの画像も...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251202.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/02/62c23306063e0c628aaa384057c5ce1c/t/768/576/d/large-gettyimages-177955002_1200.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251201.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-02T15:47:00+09:00</dc:date>
+        <title>古代マンモスの骨からナチスの軍艦、ドナウ川で次々に発見　干ばつで記録的な水位低下</title>
+        <link>https://www.cnn.co.jp/world/35251201.html?ref=rss</link>
+        <description>欧州の河川でこのほど、古代マンモスの骨や90年ほど前に沈没した船など、長らく水中に沈んでいた遺物が相次いで発見された。欧州は今夏、記録的な暑さや干ばつに見舞われ、複数の河川の水位が記録的な低さとなっている。
+
+ブルガリア北部では先月29日、記録的な水位低下によって露出したドナウ川の川底から古代マンモスのものとみられる遺骸が発見された。
+
+  
+  
+ブルガリアで発見された古代マンモスのものとみられる遺骸/Lyub...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251201.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/02/31574e878c785e7141cea7a57412cf19/t/768/575/d/2026-07-30t214258z-1849332689-rc2domaa8068-rtrmadp-3-europe-weather-drought-serbia.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251200.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-02T14:03:00+09:00</dc:date>
+        <title>トランプ氏、対イラン攻撃を中止　ただし迅速な合意成立が条件</title>
+        <link>https://www.cnn.co.jp/usa/35251200.html?ref=rss</link>
+        <description>トランプ米大統領は1日夜、計画していたイランへの攻撃を中止すると述べた。協議に進展があったためとしている。
+
+トランプ氏は、米国が「イラン・イスラム共和国に対し、臨戦態勢を整え、いつでも行動できる状態にある」としながらも、イランや他の中東諸国から「大枠が合意に至ったため、いかなる攻撃も見合わせるよう」要請があったため同意したと述べた。
+
+トランプ氏によると、提案されている合意には、ホルムズ海峡の即時...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251200.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/02/840a520a0333ac11a9566f56ba0751a0/t/768/512/d/2026-07-31t210522z-158069813-rc28pmacybua-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251199.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-02T13:09:00+09:00</dc:date>
+        <title>ウクライナ防空システム、ロシアの弾道ミサイルをほぼ迎撃できず　大規模攻撃で9人死亡</title>
+        <link>https://www.cnn.co.jp/world/35251199.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は、ロシアによる夜間の攻撃で死者が出たことを受け、西側諸国に防空システムの供与を改めて訴えた。この数時間前には米国のトランプ大統領がウクライナに地対空誘導弾システム「パトリオット」の迎撃ミサイル製造を認めるとの公約を後退させていた。
+
+ロシア軍による大規模な空からの攻撃は2日間で2度目となる。ロシアは、広大な前線で進軍に苦戦するなか、ウクライナに重要な防衛システムが不...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251199.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/02/746928d428a18dc4149dff34f4b9bbe1/t/768/432/d/79446883-89072415-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251198.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-02T11:24:00+09:00</dc:date>
+        <title>著名登山家ニルマル・プルジャさん、死亡を確認　パキスタンの雪崩で</title>
+        <link>https://www.cnn.co.jp/world/35251198.html?ref=rss</link>
+        <description>世界最高峰の数々を踏破してきたネパールの著名登山家、ニルマル・プルジャさん（43）の死亡が確認された。プルジャさんは先月30日にパキスタン北部ブロードピークで雪崩に巻き込まれ行方不明になっていた。
+
+プルジャさんが2022年に設立した山岳団体は1日、インスタグラムに、プルジャさんが雪崩に遭い、命を落としたとつづった。投稿にはプルジャさんだけでなく、プルジャさんが信頼を寄せていた登山仲間やガイドを含め、この...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251198.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/02/ab6ce28d054979424a74aaafcbe7e6e1/t/768/512/d/ap19303647867198.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251197.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-02T10:13:00+09:00</dc:date>
+        <title>米当局、中東地域の米国民に出国を呼びかけ　最新の動きは</title>
+        <link>https://www.cnn.co.jp/world/35251197.html?ref=rss</link>
+        <description>米外交当局者は中東に滞在する米国民に対し、「出国を検討するか、事態が激化した場合には出国できるよう備えておく」よう広く警戒を呼びかけた。一方、クウェートは1日未明、イランのドローン（無人機）攻撃を迎撃したと発表した。
+
+地域の最新情勢は以下の通り。
+
+・米国が早ければ今週末にも新たな対イラン攻撃を計画していると、情報筋2人が明らかにした。爆撃の正確な範囲は当初明らかになっておらず、当局者らは攻撃が中...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251197.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/02/3ec87b84a53fd47263d07ffa38f8e77c/t/768/512/d/2026-08-01t104537z-34780958-rc2ipmahbxmc-rtrmadp-3-israel-palestinians-gaza.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251196.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-02T09:13:00+09:00</dc:date>
+        <title>モスクワ中心部のレストランで爆発、手製爆弾運んでいた女含む3人死亡</title>
+        <link>https://www.cnn.co.jp/world/35251196.html?ref=rss</link>
+        <description>ロシア首都モスクワ中心部のレストランで1日、手製爆弾が爆発し、3人が死亡、21人が負傷した。死者の中には爆発物を運んでいた疑いのある女も含まれる。国営RIAノーボスチ通信が国家対テロ委員会の情報として伝えた。
+
+  
+    
+      
+    
+    
+爆発のあったレストランの様子TASS via Telegram; RIA Novosti via Telegram
+  
+
+身元不明の女は即席の爆発装置とみられる物を持ち、クドリンスカヤ広場にあるレストランに入ろうと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251196.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/02/e5445d3d42d6a3e8aa762bb8f8464162/t/768/524/d/2026-08-01t191803z-93250343-rc2vpmam7fw9-rtrmadp-3-russia-explosion.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251195.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-01T17:42:00+09:00</dc:date>
+        <title>クウェートにドローン攻撃、防空網で迎撃　軍が発表</title>
+        <link>https://www.cnn.co.jp/world/35251195.html?ref=rss</link>
+        <description>クウェート軍は現地時間1日早朝、領空内でドローン（無人機）の迎撃を行った。国防省の報道官が明らかにした。
+
+クウェート当局は、今回の攻撃を「イランによる侵略」と形容。報道官は声明で、北部の政府施設や民間車両が攻撃を受けたと明らかにした。死傷者の報告はないものの、落下した破片で一部に物的損害が生じたという。
+
+これより前、陸軍参謀本部はX（旧ツイッター）で情報を更新した際、住民に安全指示に従うよう呼び...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35251194.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-01T16:30:00+09:00</dc:date>
+        <title>3歳児がiPadに誤ったパスワード入力、2067年まで「使用不能」に　19年米</title>
+        <link>https://www.cnn.co.jp/tech/35251194.html?ref=rss</link>
+        <description>3歳の息子が父の「iPad」で誤ったパスワードを何度も入力したために、48年先までそのiPadが使えない状態になった――。米誌ニューヨーカーのライターでブルッキングス研究所フェローのエバン・オソノスさんが2019年、そんなハプニングに見舞われた。
+
+オソノスさんはツイッターに、「うそみたいな話だが、私たちのiPadで3歳児が（繰り返し）ロックを解除しようとした」と書き込んだ。投稿に添えられた写真のiPadには、「25，536，...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35251194.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/01/932534b0d44e6a24217714deed9a1b14/t/768/512/d/130327115029-digital-tablet.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251193.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-01T15:27:00+09:00</dc:date>
+        <title>新たに発見された「悪魔の洞窟魚」、世界有数の希少な魚か　半透明の体色</title>
+        <link>https://www.cnn.co.jp/fringe/35251193.html?ref=rss</link>
+        <description>米アラバマ州ハンツビル近郊のボブキャット洞窟で昨年調査を行った研究チームが、科学界でこれまで知られていなかった奇妙な魚を発見した。研究者の1人からは、世界有数の希少な魚かもしれないとの見方が出ている。
+
+新種には目がなく、背中は丸みを帯び、ひれに棘（とげ）があったほか、口周りの形が他の洞窟魚と異なっていた。色素は全くなく、半透明の皮膚の下に脳がのぞいている。
+
+
+  
+    
+         
+ 
+                 ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251193.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/01/2b48bf7a94cc6d784bb39e4ee4201c9d/t/768/432/d/nn-demoncavefish-feb2025-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251192.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-01T12:42:00+09:00</dc:date>
+        <title>ロシアの新たな攻撃目標はガソリンスタンド、給油中の民間人が標的に　製油所攻撃への報復か</title>
+        <link>https://www.cnn.co.jp/world/35251192.html?ref=rss</link>
+        <description>警察官のミハイロ・ツィプリアコフ氏が同僚と助けに駆けつけた時、ガソリンスタンドはすでに炎上していた。2機目のドローン（無人機）が降下してくる音が聞こえ、ツィプリアコフ氏はとっさに地面に身を伏せた。
+
+「閃光（せんこう）が見えたので、すぐ立ち上がった」とツィプリアコフ氏。「腕や脚、体にけがをしているのが分かった」
+
+ツィプリアコフ氏はウクライナの民間インフラに対するロシアの最近の攻撃で被害に遭った数十...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251192.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/01/55c3a3c1d1ccf1c9c79fc4ac556a9911/t/768/432/d/87044317-27594843-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251190.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-01T09:44:00+09:00</dc:date>
+        <title>米国が新たなイラン攻撃を計画、早ければ今週末にも　米当局者</title>
+        <link>https://www.cnn.co.jp/usa/35251190.html?ref=rss</link>
+        <description>トランプ米大統領がイランとの戦争の解決策を模索する中、米国は早ければ今週末にも新たな攻撃を実施する計画を立てていることが分かった。事情に詳しい情報筋2人が明らかにした。
+
+攻撃の正確な範囲や、攻撃目標については明らかになっていない。当局者は2人とも、攻撃は中止になる可能性があると注意を促した。
+
+トランプ氏は7月31日の閣議で発言した際、外交努力が頓挫したことへの怒りをあらわにしつつ、激しい攻撃の再開を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251190.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/01/445fdaa6e188760907d77df053cb56fc/t/768/512/d/2026-07-31t212624z-1129429157-rc28pmax2fsx-rtrmadp-3-usa-trump__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251188.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-01T08:51:00+09:00</dc:date>
+        <title>米軍のF35B戦闘機が墜落・炎上、パイロットは緊急脱出　米加州</title>
+        <link>https://www.cnn.co.jp/usa/35251188.html?ref=rss</link>
+        <description>米カリフォルニア州のミラマー海兵隊航空基地で7月31日、米軍のF35B戦闘機が墜落、炎上し、数キロ先からも見えるほどの煙が空に立ち上った。
+
+墜落したのは、第3海兵航空団第11海兵航空群に所属する単座のF35B「ライトニングII」。太平洋時間午前10時前、滑走路の手前で墜落した。
+
+第3海兵航空団の声明によると、「パイロットは緊急脱出に成功し、安定した状態で地元の医療施設へ搬送された。命に関わりのないけがを負っており...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251188.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/01/b2312a5506ccdfcff6f89d7173a5f665/t/768/432/d/still-22856099-468538-33300000004-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35251187.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-31T22:00:00+09:00</dc:date>
+        <title>【分析】サッカー界で燃え上がった世界的な対立、複雑な感情的反発の根源を読み解く</title>
+        <link>https://www.cnn.co.jp/showbiz/35251187.html?ref=rss</link>
+        <description>「これは我らのゲームだ。彼らのゲームではない」
+
+ユルゲン・クロップは、世界中にいる数百万人のファンの思いをそう代弁し、ドナルド・トランプ米大統領を非難した。そのときトランプ氏は、重要なワールドカップ（W杯）の試合に向けて、米国代表フォラリン・バログンの出場停止処分を覆そうと裏で糸を引いているように見えた。
+
+今夏の北中米W杯終了後、クロップは新たにドイツ代表の監督に就任した。サッカーファンの心理に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35251187.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/31/d2f0078441e4d435b2b866104bb4ba01/t/768/468/d/01-gettyimages-2286935543.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251179.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-31T18:00:00+09:00</dc:date>
+        <title>幼児向け食品の8割は超加工食品、約半数は栄養基準満たさず　米研究</title>
+        <link>https://www.cnn.co.jp/fringe/35251179.html?ref=rss</link>
+        <description>米国で幼児向けに販売されている食品の5品目中4品目が超加工食品であることが、食料品店の棚に並ぶ2700点以上の商品を分析した研究で明らかになった。また、それらの商品の約半数は、世界保健機関（WHO）が定める子どもの栄養基準の少なくとも1項目を満たしていなかった。
+
+「我々は、親が食料品店に行ったとき実際に何を目にするのかを知りたかった」。研究論文の筆頭著者で、ロサンゼルス小児病院小児科の博士研究員であるエ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251179.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/31/b7b64984041bf030e8f21e8d6a189a54/t/768/512/d/gettyimages-587533888.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251181.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-31T16:54:00+09:00</dc:date>
+        <title>イラン、クウェートの航空基地を攻撃　国営メディアが報じる</title>
+        <link>https://www.cnn.co.jp/world/35251181.html?ref=rss</link>
+        <description>イラン国営メディアが31日に報じたところによると、イラン軍はクウェートの航空基地にある軍事施設を狙って攻撃した。
+
+プレスTVは現地時間の31日早朝、攻撃はアフマド・ジャービル航空基地を狙って「数時間前に」実施されたと報じた。
+
+現地時間31日早朝の時点では、クウェートの軍隊も国営メディアもSNSの英語版チャンネルでこの攻撃について確認していない。
+
+
+  
+    
+         
+
+                    
+    
+    
+     イラ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251174.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-31T16:00:00+09:00</dc:date>
+        <title>移民数千人、モロッコから北アフリカのスペイン領に流入</title>
+        <link>https://www.cnn.co.jp/world/35251174.html?ref=rss</link>
+        <description>過去1週間で、モロッコ人を中心とする2000人以上の移民が、北アフリカにあるスペイン領セウタへ越境したことが分かった。セウタの人口は約8万5000人。
+
+越境の様子を捉えた動画には、大勢の移民が海を泳ぎ、防波堤を渡り、警察の制止を振り切ってスペイン側へ大挙して押し寄せる様子が映っている。
+
+この大規模な流入を受け、セウタはマドリードのスペイン政府に対し国家安全保障上の非常事態を宣言するよう要請。緊張が高まる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251174.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/31/c456b8332e2a13e0454e850ff4c16bf7/t/768/432/d/spain-morocco-00-00-05-19-still001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251177.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-31T15:15:00+09:00</dc:date>
+        <title>商用水上ドローン、中国の「052D型」ミサイル駆逐艦に遭遇　映像を撮影</title>
+        <link>https://www.cnn.co.jp/world/35251177.html?ref=rss</link>
+        <description>小型の商用水上ドローン（無人船）が中国の軍艦に接近する出来事があった。民間の追跡システムには検知されないはずの軍艦だが、小さな無人船がばったり遭遇した。
+
+映像を提供した米企業シーサッツによると、同社の自律航行型無人船「ライトフィッシュ」がバシー海峡での試験航行中、中国艦に遭遇したという。バシー海峡は、台湾とフィリピンの間に位置する水路の中でも屈指の戦略的重要性を持つ。
+
+CNNは独自に映像を検証し、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251177.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/31/af52eea5c514488c845f5dfb4d114014/t/768/432/d/chinese-warship-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251170.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-31T14:25:00+09:00</dc:date>
+        <title>日本政府、国家情報局を新設　第2次大戦後初の中央集権的な情報機関</title>
+        <link>https://www.cnn.co.jp/world/35251170.html?ref=rss</link>
+        <description>日本政府は31日、第2次世界大戦以来で初となる中央集権型の情報機関を新設した。今回の動きは物議を醸しており、政府の平和主義的理念からの逸脱を懸念する声が上がる一方、「スパイ天国」とまで呼ばれるほど安全保障上の弱点を抱える日本にとっては必要不可欠な措置だとする見方も出ている。
+
+この「国家情報局（National Intelligence Bureau）」は31日に正式発足した。専門家によれば、前身となる組織は連携不足や実効性の欠...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251170.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/31/d79a0aa5241c628c6d3b590d3247b268/t/768/432/d/japan-economy-budget.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-07-31T13:50:00+09:00</dc:date>
+        <title>「くるみ割り」の異名取る古代人類、足跡の化石から新たな発見　ケニア</title>
+        <link>https://www.cnn.co.jp/fringe/35251137.html?ref=rss</link>
+        <description>大きな歯や力強い咀嚼（そしゃく）筋を持つことから「くるみ割り人間（ナットクラッカー・マン）」とも呼ばれている古代人類について、新たに見つかった足跡の化石を分析した研究チームが、体格や社会的関係を示す新たな証拠を発見した。
+
+くるみ割り人間の学名は「パラントロプス・ボイセイ」。約230万～約120万年前、アフリカ東部に生息していた。ケニアのトゥルカナ湖東岸に位置するクービ・フォラ地層で新たに特定された足...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/07/30/17f7a53bd5b57d4f0eae1736e1a15392/t/768/512/d/2025-30996-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
