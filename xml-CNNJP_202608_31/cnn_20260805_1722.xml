@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-08-05T18:20:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251325.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35251327.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251324.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251322.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35251323.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251311.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35251308.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251309.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251306.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251300.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251299.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251282.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251284.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251280.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251269.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251265.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251258.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251261.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251256.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251250.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251249.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251245.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35251246.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251243.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251239.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251240.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251241.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251236.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251235.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251229.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35251325.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T18:20:00+09:00</dc:date>
+        <title>韓国警察、スタバ現地法人を家宅捜索　広告キャンペーンへの反発巡る捜査続く</title>
+        <link>https://www.cnn.co.jp/world/35251325.html?ref=rss</link>
+        <description>韓国警察は5日、米コーヒーチェーン大手スターバックスの韓国法人スターバッ‌クス・コリアの本社を家宅捜索した。同社を巡っては、ある広告キャンペーンが全国的な反発を招いたことを受けて警察による捜査が続いていた。
+
+首都ソウルの警察はCNNに対し、来週の「光復節（解放記念日）」に関連して本社を捜索したことを確認した。光復節は、第2次世界大戦中の日本による統治から韓国が解放されたことを記念する祝日。ただし、そ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251325.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/884e65c228def6bfb343795abc5b98c9/t/768/512/d/ap26173548578993.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35251327.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T18:05:00+09:00</dc:date>
+        <title>米有名ゴシップブロガー、ライブ配信中に自傷行為　警察が保護</title>
+        <link>https://www.cnn.co.jp/showbiz/35251327.html?ref=rss</link>
+        <description>著名人のゴシップを扱うブロガー、ペレス・ヒルトンさんがTikTok（ティックトック）のライブ配信中に自傷行為をしているようだとの通報を受け、警察は4日夜、米フロリダ州にあるヒルトンさんの自宅に急行した。
+
+マイアミ・デイド郡保安官事務所はCNNに、「SNSで自傷行為をライブ配信している人物がいるとの通報を複数受けた」と明らかにした。
+
+保安官代理らは速やかに住居を特定。現場にいた家族と話をして、本人が住居内に1...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35251327.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/a2ff3d0585f6a5c2c89334c196ea66d1/t/768/512/d/gettyimages-2246294769-20260805035916661.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251324.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T17:22:00+09:00</dc:date>
+        <title>ウクライナ首都周辺にロシアの攻撃、17人死亡　弾道ミサイルを1発も迎撃できず</title>
+        <link>https://www.cnn.co.jp/world/35251324.html?ref=rss</link>
+        <description>ウクライナの首都キーウや周辺地域に対して4日夜から5日未明にかけて攻撃があり、少なくとも17人が死亡、数十人が負傷した。ロシア軍は弾道ミサイルと対艦ミサイルを20発あまり発射。ウクライナの防空網では1発も迎撃できなかった。
+
+ウクライナのミサイル迎撃兵器の在庫が危険なほど減少する中、今回の攻撃は、前線から遠く離れた都市部に暮らす民間人への危険が深刻化している状況を浮き彫りにした。
+
+
+  
+    
+         
+
+  ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251324.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/4584f1c9bfa1b5858d583a832b97484c/t/768/576/d/gettyimages-2288316534.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251322.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T17:00:00+09:00</dc:date>
+        <title>飛べないハトと歩けない子犬が仲良しに、寄り添う姿で世界を魅了　20年米</title>
+        <link>https://www.cnn.co.jp/fringe/35251322.html?ref=rss</link>
+        <description>米ニューヨーク州ロチェスターの保護施設で2020年、飛べないハトと歩けない子犬が仲良くなり、一緒に遊ぶ愛らしい姿に心を打たれた世界中の人たちから寄付が集まる出来事があった。
+
+ハトの「ハーマン」は神経を損傷して飛べなくなり、1年以上前に保護されていた。チワワの子犬の「ランディ」は、後ろ足が不自由で歩くことができない。それでもいつも一緒にいて、まるで兄弟のように寄り添うようになった。
+
+ハーマンとランディ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251322.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/792af485f5ed304115ed7d484eeb506c/t/768/432/d/puppy-pigeon-friendship-rescue-super-169.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35251323.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T16:58:00+09:00</dc:date>
+        <title>アンソロピックの最新AIモデル、身分を偽って実在の人物を欺く試み　英研究機関のテストで判明</title>
+        <link>https://www.cnn.co.jp/tech/35251323.html?ref=rss</link>
+        <description>アンソロピックの最も高度な人工知能（AI）モデルが、英国のAIセキュリティー研究機関AISIが実施したテスト中に、偽の身分を使って実在する人物を欺き、悪意あるコードを埋め込もうとしたことがわかった。
+
+アンソロピックとオープンAIのモデルは、セキュリティー対策を緩めた研究環境でテストされた。これらのモデルは許可されていない作業を遂行する中で、承認者である人間に圧力をかけるために「ソーシャルエンジニアリング...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35251323.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/ed6dcc4b195a7acf00af0878b22ef888/t/768/512/d/gettyimages-2280225352.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251311.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T13:40:00+09:00</dc:date>
+        <title>トランプ氏、ホルムズ海峡は「近く」再開　さもなければイランは厳しい結果に直面</title>
+        <link>https://www.cnn.co.jp/usa/35251311.html?ref=rss</link>
+        <description>トランプ米大統領はFOXニュースとのインタビューで、ホルムズ海峡の通航は「近く」再開される見通しだと述べ、さもなければイランに激しい新たな攻撃を仕掛けると表明した。
+
+トランプ氏はインタビュー中、イラン政府との間で「とても良い協議」が進められていると発言。一方で、イランが約束を反故（ほご）にすれば再び攻撃に踏み切ると警告した。
+
+「ホルムズ海峡はごく近いうちに開放されるだろう。さもなければ、イランは非...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251311.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/31408255c59cd62b1aff74b7811a8f36/t/768/474/d/2026-07-31t052716z-1093666562-rc2roma4v5i7-rtrmadp-3-iran-crisis-oman-hormuz__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35251308.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T12:20:00+09:00</dc:date>
+        <title>アリアナ・グランデ、活動休止の決断は「反応でも衝動でもない」　ファンに伝える</title>
+        <link>https://www.cnn.co.jp/showbiz/35251308.html?ref=rss</link>
+        <description>米歌手アリアナ・グランデさんは、表舞台から一歩退くという自身の決断について、「何かに反応したわけでも衝動的なものでもなかった」とファンに説明した。
+
+イリノイ州シカゴで開催された3日の公演中に明らかにした。グランデさんはその前日、今後は公演を行わず、公の場からしばらく距離を置くと発表していた。
+
+
+
+
+
+自身の発表に言及するグランデさんを撮影した動画は、インスタグラムのストーリーズで共有された。その中で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35251308.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/0ef62258770d2566165fd6f84a671179/t/768/548/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXNlZzZvbXEwMDBuMzU2cmtzcGFnOHVk-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntc2VlcXdhaDAwMXgyN25zMTIzODlhdnQ_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251309.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T12:19:00+09:00</dc:date>
+        <title>スペースXのロケット、まもなく月に衝突へ</title>
+        <link>https://www.cnn.co.jp/fringe/35251309.html?ref=rss</link>
+        <description>民間の無人月面着陸船2機の打ち上げに使われた米スペースXのロケット「ファルコン9」の一部が5日未明、月に衝突する見通しだ。
+
+ファルコン9は昨年1月15日、米テキサス州に拠点を置くファイアフライ・エアロスペースの月面着陸船「ブルーゴースト」と、東京に拠点を置くispace（アイスペース）の着陸船「レジリエンス」を搭載して打ち上げられた。ブルーゴーストは同年3月、月面への軟着陸に成功したが、レジリエンスはその数カ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251309.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/64168833b6a57ce45dd4f3b2ceb51205/t/768/529/d/gettyimages-2193430446.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251306.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T11:25:00+09:00</dc:date>
+        <title>米政府、ベネズエラ移民の送還便を再開　前回は直後の大地震で多数が死亡</title>
+        <link>https://www.cnn.co.jp/usa/35251306.html?ref=rss</link>
+        <description>米トランプ政権は3日、100人あまりのベネズエラ移民を本国に送り返した。送還便の運航は、6月にベネズエラを大地震が襲って以降、初めてだった。
+
+6月までは毎週何百人ものベネズエラ人を送還していたが、マグニチュード7超の連続地震が発生して以来、送還を中断していた。この地震では6000人以上が命を落とし、壊滅的な被害が広範囲に広がった。
+
+146人を乗せた前回の送還便は、地震発生のわずか数時間前にベネズエラに到着。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251306.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/d5c0e6bcc0cd3b40c5fabbc32051cbc4/t/768/512/d/gettyimages-2219909998.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251300.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T10:40:00+09:00</dc:date>
+        <title>英仏海峡でボート火災、150人あまりの移民を救助</title>
+        <link>https://www.cnn.co.jp/world/35251300.html?ref=rss</link>
+        <description>英国とフランスを隔てる英仏海峡で4日未明、英国を目指すボートの火災が発生し、150人以上の移民が救助された。
+
+フランス海事局によると、ボートのエンジンから出火して状況が瞬く間に悪化。フランスと英国の沿岸警備隊が157人を救助した。
+
+フランス当局はこれに先立ち、3日夜から4日未明にかけて同じボートから5人を救助していた。移民を乗せた船の英仏海峡横断は危険が大きく、移民観測機関によれば2018年から25年の間に計1...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251300.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/2da3e41a738ff20e601d09b5ef16c8ff/t/768/512/d/gettyimages-2288234420.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251299.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T10:34:00+09:00</dc:date>
+        <title>米軍、主要迎撃ミサイルの80％使い果たす　「危険な水準」と軍高官</title>
+        <link>https://www.cnn.co.jp/usa/35251299.html?ref=rss</link>
+        <description>米軍高官らは、米軍が主要なミサイル防衛システムの迎撃ミサイルを80%近く使い果たし、弾薬備蓄が「危険な水準にまで減少している」と警告している。事情に詳しい複数の関係者が明らかにした。
+
+イランとの戦争では、主要な防空システムの備蓄を特に消耗している。最新の在庫状況に詳しい関係者2人によると、米軍は戦争前と比べ、高高度迎撃ミサイルシステム（THAAD）の迎撃ミサイルを5分の4近く、防空システム「パトリオット」...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251282.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T10:02:00+09:00</dc:date>
+        <title>トランプ氏のゴルフコースで武装した男を逮捕、本人の訪問前に　米カリフォルニア州</title>
+        <link>https://www.cnn.co.jp/usa/35251282.html?ref=rss</link>
+        <description>米カリフォルニア州南部にあるトランプ大統領の所有するゴルフクラブの敷地内で2日、不審な人物が歩いているとの通報を受け、武装した男1人が逮捕された。ロサンゼルス郡保安官事務所が4日の声明で明らかにした。
+
+連邦法執行機関の情報筋がCNNに語ったところによると、大統領警護隊（シークレットサービス）は、この人物がトランプ氏に脅威を与えていたかどうかを捜査している。
+
+これより前、情報筋はこの人物がトランプ氏へ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251282.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/b4fb902999a4c1da80a8626ff2c914fe/t/768/529/d/gettyimages-2281958803.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251284.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T09:33:00+09:00</dc:date>
+        <title>グアテマラで火山噴火、約1700人避難　噴煙5000メートル超</title>
+        <link>https://www.cnn.co.jp/world/35251284.html?ref=rss</link>
+        <description>グアテマラのフエゴ火山が噴火して、周辺の住民ら1000人以上が避難している。当局は4日、火山活動は最も強い段階にあるとして警戒を呼びかけた。
+
+フエゴ火山は首都グアテマラ市から約50キロ南西に位置している。3日から溶岩や火山灰の噴出が始まり、周辺で火砕流が発生する中、当局によると少なくとも1699人が避難した。
+
+
+  
+    
+         
+
+                     
+                    
+                    
+             ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251284.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/4b0d3a42b7cba7acc907eee96aff3bba/t/768/511/d/c-gettyimages-2288220281.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251280.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-05T08:48:00+09:00</dc:date>
+        <title>米イラン間の合意案を「回覧中」、カタール外務省が明らかに</title>
+        <link>https://www.cnn.co.jp/world/35251280.html?ref=rss</link>
+        <description>カタール外務省のアンサリ報道官は4日、記者団に対し、米イラン紛争の解決に向けた取り組みは「相当進展した段階にある」との認識を示した。合意案が「回覧されている」ことも明らかにした。
+
+アンサリ氏は米イランの当局者から交渉の進捗（しんちょく）状況を巡り相反する声明が出されていることについて問われ、「全当事者との間で取り組みが継続していることを確認できる。我々は今この瞬間も、外交的な解決を目指している」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251280.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/05/9a97dab7661a4a40e123a964be8bb4c3/t/768/512/d/gettyimages-2235105352__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251269.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T17:49:00+09:00</dc:date>
+        <title>地球から49光年の惑星が大気を持つ可能性、生命存在可能な候補にも</title>
+        <link>https://www.cnn.co.jp/fringe/35251269.html?ref=rss</link>
+        <description>地球から約49光年の距離に位置する太陽系外惑星のひとつに、大気が存在する可能性が明らかになった。生命が存在できる惑星の候補にもなり得る。
+
+「LHS 1140b」と呼ばれるこの惑星は、地球の約5倍の質量を持つスーパーアース（巨大地球型惑星）。周回する恒星からの距離が程よく、暑すぎず寒すぎず水が存在できるハビタブルゾーン（生命居住可能領域）の範囲内にある。
+
+米シカゴ大学の惑星科学者、コリン・チェラビム氏が米ハ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251269.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/1e33ac805e86686ce731cdd4088ede7e/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXM3dXE0ajUwMDAxM2Q2NmhvYnhsbzlt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntczd1cHhjbDAwMnUyN3A2MmNjeDFnOGE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251265.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T17:03:00+09:00</dc:date>
+        <title>イラン、ウクライナ国内3カ所の攻撃態勢整えていた　モジタバ師軍事顧問</title>
+        <link>https://www.cnn.co.jp/world/35251265.html?ref=rss</link>
+        <description>イランの最高指導者モジタバ師の軍事顧問を務めるモフサン・レザイ氏は3日、先月下旬にカスピ海で自国の商船1隻が攻撃されたと主張する事案をめぐり、ウクライナ国内の3カ所を攻撃する態勢を整えていたと述べた。イラン国営プレスTVが報じた。
+
+レザイ氏はインタビューの中で「われわれはウクライナ国内の3カ所を攻撃する準備をしていた」と述べた。「だが、攻撃はミスだったと主張されたため、その主張を検証するために対応を...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251258.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T16:30:00+09:00</dc:date>
+        <title>ダニが媒介する希少疾患「ウサギ熱」、疑い例を3件確認　米ニューヨーク州</title>
+        <link>https://www.cnn.co.jp/usa/35251258.html?ref=rss</link>
+        <description>米ニューヨーク州サフォーク郡の保健局は4日までに、野兎病（やとびょう）の疑い例が3件確認されたと発表した。
+
+野兎病は「ウサギ熱」とも呼ばれ、まれではあるが重篤な感染症。通常、病気にかかった哺乳類（特にウサギ）を吸血した後のマダニやアブに刺されることで感染する恐れがある。
+
+野兎病の感染を引き起こすのは、「フランシセラ・ツラレンシス」と呼ばれる細菌。ローンスターダニやアメリカイヌカクマダニによる咬傷...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251258.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/cdcb097235e5375a3bcbf16457dba7d1/t/768/512/d/c-gettyimages-2226663472.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251261.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T15:48:00+09:00</dc:date>
+        <title>AIで入試の不正を防ごうとしたメキシコの名門大学、満点が続出　数千件の不正</title>
+        <link>https://www.cnn.co.jp/world/35251261.html?ref=rss</link>
+        <description>ダニエル・フェルナンド・ガルシア・ベラスケスさんは、メキシコで最も有名な大学の入試を4度受験し、ついに入学が保証されるはずの結果を手にした。
+
+最初の3回は出身地から400キロ離れたメキシコ市で受験せざるを得なかった。名門のメキシコ国立自治大学（UNAM）が対面での受験を義務付けていたからだ。
+
+4度目となる今年6月は、同大学史上初めて試験がオンラインで実施されたが、それでもメキシコ市まで足を運んだ。
+
+ベラス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251261.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/72bd8d7ba88866225013dc94c555372e/t/768/512/d/gettyimages-2284940312.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251256.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T14:55:00+09:00</dc:date>
+        <title>東京の動物園でライオン3頭死ぬ、東アジアで記録的高温続く中</title>
+        <link>https://www.cnn.co.jp/world/35251256.html?ref=rss</link>
+        <description>東京の動物園で飼育されていたライオン3頭が、1週間以内に相次いで死んだ。猛烈な暑さによるストレスが原因とみられる。日本や東アジアの他地域は極度の高温に見舞われている。
+
+東京都日野市にある多摩動物公園は7月下旬、報道向けの発表でライオンの展示の中止を発表した。複数のライオンに食欲不振や活動性低下などの健康問題が現れ始めたことが理由だった。
+
+これらの症状は、その月の初めから続いていた熱波と時期が重なっ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251256.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/24a78e755c62860bdd49328332ecfa9e/t/768/462/d/260803-tama-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251250.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T14:00:00+09:00</dc:date>
+        <title>嘆きの母イルカ、死んだ我が子と寄り添い数日泳ぐ姿を観察　西オーストラリア</title>
+        <link>https://www.cnn.co.jp/fringe/35251250.html?ref=rss</link>
+        <description>西オーストラリアの研究者たちはこのほど、イルカの母親が死んだ子イルカと寄り添いながら数日間、入り江を泳ぐ様子を観察した。
+
+
+
+
+
+研究者によると、母イルカのこの行動には死を悼む気持ちとの関連が認められるという。
+
+子イルカが生まれたのはわずか2週間前。オーストラリアでは出産に最も厳しい冬の季節に生まれていた。
+
+研究者によると、当該の母イルカはこれで4頭目の子イルカを失ったことになるという。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251250.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/2b4616e60ede48eb380fd812f1b58dab/t/768/413/d/grieving-mother-dolphin-west-australia.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251249.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T13:15:00+09:00</dc:date>
+        <title>インド洋を漂流するスペースXの「スターシップ」、人工衛星画像が捉えた回収作業</title>
+        <link>https://www.cnn.co.jp/fringe/35251249.html?ref=rss</link>
+        <description>米民間宇宙企業スペースXのロケット「スターシップ」の試作機を使った最新の飛行試験では、上段の宇宙船が制御された状態で着水し、インド洋を漂流した。人工衛星はロケット回収に取り組む船の驚くべき画像を捉えている。
+
+今回のスターシップ試作機の名称は「シップ40」。スペースXは7月24日、13回目となる完全統合試験飛行の打ち上げを実施した。このロケットシステムは上段の宇宙船（通称「シップ」）と、シップを発射台から...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251249.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/f000d41c110491805c43e9faeea2eaf2/t/430/432/d/image1detail-03aug2026.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251245.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T11:52:00+09:00</dc:date>
+        <title>小型機がエンジン停止、州間高速道路に間一髪の緊急着陸　米フロリダ州</title>
+        <link>https://www.cnn.co.jp/usa/35251245.html?ref=rss</link>
+        <description>米連邦航空局（FAA）は、訓練飛行中の小型機がフロリダ州の州間高速道路に緊急着陸した事案について調査を進めている。3日午前に緊急着陸したこの機体は、高速道路の標識や走行中の車両に衝突する事態を間一髪で回避していた。
+
+  
+    
+      
+    
+    
+走行中のトラックの眼前で高速道路に緊急着陸する小型機（Eric Johnson）
+  
+
+当該の機体は単発エンジンのパイパーPA28チェロキー。3日午前11時少し前、ペンサコーラ国際空...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251245.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/57369d807ce4f93bc3fd83925002bd4d/t/768/576/d/c-763992750-1426674585940188-760428435887364488-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35251246.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T11:33:00+09:00</dc:date>
+        <title>アリアナ・グランデ、公の場での活動休止へ　「際限ない詮索」理由に</title>
+        <link>https://www.cnn.co.jp/showbiz/35251246.html?ref=rss</link>
+        <description>米歌手アリアナ・グランデさんが一時的に公の場から身を引くことがわかった。代理人が芸能誌「ピープル」に明かした。グランデさんをめぐっては、最新アルバム「ペタル」のリリース後に健康状態をめぐる臆測が過熱していた。
+
+現在行われている「エターナル・サンシャイン・ツアー」が終演する来月から身を引くという。
+
+声明によると、グランデさんはツアーを健康的で幸せな形で終え、公の活動から離れることを楽しみにしてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35251246.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/c4199f65a9d1733cce4aaafe8ecb2197/t/768/432/d/22862152-cln-16x9-ariana-grande-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251243.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T11:10:00+09:00</dc:date>
+        <title>英語を公用語とする法案、ニュージーランド議会で可決　「馬鹿馬鹿しすぎ」と嘲笑の的に</title>
+        <link>https://www.cnn.co.jp/world/35251243.html?ref=rss</link>
+        <description>ニュージーランドで英語を公用語とする法案が議会を通過した。ただし、英語は既に裁判所でも議会でも広く使用されていることから、今回の動きは嘲笑の的になっている。
+
+法案は、マオリ語とニュージーランド手話に加えて英語を同国の公用語とする内容。法務、政治、行政の場や書類上で英語を使い続ける上で、特に新たな規則などは必要としない。
+
+政府の統計によると、2023年の時点で国民の95％以上（約480万人）が英語を使用し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251243.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/f9c1aff01523a8aae0bd7dc9db757fd1/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXNkNHNpbTYwMDBzMzU2cjR2c3B0YmN4-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntc2Q0cXlteDAwMnEyOG5oM2lpYWZrZGY_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251239.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T10:35:00+09:00</dc:date>
+        <title>紛争の政治的代償、イランよりトランプ氏に重くのしかかる理由　地域専門家が分析</title>
+        <link>https://www.cnn.co.jp/world/35251239.html?ref=rss</link>
+        <description>地域の専門家がCNNに明らかにしたところによると、イランが現在進行中の紛争のもたらす経済的打撃に耐えられるのに対し、トランプ米大統領は政治的に重い代償を払わされている。
+
+「イランの体制というものは苦痛に耐えるようにできている。どれだけ国民が苦しもうが、気にする様子はまるでない」。戦略国際問題研究所（CSIS）中東プログラムの非常勤上級研究員、ポール・セーラム氏はそう述べた。
+
+「一方、米国のような選挙民...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251239.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/c36ae4b348a8da09ece685d1a39eaaa3/t/768/512/d/usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251240.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T10:24:00+09:00</dc:date>
+        <title>ミャンマーで拘束のスーチー氏、赤十字代表と面会　健康不安強まる中</title>
+        <link>https://www.cnn.co.jp/world/35251240.html?ref=rss</link>
+        <description>ミャンマーで拘束されている元指導者のアウンサンスーチー氏（81）が3日、赤十字国際委員会（ICRC）の代表者と面会した。外国の要人との公式な面会は数年ぶりと思われる。国際社会はスーチー氏の健康状態に関して懸念を強めていた。
+
+ミャンマーの親軍政権は、ビルマの伝統装束をまとったスーチー氏が笑顔でICRC関係者と握手を交わす写真を公開した。政権によると、相手はミャンマー駐在のICRC代表だった。
+
+ICRCも、スーチー氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251240.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/491d8304ed10adbe11b1255fe364fa0a/t/768/512/d/2026-08-03t044305z-1028855410-rc2sqmalt1nk-rtrmadp-3-myanmar-politics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251241.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T10:15:00+09:00</dc:date>
+        <title>ウクライナのドローン、観光客でにぎわうビーチに破片落下　7人死亡　ロシア発表</title>
+        <link>https://www.cnn.co.jp/world/35251241.html?ref=rss</link>
+        <description>ロシア南部クラスノダール地方で3日、ウクライナのドローン（無人機）の破片が大勢の人でにぎわうビーチに落下し、少なくとも7人が死亡した。地元の当局者が明らかにした。死者数はここ数週間で最多規模になった。
+
+地元当局が声明で明らかにしたところによると、ドローンの落下はゲレンジークにある黒海沿岸のリゾートで発生。死者のうち3人は子どもだという。
+
+ロシアの防空システムでドローンが撃墜されたのか、墜落したのか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251241.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/81fd774e32e67dde0363f1a0e8485419/t/768/432/d/screenshot-2026-08-03-at-1-12-14-pm-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251236.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T09:02:00+09:00</dc:date>
+        <title>米で流行の寄生虫感染症、初の死者確認　ミシガン州で2人死亡</title>
+        <link>https://www.cnn.co.jp/usa/35251236.html?ref=rss</link>
+        <description>米中西部ミシガン州の保健当局は3日、寄生虫感染症「サイクロスポラ症」の集団感染に関連して2人が死亡したと発表した。
+
+米国の複数州で発生している激しい下痢を引き起こす今回の集団感染で、死者が確認されたのはこれが初めて。
+
+ミシガン州保健福祉局は、「ミシガン州に影響を及ぼしているサイクロスポラ症の集団感染に関連して、2人の死亡が確認された。医療記録によると、2人はいずれも重い基礎疾患を抱えており、サイク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251236.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/04/ae6da7d45226e6c433d5aa4f7b91772e/t/768/768/d/ap26189642009611-20260724125056625.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251235.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-04T08:46:00+09:00</dc:date>
+        <title>トランプ氏、イランに合意署名の「最後のチャンスを与える」と警告</title>
+        <link>https://www.cnn.co.jp/usa/35251235.html?ref=rss</link>
+        <description>トランプ米大統領は3日、米国と「良い内容の文書に署名」するのはイランにとって「最後のチャンス」だと述べた。トランプ氏は先に、ペルシャ湾岸諸国の要請を受けてイランへの攻撃を再び見送り、協議を継続すると約束していた。
+
+トランプ氏は大統領執務室で記者団に対し、「多くの国から電話があった」と説明。「どの国も、イランに最後のチャンスを与えたがっていた。これが最後のチャンスだ」と語った。
+
+過去にもイランへの...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251229.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-03T19:03:00+09:00</dc:date>
+        <title>米軍、イランを罰する「創造的で型破りな」アイデアを内部メールで募集　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35251229.html?ref=rss</link>
+        <description>対イラン戦争を遂行する米中央軍の高官からメールで届いた要請はこうだった。「アイデアが必要だ」。
+
+事情に詳しい関係者によると、中央軍の情報部門に所属する将官は先月29日、軍のアナリストらに広く送ったメッセージに「イランに圧力をかけ、罰するための、創造的で型破りな新しい方法を探している」と記した。別の関係者も軍高官が先週、イランに対処する新たな方法を求めるメッセージを送ったと明らかにした。
+
+軍当局者...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251229.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/03/470b55b1e7a1f12f0385876d1654ddb3/t/768/512/d/ap26097458539982-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
