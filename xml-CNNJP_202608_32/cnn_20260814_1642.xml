@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-08-14T19:38:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35251567.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251565.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251568.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251563.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35251562.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251561.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251559.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251558.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35251555.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251551.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251550.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251548.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251547.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251546.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251545.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251544.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251543.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35251536.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35251538.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251535.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251532.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251531.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251526.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251527.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251523.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251522.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35251521.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251520.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35251519.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251518.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/photo/35251567.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-14T19:38:00+09:00</dc:date>
+        <title>写真特集：狩りをするシャチから巨大マンボウまで、26年海洋写真家コンテストの最終候補</title>
+        <link>https://www.cnn.co.jp/photo/35251567.html?ref=rss</link>
+        <description>2026年海洋写真家コンテストの最終候補が発表された。狩りをするシャチから巨大マンボウまで、多彩な写真が候補に入っている&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35251567.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/14/07deae9c2468696808034dfc7f251951/t/768/512/d/012-anita-verde__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251565.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-14T19:38:00+09:00</dc:date>
+        <title>狩りで協力するシャチから巨大マンボウまで　26年海洋写真家コンテスト、最終候補を発表</title>
+        <link>https://www.cnn.co.jp/fringe/35251565.html?ref=rss</link>
+        <description>水は地球表面の4分の3近くを占める。海が海洋写真家に様々な撮影の機会を提供しているのも当然かもしれない。
+
+今年の「海洋写真家コンテスト」の最終候補を見れば、芸術表現の舞台として海が持つ多様性がはっきりとうかがえる。
+
+このほど発表された最終候補者は、稚魚を守る魚から、良きにつけ悪しきにつけ人間がもたらす影響まで、あらゆる題材を素晴らしい写真に収めた。
+
+13日の声明によると、主催者には数千点の「並外れ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251565.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/14/ac1b84522236aaec475263083cdad442/t/768/512/d/001-yuta-shigeno__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251568.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-14T19:27:00+09:00</dc:date>
+        <title>仲良しの小型犬を襲ったコヨーテ、黒猫が飛び出して撃退　24年米オクラホマ州</title>
+        <link>https://www.cnn.co.jp/fringe/35251568.html?ref=rss</link>
+        <description>米オクラホマ州で2024年、民家の庭で小型犬がコヨーテに襲われ、助けに飛び出した仲良しの猫がコヨーテを追い払う出来事があった。
+
+6歳の小型犬「オークリー」は家の裏庭を散歩していたところ、暗闇から2頭のコヨーテが現れ、1頭がいきなりオークリーに襲いかかった。
+
+そこへ飛び込んできた黒猫の「ビンクス」。突進してくるビンクスを見て、コヨーテは2頭とも走って逃げた。
+
+飼い主のレイン・ダイヤーさんはビンクスについ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251568.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/14/8e21652ef76bf7cdca66e0f0721f719e/t/768/432/d/image__11_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251563.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-14T18:08:00+09:00</dc:date>
+        <title>空母での生活、メンタルに特有のストレス　元海軍士官が語る</title>
+        <link>https://www.cnn.co.jp/usa/35251563.html?ref=rss</link>
+        <description>米海軍の航空母艦ほどの大型艦船で士気を高く保つことには、より小型の軍艦では直面しないような問題が伴う。経験豊富な海軍士官らはそう語る。それは戦闘時であっても変わらないという。
+
+今週、空母エイブラハム・リンカーンの乗組員に関して、メンタルヘルス上の懸念が生じているとの報道が浮上した。同艦はイランに対する作戦に従事。乗組員は200日を超える無寄港の生活に耐えていた。
+
+当局者によると今月初め、リンカーン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251563.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/14/a81d454e7d2a9d0f7ef5d120ab5e9b2f/t/768/512/d/9846145.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35251562.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-14T17:10:00+09:00</dc:date>
+        <title>セレーナ・ゴメスの関わるスタートアップに詐欺疑惑、本人と企業を投資家が提訴</title>
+        <link>https://www.cnn.co.jp/business/35251562.html?ref=rss</link>
+        <description>ポップスターのセレーナ・ゴメス氏が関わるメンタルヘルス系スタートアップ「ワンダーマインド」を巡り、複数の投資家が13日、ゴメス氏本人を提訴した。同スタートアップの成功状況やゴメス氏の関与について、誤解を招く説明を受けたと主張している。
+
+訴状によると、ワンダーマインドは2021年に立ち上げられ、ゴメス氏は共同創業者、「最高インパクト責任者」、マーケティング責任者として名を連ねていた。このメディアプラッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35251562.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/14/2916bb156cdaf53b1cc2d10a46795c3a/t/768/541/d/entertainment-academy-museum-gala.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251561.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-14T16:11:00+09:00</dc:date>
+        <title>今年の日食見逃した？、来年は「現地で必見」の天体ショーに　専門家が助言</title>
+        <link>https://www.cnn.co.jp/fringe/35251561.html?ref=rss</link>
+        <description>12日の皆既日食を見て、壮大な天体ショーを観賞したいという気持ちが高まったのなら、旅支度を整えて宿泊先の予約を始めよう。
+
+今後10年間にわたり、遠く離れた世界各地で数多くの皆既日食が起こる。しかも来年の皆既日食は、これまででも屈指のものになることが約束されている。
+
+2027年8月2日の皆既日食は「必見」だと、米コロラド州ボルダーにある大気宇宙物理学研究所の太陽天体物理学者、ライアン・フレンチ博士は強調す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251561.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/14/bae607e35f3abbb6d09af611f49c91ec/t/768/453/d/gettyimages-2141956427.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251559.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-14T14:31:00+09:00</dc:date>
+        <title>犬は人間の喜怒哀楽を表情のみで理解、脳スキャン用いた研究が示唆</title>
+        <link>https://www.cnn.co.jp/fringe/35251559.html?ref=rss</link>
+        <description>犬を飼っている人なら誰もが思い当たることだが、今やそれを証明する科学的根拠が得られたかもしれない。どうやら犬は本当に、我々人間の喜怒哀楽を見分けることができるようだ。
+
+10日付の学術誌iScienceに掲載された研究論文によると、科学者たちは犬の脳をスキャンし、幸福、悲しみ、怒り、恐怖など、人間のさまざまな表情を犬がどのように処理しているのかを明らかにした。
+
+ウィーン大学の研究チームが実施したスキャンか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251559.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/14/208754bb389a69df69941c0ef9a4e05b/t/768/512/d/3771-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251558.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-14T12:45:00+09:00</dc:date>
+        <title>パレスチナ人住宅をイスラエル人入植者が包囲、水も電気も止めて追い出し狙う</title>
+        <link>https://www.cnn.co.jp/world/35251558.html?ref=rss</link>
+        <description>自分が生まれ育った場所に家を建て始めたのは、2人の娘にせがまれたことがきっかけだった。米オハイオ州在住のルイ・リディさんの出身地は、イスラエルが占領するパレスチナ自治区ヨルダン川西岸の町クスラ。
+
+娘は2人とも米国育ちだが、「おばあちゃんが住んでいて、お父さんが生まれ育った場所に家を持つことはできる？」とリディさんに尋ねたという。
+
+しかし今、その夢が揺らいでいる。イスラエル人入植者の集団がパレスチ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251558.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/14/bb9850955b02879cb83c4569918d8141/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXNybGlzdWkwMDAwM2I2cmU2NW5oMzhp-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntc3JrN2V5dDAwM2wyN3A3N2x4eTlxb3U_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35251555.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-14T11:08:00+09:00</dc:date>
+        <title>乗客が機外に吸い出されそうに、エンジンのファンブレード激突で窓破損か　暫定報告書</title>
+        <link>https://www.cnn.co.jp/business/35251555.html?ref=rss</link>
+        <description>欧州の格安航空会社ライアンエアーの乗客が機外へ吸い出されそうになった事故で、米国家運輸安全委員会（NTSB）は13日、暫定報告書を公表した。ボーイング737型機のジェットエンジンのファンブレードが外れて客室の側面に激突し、窓が破損した結果、男性の体の一部が吸い出されたとの見解を示した。
+
+事故が起きたのは7月10日。独メミンゲン行きのライアンエアー便は、離陸から10分足らずでギリシャのテッサロニキへ引き返し、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35251555.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/14/e5c8dcbb1e0efee1f94b31c8363dc639/t/768/664/d/screenshot-2026-08-13-at-2-41-55-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251551.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-14T10:45:00+09:00</dc:date>
+        <title>米首都の第2次大戦記念碑に落書き、噴水に石鹸の泡も　トランプ政権が捜査</title>
+        <link>https://www.cnn.co.jp/usa/35251551.html?ref=rss</link>
+        <description>米内務省が、首都ワシントンにある第2次世界大戦の記念碑で発生した破壊行為について調査していることが14日までに分かった。市中心部の緑地帯ナショナルモールに設置された記念碑「アトランティック・パビリオン」に蛍光色の落書きが描かれ、普段は澄んでいる現場の噴水は石鹸（せっけん）の泡であふれた。
+
+落書きは噴水の内側に、蛍光オレンジ色で「Clean hands Dirty $（きれいな手　汚れた金）」と書かれている。フリーラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251551.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/14/82d8ad8d2b0076dac0c1fe6f8032065b/t/768/576/d/hpn9ezcxiaatsdt.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251550.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-14T09:00:00+09:00</dc:date>
+        <title>オマーン沖で大規模な原油流出、1300平方キロに拡大　環境破壊に懸念も</title>
+        <link>https://www.cnn.co.jp/world/35251550.html?ref=rss</link>
+        <description>オマーン沖で座礁したタンカーから流出した原油が、推定1300平方キロの範囲に広がっていることが分かった。環境保護団体グリーンピースがCNNに明らかにした。アラビア海で大規模な生態系被害が起きている恐れがあり、懸念が高まっている。
+
+オマーン当局によると、流出した原油はタンカーから約200キロ離れたオマーン本土にも到達している。
+
+グリーンピースの活動家ハネン・ケスケス氏は、衛星画像の分析では油膜が途切れ途切...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251550.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/14/24d2f225de52eb70732b7b626a0ca65a/t/768/512/d/mideast-gulf-shipping-spill.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251548.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-14T08:30:00+09:00</dc:date>
+        <title>米、中東に空母ジョージ・ワシントン派遣へ　配備長期化のエイブラハム・リンカーンと交代</title>
+        <link>https://www.cnn.co.jp/usa/35251548.html?ref=rss</link>
+        <description>5日にベトナム寄港を終えた米海軍の空母ジョージ・ワシントンの打撃群が、展開中の空母エイブラハム・リンカーンと交代するため中東に向かっていることが、米当局者がCNNに明かした取材で分かった。
+
+当局者によると、今回の交代は以前から計画されていた。ジョージ・ワシントンがいつ中東に到着するかは、現時点では明らかになっていない。
+
+リンカーンをめぐっては、乗組員の健康状態への懸念が高まっており、民主党議員らが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251548.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/14/a81d454e7d2a9d0f7ef5d120ab5e9b2f/t/768/512/d/9846145.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251547.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T18:35:00+09:00</dc:date>
+        <title>在韓米軍基地の近くでスパイ行為か、中国退役軍人の男2人を逮捕　通信傍受も</title>
+        <link>https://www.cnn.co.jp/world/35251547.html?ref=rss</link>
+        <description>韓国軍や活動や在韓米軍の様子を偵察しようとしたとして、中国の退役軍人2人がスパイ容疑で逮捕されたことが分かった。2件の事件は別件。
+
+一つ目の事件で逮捕された男は、米国の戦闘機が配備されている空軍基地のそばで、航空通信を傍受した疑いが持たれている。もう一つの事件では、米韓合同演習に関する情報が不正に入手された疑いがある。
+
+韓国はアジアにおける米国の主要同盟国で、米国外で最大規模の軍事施設を擁する。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251547.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/89998540be33f7709bf2e4a2dd5bc816/t/768/511/d/gettyimages-1126986912-20241227025130704.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251546.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T18:13:00+09:00</dc:date>
+        <title>米パワーボールで1650億円の大当たり、イリノイ州で当選券</title>
+        <link>https://www.cnn.co.jp/fringe/35251546.html?ref=rss</link>
+        <description>米国の数字選択式宝くじ「パワーボール」の抽選が12日夜に行われ、10億4000万ドル（約1650億円）の大当たり（ジャックポット）が出た。運営団体によると、イリノイ州で当選券が販売されたという。昨年以来で最大のジャックポットとなる。
+
+当選番号は4、26、66、67、69で、赤いパワーボールの番号は9、パワープレイの倍率は2倍だった。
+
+身元が明らかにされていない当選者は、10億4000万ドルの賞金を29年間にわたり段階的に増額...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251546.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/65719e72375e720b4e8513a6959ff74a/t/768/512/d/ap26223673044820.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251545.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T17:05:00+09:00</dc:date>
+        <title>飼育のクマに「着ぐるみ」疑惑、動物園が否定　23年中国</title>
+        <link>https://www.cnn.co.jp/fringe/35251545.html?ref=rss</link>
+        <description>中国東部・浙江省の省都、杭州の動物園で2023年、マレーグマが後ろ足で直立した姿の動画が拡散し、実は人間の入った着ぐるみではないかとの疑惑が浮上する出来事があった。動物園側は当時、これを否定する声明を発表した。
+
+マレーグマの「アンジェラ」を名乗るこの声明には「昨日、仕事の後で動物園の園長から電話があり、仕事をさぼって人間に代わってもらったのではないかと聞かれた。改めてみなさんに言うが、私はアメリカ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251545.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/7fafe5e36133c674ca94794a8a7d2944/t/768/432/d/image__10_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251544.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T16:31:00+09:00</dc:date>
+        <title>【分析】トランプ氏による専用機の極秘乗り換え劇、どこが問題なのか</title>
+        <link>https://www.cnn.co.jp/usa/35251544.html?ref=rss</link>
+        <description>トランプ米大統領が先月トルコを出発する際、イランによる安全上の脅威があったため飛行機をひそかに乗り換えていたというニュースは、一見議論の余地がないように思えるかもしれない。スパイもののようで、もしかすると何やらかっこよくさえ聞こえそうだ。
+
+このニュースは米紙ワシントン・ポストが10日深夜に伝え、その後CNNなどが確認したが、実は極めて現実的な問題と疑問を提起している。
+
+まずは報道内容の基本事項をまと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251544.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/fc1d55c02eb8bcfda5971f802310f4a5/t/768/512/d/gettyimages-2285273357.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251543.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T16:16:00+09:00</dc:date>
+        <title>ヘルメットに潜んでいたのは猛毒マムシ、アメフトの練習で1時間着用　米　</title>
+        <link>https://www.cnn.co.jp/fringe/35251543.html?ref=rss</link>
+        <description>米国の高校生がアメリカンフットボールの練習中、ヘルメットの中に何かいるのを感じて当局に報告したところ、毒ヘビだった――。アーカンソー州マウメルでそんな出来事があった。
+
+ヘルメットから見つかったのは、非常に毒性が強い「ヌママムシ」。動物管理当局への報告によると、職員が到着した時点で、この選手は1時間にわたってヘルメットを着用していた。
+
+地元動物管理当局の責任者、クリス・デービス氏は「職員が到着してヘ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251543.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/c3349b50775cd37e24f5609fd1668665/t/243/432/d/oar2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35251536.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T14:38:00+09:00</dc:date>
+        <title>LAレイカーズ、史上最高額の約2兆円で売却へ　元ディズニーCEOとトランプ氏娘婿の弟に</title>
+        <link>https://www.cnn.co.jp/business/35251536.html?ref=rss</link>
+        <description>ディズニーの元最高経営責任者（CEO）ボブ・アイガー氏とベンチャーキャピタリストのジョシュ・クシュナー氏が、米プロバスケットボールNBAのロサンゼルス・レイカーズを買収することが分かった。
+
+事情に詳しい関係者がCNNに明らかにしたところによると、アイガー氏とクシュナー氏は米スポーツ界屈指の「トロフィー資産」の一つであるレイカーズに過去最高となる125億ドル（約1兆9900億円）を支払う。クシュナー氏はトランプ大...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35251536.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/519d37436b80d77f94b5210e421fe68d/t/768/512/d/gettyimages-2268221904.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35251538.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T14:05:00+09:00</dc:date>
+        <title>米国で快走するバーガーキング、「ワッパー」刷新でバーガー戦争再燃</title>
+        <link>https://www.cnn.co.jp/business/35251538.html?ref=rss</link>
+        <description>米バーガーキングが久々に、その名にふさわしい好調ぶりを見せている。
+
+主力ハンバーガー「ワッパー」のリニューアルが追い風となり、4～6月期の既存店売上高は8.5％増加。今年これまでの米国内売上高でウェンディーズを抜き、国内2位のハンバーガーチェーンに浮上した。マクドナルドは不動の1位を維持している。
+
+先週の決算説明会では、ポパイズやティムホートンズも傘下に持つ親会社、レストラン・ブランズ・インターナショ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35251538.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/8cc922f89fb16f2adf70b746a1c821e6/t/768/428/d/burger-king-whopper-hero-copy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251535.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T12:40:00+09:00</dc:date>
+        <title>体毛が赤く染まった猫見つかる、動物保護施設が安全な捕獲に動く　米テキサス州</title>
+        <link>https://www.cnn.co.jp/usa/35251535.html?ref=rss</link>
+        <description>体毛に赤い染料かペンキのようなものが付着した状態の雌の猫が、米テキサス州で見つかった。保護に当たろうとしている人たちにも、なぜ猫がこのような姿になっているのかは現時点で分かっていない。
+
+
+
+
+
+この猫は、テキサス州リーグシティー周辺を歩き回っているところを目撃された。現在、地元の動物保護施設が捕獲を試みている。
+
+同施設は、猫が忘れられた存在になったわけではないと人々に周知。施設のチームが安全に捕獲...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251535.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/947da3e9a1e8700b67fa10df96562a55/t/768/411/d/red-cat-roaming-texas.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251532.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T12:23:00+09:00</dc:date>
+        <title>米ICE執行官に「電気ショック手袋」支給へ、移民取り締まりの現場で使用</title>
+        <link>https://www.cnn.co.jp/usa/35251532.html?ref=rss</link>
+        <description>米移民税関捜査局（ICE）は近く、移民の取り締まりに際して電気ショックを与えられる手袋を現場の執行官に支給する可能性がある。メーカーはこの手袋について、相手との対立がエスカレートするのを防ぐ狙いがあると説明している。
+
+支給を予定している装備は「CTG 5 G.L.O.V.E（低出力電圧発生装置）」と呼ばれる手袋で、ICEは推定1000万～2000万ドル（約16億～32億円）を投じる計画。
+
+
+
+
+
+米国土安全保障省が公開している契約...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251532.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/c39239d11cdd9111a6facdee74c16316/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXNwZmxqM2gwMDAwM2I2cjU2aDNpazhm-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntc3BkZmt6ZzAwMXgyN3A0NmZycmRuNmI_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251531.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T11:40:00+09:00</dc:date>
+        <title>別機で秘密裏にトルコ出国のトランプ氏、複数の側近が同行　肩撃ちミサイルの脅威で乗り換えか</title>
+        <link>https://www.cnn.co.jp/usa/35251531.html?ref=rss</link>
+        <description>トルコを訪問したトランプ米大統領が先月、エアフォースワン（大統領専用機）から秘密裏に抜け出して比較的小型の航空機で出国した際、複数の側近が同行していたことが分かった。事情に詳しい情報筋が明らかにした。閣僚数人は、トランプ氏を乗せずに飛行した旧型のエアフォースワンに残った。
+
+トランプ氏と別機に乗り込んだ側近には、トランプ氏に常時同行する秘書役のナタリー・ハープ氏、スカビーノ大統領次席補佐官、頻繁...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251531.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/61fe845297fd8144ba09ff3e863867ab/t/768/511/d/2026-08-11t173831z-934669061-rc2dwmaiw3zt-rtrmadp-3-nato-summit-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251526.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T11:00:00+09:00</dc:date>
+        <title>「ロシアの弾道ミサイル、全て防げる」とゼレンスキー氏、米国が保有するパトリオットの1割を売却なら</title>
+        <link>https://www.cnn.co.jp/world/35251526.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領はCNNのインタビューに答え、米国から供与される迎撃ミサイルについて、現在は緊急に必要な分のわずか1割しか保有していないと明らかにした。急増するロシアの弾道ミサイル攻撃の阻止にはこれらの迎撃ミサイルが不可欠だが、現在は「何百万回」もの電話に日々を費やし、同盟国との不透明な交渉に追われていると付け加えた。
+
+ロシアの弾道ミサイル攻撃はここ数週間で急速に増加。特に首都キーウ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251526.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/31c6e45a87818725e9bb1f818584ca9e/t/768/432/d/66643081-26611172-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251527.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T10:03:00+09:00</dc:date>
+        <title>珍しい夕暮れ時の皆既日食、世界の天体ファンを魅了</title>
+        <link>https://www.cnn.co.jp/fringe/35251527.html?ref=rss</link>
+        <description>太陽が月の影に完全に隠れる皆既日食が12日、欧州の一部で観測された。
+
+米航空宇宙局（NASA）によると、皆既日食は月が太陽と地球の間を通過し、太陽光を完全に遮って地球に影が落ちる「皆既帯」で起きる。
+
+今回はグリーンランドとアイスランドの一部、スペイン北部、ポルトガル北東部が皆既帯に入り、スペインでは珍しい夕暮れ時の皆既日食になった。
+
+一方、米国北部とカナダ、欧州の大部分、およびアフリカ北西部では、太...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251527.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/00be09a03e7a65b89a3dc6d55edd9b61/t/768/431/d/2026-08-12t190408z-724892209-rc26xmaoiq9m-rtrmadp-3-solar-eclipse-italy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251523.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T08:53:00+09:00</dc:date>
+        <title>テキサス州で米軍ヘリが墜落、操縦士2人死亡</title>
+        <link>https://www.cnn.co.jp/usa/35251523.html?ref=rss</link>
+        <description>米テキサス州中部で12日、米軍の攻撃ヘリコプターが畑に墜落して炎上し、搭乗していた操縦士2人が死亡した。周辺地域では避難措置も取られた。
+
+ベル郡保安官事務所の広報担当者、クリフ・コールマン氏によると、フォートフッド陸軍基地所属のアパッチ攻撃ヘリコプターは現地時間午後1時35分ごろ、テキサス州サラドで墜落し、搭乗していた操縦士2人の死亡が確認された。
+
+米陸軍によると、フォートフッドを拠点とするAH64アパッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251523.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/1009ea0afa340b20e5c13dbefaae5f8c/t/768/576/d/image-69.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251522.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-13T08:18:00+09:00</dc:date>
+        <title>レビット米大統領報道官、8月末で退任へ　トランプ氏発表</title>
+        <link>https://www.cnn.co.jp/usa/35251522.html?ref=rss</link>
+        <description>トランプ米大統領は12日、ホワイトハウスのレビット報道官が8月末で退任すると発表した。
+
+中間選挙まで3カ月を切る中、ホワイトハウス内で大統領に最も近い側近の一人が退任することになり、政権の広報体制にとって大きな人事刷新となる。
+
+トランプ氏はSNSへの投稿で、レビット氏を「最も信頼する側近の一人」と評し、「幼い子どもたちや家族と過ごす時間を増やすため、今月末で役職を退く。私はこの決断を完全に理解し、尊重...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251522.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/13/66f69d591b7c61d8cd003e8419b44d39/t/768/512/d/gettyimages-2268326704-20260812194207236.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35251521.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-12T21:00:00+09:00</dc:date>
+        <title>沈黙を続けて3000年あまり、古代エジプトのトランペットが奏でた悠久の音色</title>
+        <link>https://www.cnn.co.jp/style/arts/35251521.html?ref=rss</link>
+        <description>1939年4月のある夜、英BBCラジオの驚くべき放送に、世界各地から推定1億5000万人が耳を傾けた。その放送は今でも驚異の念を呼び起こす。
+
+「ツタンカーメン王のトランペットです！」と、BBCのアナウンサーが声を張り上げる。短く息を吸う音に続き、王の墓に3000年以上無言で横たわり続けたトランペットの音が鳴り響いた。それから1分間、軍隊のようなファンファーレが、エジプトの首都カイロにあるエジプト考古学博物館から世界...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35251521.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/12/deb34ad628bb32a5779b68497f349663/t/768/432/d/20260817-tutankhamun-trumpet-final.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251520.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-12T19:01:00+09:00</dc:date>
+        <title>オオカミ同士が殺し合い、群れの全頭を安楽死させる結果に　英野生動物公園</title>
+        <link>https://www.cnn.co.jp/fringe/35251520.html?ref=rss</link>
+        <description>英イングランド南東部の野生動物公園で今年3月、オオカミの群れの力関係が崩れて争いが激化したため、群れ全体を安楽死させる出来事があった。
+
+野生動物公園「ワイルドウッド・トラスト」が3月27日の声明でCNNに明らかにしたところによると、争いが激しさを増す中で3頭が命に関わるけがを負い、群れの5頭すべてが殺処分となった。
+
+この野生動物公園はカンタベリー郊外に位置する。他の介入方法では争いを止められず、経験豊富...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251520.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/03/28/1de45d45a48e9eef19dba3b1ce3fe578/t/768/511/d/01kmq1rrn5030e85m19508c7hj.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35251519.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-12T18:45:00+09:00</dc:date>
+        <title>トランプ・メディア、大統領の投稿への即時アクセス権提供　複数のウォール街企業と契約　月額最大1600万円 </title>
+        <link>https://www.cnn.co.jp/business/35251519.html?ref=rss</link>
+        <description>トランプ米大統領のSNS「トゥルース・ソーシャル」を運営する「トランプ・メディア・アンド・テクノロジー・グループ」は10日、アナリスト向けに初めて開いた決算説明会で、トランプ氏のトゥルース・ソーシャルへの投稿に即時アクセスできるサービス「トゥルースAPI」の提供契約を10社超と締結したと明らかにした。
+
+顧客の大半は超高速取引（HFT）企業だという。こうした顧客は、トゥルース・ソーシャルのAPIと呼ばれるデータ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35251519.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/12/a60e443083d4450044e1b5a72bf7cc78/t/768/512/d/shutterstock-editorial-14424313d.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251518.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-12T18:36:00+09:00</dc:date>
+        <title>浜辺に打ち上げる石油、イランのゲシュム島で撮影　海から漂着か</title>
+        <link>https://www.cnn.co.jp/world/35251518.html?ref=rss</link>
+        <description>ホルムズ海峡に近いイランのゲシュム島で、浜辺に石油が打ち上げられる様子を捉えた映像が浮上した。CNNは動画の位置情報を特定した。
+
+動画では、ゲシュム島の南東岸の海岸に、分厚く黒い油の塊が広がっているのが確認できる。
+
+
+
+  
+    
+         
+  
+
+    
+    
+     CNNが位置情報を特定した映像。ホルムズ海峡に近いイランのゲシュム島の海岸に、原油が打ち寄せる様子が映っている。（Social media）  
+
+
+
+
+
+イラン国営放...</description>
+    </item>
+</rdf:RDF>
