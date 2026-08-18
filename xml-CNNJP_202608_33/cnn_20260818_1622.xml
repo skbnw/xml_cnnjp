@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-08-18T18:26:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251657.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251656.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251642.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251637.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251636.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35251634.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35251632.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251630.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251629.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251623.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251622.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35251614.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251617.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251609.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35251615.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251612.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251596.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251606.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251590.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35251592.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251582.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251581.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251580.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251579.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251578.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251577.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251576.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251574.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251573.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251569.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251657.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-18T18:26:00+09:00</dc:date>
+        <title>ホホジロザメが人間を噛む理由判明か　21年研究</title>
+        <link>https://www.cnn.co.jp/fringe/35251657.html?ref=rss</link>
+        <description>ホホジロザメが人間を噛（か）むのは、アザラシやアシカと間違えているから――。そんな説が長年唱えられてきたが、サメが世界をどのように見ているかをシミュレーションした2021年の研究の結果、これが事実である可能性が示された。
+
+研究を行ったのは豪シドニーにあるマッコーリー大学のチーム。若いホホジロザメの目から見ると、遊泳中もしくはパドリング中の人間はアザラシやアシカに良く似ていることを突き止めた。
+
+研究チ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251657.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/18/d3298c6289fbfebbb3878cae8a4a392c/t/768/511/d/211027061902-restricted-great-white-shark-2015.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251656.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-18T18:02:00+09:00</dc:date>
+        <title>マイクロソフト幹部、路上で銃殺　親権めぐる対立で元妻らが契約殺人</title>
+        <link>https://www.cnn.co.jp/usa/35251656.html?ref=rss</link>
+        <description>米マイクロソフトの若手幹部ジャレッド・ブライドガン氏（当時33）は2022年、冬の終わりの暖かな日にフロリダ州ジャクソンビルビーチにある元妻の自宅まで双子を送り届けたところだった。
+
+夕暮れ時に2歳の娘を後部座席に乗せて自宅へ向かい始めたところ、道路の真ん中にタイヤが置かれているのに気がついた。車から降りてタイヤを移動させたものの、運転席へと戻る前に何者かに路上で射殺された。犯人は逃走した。
+
+ジャクソン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251656.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/18/44cd341d78fdce3e2bbea308d169cde5/t/430/432/d/230317104408-jared-bridegan.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251642.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-18T14:04:00+09:00</dc:date>
+        <title>米駆逐艦ベンフォールド、南シナ海で4日間電力失う</title>
+        <link>https://www.cnn.co.jp/usa/35251642.html?ref=rss</link>
+        <description>米海軍のミサイル駆逐艦が先月、南シナ海での通常任務中に電力を失い、猛烈な暑さの中、4日間にわたってトイレや調理設備、エアコンが使えない状態に陥っていたことが分かった。
+
+米海軍第7艦隊はCNNに宛てた声明で、この事態は艦内の技術的な不具合が原因だったと明らかにした。イラン戦争や世界各地での任務による重圧に懸念が高まる米海軍で新たな問題が起きた形だ。
+
+アーレイ・バーク級ミサイル駆逐艦ベンフォールドは先月...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251642.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/18/eedbd344c792279aa583b0896c04cde8/t/768/512/d/9835497.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251637.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-18T11:48:00+09:00</dc:date>
+        <title>人気アルバムのリリース日は死亡事故が増加、スマホ操作のわき見運転が原因か　米調査</title>
+        <link>https://www.cnn.co.jp/fringe/35251637.html?ref=rss</link>
+        <description>テイラー・スウィフトの新アルバムを探そうと、運転しながらスマートフォンを操作して音楽配信サービスの「スポティファイ」をスクロールしていたら、自分の車が車線からはみ出していた――。
+
+死亡事故の増加と人気アーティストの新アルバムリリースとの関係について、米ハーバード大学医学校の研究者ビシャル・パテル氏が調査を思い立ったのは、自身が経験したそんな出来事がきっかけだった。
+
+米運輸省によると、米国の自動車...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251637.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/18/64cd167748ccfaabc6bc950d811c6aee/t/768/512/d/c-gettyimages-1130701697.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251636.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-18T11:45:00+09:00</dc:date>
+        <title>ウクライナがCNNに見せた「アキレス腱」、迎撃ミサイルが枯渇したパトリオット発射機</title>
+        <link>https://www.cnn.co.jp/world/35251636.html?ref=rss</link>
+        <description>世界で最も渇望される兵器でありながら、その兵器はトウモロコシ畑に放置されていた。発射筒は空っぽで、最後に発射されたのは10週間前だった。
+
+多くの国が防衛システムの強化に躍起になる中、世界的な供給不足の焦点となっているのが、米国製防空システム「パトリオット」用の迎撃ミサイルだ。イランとの戦争の矢面に立たされる湾岸地域やここウクライナでは、弾道ミサイルを迎撃できる兵器はわずかしかない。ウクライナは毎...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251636.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/18/bb4bf1eb7428beb711263dbd2bb7833e/t/768/432/d/patriot-npw1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35251634.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-18T10:48:00+09:00</dc:date>
+        <title>フェラーリ初EV「ルーチェ」の特別仕様車、64億円で落札　新車として史上最高額</title>
+        <link>https://www.cnn.co.jp/business/35251634.html?ref=rss</link>
+        <description>イタリアの高級スポーツ車メーカー、フェラーリ初の完全電気自動車（EV）「ルーチェ」を特別仕様にしたモデル「シャシー0」が15日、4000万ドル（約64億円）で落札され、オークションで売却された新車としての史上最高額を更新した。
+
+フェラーリは5月にルーチェ（イタリア語で「光」を意味）を発表。その翌日には株価が8％あまり下落していた。
+
+ルーチェは丸みを帯びており、従来のフェラーリに見られる特徴的な角張ったデザイ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35251634.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/18/b1cbb836c84a81b4201787c8e7904139/t/768/768/d/2026-ferrari-luce-tailor-made-1464337.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35251632.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-18T10:05:00+09:00</dc:date>
+        <title>36歳で死去の女優ヘイデン・パネッティーアさん、心肺停止で緊急通報　外傷なし</title>
+        <link>https://www.cnn.co.jp/showbiz/35251632.html?ref=rss</link>
+        <description>米サウスカロライナ州の住宅で16日に死亡した女優ヘイデン・パネッティーアさん（36）は、心肺停止状態で発見され、その後死亡が確認された。検視局が明らかにした。パネッティーアさんは米ドラマ「HEROES／ヒーローズ」のチアリーダー役などで知られる。
+
+パネッティーアさんは1989年8月21日、ニューヨーク州パリセーズで生まれ、生後11カ月でCMデビュー。98年の映画「バグズ・ライフ」ではドット姫の声を担当し、史上最年少級...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35251632.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/18/db7848573d61f7a61c841bb1111d7482/t/768/511/d/2026-08-17t031937z-66632866-rc230naayj58-rtrmadp-3-people-hayden-panettiere.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251630.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-18T08:45:00+09:00</dc:date>
+        <title>クシュナー氏、ハマスの早期武装解除見込む　不履行ならイスラエルの軍事行動支持へ</title>
+        <link>https://www.cnn.co.jp/usa/35251630.html?ref=rss</link>
+        <description>トランプ米大統領の娘婿ジャレッド・クシュナー氏は17日、イスラエルとイスラム組織ハマスの双方が協力すれば、パレスチナ自治区ガザ地区で「かなり早期に進展が得られる可能性がある」と述べた。一方で、ハマスが武装解除に応じなければ、米国はイスラエルによるさらなる軍事行動を支持するとの考えを示した。
+
+クシュナー氏は17日、イスラエルのネタニヤフ首相との会談後、米FOXニュースのインタビューで、「ハマスが今後60～...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251630.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/18/0df1c5b0753cfa6de67eabb2f6f767cf/t/768/511/d/gettyimages-2290376441__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251629.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-18T08:11:00+09:00</dc:date>
+        <title>トランプ氏、金正恩氏とのやり取り明かす　米韓演習の縮小表明に続き</title>
+        <link>https://www.cnn.co.jp/usa/35251629.html?ref=rss</link>
+        <description>トランプ米大統領は17日、北朝鮮の金正恩（キムジョンウン）総書記と最近やり取りがあったことを示唆した。トランプ氏は前日、対イラン戦争で韓国から十分な協力が得られていないとして、地域の主要同盟国である韓国との軍事演習を縮小する方針を発表していた。
+
+トランプ氏は記者団に対し、ホワイトハウスが金氏に「対話」を求めたところ返答があったと明らかにした。ただ、返答の具体的な内容には触れなかった。
+
+トランプ氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251629.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/18/83f22cc118e5095ab232441ca8e8b9f8/t/768/512/d/ap26229652985117.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251623.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-17T18:08:00+09:00</dc:date>
+        <title>亡命中のアサド前大統領に下された死刑判決、シリアの未来にもたらす意味は</title>
+        <link>https://www.cnn.co.jp/world/35251623.html?ref=rss</link>
+        <description>シリアのアサド前大統領に先週、欠席裁判で死刑判決を言い渡した裁判官は、数年前にアサド政権から欠席裁判で死刑判決を受けていた。
+
+まさに皮肉そのものだ。
+
+アリヤン判事は2013年に司法省を離れ、反体制派の司法機関に加わった。アサド氏が24年12月に政権を追われ、ロシアへ逃れた後、アリヤン氏が判事に復職したことは、シリアが移行期正義を追求していることの象徴といえる。
+
+アサド氏と弟のマーヘル氏に死刑判決が言い...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251623.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/17/b87a89ae8b82540e5a73e4344c3a6f07/t/768/512/d/09-gettyimages-2217651316.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251622.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-17T18:05:00+09:00</dc:date>
+        <title>地震が引き裂いた5人家族、生き残ったのは三つ子の姉妹の1人のみ　コロンビア</title>
+        <link>https://www.cnn.co.jp/world/35251622.html?ref=rss</link>
+        <description>アナ・マリア・サアベドラ・カイセドさんは、何時間も瓦礫（がれき）の下に横たわっていた。腕の負傷と骨盤の骨折に苦しみながら。ようやく救出された時、カイセドさんを待ち受けていたのは、家族の中で唯一の生存者という過酷な現実だった。
+
+8月10日、マグニチュード（M）7.4の地震がコロンビア西部を襲った時、カイセドさん一家は、最も被害の大きかった都市の一つ、カリのアパートにいた。
+
+現場での捜索救助活動は直ちに開...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251622.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/17/a54520aeb76d641f266a630a084e7aa0/t/768/513/d/trillizas1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35251614.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-17T15:56:00+09:00</dc:date>
+        <title>欧州経済に異常気象と戦争の二重苦、今年の成長分ほぼ吹き飛ぶ恐れも</title>
+        <link>https://www.cnn.co.jp/business/35251614.html?ref=rss</link>
+        <description>急上昇する気温が欧州の経済に一段の打撃を与えている。ただでさえ米国の関税や中国との競争、そしてイラン戦争によるエネルギー価格の上昇に圧迫される中、相次ぐ熱波が追い打ちをかけた形だ。
+
+ルーマニアの国有原子力発電会社ヌクレアレクトリカは13日、唯一稼働中の原子炉を送電網から切り離し始めた。設備の冷却に不可欠なドナウ川の水位が記録的な低さとなったことが理由だ。同社がCNNに確認した。同国は8月いっぱいエネ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35251614.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/17/16cb70fb98667246fa69d8f62215b6a1/t/768/512/d/gettyimages-2290050222.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251617.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-17T15:31:00+09:00</dc:date>
+        <title>建設作業員、仕事中に16.6億円相当の金を掘り当てる　ベルギー</title>
+        <link>https://www.cnn.co.jp/world/35251617.html?ref=rss</link>
+        <description>ベルギーで11日、建設作業員8人が作業中に900万ユーロ（約16億6000万円）相当の金貨と金塊を発見したことが分かった。当局が明らかにした。
+
+作業員らは首都ブリュッセルの北西約30キロにあるデンデルモンデで、改修工事をしていた建物の下から金を発見した。
+
+デンデルモンデ警察はベルギーの放送局VTMに対し、「掘削作業中にドリルの刃が動かなくなったようだ。金塊に当たったのだ」と語った。
+
+作業員らは発見後、建物の所有...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251617.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/17/9dbb011e67d83d10e7f418b2a4760e10/t/768/576/d/772137757-830596346805416-2051936017905104373-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251609.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-17T14:33:00+09:00</dc:date>
+        <title>「世界一醜い犬」コンテスト、6歳のパグが優勝</title>
+        <link>https://www.cnn.co.jp/fringe/35251609.html?ref=rss</link>
+        <description>米カリフォルニア州サンタローザでこのほど、「世界一醜い犬」を決めるコンテストが行われ、6歳の雌のパグ「ジニー・ルー」が今年の優勝犬に輝いた。
+
+
+
+
+
+ルーは韓国の犬肉取引から救出された後、北カリフォルニアの家庭に迎えられた。
+
+ルーと飼い主は優勝賞金5000ドル（約79万5000円）を手にした。
+
+今年で50回目を迎えるこのコンテストは、ペットの里親になることを推奨するため、あらゆる形の美しさを称（たた）えることを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251609.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/17/30707172d81b5ef594d87dde07ceb80c/t/768/426/d/jinny-lu-pug.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35251615.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-17T13:58:00+09:00</dc:date>
+        <title>米俳優ヘイデン・パネッティーアさん死去、36歳　「HEROES／ヒーローズ」などで活躍</title>
+        <link>https://www.cnn.co.jp/showbiz/35251615.html?ref=rss</link>
+        <description>米俳優ヘイデン・パネッティーアさんが死去した。36歳だった。代理人がCNNに明らかにした。
+
+パネッティーアさんの父親は、代理人を通じて声明で「ヘイデンは信じられないほど明るく、自然の力のような存在だった。ヘイデンを知るすべての人々、そして画面越しにヘイデンを見てきた何百万人もの人々に、計り知れない愛と喜びをもたらした」と語った。
+
+死に至った経緯は分かっていない。
+
+パネッティーアさんは2000年代後半のテ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35251615.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/17/33d18c586e1e1194de8dcdca8a2e736d/t/768/512/d/gettyimages-2173776586.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251612.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-17T13:14:00+09:00</dc:date>
+        <title>スパイ指定受けロシアを出国した反戦政治家、「プーチン氏は戦争で支持を失っていることを認識」</title>
+        <link>https://www.cnn.co.jp/world/35251612.html?ref=rss</link>
+        <description>フランス首都パリで面会したロシアのボリス・ナジェージュジン氏は、疲れた様子をみせながらも、明るさを保っていた。フランスに着いてまだ1週間あまりで、慌ただしくロシアを出国した動揺は今も残っているようだった。同氏はロシアの最高法執行機関で強大な権限を持つ連邦捜査委員会から突如出頭を求められ、刑事訴追を恐れ出国していた。
+
+ロシアの政治に40年間関わってきたナジェージュジン氏は、出国するという選択肢を失う...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251612.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/17/e01a9f6c182f3b8e52146ba10697f5a8/t/768/512/d/ap24039415238538-20260813104046230.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251596.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-17T11:45:00+09:00</dc:date>
+        <title>【分析】バンス氏とトランプ陣営、イラン巡りゴールポストを動かし続ける</title>
+        <link>https://www.cnn.co.jp/usa/35251596.html?ref=rss</link>
+        <description>トランプ米政権がイランとの戦争から抜け出すうえでの最大の問題の一つは、トランプ大統領とその陣営が掲げた極めて絶対主義的な目標の数々だ。
+
+その目標には、イランの完全降伏と体制転換に加え、イランが決して核兵器を保有しないこと、そしてレバノンのイスラム教シーア派組織ヒズボラのような中東の代理勢力に対するイランの支援を終わらせることが含まれていた。
+
+今や6カ月目に突入した戦争の長期化に伴い、これらの目標...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251596.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/17/3c877ef7a647fbbc5a52a91b419da131/t/768/512/d/usa-vance.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251606.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-17T11:41:00+09:00</dc:date>
+        <title>米巨大ダムの水位が史上最低を記録、発電も放流も不可能になる「未踏の領域」迫る</title>
+        <link>https://www.cnn.co.jp/usa/35251606.html?ref=rss</link>
+        <description>米西部を流れるコロラド川流域で干ばつが続く影響で、米国で2番目に大きい貯水池パウエル湖の水位が低下し続け、観測史上最低を記録した。パウエル湖は数百万人への水や電力の供給に使われている。
+
+米開拓局の16日の発表によると、パウエル湖の水位は15日、3519.91フィート（約1073メートル）まで低下し、2023年4月に記録した過去最低の3519.92フィートを下回った。あと約9.1メートル低下すれば、パウエル湖での水力発電が不可...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251606.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/17/a603235a084c7f07fa7950534b73a11b/t/768/512/d/ap26202644055978.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251590.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-17T09:47:00+09:00</dc:date>
+        <title>トランプ米大統領、米韓軍事演習の縮小を発表　イラン戦争に協力しない韓国を批判</title>
+        <link>https://www.cnn.co.jp/world/35251590.html?ref=rss</link>
+        <description>米国のドナルド・トランプ大統領は16日、韓国との合同軍事演習を縮小すると発表した。北朝鮮の金正恩（キムジョンウン）総書記との良好な関係や、韓国がイランとの戦争に協力しないことを理由として挙げている。
+
+トランプ氏は自身のSNS「トゥルース・ソーシャル」への投稿で、「私は北朝鮮の金正恩との非常に良好な関係に基づき、米国がかなり前に韓国との合同軍事演習への参加に合意した事実を快く思っていない。そうした演習...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251590.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/17/e4de549bba75a3c717857460f43e7661/t/768/512/d/gettyimages-2290243780.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35251592.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-17T09:39:00+09:00</dc:date>
+        <title>トミー・ジョンさん死去、83歳　肘靱帯再建手術通称の由来</title>
+        <link>https://www.cnn.co.jp/showbiz/35251592.html?ref=rss</link>
+        <description>ひじの靱帯（じんたい）再建手術を受け、同手術の通称の由来となったことで最もよく知られる元MLB（大リーグ機構）投手のトミー・ジョンさんが15日、死去した。83歳だった。ニューヨーク・ヤンキースが声明で明らかにした。
+
+ジョンさんは1974年、医学的には内側側副靱帯再建術と呼ばれる手術を受けた。この手術は、ひじなどの損傷した靱帯に体の別の部位から腱（けん）を移植するもの。
+
+この実験的な手術を受け、75年シーズン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35251592.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/17/96522e65d9754d608a06b6b2fcd2e8f0/t/768/518/d/gettyimages-1309207041-20260816183945621.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251582.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-16T17:17:00+09:00</dc:date>
+        <title>世界は「水破産」の新たな時代に　国連報告書が今年警告</title>
+        <link>https://www.cnn.co.jp/world/35251582.html?ref=rss</link>
+        <description>世界は、取り返しのつかない結果を伴う「水破産」の新たな時代に入った――。国連が今年1月に発表した報告書はそう警告している。
+
+国連大学が1月20日に公表した報告書によると、世界は地球規模の水破産の時代に突入しており、「水危機」や「水ストレス」といった言葉ではその深刻さを捉えきれないという。今回の報告書は、学術誌「ウォーター・リソーシズ」に掲載された研究を基にまとめられた。
+
+世界各地が深刻な水問題に直面...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251582.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/16/8c823a34cb4504aadf104684590824fb/t/768/510/d/large-gettyimages-2159665764.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251581.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-16T16:39:00+09:00</dc:date>
+        <title>謎のドローンから太平洋上で爆弾を投下され漁船が沈没、生存者が語る一部始終　攻撃者の正体は</title>
+        <link>https://www.cnn.co.jp/world/35251581.html?ref=rss</link>
+        <description>エルナン・フローレスさんは、太平洋を漁船で航海しているときに突然の爆発に揺さぶられた衝撃を今も覚えている。
+
+「ドーンという爆発音が聞こえた。耳鳴りがするほどの爆発だった。その瞬間、体から血が流れ落ちているのを感じた」
+
+エクアドルの漁船2隻は3月、武装した外国人による原因不明の攻撃で船を沈められたと訴えている。外国人らは爆発物を積んだ小型の回転翼ドローン（無人機）を発射したという。フローレスさんは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251581.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/16/6afd17721c1020f92580fefe42888d08/t/768/432/d/still-22897522-60-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251580.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-16T13:51:00+09:00</dc:date>
+        <title>ミサイルよりもイランの経済的苦境に活路見いだすトランプ氏、イラン国民は「生き続けること」だけに集中</title>
+        <link>https://www.cnn.co.jp/world/35251580.html?ref=rss</link>
+        <description>深まる貧困、積み重なる家計債務、インフレの長期化、隠れ失業――。イランの経済指標は、多方面で危機的状況が深まる現実を見せつけている。公共メディアの少なくとも1社が、それを率直に伝えた。
+
+米国のドナルド・トランプ大統領は9日、イランに経済的打撃を与えることが、米政府の戦略の一環だと言明した。
+
+「（イランとは）半分交渉しているにすぎない。我々はただ、イランが激しいインフレに見舞われて、金もないという現...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251580.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/16/47d9255f44d0c4f26dbde762880eb650/t/768/512/d/gettyimages-2289201791.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251579.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-16T12:19:00+09:00</dc:date>
+        <title>母親と弟を殺害した10代少年を起訴　チャットGPTで家族を殺害する架空の物語を作成　米</title>
+        <link>https://www.cnn.co.jp/usa/35251579.html?ref=rss</link>
+        <description>米マサチューセッツ州で母親と弟を殺害したとして10代の少年が起訴された。検察によると、少年は家族を殺害する「理論上のアイデアや架空の物語」を検索するため、チャットGPTを使用していた。
+
+アルジュン・アラビンド被告（17）は13日、殺人罪2件、家族または同居人への暴行罪2件などについて無罪を主張した。母親（45）と弟（14）は11日に自宅で死亡しているのが見つかったという。
+
+ミドルセックス郡のマリアン・ライアン検...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251579.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/16/67bbddd1787ea0f231e2020d25059647/t/768/513/d/usatsi-29567278.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251578.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-16T11:08:00+09:00</dc:date>
+        <title>英ケンブリッジ大史上最年少の黒人教授が死亡、業績めぐる執拗な疑惑報道受け</title>
+        <link>https://www.cnn.co.jp/world/35251578.html?ref=rss</link>
+        <description>英ケンブリッジ大学の研究者ジェイソン・アーデイ氏（41）が14日に死亡しているのが見つかった。アーデイ氏は盗用疑惑を受けて今月初めに辞職していた。家族は「穏やかな」同氏が「長期にわたる中傷」にさらされていたと述べた。
+
+アーデイ氏はケンブリッジ大学史上最年少の黒人教授で、著名な公人でもあったが、学術的な実績や慈善活動をめぐって先月以降、厳しい疑念が向けられ、急速に名声を失った。
+
+国内外のメディアは数...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251578.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/16/23c4e0a0fb16cccf6fe21499ba06ceea/t/768/556/d/shutterstock-editorial-13789597b.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251577.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-16T09:36:00+09:00</dc:date>
+        <title>インドネシア地震、死者47人に　2000人避難</title>
+        <link>https://www.cnn.co.jp/world/35251577.html?ref=rss</link>
+        <description>インドネシアのフローレス島沖で15日午前、マグニチュード（M）7.7の強い地震が発生し、少なくとも47人が死亡した。建物が損壊し、住民は自宅からの避難を余儀なくされた。
+
+米地質調査所（USGS）によると、地震は現地時間午前6時ごろ、東ヌサトゥンガラ州エンデの北西約68キロの沖合で発生した。
+
+インドネシア国家防災庁（BNPB）が同日夜に発表した最新情報によると、死者47人に加え、50人が負傷または重傷を負い、約2000人が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251577.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/16/adc5ec3a9a8660a6c490b3fb06bd98f2/t/768/512/d/ap26227057203174.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251576.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-15T18:22:00+09:00</dc:date>
+        <title>縮小止まらず死にゆく「死海」、救う手立ても定まらず</title>
+        <link>https://www.cnn.co.jp/world/35251576.html?ref=rss</link>
+        <description>死海はイスラエルとヨルダン、パレスチナ自治区の境界にまたがる塩湖。湖面の海抜はマイナス約430メートルと、地球上で最も低い。含まれる塩分は世界屈指の濃度で、通常の海水に比べると10倍近い。そのため水の密度が非常に高く、何もしなくても体が水面に浮く。
+
+  
+    
+      
+    
+    
+死海西側の沿岸/Cyril Theophilos, CNN
+  
+
+その湖が今、死に向かいつつある。人間の活動と気候変動の影響を受けて、毎年約1メートルず...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251576.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/29/fc15044404e74d615e77c589d0216190/t/768/576/d/salt-formations.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251574.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-15T17:10:00+09:00</dc:date>
+        <title>インドネシアのM7.7の地震、死者10人超　避難を強いられる村人たち</title>
+        <link>https://www.cnn.co.jp/world/35251574.html?ref=rss</link>
+        <description>インドネシアのフローレス島沖で15日午前に発生したマグニチュード（M）7.7の地震による死者は10人を超えた。建物にも被害が出ており、住民は自宅から避難を余儀なくされている。
+
+
+
+  
+    
+         &lt;
+
+                    
+                    
+                    
+                    
+
+    
+    
+     地震が発生した瞬間のインドネシアの様子＝15日 (Social Media | Facebook/Paulus Njauk)  
+
+
+
+
+
+米地質調査所（US...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251574.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/15/3ad8c66ab6c4f2b449c3bd8510ca5fdb/t/768/432/d/tsunami-threat.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251573.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-15T15:20:00+09:00</dc:date>
+        <title>猛暑のローマ、川の水位低下で「ネロの橋」の遺構露出　建設は2000年前</title>
+        <link>https://www.cnn.co.jp/fringe/35251573.html?ref=rss</link>
+        <description>焼けるような暑さと長く乾燥した夏にあえぐイタリアで、川の水位低下により2000年前の橋の遺構が姿を現した。「ネロの橋」と呼ばれるこの橋はかつて、首都ローマ中心部を流れるテベレ川に架かっていた。
+
+ローマ市民保護当局の調整官によると、アペニン山脈北部の支流から注ぐテベレ川の流量は、毎秒80立方メートルを下回っている。毎秒80立方メートルというのは、この時期の全国平均の半分に当たる。
+
+調整官はAP通信の取材に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251573.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/15/98ee758e06b9643e2f328626e3defe97/t/768/432/d/gettyimages-2289773410.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251569.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-15T12:58:00+09:00</dc:date>
+        <title>ロンドン中心部のパブに「立ち飲み」規制案　伝統揺るがす動きに怒りと反発の声</title>
+        <link>https://www.cnn.co.jp/world/35251569.html?ref=rss</link>
+        <description>めったに熱くならない英国人だが、由緒あるパブの伝統を規制しようとする提案には、さすがに怒りを隠せないようだ。
+
+ロンドン中心部の大部分を管轄するウェストミンスター区議会は、管轄区域内のパブで、立ったまま酒を飲む「立ち飲み」行為を減らす方針を打ち出した。この管轄内には、決定的なことにナイトライフの中心地であるウェストエンドのソーホーが含まれている。
+
+9日に一般からの意見公募を終えたこの提案は、パブの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251569.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/15/34a0878ced38ecd5bb3ab5b11563be77/t/768/432/d/gettyimages-2285412325.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
