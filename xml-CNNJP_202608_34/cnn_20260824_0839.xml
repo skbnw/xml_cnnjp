@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-08-24T14:59:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251858.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35251857.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251851.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251854.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251852.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251843.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251847.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251839.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251838.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251837.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251836.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251835.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251833.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251832.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251831.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251830.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251829.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251828.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251827.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35251826.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251825.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35251824.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251823.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251819.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251816.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251809.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251812.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251802.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251803.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251799.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35251858.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-24T14:59:00+09:00</dc:date>
+        <title>【分析】ロシアを襲い続ける「暗黒の8月」、プーチン氏がひた隠す今夏の危機とは</title>
+        <link>https://www.cnn.co.jp/world/35251858.html?ref=rss</link>
+        <description>ここ数十年の間、「暗黒の8月」または「8月の呪い」という言葉が、ロシアにおいてはある種のジャーナリズム用語として定着した。これは夏の終わりの数週間にかけて、同国で大きな危機が起こりがちな状況を表す言い回しだ。
+
+見方によっては、「暗黒の8月」は英国のジャーナリズムにおける「シリー・シーズン（夏枯れ時）」にほぼ相当する。この時期の英国はニュースに乏しく、軽薄な見出しが支配的になる傾向がある。 議会が休...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251858.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/24/0e4ce39ea013c25efc8a67d1e8c13090/t/768/503/d/gettyimages-2289709412.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35251857.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-24T11:56:00+09:00</dc:date>
+        <title>中国のヒト型ロボット、100m走でウサイン・ボルトの記録破る</title>
+        <link>https://www.cnn.co.jp/tech/35251857.html?ref=rss</link>
+        <description>中国・北京で開催されている「世界ヒト型ロボット運動会」で22日、中国企業が開発したロボット「ライトニング」が100メートル走でウサイン・ボルトが樹立した人間による最速記録9秒58を上回った。
+
+
+
+
+
+今年の大会では16カ国・2000台超のロボットが出場し、これまでにない規模でその実力が試される。
+
+大会ではキックボクシング、サッカー、卓球などの競技が行われ、一部の競技ではその難易度が上がっている。たとえば、400メー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35251857.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/24/35ec55c25de182cd41bb7869d0051d6f/t/243/432/d/oar2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251851.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-24T11:23:00+09:00</dc:date>
+        <title>イラン大統領、「戦争を永遠に続けることはできない」</title>
+        <link>https://www.cnn.co.jp/world/35251851.html?ref=rss</link>
+        <description>イランのペゼシュキアン大統領は、同国が「戦争を永遠に続けることはできない」との認識を示した。現在米国との交渉を巡っては、イランの指導部内で意見の相違が深まりつつある兆候が見られる。
+
+ペゼシュキアン氏は23日、首都テヘランで2回にわたって記者団の前に姿を現し、6月に米国と締結した覚書を擁護した。ただイランの最高指導者モジタバ師は、この件に懸念を抱いているとされる。
+
+「いつかは『戦争でも平和でもない』...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251851.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/24/771401a4e9992d6d32ae763cef29d2a6/t/768/512/d/gettyimages-2288806525.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251854.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-24T10:57:00+09:00</dc:date>
+        <title>人のがんの先端治療、世界で初めてヘビに応用　順調に回復　英国</title>
+        <link>https://www.cnn.co.jp/world/35251854.html?ref=rss</link>
+        <description>英国の動物園で飼育されている体長約4.6メートルのニシキヘビが、人間用に開発されたがんの先端治療を受けて順調に回復している。ヘビに対してこの治療法が使われたのは世界で初めてと思われる。
+
+治療を受けたのは体重約50キロの23歳のメスのアミメニシキヘビ「ジョディ」。イングランド北西部のチェスター動物園で飼育されている。ジョディの名は米女優ジョディ・フォスターさんにちなむ。
+
+動物園の21日の発表によると、ジョ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251854.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/24/02aac9002bd48c3c403fdd0b8ab9205b/t/768/520/d/world-first-cancer-treatment-saves-python-after-tumour-destroys-part-of-her-jaw-c-chester-zoo-10.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251852.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-24T10:18:00+09:00</dc:date>
+        <title>中国、月探査機の打ち上げ延期　米国としのぎ削る水資源探査</title>
+        <link>https://www.cnn.co.jp/fringe/35251852.html?ref=rss</link>
+        <description>中国有人宇宙プロジェクト弁公室は、月探査機の「嫦娥7号」について、「予定していた年内の打ち上げができなくなった」と発表した。国営メディアが伝えた。
+
+嫦娥7号は月の南極で水の氷などの資源探査を予定しており、現地時間の23日か24日にも打ち上げる予定だった。打ち上げがいつになるのかは分かっていない。
+
+延期の理由は現時点で不明。国営メディアは、打ち上げの条件が整わず、確実に成功させるために検討が行われてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251852.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/24/298594f383a7d1f213294b53832ca540/t/768/483/d/c-gettyimages-2290528924.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251843.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-24T09:48:00+09:00</dc:date>
+        <title>富士山登山の男性、7歳の息子を途中で置き去りに　警察が厳重注意</title>
+        <link>https://www.cnn.co.jp/world/35251843.html?ref=rss</link>
+        <description>家族連れで富士山に登山した男性が、7歳の息子を置き去りにして1人で待たせたまま、兄だけを連れて登山を続けたとして、警察から厳重注意を受けた。
+
+CNN提携局のテレビ朝日によると、7歳の男の子は20日、富士宮ルート6合目の標高およそ2500メートル付近で1人で座っているところを山小屋の従業員が発見して、警察に通報した。
+
+警察によれば、男の子は父親と兄と一緒に登山に出かけたが、疲れてもう歩きたくないと訴えたところ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251843.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/24/94397a1dd430d0f7904c5a06c16105e0/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXQ1ZXQ0dHowMDBnM2I2cm45dzljNXRx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdDVkdG12ZjAwMnMyN250ZzY2bDh1eG4_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251847.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-24T09:42:00+09:00</dc:date>
+        <title>ロシア、年内に30万人動員の可能性　ゼレンスキー氏が警告</title>
+        <link>https://www.cnn.co.jp/world/35251847.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は23日、ロシアが年内に新たに30万人を動員する可能性が高いと警告した。ウクライナ東部地域の掌握を完遂させる狙い。
+
+ゼレンスキー氏は23日に公表された多岐にわたる発言の中で、ロシア側は今年、甚大な人的損失を被っているにもかかわらず、年末時点でのウクライナ領の占領面積は年初と変わらないとの見方を示した。
+
+「ロシアは年初以降、26万7000人の要員を失った。これまでに死亡したのは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251847.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/24/eba28c10ce0f2b264bb34a50964ecd13/t/768/512/d/2026-06-22t105228z-1465814115-rc2xylatek76-rtrmadp-3-ww2-anniversary-russia-putin.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251839.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-23T16:52:00+09:00</dc:date>
+        <title>米連邦地裁、75カ国対象のビザ発給禁止措置を無効と判断　米政権の移民政策に打撃</title>
+        <link>https://www.cnn.co.jp/usa/35251839.html?ref=rss</link>
+        <description>トランプ米政権が75カ国からの移民に対するビザ（査証）発給を禁止した措置をめぐり、ニューヨーク市マンハッタンの連邦地方裁判所は21日、「法律に反する」うえ、ルビオ国務長官に法律で認められた権限を逸脱しているとして無効と判断した。
+
+米国務省は今年1月、ブラジル、コロンビア、エジプト、ハイチ、ソマリア、ロシアなど、世界の国々の約40％を対象に移民ビザの発給を停止した。同省はこの措置について、「福祉や公的給...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251839.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/23/64e9def37944a2c80eff06e41f81550c/t/768/512/d/c-gettyimages-2267621255.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251838.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-23T16:11:00+09:00</dc:date>
+        <title>自宅の庭に巨大コンテナ船が座礁、ぐっすり眠り続けた男性　25年ノルウェー</title>
+        <link>https://www.cnn.co.jp/fringe/35251838.html?ref=rss</link>
+        <description>ノルウェーのフィヨルド地帯で昨年5月、自宅の前の庭に巨大なコンテナ船が座礁している状況にもかかわらず、住民の男性が眠り続ける出来事があった。
+
+ノルウェーのテレビ局TV2の報道によると、トロンハイム・フィヨルド内の自治体に住むヨハン・ヘルベルグさんは昨年5月22日朝、近所の人から「家の外の船に気付いたか」と尋ねられて目が覚めた。
+
+玄関の外を見ると、家の前の庭に全長135メートルのコンテナ船が停止していた。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251838.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/23/80fbcf8d08811c8968f7352c4c82fe55/t/768/432/d/massive_container_ship.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251837.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-23T15:16:00+09:00</dc:date>
+        <title>米警察官、自宅で遺体で見つかる　「武装して危険な」妻に逮捕状、捜索続く</title>
+        <link>https://www.cnn.co.jp/usa/35251837.html?ref=rss</link>
+        <description>米マサチューセッツ州ウースターの警察は今週、警察官の夫が死亡した事案に関連して、同州在住の女に逮捕状を出した。
+
+当局は、警察官のメンタルヘルスを支援する団体の共同創設者カレン・ソロモン容疑者の行方を追っている。夫でウースター警察の警察官だったカート・ソロモンさんは18日、夫妻が共同所有する自宅で死亡しているのが見つかった。
+
+ウースター警察の署長は21日の記者会見で、カレン容疑者に対する逮捕状の容疑...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251837.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/23/ad37582801d79c505fe29e33a44710f9/t/768/551/d/usatsi-29634085.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251836.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-23T12:42:00+09:00</dc:date>
+        <title>NASAが冷戦時代の偵察機を利用、山火事が嵐を引き起こす現象の解明に期待</title>
+        <link>https://www.cnn.co.jp/fringe/35251836.html?ref=rss</link>
+        <description>米航空宇宙局（NASA）が冷戦時代に開発されたU2偵察機を改造して、山火事が引き起こす嵐の研究に活用している。山火事の現場で「火災積乱雲」と呼ばれる火の雲が発生する気象現象については、まだほとんど解明が進んでいない。
+
+U2を改造した「ER2」は、軍事装備の代わりに観測機材を装備した、いわば「空飛ぶ研究室」。山火事の熱によって発生した火災積乱雲は激しい雷雨を引き起こし、落雷や強風、場合によっては火災旋風を伴...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251836.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/23/20bec1ebba9720e490ad02320d6845c8/t/768/512/d/c-afrc2023-0106-136-orig.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251835.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-23T11:23:00+09:00</dc:date>
+        <title>木から吊るされた黒人女性遺体めぐる捜査続く　同類の死亡事案相次ぎ懸念高まる中　米ミシシッピ州</title>
+        <link>https://www.cnn.co.jp/usa/35251835.html?ref=rss</link>
+        <description>米ミシシッピ州ジャクソンの廃屋の外で2週間あまり前に黒人女性のテイシャ・フォーチュンさん（29）が木につるされた状態で死亡しているのが見つかった事案をめぐり、捜査当局は現在も捜査を続けている。
+
+ケンタッキー州グリーンビルにあるウェストエンド墓地では、フォーチュンさんの埋葬の準備が進められている。家族はフォーチュンさんが知性や才能、信仰心の持ち主として記憶されることを願っている。
+
+訃報（ふほう）によ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251835.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/23/5929d4c923c6d8deb755a4dd0312d7d7/t/768/500/d/ap26222640940677.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251833.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-23T10:09:00+09:00</dc:date>
+        <title>米、イランに対する「壊滅的な経済作戦」宣言も詳細不明　イランは「屈しない」と反発</title>
+        <link>https://www.cnn.co.jp/usa/35251833.html?ref=rss</link>
+        <description>イランとの戦争が長期化する中、米国は経済的手段によってイランに圧力をかけるとの威嚇を強めている。ベッセント米財務長官は先週、「前例のない」経済措置を講じると表明し、トランプ大統領は「経済的なDデー」を約束した（Dデーはノルマンディー上陸作戦の決行日を指す）。
+
+米国は約50年にわたりイランに制裁を科してきたが、トランプ氏とベッセント氏がどのような措置を取る可能性があるのかは明らかになっていない。トラ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251833.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/23/c5bbc78aa1b616759f28669ff38db36a/t/768/511/d/2026-08-17t150610z-1112003974-rc2a0nan1l7l-rtrmadp-3-iran-crisis-economy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251832.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-23T09:14:00+09:00</dc:date>
+        <title>ベルギーの自動車販売員、26歳で王子に　DNA鑑定で王室の血筋が判明</title>
+        <link>https://www.cnn.co.jp/world/35251832.html?ref=rss</link>
+        <description>ベルギーで自動車販売員をしていた男性、クレマン・ファンデンケルクホーフ氏が26歳にして王子となった。国王の弟であるロラン王子の息子として認知された。
+
+ファンデンケルクホーフ氏の母親は、ベルギー人歌手で1990年代にロラン王子と交際していた。本人が16歳になった10年前に、初めて父親が誰なのかを明かしたという。
+
+今週明らかになったところによると、ファンデンケルクホーフ氏はDNA鑑定で王室との血縁関係が証明され...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251832.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/23/29ee1cc709d406b21d24e4809f5afcba/t/768/512/d/sipausa-66517102.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251831.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-22T19:52:00+09:00</dc:date>
+        <title>オオカミの群れと暮らしていた「シエラモレナの狼少年」、80歳で死去　スペイン　</title>
+        <link>https://www.cnn.co.jp/fringe/35251831.html?ref=rss</link>
+        <description>少年時代をオオカミの群れで過ごし、人間社会に戻ってからは「シエラモレナの狼少年」と呼ばれるようになったスペインの男性が死去した。80歳だった。
+
+マルコス・ロドリゲス・パントーハさんは少年時代の大半、人との接触を断ったまま、スペインの人里離れた山中で過ごした。
+
+幼い頃に不幸が重なって見捨てられ、オオカミに育てられる特異な12年間を送った。
+
+ロドリゲスさんはその後、文明社会へ復帰。地元自治体の発表によ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251831.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/22/b9ebd1f1dcc59e86d15c2b8c72c426ed/t/768/511/d/c-gettyimages-2189449692.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251830.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-22T17:26:00+09:00</dc:date>
+        <title>飲まず食わずで5日間漂流、クーラーボックスで浮かんでいた漁師を救助　メキシコ海軍</title>
+        <link>https://www.cnn.co.jp/world/35251830.html?ref=rss</link>
+        <description>水も食料もない状態で、メキシコ沿岸から160キロ以上離れた海上を5日間漂流していた漁師2人が19日、救助されたことが分かった。メキシコ海軍が明らかにした。
+
+捜索救助活動が始まったのは14日。2人が所属する漁業協同組合から、53歳と32歳の漁師と連絡が途絶えたという遭難信号が寄せられた。
+
+メキシコ海軍は海上や空から大西洋の広い範囲を捜索し、最終的にチアパス州の沖合約240キロの場所で、漁業用の大型クーラーボックス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251830.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/22/ace7e1010164f6ae4a6dda53b3c7c2e8/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXQyZ2h4d20wMDFpMmRwNDhudms2b2hy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdDJnaHh3bjAwMXgyZHA0Z25vdzBodTI_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251829.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-22T15:57:00+09:00</dc:date>
+        <title>ハクトウワシが当局のドローンを襲う、「空中戦」に完勝　20年米ミシガン州</title>
+        <link>https://www.cnn.co.jp/fringe/35251829.html?ref=rss</link>
+        <description>米ミシガン州上空で2020年、ハクトウワシが当局の運用するドローン（無人機）を襲う出来事があった。「空中戦」の結果、ハクトウワシが無傷で完勝。一方のドローンはというと、ミシガン湖に沈む運命となった。
+
+ミシガン州環境当局が20年8月13日に公表した。
+
+発端となったのは、州環境当局の環境品質アナリストであるハンター・キング氏が、海岸浸食の状態を調べるため、同州アッパー半島の上空にドローンを飛ばしたことだ。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251829.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/22/22ba077bd271136ab05e16b366b47006/t/768/432/d/bald-eagle-flying01-super-169.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251828.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-22T15:13:00+09:00</dc:date>
+        <title>世界最高齢の英国人女性、117歳に　2度の世界大戦にコロナ感染乗り越える　　</title>
+        <link>https://www.cnn.co.jp/world/35251828.html?ref=rss</link>
+        <description>世界最高齢の英国人女性、エセル・ケータハムさんが21日、117歳の誕生日を迎えた。
+
+ケータハムさんは首都ロンドンから約40キロ離れたサリー州の介護施設で暮らす。ギネス・ワールド・レコーズ（GWR）によると、117歳まで生きた英国人は初めて。
+
+ケータハムさんは英PA通信の取材に、「家族や友人と一緒にお祝いをする素敵な一日を過ごした。来年がどうなるか楽しみ」と語った。
+
+GWRによると、世界最高齢の男性であるジョアン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251828.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/22/0a92d4f64952c302ac962411f29a2fc4/t/768/560/d/3cn9wbh.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251827.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-22T13:51:00+09:00</dc:date>
+        <title>カナダ、米国との貿易交渉を停止　米国の関税に同額の対抗措置　</title>
+        <link>https://www.cnn.co.jp/world/35251827.html?ref=rss</link>
+        <description>カナダのカーニー首相は21日遅く、米国との貿易交渉を停止したと明らかにした。米国が午前0時に発動する関税に対抗して、同額の対抗措置を講じる方針も示した。
+
+カーニー氏の声明によれば、両国は米東部時間午前0時に予定される各種カナダ産品への50％の関税発動を回避するため、合意に向けて「重要な進展」を遂げていたが、「カナダ国民の目標を満たす」合意には至らなかったという。
+
+カーニー氏は「この結果、私は今夜、米...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251827.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/22/066b1739dd6b60bdf3f10b90989e7c16/t/768/511/d/gettyimages-2270389368.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35251826.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-22T13:30:00+09:00</dc:date>
+        <title>謎めいた「目」が生んだ、風変わりでロマンチックなコレクション　「ラバーズ・アイズ」とは</title>
+        <link>https://www.cnn.co.jp/style/luxury/35251826.html?ref=rss</link>
+        <description>デビッド・スキア氏と妻のナン氏は、骨董（こっとう）品を物色中、ある「目」に目を留めた。夫妻は、医学会議に出席するために訪れた米ボストンで開催されていたサイクロラマ・アンティーク・ショーで、掘り出し物を探していた。現在は引退している眼科医のデビッド氏は、一日中「目」を診ることには慣れていたが、この「目」はいつも診ている目とは違った。
+
+デビッド氏は、数ある骨董品の中から、物思いにふけっているかのよ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35251826.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/22/33110b3c344870770fc8b7be5996ff30/t/768/432/d/260724-as-style-loverseyecurio-dsc07650__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251825.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-22T12:03:00+09:00</dc:date>
+        <title>「あなたは私の守護者で保護者」　トランプ氏に心酔する側近ハープ氏の手紙、米メディアが公開</title>
+        <link>https://www.cnn.co.jp/usa/35251825.html?ref=rss</link>
+        <description>トランプ米大統領の側近ナタリー・ハープ氏が大統領に宛てた少なくとも2通の手紙で、絶大な忠誠心を示していることが分かった。ハープ氏とトランプ氏の関係に注目が集まる中、米ウェブメディア「デイリービースト」が20日、手紙の内容を公開した。
+
+ハープ氏は印刷された署名入りの手紙の中で、「私たちの関係が常に良いものであり続けますように」とつづっている。冒頭は「親愛なる大統領」との言葉で始まり、「心を込めて、ナ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251825.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/22/b966af6f660797417295a08826c065f8/t/768/511/d/gettyimages-2287213585.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35251824.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-22T10:22:00+09:00</dc:date>
+        <title>メーガン妃が俳優業復帰か、ドラマ出演について交渉中　英国帰国の理由の一つとの見方も</title>
+        <link>https://www.cnn.co.jp/showbiz/35251824.html?ref=rss</link>
+        <description>英サセックス公爵夫人のメーガン妃が俳優業に復帰する可能性が出てきた。
+
+事情に詳しい情報筋がCNNに明かしたところによると、メーガン妃は現在、英国で撮影されるガイ・リッチー監督のドラマ「ジェントルメン」の第3シーズンへの出演について交渉中だという。
+
+協議は進んでいるものの、現時点で合意は成立していない。「ジェントルメン」は英国人俳優のテオ・ジェームズが主演を務める番組で、第3シーズンの制作についてはま...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35251824.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/22/136927ad67ad5b5c2f85569f60953a64/t/768/432/d/gettyimages-2211633215.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251823.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-22T09:17:00+09:00</dc:date>
+        <title>ウクライナのショッピングセンターにロシアの攻撃、15人死亡　「ダブルタップ」で緊急対応要員を狙う</title>
+        <link>https://www.cnn.co.jp/world/35251823.html?ref=rss</link>
+        <description>ウクライナ当局は21日、中部のショッピングセンターに対するロシアの「ダブルタップ」攻撃により、少なくとも15人が死亡、100人以上が負傷したと明らかにした。ダブルタップ攻撃とは、最初の攻撃の後、救助隊などが到着した後に再び攻撃して被害の拡大を狙う戦術を指す。
+
+ウクライナのゼレンスキー大統領は「攻撃ドローン（無人機）は2回の波に分かれて襲来した。最初の攻撃とそれによる火災から30分後、緊急対応要員を狙った2...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251823.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/22/6e11e0846560f82be219d2b5a30aacdd/t/768/517/d/2026-08-21t155218z-1164679702-rc233na0l0ga-rtrmadp-3-ukraine-crisis-attack-kryvyi-rih__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251819.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-21T20:31:00+09:00</dc:date>
+        <title>水位低下の米ミード湖、22年には殺人事件の遺体も発見　謎はいまだに解けず　</title>
+        <link>https://www.cnn.co.jp/usa/35251819.html?ref=rss</link>
+        <description>過去最低水位を記録した米西部の人工貯水池ミード湖。前回記録を更新した2022年には、大きく後退した湖岸から、ありとあらゆる奇妙な光景が出現した。
+
+何年ぶりかに、第2次世界大戦時の艦船の骨組みに太陽の光が降り注いだ。水が引くにつれ、放棄されたハウスボートの残骸が姿を現した。水中に沈み、所有者からとっくの昔に見捨てられていた小舟やスピードボートも、砂の上に乾いた状態で横たわっていた。
+
+だがやがて、はるか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251819.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/21/35a802478db3092a8b0404c888846a2d/t/768/520/d/gettyimages-1406270971.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251816.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-21T18:01:00+09:00</dc:date>
+        <title>「うたた寝するホッキョクグマ」、一般愛好家が選ぶ大賞に　24年の野生生物写真コンテスト</title>
+        <link>https://www.cnn.co.jp/fringe/35251816.html?ref=rss</link>
+        <description>氷山の上で体を丸め、うたた寝をするホッキョクグマの写真が投票者の心をつかみ、一般愛好家が選ぶ2024年の野生生物写真家コンテスト、ピープルズチョイス賞に輝いた。
+
+英国のアマチュア写真家、ニマ・サリカニ氏は、夢のような場面を捉えた作品での受賞を誇らしいと語る。「氷のベッド」と題したこの作品は、ノルウェーのスバールバル諸島で撮影した。
+
+「気候変動は私たちが直面する最大の課題だが、この写真が希望も呼び起...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251816.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/21/f559360dbb2b83cb85faf64fba1e142c/t/768/432/d/image__12_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251809.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-21T16:55:00+09:00</dc:date>
+        <title>北朝鮮、ロシアへの軍事支援を強化か　ドローン操縦士も派遣とウクライナが主張</title>
+        <link>https://www.cnn.co.jp/world/35251809.html?ref=rss</link>
+        <description>ウクライナ情報機関の高官によると、ロシア国内にいるとみられる北朝鮮兵士にこのほど新たな部隊が加わった。そこにはウクライナ国内の標的を攻撃できるドローン（無人機）部隊も含まれているという。
+
+2年前にロシアと北大西洋条約機構（NATO）型の相互防衛条約を締結した北朝鮮は、2024年後半からロシアの軍事作戦を支援するために部隊を派遣している。今年9月にロシアのプーチン大統領と北朝鮮の金正恩（キムジョンウン）総...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251809.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/21/8d3d7e72a75def4caa8b6063c1114f7e/t/768/512/d/2025-09-03t215432z-2042834002-rc2lkga60f54-rtrmadp-3-ww2-anniversary-china-northkorea.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251812.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-21T15:34:00+09:00</dc:date>
+        <title>8人を乗せたチャーター機が墜落、レーダー基地付近で　米アラスカ州</title>
+        <link>https://www.cnn.co.jp/usa/35251812.html?ref=rss</link>
+        <description>米アラスカ州西部のへき地にあるレーダー基地付近で20日、8人を乗せたチャーター機が墜落した。複数の連邦航空当局者が明らかにした。
+
+連邦航空局（FAA）が暫定情報として明らかにしたところよると、セスナ441型機はアンカレジを出発し、南西に約724キロ離れたニューエナム岬へ向かっていたが、午後12時15分ごろ、目的地に近い場所で墜落した。
+
+AP通信によると、国家運輸安全委員会（NTSB）のアラスカ責任者は、セキュリティ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251812.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/21/cc0c76483ac5d06491f97bd76244eeae/t/768/440/d/ap26233068166835.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251802.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-21T15:00:00+09:00</dc:date>
+        <title>ジャガイモ思わせる火星の衛星、激しい衝突で変形か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35251802.html?ref=rss</link>
+        <description>火星には2つの小さな衛星があるが、それらがどのようにして火星の周回軌道に乗ったのか、その起源はまだ解明されていない。しかし新たな研究によって、外側を周回するダイモスの謎は一部解明される可能性がある。
+
+ギリシャ神話の神アレスの息子にちなんで名付けられたダイモスは、古代ギリシャ語で「恐怖」を意味する。ジャガイモのような形の小さな、でこぼこした岩石だ。アレスはローマ神話ではマルスとも呼ばれている。
+
+こ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251802.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/21/3c39703275dea6725ac0ba5fd2503bb8/t/768/538/d/simulation-of-deimos-impact-pillars.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251803.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-21T13:57:00+09:00</dc:date>
+        <title>英ヘンリー王子とメーガン妃の突然の帰国、解消していない五つの疑問</title>
+        <link>https://www.cnn.co.jp/world/35251803.html?ref=rss</link>
+        <description>20日、英各紙の1面はヘンリー王子夫妻の帰国報道で埋め尽くされた。目を覚ました英国民は、夫妻が6年間の米国生活を経て戻ってくるという驚きのニュースを知ることになった。
+
+住む場所はロンドン以外の私邸になる見通しだ。子どものアーチー王子（7）とリリベット王女（5）はすでに、イングランドの学校への入学手続きを済ませている。
+
+英国では王室の家族ドラマに国中がくぎ付けになるのが常で、ヘンリー王子とメーガン妃の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251803.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/21/63a034ff8fef195a5fccb781d08c2dbd/t/768/555/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXQxZG9xZHMwMDFjMjhxaGcxaHAzYjd1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdDFkb3FkczAwMXIyOHFoM2U0eTB1MWw_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251799.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-21T12:00:00+09:00</dc:date>
+        <title>米NY州議事堂の爆破テロを計画した疑い　FBIがおとり捜査、35歳女を逮捕</title>
+        <link>https://www.cnn.co.jp/usa/35251799.html?ref=rss</link>
+        <description>米連邦捜査局（FBI）などは20日、ニューヨーク州議会議事堂を爆破して州上院議員らを殺害する計画に関与したとして、35歳の女を逮捕したと発表した。
+
+逮捕されたのは同州オルバニー在住のジェシカ・ボウイー容疑者。FBIオルバニー支部の発表によると、過激派組織イラク・シリア・イスラム国（ISIS）に忠誠を誓っていたとされ、爆弾と信じた物資や不発の銃などをFBIのおとり捜査員から購入し、19日に逮捕された。
+
+ボウイー容疑...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251799.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/21/8ce0d19ec373e8a1c2e186a937619663/t/768/630/d/home-depot-credits.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
