@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-08-28T15:43:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252035.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252030.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252025.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252022.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252024.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252018.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252015.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252009.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252007.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252005.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251997.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251996.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251992.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251991.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251988.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35251981.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35251985.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251980.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35251978.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251977.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35251976.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35251960.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35251972.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251959.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251958.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251955.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35251951.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35251952.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35251953.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35251935.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35252035.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-28T15:43:00+09:00</dc:date>
+        <title>ネパール・中国洪水、氷河の崩落を捉えた動画浮上　山の上部から崩れ落ちる</title>
+        <link>https://www.cnn.co.jp/world/35252035.html?ref=rss</link>
+        <description>ネパールと中国の国境に近いランタン・リルン山付近の氷河が大規模に崩壊し、壊滅的な雪崩と地滑りを引き起こす様子を捉えた動画が浮上した。 撮影者が中国のSNSで共有したもので、CNNは動画の位置情報を確認した。
+
+
+  
+    
+       
+
+
+    
+    
+     （RedNote/@HeyMu309008122）  
+
+
+
+
+撮影者は投稿の中で、現地時間8月26日午前10時半ごろ、氷河が崩落する音が聞こえ、最初は軍事演習と勘違いしたと振り返った。
+
+氷河が崩...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252030.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-28T15:00:00+09:00</dc:date>
+        <title>【分析】トランプ氏によるイランからの出口戦略、一つだけ残る大問題</title>
+        <link>https://www.cnn.co.jp/world/35252030.html?ref=rss</link>
+        <description>ベッセント米財務長官が「経済的追放作戦」を発表し、イランとの取引中止を拒否した国に改めて厳しい制裁を科すと予告した時、同氏は作戦の成否を決めるかもしれないある国の名前を挙げなかった。それは中国だ。
+
+世界第2位の経済大国である中国はこれまで長年、イランが輸出する原油の大半を買い取り、そのほかの取引も含めてイラン経済の重要な命綱となってきた。昨年の原油輸入は数百億ドル分に上ったと推定される。
+
+しかし...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252030.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/28/d4941b3ca9891d01e23a67e8618c7d7b/t/768/512/d/c-gettyimages-2275560543.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252025.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-28T14:02:00+09:00</dc:date>
+        <title>CIA長官のモスクワ訪問、NATO攻撃を控えるよう警告する目的　イラン支援停止も促す</title>
+        <link>https://www.cnn.co.jp/usa/35252025.html?ref=rss</link>
+        <description>米中央情報局（CIA）のラトクリフ長官が今週、ロシアの首都モスクワを訪れた際、NATO（北大西洋条約機構）領内への攻撃を行わないよう警告していたことが分かった。事情に詳しい情報筋2人が明らかにした。
+
+今回の訪問について正式発表はない。米国はイランを経済的に締め上げようとしており、ラトクリフ氏の訪ロにはイランへの経済的、軍事的支援の停止を促す目的もあった。
+
+ウクライナでの戦争が解決に至らないまま長期化す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252025.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/28/fd36a9473850781638607f0c108f6dcb/t/768/511/d/2026-08-26t144005z-414868830-rc2o7kaoizkd-rtrmadp-3-usa-russia-cia-kremlin.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252022.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-28T13:21:00+09:00</dc:date>
+        <title>旅客機と消防車の衝突事故、当日夜は管制官2人が早退　米NYラガーディア空港</title>
+        <link>https://www.cnn.co.jp/usa/35252022.html?ref=rss</link>
+        <description>米ニューヨーク市のラガーディア空港で今年3月に旅客機と消防車が衝突した事故で、当日の夜は同空港の管制塔に勤務する管制官2人が早退していたことが分かった。事故調査に詳しい関係者が明らかにした。
+
+この事故では、エア・カナダ・エクスプレスの旅客機がモントリオールからニューヨークに到着してラガーディア空港に着陸した直後、滑走路上で空港の消防車両と衝突し、旅客機の操縦士2人が死亡した。消防車は空港の別の場所...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252022.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/28/a71d75d4765095409ba342d4f29b5bde/t/768/512/d/05-005-005-04-2026-03-23t083235z-1291885053-rc27aka7le7n-rtrmadp-3-usa-crash-air-canada.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252024.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-28T13:07:00+09:00</dc:date>
+        <title>「ボスニアの虐殺者」、ムラジッチ受刑者が84歳で死亡　ボスニア系セルビア人の元司令官</title>
+        <link>https://www.cnn.co.jp/world/35252024.html?ref=rss</link>
+        <description>1990年代のボスニア・ヘルツェゴビナ紛争中に「スレブレニツァの虐殺」とサラエボ包囲を指揮したボスニア系セルビア人の元司令官、ラトコ・ムラジッチ受刑者が獄中で死去した。84歳だった。
+
+「ボスニアの虐殺者」と呼ばれたムラジッチ受刑者は2017年、1990年代初頭にボスニアの非セルビア系住民に対する民族浄化作戦を主導したとして、旧ユーゴスラビア国際刑事法廷（ICTY）で有罪判決を受けた。
+
+国連が設立したICTYはムラジ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252024.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/28/94371b993d4178e6ed7cea1ff63f5a73/t/768/605/d/bosnia-warcrimes-mladic.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252018.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-28T10:58:00+09:00</dc:date>
+        <title>「空港マラリア」で職員2人が死亡、航空機で持ち込まれた蚊が媒介か　ドイツ</title>
+        <link>https://www.cnn.co.jp/world/35252018.html?ref=rss</link>
+        <description>ドイツのフランクフルト空港で、航空機によって持ち込まれた蚊が原因と思われるマラリアに職員が感染し、2人が死亡した。
+
+空港運営会社によると、いわゆる「空港マラリア」に職員6人が感染し、うち2人が死亡した。
+
+ドイツ紙シュピーゲルによると、残る4人はその後回復したという。
+
+空港マラリアは、非常にまれだが、発生国から航空機で持ち込まれた蚊が空港内や周辺で感染を媒介することによって起きる。
+
+ドイツ国立公衆衛...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252018.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/28/53ed5eb7e775cecfb4fb0ad60a59bdf4/t/768/504/d/gettyimages-2230151447.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252015.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-28T10:22:00+09:00</dc:date>
+        <title>滑落事故から生還の86歳男性、氷河に捨てたバックパックと63年ぶり再会</title>
+        <link>https://www.cnn.co.jp/world/35252015.html?ref=rss</link>
+        <description>オーストリアの氷河で60年以上前に登山者の男性がクレバスの中に残したバックパックが発見され、持ち主に返還された。
+
+チロル警察によると、バックパックはオーストリア西部チロル地方のズルツタルフェルナー氷河（標高約3000メートル）で先月、登山者が発見した。
+
+中に入っていたピッケル、カメラ、ホイッスル、書類入れなどは、何十年もの間、氷の中で保存されていた。
+
+警察は書類に記載されていた名前を手がかりに、持ち...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252015.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/28/10ccee4274b2503d5da4a7571e9e8d9b/t/768/558/d/d-50977.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252009.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-28T09:47:00+09:00</dc:date>
+        <title>ネパール・中国の国境施設、洪水で跡形もなく消失　航空写真が前後の様子を捉える</title>
+        <link>https://www.cnn.co.jp/world/35252009.html?ref=rss</link>
+        <description>ネパールと中国の国境地帯にある主要な国境検問施設が、26日午前に発生した大規模洪水で押し流されたことが分かった。一帯を捉えた航空写真から明らかになった。
+
+
+  
+  
+中国・ネパール国境の「ギロン港」を捉えた画像。洪水に襲われた後の様子/Google Earth/PLA via Weibo
+  
+
+
+
+
+ギロン港は2024年にはネパール・中国間の貿易量の3分の1近くを扱っていた中継拠点だが、今回の洪水の直撃を受けた。洪水は国境地帯を猛烈な勢い...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252009.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/28/a264fc517f44fab75576dcae3a8d6037/t/768/432/d/00-20260827163203330.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252007.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-28T09:09:00+09:00</dc:date>
+        <title>トランプ氏、オンタリオ湖を「アメリカ湖」に改称する大統領令に署名</title>
+        <link>https://www.cnn.co.jp/usa/35252007.html?ref=rss</link>
+        <description>トランプ米大統領は27日、オンタリオ湖の名称を「アメリカ湖」に変更する大統領令に署名した。米国と隣国カナダとの間で緊張を伴う貿易戦争が続く中、カナダをさらに挑発する動きとなる。
+
+トランプ氏は大統領執務室で五大湖の大きな地図を背にし、名称変更は「即時発効する」と述べた。地図の一つには「五大湖をさらに偉大に」との題名が付けられ、オンタリオ湖の上には「アメリカ湖」と記されていた。
+
+「『アメリカ湖』とい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252007.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/28/e3cb56a6c27fc55270b2b3c49dfabda7/t/768/512/d/gettyimages-2292329062.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252005.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-28T08:32:00+09:00</dc:date>
+        <title>ネパール洪水、死者389人に　懸命の捜索活動続く</title>
+        <link>https://www.cnn.co.jp/world/35252005.html?ref=rss</link>
+        <description>ネパール警察は27日、同国と中国の国境付近で26日に発生した大規模な鉄砲水による死者が少なくとも389人に上ったと発表した。当局の最新情報によると、ネパールと中国を合わせて1300人以上が行方不明となっている。国連児童基金（ユニセフ）は27日、少なくとも1万7000人の子どもが、洪水によって自宅や地域社会を失う被害を受けたと発表した。
+
+死者や行方不明者に加え、数百人が負傷した。ネパール中部には追加の警察部隊が派...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252005.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/28/183060667270f65e6a42dd46c01c1308/t/768/512/d/gettyimages-2291667734-20260827210529912.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251997.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T18:37:00+09:00</dc:date>
+        <title>洪水被害のネパール・中国国境、地滑りで新しい「湖」形成　二次災害の恐れ</title>
+        <link>https://www.cnn.co.jp/world/35251997.html?ref=rss</link>
+        <description>洪水で大きな被害が出た中国のチベット自治区キドン県は依然、地滑りや土石流、鉄砲水の危険性に直面している。今後3日間にわたって降雨が見込まれるうえ、崩落した土砂が水の流れをせき止め、不安定な「ダム」を形成しているためだ。中国国営メディアが報じた。
+
+中国国営中央テレビ（CCTV）が放映したドローン（無人機）映像には、地滑りの跡地に湖が形成されつつある様子が映っている。場所は中国のギロン港に近いが、国境の...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251996.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T18:24:00+09:00</dc:date>
+        <title>ネパールと中国で救助活動が本格化、1300人超行方不明　写真が伝える洪水の爪痕</title>
+        <link>https://www.cnn.co.jp/world/35251996.html?ref=rss</link>
+        <description>ネパールと中国の国境地帯で26日に発生した鉄砲水により、少なくとも177人が死亡し、1300人以上が行方不明となっている。当局によると、行方不明者には、この山岳地域を訪れていた700人超の外国人も含まれる。
+
+ネパールと中国では救助活動が本格化しているが、壊滅的な洪水が重要なインフラを押し流したため、被災地への立ち入りや被災者の救助、災害規模の把握が困難になっている。
+
+中国は二次災害が起きる可能性を警告して...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251996.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/bf0e883558b697e2c3255c688ab57208/t/768/512/d/ap26238503564703.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251992.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T17:19:00+09:00</dc:date>
+        <title>病菌が操る「ゾンビゼミ」、腹部脱落したまま飛行　交尾で感染拡大　20年米研究</title>
+        <link>https://www.cnn.co.jp/fringe/35251992.html?ref=rss</link>
+        <description>病菌に感染して心と体を操られ、「ゾンビ」と化して仲間の間で感染を拡大させるセミの集団が見つかった――。米ウェストバージニア大学の研究チームが2020年、学会誌にそんな調査結果を発表した。
+
+同大学の発表によると、セミに感染する病菌の「マッソスポラ」は、幻覚作用のあるマジックマッシュルームと同じ成分をもち、宿主に感染すると「B級ホラー映画」のような症状を引き起こす。
+
+セミに感染したマッソスポラ菌は、まずセ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251992.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/b464324d8c6bad87f587b0ad8864efd3/t/768/432/d/200803124336-zombie-cicada-3.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251991.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T16:59:00+09:00</dc:date>
+        <title>米空母セオドア・ルーズベルト、中東へ　展開期間は7カ月以上　米海軍高官</title>
+        <link>https://www.cnn.co.jp/usa/35251991.html?ref=rss</link>
+        <description>米空母セオドア・ルーズベルトとその乗組員5000人は今後数週間以内に中東に向け出発する。中東での展開は少なくとも7カ月に及ぶとみられる。米海軍高官が26日に明らかにした。
+
+米海軍のジョン・ペリマン最上級上等兵曹は26日、「乗組員らは7カ月より長く現地にいることになると分かっている。艦長は8カ月を想定するよう伝えている」と述べた。米海軍協会（USNI）のニュースサイト「USNIニュース」が報じた。
+
+今回の動きは、最...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251991.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/ea5538d73dbe35602c40ea79ba0c9210/t/768/512/d/c-2024-10-15t171856z-1204354325-rc23laap6w3o-rtrmadp-3-israel-palestinians-usa.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251988.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T16:00:00+09:00</dc:date>
+        <title>口元に気配、目を覚ましたらコウモリが…　すぐに病院で狂犬病検査</title>
+        <link>https://www.cnn.co.jp/fringe/35251988.html?ref=rss</link>
+        <description>就寝中、口元に気配を感じて目を覚ましたところ、コウモリが口内に侵入しようとしていた――。米リッチモンドに住む女性の身にそんな出来事が起きた。すぐに病院で検査を受けたが、幸い狂犬病には感染していなかった。
+
+思わぬ目に遭ったのは医師のクリスタ・エデルマンさん。先週、何かが唇に触れた気配で目が覚めた。
+
+「その生き物の背中に触ってみると、ごわごわした短い毛が生えていた。それでネズミではないと気付いた」（...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251988.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/853f341f12f96094b1ed199b2c66f621/t/243/432/d/hq720_2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35251981.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T14:38:00+09:00</dc:date>
+        <title>子どものSNS中毒裁判、メタが2.9兆円の和解金支払いで合意　プラットフォームの変更も約束</title>
+        <link>https://www.cnn.co.jp/tech/35251981.html?ref=rss</link>
+        <description>米SNS大手メタは26日、若者の精神衛生を損なうような中毒性の高いプラットフォームを意図的に設計したとして複数の州から訴えられていた訴訟の解決を図るため、約180億ドル（約2兆9000億円）の和解金を支払うことで合意したと発表した。
+
+この和解により、メタにとって歴史的な法的闘争が終結した。
+
+裁判所に提出された書類によると、メタはこの和解の一環として、10代のユーザーに対する1日の利用時間制限の設定など、プラッ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35251981.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/0d41bc1c3a0304d0149ecbbfff365b18/t/768/512/d/ap26230663304581.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35251985.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T14:20:00+09:00</dc:date>
+        <title>草間彌生さん死去、97歳　晩年に世界的評価を得た前衛芸術家</title>
+        <link>https://www.cnn.co.jp/style/arts/35251985.html?ref=rss</link>
+        <description>世界で最も高く評価され、最も作品が売れている芸術家の部類に入る草間彌生さんが今月14日に都内の病院で死去していたことが分かった。97歳だった。草間さんの公式ウェブサイトに掲載された声明で明らかになった。
+
+草間さんは亡くなるまでに、現代美術界で屈指の人気を誇り、商業的にも特に成功した人物の1人となっていた。代表作の「インフィニティ・ミラー・ルーム」は、色と光が無限に反射し続ける空間に没入させる大規模な...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35251985.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/7f265d86256c21aa906da97efc4fafd3/t/768/493/d/2026-08-27t020929z-2843225-rc2q6nayjqwr-rtrmadp-3-people-yayoi-kusuma.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251980.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T13:19:00+09:00</dc:date>
+        <title>ネパール洪水、発生前後で景観が急変　衛星画像が捉えた破壊の跡</title>
+        <link>https://www.cnn.co.jp/world/35251980.html?ref=rss</link>
+        <description>米プラネット・ラボの人工衛星画像からは、ネパールでの洪水で被災地の景観がいかに急速に変化したかがうかがえる。
+
+洪水発生後に衛星画像に映った川は、泥水で著しく増水している。
+
+激しい濁流が橋や家屋、道路を押し流した。前後の画像の比較から、破壊の爪痕がはっきりと見て取れる。
+
+国際的な科学者のチームは洪水の原因について、氷河から巨大な氷の塊が剥がれ落ちた可能性があるとの説を提示。同時に地滑りも発生し、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251980.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/96b983a13c21595501980ab7df86c319/t/768/512/d/gettyimages-2291557015.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35251978.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T12:54:00+09:00</dc:date>
+        <title>米アップルが9月9日に発表会、初の折り畳み型iPhone披露か</title>
+        <link>https://www.cnn.co.jp/tech/35251978.html?ref=rss</link>
+        <description>米アップルは、9月9日にイベントを開くと発表した。同社初となる折り畳み型iPhoneを含め、スマートフォンなどの新製品が発表される見通し。
+
+アップルの最高経営責任者（CEO）には、現職のティム・クック氏の後任として、ジョン・ターナス氏が9月1日付で就任予定。ターナス氏にとっては初の大型製品発表会となる。
+
+発表イベントの招待状は、「surprise and shine（驚きと輝き）」のキャッチフレーズ入り。新製品に関する具体的...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35251978.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/f12976273b0691df364723bbcf266b36/t/768/512/d/gettyimages-2264179980.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251977.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T11:44:00+09:00</dc:date>
+        <title>ネパール洪水の原因は？　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35251977.html?ref=rss</link>
+        <description>ネパールと中国のチベット自治区の国境付近で26日、壊滅的な鉄砲水が発生した。原因はまだ明らかになっていない。地球温暖化が進む中、ネパールは気候災害が多発する地域となっている。
+
+夏に広大な範囲の氷河が溶け、標高の高い山岳地帯に巨大な湖を形成すると、水が下流へ放出されることがある。さらに、気候変動による極端な豪雨が死者を伴う洪水を引き起こす可能性も高まっている。
+
+科学者らは今回の災害原因の特定を進め...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251977.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/8bd86ba44a364571ee1713f3ffded287/t/768/512/d/ap26238503594631.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35251976.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T11:30:00+09:00</dc:date>
+        <title>ビル・ゲイツ氏、AIに対する世界的制限を提唱　恩恵を圧倒する人間への危害に警鐘</title>
+        <link>https://www.cnn.co.jp/tech/35251976.html?ref=rss</link>
+        <description>米マイクロソフト共同創業者のビル・ゲイツ氏は26日、人工知能（AI）に対して大幅な制限を設けることを提唱した。さもなければ、たとえAIの恩恵があったとしても、それを圧倒するような危害が人間に対して加えられかねないと警鐘を鳴らしている。
+
+ゲイツ氏は同日、「激動のAI時代が到来。我々が今下すべき重大な選択」と題する6000語の論考を発表。「AIは発明史上最高の平等をもたらす存在か、あるいは最悪の不平等の根源のい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35251976.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/dc97f5c0496e819bc609087d40b128e6/t/768/512/d/2026-01-21t094424z-994001427-rc2l5jaxald7-rtrmadp-3-davos-meeting.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35251960.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T11:27:00+09:00</dc:date>
+        <title>英俳優ティム・カリーさんが80歳で死去　「ロッキー・ホラー・ショー」などで人気博す</title>
+        <link>https://www.cnn.co.jp/showbiz/35251960.html?ref=rss</link>
+        <description>映画「ロッキー・ホラー・ショー」や「殺人ゲームへの招待」、テレビミニシリーズ「IT／イット」などでカルト的な人気を博した英国の俳優、ティム・カリーさんが死去した。80歳だった。
+
+カリーさんの長年のマネジャーであり友人でもあるマーシャ・ハーウィッツさんに代わって広報担当のショーン・カッツ氏が発表した声明によると、カリーさんは25日、米ロサンゼルスのトルーカ・レイクにある自宅で安らかに息を引き取った。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35251960.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/973718f940a7553fc06206f79ea9f677/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXRhOWd0ZnkwMDAwM2I2cnRkaHFkbWlx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdGE5M3A0MDAwMHkyN3A4ZGhwNzV5NWs_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35251972.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T10:55:00+09:00</dc:date>
+        <title>欧州サッカー連盟がボイコット撤回へ、FIFAは一息つく余裕　AP通信</title>
+        <link>https://www.cnn.co.jp/showbiz/35251972.html?ref=rss</link>
+        <description>米AP通信によると、欧州サッカー連盟（UEFA）は、国際サッカー連盟（FIFA）主催大会のボイコットを撤回する見通しとなった。サッカー界で続く混乱は新たな局面を迎えている。
+
+ワールドカップ（W杯）の商業権と運営権の一部を売却する計画がリークされて以来、UEFAは公の場でFIFAと争いを繰り広げており、FIFAの組織とインファンティノ会長の双方を公然と批判している。
+
+UEFA加盟国は7月の投票で、今後の大会をボイコットする...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35251972.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/14dc6b4691cdc90529db0f52e3e89f4d/t/768/511/d/gettyimages-2286273736-20260826144641164.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251959.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T08:57:00+09:00</dc:date>
+        <title>アメリカン航空機、離陸前にタイヤ2本破裂　シカゴ・オヘア空港</title>
+        <link>https://www.cnn.co.jp/usa/35251959.html?ref=rss</link>
+        <description>米連邦航空局（FAA）によると、米シカゴのオヘア国際空港で26日午後、アメリカン航空の旅客機が出発に向けて地上走行中にタイヤ2本が破裂するトラブルがあった。同空港でタイヤをめぐる不具合が起きるのは、この1カ月で4件目となる。
+
+FAAによると、乗客はタラップを使って機体から降り、バスでターミナルに移動した。
+
+FAAは今回の事案について調査を進めている。CNNは空港側に追加情報を求めている。
+
+アメリカン航空は声明で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251959.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/df80a29a4678a9f7771cf3f950491718/t/768/512/d/gettyimages-1558785194.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251958.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T08:27:00+09:00</dc:date>
+        <title>ネパール洪水、死者157人に　中国でも3人死亡　捜索・救助活動続く</title>
+        <link>https://www.cnn.co.jp/world/35251958.html?ref=rss</link>
+        <description>ネパールで26日、壊滅的な鉄砲水が発生し、少なくとも157人が死亡した。同国警察がX（旧ツイッター）への投稿で明らかにした。数百人が行方不明となっており、懸命な捜索・救助活動が続いている。
+
+中国の国営メディアによると、中国側でも3人が死亡し、250人以上が行方不明になっている。
+
+死者数はさらに増える見通し。
+
+被災した地域は、毎年数百人のヒンドゥー教の巡礼者が訪れる聖地カイラス山・マナサロワール湖へ向かう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251958.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/27/96b983a13c21595501980ab7df86c319/t/768/512/d/gettyimages-2291557015.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251955.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-27T00:11:00+09:00</dc:date>
+        <title>英ヘンリー王子とメーガン妃、英国へ帰国　王室離脱から6年ぶり</title>
+        <link>https://www.cnn.co.jp/world/35251955.html?ref=rss</link>
+        <description>英国のヘンリー王子とメーガン妃は26日、英国へ帰国した。複数のメディアが報じた。王室での生活から身を引いて英国を離れてから、6年ぶりの帰国となる。
+
+英公共放送BBCは、ヘンリー王子とメーガン妃が、2人の子どものアーチー王子とリリベット王女を伴い、米カリフォルニア州からプライベートジェットで英国に到着したと伝えた。
+
+英紙テレグラフによると、一家は26日の昼食時頃にバーミンガム空港に到着したという。英PAメデ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251955.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/26/99c462228dda9b485f2ccf47595d5991/t/768/512/d/gettyimages-2271711930.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35251951.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-26T18:37:00+09:00</dc:date>
+        <title>謎の宇宙線を観測、銀河系外から到達と研究者　21年米ユタ州</title>
+        <link>https://www.cnn.co.jp/fringe/35251951.html?ref=rss</link>
+        <description>宇宙から降り注ぐ強力な宇宙線について、謎に包まれたその起源の把握を目指す宇宙科学者らが、極めて珍しい超高エネルギーの粒子を2021年に観測した。銀河系の向こうから地球に到達したものとみられる。
+
+肉眼では見えないこの原子以下の粒子を巡っては、科学誌サイエンスに23年に研究論文が掲載された。単一の宇宙線のエネルギーとしては、1991年に観測された「オーマイゴッド粒子」以来最大の水準だという。
+
+宇宙線は宇宙空...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35251951.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/26/329ec0c3a126f93d5a1a324b44bd1b82/t/768/432/d/image__13_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35251952.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-26T18:26:00+09:00</dc:date>
+        <title>「のけ者」をさらに追放？　米国の対イラン制裁、効果が頭打ちに</title>
+        <link>https://www.cnn.co.jp/world/35251952.html?ref=rss</link>
+        <description>イランが経済的に孤立した状態にあるのは、今に始まった話ではない。何十年もの間、イランは世界の多くの国から見て「のけ者」だった。
+
+米国はかねて、イランの銀行システムや海運会社、石油産業、軍を対象に数え切れない数の制裁を科してきた。
+
+米当局が今週発表した対イラン制裁「経済的追放作戦」が、事前の大々的な宣伝にもかかわらず、米財務省の「経済版Dデー（決戦の日）」という表現ほどのインパクトを持ち得ない理由...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35251952.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/26/7ea276ab3357341c366828c7412d57d7/t/768/512/d/c-2026-08-24t062616z-775071050-rc294na60edr-rtrmadp-3-iran-crisis-economy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35251953.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-26T18:24:00+09:00</dc:date>
+        <title>【分析】トランプ氏、国民が望むことにはもはや興味なし　支持率は過去最低の33% </title>
+        <link>https://www.cnn.co.jp/usa/35251953.html?ref=rss</link>
+        <description>2016年にトランプ米大統領が政界を席巻したとき、その台頭ぶりは「ポピュリスト」的と評されることが多かった。確かに当時のトランプ氏は、一般の米国民を代表して機能不全に陥った政治制度に挑む異端児の役を演じていた。
+
+しかしそれから10年を経て、トランプ氏はこうした政治スタイルをほぼ完全に捨て去った。
+
+実際のところ、同氏は多くの意味で反ポピュリストになった。
+
+世論調査の数字はそれを証明している。
+
+ロイター...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35251953.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/26/044219255b1b3e773550eb9d0717e1e3/t/768/512/d/gettyimages-2291872135.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35251935.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-26T17:05:00+09:00</dc:date>
+        <title>女性突き飛ばすゴルフ用品の広告に批判噴出、業界の異文化対立の最新事例に</title>
+        <link>https://www.cnn.co.jp/showbiz/35251935.html?ref=rss</link>
+        <description>ゴルフ業界が、従来の伝統に根差した感覚と現代のインターネット文化との衝突という新たな局面に揺れている。今回生じた対立は関係者の間に、この二つの世界がどのように融合するのか、そもそも融合が可能なのかといった問いを突きつけている。
+
+ゴルフに特化したメディア企業グッド・グッドとゴルフ用品メーカーのキャロウェイは今週、公開した共同ブランドのドライバーの広告を巡って激しい批判にさらされている。グッド・グ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35251935.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/26/4a596782ab7a0bbf5ca8686579252040/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXQ4dXVzbXcwMDAwM2I2cmtmN2FpeDZh-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdDh1Z2dnNzAwMjAyN3FmZGoyejlnMzE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
