@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-09-02T10:28:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252174.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252158.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35252171.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252148.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252140.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252124.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252142.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35252136.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252137.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252126.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35252128.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252127.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252119.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252123.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35252122.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35252116.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35252110.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252111.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252106.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252107.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252105.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252100.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35252099.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252091.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35252085.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252089.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252081.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252079.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252078.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252076.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35252174.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-02T10:28:00+09:00</dc:date>
+        <title>「後から思えば」予兆はあった、ネパール土石流で専門家が指摘</title>
+        <link>https://www.cnn.co.jp/world/35252174.html?ref=rss</link>
+        <description>ネパールで壊滅的な土石流を引き起こした氷河の崩落について、専門家団体がまとめた報告書の中で、変化の兆候は数日前から見えていたと指摘した。
+
+山岳環境のリスク関連データを観測している科学コンソーシアム「ハイリスク」の報告書では、氷河の崩落について「後から思えば予兆させる出来事は幾つかあった」と指摘。数日前から解けた水が目に見えて茶色くなったり、亀裂が周囲の斜面の岩盤へと拡大したりするなどしていたこ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252158.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-02T10:09:00+09:00</dc:date>
+        <title>米軍、イランの標的に新たな攻撃</title>
+        <link>https://www.cnn.co.jp/usa/35252158.html?ref=rss</link>
+        <description>米軍は1日、イラン国内のイスラム革命防衛隊（IRGC）の標的に対し追加攻撃を実施した。米中央軍がX（旧ツイッター）への投稿で明らかにした。最近発生したホルムズ海峡を航行する商船や同地域に展開する米軍部隊への攻撃未遂に対する報復としている。
+
+中央軍は午後6時33分の投稿で、最新の攻撃を完了したと発表した。攻撃対象は「防空拠点、レーダーシステム、海上資産および施設、機雷敷設能力、通信拠点」など、IRGCの施設だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252158.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/02/2058d4df0b1a0735a3ee4a12b67af425/t/768/432/d/ussgeorgewashingtonflightoperationsfile.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35252171.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-02T09:51:00+09:00</dc:date>
+        <title>90年代の地図アプリ人気が急浮上、「オンタリオ湖」の名称変えず　アップルには大統領が直接要求</title>
+        <link>https://www.cnn.co.jp/tech/35252171.html?ref=rss</link>
+        <description>ダイヤルアップインターネットの時代以来、ほとんど忘れられかけていた地図アプリの「マップクエスト」が、アップルiPhone向けアプリの米国内ランキングで首位に浮上した。
+
+マップクエストは、米国のドナルド・トランプ大統領が「オンタリオ湖」の名称を「アメリカ湖」に変更する大統領令に署名した後も、オンタリオ湖の名称は変えないと表明していた。
+
+米国では1日午後、アップルのアプリストアでマップクエストが「チャット...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35252171.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/02/d43e20fe3df8ba69e4ea3da296b08be9/t/768/512/d/ap26241634974168.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252148.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-02T09:06:00+09:00</dc:date>
+        <title>ライプチヒ空港へのドローン攻撃、ドイツがロシアを非難　アントノフ航空の現在の拠点</title>
+        <link>https://www.cnn.co.jp/world/35252148.html?ref=rss</link>
+        <description>ドイツ政府は1日、東部ライプチヒの空港に対する先月のドローン（無人機）攻撃についてロシアの関与を非難し、ロシア政府への新たな対抗措置を発表した。
+
+ドイツのドブリント内相は記者団に対し、「我々は戦争状態にあるわけではないが、連日、ハイブリッド攻撃の標的になっている」とコメント。国の脅威評価レベルを「一般」から「高」に引き上げた。
+
+ドイツのワーデフール外相はボンにあるロシア領事館と、ベルリンにある文...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252148.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/02/fb916ae749e7ad9c3957f3af6bc59f57/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXRoOGxhMTcwMDA3M2I2cmgxbmg1NnNt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdGg4bGRibDAwNTEyZHFpNDFldDg2NHY_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252140.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T19:45:00+09:00</dc:date>
+        <title>ネパールのインフラ建設に従事する中国人作業員たち、洪水後に消息途絶える　家族らに安否情報届かず</title>
+        <link>https://www.cnn.co.jp/world/35252140.html?ref=rss</link>
+        <description>CNNがリリという仮名で報じたその中国人女性は、何度も何度も夫に電話をかけ続けたが、相手が出ることはなかった。リリさんによれば夫は8月26日の午前8時27分に友人と会話をしている。その約10分後、ネパールの山で大規模な土砂崩れが発生。爆発的な勢いの洪水が中国との国境地帯に流れ込んだ。
+
+それ以来、リリさんは夫と連絡が取れていない。夫は中国企業が手掛けるネパールでの建設プロジェクトに従事していた。
+
+災害発生時...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252140.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/121ec21ce5531d2f303ef101a4b72d49/t/768/432/d/nepal-floods-20260831023059068.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252124.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T19:18:00+09:00</dc:date>
+        <title>【分析】「トランプの戦争」はいつ終わるのか　イラン内部の権力闘争で決まる可能性も</title>
+        <link>https://www.cnn.co.jp/world/35252124.html?ref=rss</link>
+        <description>40年あまり前、イランはフセイン大統領が率いていたイラクとの戦争で数カ月間劣勢が続いた後、数千人の若い兵士らによる奇襲攻撃を仕掛けた。これで流れが変わった。
+
+だが当時の最高指導者ホメイニ師はここで勝利を固める代わりに、それ以上の目標を掲げた。米国が支援を強めていたイラクの独裁者、フセイン氏を倒し、将来の敵に対してイランとの戦争には大きな代償がともなうことを見せつけるという目標だ。
+
+イラクとの戦争...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252124.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/532fee006404c9ee408489127303b984/t/768/515/d/gettyimages-2283921079-20260829163638546.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252142.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T18:47:00+09:00</dc:date>
+        <title>「人の気配ない」　破壊されたネパール水力発電所、衛星画像に洪水の猛威まざまざ</title>
+        <link>https://www.cnn.co.jp/world/35252142.html?ref=rss</link>
+        <description>ネパールを流れるトリシュリ川沿いの複数の水力発電施設では、トンネル内に閉じ込められている恐れがある作業員を見つけようと、救助隊や外国人専門家が懸命の捜索を続けている。数百人が行方不明となっているとの情報がある。
+
+ネパールの独立発電事業者協会がまとめたリストには、各水力発電所の8月29日時点の行方不明者数が詳しく記載されており、その中にはラスワガディ水力発電所の少なくとも93人も含まれている。
+
+ネパー...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35252136.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T17:10:00+09:00</dc:date>
+        <title>マムダニ市長の「分身」たちが集結、そっくりさんコンテストで盛り上がる　米NY</title>
+        <link>https://www.cnn.co.jp/showbiz/35252136.html?ref=rss</link>
+        <description>米ニューヨーク市のマムダニ市長のそっくりさんを集めたコンテストが8月30日、ソーシャルメディア企業の主催で開催された。ニューヨーク在住の参加者らが市長の「究極の分身」を目指して競い合う中、大勢の人々が参加者との記念撮影に興じた。
+
+
+
+
+
+参加者らはマムダニ氏の外見に似せるだけでなく、授業料無償化の政策を掲げるパフォーマンスをするなど演出にも工夫を凝らした。
+
+優勝者の出で立ちは、米プロバスケットボール（...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35252136.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/460dd9273a64a74acea92ad0f2187b23/t/768/444/d/mamdani-lookalike-contest.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252137.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T16:48:00+09:00</dc:date>
+        <title>ネパール・中国洪水の死者、計1000人超える　身元不明の遺体を集団墓地に埋葬</title>
+        <link>https://www.cnn.co.jp/world/35252137.html?ref=rss</link>
+        <description>ネパールと中国で先週発生した壊滅的な土砂崩れと鉄砲水による死者は、1日午前の時点で計1000人を超えた。
+
+ネパール国家防災管理庁の1日午前の発表によると、ネパールでの洪水による死者数は987人に増えた。
+
+行方不明者の数は3916人に減少。これまでに1万1814人が救助されたという。
+
+中国国営中央テレビ（CCTV）は8月30日、中国側では少なくとも16人が死亡し、少なくとも546人の行方が分かっていないと報じていた。
+
+4400人...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252137.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/460fa096cbfc79f4d228198e5cf944cd/t/768/512/d/ap26243094947660-20260901064335466__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252126.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T14:54:00+09:00</dc:date>
+        <title>妻に薬物投与し性的虐待、夫の裁判始まる　共同被告12人と共に　英国</title>
+        <link>https://www.cnn.co.jp/world/35252126.html?ref=rss</link>
+        <description>20年以上にわたり妻に薬物を投与し性的虐待を繰り返したとして起訴された夫が1日、英イングランドのマンチェスターで裁判にかけられる。虐待に関与またはこれを幇助（ほうじょ）したとして起訴された他の12人の被告も共に法廷に立つ。
+
+検察によると、イングランド北部ストックポート在住の60代の夫は、2004年まで遡（さかのぼ）る48件の罪で起訴されている。
+
+警察は妻のプライバシー保護のため、夫の身元を公表していない。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252126.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/8ce4a4ecf3a76fbde2d096d51675a1ca/t/768/432/d/20260831-uk-trial-0831.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35252128.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T14:39:00+09:00</dc:date>
+        <title>退任したティム・クック氏、いかにしてアップルを世界最高水準の時価総額企業に導いたのか</title>
+        <link>https://www.cnn.co.jp/tech/35252128.html?ref=rss</link>
+        <description>2011年8月にアップルの最高経営責任者（CEO）に就任したティム・クック氏が背負うものは大きかった。前任のスティーブ・ジョブズ氏は、世界屈指の偉大なイノベーターと広くみなされていた。
+
+それから15年がたった今、クック氏は独自の道を切り開き、アップルを桁外れの高みへと押し上げた。ハードウェアエンジニアリングのトップを務めたジョン・ターナス氏が後任として9月1日に引き継ぐ役割は、それとはまったく異なるものに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35252128.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/2e6e4a54a81e21dc96ea794e929441f3/t/768/510/d/2012-09-12t120000z-1723060972-tb3e89c1glu0y-rtrmadp-3-apple-iphone.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252127.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T14:24:00+09:00</dc:date>
+        <title>洪水で跡形もなくなった国境検問所、唯一残るのは給水塔1基のみ　中国国営メディア</title>
+        <link>https://www.cnn.co.jp/world/35252127.html?ref=rss</link>
+        <description>約1週間前の大規模洪水で壊滅的な被害を受けた中国・ネパール国境の国境検問所「ギロン港（吉隆口岸）」を巡り、中国国営メディアは31日、一帯で今も残っている構造物は山のさらに高い位置にある給水塔1基のみだと報じた。
+
+洪水の前後を捉えた衛星画像からは、氷や泥、水による大波で国境施設がほぼ全壊したことが分かる。
+
+
+  
+  
+Vantor
+  
+
+
+
+  
+  
+Vantor
+  
+
+
+
+中国国営中央テレビ（CCTV）は31日夜、被災地での緊急復旧作...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252127.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/0cea918756f8dbd7b1aac9a9862ad899/t/768/432/d/thumb-22945572-72864-513-thumb__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252119.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T13:12:00+09:00</dc:date>
+        <title>レイブ会場での銃乱射、男を逮捕　スイス</title>
+        <link>https://www.cnn.co.jp/world/35252119.html?ref=rss</link>
+        <description>スイス北部でレイブイベント中に発生した銃撃事件を巡り、地元警察は8月31日、43歳の男を逮捕したと発表した。事件ではイタリア人1人が死亡、数人の若者が負傷した。
+
+スイス北部のアールガウ州警察は逮捕の発表に先立ち、同州アーラウで開催されたレイブパーティーで銃撃があり1人が死亡、5人が負傷したと明らかにしていた。アーラウは緑豊かな渓谷、中世の城、温泉で知られる風光明媚（めいび）な町。
+
+「事件の正確な経緯や...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252119.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/30/28b87707a0476594cb9efc5715ddc779/t/768/512/d/ap26242181967217.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252123.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T12:20:00+09:00</dc:date>
+        <title>オタワ市の「トランプ通り」、「TACO通り」に変更検討　カナダ</title>
+        <link>https://www.cnn.co.jp/world/35252123.html?ref=rss</link>
+        <description>カナダのオタワ市が、米国のドナルド・トランプ大統領にちなんで付けられた市内の「トランプ通り」の名称を、トランプ氏を揶揄（やゆ）する「TACO通り」などに変更することを検討している。TACOは「Trump Always Chickens Out（トランプはいつもビビッて退く）」の略語。
+
+オタワ市議会は8月26日、トランプ通りの名称変更に関する議案を全会一致で可決した。
+
+この通りはセントラルパーク地区の住宅街にあり、25年ほど前に現在...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252123.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/574e28170fdebcbb04f777c1e7370eed/t/768/512/d/2026-08-27t174017z-1883205942-rc257naz0n2g-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35252122.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T12:18:00+09:00</dc:date>
+        <title>6億円超のダイヤのネックレス強奪、ハンマーで展示ケースを割る大胆な犯行　ウィーン</title>
+        <link>https://www.cnn.co.jp/style/luxury/35252122.html?ref=rss</link>
+        <description>オーストリアの首都ウィーンで先月27日、覆面を着けていない強盗犯2人がハンマーでガラス製の展示ケースを割り、400万ドル（約6億4000万円）相当のダイヤのネックレスを白昼堂々、盗み出す事件があった。
+
+オーストリア警察によると、捜索対象となっている男2人は、応用美術博物館（MAK）で開催中のジュエリー展の来場者を装っていた。展覧会ではダイヤ673個をあしらい、かつてエジプトの王族が所有していたプラチナのネックレ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35252122.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/6715bf86b46ae81d0c7bd9c56a9ac8b6/t/768/432/d/7-exhibitionview-glanzstucke-chapter-architecture-c-vancleef-arpels.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35252116.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T10:58:00+09:00</dc:date>
+        <title>ジョン・ガリアーノ氏の回顧展、メトロポリタン美術館での2027年開催中止　批判の高まり受け</title>
+        <link>https://www.cnn.co.jp/style/fashion/35252116.html?ref=rss</link>
+        <description>米ニューヨークのメトロポリタン美術館（MET）は31日、声明で、同美術館で開かれる「メットガラ」に関連する回顧展に英国のファッションデザイナー、ジョン・ガリアーノ氏をテーマとすることを見送ると発表した。
+
+METとファッション誌「ヴォーグ」のグローバル編集ディレクター、アナ・ウィンター氏がメットガラでガリアーノ氏をたたえると決定したことをめぐっては、批判の声が高まっていた。ガリアーノ氏は2011年、パリのカ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35252116.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/27295633964aa7626e20e46399b40fbf/t/768/512/d/gettyimages-1147426622.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35252110.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T10:40:00+09:00</dc:date>
+        <title>リオネル・メッシ、アルゼンチン代表からの引退を発表</title>
+        <link>https://www.cnn.co.jp/showbiz/35252110.html?ref=rss</link>
+        <description>サッカーのアルゼンチン代表のスーパースター、リオネル・メッシは8月31日、代表チームからの引退を発表した。
+
+インスタグラムに投稿した声明で明らかにした。今夏のワールドカップ（W杯）以降、熟考を重ねた結果だとしている。
+
+メッシは「この決断はつらく、今も心の奥底では痛みが残っているが、その時が来たのだと理解している。誓って言うが、私は常に全力を尽くしてきた。ここ数年、あらゆるタイトルを獲得した時期だけ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35252110.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/8a4986be3479c07c06bfe32d4b6ed84b/t/768/512/d/gettyimages-2286227935.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252111.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T10:12:00+09:00</dc:date>
+        <title>米NY市繁華街で刃物女が2人を殺傷、警察が容疑者を射殺　無差別襲撃か</title>
+        <link>https://www.cnn.co.jp/usa/35252111.html?ref=rss</link>
+        <description>米ニューヨーク市中心部のタイムズスクエアで現地時間の31日午後、2本のナイフを持った女がその場にいた男女2人に襲いかかり、うち1人が死亡した。容疑者の女は駆け付けた警官に射殺された。
+
+被害者2人のうち、32歳の女性は腹部を刺されて病院で死亡が確認された。もう1人の68歳の男性は腹部を刺されたものの、現時点で容体は安定しているという。ニューヨーク市警のジェシカ・ティッシュ本部長は、「無差別の一方的な襲撃」だ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252111.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/baecc4ed6f786279cf2e55a97aff33e4/t/768/511/d/c-ap26243807260248.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252106.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T09:51:00+09:00</dc:date>
+        <title>米グランドキャニオンを襲った土石流　2人死亡、約15人が依然行方不明</title>
+        <link>https://www.cnn.co.jp/usa/35252106.html?ref=rss</link>
+        <description>米アリゾナ州のグランドキャニオン国立公園で土石流が発生し、少なくとも2人が死亡した。現場では行方不明者の捜索救助活動が続けられているが、大雨は8月31日も続く見通しで、当局が引き続き警戒を呼びかけている。
+
+国立公園局は31日、2人の遺体を収容したことを明らかにした。このうち46歳の男性の遺体は、コロラド川に面したクリスタル・ラピッズ付近で見つかった。
+
+これに先立ち当局は、ブライトエンジェル峡谷を横断する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252106.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/41ca630120f9a0971ed84f185951692c/t/768/512/d/image__14_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252107.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T09:25:00+09:00</dc:date>
+        <title>ドリスコル米陸軍長官が辞表提出、ヘグセス国防長官との確執の末</title>
+        <link>https://www.cnn.co.jp/usa/35252107.html?ref=rss</link>
+        <description>ドリスコル米陸軍長官がトランプ大統領に辞表を提出したことが、事情に詳しい関係者3人の話で1日までに明らかになった。
+
+関係者の1人は、ドリスコル氏とヘグセス国防長官との間に緊張関係があったことを踏まえれば、今回の決定は驚くものではないと述べた。
+
+ホワイトハウスのケリー報道官は声明で、「ドリスコル長官は、歴史的な軍事作戦において優れたリーダーシップを発揮し、即応態勢と殺傷能力を重視する姿勢を取り戻し、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252107.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/01/deed4f6092d8579e70a9ff767078284b/t/768/512/d/c-gettyimages-2276599684.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252105.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-01T09:04:00+09:00</dc:date>
+        <title>ネパール洪水、死者939人に　1万1000人超を救助</title>
+        <link>https://www.cnn.co.jp/world/35252105.html?ref=rss</link>
+        <description>ネパール国家防災管理庁（NDRRMA）は31日、同国を襲った壊滅的な洪水による死者が939人に増加したと明らかにした。
+
+同日早くに発表された死者数は903人だった。
+
+NDRRMAが公表した最新の集計によると、国内の行方不明者は300人以上減少した。
+
+行方不明者は現在約3925人で、同日早くに発表された4247人から減少した。
+
+ネパールのシャハ首相は、洪水被害を受けた地域での救援活動を強化しており、これまでに数千人が救助された...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252100.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-31T18:55:00+09:00</dc:date>
+        <title>ベネズエラ前大統領、米NYの拘置所から写真公開　拘束から約8カ月</title>
+        <link>https://www.cnn.co.jp/world/35252100.html?ref=rss</link>
+        <description>ベネズエラのニコラス・マドゥロ前大統領は、拘束から約8カ月が経過した自身の写真を自らのソーシャルメディアアカウントに公開した。
+
+
+
+
+
+マドゥロ氏と妻のシリア・フロレス氏は米軍に拘束され、銃器とコカインの密輸共謀罪で起訴されたが、本人らは無罪を主張している。
+
+今回公開された写真に写るマドゥロ氏はスウェット姿で笑顔を浮かべ、両手でVサインをしている。投稿の中で同氏は、写真を支持者へのささやかな贈り物と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252100.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/31/e485639813dea973d27cac4c37171eac/t/768/432/d/nicholas-maduro-venezuela-ny-jail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35252099.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-31T18:41:00+09:00</dc:date>
+        <title>「皆さんと交流するのが好き」　イタリアの王女、所有する宮殿を観光客の滞在に開放</title>
+        <link>https://www.cnn.co.jp/travel/35252099.html?ref=rss</link>
+        <description>名作映画「ローマの休日」では、グレゴリー・ペック演じる米国人記者が、オードリー・ヘプバーン演じる身分を隠した欧州の王女と出会うが、最初は王族であることに気付かない。
+
+1950年代のイタリアの日常が楽しく描かれた場面の背景には首都ローマの街並みが広がる。ベスパでコロッセオの前を走り抜け、スペイン階段の近くで買い物し、カフェや熱狂的なダンスパーティーを楽しむ。作品は公開から70年以上たった今でも人々をロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35252099.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/31/6d8b5a9663362f31c7d0b2c51dae1bef/t/768/512/d/dsc0644-web.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252091.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-31T18:02:00+09:00</dc:date>
+        <title>トランプ氏、NBC司会者に規制当局からの「叱責または処罰」要求　番組内での発言に不満示す</title>
+        <link>https://www.cnn.co.jp/usa/35252091.html?ref=rss</link>
+        <description>米連邦通信委員会（FCC）をまるで自身の私的な執行機関のように扱うトランプ大統領は30日、ソーシャルメディア上で、NBCの番組司会者を務めるクリステン・ウェルカー氏について、「FCCに報告し、叱責または処罰を求める」考えを明らかにした。ウェルカー氏の手掛ける番組の内容が好ましくないとしている。
+
+別の投稿では、「偽の世論調査」に対してすべて大文字で不満を表明。「何らかの対策を講じる必要がある」として、「FCC...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252091.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/31/fc03b831b439eeb86907b2a90a6e4702/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXRmeWw5a2MwMDAwM2I2cnRwYXgzeDRl-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdGZ5MXFvbjAwZDIyOXA1Nzd2dDB5aXQ_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35252085.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-31T14:36:00+09:00</dc:date>
+        <title>スタジアムの屋根すれすれ、旅客機2機が極度の低空飛行　南ア</title>
+        <link>https://www.cnn.co.jp/showbiz/35252085.html?ref=rss</link>
+        <description>南アフリカのスタジアムで、屋根すれすれの高さを2機の旅客機が飛行する動画がネット上に公開されている。
+
+この低空飛行はケープタウンで開催されたラグビーの国際試合、南アフリカ対ニュージーランドの試合に先立って実施された。
+
+
+
+
+
+南アフリカの航空会社エアリンクが投稿した動画や、スタジアム内外でファンが撮影した映像には、2機の飛行機が屋根に極端に接近する様子が映っている。
+
+その中には、屋根から打ち上がった...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35252085.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/31/788ca3d355104cbb500ee54dbb5829be/t/768/432/d/south-africa-stadium-flyover.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252089.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-31T14:29:00+09:00</dc:date>
+        <title>【分析】イランは戦争に勝っていない――海峡への影響力を失いつつあるという新たな展開</title>
+        <link>https://www.cnn.co.jp/world/35252089.html?ref=rss</link>
+        <description>イランとの戦争をめぐって、ある通説が漂っている。それはイランが勝った、というものだ。
+
+その主張は単純だ。米国とイスラエルは数週間にわたってイランを爆撃し、甚大な被害を与え、大幅な譲歩を要求したが、イランは降伏を拒否した。イラン政府は権力を維持し続け、同国のミサイルは今なお中東地域全体にとって脅威だ。そして何より重要なのは、同国が依然としてホルムズ海峡の通航を阻む能力を持ち、米国や世界の多くの国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252089.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/31/b3b74aee20c7f464b348802ab1cc81d8/t/768/512/d/gettyimages-2270538685-20260829170145430.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252081.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-31T11:37:00+09:00</dc:date>
+        <title>グーグルマップ、米国内で「オンタリオ湖」を「アメリカ湖」に変更　トランプ政権歓迎</title>
+        <link>https://www.cnn.co.jp/usa/35252081.html?ref=rss</link>
+        <description>米グーグルの地図サービス「グーグルマップ」を使った米国内での検索で、米国とカナダにまたがる五大湖の一つ「オンタリオ湖（Lake Ontario）」が見つからなくなった。
+
+米国内ではオンタリオ湖が「アメリカ湖（Lake America）」と表示されている。
+
+米国のドナルド・トランプ大統領は27日、カナダとの対立が深まる中で、オンタリオ湖からアメリカ湖への名称変更を義務付ける大統領令に署名していた。
+
+グーグルは29日、「米地...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252081.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/31/c88da83645336742530af84770c8c10b/t/768/512/d/gettyimages-2291739762.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252079.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-31T11:19:00+09:00</dc:date>
+        <title>米国とイランが攻撃の応酬、1カ月ぶりの事態悪化</title>
+        <link>https://www.cnn.co.jp/world/35252079.html?ref=rss</link>
+        <description>米当局者によるとイランは30日、米軍への攻撃を実施した。米軍がイランのロケット発射施設を攻撃したことへの報復とみられる。攻撃の応酬は両国間の緊張が1カ月以上ぶりに高まったことを意味する。
+
+同当局者によると、ヨルダンに向けて発射されたイランのミサイルは迎撃され、今のところ被害は報告されていない。
+
+今回の攻撃は、米軍がイランのララク島を攻撃した後に発生した。米軍が確認したところによると、イラン軍は同島...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252079.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/31/71079f1df2d3838699f195510d4657d2/t/768/432/d/iran-crisis-oman-hormuz.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252078.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-31T10:42:00+09:00</dc:date>
+        <title>ネパール洪水に見舞われたトンネルから脱出した水力発電作業員、多数の仲間失う</title>
+        <link>https://www.cnn.co.jp/world/35252078.html?ref=rss</link>
+        <description>ネパールのトリシュリ川沿いのトンネルで作業していたラム・チャンドラさんは暗闇の中押し寄せる水やコンクリート、がれきに足をすくわれそうになりながら天井に取り付けられていた横木の一つにしがみついた。
+
+とっさの行動が命を救った可能性が高い。
+
+チャンドラさんと一緒にいた数人の同僚たちは、トンネルの出口から数百メートルの場所にいた。
+
+「水位が上がっていて、脚を動かすのは難しかった。あの横木から手を離した...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252078.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/31/5a2247e2aca5d0c2b38c55bd24e8b0af/t/768/512/d/2026-08-30t100621z-2022637278-rc2x8nadqp7v-rtrmadp-3-nepal-floods.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252076.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-08-31T10:39:00+09:00</dc:date>
+        <title>キプロス島沖で旅客フェリー転覆、8人死亡　18人が行方不明</title>
+        <link>https://www.cnn.co.jp/world/35252076.html?ref=rss</link>
+        <description>地中海のキプロス島沖で約270人の乗った旅客フェリーが転覆し、少なくとも8人が死亡した。現場ではキプロスとトルコの当局が懸命の捜索救助活動を続けている。
+
+北キプロスとトルコの当局者によると、転覆したのは乗客259人と乗員8人を乗せてキプロス島北部のギルネ（キレニア）からトルコ南部タシュジュに向かって航行していた客船。キプロスを出航後間もなく浸水が始まった。これまでに241人が救助されたが、依然として18人が...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252076.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/08/31/a29c6e172543f746b52da2f4ffd55086/t/768/432/d/generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
