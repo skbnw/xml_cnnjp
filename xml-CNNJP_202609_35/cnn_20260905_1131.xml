@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-09-05T19:11:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252325.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252324.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252323.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252322.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252266.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252320.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252318.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252316.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35252313.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252315.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252305.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252307.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252301.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252300.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252299.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252297.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35252294.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35252277.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252275.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252271.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252265.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252260.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252259.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35252257.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252246.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252245.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252230.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35252240.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35252233.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252216.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35252325.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-05T19:11:00+09:00</dc:date>
+        <title>イランに対する「経済的Dデー」を約束したトランプ氏、小出しの制裁措置にとどまる</title>
+        <link>https://www.cnn.co.jp/world/35252325.html?ref=rss</link>
+        <description>ルビオ米国務長官は今週、世界各地の米外交官に対し、イランとの関係を「体系的に特定して断ち切る」必要があると駐在先の国に伝えるよう指示した。イラン系銀行の支店がある国は支店を即時閉鎖する必要があるとの認識も示した。
+
+米財務省も4日、イランにとって「不可欠な金融の生命線」とされるトルコの銀行と子会社を制裁対象に指定したと発表した。
+
+これらは「経済的追放作戦」に基づく新たな制裁措置であり、トランプ大統...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252325.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/05/211a49c63a276f6e13e46fd8bdf7dd87/t/768/512/d/2026-08-26t011607z-1958370069-rc2r5naht8f6-rtrmadp-3-iran-crisis-economy.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252324.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-05T16:50:00+09:00</dc:date>
+        <title>暴れた乗客、粘着テープでファーストクラス席に縛り付けられる　米旅客機が緊急着陸</title>
+        <link>https://www.cnn.co.jp/usa/35252324.html?ref=rss</link>
+        <description>米国の国内線旅客機が3日夜にメリーランド州ボルティモアへ緊急着陸した際、暴れた乗客が粘着テープで座席に縛り付けられていたことが、他の乗客が撮影した写真や動画から明らかになった。
+
+機内に居合わせたリチャード・オレニクさんとフアン・メヒアさんによると、フライトの半分以上が経過した頃、ファーストクラスの2列後ろに座っていた男が攻撃的な態度を見せ始めた。
+
+騒動が起きたのはアメリカン航空618便。連邦航空局（...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252324.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/05/1ec123698a8ea148423b950b5d5a7dc1/t/768/511/d/02-passenger-blurred.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252323.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-05T14:08:00+09:00</dc:date>
+        <title>裏庭で発見、バイキング時代の銀の埋蔵品　デンマーク最大規模、「人生で一番のサプライズ」</title>
+        <link>https://www.cnn.co.jp/fringe/35252323.html?ref=rss</link>
+        <description>デンマークでこのほど、確認されている中で最大規模のバイキング時代の埋蔵品が見つかった。発見につながったのは、裏庭の草や石を取り除くありふれた作業だった。
+
+発見者はデンマーク北部の自治体に住む匿名希望の男性。北ユトランド博物館によると、テラスを新設しようと庭の準備を進めていたところ、約700点からなる銀の財宝に出くわした。
+
+博物館の声明によると、出土品には北欧神話の神トールが持つとされる小さなハンマ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252323.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/05/47940fcae0f48a26ebe6dcf99ced709a/t/768/512/d/vikinges-lvskat-rebild-2026-4.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252322.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-05T11:56:00+09:00</dc:date>
+        <title>ふれあい動物園で狂犬病に感染したヤギと接触、300人近くが検査受ける　米ノースカロライナ州</title>
+        <link>https://www.cnn.co.jp/usa/35252322.html?ref=rss</link>
+        <description>米ノースカロライナ州の保健当局が、移動式ふれあい動物園の子ヤギと接触した数百人を対象に、狂犬病検査を実施したことが分かった。州の保健福祉省が明らかにした。
+
+2日時点で、284人が地元の保健当局による検査を受けた。医療機関に直接相談して感染リスクを調べる人もいるという。
+
+ヤギを所有しているのは、ノースカロライナ州ハーモニーに拠点を置く移動式ふれあい動物園「ファーム・アドベンチャーズ」。地元当局の声明...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252322.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/05/592786df2c28750fa6b4e0e5349d6c18/t/768/579/d/2yd5rk5-20260904182405390.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252266.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-05T11:24:00+09:00</dc:date>
+        <title>20歳の若さで殺害された母親、40年近く後に1本の電話が鳴った　米未解決事件</title>
+        <link>https://www.cnn.co.jp/usa/35252266.html?ref=rss</link>
+        <description>メリッサ・テイラー・エリソンさんは、1987年に自身の寝室で遺体となって発見され、当時まだ生後13カ月だった娘はリビングルームで泣き続けていた。それから何十年もの間、この事件は謎のままだった。
+
+しかし、フロリダ州ジャクソンビルでエリソンさんが殺害されてから38年以上が経った7月8日、クレイ郡保安官事務所に、未解決事件について情報を提供したいという男性から電話が入った。
+
+電話をかけてきたのは、フロリダ州ミ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252266.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/03/916605324b695cedd033e899f561fe60/t/768/547/d/melissa-ellison-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252320.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-05T10:23:00+09:00</dc:date>
+        <title>トランプ氏、イランとの戦争は「取るに足らないこと」　米兵18人死亡の紛争をまたも矮小化</title>
+        <link>https://www.cnn.co.jp/usa/35252320.html?ref=rss</link>
+        <description>トランプ米大統領は4日、イランとの戦争について「取るに足らないこと」と表現した。ガソリン価格の高騰を引き起こし、米兵18人が死亡したここ半年の紛争をまたも矮小（わいしょう）化する姿勢を示した。
+
+トランプ氏は大統領執務室で「多くの人は戦争という呼び方をしていない。私は軍事紛争と呼んでいる。我々にとっては取るに足らないことだからだ。大したことではない」と発言した。
+
+バンス副大統領はこの前日、主な戦闘作...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252320.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/05/81fa1b75d9b2a1153685266762c6cb6d/t/768/512/d/gettyimages-2292985199.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252318.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-05T09:15:00+09:00</dc:date>
+        <title>ロシア、キーウ中心部のウクライナ保安局本部を攻撃　防空網の不備浮き彫りに</title>
+        <link>https://www.cnn.co.jp/world/35252318.html?ref=rss</link>
+        <description>ウクライナ首都キーウにある情報機関ウクライナ保安局（SBU）の本部が4日、ロシアのドローン（無人機）攻撃を受けた。主要な政府施設への直接攻撃は異例で、ウクライナの防空網の深刻な不備が浮き彫りになった。
+
+SBUの建物が攻撃を受けたのは、4年半続く紛争で初めて。これに先立つ数日、ロシアはほぼ絶え間なくキーウを空から攻撃していた。
+
+当局によると、今回の攻撃で12人が負傷し、救急隊が現場に駆けつけた。
+
+ウクライ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252318.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/05/0d96bc796fb1320d309dcd4646060952/t/768/524/d/2026-09-04t142059z-1953815339-rc2dcna8cis9-rtrmadp-3-ukraine-crisis-atack-sbu.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252316.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T19:21:00+09:00</dc:date>
+        <title>中国、ネパール国境の通関施設を移転へ　洪水被害の検問所から数十キロの位置</title>
+        <link>https://www.cnn.co.jp/world/35252316.html?ref=rss</link>
+        <description>中国は3日、潜在的な災害リスクへの懸念から、ネパールとの国境沿いにあるチベットの通関施設を移転すると発表した。
+
+移転する通関施設は、洪水被害を受けた国境検問所「ギロン港（吉隆口岸）」から約64キロの距離に位置する。税関や出入国審査を担う施設の位置を5日から見直すという。
+
+当局はこの措置の目的を「出入国者の身の安全や財産の安全を守るため」と説明。「地質災害のリスクが顕著だ」と付け加えた。
+
+中国は被害...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35252313.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T18:26:00+09:00</dc:date>
+        <title>ベネチア国際映画祭、レッドカーペットに映えるベストルックの数々</title>
+        <link>https://www.cnn.co.jp/style/fashion/35252313.html?ref=rss</link>
+        <description>毎年9月、ハリウッドのトップスターたちがボートでリド島へと向かうベネチア国際映画祭の季節がやってきた。10日間にわたるこの華やかなイベントには、今年もジョージ・クルーニーと妻のアマル・クルーニー、ペネロペ・クルス、ロバート・パティンソン、パトリック・シュワルツェネッガーらが、とびきりの正装で登場。もちろん、映画の上映も行われる。
+
+  
+    
+      
+    
+    
+ベネチア国際映画祭のオープニング・セレモニ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35252313.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/04/aa1c7969bb45f211040a64b64a15007e/t/768/417/d/george-amal-clooney.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252315.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T17:43:00+09:00</dc:date>
+        <title>雷に打たれた男性、自力で歩き近所の家に助け求める　検査ではやけどなし　米</title>
+        <link>https://www.cnn.co.jp/fringe/35252315.html?ref=rss</link>
+        <description>米ニューヨーク州スタテン島でこのほど、通りで雷の直撃を受けた男性が自力で歩き続け、近所の家に助けを求める出来事があった。
+
+この男性はトマス・ファーミーさん。映像には雷に打たれたファーミーさんがいったん倒れ込んだ後、通りかかった家の敷地の柵を頼りに何とか歩き、「中に入ってもいいですか？」と助けを求める様子が映っている。
+
+隣人は「大丈夫なの？　どうぞ入ってください。いま救急車を呼んでいます」と返答...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252315.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/04/c7a91afbf23df3e29ea771e5fef7f206/t/243/432/d/oar2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252305.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T15:22:00+09:00</dc:date>
+        <title>ホワイトハウスの公式サイトがアーケードゲームを公開、不法移民の逮捕や国境の壁建設をゲーム化</title>
+        <link>https://www.cnn.co.jp/usa/35252305.html?ref=rss</link>
+        <description>トランプ米政権は3日、ホワイトハウスの公式ウェブサイト上に一連のアーケード風ゲームを公開する形で、政権の掲げる優先課題をアピールした。これは民主党を挑発・揶揄（やゆ）する同政権の積極的なオンライン戦略の一環だが、その過程では時に人種差別的もしくは不快なイメージが露呈することもあった。
+
+今回ホワイトハウスが公開したオンライン・アーケードには、南部国境で人々を捕まえたり、国境の壁を建設したりするゲー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252305.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/04/5fe51d7dee114560aeebc8702f0bc748/t/768/365/d/screenshot-2026-09-03-at-6-18-28-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252307.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T15:03:00+09:00</dc:date>
+        <title>子どものキャンディー横取り、鼻のかみ方、尿が跳ねない小便器…　今年もイグ・ノーベル賞発表</title>
+        <link>https://www.cnn.co.jp/fringe/35252307.html?ref=rss</link>
+        <description>世界各地の科学者は典型的とは言い難い環境で、さまざまな風変わりな研究プロジェクトに取り組んでいる。例えば、毒蛇の体のさまざまな部位をそっと踏んでみて、どんな場合に人間に噛（か）みつくか――。
+
+これは3日のイグ・ノーベル賞授賞式で表彰された10件の研究の一つに過ぎない。主催者の声明によると、賞の目的は「まず人々を笑わせ、次に考えさせる」科学的成果にスポットライトを当てることにある。
+
+36回目となる授賞式...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252307.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/04/8c5502e9cd2f26a6684d83380430ebb5/t/768/431/d/the-2026-ig-nobel-prize-itself-photo-by-eric-workman-improbable-research.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252301.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T13:43:00+09:00</dc:date>
+        <title>ネパールの洪水被災発電所、多数が取り残される中男性2人を救助</title>
+        <link>https://www.cnn.co.jp/world/35252301.html?ref=rss</link>
+        <description>ヒマラヤ地域の複数のエネルギー開発現場で、大規模な鉄砲水と土砂崩れにより数百人の作業員が取り残されてから9日目、被災したネパールの水力発電所のトンネル内から2人が救助された。さらに複数の人の声も確認されている。
+
+危険な状況下で昼夜を問わず必死の救助活動が続けられる中、劇的な進展があった。行方不明となっていた42人の作業員を捜索するためトンネルへの掘削作業が行われていた「トリシュリ3A水力発電所」の内...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252301.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/04/95011cdb3db14c6f5440333faa5897db/t/768/576/d/2026-09-02t080330z-1695937750-rc2vana56f9d-rtrmadp-3-nepal-floods.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252300.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T13:09:00+09:00</dc:date>
+        <title>飲酒は1日たった1杯でもがんの死亡リスク増大の可能性　米研究</title>
+        <link>https://www.cnn.co.jp/fringe/35252300.html?ref=rss</link>
+        <description>米国人の飲酒とがんの死亡リスクの関係は、これまでの想定よりも大きい可能性があるという研究結果が発表された。
+
+論文を発表したマイアミ大学のチンメイ・ジャニ氏は、「がんによる死亡率は全体では低下しているが、20歳以上の層ではアルコールを原因とするがんの死亡率が過去33年間で倍に増えた」と指摘する。
+
+飲酒がかかわる死亡リスクは乳がん、前立腺がん、結腸がん、直腸がん、胃がん、膵臓（すいぞう）がん、肝臓がん...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252300.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/04/e9d8c7717d5d831e2e5020193af948a9/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXRrdXpvbGgwMDEyM2I2cm1kcjJ5ZzBz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdGtyYjQ3djAwMHkyZHAyZmxnMmR6Z2E_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252299.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T12:50:00+09:00</dc:date>
+        <title>イランとの衝突、「戦争」ではないとバンス氏　終結時期への明言避ける</title>
+        <link>https://www.cnn.co.jp/usa/35252299.html?ref=rss</link>
+        <description>米国のバンス副大統領は3日、ホワイトハウスで記者会見を開いたが、イランとの戦争の終結時期やガソリン価格が開戦前の水準を下回る時期についての具体的な見通しを示せなかった。一方で、この紛争に終止符を打てるかどうかはイラン次第との認識を示唆した。両国の衝突は6カ月前、米国とイスラエルが合同でイランを空爆したことで始まった。
+
+会見の中でバンス氏は、現在の敵対行為を「戦争」と呼ぶべきではないとも主張。「積...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252299.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/04/ac34ac8fcbfe1132d1d984c0c361422d/t/768/512/d/2026-09-03t181544z-1252645002-rc2ubnaqy0yy-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252297.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T12:02:00+09:00</dc:date>
+        <title>イラン政権転覆を再びほのめかすトランプ氏、外交膠着で開戦当初の姿勢に逆戻り</title>
+        <link>https://www.cnn.co.jp/world/35252297.html?ref=rss</link>
+        <description>トランプ米大統領はここ数カ月、国家安全保障チームに対して内々に「なぜイラン国民は指導者を打倒しないのか」と尋ねてきた。
+
+開戦当初、トランプ氏はこうした結末を半ば確信しているようだった。イスラエルのネタニヤフ首相から、集中攻撃を浴びせればイランの首都テヘランで街頭デモが巻き起こる、と吹き込まれていたからだ。
+
+事情に詳しい関係者によると、他の米当局者はその可能性は低いとの情報評価に目を通しており、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252297.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/04/0742c7297657ff995ac4ae972fa54ddd/t/768/511/d/gettyimages-2292345173-20260903004757493.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35252294.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T10:44:00+09:00</dc:date>
+        <title>テイラー・スウィフトとトラビス・ケルシーの愛犬は白いサモエド、「謎の犬」から昇格</title>
+        <link>https://www.cnn.co.jp/showbiz/35252294.html?ref=rss</link>
+        <description>米歌手テイラー・スウィフトは猫好きとして知られる。ファンの多くは3匹の愛猫の名前（メレディス・グレイ、オリビア・ベンソン、ベンジャミン・バトン）を知っているし、米誌タイムの「今年の人」に選ばれた時は愛猫と共に表紙を飾った。
+
+それだけに、スウィフトと新婚の夫で米プロフットボールNFLのスター選手トラビス・ケルシーが新しい犬を家族に迎えたという2日の発表はビッグニュースだった。
+
+新しい家族はモフモフの白...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35252294.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/04/eb21ad99ca174bb05c03e097b617ab86/t/768/506/d/fa26-th-t1-october-msw-hero-2-d-qc.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35252277.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T09:45:00+09:00</dc:date>
+        <title>エヌビディア、AI新興ハギングフェイスを2兆円で買収へ</title>
+        <link>https://www.cnn.co.jp/tech/35252277.html?ref=rss</link>
+        <description>米半導体大手エヌビディアは3日、人工知能（AI）の新興企業ハギングフェイスを129億ドル（約2兆円）で買収すると発表した。オープンソースのAI技術の普及拡大に向けた、同社による大規模な賭けとなる。
+
+ハギングフェイスは、オープンソースのAIモデルやデータセットを公開・利用するためのサービスを提供している。最近では、テスト中に制御を逸脱したオープンAIのモデルによるハッキング被害を受けたことで注目を集めていた。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35252277.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/04/ce1c720bc7b6c9c1b42c75587cf0bba7/t/768/512/d/gettyimages-1608150719.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252275.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T09:35:00+09:00</dc:date>
+        <title>ロシアの将軍、暗殺未遂で負傷　ウクライナ首都の小児病院攻撃で非難される人物</title>
+        <link>https://www.cnn.co.jp/world/35252275.html?ref=rss</link>
+        <description>ウクライナの首都キーウの小児病院へのミサイル攻撃を命じたとしてウクライナ側から非難されているロシアの将軍が3日、ロシア西部で銃撃されたと報じられた。
+
+ロシア連邦捜査委員会は、サラトフ州エンゲリスで3日に軍人が数発撃たれた事件について、殺人未遂として捜査を開始したと発表した。
+
+同委員会はこの人物の氏名を公表していないが、ロシアのSNSテレグラムの複数のチャンネルは、被害者がロシア航空宇宙軍・長距離航空...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252275.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/04/e98f57a53bb4f01572b3957977262a3b/t/353/432/d/2026-09-03-14-55-11.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252271.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-04T08:50:00+09:00</dc:date>
+        <title>移民船がカナリア諸島沖を漂流、83人死亡か　44人救助</title>
+        <link>https://www.cnn.co.jp/world/35252271.html?ref=rss</link>
+        <description>スペイン領カナリア諸島沖で2日夜、移民を乗せた船が漂流しているのを当局が発見した。同船は先月に西アフリカのガンビアを出発しており、数十人が死亡したとみられる。
+
+スペインの非政府組織（NGO）「カミナンド・フロンテラス」の代表、エレナ・マレノ氏によると、乗っていた127人のうち83人が死亡した。犠牲者には女性4人と乳児1人が含まれる。一行は27日前にガンビアを出発したとしている。
+
+スペインの海上安全救助機関、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252271.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/04/60b41d53ab6ea71986e07f8353eba80d/t/768/512/d/migration-spain-canary-islands.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252265.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-03T20:20:00+09:00</dc:date>
+        <title>谷底の隠れ家に破壊的被害、グランドキャニオンを土石流が襲った経緯</title>
+        <link>https://www.cnn.co.jp/usa/35252265.html?ref=rss</link>
+        <description>米アリゾナ州にあるグランドキャニオン国立公園の谷底は、切り立つ崖に囲まれた唯一無二の美しい隠れ家だ。その雄大な斜面が突然なんの前触れもなく、荒れ狂う滝と化した。
+
+9月29日に発生した豪雨で、雨水が谷に集まって流れ込み、のどかな小川が一変して激しい濁流に。ブライトエンジェル渓谷や谷底で唯一の宿泊施設「ファントム・ランチ」を訪れていた旅行者らは、命がけの避難を強いられた。
+
+鉄砲水で歩行者用の橋やキャン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252265.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/03/9466aa2beeeb29ff556299392a5aaf3c/t/768/512/d/ap26243672101624.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252260.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-03T18:30:00+09:00</dc:date>
+        <title>米軍、ホルムズ海峡で過去最大の作戦　標的60カ所を攻撃し1800万バレルの原油輸送を護衛と当局者</title>
+        <link>https://www.cnn.co.jp/usa/35252260.html?ref=rss</link>
+        <description>米国とイランが新たな攻撃の応酬を繰り広げた1日、米軍が計40隻の商船を護衛し、ホルムズ海峡を通過させていたことが分かった。これらの商船が積載していた原油の量は合わせて1800万バレル。米軍にとって、戦時の同海峡における過去最大規模の軍事行動となった。作戦に詳しい米当局者2人がCNNに明らかにした。
+
+約6カ月続く戦争が始まる以前、ホルムズ海峡を通過する原油の量は1日あたり約2000万バレルだった。
+
+当局者によると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252260.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/03/8d52ddece36f1e1c2b8be631212d1916/t/768/430/d/iran-crisis-usa-strikes.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252259.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-03T16:45:00+09:00</dc:date>
+        <title>長期展開していた空母リンカーン、船首から船尾までさびだらけの外観に衝撃走る</title>
+        <link>https://www.cnn.co.jp/world/35252259.html?ref=rss</link>
+        <description>中東に長期展開していた米空母エイブラハム・リンカーンが2日にタイの港に入ると、その外観を目にした人々は衝撃を受けた。全長約335メートルの軍艦は、船首から船尾までさびに覆われていたからだ。
+
+  
+  
+以前のリンカーン/Petty Officer 2nd Class Jordan Steis/US Navy
+  
+
+
+しかし米海軍によれば、昨年11月に母港のサンディエゴを出港して以降、リンカーンは海上で286日間を過ごした。専門家はそれを考えれば、この状態は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252259.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/03/7cde68e0008ee3434f8cb1dfb41e29b2/t/768/432/d/after-20260903022212707.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35252257.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-03T16:20:00+09:00</dc:date>
+        <title>日本政府が外国人の在留資格を厳格化、「さよなら」の時かと自問する外国人も</title>
+        <link>https://www.cnn.co.jp/travel/35252257.html?ref=rss</link>
+        <description>禅庭園に未来的な都市景観、活気あふれるグルメシーンに加え、円に対する有利な為替レートも相まって、日本は近年、過去最多の観光客を惹きつける人気の旅行先となっている。
+
+仕事や留学などを目的とした長期滞在者の数も、昨年は過去最高を記録した。これは世界第4位の経済大国が誇る確かな安全性と、便利なインフラが要因だと考えられる。
+
+しかし最近、政府による一連の入国管理政策の引き締めにより、日本を「第二の故郷」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35252257.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/03/219243acdfb1d3ca832ef2ad7c1bbe0a/t/768/512/d/gettyimages-2278160111.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252246.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-03T14:50:00+09:00</dc:date>
+        <title>メキシコの有名ミュージシャン、凄惨な銃撃で死亡　妊娠中の妻、子ども、飼い犬も</title>
+        <link>https://www.cnn.co.jp/world/35252246.html?ref=rss</link>
+        <description>メキシコ市で1日、ミュージシャンと妊娠中の妻、3歳の娘、さらにベビーシッターと一家の飼い犬が銃撃により殺害された。
+
+死亡したのは有名インディーズロックバンド「カミロ・セプティモ」のキーボード奏者、ジョナタン・メレンデスさん（38）。メキシコ州司法長官事務所によると、遺体は1日遅く、メキシコ市近郊の高級住宅街にあるアパートで見つかった。妻のアナ・パウラさん（35）は妊娠4カ月だった。
+
+当局によると、3歳の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252246.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/03/d78ab5c13dc59771784e85067f9c5834/t/768/512/d/c-gettyimages-2152095491.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252245.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-03T12:59:00+09:00</dc:date>
+        <title>イラン、米国の攻撃に報復　「はるかに激しい攻撃を受ける」としたトランプ氏の警告を無視</title>
+        <link>https://www.cnn.co.jp/world/35252245.html?ref=rss</link>
+        <description>米軍がイランに対し1日に行った追加攻撃を受け、イランがヨルダン、バーレーン、クウェートを攻撃した。トランプ氏が、報復すれば「はるかに激しい攻撃を受ける」とした警告を無視した形だ。
+
+米国とイランが先月31日未明に約1カ月ぶりに互いを攻撃したことで始まった今回の応酬により、甚大な被害をもたらす紛争が再燃する恐れが生じている。
+
+米国による新たな攻撃が発表された後、トランプ氏は、自身が「極めて正当な攻撃」...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252245.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/03/2e33b6e984d2d3aa0d50c803a79ba2d9/t/768/432/d/22949940-iran-strikes-169-00-00-03-26-still002.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252230.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-03T12:00:00+09:00</dc:date>
+        <title>ネパールの自然災害監視向け資金、トランプ米政権が削減していた　地滑り発生の前年</title>
+        <link>https://www.cnn.co.jp/world/35252230.html?ref=rss</link>
+        <description>2025年1月、トランプ米政権は、ネパールにおける地滑り発生多発地点の特定と監視を目的とした長年の自然災害対策プログラムへの資金提供を打ち切った。それからわずか1年あまり後、ヒマラヤ山脈の高地で発生した巨大な氷河と岩石の地滑りが引き起こした洪水がネパールと中国を襲い、1100人以上が犠牲となった。
+
+今回の災害は、人間の活動による気候汚染で地球温暖化が進むにつれ、ヒマラヤのような山岳地帯に住むことの危険性...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252230.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/03/cc9d515d4a8ff2c7cab89e9adc993624/t/768/432/d/01-gettyimages-2292479798.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35252240.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-03T11:08:00+09:00</dc:date>
+        <title>コロッセオ周辺の治安が悪化、ローマ市「レッドゾーン」指定で防犯態勢強化</title>
+        <link>https://www.cnn.co.jp/travel/35252240.html?ref=rss</link>
+        <description>イタリア・ローマの世界遺産コロッセオの周辺で治安が悪化している事態を受け、当局が一帯を「レッドゾーン」に指定して防犯対策強化に乗り出した。
+
+7月には50人ほどの若者グループが花火を撃ち込むなどして警官を負傷させる事件が発生。当局は、コロッセオ周辺でこうした犯罪が増えているとして警戒を強めていた。
+
+コロッセオ周辺はレッドゾーン指定に基づき警官や兵士の配備を増やすとともに、住民や観光客の安全を守る目的...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35252240.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/03/9370fd92e64a2644e91843177cd4f918/t/768/510/d/gettyimages-2239346879.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35252233.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-03T10:24:00+09:00</dc:date>
+        <title>アリアナ・グランデ、千秋楽でファンに涙の別れ　公の場での活動休止へ</title>
+        <link>https://www.cnn.co.jp/showbiz/35252233.html?ref=rss</link>
+        <description>米歌手アリアナ・グランデさん（33）が、表舞台から離れるにあたり、ファンに感極まった様子で別れを告げた。
+
+映画「ウィキッド」の主演も務めたグランデさんは1日、英ロンドンで「エターナル・サンシャイン」ツアーの千秋楽を迎え、満員の観客に向けて「この経験をいつまでも大切にする」と語りかけた。
+
+「本当にありがとうと伝えたかった」。グランデさんが涙ながらにそう話すと、大きな拍手と歓声がわき起こった。
+
+6月に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35252233.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/03/3c5da5c10392557ccc6b78c1b0161b24/t/768/548/d/gettyimages-2255393438-20260806201512816.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252216.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-03T09:42:00+09:00</dc:date>
+        <title>米建国250年記念の「トランプ硬貨」、発売から数時間で在庫切れ</title>
+        <link>https://www.cnn.co.jp/usa/35252216.html?ref=rss</link>
+        <description>米造幣局が2日正午に売り出したドナルド・トランプ大統領の肖像画入り1ドル硬貨が、わずか数時間で在庫切れとなった。
+
+新しい1ドル硬貨は片面にトランプ大統領の肖像画と「IN GOD WE TRUST（我々は神を信じる」「LIBERTY（自由）」の文字が刻まれ、もう片面には大統領の紋章と、建国250年を記念する「250」の文字が入っている。
+
+造幣局によると、価格は25枚セットが61ドル（約9700円）、100枚のセットが154.50ドル。
+
+2日午後...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252216.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/03/edf092cbf251900c72521fa4db4861d4/t/768/512/d/usa-trump-coin.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
