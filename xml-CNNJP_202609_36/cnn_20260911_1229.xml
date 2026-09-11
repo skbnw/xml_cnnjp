@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-09-11T19:27:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252553.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252549.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35252545.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252540.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35252538.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252502.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252527.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252513.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252512.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252501.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252498.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35252492.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252494.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252491.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252488.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252482.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35252483.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252481.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252475.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35252472.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252474.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252471.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252459.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252456.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252447.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252445.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35252443.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252444.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35252442.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252435.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252553.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-11T19:27:00+09:00</dc:date>
+        <title>木から吊された黒人女性の死、殺人事件として捜査　米南部の警察が公表</title>
+        <link>https://www.cnn.co.jp/usa/35252553.html?ref=rss</link>
+        <description> 米南部ミシシッピ州ジャクソンの廃屋の外で黒人女性（29）が木から吊（つる）された状態で死亡しているのが見つかった事件で、地元警察トップはこのほど、殺人事件として捜査を進めていることを明らかにした。　
+
+遺体で見つかったのはタシア・フォーチュンさん。地元警察トップは8日、市議会で「ジャクソン警察は初日から、この事件を殺人事件として捜査してきた。検視当局から異なる報告を受けるまで、その方針は変わらない...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252553.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/11/9f37fe1ffc34f7b7acb84ec185456a19/t/768/499/d/ap26222640940677.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252549.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-11T18:08:00+09:00</dc:date>
+        <title>太陽に最も近い水星、想定上回る割合で収縮か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35252549.html?ref=rss</link>
+        <description>太陽に最も近い惑星、水星の表面を覆う特徴的な「しわ」は、かつてはもっと大きな惑星だったものが収縮したことを示唆している。そしてその収縮率は、科学者たちの従来の想定をはるかに超えている可能性がある。
+
+米航空宇宙局（NASA）によると、太陽系で最小の惑星である水星は、平均して太陽から約5800万キロメートルの距離にあり、88日で太陽の周りを一周する。
+
+この岩石惑星は、約45億年前にガスと塵（ちり）の渦から形成...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252549.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/11/7a056c5ad3e7cefc47ffd7f4ff52c46a/t/768/542/d/c-pia13508.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35252545.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-11T15:25:00+09:00</dc:date>
+        <title>【分析】米同時多発テロから25年――9・11映像を初めて見るSNS世代、薄れる陰謀論との境界</title>
+        <link>https://www.cnn.co.jp/business/35252545.html?ref=rss</link>
+        <description>あれから25年。2001年9月11日のことを覚えている世代の人々は、超高層ビルに旅客機が突っ込んで崩壊する映像を改めて見返しながら、あの惨状を振り返っている。使っているのはほとんどが、当時存在していなかった端末やサービスだ。
+
+だがそれ以上に印象的な現象として、それよりも若い世代が初めてあの映像を目にしている。
+
+元ニューヨーク市長のマイケル・ブルームバーグ氏は、「1億人以上の米国人は、若すぎてあの日を覚え...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35252545.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/11/3e14e02829119d6f20a4a207015b6678/t/768/512/d/ap26253068327360__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252540.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-11T13:13:00+09:00</dc:date>
+        <title>熱すぎる飲み物の飲用でがんリスク3倍の可能性　英国で大規模研究</title>
+        <link>https://www.cnn.co.jp/fringe/35252540.html?ref=rss</link>
+        <description>約100万人を対象とした研究で、非常に熱いコーヒーや紅茶を飲むと食道がんのリスクが著しく高まる可能性を示唆する新たな証拠が明らかになった。
+
+当該の研究は英国で実施され、8日に国際がんジャーナルに掲載された。それによると、これらの飲み物を温かい状態ではなく非常に熱い状態で飲むと、食道がんのリスクが3倍になるという。
+
+この研究結果は、世界で最も一般的な食道がんである食道扁平上皮がん（SCC）に特に当てはま...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252540.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/11/8c891f6c04f46f5c405034212cc984b1/t/768/499/d/gettyimages-2208757165.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35252538.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-11T12:30:00+09:00</dc:date>
+        <title>「謎の港町」を描いたローマ時代最大の壁面モザイク、14年の修復を経てお披露目</title>
+        <link>https://www.cnn.co.jp/style/arts/35252538.html?ref=rss</link>
+        <description>イタリアの首都ローマはこのほど、これまで発見された中で最大規模となるローマ時代の壁面モザイクと、2000年前の壁に描かれた色鮮やかなフレスコ画を初めて公開した。14年間にわたる大規模修復プロジェクトの集大成だ。
+
+「大モザイク」と名付けられた高さ10メートル、長さ16メートルの作品は、オッピオの丘の地下に位置している。この丘には、西暦64年～68年の時期に皇帝ネロが有名な「黄金の宮殿」を建設した。
+
+考古学者の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35252538.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/11/233575f1928bc0e9f8829dbbed19ea19/t/768/432/d/2026-09-08t102904z-1187962459-rc2xena0tkjd-rtrmadp-3-italy-art.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252502.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-11T11:30:00+09:00</dc:date>
+        <title>巨大恐竜の卵の化石、高緯度の環境で発見　どうやって温めたのか</title>
+        <link>https://www.cnn.co.jp/fringe/35252502.html?ref=rss</link>
+        <description>世界最大級の恐竜、ティタノサウルス類の卵の化石が、南米アルゼンチンの最南端付近で見つかった。高緯度の環境でも卵を産み、温める方法を編み出していたことが、新たな研究で明らかになった。
+
+ほかの恐竜と同じく、ティタノサウルス類の卵や卵殻の化石は、ほとんどがもっと赤道に近い低緯度の地域で見つかっている。こうした地域は気温が温暖で、卵をかえすのも難しくなかったとみられる。
+
+ティタノサウルス類は草食で長い...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252502.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/52ada0a19c4c2c54416a798d81d3207a/t/768/432/d/kostensuchus-campamento-marzo-2020-2-photo-by-fernando-novas.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252527.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-11T10:47:00+09:00</dc:date>
+        <title>米、サウジの対フーシ作戦を後押し　情報と標的設定の支援拡大と関係者　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35252527.html?ref=rss</link>
+        <description>現在100人を超える米国の軍事顧問がサウジアラビアに駐留し、情報提供や標的設定の支援を行っていることが分かった。複数の関係者が明らかにした。サウジはイエメンの親イラン武装組織フーシに対する軍事作戦を展開。アラビア半島で戦闘が激化し、フーシ派との全面戦争に突入する事態が危惧されている。この紛争により、中東からの主要な海上輸送ルートの一つが脅かされる可能性も出ている。
+
+関係者の一人である米当局者による...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252527.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/11/788fcc3d4221705d28b3666e322a902a/t/768/431/d/iran-crisis-yemen-saudi.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252513.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-11T09:05:00+09:00</dc:date>
+        <title>バンス氏、中間選挙の「全国戦線化」呼びかけ　民主党を「過激」と攻撃　非公開音声入手</title>
+        <link>https://www.cnn.co.jp/usa/35252513.html?ref=rss</link>
+        <description>バンス米副大統領は10日、激戦州の共和党関係者に対し、トランプ政権の実績をアピールするとともに民主党を過激だと位置づけ、中間選挙を「全国規模の戦い」にするよう呼びかけた。CNNが入手した、ダラスでの非公開発言の音声記録で明らかになった。
+
+バンス氏は出席者に対し、「この選挙を全国規模のものにしなければならない」と述べ、共和党は「民主党が行っているあらゆる常軌を逸した行動について訴える必要がある」と付け...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252513.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/11/0b84045b465cfa587d37534e3e5d937c/t/768/512/d/ap26253179226404.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252512.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-11T08:36:00+09:00</dc:date>
+        <title>トランプ氏、5000ドル配当案に「議会承認は不要」　歳出承認の権限は議会に</title>
+        <link>https://www.cnn.co.jp/usa/35252512.html?ref=rss</link>
+        <description>トランプ米大統領は10日、共和党が議会で多数派を維持した場合に米国の成人全員に支給すると公約している5000ドル（約76万円）の配当について、議会の承認は必要ないとの考えを示した。
+
+トランプ氏はCBSとのインタビューで、給付に議会の承認が必要かと問われ、「必要ないと考えている」と答えた。「必要なら議会も承認すると思う。だが、必要ないと考えている」
+
+連邦政府の歳出権限は議会にある。トランプ氏が国民への配当を...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252501.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T18:25:00+09:00</dc:date>
+        <title>睡眠中にさらされる光、少量でも心臓病リスク上昇か　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35252501.html?ref=rss</link>
+        <description>睡眠中に少量の光にさらされるだけでも、心臓の筋肉の形や機能が変化し、将来的な心臓病のリスクが高まる可能性がある――。新たな研究でそんな知見が明らかになった。
+
+研究の上級著者を務めた米チューレーン大学肥満研究センターのルー・チー所長は、「光害は心血管疾患の新たな危険因子として浮上している」と指摘する。
+
+チー氏は声明で、「我々の調査結果と他の研究から得られた証拠を総合すると、臨床医や政策担当者は心臓...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252501.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/c1606f20a643e85c3df27ed3f6dbf9cd/t/768/432/d/gettyimages-1479315977.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252498.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T17:41:00+09:00</dc:date>
+        <title>学習到達度調査発表、アジア勢のリード続く　AI時代に必要な能力の低下に警鐘も</title>
+        <link>https://www.cnn.co.jp/world/35252498.html?ref=rss</link>
+        <description>経済協力開発機構（OECD）が今週発表した2025年の「学習到達度調査（PISA）」によると、アジアの高校生が欧米の同世代を引き離している。一方で、15歳の生徒の読解力、科学、数学の成績は世界全体で引き続き低下するという懸念すべき傾向もみられた。
+
+成績上位には、中国の北京と上海、江蘇省と浙江省のほか、シンガポールが入った。日本と韓国も3科目すべてでトップ10に入り、アジア勢が上位10位の大半を占めた。中国の特別行...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252498.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/bcf192bca9462a79a00e931f4629d4e5/t/768/533/d/gettyimages-2280273631.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35252492.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T16:25:00+09:00</dc:date>
+        <title>「iPhone Duo」の使用感、製品史上最大の変更点を検証する</title>
+        <link>https://www.cnn.co.jp/tech/35252492.html?ref=rss</link>
+        <description>米アップルの主力スマートフォン「iPhone（アイフォーン）」は、その20年近い歴史の中で最大の変革を迎えようとしている。半分に折りたためるディスプレーがそれだ。
+
+アップルは9日、同社初の折りたたみ式スマートフォン「iPhone Duo」を発表し、同社の最重要製品に大幅な刷新を施したことを示した。記者がこの端末を短時間試用した限りでは、アップルは明らかに折りたたみ式スマートフォンに関して従来の端末と異なる方法での...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35252492.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/17e179804649cff2e41143a73725a784/t/768/512/d/rc2vfnamyo7v-rtrmadp-3-apple-event.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252494.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T15:18:00+09:00</dc:date>
+        <title>トランプ氏が掲げた成人全員への5000ドル配当　財源は関税収入とバンス副大統領</title>
+        <link>https://www.cnn.co.jp/usa/35252494.html?ref=rss</link>
+        <description>トランプ米大統領が9日、共和党の中間選挙に向けた党大会で共和党が下院と上院の多数派を維持した場合、米国民の成人全員に5000ドル（約76万円）を支払うとした公約をめぐり、バンス副大統領は関税収入を財源とする可能性を示唆した。
+
+バンス氏は党大会でFOXニュースのインタビューに応じ、「まず、大統領が話しているのは基本的に米国の勤労者に対する配当だ。米大統領が実際に外国企業だけでなく、私が生きてきたほぼすべて...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252491.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T14:33:00+09:00</dc:date>
+        <title>トランプ氏、党大会で異例の公約　共和党が中間選挙で「勝てば国民全員に5000ドル」</title>
+        <link>https://www.cnn.co.jp/usa/35252491.html?ref=rss</link>
+        <description>トランプ米大統領は9日、共和党が南部テキサス州ダラスで開いた党大会で演説し、共和党が下院と上院の多数派を維持した場合、米国の成人全員に5000ドル（約76万円）を支払うと約束した。実際に実現しうるのであれば、共和党の権力を維持するために票を事実上買おうとすることに等しい、異例の公約だ。
+
+トランプ氏は「これが私の約束だ。共和党が下院と上院の両方で勝利すれば、米国民の成人全員に5000ドルの配当を支給する」と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252491.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/c4704dabc615fcba11b9dc4e51a178fa/t/768/512/d/260908-tr-politics-gopmidtermsconvention-09092026-tr1-6433.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252488.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T14:03:00+09:00</dc:date>
+        <title>ロシアのドローン、モルドバ領空に侵入　ゼレンスキー氏の出発遅れる</title>
+        <link>https://www.cnn.co.jp/world/35252488.html?ref=rss</link>
+        <description>ロシアのドローン（無人機）が8日、モルドバの領空に侵入し、ウクライナのゼレンスキー大統領を乗せたノルウェー行き航空機の出発が遅れていたことが分かった。モルドバ当局者が明らかにした。
+
+モルドバはウクライナと国境を接する東欧の国。複数の当局者によると、ジェット推進式ドローン（無人機）の侵入を検知したことから、領空を閉鎖した。
+
+ゼレンスキー氏の搭乗機はモルドバの首都にあるキシナウ国際空港で待機していた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252488.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/deb068e2e26192b23a568322ca1c4885/t/768/432/d/89193610-73466058-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252482.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T12:28:00+09:00</dc:date>
+        <title>ホルムズ海峡を「トランプ海峡」に、トランプ氏が共和党大会で改称示唆</title>
+        <link>https://www.cnn.co.jp/usa/35252482.html?ref=rss</link>
+        <description>トランプ米大統領は9日、中間選挙に向けた共和党大会で演説し、オンタリオ湖やニューメキシコ州、ホルムズ海峡といった地名を自身の名前や米国にちなんだ名称へ変更する考えを改めて言明した。
+
+トランプ氏は、ホルムズ海峡を支配している見返りとして「何かを得るべきだ」と述べ、「トランプ海峡と呼ぶことにする。これにはイランの指導部もさぞ喜ぶだろう」と主張した。
+
+オンタリオ湖については、「これからはアメリカ湖と呼...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35252483.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T12:24:00+09:00</dc:date>
+        <title>写真特集：子どもたちに別れを告げる父タツノオトシゴ、26年海洋写真家コンテストの大賞に</title>
+        <link>https://www.cnn.co.jp/photo/35252483.html?ref=rss</link>
+        <description>タツノオトシゴの成体が、生後間もない小さな2匹と向き合う瞬間をとらえた写真が9日、海洋写真コンテスト「オーシャン・フォトグラファー・オブ・ザ・イヤー2026」の最優秀作品に選ばれた&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35252483.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/f30560828f5bf6c22acc42eb8cca2a88/t/768/512/d/julien-anton__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252481.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T12:09:00+09:00</dc:date>
+        <title>子どもたちに別れを告げる父タツノオトシゴ、海洋写真コンテストで大賞を受賞</title>
+        <link>https://www.cnn.co.jp/fringe/35252481.html?ref=rss</link>
+        <description>タツノオトシゴの成体が、生後間もない小さな2匹と向き合う瞬間をとらえた写真が9日、海洋写真コンテスト「オーシャン・フォトグラファー・オブ・ザ・イヤー2026」の最優秀作品に選ばれた。
+
+舞台はフランス領ポリネシア。実際に親子だったのかどうかは分からない。しかしこの写真は、生まれたばかりのタツノオトシゴの赤ちゃんが、広い世界へと旅立つ前に、父親に別れを告げている姿のように見える。
+
+部門別の受賞作には、シ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252481.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/f30560828f5bf6c22acc42eb8cca2a88/t/768/512/d/julien-anton__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252475.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T11:19:00+09:00</dc:date>
+        <title>アマゾン貨物機オーバーラン、操縦士が着陸前のスピードに懸念　コックピットの音声記録で状況判明</title>
+        <link>https://www.cnn.co.jp/usa/35252475.html?ref=rss</link>
+        <description>米マイアミ国際空港で6日にネット通販大手アマゾンのボーイング767型機が滑走路をオーバーランし、車両2台に衝突して5人が死亡した事故で、操縦士が着陸前にスピードが早すぎるとの懸念を示していたことが、コックピットボイスレコーダーから新たに判明した情報で明らかになった。
+
+米国家運輸安全委員会（NTSB）は9日夕、「調査の最新情報」として、アマゾン貨物機のコックピット内でのやり取りを公表した。
+
+着陸許可を受けて...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252475.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/d9771d474835a7dff7d82c8a337bec80/t/768/513/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXR1MjVudjMwMDAyM2I2cjZ2cThoamV1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdHR6c2pkcTAwMXoyOG53NHdqMjN3djg_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35252472.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T10:51:00+09:00</dc:date>
+        <title>「AIは我々の命を賭けの対象にしている」　安全上の懸念を理由に研究者がアンソロピック退社</title>
+        <link>https://www.cnn.co.jp/tech/35252472.html?ref=rss</link>
+        <description>「AI（人工知能）を開発している人々は、AIがこの10年の終わりまでに我々全員を殺すかもしれないと本気で信じている」
+
+米AI開発企業アンソロピックに勤務していた研究者のジェイコブ・コクソン氏（27）は8日、X（旧ツイッター）にそう投稿して退社を宣言した。
+
+「AIは間もなく、どんなものでもハッキングでき、あらゆる分野を一夜にして変革させ、真の力とリソースを獲得し得る、人間を超越したシステムになる」。コクソン氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35252472.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/c29074d8932e66c2183fec1584168d1d/t/768/511/d/gettyimages-2262786453.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252474.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T10:45:00+09:00</dc:date>
+        <title>酩酊した状態で夫から性的虐待受けた女性死亡　オーストリアでは仏の性暴力事件になぞらえ「ペリコ2.0」と報道</title>
+        <link>https://www.cnn.co.jp/world/35252474.html?ref=rss</link>
+        <description>オーストリアの検察によると、「極度に酩酊し、抵抗できない状態」で夫から性的虐待を受けたときに負ったとみられるけがが原因で女性（40）が死亡した。
+
+当局は、別の男らがこの女性に性的虐待を行っていた可能性についても捜査している。金銭と引き換えだったこともあり得るという。女性の氏名は公表されていない。
+
+オーストリアのメディアはこの事件をフランス人女性のジゼル・ペリコさんが被害にあった事件になぞらえ、「...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252474.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/29a9d0f8e56cf2ea7652db6b8735bdd0/t/768/504/d/c-gettyimages-1553116293.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252471.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T10:40:00+09:00</dc:date>
+        <title>イランの疑惑の核施設、「建設工事が急増中」とアナリスト　米国も地下攻撃を検討中か</title>
+        <link>https://www.cnn.co.jp/usa/35252471.html?ref=rss</link>
+        <description>花崗（かこう）岩の下に埋まったイランの核施設と疑われる場所で、米国との戦争が勃発した今年、建設工事が活発化していることが分かった。6年分の衛星画像を分析したアナリストグループが明らかにした。
+
+イランの首都テヘランの南約225キロに位置するナタンツ核施設近郊のこの場所は、「ピックアックス山」と呼ばれる。イランは将来の核開発計画を遂行するための拠点としてここを利用する可能性が高く、情報機関の間では常に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252471.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/dab440b99727fd7ec0917bb9f6b5e744/t/768/432/d/c-csis-poni-pickaxemountain-aug2026.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252459.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T09:00:00+09:00</dc:date>
+        <title>英強硬右派「リフォームUK」、選挙資金を違法に調達か　警察が刑事捜査開始</title>
+        <link>https://www.cnn.co.jp/world/35252459.html?ref=rss</link>
+        <description>英警察は9日、強硬右派政党「リフォームUK」が外国の資金提供者を通じて世論調査の費用を支払い、選挙資金法に違反した疑いがあるとの潜入取材報道を受け、刑事捜査を開始した。
+
+捜査開始の発表は、英放送局「チャンネル4」による潜入取材の放送を受けたものだ。番組では、記者が同党の元政策責任者ジェームズ・オア氏と上級補佐官ダン・ジュークス氏に接触し、同党が依頼した3件の世論調査について、米企業が費用を負担するよ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252459.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/285c5f7dca5992122f9e05f6d500945b/t/768/512/d/ap26248586170672__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252456.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-10T08:30:00+09:00</dc:date>
+        <title>トランプ氏、イラン戦争は中間選挙後に終結と予想　ガソリン価格も下落と発言</title>
+        <link>https://www.cnn.co.jp/usa/35252456.html?ref=rss</link>
+        <description>トランプ米大統領は9日、イランが米中間選挙後に戦争継続を断念するとの見方を示した。一方、米国のガソリン価格については、それまでに下落する可能性は低いと認めた。
+
+テキサス州ダラスで開かれる共和党の党大会に向かう途中、記者団の取材に応じたトランプ氏は、イランが自身に政治的な打撃を与える目的で、11月まで戦争を続けるだろうと主張した。
+
+ガソリン価格の下落について、トランプ氏は「中間選挙より少し後までかか...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252456.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/10/9f5487fd2f0195aeb9d6f99fb26e859c/t/768/512/d/c-gettyimages-2293826309.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252447.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-09T20:09:00+09:00</dc:date>
+        <title>独極右政党AfD、政策綱領の中身は　不法移民の大量送還や難民の分離教育掲げる</title>
+        <link>https://www.cnn.co.jp/world/35252447.html?ref=rss</link>
+        <description>ドイツ東部ザクセンアンハルト州の州議会選で、反移民、親ロシアの極右政党「ドイツのための選択肢（AfD）」が44％の票を獲得し、第一党に躍り出た。ただし単独過半数には3議席足りず、今後連立の相手を見つけるか、さもなければ少数与党としての統治をめざすことになる。
+
+だがいずれにしても、AfDの公約の多くは実現せずに終わるかもしれない。ドイツの主要政党は何年も前から、極右への「防火壁」と称する体制を守り、AfDと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252447.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/09/f3c5ca50d30c800ee960565dc4177544/t/768/508/d/germany-election-saxony-anhalt-afd.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252445.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-09T18:21:00+09:00</dc:date>
+        <title>「世界最悪の猫」の里親決まる、175件超す申し込み　20年米</title>
+        <link>https://www.cnn.co.jp/fringe/35252445.html?ref=rss</link>
+        <description>米ノースカロライナ州で2020年、動物保護施設が「世界最悪の猫」と紹介したメス猫に里親の志願者が殺到する出来事があった。猫は最終的に、温かい家庭へ引き取られていった。
+
+同州ミッチェル郡の動物保護施設は、当該の猫「パーディタ」の里親募集広告をフェイスブックに掲載する際、「世界最悪の猫」として紹介。「病気なのかと思っていたら、ただの嫌なヤツだった」と形容していた。
+
+同施設は過去にもこうした包み隠さない...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252445.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/09/c2fa63cba46eca852e616f543e50125d/t/768/432/d/image__15_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35252443.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-09T17:45:00+09:00</dc:date>
+        <title>米人気風刺アニメ「サウスパーク」、「サウスアメリカ」に変更　トランプ氏の一連の改称に皮肉</title>
+        <link>https://www.cnn.co.jp/showbiz/35252443.html?ref=rss</link>
+        <description>痛烈な社会風刺で知られる米人気アニメ番組「サウスパーク」が新シーズンで名称を変更する。トランプ米大統領が湾や湖、さらには最近、州までも「アメリカ」にちなんで改称しようとしていることを受け、ホワイトハウスを皮肉った形だ。
+
+共同制作者のトレイ・パーカー氏とマット・ストーン氏は8日、「アップルとグーグルの勇気と愛国心に触発され、サウスパークを『サウスアメリカ』に改称する」と宣言した。
+
+今回の変更の前日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35252443.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/09/d633ad0f49777c28bdd8a801f2205c8e/t/768/432/d/f-20260909061607051.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252444.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-09T17:35:00+09:00</dc:date>
+        <title>トランプ氏、ナタリー・ハープ氏ら補佐官3人に690万円を贈る　「休暇シーズンの現金贈与」</title>
+        <link>https://www.cnn.co.jp/usa/35252444.html?ref=rss</link>
+        <description>トランプ米大統領がナタリー・ハープ氏（35）や他のホワイトハウス補佐官2人に対し、それぞれ現金4万5000ドル（約690万円）を贈っていたことが、財務開示書類から明らかになった。
+
+ハープ氏とトランプ氏の関係の近さには、このところ厳しい視線が注がれている。ハープ氏と他の2人の女性補佐官は、ホワイトハウスが公表した行政機関の年次開示書類にこの金額を記載し、「休暇シーズンの現金贈与」と報告した。
+
+ホワイトハウス...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252444.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/09/c6b06f78a50d15998179e1b8b477aead/t/768/511/d/gettyimages-2293009540.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35252442.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-09T16:50:00+09:00</dc:date>
+        <title>猛暑にあえぐフランス、名産のチーズも危機に直面</title>
+        <link>https://www.cnn.co.jp/travel/35252442.html?ref=rss</link>
+        <description>フランスを襲う記録的な熱波で、屋外放牧の乳牛が暑さ関連のストレスにさらされている。
+
+長引く干ばつで牧草地は青々とした生気を失い、黄色く乾き切った野原と化した。
+
+厳しい規制の下でチーズ作りに取り組む酪農家も、不足する牧草を補うために追加飼料の購入を余儀なくされている。
+
+ローラン・ルールさんは35年前から酪農とチーズ生産を営んできた。「かつては15～20年に一度、牧草がうまく育たないこともあった」と話す...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35252442.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/08/b91df775811db90cdcecb6fde0d08b8d/t/768/432/d/photo-fourme-entiere-salers-avec-morceaux-coupes-a-droite-2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252435.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-09T15:54:00+09:00</dc:date>
+        <title>英国各地の空港で大規模な混乱、1300便が欠航　航空管制システムに問題</title>
+        <link>https://www.cnn.co.jp/world/35252435.html?ref=rss</link>
+        <description>航空機追跡サイト「フライトレーダー24」によると、英国各地の空港で8日、約1300便が欠航した。航空管制システムが数時間にわたって停止し、広範囲で遅延や欠航が発生したためだ。欧州最大規模のハブ空港であるヒースロー空港を含め、9日も大規模な混乱が続くとみられている。
+
+ロンドン・ヒースロー、ロンドン・ガトウィック、ロンドン・スタンステッドの各空港の出発案内板には9日、数十便の遅延や欠航が表示された。マンチェ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252435.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/09/bd767712bb81830127e245b01ad8eb01/t/768/512/d/2026-09-08t172806z-1885834013-rc25fna1vt2h-rtrmadp-3-britain-airport.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
