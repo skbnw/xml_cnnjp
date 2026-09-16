@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-09-16T19:06:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252702.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252699.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252682.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252696.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252681.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252676.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35252674.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252669.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252670.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252671.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252661.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252660.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252649.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252642.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252640.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252635.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252629.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252630.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35252626.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252624.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35252623.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252622.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252615.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252614.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252609.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252607.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252597.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252595.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252590.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252587.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35252702.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T19:06:00+09:00</dc:date>
+        <title>フィジー、HIV感染拡大で国家非常事態宣言　成人60人に1人が感染</title>
+        <link>https://www.cnn.co.jp/world/35252702.html?ref=rss</link>
+        <description>南太平洋の小国フィジーがエイズウイルス（HIV）の感染拡大に伴い国家非常事態を宣言した。覚醒剤メタンフェタミンのまん延も感染拡大の一因となっている。
+
+人口100万人に満たないフィジーでは現在、成人60人に1人がHIVに感染していると推定されている。完治はしないものの治療可能なこのウイルスの感染率は、世界的に低下しているが、フィジーはこの傾向に逆行している。
+
+フィジーでは、2025年1月に初めてHIVの流行を宣言し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252702.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/10d09b7c8eba8abd8ff98ac36b331cd9/t/768/511/d/gettyimages-2274064955.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252699.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T18:55:00+09:00</dc:date>
+        <title>「世界で最も深い沈没船」、第2次大戦の米軍艦を発見　水深6900メートル　22年</title>
+        <link>https://www.cnn.co.jp/fringe/35252699.html?ref=rss</link>
+        <description>太平洋の水深約6900メートルの地点で2022年、第2次世界大戦で沈没した米軍の護衛駆逐艦「サミュエル・B・ロバーツ」（通称サミーB）が発見された。それまでの記録を塗り替え、世界で最も深い位置で発見、調査された沈没船になった。
+
+探検家のビクター・ベスコボ氏が艦体を発見した。同氏は以前、世界最深部への潜水探査を成し遂げたことがある。
+
+艦体が沈んでいたのはフィリピン海の水深6895メートルの地点。これと比較すると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252699.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/7ab9702ad739cdada06fe7803c6b76dd/t/768/432/d/image__16_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252682.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T17:42:00+09:00</dc:date>
+        <title>米軍に対するイランの攻撃能力、ロシアの衛星の支援で向上か　CNNが調査</title>
+        <link>https://www.cnn.co.jp/world/35252682.html?ref=rss</link>
+        <description>現在世界中で情報収集を行っているロシアのエリート偵察衛星の一つ、「コスモス2573」が、米国と戦うイランに大きな優位性をもたらしている可能性が高いことが明らかになった。
+
+CNNが入手した情報によると、これらの衛星は米軍施設の外観だけでなく、内部構造までも捉えているとみられる。
+
+米当局者2人を含む情報筋によれば、そうした情報の一部がイランに送信されている証拠があるという。また少なくともいくつかの精密攻撃...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252682.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/928b2be6221e22bc6361d95d92350425/t/768/432/d/tq-rus-sats-thumb03.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252696.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T17:03:00+09:00</dc:date>
+        <title>サウジ、イスラム教の聖地メッカ周辺でフーシのドローンを撃墜</title>
+        <link>https://www.cnn.co.jp/world/35252696.html?ref=rss</link>
+        <description>サウジアラビアは15日、イスラム教の聖地であるメッカの郊外で、イエメンの親イラン武装組織フーシのドローン（無人機）1機を撃墜したと明らかにした。これを受け、地域諸国からはただちにフーシに対する非難の声が上がった。
+
+サウジが主導する連合軍の報道官によると、フーシがメッカを標的にしたのは、2017年に弾道ミサイル攻撃が迎撃されて以来、約10年ぶり。
+
+フーシは16日未明、メッカを脅かしたとの見方をただちに否定。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252696.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/ce5704a82d27711e2c6fddc0735ff4e6/t/768/512/d/2026-05-29t150053z-1696997719-rc2wila32bnf-rtrmadp-3-saudi-hajj.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252681.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T14:05:00+09:00</dc:date>
+        <title>【分析】ディーゼル価格高騰で深まるトランプ氏の苦境、なぜロシアの思うつぼなのか</title>
+        <link>https://www.cnn.co.jp/world/35252681.html?ref=rss</link>
+        <description>ディーゼル燃料（軽油）価格が記録的な高値を付け、中間選挙まで2カ月を切るなか、トランプ米大統領は、ウクライナ戦争終結に向けた不安定で実を結ばない取り組みへと回帰している。それは被害者を責めるという手法だ。そしてそのタイミングはウクライナにとって最悪である一方、ロシアにとってはまたとない好機となっている。
+
+「（ウクライナ大統領の）ゼレンスキー氏がやらなければならないことは一つだ。ロシアのディーゼル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252681.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/9ec66f76c64afb11e02b7dc9593ea4a8/t/768/512/d/gettyimages-2294610790.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252676.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T13:03:00+09:00</dc:date>
+        <title>米ロサンゼルス郊外でヘリコプター墜落、3人死亡</title>
+        <link>https://www.cnn.co.jp/usa/35252676.html?ref=rss</link>
+        <description>米ロサンゼルス郊外で15日夜、ヘリコプター1機が商業ビル2棟の間に墜落し、少なくとも3人が死亡した。当局が発表した。
+
+墜落現場はロサンゼルス中心部から約40キロ離れたチャッツワースで、付近では緊急要員がバスの衝突事故に対応していた。
+
+ロサンゼルス消防局は15日夜に声明を出し、現場で3人の死亡を確認したと明らかにした。また1人が地元の病院に搬送されたが、容体は不明だという。
+
+墜落原因は分かっておらず、ヘリコ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252676.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/40ef4f24078f6a6b88da3347767f38f4/t/768/432/d/still-22987944-1793970-786-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35252674.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T11:49:00+09:00</dc:date>
+        <title>「パレスチナに自由を」発言の歌手がエド・シーランの米ツアー降板　会場オーナーが圧力</title>
+        <link>https://www.cnn.co.jp/showbiz/35252674.html?ref=rss</link>
+        <description>英歌手エド・シーランのワールドツアーが危機的な状況に陥っている。発端は前座を務めたラッパーのマックルモアが、米ニュージャージー州の公演でパレスチナ支持を訴えたことだった。この発言を理由にマックルモアが降板させられたことに抗議して、残る出演者も次々に出演辞退を表明している。
+
+米NFLチーム、ニューイングランド・ペイトリオッツのオーナーで富豪のロバート・クラフト氏は14日、米マサチューセッツ州のスタジア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35252674.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/29b812a1cdbe704f133abd4dd7a39481/t/768/511/d/gettyimages-2292279246-cropped.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252669.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T11:46:00+09:00</dc:date>
+        <title>交換留学の女子学生殺害、メキシコとスペインに衝撃　これまでに分かっていること</title>
+        <link>https://www.cnn.co.jp/world/35252669.html?ref=rss</link>
+        <description>スペイン人の女子学生が交換留学先のメキシコで殺害された事件を巡り、当局は女性が性別に関連する理由で殺害される「フェミニサイド」の可能性もあるとして捜査を進めている。事件を受け、両国の学術界には衝撃が走っている。
+
+当局によると、クラウディア・タコロンテ・アギレラさん（21）は12日、メキシコ市近郊のモレロス州クアウトラ市で武装強盗に遭い殺害された。
+
+モレロス州検察は、連邦機関と連携して捜査を進めてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252669.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/ec284e770b3619781e8be3f73d3ea542/t/768/467/d/still-22986207-29206-500792393028-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252670.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T10:55:00+09:00</dc:date>
+        <title>米ケネディ・センターが閉鎖　トランプ氏、施設名の改称に反対した民主党理事と激しい言い争い</title>
+        <link>https://www.cnn.co.jp/usa/35252670.html?ref=rss</link>
+        <description>米ワシントンの芸術施設「ケネディ・センター」の理事会は15日、閉鎖することを決議した。事情に詳しい3人の関係者によると、電話で参加したトランプ大統領は、理事のジョイス・ベイティ下院議員（民主党）を激しく非難し、会合は緊迫した。
+
+「めちゃくちゃだった」。トランプ氏とベイティ氏のやり取りを知る関係者の1人はそう語った。ベイティ氏は建物にトランプ氏の名前を加えることに反対し提訴している。
+
+別の関係者によ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252670.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/1f358452c771a170ae65b9c0b98317c3/t/768/512/d/ap26249779418530.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252671.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T10:42:00+09:00</dc:date>
+        <title>死亡した米俳優ヘイデン・パネッティーアさん、売人から薬物入手か　偽造だった可能性も</title>
+        <link>https://www.cnn.co.jp/usa/35252671.html?ref=rss</link>
+        <description>米俳優ヘイデン・パネッティーアさん（享年36）の死を巡る捜査で、連邦当局は現在、パネッティーアさんが南カリフォルニアの売人から違法薬物を入手していなかったか調べを進めている。捜査状況に詳しい情報筋がCNNに明らかにした。偽造薬物だった可能性もあるという。
+
+パネッティーアさんは8月16日、通報を受けて駆けつけた救急隊員により、サウスカロライナ州グリーンビルのアパートで心停止状態で発見された。蘇生には至ら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252671.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/497e49cab1c0a8c6850ab413980c1ba6/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXUybGFvZHowMDNlMjhud2diMW9kNWtk-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdTJsYW9kejAwM3QyOG53YWxzNjZkYjQ_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252661.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T09:56:00+09:00</dc:date>
+        <title>グランドキャニオンで遺体発見、大規模土石流から数週間後</title>
+        <link>https://www.cnn.co.jp/usa/35252661.html?ref=rss</link>
+        <description>米グランドキャニオン国立公園内のコロラド川、クリスタルラピッド付近で14日、人間の遺体が見つかった。国立公園局が明らかにした。
+
+同局が報道向けの発表で説明したところによると、遺体は回収され、ココニノ郡検視局に送られた。検視局はCNNに対し、国立公園局と「緊密に連携している」と述べた。
+
+国立公園局によれば、遺体に関するその他の情報は入手できていない。
+
+遺体はクリスタルラピッド付近で発見された。ここはフ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252661.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/45f2d8055a2e59722da780db7d7bcd87/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXUzMGUyb2MwMDAwM2I2cmkyMnd6aG5t-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdTJ5bXJ1dzAwNHgyN3FxYzRnbzhlMnA_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252660.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T09:25:00+09:00</dc:date>
+        <title>100歳以上が初めて10万人を突破、世界有数の長寿国日本の現状は</title>
+        <link>https://www.cnn.co.jp/world/35252660.html?ref=rss</link>
+        <description>人口が減り続けている日本で、100歳以上の高齢者が初めて10万人を突破した。長寿で知られる同国にとっての新記録だった。
+
+100歳以上の高齢者は56年連続で増え続けている。厚生労働省の15日の発表によると、今年9月は前年比で約8000人増の10万7677人になった。
+
+男女別では女性が88％に当たる9万4298人を占めている。
+
+上野賢一郎厚労相は記者会見で、「多くの方が長く元気に活躍されていることを喜ばしく思う」と語った。
+
+世...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252660.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/ec78b90981ddbde4b456d4b8a69c4294/t/768/511/d/gettyimages-2238562063.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252649.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T08:55:00+09:00</dc:date>
+        <title>ポーランド、ウクライナ国境の警備を強化　ロシアの相次ぐ攻撃でNATO加盟国に懸念</title>
+        <link>https://www.cnn.co.jp/world/35252649.html?ref=rss</link>
+        <description>ポーランドのコシニャクカミシュ国防相は15日、国境検問所付近へのロシアの相次ぐドローン（無人機）攻撃で北大西洋条約機構（NATO）加盟国の懸念が高まったことを受け、ウクライナ国境の警備を強化していると発表した。
+
+コシニャクカミシュ氏はX（旧ツイッター）への投稿で「ここ数日の状況は、ロシアの行動で欧州全体の安全が脅かされていることを示している。政府の決定に従い、国境警備隊の使用するインフラの強化が進めら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252649.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/55cb114ef6a44ffa855cd3679b31e30a/t/768/511/d/ap26258301841710.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252642.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-15T18:12:00+09:00</dc:date>
+        <title>米軍、宇宙での兵器配備を初めて認める</title>
+        <link>https://www.cnn.co.jp/usa/35252642.html?ref=rss</link>
+        <description>米国は宇宙に兵器を配備しており、米軍を防衛するために使用する方針だ。マインク空軍長官が14日、明らかにした。軌道上にこうした能力があることを公に認めたのは初めて。宇宙空間で潜在的な脅威となる相手に意図的に知らせる狙い。
+
+「われわれは進化する脅威がどこに存在しようとも、その問題に対応できる態勢を確実に維持し続けている」とマインク氏は、メリーランド州で開かれた空軍・宇宙軍協会主催の年次会合で述べた。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252642.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/15/58cc9e5a2330738625dab8aa0954e83c/t/768/432/d/53548583-32103713-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252640.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-15T15:54:00+09:00</dc:date>
+        <title>ひとりで黙々とこなすリモートワーク、メンタルヘルスに悪影響の可能性　新研究</title>
+        <link>https://www.cnn.co.jp/fringe/35252640.html?ref=rss</link>
+        <description>1人で働く時間が長すぎると、メンタルヘルスに悪影響を及ぼしかねないことが新たな研究で示唆されている。企業は相次いで職場回帰を義務付けているが、重要なのは働く場所にかかわらず、1日の中に有意義な社会的交流を取り入れることだと専門家は指摘する。
+
+4月以降、マシュー・ジューレンさんは米オレゴン州ポートランド近郊の自宅から、週最大75時間リモートで働いている。その時間の大半はひとりだ。
+
+「これほどひとりで過...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252640.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/15/7912810ab86ae60b5a7e9745d4946db2/t/768/512/d/gettyimages-1369567908.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252635.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-15T15:38:00+09:00</dc:date>
+        <title>「クモ」そっくりの尾を持つヘビ、小刻みな動きで獲物おびき寄せる　X線で見た内部は？</title>
+        <link>https://www.cnn.co.jp/fringe/35252635.html?ref=rss</link>
+        <description>イラン西部ザグロス山脈の乾いた厳しい環境にすむ毒ヘビが、驚くべき生存戦略を見いだした。
+
+上空を旋回する鳥が、岩を登る太ったクモを見つけて急降下する。ところが、ごつごつの岩に見えたのはヘビのでこぼこした体表だった。鳥はそのヘビに素早く捕らえられ、餌食となる。
+
+「クモオクサリヘビ」は頭に角のような突起を持ち、尾の先にある「クモ」を小刻みに動かして鳥をおびき寄せる。
+
+1968年にイランで最初の標本が採取...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252635.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/15/e10542ca472f9faeccf687712929819b/t/768/547/d/spider-tailed-horned-viper-credit-to-omid-mozaffari.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252629.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-15T13:50:00+09:00</dc:date>
+        <title>米国防総省、イラン戦争で軍施設数百棟の損傷や弾薬備蓄の枯渇を公表　初の正式報告書</title>
+        <link>https://www.cnn.co.jp/usa/35252629.html?ref=rss</link>
+        <description>米国防総省の監察総監が14日、イラン戦争に関する特別報告書を公表した。米国が戦闘で失った装備や施設について、国防総省が初めて正式にまとめた報告となる。
+
+監察総監は米中央軍とのやり取りを引用し、戦争開始から数カ月間に「イランによる攻撃で、クウェート、バーレーン、カタール、アラブ首長国連邦（UAE）、サウジアラビア、イラク、オマーン、ヨルダンにある米軍基地の建物や構造物数百棟が損傷または破壊された」と述...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252629.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/15/5c252cedb8c4c740822c6bd425af4c45/t/768/432/d/9929527.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252630.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-15T13:42:00+09:00</dc:date>
+        <title>米最高裁、郵便投票を制限するトランプ氏の計画認めず　中間選挙控え政権に打撃</title>
+        <link>https://www.cnn.co.jp/usa/35252630.html?ref=rss</link>
+        <description>米連邦最高裁は14日、全米の有権者への郵便投票用紙の送付方法を変更するというトランプ大統領の物議を醸す計画について、認めない判断を示した。選挙当局者からは、中間選挙で実施されれば壊滅的な結果になると警鐘を鳴らす声が上がっていたが、最高裁は政権の申し立てを退けた。
+
+近年の最高裁が扱った緊急案件の中でも、とりわけ重要性が高い今回の訴訟で、過半数の判事が変更を差し止める判断を示した。変更が実施されれば...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252630.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/15/516826a9882d0ca3ded67b4c1d77fb0c/t/768/511/d/gettyimages-2289800038.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35252626.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-15T11:15:00+09:00</dc:date>
+        <title>恋人に次々贈った高級ブランド品、破局したら代金の返還要求　シンガポール高裁が男性の訴え棄却</title>
+        <link>https://www.cnn.co.jp/business/35252626.html?ref=rss</link>
+        <description>企業経営者の男性が別れた元交際相手の女性に対し、自分から贈った高級ブランド品などの代金として46万8090シンガポールドル（約5700万円）の返還を求めた裁判で、シンガポール高裁が男性側の訴えを退ける判決を言い渡した。
+
+訴えを起こしたのは企業経営者のチャンダー・アガルワル氏。当時交際していたフェリシア・リー氏にエルメスやディオール、プラダなどの高級ブランド品を贈ったり、ファーストクラスの航空券に多額を投...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35252626.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/15/70483179bd6c5e13656b79490b468418/t/768/511/d/gettyimages-2123635662.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252624.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-15T10:51:00+09:00</dc:date>
+        <title>20年以上にわたり妻に薬物投与し性的虐待した男、有罪認める　英国</title>
+        <link>https://www.cnn.co.jp/world/35252624.html?ref=rss</link>
+        <description>英国人の60代の男が、妻に知られることのないまま薬物を投与し、20年以上にわたってレイプしていたことを認めた。
+
+男は14日、英イングランド北部マンチェスターの裁判所で、レイプ、レイプ未遂、性的暴行、意図的な薬物投与など数十件の罪について有罪を認めた。
+
+男の氏名は、妻の匿名性を守るため公表できない。
+
+男は当初、すべての罪状を否認していたが、その後レイプ5件、性交による暴行6件、性的暴行3件、妻の同意なく私...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252624.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/15/218a97fe2d19ed9d9f853ebf02794f5d/t/768/508/d/2026-09-14t141829z-1066981813-rc21jnaajz9z-rtrmadp-3-britain-crime.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35252623.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-15T10:37:00+09:00</dc:date>
+        <title>シドニー・スウィーニー、ヌード広告で女性アスリートから猛反発　スポーツ予測市場のキャンペーン</title>
+        <link>https://www.cnn.co.jp/showbiz/35252623.html?ref=rss</link>
+        <description>米俳優シドニー・スウィーニーさんが全裸または裸に近い格好で、スポーツ用具と一緒にポーズを取る広告が公開された。これに対し女性アスリートからは、「過度に性的」だとして怒りと不信の声が上がっている。
+
+広告は米スポーツ予測市場「ノビグ」のためのもの。これについてオーストラリアのサーフィン選手、フェリシティー・パルマティアさんは14日、CNNのインタビューで、女性アスリートやこれからスポーツを始めようとして...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35252623.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/15/8633f8df0ca5e52074d8b6e3a72edef9/t/768/511/d/novig-9x16-jersey.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252622.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-15T10:05:00+09:00</dc:date>
+        <title>史上最強「スーパーエルニーニョ」発生、世界の気象は未知の領域に</title>
+        <link>https://www.cnn.co.jp/fringe/35252622.html?ref=rss</link>
+        <description>今年のエルニーニョ現象が「スーパー」と呼ばれる水準に達し、未知の領域に入った。
+
+今年のエルニーニョ現象は6月に初めて公表されて以来、猛烈な勢いで強まり続け、現時点ですでに観測史上最強となっている。予報では数カ月前から、この秋までにスーパーエルニーニョになるだろうとの見通しが伝えられていた。
+
+エルニーニョは太平洋の赤道付近で海水温が平年より高くなる現象。これによって大気の状態が変化して、世界各地の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252622.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/15/f7501e659fc2be83bd0f6eb6b8bec058/t/768/512/d/ap26248527610770.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252615.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-15T08:55:00+09:00</dc:date>
+        <title>英ヘンリー王子夫妻、新学期開始からわずか数日で子どもたちを転校　警備上の事情で</title>
+        <link>https://www.cnn.co.jp/world/35252615.html?ref=rss</link>
+        <description>英王室のサセックス公爵夫妻、ヘンリー王子とメーガン妃は、新学期が始まってわずか数日で子どもたちを転校させることを決定した。警備体制上の事情を理由としている。
+
+夫妻の広報担当者は14日、CNNへの声明で、「子どもたちの転校に関する決定は、現在の警備体制を続ける上での実務的な問題について一家の警備チームと協議した結果、下されたものだ」と説明した。このニュースは英誌「ハロー！」が最初に報じた。
+
+声明はさら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252615.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/15/99daf8d8b5956677410dadbf012840d5/t/768/512/d/2026-08-26t060025z-93572067-rc2rqkam9ud0-rtrmadp-3-britain-royals-harrymeghan-future.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252614.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-15T08:16:00+09:00</dc:date>
+        <title>トランプ氏、AIへの警告を「でっち上げ」と一蹴　政権内に不安の声</title>
+        <link>https://www.cnn.co.jp/usa/35252614.html?ref=rss</link>
+        <description>トランプ米大統領は14日、最先端の人工知能（AI）モデルに対する政府規制の強化を求めるAI業界幹部らの声を事実上退けた。高まる世論の懸念への対応より、中国との競争で先行することを優先する姿勢を鮮明にした。
+
+トランプ氏は14日朝、SNSへの投稿で、AIの発展を妨げようとする「病的な陰謀」が進行していると主張。AIモデルが制御不能になるのを防ぐには、自身の監督だけで十分だとの考えを示した。同日午後の別の投稿では、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252614.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/15/e219871b22543560add6117fa0921d75/t/768/512/d/gettyimages-2295083446.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252609.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-14T17:38:00+09:00</dc:date>
+        <title>米ケネディ・センター、財政破綻を警告　建物にトランプ氏の名前掲げない限り</title>
+        <link>https://www.cnn.co.jp/usa/35252609.html?ref=rss</link>
+        <description>米ワシントンの芸術施設「ケネディ・センター」の理事は、建物にトランプ大統領の名前を再び掲げない限り、数週間以内に「確実な財政破綻（はたん）」に直面すると警告している。米紙ニューヨーク・タイムズとワシントン・ポストが入手した文書で明らかになった。
+
+両紙によると、この警告は15日の特別会合を前に、同施設の理事会に回覧された決議案に盛り込まれている。文書によれば、同施設は数週間以内に給与の支払いや通常...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252609.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/14/31c08353d75b070850257e7c515ed8f6/t/768/512/d/2026-09-02t162910z-129492652-rc24bnaerey8-rtrmadp-3-usa-trump-kennedy-center.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252607.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-14T15:50:00+09:00</dc:date>
+        <title>イランで撃墜されたF15戦闘機の乗員、救出までの体験を語る</title>
+        <link>https://www.cnn.co.jp/usa/35252607.html?ref=rss</link>
+        <description>4月にイランでの任務中に搭乗していたF15戦闘機が撃墜され、その後救出された米軍飛行士が13日、CBSの番組「60ミニッツ」のインタビューで、危険に満ちた救出作戦について初めて詳しく語った。
+
+「ブラボー」というコールサインで呼ばれるこの兵装システム士官（WSO）によると、機体が被弾し、パラシュートも損傷した。落下する間「パラシュートを広げたり、絡まった部分を引っ張ってほどいたり」しようとあらゆることを試みた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252607.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/14/440be5a2a0e44a3098af2131b0b3e687/t/768/576/d/gettyimages-2269897706.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252597.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-14T12:58:00+09:00</dc:date>
+        <title>ホルムズ海峡再開に向けた米国抜きのイランと湾岸諸国の会合、延期に　オマーン外相</title>
+        <link>https://www.cnn.co.jp/world/35252597.html?ref=rss</link>
+        <description>湾岸諸国の外交官とイラン当局者が14日にホルムズ海峡を再開するためのオマーン案について協議するとみられていた会合が無期限に延期された。オマーンの外相が13日、明らかにした。
+
+この協議には重要な当事者である米国が参加しない見通しだった。
+
+船舶の通航量が依然として低迷しているにもかかわらず、トランプ米大統領は米軍が石油タンカーを護衛している現状について、当面許容できる状態だと主張している。
+
+海峡を通航...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252597.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/14/73d3248b2009af11d94228fc0207e3fb/t/768/512/d/gettyimages-2293188990.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252595.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-14T11:29:00+09:00</dc:date>
+        <title>成人女性がはしかの合併症で死亡、米ペンシルベニア州で感染が急拡大</title>
+        <link>https://www.cnn.co.jp/usa/35252595.html?ref=rss</link>
+        <description>米ペンシルベニア州ジェファーソン郡の検視官は13日、同郡に住む40歳の女性がはしかの合併症のために死亡したと発表した。ペンシルベニア州でははしかの感染が急速に拡大しており、今回の流行に関連する死者はこれで3人目だった。
+
+発表によると、女性が死亡したのは12日。はしか予防のワクチンは接種していなかった。
+
+ペンシルベニア州ではこれに先立ち、幼児1人を含む2人が8月末までにランカスター郡ではしかに関連して死亡...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252595.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/14/61cbb7aaa63603cef61728f9abe73082/t/768/512/d/gettyimages-1134489573.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252590.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-14T10:36:00+09:00</dc:date>
+        <title>ホルムズ海峡で商船攻撃、1人死亡　イラン国営メディア報道</title>
+        <link>https://www.cnn.co.jp/world/35252590.html?ref=rss</link>
+        <description>イラン国営メディアは、ホルムズ海峡で12日にイランの商船が攻撃され、1人が死亡したと伝えた。米国とイランの間ではホルムズ海峡の支配をめぐる衝突が続いている。
+
+同地域ではホルムズ海峡に次ぐ海上輸送の要衝に対しても、イランを後ろ盾とするイエメンの反政府武装勢力が攻撃を強めており、世界の原油価格に対する圧力が一層強まる可能性がある。
+
+イラン国営放送（IRIB）によると、商船はホルムズ海峡内のゲシュム島付近で...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252590.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/14/d0ecf4dd7d4a4b3c55ee70d47b6c78c4/t/768/510/d/gettyimages-2294402026.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252587.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-14T10:01:00+09:00</dc:date>
+        <title>ロシア、ポーランドとの国境付近で旅客列車を攻撃　改良型ドローンを多数投入</title>
+        <link>https://www.cnn.co.jp/world/35252587.html?ref=rss</link>
+        <description>ロシアとウクライナが空中戦を激化させている。ポーランドとの国境に近いウクライナ北西部ヤホディンでは13日、ガソリンスタンドや旅客列車がロシアのドローン（無人機）攻撃を受けた。ウクライナ当局が明らかにした。ガソリンスタンドへの攻撃は頻度を増している。
+
+今回の攻撃を受け、ウクライナのシビハ外相はロシアのプーチン大統領の行動をただちに非難。X（旧ツイッター）に「ヤホディンのウクライナ・ポーランド国境検問...</description>
+    </item>
+</rdf:RDF>
