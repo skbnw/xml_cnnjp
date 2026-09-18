@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-09-18T19:43:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252791.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252802.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252800.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252792.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252788.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252781.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252784.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252772.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252768.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252767.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252759.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35252745.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35252756.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252746.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252734.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252741.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252732.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252730.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35252727.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252724.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252708.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252706.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252705.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35252703.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252702.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252699.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252682.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252696.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252681.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252676.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35252791.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-18T19:43:00+09:00</dc:date>
+        <title>シンガポール、読書に報奨金含む奨励策　「脳腐れ」を止められるか</title>
+        <link>https://www.cnn.co.jp/world/35252791.html?ref=rss</link>
+        <description>東南アジアの都市国家シンガポールが今月、読書習慣の定着をめざす5カ年計画のキャンペーンを開始した。読書離れが進むなか、電車を待つ時間やカフェで一人くつろぐ時間に本を開くよう促している。
+
+政府のウェブサイトに読書時間を入力した参加者には、少額の報奨金などが与えられる。
+
+読書は今急激に、動画閲覧にその地位を奪われつつある。無意味な動画閲覧は「脳を腐らせる」とも揶揄（やゆ）される。新たなキャンペーンは...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252791.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/18/c37767ebfb37e38ea4501eb8e81a7069/t/768/432/d/gettyimages-1213443312.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252802.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-18T17:57:00+09:00</dc:date>
+        <title>米、サウジへのF35売却案を承認　3兆8千万円規模か</title>
+        <link>https://www.cnn.co.jp/usa/35252802.html?ref=rss</link>
+        <description>トランプ米政権は17日、サウジアラビアへのF35戦闘機の売却案を承認した。中東で戦闘拡大の脅威が浮上する中、湾岸地域の提携国の軍事力を強化する。
+
+米国務省は17日の声明で、F35「ライトニングII」や関連装備を売却する推計243億ドル（約3兆8000億円）規模の案を発表した。
+
+声明によると、サウジは48機の通常離着陸型F35のほか、米プラット・アンド・ホイットニー（P&amp;W）の「F135-PW-100エンジン」49基の購入を要請した。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252802.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/18/3d82eb41c625cb51ab57b927293b1f51/t/768/511/d/2026-01-03t162318z-1774279101-rc2qtiak176w-rtrmadp-3-usa-caribbean-military-buildup.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252800.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-18T16:31:00+09:00</dc:date>
+        <title>夏の平穏も束の間、新たなスキャンダルに揺れる英国王室　ダイアナ元妃の弟が回顧録出版へ</title>
+        <link>https://www.cnn.co.jp/world/35252800.html?ref=rss</link>
+        <description>英チャールズ国王は論議を招いているAI（人工知能）技術について話し合う大規模会合を控え、世間の注目をすべてAIに集めたい考えだった。
+
+だが17日、会合の開始予定時刻まであと数時間というタイミングで王室の新たなスキャンダルが新聞各紙の1面を飾り、その期待は打ち砕かれた。スキャンダルはAIを巡る会合に影を落とし、王室は混乱に陥った。
+
+デイリー・メールの1面では「チャールズ国王が驚くべき暴言、ダイアナ元妃の死...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252800.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/18/04554a5b7dcd5afc32ede227977cadaa/t/768/511/d/gettyimages-158066398.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252792.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-18T13:09:00+09:00</dc:date>
+        <title>デザートにアリをトッピング、韓国のレストランオーナーに罰金　実刑は免れる</title>
+        <link>https://www.cnn.co.jp/fringe/35252792.html?ref=rss</link>
+        <description>韓国にあるミシュラン二つ星レストランがアリをトッピングしたデザートを出していた問題を巡る裁判で、オーナーが実刑判決を免れたことが分かった。
+
+ソウル西部地裁は16日、レストランのオーナーに対し1500万ウォン（約170万円）の罰金を科した。オーナーは「キム」という姓の女性とされ、レストランの名称は公表されていない。シェフは罪に問われなかった。
+
+検察側は、過去4年間で1億2000万ウォンの利益が出ていたことを理由...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252792.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/18/91b9eb659ef2b878d15b6f60d7abde6f/t/768/393/d/ants-from-the-us-credit-ministry-of-food-and-drug-safety-bmp.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252788.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-18T12:00:00+09:00</dc:date>
+        <title>北朝鮮の地下核実験で想定外の地震が増大、断層活動誘発させた可能性</title>
+        <link>https://www.cnn.co.jp/world/35252788.html?ref=rss</link>
+        <description>北朝鮮が2017年に大規模な核実験を行って以来、豊渓里（プンゲリ）の核実験場で想定外の長期的な地震活動が増えているという研究結果を、韓国と中国の研究チームが発表した。
+
+北朝鮮は06年から17年にかけ、咸鏡北道の万塔山にある豊渓里核実験場で6回の地下核実験を実施。最後となった17年の6回目の実験は、爆発威力が推定160キロトンに達し、マグニチュード（M）6.3の地震が発生してトンネルの崩落を引き起こしたと見られてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252788.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/18/31d58e76fa7725af33e757be7a5a1995/t/768/549/d/02-gettyimages-961849298.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252781.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-18T11:00:00+09:00</dc:date>
+        <title>コンサートのため香港に入境した女性、家族の生活給付金が打ち切りの危機に　中国</title>
+        <link>https://www.cnn.co.jp/world/35252781.html?ref=rss</link>
+        <description>中国の低所得家庭出身のある女性が、コンサートへ行く目的で香港に入境した。女性はこのコンサートのために、数カ月間お金を貯めていた。
+
+しかし、中国政府の巨大な監視システムはこの入境を見逃さなかった。現在女性の家族は、「贅沢（ぜいたく）な消費」をしたとして、政府からの給付金を失う危機に直面している。
+
+この一件をきっかけに、中国のソーシャルメディア上では給付金受給者にもささやかな贅沢をする権利があるの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252781.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/18/f15551fc50cbeebb60c38f060a7462e0/t/768/512/d/gettyimages-2293718847.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252784.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-18T10:47:00+09:00</dc:date>
+        <title>英チャールズ国王、ダイアナ元妃死亡の夜は「浮ついて上機嫌」だった　弟の回顧録から新たな抜粋</title>
+        <link>https://www.cnn.co.jp/world/35252784.html?ref=rss</link>
+        <description>英ダイアナ元妃の弟チャールズ・スペンサー氏が近日発売予定の回顧録の中で、ダイアナ元妃が死亡した夜、チャールズ国王（当時は皇太子）は「浮ついて上機嫌な口調に聞こえた。宝くじに当選したようだった」と主張していることが分かった。英紙デイリー・メールが17日、新たな抜粋を掲載して伝えた。
+
+デイリー・メールが16日に掲載した別の抜粋によると、チャールズ国王はダイアナ元妃の死から数日後、「彼女のことなどすぐに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252784.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/18/a34cd7fb0c72d798d8928e5dfea6c8f2/t/768/510/d/gettyimages-1180201045.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252772.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-18T09:30:00+09:00</dc:date>
+        <title>F16戦闘機が住宅近くに墜落、有害物質の流出で住民ら避難　米ミシガン州</title>
+        <link>https://www.cnn.co.jp/usa/35252772.html?ref=rss</link>
+        <description>米軍のF16戦闘機が17日、米ミシガン州の住宅地付近に墜落した。パイロットは墜落前に脱出した。ミシガン州警察が明らかにした。
+
+航空管制傍受サイト「LiveATC.net」によると、軍のパイロットから管制塔に、「僚機から救難信号の可能性。鳥に衝突したらしい」と連絡が入った。
+
+
+
+  
+    
+      
+                    
+                    
+                    
+                    
+            
+
+
+    
+    
+     ミシガン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252772.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/18/9285643e9f5bef0ef1de7bf35661f1ef/t/768/768/d/cnn-breaking-news-1x1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252768.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-18T09:25:00+09:00</dc:date>
+        <title>トランプ氏のゴルフ場改修、最大76億円に上る可能性　文書で判明</title>
+        <link>https://www.cnn.co.jp/usa/35252768.html?ref=rss</link>
+        <description>トランプ米大統領が首都ワシントンにプロのトーナメント開催が可能なゴルフ場を建設する計画について、総工費が最大4900万ドル（約76億円）に上る可能性があることが、CNNが確認した文書で明らかになった。
+
+米国立公園局は文書の中で、イースト・ポトマック公園にある公営ゴルフ場を18ホールのプロ仕様のコースに改修するため、2027年1月から入札を募る方針を示した。
+
+費用の暫定的な規模は2000万～4900万ドルの間と見込まれ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252768.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/18/82a02585ec2eeb11f7b39d966126baa7/t/768/512/d/usa-trump-golf.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252767.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-18T08:43:00+09:00</dc:date>
+        <title>カナダとEUの連合、「より礼儀正しい」米国のライバル目指さず　カーニー首相</title>
+        <link>https://www.cnn.co.jp/world/35252767.html?ref=rss</link>
+        <description>カナダのカーニー首相は17日、トランプ米大統領を暗に批判し、欧州連合（EU）との関係強化を目指す自身の構想について、「より礼儀正しい」新たな地政学的ブロックを構築することを目的としたものではないと強調した。
+
+カーニー氏の発言は、欧州委員会のフォンデアライエン委員長が前日、カナダをEU初の「準加盟国」とする構想を提案したことを受けたもの。準加盟国という地位は現状では存在しないものの、この提案を受け、ト...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252767.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/18/5ee6f0f166e0a80540b21549aef722e6/t/768/512/d/2026-09-17t095227z-383471898-rc2xknadsuya-rtrmadp-3-eu-canada.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252759.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T19:23:00+09:00</dc:date>
+        <title>タスマニアタイガーの頭蓋骨が明かす、意外な捕食行動　どの現生哺乳類とも異なる特徴</title>
+        <link>https://www.cnn.co.jp/fringe/35252759.html?ref=rss</link>
+        <description>今から約1世紀前、ハンターたちはオーストラリアで、一般にタスマニアタイガーとして知られるフクロオオカミを絶滅させた。しかし、この警戒心が強く、半夜行性の捕食動物についてのある「神話」が、この種の絶滅の背景にあった可能性がある。
+
+フクロオオカミは、外見がオオカミによく似ていたため、種名には「イヌの頭」を意味する「キノケファルス」が与えられた。このオオカミとの外見的類似性から、家畜に対してもオオカミ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252759.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/cb589688f3869f371a01ae26451c7bcf/t/768/572/d/gettyimages-83208787.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35252745.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T17:45:00+09:00</dc:date>
+        <title>タイムアウトが選ぶ「世界で最もクールな街」、ランキング１位はソウル・鐘路3街</title>
+        <link>https://www.cnn.co.jp/travel/35252745.html?ref=rss</link>
+        <description>グローバルな情報ガイド「タイムアウト」が、毎年恒例の「世界で最もクールな街」の最新ランキングを発表した。
+
+今年は韓国・ソウルの「鐘路3街（チョンノサムガ）」が1位に輝いた。
+
+2021年のランキングでも3位に入った鍾路3街は、素晴らしいストリートフードと個性的な店舗で知られる。
+
+タイムアウトの旅行エディター、グレース・ビアード氏はCNNに対し、「過去にランクインした街が、さらに魅力を増してクールになる場合も...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35252745.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/a3e09924a0920706b11faa2a216030fa/t/768/576/d/20260912-170929.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35252756.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T17:41:00+09:00</dc:date>
+        <title>写真特集：タイムアウトが選ぶ「世界で最もクールな街」、26年の1位はソウルの鐘路3街</title>
+        <link>https://www.cnn.co.jp/photo/35252756.html?ref=rss</link>
+        <description>グローバルな情報ガイド「タイムアウト」がまとめる「世界で最もクールな街」のランキングトップ10を紹介する&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35252756.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/a3e09924a0920706b11faa2a216030fa/t/768/576/d/20260912-170929.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252746.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T16:36:00+09:00</dc:date>
+        <title>電撃進軍のフーシ、「撃墜」したサウジのF15戦闘機の映像公開</title>
+        <link>https://www.cnn.co.jp/world/35252746.html?ref=rss</link>
+        <description>イエメンの反政府武装組織フーシは16日、イエメン上空で撃墜したとするサウジアラビアのF15戦闘機の映像を公開した。イランを後ろ盾とするフーシはこのところ電撃的に進軍しており、世界のエネルギー供給にさらなる圧力がかかっている。
+
+フーシの声明によると、米国製のF15はイエメン中西部マリブ上空で「敵対的な作戦を行っていた」際、「現地製造された地対空ミサイルで撃墜された」という。
+
+フーシが公開した映像にはまず...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252746.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/b33e0243a661e3a41f0197a8dabb3059/t/768/488/d/gettyimages-2214251277__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252734.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T14:44:00+09:00</dc:date>
+        <title>英イングランドの小村で住民投票、国からの分離派が勝利　移民収容計画巡る対立で</title>
+        <link>https://www.cnn.co.jp/world/35252734.html?ref=rss</link>
+        <description>英イングランド中部の農村にある小さな村がこのほど、英国からの分離独立の是非を問う住民投票を実施した。近隣の旧軍事施設に1000人以上の移民を収容する計画への抗議の一環としている。
+
+オックスフォードシャーのピディントンで15日に行われた住民投票は、公国としての自治権獲得を目指す象徴的な計画を圧倒的多数の有権者が支持する結果となった。地元の教区評議会のスザンナ・パーデン副議長が16日に発表した。
+
+バーデン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252734.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/642455123ef2dc770840deefbcc82f89/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXUzeGszOWYwMDA2MzU2cXgxcWs4bmF3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdTN4YXdzaTAwMHkyZHA0YzQ4OGc2M24_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252741.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T14:31:00+09:00</dc:date>
+        <title>激しい揺れで旅客機の天井崩落、乗客パニックに　イラン</title>
+        <link>https://www.cnn.co.jp/world/35252741.html?ref=rss</link>
+        <description>イランの旅客機でこのほど、飛行中の激しい揺れで天井が崩落し、機内に混乱が広がる出来事があった。
+
+事故が起きたのは、セパハン航空のボーイング737型機。イラン西部ケルマンシャーへ向かっていたところ突然、激しく揺れ始め、乗客の間にパニックが広がった。
+
+航空当局者によると、タイヤのトレッドが外れたことで揺れが発生したものの、旅客機は安全に着陸したという。
+
+
+
+
+
+
+
+
+
+
+国営IRNA通信によると、負傷者が出たとの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252741.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/9d63b9cc61e0f3b4ac5eb231be771807/t/243/432/d/oar2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252732.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T13:33:00+09:00</dc:date>
+        <title>EU、カナダの「準加盟国」化を提案　トランプ氏は「敵対行為」になり得ると発言</title>
+        <link>https://www.cnn.co.jp/world/35252732.html?ref=rss</link>
+        <description>欧州連合（EU）のフォンデアライエン欧州委員長は16日、カナダをEU初の「準加盟国」として迎える構想を提案した。これに対しトランプ米大統領からは、新たな関税を課すとの脅しが出ている。
+
+今回の動きの目的は米国との貿易摩擦が激化する中、双方の経済を強化することにある。しかしトランプ氏は16日、EUとカナダの新たな合意を「敵対行為」とみなした場合、米国はEUに対して「重い関税」を課す可能性があると明らかにした。
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252732.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/9ab9e1e6c4806e862a1975996280652c/t/768/511/d/2025-06-23t181213z-174696060-rc2i8fa1yquf-rtrmadp-3-eu-canada.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252730.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T13:00:00+09:00</dc:date>
+        <title>EU、13歳未満のソーシャルメディア利用禁止を計画</title>
+        <link>https://www.cnn.co.jp/world/35252730.html?ref=rss</link>
+        <description>欧州連合（EU）は、域内全域で13歳未満のソーシャルメディア利用を禁止し、それ以上の年齢の子どもたちにもデジタル技術の利用制限を課す方針を明らかにした。フォンデアライエン欧州委員長が16日に発表した。
+
+EU全域で規則を策定する今回の動きは、加盟国の一部が10代の若者に対するソーシャルメディア利用制限を導入したことを受けてのもの。子どもたちのソーシャルメディアへのアクセス制限は、現在各国が積極的に進める施...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252730.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/8f50607677612842a9dc4a4d7f66c795/t/768/539/d/eu-stateofunion.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35252727.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T12:14:00+09:00</dc:date>
+        <title>エド・シーランの米ツアー降板の歌手、出演料全額を寄付　自分を締め出した富豪にも呼びかけ</title>
+        <link>https://www.cnn.co.jp/showbiz/35252727.html?ref=rss</link>
+        <description>「パレスチナに自由を」の発言で英歌手エド・シーランの米ツアーを降板させられたラッパーのマックルモアが16日、自身が同ツアーで得た出演料100万ドル（1億5600万円）の全額を、パレスチナ支援の6団体に寄付すると発表した。
+
+マックルモアは、米プロフットボールNFLチームのオーナーで富豪のロバート・クラフト氏に対しても、寄付を呼びかけている
+
+「意見の違いはあっても、多分これだけは一致できる。パレスチナ人の命は支...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35252727.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/7f442a48f392c1e1650e84a56f8794f6/t/768/512/d/gettyimages-2251661001-20260916222920945.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252724.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T11:35:00+09:00</dc:date>
+        <title>ノーベル平和賞のモハンマディさん、イランの刑務所での虐待詳述　「戻っても同じ選択する」</title>
+        <link>https://www.cnn.co.jp/world/35252724.html?ref=rss</link>
+        <description>イランの首都テヘランにある悪名高いエビン刑務所に収監されている間、ノーベル平和賞受賞者のナルゲス・モハンマディさんは、友人や他の受刑者の助けを借りて、執筆した文章の断片をひそかに持ち出していた。
+
+リスクの大きさは計り知れない。54歳のモハンマディさんは自身の反政府活動を理由に激しい暴行を受けたり、重い病に倒れたりした経験を持つ。過去20年の大半を子どもたちから離れた刑務所で過ごしてきた。
+
+モハンマ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252724.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/07cccda21c80d931f9beeca2352ea4b0/t/768/432/d/narges-mohammadi-still-02__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252708.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T11:25:00+09:00</dc:date>
+        <title>ネパール・中国国境の壊滅的な洪水、原因は　科学者チームが分析結果を報告</title>
+        <link>https://www.cnn.co.jp/world/35252708.html?ref=rss</link>
+        <description>ネパールと中国の国境地帯で8月に発生した壊滅的な洪水は複雑な要因が連鎖的に重なり合った結果であり、その多くは人為的な気候変動によって悪化したという。各国の専門家20人以上による新たな科学分析で明らかになった。
+
+被災した地域は、8月下旬に狭い山間の谷を襲った壊滅的な洪水の被害から未だ立ち直れていない。岩や氷を伴ったこの洪水は町や道路、橋を破壊し、少なくとも1300人の命を奪った。5000人を超える人々は現在...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252708.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/d91d047f61cd240e836fd94686540a7b/t/768/512/d/gettyimages-2294892971.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252706.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T09:54:00+09:00</dc:date>
+        <title>英チャールズ国王、ダイアナ元妃のことは「すぐ忘れる」と発言　弟が回顧録で主張</title>
+        <link>https://www.cnn.co.jp/world/35252706.html?ref=rss</link>
+        <description>1997年に死去した英ダイアナ元妃の弟チャールズ・スペンサー氏が出版予定の回顧録の中で、ダイアナ元妃の死亡から数日後、元夫のチャールズ国王（当時は皇太子）が「彼女のことはすぐに忘れる」と言い放ったと回想している。英紙デイリー・メールが16日、回顧録の一節を引用して伝えた。
+
+スペンサー氏によると、ダイアナ元妃は息子のウィリアム王子（現皇太子）とヘンリー王子が自分の葬儀に参列することを望まないだろうと電...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252706.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/71caa6c4f7e9c2d12834e0da8bbab262/t/768/510/d/gettyimages-1180201045.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252705.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T09:18:00+09:00</dc:date>
+        <title>ガザで建物倒壊、21人死亡　数十人ががれきの下に取り残された恐れ</title>
+        <link>https://www.cnn.co.jp/world/35252705.html?ref=rss</link>
+        <description>パレスチナ自治区ガザ地区のガザ市で16日早朝、戦闘により損傷していた集合住宅が倒壊し、子どもを含む20人以上が死亡した。地元当局が明らかにした。さらに数十人ががれきの下に取り残されている恐れがある。
+
+シファ病院のムハンマド・アブサルミヤ院長がCNNに語ったところによると、この惨事で少なくとも21人が死亡し、そのうち11人が子どもだった。ほかにも多数が負傷しているという。
+
+ガザの民間防衛当局によると、ガザ市...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252705.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/44cbd5c8b30b6307f4c4de63bd77d5ad/t/768/512/d/gettyimages-2294992051.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35252703.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-17T08:30:00+09:00</dc:date>
+        <title>FRB、2023年7月以来初の利上げ　物価上昇の拡大防ぐため</title>
+        <link>https://www.cnn.co.jp/business/35252703.html?ref=rss</link>
+        <description>米連邦準備制度理事会（FRB）は16日、政策金利を3年余りぶりに引き上げた。年初以降、イランとの戦争を背景にインフレが加速する中、物価上昇を抑える取り組みを再び強化した。
+
+当局者らは、政策金利を0.25ポイント引き上げ、3.75～4％とすることを決めた。これにより、昨年実施した3回の利下げのうち1回分が打ち消される形となった。
+
+この決定は、中東で数カ月にわたり続く戦争がエネルギー価格を大きく揺さぶり、インフレを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35252703.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/17/ac3f08008615e9f307d4ce31983b609b/t/768/512/d/c-gettyimages-2287523547.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252702.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T19:06:00+09:00</dc:date>
+        <title>フィジー、HIV感染拡大で国家非常事態宣言　成人60人に1人が感染</title>
+        <link>https://www.cnn.co.jp/world/35252702.html?ref=rss</link>
+        <description>南太平洋の小国フィジーがエイズウイルス（HIV）の感染拡大に伴い国家非常事態を宣言した。覚醒剤メタンフェタミンのまん延も感染拡大の一因となっている。
+
+人口100万人に満たないフィジーでは現在、成人60人に1人がHIVに感染していると推定されている。完治はしないものの治療可能なこのウイルスの感染率は、世界的に低下しているが、フィジーはこの傾向に逆行している。
+
+フィジーでは、2025年1月に初めてHIVの流行を宣言し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252702.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/10d09b7c8eba8abd8ff98ac36b331cd9/t/768/511/d/gettyimages-2274064955.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252699.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T18:55:00+09:00</dc:date>
+        <title>「世界で最も深い沈没船」、第2次大戦の米軍艦を発見　水深6900メートル　22年</title>
+        <link>https://www.cnn.co.jp/fringe/35252699.html?ref=rss</link>
+        <description>太平洋の水深約6900メートルの地点で2022年、第2次世界大戦で沈没した米軍の護衛駆逐艦「サミュエル・B・ロバーツ」（通称サミーB）が発見された。それまでの記録を塗り替え、世界で最も深い位置で発見、調査された沈没船になった。
+
+探検家のビクター・ベスコボ氏が艦体を発見した。同氏は以前、世界最深部への潜水探査を成し遂げたことがある。
+
+艦体が沈んでいたのはフィリピン海の水深6895メートルの地点。これと比較すると...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252699.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/7ab9702ad739cdada06fe7803c6b76dd/t/768/432/d/image__16_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252682.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T17:42:00+09:00</dc:date>
+        <title>米軍に対するイランの攻撃能力、ロシアの衛星の支援で向上か　CNNが調査</title>
+        <link>https://www.cnn.co.jp/world/35252682.html?ref=rss</link>
+        <description>現在世界中で情報収集を行っているロシアのエリート偵察衛星の一つ、「コスモス2573」が、米国と戦うイランに大きな優位性をもたらしている可能性が高いことが明らかになった。
+
+CNNが入手した情報によると、これらの衛星は米軍施設の外観だけでなく、内部構造までも捉えているとみられる。
+
+米当局者2人を含む情報筋によれば、そうした情報の一部がイランに送信されている証拠があるという。また少なくともいくつかの精密攻撃...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252682.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/928b2be6221e22bc6361d95d92350425/t/768/432/d/tq-rus-sats-thumb03.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252696.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T17:03:00+09:00</dc:date>
+        <title>サウジ、イスラム教の聖地メッカ周辺でフーシのドローンを撃墜</title>
+        <link>https://www.cnn.co.jp/world/35252696.html?ref=rss</link>
+        <description>サウジアラビアは15日、イスラム教の聖地であるメッカの郊外で、イエメンの親イラン武装組織フーシのドローン（無人機）1機を撃墜したと明らかにした。これを受け、地域諸国からはただちにフーシに対する非難の声が上がった。
+
+サウジが主導する連合軍の報道官によると、フーシがメッカを標的にしたのは、2017年に弾道ミサイル攻撃が迎撃されて以来、約10年ぶり。
+
+フーシは16日未明、メッカを脅かしたとの見方をただちに否定。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252696.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/ce5704a82d27711e2c6fddc0735ff4e6/t/768/512/d/2026-05-29t150053z-1696997719-rc2wila32bnf-rtrmadp-3-saudi-hajj.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252681.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T14:05:00+09:00</dc:date>
+        <title>【分析】ディーゼル価格高騰で深まるトランプ氏の苦境、なぜロシアの思うつぼなのか</title>
+        <link>https://www.cnn.co.jp/world/35252681.html?ref=rss</link>
+        <description>ディーゼル燃料（軽油）価格が記録的な高値を付け、中間選挙まで2カ月を切るなか、トランプ米大統領は、ウクライナ戦争終結に向けた不安定で実を結ばない取り組みへと回帰している。それは被害者を責めるという手法だ。そしてそのタイミングはウクライナにとって最悪である一方、ロシアにとってはまたとない好機となっている。
+
+「（ウクライナ大統領の）ゼレンスキー氏がやらなければならないことは一つだ。ロシアのディーゼル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252681.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/9ec66f76c64afb11e02b7dc9593ea4a8/t/768/512/d/gettyimages-2294610790.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252676.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-16T13:03:00+09:00</dc:date>
+        <title>米ロサンゼルス郊外でヘリコプター墜落、3人死亡</title>
+        <link>https://www.cnn.co.jp/usa/35252676.html?ref=rss</link>
+        <description>米ロサンゼルス郊外で15日夜、ヘリコプター1機が商業ビル2棟の間に墜落し、少なくとも3人が死亡した。当局が発表した。
+
+墜落現場はロサンゼルス中心部から約40キロ離れたチャッツワースで、付近では緊急要員がバスの衝突事故に対応していた。
+
+ロサンゼルス消防局は15日夜に声明を出し、現場で3人の死亡を確認したと明らかにした。また1人が地元の病院に搬送されたが、容体は不明だという。
+
+墜落原因は分かっておらず、ヘリコ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252676.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/16/40ef4f24078f6a6b88da3347767f38f4/t/768/432/d/still-22987944-1793970-786-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
