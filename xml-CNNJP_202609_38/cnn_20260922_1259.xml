@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-09-22T19:24:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252846.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252843.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252842.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252841.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252840.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252839.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35252838.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252837.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252836.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252835.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252834.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252833.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/fashion/35252831.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252830.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252828.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252826.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252825.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252824.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252820.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35252819.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35252818.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252817.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252816.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252815.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252814.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252813.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252812.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252810.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252809.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35252805.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252846.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-22T19:24:00+09:00</dc:date>
+        <title>イラン戦争への米国民の反対強固に、共和党員の支持に亀裂　CNN最新世論調査</title>
+        <link>https://www.cnn.co.jp/usa/35252846.html?ref=rss</link>
+        <description>イランとの戦争に対する米国民の反対姿勢が強固になっていることが、調査会社SSRSの実施したCNNの最新世論調査で明らかになった。対象者の3分の2近くが「米国はこの紛争で勝利していない」と回答。「トランプ大統領は戦争終結に向けて十分な手を尽くしていない」と答えた人は、さらに多かった。
+
+米国民がイランとの戦争に肯定的な見方を示したことは、これまで一度もない。開戦から7カ月近くが経過したいま、大多数はこの紛争...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252846.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/22/65ae81490de7ee3c5e8417f20a0cbcf5/t/768/512/d/2026-07-31t161830z-140008250-rc24pmai8af7-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252843.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-22T17:09:00+09:00</dc:date>
+        <title>トランプ氏によるメディア締め出し、発表前に側近ハープ氏が切り抜き映像を見せていた</title>
+        <link>https://www.cnn.co.jp/usa/35252843.html?ref=rss</link>
+        <description>トランプ米大統領が先週、ポリティコとCNN、MS NOWの3メディアによるホワイトハウス取材の禁止を発表する前、側近のナタリー・ハープ氏がメディア映像の切り抜きを見せていたことが分かった。事情に詳しい関係者が明らかにした。
+
+情報筋の1人によると、ポリティコに掲載された図表などがトランプ氏の怒りを買い、3メディアをホワイトハウスから締め出す決定を下すきっかけになったとみられている。別の情報筋によると、トラン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252843.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/22/fce08c07f23cffdaac0e71a5c2f31f6f/t/768/511/d/2026-09-18t200229z-1725641696-rc2wlnahqi82-rtrmadp-3-usa-trump.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252842.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-22T15:05:00+09:00</dc:date>
+        <title>小鳥のさえずり、心地よいと感じる要因は？　「最も鳴き声が心地よい鳥」も判明</title>
+        <link>https://www.cnn.co.jp/fringe/35252842.html?ref=rss</link>
+        <description>人間は小鳥のさえずりを聞くと、和んだ気持ちになることがある。なかでも一部の鳥の声が、特に心地よく聞こえるのはなぜか。その理由を解明しようとする研究が始まっている。
+
+人類が進化してきた過程で、いつもと同じようにさえずる鳥の声は、周囲の環境に危険がないことを示す安心のサインととらえられてきたのかもしれない。
+
+独テュービンゲン大学でこのほど実施された小規模な研究によると、人間がある鳴き声を特に心地よ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252842.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/22/83b4201ae1bf0e99f2827b3efaed5efe/t/768/768/d/blackbird-turdus-merula.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252841.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-22T13:55:00+09:00</dc:date>
+        <title>個体数5羽から驚異的な回復、NZの今年の鳥は真っ黒な「チャタムヒタキ」</title>
+        <link>https://www.cnn.co.jp/fringe/35252841.html?ref=rss</link>
+        <description>ニュージーランドで毎年恒例の「今年の鳥」に、全身真っ黒の小さな野鳥「チャタムヒタキ」が選ばれた。
+
+深刻な絶滅の危機に瀕（ひん）しているチャタムヒタキは、本土から東へ約800キロ離れたチャタム諸島にのみ生息する。今回の投票では得票数が2万5000票を超えてトップに立った。過去に選ばれた飛べないオウムの「カカポ」は2位、ニュージーランドハヤブサの「カレアレア」は3位に後退した。
+
+コンテストを主催する自然保護...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252841.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/22/57c6995e21d69333912b2309ebdfd549/t/768/432/d/black-robin-rangatira-oscar-thomas-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252840.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-22T12:57:00+09:00</dc:date>
+        <title>NYのマムダニ市長、ネタニヤフ氏を「戦争犯罪者」と非難　拘束権限ないと認める場面も　</title>
+        <link>https://www.cnn.co.jp/world/35252840.html?ref=rss</link>
+        <description>米ニューヨークのマムダニ市長は21日、CNNのインタビューでイスラエルのネタニヤフ首相に対する批判を強め、「戦争犯罪者」と形容した。市長選でネタニヤフ氏を拘束する考えを示唆していたマムダニ氏だが、今回のインタビューでは自身に拘束の権限がないことを認めた。
+
+マムダニ氏はCNNのクリスチャン・アマンプール記者に「ベンヤミン・ネタニヤフ氏に関して、私は自分の見方をそのまま表現してきた。戦争犯罪者であり、パレ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252839.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-22T11:43:00+09:00</dc:date>
+        <title>釣り船でまさかの獲物…フロリダ沖で米軍ドローンをキャッチ　「シャヘド」のコピー機か</title>
+        <link>https://www.cnn.co.jp/usa/35252839.html?ref=rss</link>
+        <description>米フロリダ州沖を航行していた釣り船が、まさかの獲物をキャッチした。悪名高いイラン製ドローンの複製とされる米軍のドローン（無人機）だった。
+
+ドローンが見つかったのは19日。フロリダ州ペンサコラでチャーター船を運航するホット・スポッツ・チャーターズは、回収したドローンの写真をフェイスブックに掲載した。
+
+「今日は最高の6時間でした！　ドローンをお探しの方は、ホット・スポッツまでお電話を」。チャーター船の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252839.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/22/442e2279e6ad563e4120c18753e45206/t/768/512/d/814749416-1368093825095511-1778725256295505256-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35252838.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-22T11:04:00+09:00</dc:date>
+        <title>27歳で死亡のシンディ・クロフォードさん息子、「薬物過剰摂取の疑い」　警察が調査</title>
+        <link>https://www.cnn.co.jp/style/fashion/35252838.html?ref=rss</link>
+        <description>米スーパーモデルのシンディ・クロフォードさんの息子で、自身もモデルだったプレスリー・ガーバーさんの死を巡り、カリフォルニア州サンタモニカの警察が「薬物過剰摂取の疑い」で調べを進めていることが分かった。メディア向けの声明で明らかにした。
+
+これより前、代理人はCNNの取材に対し、ガーバーさんが20日に27歳の若さで亡くなったことを確認していた。
+
+ロサンゼルス郡検視局によると、ガーバーさんは20日、リハビリ施...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35252838.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/22/e661e6613935ebe518c8490240d9aeec/t/768/432/d/gettyimages-2257387768.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252837.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-22T09:20:00+09:00</dc:date>
+        <title>消火活動中のヘリが墜落、乗員2人死亡　米ヨセミテ国立公園の山火事続く</title>
+        <link>https://www.cnn.co.jp/usa/35252837.html?ref=rss</link>
+        <description>米ヨセミテ国立公園で20日、消火活動中のヘリコプターが墜落し、米森林局によると乗員2人が死亡した。
+
+航空会社のプレシジョンは同日、同社のチームメンバー2人が死亡したと発表。アラスカ森林消防局は21日、死亡した2人のうち1人について、プレシジョンのパイロット、グレッグ・キングさんと確認されたことを明らかにした。
+
+米連邦航空局（FAA）によると、ヘリコプターは現地時間の午後3時ごろ墜落した。
+
+森林局によれば、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252837.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/22/0b4bbb5c72924012426f693a6a50f767/t/768/432/d/1image.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252836.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-22T09:02:00+09:00</dc:date>
+        <title>トランプ氏、ニューヨーク市長と公邸で会談　住宅開発計画や移民問題など協議</title>
+        <link>https://www.cnn.co.jp/usa/35252836.html?ref=rss</link>
+        <description>米ニューヨーク市のマムダニ市長とトランプ米大統領は21日午後の会談で、大規模な住宅開発計画や移民問題など幅広いテーマについて協議した。
+
+マムダニ氏によると、今週の国連総会に出席するためニューヨークを訪れているトランプ氏を、市長公邸に招待した。現職大統領が公邸を公式訪問するのは1980年代以来となる。
+
+両氏は非公開の会談後、記者からの質問に応じた。
+
+マムダニ氏は「所属政党にかかわらず、誰とでも協力する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252836.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/22/9f084fcaf45280c18d3934969dc3324c/t/768/512/d/hsxgvfsw8aah-k3__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252835.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-22T08:25:00+09:00</dc:date>
+        <title>イラン、NYでの国連総会出席へ　米国との和平なお遠く</title>
+        <link>https://www.cnn.co.jp/world/35252835.html?ref=rss</link>
+        <description>前年より規模を縮小したイランの代表団が22日、国連総会に出席するため米ニューヨークに到着する予定だ。中東での戦争が続く中、トランプ米大統領は今後「非常に重大な事態」が起こる可能性を示唆している。
+
+国連の原加盟国であるイランは数十年にわたり、この世界的な外交の場に代表団を派遣し続けてきた。近年はペゼシュキアン大統領や、その前任の故ライシ大統領が代表団を率いてきた。
+
+だが、現在も戦争状態にある国で開...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252835.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/22/3a5adfd1b330599341e045d06cec24a3/t/768/511/d/gettyimages-2295282804-1.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252834.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-21T18:01:00+09:00</dc:date>
+        <title>英バッキンガム宮殿の近衛兵、あの帽子は過去の遺物に？　クマの毛皮使用に批判噴出</title>
+        <link>https://www.cnn.co.jp/world/35252834.html?ref=rss</link>
+        <description>鮮やかな赤い制服に、背の高い黒の毛皮の帽子。バッキンガム宮殿前に立つ近衛兵たちの姿は、ロンドンを訪れる誰もが目にしているはずだ。
+
+しかし英王室のシンボルでもあるあの帽子が、本物のクマの毛皮が使われているという理由で論議の的になっている。超党派の議員団はこのほど、クマの毛皮の使用は「正当化できない」として、合成素材への切り替えを政府に促した。
+
+近衛兵の帽子には、カナダで合法的に駆除されたクマの毛...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252834.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/21/f03e073cb9199cf18f11c5a7a306a156/t/768/512/d/01m0ywdpem3t87b1pv5s0q93y4-20260918140042951.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252833.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-21T17:13:00+09:00</dc:date>
+        <title>【分析】中間選挙を目前にひたすら奇妙な言動を重ねていくトランプ氏</title>
+        <link>https://www.cnn.co.jp/usa/35252833.html?ref=rss</link>
+        <description>トランプ米大統領の振る舞いにはそもそも奇妙なものが多い。だが、ここ12日間の言動はかなり際立っている。特に中間選挙が迫る時期であることを考えればなおさらだ。
+
+トランプ氏は、有権者に対し、一部の共和党員でさえ賄賂に等しいと指摘するものを提示した。共和党の上院議員を選出しなければ、州への災害支援を差し止めると（冗談交じりに？）脅した。米同時多発テロから25年を迎えるにあたり、テロの現場「グラウンド・ゼ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252833.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/21/f861b101b0b4762c008e0d689eb3dbd4/t/768/512/d/gettyimages-2295330304.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/fashion/35252831.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-21T14:00:00+09:00</dc:date>
+        <title>モデルのプレスリー・ガーバーさん、死去　27歳　シンディ・クロフォードさんの息子</title>
+        <link>https://www.cnn.co.jp/style/fashion/35252831.html?ref=rss</link>
+        <description>スーパーモデルのシンディ・クロフォードさんの息子でモデルのプレスリー・ガーバーさんが死去したことが分かった。27歳だった。クロフォードさんの代理人が確認した。
+
+ロサンゼルス郡検視局によると、ガーバーさんは20日、リハビリ施設で死亡した。死因は記載されていない。
+
+ガーバーさんは1999年、カリフォルニア州生まれ。クロフォードさんと実業家のランディ・ガーバーさんがもうけた2人の子どもの1人だった。妹のカイア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/fashion/35252831.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/21/0493f9e0791f0f758b96847b2e1cd63f/t/768/512/d/gettyimages-2257387768.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252830.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-21T13:11:00+09:00</dc:date>
+        <title>ドイツ州議会選で極右AfD再び躍進　メルツ首相「惨敗」</title>
+        <link>https://www.cnn.co.jp/world/35252830.html?ref=rss</link>
+        <description>ドイツのメルツ首相率いる中道右派・キリスト教民主同盟（CDU）が州議会選挙で厳しい結果に直面していることが出口調査で明らかになった。躍進する強硬右派政党「ドイツのための選択肢（AfD）」と左派政党の双方から大きく水をあけられる公算が大きい。
+
+ドイツ公共放送の出口調査によると、北東部メクレンブルク・フォアポンメルン州ではAfDが38％を獲得し、第1党になると予測されている。AfDはわずか2週間前、東部ザクセン・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252830.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/21/e456b4df3a35c3848a977eafc12fd0a2/t/768/512/d/gettyimages-2295697718.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252828.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-21T11:52:00+09:00</dc:date>
+        <title>世界を揺るがせた女性モデルばらばら殺人、元夫とその家族の裁判始まる　香港</title>
+        <link>https://www.cnn.co.jp/world/35252828.html?ref=rss</link>
+        <description>香港で2023年にモデルでインフルエンサーだった蔡天鳳（アビー・チョイ）さん（当時28）の遺体の一部が見つかった事件で、チョイさんの元夫とその兄、父親の3人が今週、裁判に臨む。陪審員による審理は少なくとも45日間に及ぶとみられる。
+
+チョイさんは行方不明届が出されてから数日後、自宅から遠く離れた大埔区の住宅で遺体の一部が発見されていた。
+
+香港の芸能界や実業界の有力者らと交流のあったチョイさんの死は、殺人事...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252828.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/21/720fa8db4b7b8039cf2c922b68381f3d/t/768/512/d/230619032901-abby-choi-file.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252826.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-21T10:45:00+09:00</dc:date>
+        <title>ICEがまた銃撃、男性が重傷　米各地で続く強硬摘発　米テキサス州</title>
+        <link>https://www.cnn.co.jp/usa/35252826.html?ref=rss</link>
+        <description>米テキサス州の州都オースティンで20日、米移民税関捜査局（ICE）の執行官が男性を銃撃して重傷を負わせた。市当局が明らかにした。
+
+オースティンのカーク・ワトソン市長によると、男性は胴体を銃撃され、病院に搬送された。重傷を負っているものの容体は安定しているという。
+
+現場では地元警察が捜査を続けている。
+
+捜査関係者はCNNの取材に対し、銃撃された男性はベネズエラからの不法移民で、強制送還に向けた命令が出さ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252826.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/21/8b1aafdfd6a618b73a711a910c7228d1/t/768/512/d/2026-09-20t210206z-741865908-rc23nnaux1pg-rtrmadp-3-texas-shooting.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252825.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-21T10:05:00+09:00</dc:date>
+        <title>ウクライナ　モスクワに過去最大規模のドローン攻撃、主要製油所に損傷　議会選投票最終日</title>
+        <link>https://www.cnn.co.jp/world/35252825.html?ref=rss</link>
+        <description>ウクライナは、ロシアの議会下院選挙が投票最終日に入る中、首都モスクワとその周辺地域に対して最大規模のドローン（無人機）攻撃を実施した。
+
+ロシア国防省は20日の声明で、1900機超のドローン、誘導爆弾8発、巡航ミサイル8発、ロケット弾4発を一晩で撃墜したと発表した。この集計によれば、今回の攻撃はウクライナによる過去最大規模のものとなるが、ウクライナ政府は発射したドローンや飛翔（ひしょう）体の正確な数を確認...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252825.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/21/81b894d68aae270f7499465a52d32c69/t/768/432/d/93627262-18398329-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252824.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-21T09:18:00+09:00</dc:date>
+        <title>トランプ氏、首都に建設予定の凱旋門は「最高水準の軍事施設」に　狙撃兵とドローン配置</title>
+        <link>https://www.cnn.co.jp/usa/35252824.html?ref=rss</link>
+        <description>トランプ米大統領は20日、首都ワシントンに建設する計画の凱旋（がいせん）門をめぐり、「最高水準の軍事複合施設」を兼ねると述べた。高さ約76メートルに及ぶこの建造物は戦没者が眠るアーリントン国立墓地を真正面から見渡す場所に構えられる予定。トランプ氏は今回、建設を正当化する新たな理由を示した形だ。
+
+トランプ氏はSNS「トゥルース・ソーシャル」で、「多数のドローン（無人機）を収容、保管し、迅速に使用できるよ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252824.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/21/78ae79d9191e6ec2d5dc9c686dd78141/t/768/512/d/ap26186115025113.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252820.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-20T17:25:00+09:00</dc:date>
+        <title>干ばつで干上がったダムから「幽霊村」が出現　22年スペイン・ポルトガル国境</title>
+        <link>https://www.cnn.co.jp/fringe/35252820.html?ref=rss</link>
+        <description>干ばつが続くスペインとポルトガルの国境地帯で2022年、1992年にダム開発で川底に沈んだ「幽霊村」が再び姿を現す出来事があり、観光客を引きつけた。
+
+干ばつでひび割れた地面を歩く観光客が目にしたのは、半壊した屋根やれんが、かつてドアや梁（はり）の一部となっていた木材の残骸だ。
+
+観光客は以前から、乾期に水面から屋根が顔をのぞかせているのを見ることができたが、22年は極端な干ばつにより村全体が姿を現した。
+
+ ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252820.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/20/c4b4c39e1780e354970fa4a04f55e93c/t/768/432/d/220215033035-ghost-village-drought-spain-portugal-sater-super-169.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35252819.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-20T16:50:00+09:00</dc:date>
+        <title>2026年世界最高の航空会社、発表　日本の2社もランクイン</title>
+        <link>https://www.cnn.co.jp/travel/35252819.html?ref=rss</link>
+        <description>英国を拠点とする航空コンサルティング会社スカイトラックスは18日、2026年の世界最高の航空会社を表彰する「ワールド・エアライン・アワード」を発表した。各賞はすべて同社が世界規模で実施した顧客満足度調査に基づいて決められる。
+
+今年の1位に輝いたのはシンガポール航空だった。同社が首位に立つのは、この賞の25年の歴史で6度目。昨年首位だったカタール航空からその座を奪還した。
+
+スカイトラックスのエドワード・プ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35252819.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/20/93198cd93580f98820f7dd5ea694d757/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXU3Mm56YnUwMGJ0MjdwYjMzMjlicWpu-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdTcybnpidTAwYzgyN3BiOXZteTMwN3A_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35252818.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-20T14:49:00+09:00</dc:date>
+        <title>【分析】トランプ氏のAI規制反対は「中国に勝つ」ため　中国の脅威はどれほどなのか</title>
+        <link>https://www.cnn.co.jp/tech/35252818.html?ref=rss</link>
+        <description>野放しの人工知能（AI）が人類を滅亡させる危険性に世界がおののくなか、米国と中国の首脳が先ごろ、この画期的な技術に対するそれぞれのビジョンを明確に述べた。
+
+両首脳の発言はほぼ対極に位置していた。
+
+トランプ米大統領は米アンソロピック、オープンAI、グーグルのAI研究者や幹部らが開発を遅らせるよう呼びかける声をよそに、最も重要なのは、激化するAI覇権争いで米国が中国に対する優位を維持することだと述べた。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35252818.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/20/f3065f72ae5651544e42cad729ff7dfe/t/768/501/d/2026-09-12t110524z-1596849121-rc2mhnae1a7h-rtrmadp-3-brics-summit-china.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252817.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-20T12:39:00+09:00</dc:date>
+        <title>トランプ氏、長男は「返金した」と主張　ロシア富豪が負担した結婚式費用数千万円めぐり</title>
+        <link>https://www.cnn.co.jp/usa/35252817.html?ref=rss</link>
+        <description>トランプ米大統領は18日、長男ドナルド・トランプ・ジュニア氏がバハマで開いた結婚式についてロシアの富豪ウマル・クレムレフ氏が数十万ドルの関連費用を負担したことをめぐり、ジュニア氏が返金したと主張した。
+
+トランプ氏は大統領執務室で記者団に「私の理解では、彼は返済した」と述べた。米調査報道機関プロパブリカが結婚式費用の一部を負担したと報じたクレムレフ氏は、クレムリン（ロシア大統領府）とつながりのある...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252817.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/20/a328da184299dedc65b338ede51771c5/t/768/512/d/ap26254047836809.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252816.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-20T11:18:00+09:00</dc:date>
+        <title>イラン戦争の費用は7兆円　米国防総省、議会に報告</title>
+        <link>https://www.cnn.co.jp/usa/35252816.html?ref=rss</link>
+        <description>米国防総省が18日、対イラン戦争の費用が451億ドル（約7兆円）に上っていることを議会に報告したことが分かった。事情に詳しい関係者2人が明らかにした。
+
+国防総省は、今月3日時点の戦費が436億ドルで、これに追加の燃料費15億ドルが加わると説明したという。
+
+ただし、この推計は戦争にかかった費用を全額計算したものではない。
+
+関係者1人によると、損傷した基地や建物の修復費用の試算は含まれておらず、議員らが求めてい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252816.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/20/f1c0d22270677079dba6b3ddff2b8408/t/768/512/d/2026-08-20t165456z-874129621-rc2k0na5imb6-rtrmadp-3-iran-crisis-usa-carrier.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252815.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-20T10:11:00+09:00</dc:date>
+        <title>トランプ氏、「AIフォース」の創設と責任者の指名を表明　開発の規制求める声高まるなか</title>
+        <link>https://www.cnn.co.jp/usa/35252815.html?ref=rss</link>
+        <description>トランプ米大統領は19日、人工知能（AI）の急速な発展に歯止めをかける措置を求める声が高まる中、「AIフォース（部隊、軍隊）」を創設し、責任者を任命する考えを明らかにした。
+
+トランプ氏はSNS「トゥルース・ソーシャル」で、AIをめぐる懸念はでっち上げだとの見方を改めて示す一方、この技術がもたらすリスクの一部も認めたようで、「悪いものも探していく。それは、すでに存在する刑事・民事司法制度を使えば、非常に簡単...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252815.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/20/716f437f260d678f69ad28667edb18dc/t/768/512/d/c-gettyimages-2294613002.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252814.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-20T09:24:00+09:00</dc:date>
+        <title>CNNなど3社、記者証没収されホワイトハウスに入れず　トランプ氏の取材禁止発表翌日</title>
+        <link>https://www.cnn.co.jp/usa/35252814.html?ref=rss</link>
+        <description>米CNNのベッツィー・クライン記者が19日午前、ホワイトハウスへの立ち入りを拒否され、記者証を没収された。この前日、トランプ大統領はCNN、MS NOW、ポリティコの出入りを禁止すると発表していた。
+
+憲法修正第1条の専門家らは、この措置を違憲だとしている。
+
+ポリティコの記者1人と、MS NOWの記者1人、カメラマン1人も19日午前、ホワイトハウスの敷地内への立ち入りを拒否された。
+
+3社は報道の権利を守るため法的措置を取る...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252814.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/20/d9bee18a926f5fb5a3776c7132240bbd/t/768/432/d/still-22999173-155710-093-thumb.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252813.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-19T18:32:00+09:00</dc:date>
+        <title>腕で耳を培養、事故で左耳失った米兵に移植手術　18年米国</title>
+        <link>https://www.cnn.co.jp/usa/35252813.html?ref=rss</link>
+        <description>米テキサス州の陸軍医療施設で2018年、女性兵士の前腕部で新たな耳を培養し、頭部に移植する手術が行われた。兵士は2年前の車事故で瀕死（ひんし）の重傷を負い、一命は取り留めたものの、左耳を失っていた。
+
+手術では、形成外科医が女性兵士シャミカ・バレージさんのあばらの軟骨を採取し、これを前腕部の皮膚下で培養した。そして、テキサス州エルパソにある陸軍医療センターの医師が、腕から頭部に耳を移植することに成功し...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252813.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/19/da3b110ca41692ba6a5ef4b4d18e627c/t/768/478/d/180510065208-ear-in-forearm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252812.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-19T17:19:00+09:00</dc:date>
+        <title>トランプ氏、グリーンランドの安全保障巡る協定の締結発表　米国が「恒久管理」</title>
+        <link>https://www.cnn.co.jp/usa/35252812.html?ref=rss</link>
+        <description>トランプ米大統領は18日、デンマークやデンマーク自治領グリーンランドとの間で合意に達したと明らかにした。グリーンランドの安全保障を巡る「恒久的な管理」を米国に与えるとともに、米国の敵対国によるグリーンランドへの軍の展開を一切禁じる内容。
+
+トランプ氏はSNSトゥルース・ソーシャルに、「米国はデンマーク王国およびグリーンランドと協定を締結した。米国はグリーンランドの安全保障その他すべての必要事項について...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252812.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/19/cc81280f72ace87cd41c5cd336f04b6e/t/768/511/d/c-ap26014761768941.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252810.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-19T15:13:00+09:00</dc:date>
+        <title>下痢まみれになりながら競技続行、優勝も「本当に申し訳ない」　屋内会場で滑る選手も　</title>
+        <link>https://www.cnn.co.jp/fringe/35252810.html?ref=rss</link>
+        <description>中国で開催された屋内フィットネス競技「ハイロックス」の大会で、選手が下痢まみれになりながらも競技を続行し、優勝する出来事があった。この選手はその後、謝罪。遡及（そきゅう）的に大会を棄権したことにして、獲得したポイントを返上すると表明した。
+
+物議を醸しているのは、オーストラリア人アスリートのジョアンナ・ビエトリク選手。今月12日、北京で開催されたレースのおよそ半分を終えたところで、便漏れのような症...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252810.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/19/8ee2e42d20f7c19296f9298ddba5415a/t/288/432/d/22994502-hyrox-poop-00-00-16-11-still001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252809.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-19T13:46:00+09:00</dc:date>
+        <title>学校で習った水循環のバランスが崩壊、地球上の全人口に影響　WMO</title>
+        <link>https://www.cnn.co.jp/world/35252809.html?ref=rss</link>
+        <description>学校の授業で習った水循環のバランスが、ここへ来て崩れつつある。化石燃料による汚染がその原因で、河川の縮小や氷河の消失、洪水と干ばつの激しい変動など、数々の危険な結果をもたらしている。世界気象機関（WMO）が発表した世界の淡水に関する年次分析報告書で明らかになった。
+
+水循環とは、地球上を水が循環する複雑なシステムを指す。水は地表および湖や河川から蒸発し、大気中に上昇して大量の水蒸気となる。水蒸気は長...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252809.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/19/14f2138bedeaa55eee41f64166c07782/t/768/576/d/gettyimages-2217474382.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35252805.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-19T12:37:00+09:00</dc:date>
+        <title>故ダイアナ元妃が着用した「復讐のドレス」、30年ぶりに競売へ　異例の装いに込めたメッセージとは</title>
+        <link>https://www.cnn.co.jp/style/luxury/35252805.html?ref=rss</link>
+        <description>英国の故ダイアナ元皇太子妃が着用し、王室の慣例を破ってポップカルチャー界に一大センセーションを巻き起こした「リベンジドレス（復讐のドレス）」が、約30年ぶりに競売にかけられることになった。
+
+ギリシャ人デザイナー、クリスティーナ・スタンボリアン氏が手掛けた圧巻のイブニングドレスは、今月ロンドンで展示された後、香港、ジュネーブを経て最終地のニューヨークに向かう。12月9日に行われるオークションでは、最高...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35252805.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/19/52c864abfea6d202bf821c1acf662c12/t/768/432/d/gettyimages-73399197.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
