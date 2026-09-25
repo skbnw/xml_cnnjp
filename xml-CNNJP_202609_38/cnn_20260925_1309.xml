@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-09-25T19:00:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35252986.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35252984.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252967.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252973.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252960.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252961.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35252959.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252956.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252942.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252941.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252940.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35252908.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252929.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252915.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252911.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252903.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35252896.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252899.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252893.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252892.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252890.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252878.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35252876.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252875.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252871.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35252869.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252866.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252865.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35252862.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35252860.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/tech/35252986.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-25T19:00:00+09:00</dc:date>
+        <title>ロンドンに広がるスマートグラスへの反感、プライバシー懸念で</title>
+        <link>https://www.cnn.co.jp/tech/35252986.html?ref=rss</link>
+        <description>バーや劇場、レストランが並ぶロンドン中心部は、紛争地帯には見えないかもしれない。だが店主らの多くが今、厳しい戦いに直面している。危険をはらんだデバイスともいわれるメガネ型端末、スマートグラスをめぐる戦いだ。
+
+スマートグラスを使うと、装着者が見ている場面の動画や画像の撮影や録音ができる。米メタがスマートグラスで提携する仏メガネ大手エシロールルックスオティカによると、昨年の販売台数は700万台を超えた...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35252986.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/25/f0fc4796bdcb9ef59f9bff3e959e4998/t/768/512/d/gettyimages-2162024080.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35252984.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-25T18:29:00+09:00</dc:date>
+        <title>「アメリカズ・ゴット・タレント」優勝のタイ人少女、母国で国民的スターに　米メタルバンドの前座も</title>
+        <link>https://www.cnn.co.jp/showbiz/35252984.html?ref=rss</link>
+        <description>最近までタイのナイトマーケットで路上ライブをしていた10代の少女が、米国の公開オーディション番組「アメリカズ・ゴット・タレント（AGT）」で優勝し、母国で一躍国民的スターになった。来月には米国を代表するヘビーメタルバンドの前座を務める見通しだ。
+
+ネネ・ロイヤルさん（16）は来月13日、シンガポールで行われるヘビメタバンド「アベンジド・セブンフォールド」の公演で前座を務める。バンドのプロモーターとネネさん...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35252984.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/25/c9525a428d278631c20436b84671d194/t/768/512/d/gettyimages-2296176059.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252967.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-25T16:45:00+09:00</dc:date>
+        <title>電車の優先席めぐり乗客が乱闘、動画拡散で議論噴出　東アジア</title>
+        <link>https://www.cnn.co.jp/world/35252967.html?ref=rss</link>
+        <description>東アジア各地の電車内で、若い乗客と年配の乗客が優先席をめぐって衝突する様子を捉えた動画が拡散し、議論を巻き起こしている。
+
+ 韓国・ソウルの地下鉄で撮影された動画には、優先席に座っていた女性が高齢男性に詰め寄られる様子が映っている。
+
+
+※人によっては不快になる映像を含みますのでご注意下さい
+
+
+男性は女性の服をつかみ、座席からどかそうとするが、女性も負けじと蹴りで応戦する。
+
+動画の前の段階で何があった...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252967.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/25/4c83b39a6b1b9b8118dd85fe1c2a4716/t/768/406/d/taipei-fight-over-priority-seat.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252973.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-25T16:13:00+09:00</dc:date>
+        <title>米国の拠点を狙うイラン、中国の組織の情報支援で攻撃精密化か　情報筋</title>
+        <link>https://www.cnn.co.jp/world/35252973.html?ref=rss</link>
+        <description>イランは中国の組織が提供する衛星画像や情報の助けを借りて、ホルムズ海峡を通航する船を脅かし、中東の米軍基地に対する精密攻撃を実施していることが分かった。情報筋4人が米情報機関による最近の分析をもとにCNNに明らかにした。ここ数カ月でイランの攻撃目標選定能力が飛躍的に向上した一因とみられる。
+
+情報筋によると、イランは7月、こうした衛星画像を利用してヨルダンの米軍基地を攻撃した。この攻撃では米兵3人が死...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252973.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/25/a1574954e3e61956696a534dc5a913f6/t/768/431/d/2026-07-08t124506z-1504886442-rc2o9man9e6h-rtrmadp-3-iran-crisis.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252960.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-25T12:30:00+09:00</dc:date>
+        <title>熱帯性のウミガメ、米カリフォルニア州の海岸で産卵　史上初めて確認</title>
+        <link>https://www.cnn.co.jp/fringe/35252960.html?ref=rss</link>
+        <description>通常は熱帯地域に生息するウミガメが、米カリフォルニア州の海岸で産卵している姿が確認された。当局によると、史上初の事例だという。
+
+ヒメウミガメ（オリーブ・リドリー）はウミガメの中で最も小型な種の一つで、オリーブグリーン色をしたハート形の甲羅が特徴だ。通常は太平洋、インド洋、大西洋の熱帯域に生息しているが、今月、2匹がカリフォルニア州の海岸に上陸した。
+
+米魚類野生生物局によると先週、オレンジ郡北西部...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252960.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/25/6d3969ffa08e904939c3d68b29e55303/t/288/432/d/809615763-1090131353509341-7592500117010547244-n.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252961.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-25T12:06:00+09:00</dc:date>
+        <title>ゼレンスキー氏、次にモスクワへ行く時は「ミサイルで」　NYでの発言が波紋</title>
+        <link>https://www.cnn.co.jp/world/35252961.html?ref=rss</link>
+        <description>米ニューヨークを訪れたウクライナのゼレンスキー大統領とロシア国営メディアの記者のやり取りがSNS上で広く拡散し、ロシア大統領府がコメントする事態になっている。
+
+このやり取りがあったのは23日。動画では、警護隊に囲まれてニューヨークの街を歩くゼレンスキー氏に対し、ロシア人記者が「次にモスクワへ行くのはいつか」と繰り返し質問している。すると最後にゼレンスキー氏は、「ミサイルで」と皮肉を込めて切り返した。...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35252959.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-25T10:38:00+09:00</dc:date>
+        <title>米スターバックス、250店閉鎖へ　立て直しに向け店舗削減続く</title>
+        <link>https://www.cnn.co.jp/business/35252959.html?ref=rss</link>
+        <description>米スターバックスは近く、北米で約250店舗を閉鎖する。スターバックスは業績の立て直しに取り組んでおり、引き続き店舗数の絞り込みを進める。
+
+スターバックスは声明で、対象となるのは「顧客やパートナーに提供したいと考える体験を実現できていない」店舗や、採算が取れていない店舗だと説明した。閉鎖される店舗は合計で、北米にある約1万8000店のおよそ1％に当たる。
+
+ブライアン・ニコル最高経営責任者（CEO）は1年前にも...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35252959.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/25/d936b99d575f530bc45dfdfee9adc952/t/768/511/d/gettyimages-2257971665.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252956.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-25T10:32:00+09:00</dc:date>
+        <title>ホワイトハウス、CNN記者団による取材を拒否　習氏の晩餐会到着へのアクセス認めず</title>
+        <link>https://www.cnn.co.jp/usa/35252956.html?ref=rss</link>
+        <description>米ホワイトハウスは23日、中国の習近平（シーチンピン）国家主席が公式晩餐（ばんさん）会のためにホワイトハウスに到着するに当たり、CNNの記者2人による取材を拒否した。これに先立ち、ホワイトハウス側は同局に対し、取材を許可する記者の職種を指定しようとしていた。
+
+記者とプロデューサーが取材のために会場へ入ろうとしたところ、報道担当の係員が入場を拒否。ホワイトハウスのスティーブン・チャン広報部長に「話をす...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252942.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-25T09:55:00+09:00</dc:date>
+        <title>トランプ氏の殺害、試みていないとイラン大統領　NYで異例の記者会見</title>
+        <link>https://www.cnn.co.jp/world/35252942.html?ref=rss</link>
+        <description>イランのペゼシュキアン大統領が国内でメディアに登場する場合、会見は厳格に管理された状況下で行われる。
+
+しかし24日、ペゼシュキアン氏は米ニューヨークで記者団の質問に応じた。米国と敵対関係にある国の指導者でありながら、同氏のニューヨーク訪問には米シークレットサービス（大統領警護隊）の警護が付いている。
+
+国連総会での演説から一夜明けて行われた今回の幅広い質疑応答の中で、ペゼシュキアン氏は戦争や核開発...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252942.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/25/5818e121322aeea3ee4c1bac6615c0ad/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXVmc28wNnYwMDAxM2Q1dGNod3h3aXg2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdWZzbm83eTAwMXgyOHAyZjlocTA0czE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252941.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-25T08:51:00+09:00</dc:date>
+        <title>習氏、トランプ氏に「台湾独立反対」を要請　中国国営メディア</title>
+        <link>https://www.cnn.co.jp/world/35252941.html?ref=rss</link>
+        <description>中国の習近平（シーチンピン）国家主席は24日、トランプ米大統領との首脳会談で、米国が台湾独立に反対するよう望むと伝えた。中国国営メディアが報じた。
+
+国営新華社通信によると、習氏は「中国は米国が『台湾独立』に反対するという正しい立場を堅持することを望んでいる」と述べた。さらに、米国が「台湾問題を慎重に扱う」ことを期待するとした。
+
+米国は長年にわたり、台湾独立を支持しないとの立場を取っている。「一つ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252941.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/25/0921b479eb51bca0ba40cc390f141378/t/768/512/d/taiwan-politics.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252940.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-25T08:15:00+09:00</dc:date>
+        <title>ネタニヤフ氏、イラン政権崩壊は「時間の問題」　入植地制裁の欧州も痛烈に批判</title>
+        <link>https://www.cnn.co.jp/world/35252940.html?ref=rss</link>
+        <description>イスラエルのネタニヤフ首相は24日、国連総会で演説し、イラン政権の崩壊は「時間の問題にすぎない」と述べ、いつの日かイラン国民は「自由になる」との見方を示した。
+
+ネタニヤフ氏は「あの残虐な政権は、自らのうそと腐敗、残酷さによって打倒される。邪悪な政権は崩壊し、我々は皆それを祝うことになる」と語った。
+
+演説では衛星通信サービス「スターリンク」の端末を掲げ、イラン指導部が恐れているのは「人々が真実にア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252940.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/25/dc6752420847e7ac00ca60b7db41a96a/t/768/512/d/gettyimages-2296283086.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35252908.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-24T18:06:00+09:00</dc:date>
+        <title>米MLSリザーブチームの監督が解任、「身体的虐待と性差別」に絡む事案受け</title>
+        <link>https://www.cnn.co.jp/showbiz/35252908.html?ref=rss</link>
+        <description>米メジャーリーグサッカー（MLS）のコロンバス・クルーは、女性審判に対する「身体的虐待と性差別」に当たると審判協会が判断した試合中の出来事を受け、リザーブチームのヘッドコーチを務めていたフェデリコ・イグアイン氏を解任した。
+
+2025年1月に同クラブのリザーブチーム、クルー2のヘッドコーチに就任したイグアイン氏は、最近行われたMLS NEXT Proの試合で女性審判の手を握り、離すことを拒んだうえ、審判に対して「忘れ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35252908.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/24/2ee9d2c6fcb9ba584a6c107ae9f56ff9/t/768/512/d/gettyimages-1494163264.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252929.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-24T17:30:00+09:00</dc:date>
+        <title>米国の若い世代で増える脳卒中、30年近くでほぼ倍増　専門家のアドバイスは？</title>
+        <link>https://www.cnn.co.jp/fringe/35252929.html?ref=rss</link>
+        <description>心血管の健康について心配するのは、年齢を重ねてからという人が多い。しかし、脳卒中が若年成人の間で着実に増えており、30年近くでほぼ倍増したことが、新たな研究から明らかになった。
+
+「脳卒中は何歳でなっても深刻な病気だ。若い人に起きた場合、とりわけ影響が大きい」。そう話すのは、専門誌ニューロロジーに23日に掲載された研究の上級著者、デービッド・ロビンソン氏だ。
+
+研究によると、若年成人の脳卒中発症率は、1...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252929.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/24/cb0c4e264eb51261ad63d3d40a8ca7bd/t/768/512/d/gettyimages-1487013632.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252915.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-24T14:32:00+09:00</dc:date>
+        <title>CNNなどのホワイトハウス立ち入り禁止、トランプ政権に差し止め命令　米連邦裁判所</title>
+        <link>https://www.cnn.co.jp/usa/35252915.html?ref=rss</link>
+        <description>米連邦裁判所は24日、トランプ大統領によるCNNとMS NOW、ポリティコへのホワイトハウス立ち入り禁止措置について、即時差し止めを命じた。
+
+24日未明に公表された判決によると、ティモシー・ケリー判事は記者の取材許可証の取り消しが「憲法上の適正手続き」を経ずに実施されたとの判断を示した。
+
+ケリー氏は「『一般的な原則』として、政府が憲法で保護された個人の権利をはく奪する前に、その個人は通知を受け、意見を述べる...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252915.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/24/f6931951024030dc171af37f70e095ca/t/768/512/d/gettyimages-2295498690.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252911.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-24T12:57:00+09:00</dc:date>
+        <title>長期展開のリンカーン空母打撃群、配属された要員8人が自殺図る　米海軍長官が議会に報告</title>
+        <link>https://www.cnn.co.jp/usa/35252911.html?ref=rss</link>
+        <description>米空母「エイブラハム・リンカーン」を中心とする打撃群がイランに対する戦闘作戦を実施し、連続海上展開日数の現代記録を塗り替えた期間などに、リンカーンに配属されていた海軍要員8人が自殺を図ったことが分かった。CNNが入手した海軍長官代行の書簡から明らかになった。
+
+フン・カオ海軍長官代行は今回、リンカーンの乗組員の士気やメンタルヘルスに関するジリブランド上院議員（民主党）の質問に書面で回答し、数字を公表...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252911.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/24/5d5cdd145885190cf61eae15dcde307f/t/768/511/d/2026-09-03t140317z-782210124-rc2lbna4ig6t-rtrmadp-3-iran-crisis-thailand-usa.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252903.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-24T12:06:00+09:00</dc:date>
+        <title>イスラエル駐米大使の息子、車両突入攻撃で重傷　ヨルダン川西岸地区</title>
+        <link>https://www.cnn.co.jp/world/35252903.html?ref=rss</link>
+        <description>イスラエルのエヒエル・ライター駐米大使の息子が23日午後、占領下にあるパレスチナ自治区ヨルダン川西岸地区で起きた車両突入攻撃で重傷を負った。地域の当局が明らかにした。翌日にはイスラエルのネタニヤフ首相が、国連で演説する予定だった。
+
+ベイト・ホロン入植地近くの検問所で任務に当たっていた予備役兵のネリア・ライター氏は、エルサレムの病院に緊急搬送されたと、救急対応当局が発表した。
+
+「ネリアには奇跡が必...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252903.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/24/d166b05ddd883a5b5747652deee292a5/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXVlY212Z2swMDB6MjhudDAwb21oMzFm-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdWVjbXZnazAwMTAyOG50NG5jeTU2Ync_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35252896.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-24T11:10:00+09:00</dc:date>
+        <title>AIによる政府システムのハッキング、米オープンAIのエージェントで初めて検知　豪</title>
+        <link>https://www.cnn.co.jp/tech/35252896.html?ref=rss</link>
+        <description>オーストラリアのアルバニージー首相は23日、米オープンAIのAI（人工知能）エージェントがオーストラリアの国民医療データベースにハッキングを行ったと明らかにした。これは知られる限りAIが政府のネットワークをハッキングした初めての事例だとしている。
+
+アルバニージー氏は米ニューヨークで開催された国連総会の傍ら、オープンAIのサム・アルトマン最高経営責任者（CEO）と会談した後、記者団に語った。それによると、当該...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35252896.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/24/60ea5996b02026a76e3cb8a0da193e58/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXVlcHVrYmkwMDBsM2I2cmd6OHRsOHZj-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdWVwbWVkdjAwMXoyZG5xNnRkNDluaHE_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252899.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-24T10:49:00+09:00</dc:date>
+        <title>「スーパーエルニーニョ」の猛威、2月までに45万人超が暑さで死亡か　影響はグローバルサウスに集中</title>
+        <link>https://www.cnn.co.jp/fringe/35252899.html?ref=rss</link>
+        <description> エルニーニョ現象を原因とする猛暑により、来年2月までに世界各地で50万人近くが命を落とす可能性がある――。そんな新たな報告書が発表された。
+
+エルニーニョは自然な気候現象で、通常、世界の気温を上昇させる。現在は「スーパー」と呼ばれる域に達し、観測史上最強クラスになりつつある。
+
+米シカゴ大を拠点とする科学者や経済学者、データエンジニアでつくる「クライメート・インパクト・ラボ」が23日に発表した分析による...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252899.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/24/6b0ed03195a14c6e5ee7a0b701de764e/t/768/511/d/gettyimages-2291826359.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252893.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-24T09:31:00+09:00</dc:date>
+        <title>トランプ米大統領夫妻、米国入りした中国の習主席を出迎え</title>
+        <link>https://www.cnn.co.jp/world/35252893.html?ref=rss</link>
+        <description>米国のトランプ大統領とメラニア夫人は23日夕方、メリーランド州のアンドルーズ統合基地で中国の習近平（シーチンピン）国家主席と彭麗媛（ポンリーユアン）夫人を出迎え、短い到着式典に参加した。
+
+習氏は米東部標準時午後6時2分、彭夫人とともに搭乗機のタラップを降り、長さ約30メートルのレッドカーペットでトランプ夫妻の出迎えを受けた。
+
+両者は握手し、通訳を介して数分間言葉を交わした。習氏には花束が贈られたが、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252893.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/24/5fba019da17293a5b90cc1798cdf647e/t/768/512/d/gettyimages-2296811435.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252892.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-24T08:48:00+09:00</dc:date>
+        <title>ゼレンスキー氏、プーチン氏は「患者第1号」　国連演説の主な発言</title>
+        <link>https://www.cnn.co.jp/world/35252892.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は23日、国連総会での演説で、ロシアのプーチン大統領を「ペイシェント・ゼロ」（患者第1号）と呼び、自国に対して仕掛けられた戦争の根源にいる人物だとの見方を示した。
+
+ゼレンスキー氏は「戦争のない彼を想像できるだろうか。彼はペイシェント・ゼロだ。戦争という思想をさらに広め続けている張本人である。それが広がる先にはどこであれ、痛みと不安定、新たなリスク、そして当然ながら新た...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252892.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/24/5ed21f6c952fcbb66b436bc55a06a740/t/768/512/d/ap26266647921964.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252890.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-24T08:16:00+09:00</dc:date>
+        <title>イラン大統領「我々は決して屈しない」　国連総会で演説</title>
+        <link>https://www.cnn.co.jp/world/35252890.html?ref=rss</link>
+        <description>イランのペゼシュキアン大統領は23日、国連総会で演説した。イランは「決して頭を下げることも、ひざを屈することもない」と述べ、自身が「いじめ」と表現する行為に直面する中で、「真の平和と安定」を追求するため各国に協力を呼びかけた。
+
+ペゼシュキアン氏は、トランプ米大統領が前日に国連総会で行った演説に言及し、トランプ氏について「制裁や圧力、いじめの強化に直面すれば、イラン国民の抵抗も強まるということを理...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252878.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-23T19:07:00+09:00</dc:date>
+        <title>北大西洋に謎の「冷たい斑点」、将来の不吉な兆候か　研究</title>
+        <link>https://www.cnn.co.jp/fringe/35252878.html?ref=rss</link>
+        <description>グリーンランドとアイスランドの南に位置する北大西洋の広範な海域で、非常に奇妙な現象が起きている。他の海洋の大部分が温暖化する一方、当該の海域は逆に低温化している――。今年5月、そんな研究が発表された。研究はこの謎に対する答えを提示すると共に、それが不吉な兆候だと指摘。気候変動における最も憂慮すべき転換点の一つへと、世界が突き進んでいることを示す現象に他ならないと警鐘を鳴らしている。
+
+「コールド・ブ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252878.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/06/13/192f1cba9f184163104e9084938fab00/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXE3emh2b3gwMDAxM2I2cmZ2YmVxZmts-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTd6aHJxNDAwMzIyYXFtNG9nM2ZyYWk_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35252876.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-23T18:22:00+09:00</dc:date>
+        <title>月面で発見のクレーター、新たに形成されたものとしては太陽系最大　「生涯に一度」の観測チャンス</title>
+        <link>https://www.cnn.co.jp/fringe/35252876.html?ref=rss</link>
+        <description>月の表面に最近、彗星（すいせい）か小惑星の破片が激突したことを示す、大きな跡が見つかった。
+
+2024年4月11日から5月22日までの間に、3～6階建てのビルほどの大きさだったとみられる岩石が月の東端に衝突したが、当時はだれも気づかなかった。昨年になって発見されたクレーターは、幅が222メートルでフットボール用コートの長さの2倍以上、深さは43メートルと、スクールバスを3台重ねたほどに達していた。
+
+研究の成果は16日...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35252876.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/23/a941843fb5c30a89c8bcc1e6423498ab/t/768/431/d/mcgetchin-discovery-reenactment.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252875.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-23T16:53:00+09:00</dc:date>
+        <title>【分析】トランプ氏から続々離反する共和党候補、「レッドステート」でも顕著に　中間選挙控え</title>
+        <link>https://www.cnn.co.jp/usa/35252875.html?ref=rss</link>
+        <description>トランプ米大統領の歴史的な不人気ぶりを考えれば、中間選挙を控え、共和党候補がトランプ氏から距離を取るのはある程度避けられないことだった。
+
+しかし、そうした例はここにきて積み重なっている。共和党色の濃い「レッドステート」の一部でとりわけ離反が顕著だ。
+
+大統領やイラン戦争のような政策から距離を置く候補者の多くは、トランプ氏が以前に圧勝した地域で選挙活動を行っている。中には2桁の差がついた地域もある。...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252875.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/23/9ebfbf21383102505d2ef94719e709c9/t/768/432/d/20260922-hinsonrogersdonalds.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252871.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-23T13:44:00+09:00</dc:date>
+        <title>36歳で急死の米俳優ヘイデン・パネッティーアさん、死因はフェンタニルなどの過剰摂取　「事故死」と断定</title>
+        <link>https://www.cnn.co.jp/usa/35252871.html?ref=rss</link>
+        <description>米サウスカロライナ州当局は22日、先月急死した米俳優ヘイデン・パネッティーアさん（享年36）について、オピオイド（麻薬性鎮痛薬）「フェンタニル」などの薬物の有害作用が死因になったとの見解を明らかにした。パネッティーアさんは若くして手に入れた名声や薬物依存を巡る葛藤を公に語っていた。
+
+グリーンビル郡検視局によると、事故死と断定された。ただ、死亡現場から数千キロ離れた西海岸では、パネッティーアさんがカ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252871.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/23/8bca564d842497fec7e4af76a2fb7b87/t/768/511/d/c-gettyimages-631036650.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35252869.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-23T12:00:00+09:00</dc:date>
+        <title>米ジェットコースターで100人超が脳損傷訴え、死亡や後遺症も　時速130キロ近く、座席は360度回転</title>
+        <link>https://www.cnn.co.jp/showbiz/35252869.html?ref=rss</link>
+        <description>米カリフォルニア州の遊園地シックスフラッグスでジェットコースターの「X2」に乗車して脳に損傷を負ったと訴える人が、過去2年だけで100人以上に上っている。CNNは先月の調査報道で、同コースターに関係する重傷者や死者が相次いでいる実態を明らかにしていた。
+
+クリストファー・ブローネ弁護士は22日に記者会見を開き、シックスフラッグスを相手取った3件の提訴を発表。「同社は意図的に人々の命で賭けをしていた…あんな乗り...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35252869.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/23/52bf47f05a4bea72fcfff1375e86806f/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXVkNWRoYTQwMDAyM2I2cWEzaHF3dnV5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdWN6cDA2ZDAwMncyOHFoYW9ycmRsZHA_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252866.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-23T11:06:00+09:00</dc:date>
+        <title>ウクライナによるパトリオット用ミサイルの生産、トランプ氏とゼレンスキー氏が協議継続</title>
+        <link>https://www.cnn.co.jp/world/35252866.html?ref=rss</link>
+        <description>トランプ米大統領は22日、国連総会の合間にウクライナのゼレンスキー大統領と二国間協議を行い、ウクライナ国内での「パトリオット」用ミサイルの生産の可能性について協議する意向を明らかにした。
+
+トランプ氏は記者団の質問に対し、「その件については話をしている」とコメント。「これから協議する予定だ」と明らかにした。
+
+パトリオットは「目標物迎撃用追跡位相配列式レーダー」の略語で、米陸軍の主要なミサイル防衛シ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252866.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/23/8630c210f24881c7bdf0e8c59907bf73/t/768/432/d/patriot-npw3__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252865.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-23T10:35:00+09:00</dc:date>
+        <title>外見至上主義の「ルックスマキシング」で有名な米配信者、レイプ容疑で訴追</title>
+        <link>https://www.cnn.co.jp/usa/35252865.html?ref=rss</link>
+        <description>極限まで外見を追求する「ルックスマキシング」で物議を醸しているライブ配信者、クラビキュラー容疑者が米マサチューセッツ州でレイプ容疑により訴追されたことが分かった。
+
+クラビキュラー容疑者の本名はブレーデン・ピーターズ。マサチューセッツ州オーリンズの地区裁判所に今月提出された訴追状では、性交目的で相手に薬物を投与した罪や、未成年にアルコールを提供した罪にも問われている。
+
+これらの容疑に関連してフロ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35252865.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/23/7336930da695658715e2b3f858838df5/t/768/511/d/gettyimages-2282978704.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35252862.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-23T09:35:00+09:00</dc:date>
+        <title>いきなりカテゴリー5に発達　ハリケーン「ポロ」、スーパーエルニーニョの影響で異常な勢力</title>
+        <link>https://www.cnn.co.jp/world/35252862.html?ref=rss</link>
+        <description>太平洋で発達した熱帯低気圧「ポロ」が米国時間の22日、異常な速度で勢力を強め、5段階で最も強い「カテゴリー5」のハリケーンになった。勢力はさらに強まり続けている。
+
+ポロは海面水温が高くなるスーパーエルニーニョ現象の影響で急激に発達。風速は80メートルを超え、西太平洋で発生した二つのスーパー台風と並んで今年最大級の勢力となった。
+
+
+
+  
+    
+         
+                    
+                    
+           ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35252862.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/23/6175e4767c4c7bd4651ae0e9143d09d9/t/768/432/d/01-polo-8am-tuesday-092226.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35252860.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-23T08:45:00+09:00</dc:date>
+        <title>トランプ氏が国連演説、イラン巡り「重大な決断」　「選挙後に合意か壊滅させるか」</title>
+        <link>https://www.cnn.co.jp/usa/35252860.html?ref=rss</link>
+        <description>トランプ米大統領は22日、国連総会演説でイランに関して「重大な決断」を迫られていると述べ、中間選挙後に合意を結ぶか、イランを壊滅させるかどちらかの選択になると位置付けた。
+
+「イランと合意を結んで国を再建させ、かつてないほど強大な国、おそらく中東、あるいは世界でも屈指の大国を築くチャンスを与えるべきだろうか？」
+
+トランプ氏はそう前置きしたうえで、「それともイスラム共和国を速やかに壊滅させ、二度と人...</description>
+    </item>
+</rdf:RDF>
