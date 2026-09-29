@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-09-29T20:25:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253078.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35253076.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253075.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35253067.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253066.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253065.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35253058.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253057.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253051.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253053.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253049.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253048.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253046.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35253044.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253041.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35253037.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253040.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253031.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253027.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253026.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253023.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253017.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253019.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253014.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253013.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253012.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35253009.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253008.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253006.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253005.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253078.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T20:25:00+09:00</dc:date>
+        <title>米コーネル大学での集団レイプ疑惑、訴訟と捜査についてこれまで分かっていること</title>
+        <link>https://www.cnn.co.jp/usa/35253078.html?ref=rss</link>
+        <description>米コーネル大学の元学生が、2024年に男子学生の社交クラブ（フラタニティー）の施設内で薬物を投与され、集団レイプされたとして今月訴訟を起こした。疑惑が浮上した当初の関係機関の対応に批判の声も上がる中、新たな注目を受けて検察当局が改めて捜査に乗り出す状況となっている。
+
+101ページに及ぶ訴状には、実名を伏せられた当事者の女性が24年10月19日夜、「カイ・ファイ」と呼ばれるフラタニティーの会館内で起きたと主張...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253078.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/2f920294cf4d33d086ee971217408f06/t/768/512/d/ap26271667041174.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35253076.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T18:05:00+09:00</dc:date>
+        <title>1700年前の巨大仏塔、ギザの大ピラミッドに次ぐ大きさの建造物はどうやって造られた？　スリランカ</title>
+        <link>https://www.cnn.co.jp/travel/35253076.html?ref=rss</link>
+        <description>満月の日にスリランカの古代都市アヌラーダプラを訪れたなら、過去は決して遠いものには感じられないはずだ。
+
+白装束に身を包んだ仏教徒の巡礼者たちが、ほこりっぽい道を裸足で歩く。サフラン色の僧衣をまとった僧侶たちが夜明けとともに読経を始める。台湾からカナダまで、外国からの訪問者も地元の参拝者に交じり、2000年以上にわたってほぼ途切れることなく続いてきた儀式に参加する。
+
+スリランカ北中部の平原に位置する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35253076.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/51b15400665979debc1c6bbf87eef4ba/t/768/512/d/gettyimages-1179102843.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253075.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T17:45:00+09:00</dc:date>
+        <title>【分析】NYでの重要な気候イベント、AIの議論が席巻した要因は</title>
+        <link>https://www.cnn.co.jp/fringe/35253075.html?ref=rss</link>
+        <description>毎年9月中旬になると、気候活動家やジャーナリスト、テック起業家、外交官、資金提供者など約10万人が米ニューヨーク市に集まり、気候に関するあらゆる事柄について語り合う。このイベント「クライメート・ウィーク」は、毎年恒例の国連総会に合わせて開催される。国連総会のためニューヨークを訪れた各国首脳の一部は、予定がぎっしり詰まった会合の合間を縫ってクライメート・ウィークに参加する。
+
+このイベントを通じ、気候...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253075.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/e968fa0fe1d178490978862d271a7b57/t/768/512/d/gettyimages-2295897700.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35253067.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T13:01:00+09:00</dc:date>
+        <title>米オープンAI、最新AIモデルの公開を取りやめ　安全性の「基準を十分に満たさなかった」</title>
+        <link>https://www.cnn.co.jp/tech/35253067.html?ref=rss</link>
+        <description>米オープンAIが人工知能（AI）の最新モデル「GPT6.1アストラ」を公開しないと明らかにした。安全性の面で「基準を十分に満たさなかった」ためだという。
+
+米紙ウォールストリート・ジャーナルが28日、最初に報じた。今回の決定は、業界トップらがAI開発の減速を呼びかける中で下された。アンソロピックのダリオ・アモデイ最高経営責任者（CEO）が今月オンラインで公開した論考で「最先端開発の減速」を初めて提唱したことを受け...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35253067.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/2231690079b8193a2fadcd86271ccc32/t/768/511/d/gettyimages-2229147057.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253066.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T12:59:00+09:00</dc:date>
+        <title>税金原資のトランプ氏の広告、本人が企画に関与と情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35253066.html?ref=rss</link>
+        <description>米国のトランプ大統領は、自身と政権の政策を宣伝するビデオ広告を自ら主導し、使用する画像や動画の選定にも関与していた。情報筋がCNNに明らかにした。当該の広告は税金を原資にしているとして物議を醸している。
+
+広告に詳しいトランプ氏の顧問2人によると、これらの広告はホワイトハウスのビデオチームによって内部で制作された。このチームは政権の広報を担当するコミュニケーションチームの一部だという。
+
+11月の中間選...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253066.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/8af7eaf4e80380e4bc66ece068901d03/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXVsdXczOHkwMDAyM2I2dG5ycDdqM3My-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdWx1OHFlMDAwMHkyZHAzYTMzdjM2Nzk_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253065.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T12:03:00+09:00</dc:date>
+        <title>米FBI捜査官らの個人情報が大量流出　対応に不満、職員や家族の身の安全も懸念</title>
+        <link>https://www.cnn.co.jp/usa/35253065.html?ref=rss</link>
+        <description>大企業などを狙ってサイバー犯罪を繰り返しているハッカー集団が、米連邦捜査局（FBI）の職員や元職員ら数千人の個人情報を盗んだと主張している。発覚から1週間たった今も被害の全容は把握できておらず、FBIの対応をめぐって内部からも不満の声が上がっている。
+
+FBI職員や元職員は、自分が被害に遭ったのかどうかも分からず、被害者向けの安全対策も不十分な状況に対して不安を募らせている。
+
+「上層部はどうしていいか分か...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253065.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/0f95c5b49b050d9b56f32dd58f1da1ab/t/768/512/d/gettyimages-2288940272.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35253058.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T11:15:00+09:00</dc:date>
+        <title>チェスの神童、11歳で史上最年少の女子グランドマスターに</title>
+        <link>https://www.cnn.co.jp/showbiz/35253058.html?ref=rss</link>
+        <description>ウズベキスタン・サマルカンドで開かれた第46回チェス・オリンピアードで好成績を収めた英ロンドン北西部出身のボダナ・シバナンダンさん（11）が、史上最年少で女子グランドマスターの称号を獲得した。
+
+シバナンダンさんは、27日にユーチューブで公開されたインタビューで国際チェス連盟（FIDE）に、「歴史を作り続けたい」と意欲を語った。
+
+女子グランドマスターは、チェス界における女性最高位の称号。
+
+シバナンダンさん...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35253058.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/bbf2bd80f1279209f162ea22c6042d44/t/768/512/d/2026-04-28t100139z-878684460-rc26vkaoxso9-rtrmadp-3-britain-chess.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253057.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T11:13:00+09:00</dc:date>
+        <title>テロ計画容疑で逮捕の男5人、英警察が保釈　トランプ米大統領は批判</title>
+        <link>https://www.cnn.co.jp/world/35253057.html?ref=rss</link>
+        <description>英空軍基地に対するテロを企てた容疑で逮捕された男5人が28日に保釈された。同基地は米軍もイラン攻撃に使用しており、ドナルド・トランプ米大統領は「驚いた」と述べて5人の保釈を批判した。
+
+トランプ大統領はホワイトハウスで記者団に対し、自分だったら容疑者らは釈放しないと述べ、5人の行為はイランと関係がある「かもしれない」と推測。ただ、それ以上の詳細は明らかにせず、「私は答えを知っている。具体的に言うことも...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253057.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/ba20440e5d52bc982ef9fcbb8eff99cf/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXVsMWE0NzMwMDAwM2I2cXBucHVtMnVn-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdWwwMWppaTAwM2IyN3FrOHZoeDl4aGM_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253051.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T10:29:00+09:00</dc:date>
+        <title>16歳少年がバスの中で同級生からレイプ被害、学校でのリスク浮き彫りに　ペルー</title>
+        <link>https://www.cnn.co.jp/world/35253051.html?ref=rss</link>
+        <description>事件は白昼堂々、目撃者のいるバスの中で起きたとされる。ペルー海軍が運営する中等学校に通う16歳の男子生徒が、同級生にレイプされたと訴えている。自身の所属するサッカーチームが大会から帰路につく途中だったという、
+
+ペルー検察庁は、今月15日に発生したこの事件を捜査している。事件は国内で大きな波紋を呼び、生徒間の性暴力の増加を浮き彫りにしている。
+
+当局は当初、海軍士官の子弟が大多数を占める同校、リセオ・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253051.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/0aa29a8d5ae80dd13e4bdfcb4e31fa11/t/768/512/d/sipausa-73425331.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253053.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T09:51:00+09:00</dc:date>
+        <title>飛行中に吹き飛んだフロントガラス、操縦室内に散乱　米旅客機が緊急着陸</title>
+        <link>https://www.cnn.co.jp/usa/35253053.html?ref=rss</link>
+        <description>72人を乗せて飛行中だった米ユナイテッド航空の旅客機で27日、離陸直後にフロントガラスが割れてコックピット内にガラス片が飛び散るトラブルが発生し、テキサス州ヒューストンの空港へ引き返して緊急着陸した。
+
+トラブルが発生したのはメサ航空が運航するヒューストン発同州エルパソ行きの地域便（エンブラエルE175型機）。航空交通管制傍受サイト「ATC.com」が収録した音声によると、操縦士は管制塔に「ガラスが割れた」と伝...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253053.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/0990b95db1635a9239c8b2d54ec97cae/t/768/512/d/gettyimages-2253297067.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253049.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T08:49:00+09:00</dc:date>
+        <title>トランプ氏、中国への武器売却「協議していない」　駐中国大使の発言と食い違い</title>
+        <link>https://www.cnn.co.jp/usa/35253049.html?ref=rss</link>
+        <description>トランプ米大統領は28日、最近行われた中国の習近平（シーチンピン）国家主席との会談で、米国による中国への武器売却の可能性については協議していないと述べ、前日に米駐中国大使が述べた主張と食い違う見解を示した。
+
+パデュー駐中国大使は27日、米FOXニュースに対し、トランプ氏は「我々は世界中の国々に武器を売っている」と繰り返し述べていると話し、「ある時点で習主席に『いくつか買いたいか』と実際に尋ねた」と語っ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253049.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/41261dd48b2a9479b825fec9c646d8c1/t/768/512/d/gettyimages-2297073271.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253048.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T08:39:00+09:00</dc:date>
+        <title>トランプ氏、対イラン制裁緩和に応じる用意　核問題での「具体的な進展」が条件</title>
+        <link>https://www.cnn.co.jp/usa/35253048.html?ref=rss</link>
+        <description>トランプ米大統領は、最終合意の一環として、イランへの制裁緩和や凍結資産の解除に応じる構えだ。ただし、イラン側が核問題で「具体的な進展」を示すことが条件となる。米当局者が28日、CNNに明らかにした。仲介国は現在、米国とイランを交渉の場に戻そうと働きかけている。
+
+当局者によると、米国は仲介国を通じて「前向きかつ建設的な協議」を行っているが、核問題が対処されない限り合意には至らないとも指摘した。トランプ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253048.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/6f38395d498c6c97956b2ca0098e6ea3/t/768/512/d/iran-crisis-20260722115442174.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253046.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-28T22:08:00+09:00</dc:date>
+        <title>【分析】新たな騒動巻き起こすトランプ氏、税金原資の広告動画で強権を誇示</title>
+        <link>https://www.cnn.co.jp/usa/35253046.html?ref=rss</link>
+        <description>ドナルド・トランプ氏が米国に見せたいのは以下のイメージだ。
+
+情け容赦のない大統領として、角張った顎（あご）で強権を誇示しつつ、くっきりとしたモノクロ映像の中にその姿が浮かび上がる。映像のバックには、共産主義者やディープステート（影の政府）、「フェイクニュース」メディアとの「最後の戦い」を誓う本人の肉声が響き渡る。
+
+しかし、27日の米プロフットボール（NFL）の中継中に流れた上記の30秒広告で最も挑発的...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253046.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/28/f09b81298953b224fcae72299a0a0024/t/768/512/d/ap26270617845053.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35253044.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-28T17:38:00+09:00</dc:date>
+        <title>人気プロレスラーPACさん死去、40歳　前日にも試合</title>
+        <link>https://www.cnn.co.jp/showbiz/35253044.html?ref=rss</link>
+        <description>英国出身の人気プロレスラーで、「PAC（パック）」のリングネームで知られるベンジャミン・サタリーさんが死去した。40歳だった。米プロレス団体AEW（オール・エリート・レスリング）が明らかにした。
+
+AEWは27日夜、「英イングランドのニューカッスル・アポン・タイン出身のサタリーは2004年にプロレスラーとしてのキャリアを歩み始め、世界各地のプロレス団体で活躍した。革新的な空中技と驚異的なリング上での能力でファンを...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35253044.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/28/7733ba7e3ce0a663265026c4a849e8e4/t/768/499/d/gettyimages-643915248.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253041.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-28T17:33:00+09:00</dc:date>
+        <title>ネパールの雪崩、4人死亡　行方不明者の捜索続く</title>
+        <link>https://www.cnn.co.jp/world/35253041.html?ref=rss</link>
+        <description>ネパール中部の寂峰ヒムルン・ヒマール（標高7126メートル）のベースキャンプで27日に発生した雪崩では、少なくとも4人が死亡した。遠征登山の主催会社が明らかにした。行方不明者も複数出ている。
+
+雪崩の発生時、ベースキャンプではシェルパと調理スタッフが10月1日に到着予定だったアラブ首長国連邦（UAE）からの登山隊のために、ロープの固定やテントの設営を行っていた。そこへ雪と岩の激流が山腹を流れ下ってきた。
+
+雪崩...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253041.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/27/49cf181f95f90002fc8128193c40f721/t/768/576/d/gettyimages-2296792179.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35253037.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-28T16:39:00+09:00</dc:date>
+        <title>英文学の名作「ジェーン・エア」に中国が注目　10代向けの恋愛の教材として</title>
+        <link>https://www.cnn.co.jp/style/arts/35253037.html?ref=rss</link>
+        <description>今月初めから新学期が始まった中国国内の学校で、必読書のリストに新しく加わった1冊の本が目を引いた。19世紀英国の小説「ジェーン・エア」だ。
+
+この古典的な名作は、当初女性の権利拡大を描く先駆的な作品とみなされていた。中国では当局がイデオロギーへの同調を求め、教科書を厳しく監修しているだけに、意外な選択と思えるかもしれない。
+
+だが中国当局は、作者シャーロット・ブロンテからのもうひとつのメッセージに着目...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35253037.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/28/66285672eb9a649d844d3c41ec38bb7a/t/768/432/d/gettyimages-3300424.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253040.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-28T16:26:00+09:00</dc:date>
+        <title>昼寝か短時間の運動か？　睡眠不足でも記憶力を維持する方法を専門家が解説</title>
+        <link>https://www.cnn.co.jp/fringe/35253040.html?ref=rss</link>
+        <description>睡眠を取らずにいると、集中したり新しい情報を学んだりすることが難しくなる。また、夜勤をする人や、深刻な睡眠不足に陥ることのある人の場合、十分な休息を取ることが必ずしも可能とは限らない。
+
+そうした場合に睡眠以外で、集中力を保つ方法はあるだろうか。科学誌「米国科学アカデミー紀要」に掲載された最近の研究は、睡眠不足になっても記憶を守るための二つの方法として有酸素運動と昼寝を比較。その結果、短時間の運...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253040.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/28/7d28ab88fc33f736e4a97376059db1cc/t/768/432/d/gettyimages-1492255653.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253031.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-28T15:29:00+09:00</dc:date>
+        <title>バス車内での迷惑行為に罰金、大音量の音楽やスピーカーフォンでの通話が対象に　シンガポール</title>
+        <link>https://www.cnn.co.jp/world/35253031.html?ref=rss</link>
+        <description>バスの乗客の大半は、周囲の乗客が大音量で音楽をかけたり、スピーカーフォンで大声で話したりすることがどれほどの迷惑行為になるかを理解している。
+
+今後シンガポールでそのような行動を取ると、当該の乗客には高額の罰金が科せられる可能性がある。
+
+これはシンガポールによる公共バスにおける「迷惑行為」取り締まりの一環。違反者には最大で5000シンガポールドル（約62万円）の罰金が科せられる。
+
+シンガポールの公共交...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253031.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/28/afde9aa7c1bba2adf450502a217a2520/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXVkanpjYnMwMDAwM2I2cXpmNGFvaHNq-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdWRqcjd4djAwM3UyOXBnNGZzNzRwbm8_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253027.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-28T12:58:00+09:00</dc:date>
+        <title>米司法長官、報道機関の締め出しを擁護　「一方的な報道」は国家安全保障上の問題と主張</title>
+        <link>https://www.cnn.co.jp/usa/35253027.html?ref=rss</link>
+        <description>ブランチ米司法長官は27日、トランプ政権が「一方的」とみなす報道を行うメディアは、深刻な国家安全保障上の問題であり、ホワイトハウスとエアフォースワン（大統領専用機）への立ち入りを禁止する正当な理由になるとの認識を示した。
+
+ABCとのインタビューで語った。ブランチ氏は国家安全保障上の問題となる根拠について、「ホワイトハウスから完全に誤った情報が発信されると、友好国との関係にも敵対国との関係にも悪影響を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253027.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/28/cb8decc1ca26cedd69ea63309a2c867c/t/768/512/d/gettyimages-2295451557.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253026.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-28T11:34:00+09:00</dc:date>
+        <title>南ア各地で銃撃事件が続発、死者30人超　凶悪化する組織犯罪におびえる市民</title>
+        <link>https://www.cnn.co.jp/world/35253026.html?ref=rss</link>
+        <description>凶悪犯罪が急増している南アフリカで、26日から27日にかけて3件の銃撃事件が相次ぎ、計30人以上が死亡した。警察はそれぞれの事件について容疑者の捜索を続けている。
+
+同国最大都市ヨハネスブルグ郊外のウェストランド地区では現地時間の26日夜、飲食店前で飲んでいた客や店内にいた客に対して男8人が発砲し、17人が死亡、15人が負傷した。警察は27日現在、容疑者の行方を追っている。
+
+警察によると、銃撃犯はピストルやAK-47...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253026.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/28/8499ed92608ecde51777860235538e18/t/768/512/d/ap26266387142429.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253023.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-28T10:51:00+09:00</dc:date>
+        <title>米政権、「最後の戦い」と訴えるトランプ氏のCMを税金原資で放映　専門家は規則違反の可能性を指摘</title>
+        <link>https://www.cnn.co.jp/usa/35253023.html?ref=rss</link>
+        <description>米政権は中間選挙を前に、税金を原資とした新たなテレビCMを開始した。今回は、トランプ大統領がホワイトハウス内を歩く映像に、「これが最後の戦いだ」と語る本人の音声が流れる。
+
+「共産主義者、マルクス主義者、ファシストを追放する。我が国を憎む病んだ政治階級を振り払う。偽ニュースメディアを駆逐し、こうした悪党から米国を完全に解放する」とトランプ氏はCMの中で語っている。2023年の退役軍人の日に行った演説での...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253023.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/28/dd71a13d60613c244333fa98cd253a7b/t/768/432/d/still-23020967-13826-266-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253017.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-28T09:54:00+09:00</dc:date>
+        <title>ジャイアントパンダ2頭が米アトランタに到着、中国から貸与</title>
+        <link>https://www.cnn.co.jp/world/35253017.html?ref=rss</link>
+        <description>中国の「パンダ外交」の一環として米国に貸与されたジャイアントパンダ2頭が27日、アトランタ動物園に到着した。
+
+オスの「平平（ピンピン）」とメスの「福双（フーシュアン）」は中国南西部の成都から約16時間かけ、フェデックスの貨物機でアトランタの国際空港に到着した。米国に到着したパンダのつがいは過去2年で3組目となる。
+
+アトランタ動物園は2024年、中国との25年契約が終了したことに伴い、それまで飼育していた4頭...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253017.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/28/bb4b672e2ae58424f2dad653b4bf6633/t/768/512/d/fu-shuang-7-750x500.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253019.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-28T09:28:00+09:00</dc:date>
+        <title>英空軍基地付近で男5人逮捕、テロ準備の疑い　米の対イラン攻撃拠点</title>
+        <link>https://www.cnn.co.jp/world/35253019.html?ref=rss</link>
+        <description>英国の警察は27日、イングランドの空軍基地付近で、テロと爆発物関連の犯罪の容疑で男5人を逮捕した。同基地は対イラン戦争で米軍の長距離爆撃機が使用している。
+
+現場には陸軍の爆発物処理部隊が出動し、捜査が続けられている。近隣の数十世帯は予防措置として避難している。
+
+グロスターシャー州の警察は、地域住民の通報を受け、午前0時すぎに逮捕した。男らの身元は明らかにされておらず、考えられる動機についての情報も...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253019.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/28/13246325558b439653555da108361aab/t/768/512/d/2026-09-27t081420z-1758211139-rc2krnaftmlu-rtrmadp-3-britain-usa-fairford.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253014.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-27T18:07:00+09:00</dc:date>
+        <title>超加工食品摂取で肺がんリスク41％上昇か　25年研究</title>
+        <link>https://www.cnn.co.jp/fringe/35253014.html?ref=rss</link>
+        <description>超加工食品を避けるべき理由は、心臓病をはじめ、糖尿病や肥満との関連など数多いが、肺がんのリスク増加もその理由の一つだとする新たな研究結果が昨年発表された。
+
+国連食糧農業機関（FAO）によれば、超加工食品には「台所では決して、あるいはめったに使用されない原材料、または最終製品の味を良くしたり、より魅力的にしたりするための添加物」が含まれている。
+
+ソフトドリンクやポテトチップ、容器入りスープ、チキンナ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253014.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/27/1f17abcfc7654235ee9fe6863903c70c/t/768/510/d/large-gettyimages-628470138.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253013.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-27T17:39:00+09:00</dc:date>
+        <title>爆発物関連容疑で複数の男を逮捕　米軍使用の英空軍基地付近</title>
+        <link>https://www.cnn.co.jp/world/35253013.html?ref=rss</link>
+        <description>英イングランド西部の警察によると、爆発物関連の犯罪容疑で複数の男が逮捕された。現場は米軍が頻繁に使用する空軍基地付近だという。
+
+警察の声明によると、イングランド南部グロスターシャー州のウェルフォード地区では「重大事案の発生が宣言されたことを受け」、複数の建物から住民が避難している。
+
+ウェルフォードはフェアフォード空軍基地に近い。
+
+声明は「爆発物処理を専門とする陸軍のチームが現在、複数の車両を調...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253013.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/27/a794d3c9cb633be89c6b5cf2406728d2/t/768/432/d/breaking-news-1-5x.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253012.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-27T17:10:00+09:00</dc:date>
+        <title>ネパールで雪崩、6人行方不明　7000m峰のベースキャンプ</title>
+        <link>https://www.cnn.co.jp/world/35253012.html?ref=rss</link>
+        <description>ネパール中部の寂峰ヒムルン・ヒマール（標高7126メートル）のベースキャンプで27日、雪崩が発生し、遠征の準備をしていた登山者や支援スタッフ少なくとも6人が行方不明になっている。遠征の主催会社が明らかにした。
+
+10月1日に到着予定のアラブ首長国連邦（UAE）の一行のため、登山ガイドや調理スタッフがロープの設置やテントの設営を行っていたところ、雪と岩石の混流が猛烈な速さで山腹を駆け下りた。
+
+ネパールと中国の国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253012.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/27/49cf181f95f90002fc8128193c40f721/t/768/576/d/gettyimages-2296792179.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35253009.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-27T15:12:00+09:00</dc:date>
+        <title>オープンAIのAIが暴走　米教育省、商務省、SECのサイト標的</title>
+        <link>https://www.cnn.co.jp/tech/35253009.html?ref=rss</link>
+        <description>米オープンAIは25日、同社の一部のAI（人工知能）エージェントが今夏に暴走し、米政府のウェブサイトを探っていたと明らかにした。オープンAIの技術をめぐる新たな問題が発覚した形だ。
+
+米紙ニューヨーク・タイムズが最初に報じた。同紙はAI研究機関トランスルースのセキュリティー研究者の話として、オープンAIのAIエージェントが暴走し、米教育省、商務省、証券取引委員会（SEC）へのアクセスを試みたと伝えている。
+
+オープ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35253009.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/27/b629fcc5de8615b75f2bae540d720750/t/768/512/d/gettyimages-2288600936.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253008.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-27T13:19:00+09:00</dc:date>
+        <title>新種のウミグモ2種を発見、グルーミングが得意な種と苦手な種</title>
+        <link>https://www.cnn.co.jp/fringe/35253008.html?ref=rss</link>
+        <description>カナダ西部ブリティッシュコロンビア州と米ワシントン州の間に位置するセイリッシュ海で2023年9月から24年8月にかけてウミグモ2種が新たに発見された。学術誌「オーガニズム・ダイバーシティー・アンド・エボリューション」に先ごろ発表された研究で明らかになった。
+
+2種はカナダの研究者らが水深最大18メートルまでスキューバダイビングを行い発見した。1種は、脚の先端が長く湾曲したとげで覆われていることから「カリパレネ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253008.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/27/7731a7e2f02088edc06493608d9a304c/t/768/432/d/low-res-callipallene-pilosuspedes-credit-cormac-toler-scott-copy.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253006.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-27T11:14:00+09:00</dc:date>
+        <title>米北東部で強烈な嵐「ノーイースター」　停電9万5千軒、430便欠航</title>
+        <link>https://www.cnn.co.jp/usa/35253006.html?ref=rss</link>
+        <description>米国の東海岸沿いを進み、北東からの風をもたらす強烈な温帯低気圧「ノーイースター」が、猛烈な風雨をもたらし、鉄砲水を引き起こしている。北東部の各都市では道路の冠水や高波、突風が発生している。
+
+嵐の勢いが衰える兆しはなく、沿岸部の洪水は満潮の前後2時間が最も深刻になる見通し。ニュージャージー州アトランティックシティーでは米東部時間午後8時に水位が最も高くなると予想されている。
+
+  
+  
+ニュージャージー...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253006.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/27/e98e8cd1fc1c007f47ab656c5c45b0c9/t/768/512/d/2026-09-26t151955z-1501142208-rc22rna4ttwj-rtrmadp-3-usa-weather.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253005.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-27T10:01:00+09:00</dc:date>
+        <title>トランプ氏、明言避ける　ウクライナのパトリオット用ミサイル生産許可めぐり</title>
+        <link>https://www.cnn.co.jp/usa/35253005.html?ref=rss</link>
+        <description>トランプ米大統領は26日、ウクライナに地対空誘導弾システム「パトリオット」用のミサイル製造を認めることで合意したかどうかについて、明言を避けた。ウクライナのゼレンスキー大統領はこの前日、トランプ氏が認める意向だと述べていた。
+
+両首脳は今週、米ニューヨークで開かれた国連総会に合わせて会談した。ゼレンスキー氏は25日、記者団に対し、会談でトランプ氏が、ウクライナは「パトリオット用ミサイルの製造ライセン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253005.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/27/e0d438ec9e32ce329ed326b1290737e4/t/768/512/d/gettyimages-2156624216.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
