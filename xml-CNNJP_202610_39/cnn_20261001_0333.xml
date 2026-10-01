@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-10-01T10:56:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253139.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253132.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253134.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253131.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253129.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253128.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/arts/35253124.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253123.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253121.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253119.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253118.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253109.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253107.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/style/luxury/35253102.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35253105.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35253099.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35253089.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253090.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253087.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253084.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253078.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35253076.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253075.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35253067.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253066.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253065.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/showbiz/35253058.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253057.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253051.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253053.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253139.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-01T10:56:00+09:00</dc:date>
+        <title>NASAのスウィフト天文衛星、数週間後に地球落下へ　「救出」作戦は失敗</title>
+        <link>https://www.cnn.co.jp/fringe/35253139.html?ref=rss</link>
+        <description>打ち上げから間もなく22年を迎える米航空宇宙局（NASA）のニール・ゲーレルス・スウィフト天文衛星が軌道を外れ、地球に向けて落下している。
+
+NASAがこの夏に実施した「救出」作戦は失敗に終わり、同衛星を使った観測は間もなく終了を余儀なくされる。
+
+高速で飛び回る鳥アマツバメ（スウィフト）の名にちなむスウィフト衛星は、素早く向きを変え、ブラックホールの増光のような瞬時の宇宙現象をとらえることが可能だった。も...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253139.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/01/ca14ba5ec870f712933ac98f8d0dc2df/t/768/405/d/swift-in-space-09.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253132.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-01T10:31:00+09:00</dc:date>
+        <title>英ヘンリー王子夫妻、「見境なさ過ぎる」パパラッチを非難　子どもたちの学校で起きた警備の騒動巡り</title>
+        <link>https://www.cnn.co.jp/world/35253132.html?ref=rss</link>
+        <description>英国のヘンリー王子とメーガン妃は、外国人カメラマンたちによる「余りに見境のない」行動を非難した。夫妻によればこれらのカメラマンたちが、子どもたちの通う学校で安全上の騒動を引き起こしたという。
+
+当該の学校の警備員と職員は、リュックサックを背負った2人の若い男が校内を歩き回り、校庭を覗き込んでいるのを目撃したとされる。2人は後に外国人カメラマンであることが判明したという。
+
+ヘンリー王子夫妻の広報担当...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253132.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/01/5e71853ecbe837e955347cc6d4dd3dd9/t/768/512/d/gettyimages-2261839516.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253134.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-01T10:00:00+09:00</dc:date>
+        <title>イスラエル行き旅客機の襲撃者、すぐに取り押さえられ「無力化」　乗客が証言</title>
+        <link>https://www.cnn.co.jp/world/35253134.html?ref=rss</link>
+        <description>イスラエル行きのフライドバイの旅客機内で30日に操縦士が刺され、緊急着陸を余儀なくされた問題で、インド人操縦士を襲った人物は、乗客と乗務員によってすぐに「無力化」されたことが分かった。乗客のアサフ・ラジュアンさんが明らかにした。
+
+ラジュアンさんによると、自身を含む6人ほどで襲撃した人物を取り押さえた。
+
+ラジュアンさんはCNNの取材に、「長くもみ合ったわけではない。すぐに無力化した。抵抗らしい抵抗はな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253134.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/01/01b7d502e4502ba03106d04b90e85a2b/t/768/432/d/35303579989331492094767726428373930-00000001.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253131.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-01T09:21:00+09:00</dc:date>
+        <title>英空軍基地のテロ計画、イラン関与の「強い兆候」　英首相が発言</title>
+        <link>https://www.cnn.co.jp/world/35253131.html?ref=rss</link>
+        <description>英国のバーナム首相は30日、米軍が使用する英空軍基地を標的にしたとされる先週末の計画について、イランが関与したことを示す「強い兆候」があると述べた。事件に外国勢力が関与したとする米国の見解を支持した形だ。
+
+バーナム氏は公共放送BBCに対し、「週末に英空軍フェアフォード基地で起きた出来事にイランが関与したことを示す強い兆候がある。ただし、警察による複雑かつ重大な捜査は現在も続いている」と述べた。
+
+「い...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253131.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/01/f046e18d7fb7ce8585f664bc4c491e3a/t/768/511/d/2026-09-30t113058z-161402025-rc2ntnabkj3o-rtrmadp-3-britain-politics-labour.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253129.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-01T09:08:00+09:00</dc:date>
+        <title>旅客機の操縦士襲撃、介入した乗客が状況説明　相手に絞め技かけ操縦桿握る</title>
+        <link>https://www.cnn.co.jp/world/35253129.html?ref=rss</link>
+        <description>イスラエルへ向かっていたアラブ首長国連邦（UAE）の航空会社フライドバイの旅客機で操縦士が刺された事件について、乗客のヤニブ・ハユンさんはイスラエル首相に対し、自身と他の乗客が襲撃者を制圧した経緯を語った。ハユンさんは相手に絞め技をかけ、操縦席から引きずり出した後、操縦席に戻って自ら操縦桿（かん）を握ったという。
+
+ハユンさんは9月30日にイスラエルのネタニヤフ首相と面会し、操縦席に入ろうとした時の状...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253128.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-01T08:15:00+09:00</dc:date>
+        <title>イスラエル行き旅客機で刺された操縦士、インド出身と判明　同僚が墜落図ったか</title>
+        <link>https://www.cnn.co.jp/world/35253128.html?ref=rss</link>
+        <description>アラブ首長国連邦（UAE）の航空会社フライドバイの旅客機で操縦士が刺された事件について、イスラエルのネタニヤフ首相は30日、被害者の操縦士はインド出身のスミット・マッチャール氏だと明らかにした。
+
+ネタニヤフ氏は機長を「真の英雄」とたたえ、「並外れた勇気」を示し、174人の命を救ったと述べた。
+
+ネタニヤフ氏はX（旧ツイッター）への投稿で、「刺されて重傷を負いながらも反撃し、抵抗を続け、操縦室のドアを開け、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253128.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/01/c6c66cda3166fa34ef0745624829b0dc/t/768/768/d/1757402866799.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/arts/35253124.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T21:47:00+09:00</dc:date>
+        <title>ビール缶そっくりのアート作品、作業員が誤って廃棄　24年オランダ</title>
+        <link>https://www.cnn.co.jp/style/arts/35253124.html?ref=rss</link>
+        <description>オランダの美術館で2024年、ビールの空き缶2本に似せて作られた芸術作品をエレベーターの技術者が誤って捨ててしまう出来事があった。
+
+リッセにあるLAM美術館は当時の声明で、フランスの芸術家アレクサンドル・ラベ氏の作品「All the good times we spent together」について、一見ごみのようだが、よく見ると実際には「アクリル絵の具で丹念に手描きされ、細部まできめ細かに再現されている」と述べた。
+
+同美術館は「この芸...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/arts/35253124.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2024/10/09/fd3e3b2ae0832a37501ef8ce3a69af97/t/768/432/d/lavet-jpg.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253123.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T18:41:00+09:00</dc:date>
+        <title>イスラエル行きの便がサウジに緊急着陸、乗客帰国のため航空機派遣か　当局者</title>
+        <link>https://www.cnn.co.jp/world/35253123.html?ref=rss</link>
+        <description>イスラエル行きの航空機が急きょ針路を変更してサウジアラビアに着陸した問題を受け、イスラエル政府は、乗客を帰国させるためサウジに航空機を派遣する可能性を検討している。イスラエル当局者がCNNに明らかにした。
+
+派遣されるのは軍用機か、イスラエルのエルアル航空の民間機になる可能性がある。
+
+フライドバイの広報担当者はこれに先立ち、アラブ首長国連邦（UAE）のドバイからテルアビブに向かっていた同社の便が「トラ...</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253121.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T17:40:00+09:00</dc:date>
+        <title>家庭用品に使われているプラスチックの化学物質、9割以上が健康に有害　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/fringe/35253121.html?ref=rss</link>
+        <description>食品の包装や、衣類、玩具、その他の一般家庭用品やパーソナルケア製品の製造に使われているプラスチックに含まれる既知の化学物質の約93%が、人の健康に高いリスクをもたらすことが分かった。CNNが独占入手した新たな調査で明らかになった。
+
+30日に発表された報告書「Poison Plastics: How Chemicals in Everyday Plastics are Harming Your Health（有毒なプラスチック：日常的に使うプラスチックに含まれる化学物質がいかに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253121.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/30/472097795a2c759bc33df210855d1918/t/768/512/d/gettyimages-1301459867.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253119.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T16:52:00+09:00</dc:date>
+        <title>英空軍基地を狙った企て、容疑者が逮捕前に自ら通報　謎深まる　英メディア</title>
+        <link>https://www.cnn.co.jp/world/35253119.html?ref=rss</link>
+        <description>米軍が使用する英国の空軍基地を狙ったとされる事件をめぐり、容疑者の1人が逮捕直前、自ら警察に通報していたことが分かった。複数の英メディアが報じた。
+
+男5人は27日未明、イングランド西部フェアフォードにある英空軍基地付近で爆発物関連の容疑で逮捕され、その後、テロ容疑でも逮捕された。この基地からは米軍のB1爆撃機が対イラン作戦に出撃している。
+
+事件を受けて現地では大規模な警戒態勢が敷かれ、英米両国に衝撃...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253119.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/30/d3b1aa10872da738184ec94974326183/t/768/511/d/2026-09-28t062716z-271215523-rc26snacd1f4-rtrmadp-3-britain-usa-fairford.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253118.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T16:50:00+09:00</dc:date>
+        <title>パイロット同士の「暴力事案」発生、イスラエル行き航空機が緊急の進路変更　情報筋</title>
+        <link>https://www.cnn.co.jp/world/35253118.html?ref=rss</link>
+        <description>パイロット2人による「暴力事案」が原因で、イスラエルのテルアビブに向かっていた航空機がサウジアラビアに緊急着陸した。複数の情報筋がCNNに明らかにした。
+
+CNNが入手したフライト追跡データによると、フライドバイが運航するドバイ発の同機は米東部時間の30日午前1時20分ごろ、わずか2分間で高度約1万メートルから約5000メートルまで急降下した。その後、午前1時32分に機体から緊急信号が発信された。
+
+イスラエルの当局者...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253118.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/30/7318ab919dad2a5aece5a85d827d11b4/t/768/512/d/gettyimages-2263841574.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253109.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T15:53:00+09:00</dc:date>
+        <title>裁判所で保管中の40キロのコカイン、小麦粉にすり替えられる　フィジー</title>
+        <link>https://www.cnn.co.jp/world/35253109.html?ref=rss</link>
+        <description>南太平洋のフィジーで、大規模な麻薬裁判の証拠品として保管されていた約40キログラムのコカインが裁判所から盗まれ、そのほとんどが小麦粉とすり替えられていたことが分かった。地元メディアが報じた。この事件は、観光地として人気のフィジーが麻薬の流入に苦慮している現状を浮き彫りにしている。
+
+3000万フィジードル（約21億円）相当のこのコカインは、2019年にフィジー系カナダ人のジョシュア・ラーマン被告が関与した事...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253109.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/30/b7def7c305c11eed718ac6716a612e39/t/768/512/d/gettyimages-1930631087.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253107.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T13:42:00+09:00</dc:date>
+        <title>英ヘンリー王子がスカイダイビング、102歳退役軍人との約束果たす</title>
+        <link>https://www.cnn.co.jp/world/35253107.html?ref=rss</link>
+        <description>英国のヘンリー王子がこのほど、102歳の退役軍人の孫とスカイダイビングを行った。以前からの約束を果たした形だ。
+
+ヘンリー王子は2024年、カナダのトロントにあるサニーブルック退役軍人センターで、第2次世界大戦で従軍した退役軍人のエド・マーシャルさんと出会った。
+
+マーシャルさんは100歳の誕生日を記念してスカイダイビングに挑戦した経験があり、ヘンリー王子は、かつて空挺（くうてい）隊員だったマーシャルさんとい...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253107.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/30/33a5bbac9e81ee15e16866e0e6abf086/t/243/432/d/23026774-prince-harry-skydiving-00-00-47-07-still002-20260929200539639.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/style/luxury/35253102.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T13:40:00+09:00</dc:date>
+        <title>マイケル・ジョーダンの「ラストダンス」のユニホーム、過去最高額の19億円で落札</title>
+        <link>https://www.cnn.co.jp/style/luxury/35253102.html?ref=rss</link>
+        <description>マイケル・ジョーダンがキャリア屈指のシーズンに着用したユニホームが29日にオークションにかけられ、1226万ドル（約19億円）で落札された。バスケットボールのユニホームとしては史上最高となる落札額を記録した。
+
+ジョーダンの象徴的な背番号「23」があしらわれた白いメッシュのユニホームは、伝説的な1998年のNBAファイナル第3戦で本人が着用したもの。同ファイナルはジョーダンにとってシカゴ・ブルズでの最後のシーズン...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/style/luxury/35253102.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/30/34505400ff4037a1cef74f25e3254ca3/t/768/432/d/gettyimages-1191303786.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35253105.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T12:57:00+09:00</dc:date>
+        <title>【分析】ホルムズ海峡の流量8割に回復、イランの影響力にかげり　ただし現状は永続せず</title>
+        <link>https://www.cnn.co.jp/business/35253105.html?ref=rss</link>
+        <description>米海軍から相当な支援を受ける湾岸産油国は、イランの目と鼻の先にあるホルムズ海峡を通じて原油を大量に送り出している。
+
+海運データ追跡サービス企業のケプラーによると、同海峡を通過する原油と石油製品の流量は先週時点で1日平均1310万バレルだった。これは戦争前の1710万バレルの80%弱にあたる。
+
+ホルムズ海峡を通過する分と迂回（うかい）する分を合わせた中東全体の原油流量はさらに目を見張る水準で、JPモルガンによ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35253105.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/30/7337c74c1eb59c858a4b7ec8e97a6e98/t/768/512/d/ap26271422430345.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35253099.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T12:01:00+09:00</dc:date>
+        <title>米遊園地、名物ジェットコースターを恒久閉鎖へ　脳損傷の訴え相次ぐ、死者も</title>
+        <link>https://www.cnn.co.jp/showbiz/35253099.html?ref=rss</link>
+        <description>米遊園地シックス・フラッグスは29日、名物ジェットコースターの「X2」を恒久的に閉鎖すると発表した。このアトラクションをめぐっては約1カ月前、CNNの調査報道で、人生を一変させるほどの重傷事故や死者が長年発生していることが判明していた。
+
+南カリフォルニアにあるシックスフラッグス・マジックマウンテンのブライアン・オーディング社長はこの日、ブログへの投稿でX2について「これまで一貫して数多くの安全検査に合格...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35253099.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/30/0b14e46ce25f66abb79df93a620b9bea/t/768/511/d/ap26266798102189.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35253089.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T11:46:00+09:00</dc:date>
+        <title>プレミアリーグ、マンCの財務規則違反を正式認定　「偽装」契約の疑惑について詳述</title>
+        <link>https://www.cnn.co.jp/showbiz/35253089.html?ref=rss</link>
+        <description>サッカーの英イングランド・プレミアリーグは、マンチェスター・シティー（マンC）が犯したとされるリーグの財務規則の重大な違反行為をすべて認定した。
+
+これらの違反に関する制裁措置は公表されていないが、プレミアリーグの規定によると、勝ち点の剥奪（はくだつ）、無制限の罰金、あるいはリーグからの完全追放といった処分が科される可能性がある。
+
+マンC側は一貫して不正行為を否定しており、29日に出した声明では、プ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35253089.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/30/fc4b7367bcfb314343e954b7439e5f2a/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXVtdzdvejgwMDAwM2I2cnhpbXU2OGtp-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdW12eG4wZjAwMXgyNnAzZnlqejliMzU_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253090.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T10:41:00+09:00</dc:date>
+        <title>やっと帰宅できた住民をイスラエル人入植者100人が再び襲撃、放火　首相は「一握りの暴徒」と一蹴</title>
+        <link>https://www.cnn.co.jp/world/35253090.html?ref=rss</link>
+        <description>パレスチナ自治区ヨルダン川西岸に住むパレスチナ人一家がイスラエル人入植者に襲撃され、自宅を追い出されてから1カ月。29日にようやく帰還を果たした一家が、その夜、再び入植者に襲撃された。
+
+マフムード・トゥバシ氏の一家に対する今回の襲撃には、イスラエル人入植者100人あまりが関与した。一部は家の中に押し入って放火した。
+
+ヨルダン川西岸ではパレスチナ人住民が連日のように入植者に暴行され、国際社会も非難を強...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253090.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/30/80b1f13094b4437fe259493fc2af4c2d/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXVtdXM4eG0wMDBwM2I2cjYwZHVjazVw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdW1yNHFodDAwMnoyOG5sZmoyMjM3bjQ_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253087.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T09:56:00+09:00</dc:date>
+        <title>米空母「アイゼンハワー」への着艦中に事故、飛行士2人が緊急脱出　空母上の4人負傷</title>
+        <link>https://www.cnn.co.jp/usa/35253087.html?ref=rss</link>
+        <description>米海軍は声明で、バージニア州沖の空母「ドワイト・アイゼンハワー」で28日夜、航空機の着艦中に「事故」が起き、飛行士2人が緊急脱出したと明らかにした。空母にいた海軍要員4人が負傷した。
+
+米海軍の声明では、「東部夏時間の9月28日午後6時18分ごろ、ニミッツ級空母で航空機の着艦作業中に事故が発生した」としている。
+
+事故の状況は不明で、海軍はどういった性質の事故だったのか具体的に明らかにしていない。
+
+声明によ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253087.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/30/e20d32c2cb52df79cbda805752ffab7e/t/768/511/d/8379161.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253084.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-30T09:05:00+09:00</dc:date>
+        <title>米最高裁、トランプ政権による移民追放策の再開容認　つながりのない第三国への移送認める</title>
+        <link>https://www.cnn.co.jp/usa/35253084.html?ref=rss</link>
+        <description>米連邦最高裁は29日、移民に人権上の懸念を訴える機会を与えないまま、出身国ではない第三国へ移送するトランプ政権の措置を再開することを認めた。 年内に口頭弁論を行う方針も明らかにした。
+
+最高裁がトランプ政権による移送措置の実施を一時的に認めるのは、今回で3回目となる。
+
+最高裁のリベラル派判事3人は、この判断に反対した。
+
+トランプ政権は当面、移送措置を継続できるものの、最高裁は本案を審理する口頭弁論を12...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253084.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/30/d99824f759af97f2cf88b3fb96e6fa13/t/768/511/d/gettyimages-2285436373.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253078.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T20:25:00+09:00</dc:date>
+        <title>米コーネル大学での集団レイプ疑惑、訴訟と捜査についてこれまで分かっていること</title>
+        <link>https://www.cnn.co.jp/usa/35253078.html?ref=rss</link>
+        <description>米コーネル大学の元学生が、2024年に男子学生の社交クラブ（フラタニティー）の施設内で薬物を投与され、集団レイプされたとして今月訴訟を起こした。疑惑が浮上した当初の関係機関の対応に批判の声も上がる中、新たな注目を受けて検察当局が改めて捜査に乗り出す状況となっている。
+
+101ページに及ぶ訴状には、実名を伏せられた当事者の女性が24年10月19日夜、「カイ・ファイ」と呼ばれるフラタニティーの会館内で起きたと主張...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253078.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/2f920294cf4d33d086ee971217408f06/t/768/512/d/ap26271667041174.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35253076.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T18:05:00+09:00</dc:date>
+        <title>1700年前の巨大仏塔、ギザの大ピラミッドに次ぐ大きさの建造物はどうやって造られた？　スリランカ</title>
+        <link>https://www.cnn.co.jp/travel/35253076.html?ref=rss</link>
+        <description>満月の日にスリランカの古代都市アヌラーダプラを訪れたなら、過去は決して遠いものには感じられないはずだ。
+
+白装束に身を包んだ仏教徒の巡礼者たちが、ほこりっぽい道を裸足で歩く。サフラン色の僧衣をまとった僧侶たちが夜明けとともに読経を始める。台湾からカナダまで、外国からの訪問者も地元の参拝者に交じり、2000年以上にわたってほぼ途切れることなく続いてきた儀式に参加する。
+
+スリランカ北中部の平原に位置する...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35253076.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/51b15400665979debc1c6bbf87eef4ba/t/768/512/d/gettyimages-1179102843.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253075.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T17:45:00+09:00</dc:date>
+        <title>【分析】NYでの重要な気候イベント、AIの議論が席巻した要因は</title>
+        <link>https://www.cnn.co.jp/fringe/35253075.html?ref=rss</link>
+        <description>毎年9月中旬になると、気候活動家やジャーナリスト、テック起業家、外交官、資金提供者など約10万人が米ニューヨーク市に集まり、気候に関するあらゆる事柄について語り合う。このイベント「クライメート・ウィーク」は、毎年恒例の国連総会に合わせて開催される。国連総会のためニューヨークを訪れた各国首脳の一部は、予定がぎっしり詰まった会合の合間を縫ってクライメート・ウィークに参加する。
+
+このイベントを通じ、気候...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253075.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/e968fa0fe1d178490978862d271a7b57/t/768/512/d/gettyimages-2295897700.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35253067.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T13:01:00+09:00</dc:date>
+        <title>米オープンAI、最新AIモデルの公開を取りやめ　安全性の「基準を十分に満たさなかった」</title>
+        <link>https://www.cnn.co.jp/tech/35253067.html?ref=rss</link>
+        <description>米オープンAIが人工知能（AI）の最新モデル「GPT6.1アストラ」を公開しないと明らかにした。安全性の面で「基準を十分に満たさなかった」ためだという。
+
+米紙ウォールストリート・ジャーナルが28日、最初に報じた。今回の決定は、業界トップらがAI開発の減速を呼びかける中で下された。アンソロピックのダリオ・アモデイ最高経営責任者（CEO）が今月オンラインで公開した論考で「最先端開発の減速」を初めて提唱したことを受け...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35253067.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/2231690079b8193a2fadcd86271ccc32/t/768/511/d/gettyimages-2229147057.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253066.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T12:59:00+09:00</dc:date>
+        <title>税金原資のトランプ氏の広告、本人が企画に関与と情報筋</title>
+        <link>https://www.cnn.co.jp/usa/35253066.html?ref=rss</link>
+        <description>米国のトランプ大統領は、自身と政権の政策を宣伝するビデオ広告を自ら主導し、使用する画像や動画の選定にも関与していた。情報筋がCNNに明らかにした。当該の広告は税金を原資にしているとして物議を醸している。
+
+広告に詳しいトランプ氏の顧問2人によると、これらの広告はホワイトハウスのビデオチームによって内部で制作された。このチームは政権の広報を担当するコミュニケーションチームの一部だという。
+
+11月の中間選...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253066.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/8af7eaf4e80380e4bc66ece068901d03/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXVsdXczOHkwMDAyM2I2dG5ycDdqM3My-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdWx1OHFlMDAwMHkyZHAzYTMzdjM2Nzk_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253065.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T12:03:00+09:00</dc:date>
+        <title>米FBI捜査官らの個人情報が大量流出　対応に不満、職員や家族の身の安全も懸念</title>
+        <link>https://www.cnn.co.jp/usa/35253065.html?ref=rss</link>
+        <description>大企業などを狙ってサイバー犯罪を繰り返しているハッカー集団が、米連邦捜査局（FBI）の職員や元職員ら数千人の個人情報を盗んだと主張している。発覚から1週間たった今も被害の全容は把握できておらず、FBIの対応をめぐって内部からも不満の声が上がっている。
+
+FBI職員や元職員は、自分が被害に遭ったのかどうかも分からず、被害者向けの安全対策も不十分な状況に対して不安を募らせている。
+
+「上層部はどうしていいか分か...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253065.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/0f95c5b49b050d9b56f32dd58f1da1ab/t/768/512/d/gettyimages-2288940272.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/showbiz/35253058.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T11:15:00+09:00</dc:date>
+        <title>チェスの神童、11歳で史上最年少の女子グランドマスターに</title>
+        <link>https://www.cnn.co.jp/showbiz/35253058.html?ref=rss</link>
+        <description>ウズベキスタン・サマルカンドで開かれた第46回チェス・オリンピアードで好成績を収めた英ロンドン北西部出身のボダナ・シバナンダンさん（11）が、史上最年少で女子グランドマスターの称号を獲得した。
+
+シバナンダンさんは、27日にユーチューブで公開されたインタビューで国際チェス連盟（FIDE）に、「歴史を作り続けたい」と意欲を語った。
+
+女子グランドマスターは、チェス界における女性最高位の称号。
+
+シバナンダンさん...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/showbiz/35253058.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/bbf2bd80f1279209f162ea22c6042d44/t/768/512/d/2026-04-28t100139z-878684460-rc26vkaoxso9-rtrmadp-3-britain-chess.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253057.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T11:13:00+09:00</dc:date>
+        <title>テロ計画容疑で逮捕の男5人、英警察が保釈　トランプ米大統領は批判</title>
+        <link>https://www.cnn.co.jp/world/35253057.html?ref=rss</link>
+        <description>英空軍基地に対するテロを企てた容疑で逮捕された男5人が28日に保釈された。同基地は米軍もイラン攻撃に使用しており、ドナルド・トランプ米大統領は「驚いた」と述べて5人の保釈を批判した。
+
+トランプ大統領はホワイトハウスで記者団に対し、自分だったら容疑者らは釈放しないと述べ、5人の行為はイランと関係がある「かもしれない」と推測。ただ、それ以上の詳細は明らかにせず、「私は答えを知っている。具体的に言うことも...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253057.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/ba20440e5d52bc982ef9fcbb8eff99cf/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXVsMWE0NzMwMDAwM2I2cXBucHVtMnVn-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdWwwMWppaTAwM2IyN3FrOHZoeDl4aGM_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253051.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T10:29:00+09:00</dc:date>
+        <title>16歳少年がバスの中で同級生からレイプ被害、学校でのリスク浮き彫りに　ペルー</title>
+        <link>https://www.cnn.co.jp/world/35253051.html?ref=rss</link>
+        <description>事件は白昼堂々、目撃者のいるバスの中で起きたとされる。ペルー海軍が運営する中等学校に通う16歳の男子生徒が、同級生にレイプされたと訴えている。自身の所属するサッカーチームが大会から帰路につく途中だったという、
+
+ペルー検察庁は、今月15日に発生したこの事件を捜査している。事件は国内で大きな波紋を呼び、生徒間の性暴力の増加を浮き彫りにしている。
+
+当局は当初、海軍士官の子弟が大多数を占める同校、リセオ・...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253051.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/0aa29a8d5ae80dd13e4bdfcb4e31fa11/t/768/512/d/sipausa-73425331.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253053.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-09-29T09:51:00+09:00</dc:date>
+        <title>飛行中に吹き飛んだフロントガラス、操縦室内に散乱　米旅客機が緊急着陸</title>
+        <link>https://www.cnn.co.jp/usa/35253053.html?ref=rss</link>
+        <description>72人を乗せて飛行中だった米ユナイテッド航空の旅客機で27日、離陸直後にフロントガラスが割れてコックピット内にガラス片が飛び散るトラブルが発生し、テキサス州ヒューストンの空港へ引き返して緊急着陸した。
+
+トラブルが発生したのはメサ航空が運航するヒューストン発同州エルパソ行きの地域便（エンブラエルE175型機）。航空交通管制傍受サイト「ATC.com」が収録した音声によると、操縦士は管制塔に「ガラスが割れた」と伝...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253053.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/09/29/0990b95db1635a9239c8b2d54ec97cae/t/768/512/d/gettyimages-2253297067.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
