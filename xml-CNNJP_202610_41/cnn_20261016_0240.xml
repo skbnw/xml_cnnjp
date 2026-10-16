@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-10-16T11:06:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253624.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253623.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253616.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253614.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253612.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253597.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253594.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253595.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253582.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253578.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253575.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253573.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253565.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253568.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253561.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253559.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253557.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253552.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253548.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35253542.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35253536.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253535.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253533.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253532.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35253530.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253520.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35253526.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253527.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253519.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253523.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35253624.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-16T11:06:00+09:00</dc:date>
+        <title>ウクライナのパトリオット用迎撃ミサイルが枯渇、一段と無防備に　トランプ氏との対立深まる中　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/world/35253624.html?ref=rss</link>
+        <description>ウクライナが米国製防空システム「パトリオット」の迎撃ミサイルを使い果たし、ロシアの弾道ミサイル攻撃に対して一段と無防備になっていることが分かった。事情に詳しい情報筋が15日、CNNに明らかにした。
+
+深刻な事態が明らかになったのは、トランプ米大統領とウクライナのゼレンスキー大統領が公の場で対立を深める最中のことだ。米政権はこのところ、ロシア産ディーゼル燃料（軽油）を輸入する合意を結んで大きな批判を浴び...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253624.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/16/0258a9b94b6e4015c697ef2336f5b778/t/768/512/d/ap24164372672388.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253623.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-16T11:00:00+09:00</dc:date>
+        <title>「弁護士」アピールする米ホワイトハウスの新任報道官、司法試験は不合格だった</title>
+        <link>https://www.cnn.co.jp/usa/35253623.html?ref=rss</link>
+        <description>米ホワイトハウスの新任報道官ケイティ・ザカリア氏は、過去2年間のSNS投稿で少なくとも15回、自身を「弁護士」と紹介する内容を共有していた。しかしカリフォルニア州で受験した司法試験は不合格で、弁護士という肩書きは使わないよう注意されていた。
+
+ザカリア氏は2025年4月から2026年9月にかけて、「弁護士」の肩書きを紹介したFOXニュースなどの出演番組の画面を、X（旧ツイッター）やトゥルース・ソーシャルのアカウント...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253623.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/16/dea1c1931abc6c72df3957b5f5c78d0f/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXY5dW9tbGQwMDAxM2I2cjE3bWRoZXJw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntdjl1ODRibTAwMHkyN3FuYTVjcDh0czM_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253616.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-16T10:08:00+09:00</dc:date>
+        <title>トランプ米大統領、銃殺刑のライブ配信を中止　陸軍基地銃撃事件起こした死刑囚</title>
+        <link>https://www.cnn.co.jp/usa/35253616.html?ref=rss</link>
+        <description>トランプ米大統領は15日、米テキサス州の陸軍基地で起きた銃撃事件に関連して、ニダル・ハサン死刑囚に対する銃殺刑執行の様子をライブ配信しない意向を明らかにした。国防総省が先週発表した内容を覆した。
+
+「死刑執行の様子を生中継すれば、米国がハサンのようなテロリストや悪党にどう対処するかを世界に知らしめる強力な抑止力になったかもしれないが、多くの善良で良識ある人々は、生中継であろうと他の映像機器であろう...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253616.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/16/1562c2b07a3f75dfb2b59a8c628873eb/t/768/512/d/gettyimages-2299559783-20261015134233840.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253614.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-16T09:24:00+09:00</dc:date>
+        <title>米オレゴン州の小学校で銃撃、子ども3人含む4人死亡　10代の容疑者も死亡</title>
+        <link>https://www.cnn.co.jp/usa/35253614.html?ref=rss</link>
+        <description>米オレゴン州ベンドの小学校で15日、銃撃事件が発生し、子ども3人と大人1人が死亡した。捜査当局の関係者による初期情報で明らかになった。
+
+複数の法執行機関関係者によると、銃撃犯は16歳の少年だった。
+
+  
+    
+      
+    
+    
+/KTVZ
+  
+
+警察によると、同日午後1時ごろに警察官が現場に到着した時点で、銃撃犯はすでに校内で撃たれて死亡していた。警察はこれに先立つ記者会見で、犠牲者の人数を明らかにしていなかった...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253614.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/16/c19e6ed1de522d3d61170493e24f1cdc/t/768/512/d/oregon-shooting.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253612.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-16T08:48:00+09:00</dc:date>
+        <title>フーシがイエメン大統領宮殿を攻撃、5人死亡　サウジへの攻撃激化</title>
+        <link>https://www.cnn.co.jp/world/35253612.html?ref=rss</link>
+        <description>イランを後ろ盾とするイエメンの反政府武装組織フーシは15日、南部アデンにあるイエメン暫定政府の大統領宮殿「アルマーシク宮殿」を攻撃した。これにより、ジンダニ首相の警護隊員2人を含む5人が死亡した。
+
+  
+    
+      
+    
+    
+アデンにある大統領宮殿への攻撃後、丘陵地帯の上空に煙が立ち上る様子/Social Media via Reuters
+  
+
+イエメン保健省によると、ミサイルとドローン（無人機）による攻撃で16人が負傷した。フ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253612.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/16/82ffeece8a0cd51b44c6de95da65ed86/t/768/512/d/yemen-security.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253597.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-15T18:40:00+09:00</dc:date>
+        <title>パキスタンで学校の屋根崩落、子ども28人死亡　相次ぐ崩落事故</title>
+        <link>https://www.cnn.co.jp/world/35253597.html?ref=rss</link>
+        <description>パキスタン北部で15日午前、学校の屋根が崩落し、子ども28人と教師1人が死亡、数十人が負傷した。当局が明らかにした。
+
+地元の救助当局者はCNNに対し、豪雨の影響でペシャワルにある2階建ての校舎の屋根が崩落したと説明。一部の子どもは依然としてがれきの下に閉じ込められている状態で、救助隊が救出に取り組んでいると明らかにした。
+
+地元病院の広報担当者がCNNに明らかにしたところによると、子ども47人が負傷した。CNNが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253597.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/15/81eb7900f0d9d811f4acccd537a07c30/t/768/511/d/c-ap26288267347638.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253594.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-15T18:12:00+09:00</dc:date>
+        <title>米、イランに対して「すべての爆弾の母」の使用を検討　情報筋　CNN EXCLUSIVE</title>
+        <link>https://www.cnn.co.jp/usa/35253594.html?ref=rss</link>
+        <description>米軍は新たに策定した攻撃計画に基づき、「すべての爆弾の母」と呼ばれる兵器を使用してイランのエネルギーインフラや核施設を狙う可能性がある。事情に詳しい複数の米当局者が明らかにした。トランプ米大統領が中間選挙の前後いずれかの時点で戦闘作戦の再開を命じた場合を想定しているという。
+
+「すべての爆弾の母」 の異名を取る「GBU43/B大規模爆風爆弾（MOAB）」は、米軍の兵器庫で最大の非核爆弾。これをイランとの紛争...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253594.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/15/fc5f7ef9e41160272effbf9bc9a81aaf/t/768/460/d/gettyimages-1843631.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253595.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-15T17:30:00+09:00</dc:date>
+        <title>ウクライナがロシア製油所攻撃を再開へ　ゼレンスキー氏が英紙に表明、トランプ氏に不満</title>
+        <link>https://www.cnn.co.jp/world/35253595.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は英紙フィナンシャル・タイムズ（FT）とのインタビューに強い調子で答え、ロシアの製油所への攻撃を再開する考えを明らかにした。米国による情報共有や通信衛星サービス「スターリンク」の利用が制限されたことに「危険だ」と不満を示す場面もあった。
+
+ゼレンスキー氏は英首都ロンドンでFTに対し、「（製油所攻撃に対する）自制は撤回する。もう終わりだ」と語った。
+
+トランプ米大統領への不...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253595.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/15/a774e1a330c7304a3f6955172702953f/t/768/511/d/gettyimages-2296064145-20260925120423988__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253582.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-15T14:21:00+09:00</dc:date>
+        <title>ホルムズ海峡の麻痺解消、それでもガソリン・軽油価格が高止まりする理由とは？</title>
+        <link>https://www.cnn.co.jp/world/35253582.html?ref=rss</link>
+        <description>ホルムズ海峡の通航が麻痺（まひ）状態を脱したにもかかわらず、燃料価格は依然として高止まりしている。これは金融、政治、経済に深刻な影響を及ぼす厄介な問題だ。
+
+全米自動車協会（AAA）のデータによると、全米のガソリン平均価格は1ガロン（約3.8リットル）当たり4.36ドル（約690円）に達し、この時期としては過去最高となっている。
+
+米各州や欧州が相次いで緊急対策を講じたにもかかわらず、ディーゼル燃料（軽油）価格...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253582.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/15/b97b4bfc78da5b6b98b4b898e12e9e30/t/768/511/d/gettyimages-2297720331.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253578.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-15T12:35:00+09:00</dc:date>
+        <title>ウクライナの「スターシールド」利用に制限か、軍の作戦に支障　マスク氏は「米政府が管理」と主張</title>
+        <link>https://www.cnn.co.jp/world/35253578.html?ref=rss</link>
+        <description>米衛星通信サービス「スターリンク」が軍用インターネットサービスを一部制限し、作戦に支障が出ている。ウクライナ当局が明らかにした。トランプ米政権との対立が深まる中での出来事となる。
+
+当局によると、米実業家イーロン・マスク氏が手がけるスターリンクの軍事向けサービス「スターシールド」に利用制限がかけられ、ウクライナは不意を突かれた形になった。
+
+米スペースXの最高経営責任者（CEO）を務めるマスク氏はX（旧...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253578.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/15/73d8d88f829747f12dcf1a092a2e8d2c/t/768/511/d/c-gettyimages-2299560064.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253575.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-15T12:27:00+09:00</dc:date>
+        <title>スーパーの冷凍・冷蔵設備にサイバー攻撃、大規模な被害を招いた「弱点」とは　フランス</title>
+        <link>https://www.cnn.co.jp/world/35253575.html?ref=rss</link>
+        <description>フランス各地でスーパーマーケットがサイバー攻撃を受け、冷蔵・冷凍設備が乗っ取られる事件が起きた。
+
+被害に遭ったスーパーは約700店に上る。何者かが冷凍・冷蔵設備に不正アクセスして霜取りを作動させたために庫内の温度が上昇。各店とも床が水浸しになり、大量の生鮮食品や冷凍食品を廃棄せざるを得なくなった。
+
+事件については当局が捜査を続けている。ロラン・レスキュール経済相は13日、「誰もが警戒しなければならな...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253575.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/15/0dc43905069bba0812c081e7136832fb/t/768/512/d/france-cyberattack.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253573.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-15T11:20:00+09:00</dc:date>
+        <title>軍事に巨額の費用投じるサウジ、それでもフーシの攻撃を防げない理由</title>
+        <link>https://www.cnn.co.jp/world/35253573.html?ref=rss</link>
+        <description>サウジアラビアは毎年、何百億ドルもの軍事費を投じているが、イエメンの親イラン武装組織フーシのミサイルやドローン（無人機）から自国の空港や製油所、パイプラインなどの主要施設を守るのに苦戦している。
+
+米国や欧州から最先端の兵器システムを提供され、多層的な防空網を保有しているにもかかわらず、この1週間で首都リヤドの空港が繰り返し攻撃され、死者も出た。
+
+スウェーデンのストックホルム国際平和研究所（SIPRI...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253573.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/15/ee7a896da1184b5f7d04c3177aed3782/t/768/512/d/shutterstock-editorial-16898478a.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253565.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-15T10:30:00+09:00</dc:date>
+        <title>トルコ沖で見つかった沈没船、世界最古の沈没船と判明　船内の遺物の年代から</title>
+        <link>https://www.cnn.co.jp/fringe/35253565.html?ref=rss</link>
+        <description>トルコ沖で見つかった沈没船について、調査を行っていた考古学者たちが約4700年前の船だったことを突き止めた。世界で最古の沈没船になるという。
+
+​​沈没船はトルコ南部沿岸のケコバ島付近、水深約30メートルの海底で見つかった。調査の結果、アンフォラと呼ばれる古代の貯蔵容器が多数回収された。トルコ文化観光省が14日に発表した声明で明らかにした。
+
+これらのアンフォラは4400～4700年前のもので、海洋の歴史や当時の船...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253565.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/15/825f5a7ba0c59f302356b858d7308563/t/768/432/d/generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253568.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-15T10:09:00+09:00</dc:date>
+        <title>ゼレンスキー氏、トランプ氏に「裏切られた」　ロシアとの燃料取引受け</title>
+        <link>https://www.cnn.co.jp/world/35253568.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は14日、トランプ米大統領が先週ロシアから燃料を購入する新たな取引を発表したことを受け、裏切られたと感じていると明らかにした。
+
+英国の著名司会者ピアーズ・モーガン氏からトランプ政権に「裏切られた」と感じるかと問われ、ゼレンスキー氏は「その通りだ」とコメント。クレムリン（ロシア大統領府）にとって、今回の取引は「紛れもない勝利」だとの見方を示した。
+
+ユーチューブのトーク...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253568.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/15/492c44a7a20322826a8997f3a1815ec1/t/768/511/d/gettyimages-2296064145-20260925120423988.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253561.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-15T09:20:00+09:00</dc:date>
+        <title>ロボットが16歳少女に痴漢行為？　ドイツ警察が捜査</title>
+        <link>https://www.cnn.co.jp/world/35253561.html?ref=rss</link>
+        <description>ドイツ西部の都市ケルンで、10代の少年2人がロボットを操作して16歳の少女の尻を触らせるなどしたとして、警察が性的暴行の容疑で捜査に乗り出した。
+
+警察によると、事件はケルン市で11日深夜に発生。ロボットの持ち主の16歳少年と一緒にいた19歳少年は、暴行の様子を撮影してSNSでライブ配信していた疑いがもたれている。
+
+現地時間の午後11時45分ごろから午前0時ごろにかけ、被害者の少女がファストフード店の前で友人2人と...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253561.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/15/d3bf2b06e078041ece4c1a22dbba215a/t/768/512/d/ap26286291478893__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253559.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-15T08:58:00+09:00</dc:date>
+        <title>ローマ教皇レオ14世、肺がん診断後初のメッセージを発表</title>
+        <link>https://www.cnn.co.jp/world/35253559.html?ref=rss</link>
+        <description>ローマ教皇レオ14世は14日、ローマで肺がんの手術を受けて以来初となるメッセージを発表し、カトリック信者らの祈りに感謝の意を示した。
+
+レオ14世は、前任のフランシスコ教皇が夫婦や家族に対する教会の取り組みについて記した文書「愛のよろこび」の公布10周年を記念するシンポジウムの参加者に宛てた声明で、「ご存じの通り、ここ数日、皆さんと共に過ごすことができなかった」と述べた。
+
+「皆さんの祈りと、共に取り組ん...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253559.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/15/70d3d6fe4e7076162915cca92884f3cb/t/768/512/d/gettyimages-2299453626.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253557.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-15T08:21:00+09:00</dc:date>
+        <title>グリーンランド、石油・天然ガスの「大規模探査が近く開始」とのトランプ氏主張を否定</title>
+        <link>https://www.cnn.co.jp/world/35253557.html?ref=rss</link>
+        <description>デンマーク自治領グリーンランドの自治政府は14日、同地域で「石油、天然ガス、鉱物資源の大規模な探査が近く開始される」とするトランプ米大統領の主張に反論した。
+
+グリーンランドのハメケンホルム副鉱業相は「米企業による活動が行われている」ことは認めたものの、「大規模な探査とは程遠い状況にある」と述べた。
+
+さらに「小規模な探査は数多く進められているが、実際の操業開始までには何年もかかる可能性がある」と付...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253557.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/4995ce9f8d1b91bd0af7402bbb120e00/t/768/511/d/gettyimages-2299376005.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253552.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T21:30:00+09:00</dc:date>
+        <title>クマが玄関先でドアベル鳴らす？、民家のカメラに映る　22年米サウスカロライナ州</title>
+        <link>https://www.cnn.co.jp/fringe/35253552.html?ref=rss</link>
+        <description>米サウスカロライナ州グリーンビル郡で2022年、民家の玄関先に１頭のクマが現れ、立ち上がってドアベルを押すようなしぐさを見せてから立ち去る出来事があった。妙に行儀のよいその姿を、ドアに据え付けられたカメラが捉えていた。
+
+カメラに映り込んだこのクマは、ドアの正面で止まるとおもむろに立ち上がり、右の前脚でドアベルを押すような仕草を見せている。その後、返事がないことにムッとしたかのように１度鼻を鳴らし、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253552.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/9c501520e198824ec251fb09dac7412b/t/768/432/d/image__19_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253548.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T18:09:00+09:00</dc:date>
+        <title>コカ・ コーラにマクドナルド、ウクライナの米国企業を攻撃するロシア　それでもトランプ政権は沈黙</title>
+        <link>https://www.cnn.co.jp/world/35253548.html?ref=rss</link>
+        <description>米国の消費者に不利益が及ぶ――。そんな理由からロシアの製油所への攻撃をやめるようウクライナに圧力を強めるトランプ米大統領と政権幹部だが、ウクライナ国内の米国企業に対する最近のロシアの攻撃については沈黙を守っている。
+
+ロシアはここ数カ月、米国企業関係の施設への攻撃を激化させてきた。攻撃の矛先はウクライナ国内の民間インフラ全般にも向けられている。
+
+在ウクライナ米商工会議所のアンディー・ハンダー会頭に...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253548.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/734998bbd2d2cabc8a58faae60a48468/t/768/511/d/gettyimages-2292761738.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35253542.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T17:44:00+09:00</dc:date>
+        <title>AIの暴走、訴えるべき相手はだれなのか</title>
+        <link>https://www.cnn.co.jp/tech/35253542.html?ref=rss</link>
+        <description>AI（人工知能）業界では最近、人類が破滅的なリスクにさらされるとの懸念が盛んに議論されるようになった。だが「Claude（クロード）」や「ChatGPT（チャットGPT）」のような生成AIを開発する企業は、もっと目先の現実的なリスクに直面している。この先、訴訟を起こされるという心配だ。それもおびただしい数の訴訟を。
+
+AI企業は今のところ、自社のAIエージェントをテスト環境に閉じ込めておけなかった最近の事例が、大きな訴...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35253542.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/e1ad600d43300754fd7be0147f327a0f/t/768/576/d/gettyimages-1148110105.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35253536.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T13:58:00+09:00</dc:date>
+        <title>米キャラクターAI、破産法申請　10代の自殺めぐる訴訟相次ぎ</title>
+        <link>https://www.cnn.co.jp/tech/35253536.html?ref=rss</link>
+        <description>人工知能（AI）を使ったチャットサービス「キャラクターAI」を手がけるキャラクター・テクノロジーズが13日、米連邦破産法11条（日本の民事再生法に相当）の適用を申請した。同社をめぐっては、キャラクターAIが10代の若者のメンタルヘルスの問題や自殺の一因になったとする訴えが相次いでいた。
+
+キャラクターAIでは、有名人や架空のキャラクターをモデルにしたさまざまなチャットボットとメッセージをやり取りしたり、独自の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35253536.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/ffbe1ac06d4af4a42a5e1f8f0ccb3de4/t/768/512/d/gettyimages-1529870473.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253535.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T13:33:00+09:00</dc:date>
+        <title>米遊園地のジェットコースター転落死、分かっていること　亡くなったのは人望厚い教師</title>
+        <link>https://www.cnn.co.jp/usa/35253535.html?ref=rss</link>
+        <description>米ジョージア州の遊園地「シックス・フラッグス・オーバー・ジョージア」で男性がジェットコースターから転落死した事故から一夜明け、捜査員は事実関係の解明を進めている。
+
+今回の事故について分かっていることを以下にまとめた。
+
+慕われていた教員の死： 12日の事故で転落死したと報じられているハッサン・ジハード・イブン・カリームさんは、アトランタにある公立チャータースクール「ウェズリー・インターナショナル・ア...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253535.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/c56adf6b5f41b8a604e24a9f7f002a8c/t/768/512/d/ap26286497964367__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253533.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T13:16:00+09:00</dc:date>
+        <title>米NY市のシンボルの馬車、見納めに　市長と市議会が運行廃止の法案で合意</title>
+        <link>https://www.cnn.co.jp/usa/35253533.html?ref=rss</link>
+        <description>米ニューヨーク市のシンボルともなっているセントラルパークの馬車産業が、終焉（しゅうえん）を迎えようとしている。マムダニ市長とメニン市議会議長が馬車の運行廃止を目指す法案で合意に達したためだ。
+
+メニン氏は今月中にも市議会に法案を提出し、採決に付す予定だとみられる。広報担当者がCNNに明らかにした。CNNが入手した法案の写しによると、この禁止措置は段階的に実施され、2028年6月1日に施行される。
+
+この動きに...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253533.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/9d219afadfa7948fb825f34b58cecfd2/t/768/576/d/gettyimages-2191231357.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253532.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T12:18:00+09:00</dc:date>
+        <title>ホワイトハウスの新報道官に当局者ら困惑、「いつまでもつか」　わずか15分の記者会見受け</title>
+        <link>https://www.cnn.co.jp/usa/35253532.html?ref=rss</link>
+        <description>ホワイトハウスの複数の当局者は、ケイティ・ザカリア報道官が13日に初めて臨んだ記者会見を受け、いつまで報道官の職にとどまれるのか疑問視している。会見での対応はトランプ大統領を満足させるものではなかった可能性が高いという。
+
+複数の顧問や当局者はCNNに対し、ザカリア氏の対応を否定的に評価した。ある人物は「ひどかった」とさえ評した。他の関係者からもまれなほどぎこちなく、気まずくなるような場面すらあったと...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253532.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/e5e6e4cb7dc056ba00f30b9229f73769/t/768/513/d/ap26286500588635.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35253530.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T12:04:00+09:00</dc:date>
+        <title>米オープンAIの会議室に仕掛けられた録音装置を発見、従業員逮捕</title>
+        <link>https://www.cnn.co.jp/tech/35253530.html?ref=rss</link>
+        <description>米オープンAIは13日、オフィス内で「高度な録音装置」が発見され、この装置を仕掛けたとされる従業員が逮捕されたことを明らかにした。
+
+米司法省によると、逮捕されたのはサウジアラビア国籍のアブドゥルラフマン・アルフォザン容疑者（35）。オープンAIからは既に解雇されている。
+
+録音装置は9月30日、会議室の定期点検中に見つかった。テレビの裏のUSBポートに差し込んで、トイレットペーパーで隠してあったという。オープ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35253530.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/c18c3b80df2f87c5d029a11c310b70e9/t/768/511/d/gettyimages-2295130518.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253520.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T11:29:00+09:00</dc:date>
+        <title>死んだ子どもを運ぶメスのゾウ、切ない写真が大賞に　26年野生動物写真家コンテスト</title>
+        <link>https://www.cnn.co.jp/fringe/35253520.html?ref=rss</link>
+        <description>今年の「野生動物写真家コンテスト」で、死んだ子どもを運ぶゾウの姿を捉えた胸に迫る写真が大賞に選ばれた。
+
+受賞作のタイトルは「The Aftermath（その後）」。イタリア人の写真家、フェデリコ・ベロネージ氏が撮影した。コンテストを主催する英自然史博物館の13日の発表によると、アフリカ南西部のナミビアで死んだ我が子を運ぶメスのゾウを捉えた写真だという。
+
+キャシー・モラン審査委員長は声明で、「この写真はさまざま...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253520.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/844c5d34b850bebec3ef444a2fda6bd3/t/324/432/d/federico-veronesi__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35253526.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T11:25:00+09:00</dc:date>
+        <title>写真特集：死んだ子どもを運ぶゾウ、切ない写真が26年野生動物写真家コンテストの大賞に</title>
+        <link>https://www.cnn.co.jp/photo/35253526.html?ref=rss</link>
+        <description>今年の「野生動物写真家コンテスト」で、死んだ子どもを運ぶゾウの姿を捉えた胸に迫る写真が大賞に選ばれた。各部門の受賞作を見ていく&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35253526.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/844c5d34b850bebec3ef444a2fda6bd3/t/324/432/d/federico-veronesi__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253527.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T10:56:00+09:00</dc:date>
+        <title>米政権、駐ギリシャ大使を更迭　一連の不正疑惑報道受け</title>
+        <link>https://www.cnn.co.jp/usa/35253527.html?ref=rss</link>
+        <description>米ホワイトハウスは13日、不正行為の疑惑をめぐる一連の報道を受け、キンバリー・ギルフォイル駐ギリシャ大使を更迭した。トランプ大統領の家族と密接な関係を持ち、「MAGA（米国を再び偉大に）」運動の有力者でもあるギルフォイル氏にとって突然の失脚となった。
+
+ホワイトハウスの新報道官ケイティ・ザカリア氏は同日、就任後初となる記者会見で、政権が「ギルフォイル大使に辞職を求めた」と明らかにした。その上で「彼女は...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253527.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/ff0e6a411940086e9faad5957793feb1/t/768/512/d/gettyimages-2298422817-20261013135902142.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253519.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T10:55:00+09:00</dc:date>
+        <title>ドローン攻撃で商船沈没、乗組員11人が行方不明　ブルガリア近海</title>
+        <link>https://www.cnn.co.jp/world/35253519.html?ref=rss</link>
+        <description>ブルガリア沖で船舶がドローン（無人機）の攻撃を受け、乗組員11人が行方不明となっている。ブルガリア当局が明らかにした。これによりブルガリア政府がロシア大使を召喚する事態となっている。
+
+ブルガリア当局の発表によれば、黒海で夜間に複数の商船が2度の攻撃を受けた。このうちギニアビサウ船籍の貨物船「HSディグニティー」が、ブルガリアのクラペツ村の東15カイリで沈没した。これを受け、緊急捜索救助活動が開始された...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253519.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/2c70913b3b560253634a9a4d70c056e8/t/768/432/d/ap26286454273950.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253523.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-14T10:18:00+09:00</dc:date>
+        <title>銃殺刑のライブ配信、トランプ大統領が中止を検討　死刑囚の麻痺の症状知らされ</title>
+        <link>https://www.cnn.co.jp/usa/35253523.html?ref=rss</link>
+        <description>米テキサス州の陸軍基地で起きた銃撃事件に関連して、ニダル・ハサン死刑囚に対する銃殺刑執行の様子をライブ配信するかどうかをめぐって米国のドナルド・トランプ大統領と側近らが協議を続けている。事情に詳しい関係者2人によると、大統領は、同死刑囚の腰から下が麻痺（まひ）していることを知らなかったと打ち明けているという。
+
+ハサン死刑囚に対する銃殺刑の一般公開予定については、ピート・ヘグセス国防長官が先週明ら...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253523.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/14/4995ce9f8d1b91bd0af7402bbb120e00/t/768/511/d/gettyimages-2299376005.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
