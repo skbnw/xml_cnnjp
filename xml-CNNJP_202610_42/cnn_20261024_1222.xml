@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.cnn.co.jp">
+        <title>国際ニュース - CNN.co.jp</title>
+        <description>CNN.co.jpはCNN.com日本語訳サイトです</description>
+        <link>https://www.cnn.co.jp</link>
+       <dc:date>2026-10-24T20:06:00+09:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253929.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253928.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253925.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253918.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253896.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253851.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253917.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253916.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253913.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253855.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/business/35253866.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253891.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253871.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/travel/35253869.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253884.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253880.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253864.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/photo/35253865.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253847.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253858.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35253862.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253860.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253842.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253840.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253839.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253838.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/usa/35253827.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/world/35253822.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/tech/35253813.html?ref=rss"/>
+                <rdf:li rdf:resource="https://www.cnn.co.jp/fringe/35253811.html?ref=rss"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="https://www.cnn.co.jp/world/35253929.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-24T20:06:00+09:00</dc:date>
+        <title>ウクライナ国防省、「スターシールド」へのアクセス復旧を発表　時速400キロ超でも接続安定</title>
+        <link>https://www.cnn.co.jp/world/35253929.html?ref=rss</link>
+        <description>ウクライナ国防省は24日、「スターシールド」を再び全面的に利用できるようになったと明らかにした。スターシールドは衛星インターネットサービス「スターリンク」の軍事版。トランプ米大統領は2日前、実業家イーロン・マスク氏がウクライナによるスターシールドへのアクセスを復旧させたと述べていた。
+
+ウクライナのフマラ国防相は声明で、「国防省の監視システムでは、スターリンクとスターシールドの速度制限が解除されたこ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253929.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/24/904b098125dca882c1ba372f0762acee/t/768/511/d/c-gettyimages-2301560390.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253928.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-24T19:24:00+09:00</dc:date>
+        <title>シベリアの永久凍土にできた巨大陥没穴の謎、現地調査で解明　20年ロシア</title>
+        <link>https://www.cnn.co.jp/fringe/35253928.html?ref=rss</link>
+        <description>シベリアのツンドラ地帯に2020年、突如として出現した巨大なクレーター。現地調査を行ったロシアの研究チームが科学誌に翌年発表した調査結果によると、何もない平原にできた円形の陥没穴は、地下にたまったメタンガスが噴出し、氷や岩石を吹き飛ばして形成されていた。
+
+ロシア北極圏のヤマル半島とギダン半島に陥没穴が出現したのは、13年に最初に発見されて以来、これが17個目だった。原因については気候変動との関係が指摘...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253928.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/24/5665456c66e141ea589198088f9f6884/t/768/428/d/210215124739-01-siberian-craters-arctic.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253925.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-24T18:00:00+09:00</dc:date>
+        <title>ウクライナ、「スターシールド」の利用制限は継続　トランプ氏の主張と食い違い</title>
+        <link>https://www.cnn.co.jp/world/35253925.html?ref=rss</link>
+        <description>トランプ米大統領は22日、実業家イーロン・マスク氏がウクライナによる衛星インターネットサービス「スターリンク」の軍事用サービスへのアクセスを復旧させたと明らかにしたものの、ウクライナの当局者によれば利用制限は今も続いている。ウクライナ政府の軍事行動に支障が出ている状況だという。
+
+事情に詳しい関係者がCNNに明かしたところによれば、トランプ氏はマスク氏との電話で、ウクライナによる衛星通信システム「スタ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253925.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/24/904b098125dca882c1ba372f0762acee/t/768/511/d/c-gettyimages-2301560390.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253918.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-24T15:21:00+09:00</dc:date>
+        <title>米中間選挙、共和党は下院での大敗回避に躍起　下院議長がトランプ氏に追加資金要請</title>
+        <link>https://www.cnn.co.jp/usa/35253918.html?ref=rss</link>
+        <description>米中間選挙の選挙戦が最終盤に入る中、ジョンソン下院議長（共和党）がトランプ大統領に対し、苦戦を強いられている共和党候補に追加資金を投じるよう要請したことが分かった。やり取りの内容に詳しい関係者が明らかにした。
+
+支援を求めたのはジョンソン氏だけではない。事情に詳しい複数の関係者によると、献金者や議員自身からも、トランプ氏の側近に重要選挙区への資金投入を求める声が相次いだ。
+
+ジョンソン氏の要請につ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253918.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/24/d89c59203d1f09932ea975778ed8034d/t/768/512/d/gettyimages-2299437999.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253896.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-24T14:06:00+09:00</dc:date>
+        <title>顔写真だけでがん患者の余命を診断できるAIモデル、米研究チームが開発</title>
+        <link>https://www.cnn.co.jp/fringe/35253896.html?ref=rss</link>
+        <description>顔写真を撮るだけでがん患者の全般的な健康状態や余命が判定できるという人工知能（AI）モデルが開発された。医師によるがん患者の生存可能性診断や最善の治療法の見極めを支援できるツールとして期待されている。
+
+AIモデルは米マス・ジェネラル・ブリガムの研究チームが開発し、10月19日の科学誌ランセット・デジタル・ヘルスに発表した。
+
+「1枚の顔写真だけで死亡リスクの兆候を検出できることが分かって非常に驚いた」。論...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253896.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/23/11b9b4e492d868ae737929fcb2d7e415/t/768/432/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXZoM3k5bnUwMDAwM2I2cm5rMmNteTNm-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdmgweG11aTAwMHkyOHA4Z2VlbjA1eTk_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253851.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-24T12:47:00+09:00</dc:date>
+        <title>お茶は飲み方次第、心臓の健康に良くも悪くも　紅茶の方が緑茶よりも効果？</title>
+        <link>https://www.cnn.co.jp/fringe/35253851.html?ref=rss</link>
+        <description>記者の朝のルーティンに欠かせないのが、心を落ち着かせながらもエネルギーを与えてくれる緑茶2杯だ。
+
+お茶は飲んで楽しめるだけでなく、心臓病や脳卒中、認知症のリスク低減といった健康増進効果があることが以前から指摘されてきた。そして今回、21日に医学誌「ジャーナル・オブ・インターナル・メディシン」に発表された新たな研究で、お茶の淹（い）れ方や飲み方も心血管の健康を左右する可能性が示された。
+
+研究チームが...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253851.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/22/1e7abf3ee692e55dfa28a1a7cbf2a9c4/t/768/512/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXZoMzI5ZWUwMDBmM2I2cjc5Ymt6eTRq-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdmZyb2JkajAwMHkyOHAwaGk1djJqYXQ_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253917.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-24T12:16:00+09:00</dc:date>
+        <title>父親が児童性的虐待画像を大量に所持か、メーガン妃「深く心を痛めている」</title>
+        <link>https://www.cnn.co.jp/world/35253917.html?ref=rss</link>
+        <description>英ヘンリー王子の妻メーガン妃は23日、父親のトーマス・マークル氏が児童への性的虐待画像を多数所持していたとの報道に触れ、「深く心を痛めている」とコメントした。父親を巡る「憂慮すべき疑惑」について、2018年の時点で知らされていたとも明かした。
+
+英紙サンの22日夜の報道によれば、マークル氏の息子は、フィリピンにある父親の自宅で未成年の子どものわいせつ画像を大量に発見。フィリピン当局に通報した。
+
+マークル...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253917.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/24/c97acb926c5f94d2b7b8810d06b5d1bb/t/768/432/d/20261023-meghan-thomas-markle-split-1026.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253916.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-24T10:25:00+09:00</dc:date>
+        <title>ヨルダン川西岸でイスラエル兵2人銃撃され死亡、軍が建物の取り壊し開始　総選挙まで4日</title>
+        <link>https://www.cnn.co.jp/world/35253916.html?ref=rss</link>
+        <description>占領下にあるパレスチナ自治区ヨルダン川西岸で、武装したパレスチナ人の男2人がイスラエル軍の検問所に発砲する事件があり、兵士2人が死亡した。これを受けイスラエル軍は23日、建物の取り壊しに着手し、一帯の住民を強制退去させる措置を取った。
+
+現場はヨルダン川西岸の都市ヘブロン。イスラエル国防軍（IDF）によると、他にも兵士3人が軽傷を負った。
+
+襲撃が起きたのは、2023年10月7日に発生したイスラム組織ハマス主導の...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253916.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/24/a52eeac634401e67228e1a57c33808d4/t/768/432/d/50425674-38916379-generated-thumbnail.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253913.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-24T08:59:00+09:00</dc:date>
+        <title>米国人観光客が300メートル滑落して死亡、写真撮ろうと登山道を外れる　イタリア</title>
+        <link>https://www.cnn.co.jp/world/35253913.html?ref=rss</link>
+        <description>イタリア北部のドロミテ山塊で、登山中の米フロリダ州の女性が300メートル以上滑落して死亡したことが分かった。北部の都市トレンティーノの警察が明らかにした。
+
+警察によると、女性は17日に亡くなり、近親者への通知を終えた後、今週後半になって死亡が公表された。
+
+警察がCNNに語ったところによると、死亡したのは米フロリダ州マイアミ出身のミシェル・アレハンドラ・ルビオレイバさん（36）。家族との休暇中、ドロミテ山...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253913.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/24/32f96ed1fbf8e4223f4154a380c555dd/t/768/511/d/gettyimages-1314839278.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253855.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T16:46:00+09:00</dc:date>
+        <title>【分析】米中間選挙とイラン、議会の勢力図は変わっても戦争の主導権握るのはトランプ氏か</title>
+        <link>https://www.cnn.co.jp/usa/35253855.html?ref=rss</link>
+        <description>2007年1月10日、ジョージ・W・ブッシュ米大統領はイラクへの数万人規模の増派を発表した。これは同氏の政権下で最も不評を買った決定の一つだった。筆者は上級顧問として、国家安全保障担当補佐官だったスティーブン・ハドリー氏のホワイトハウス西棟にある執務室でその様子を見ていた。
+
+ハドリー氏はピザを注文した。我々は数人で同氏のテレビの周りに集まった。ブッシュ氏の発表が終わると、ハドリー氏は世間の反応を確かめ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253855.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/22/679c986a12b5e756dfe76ff505e41f0f/t/768/469/d/01-gettyimages-2264385014.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/business/35253866.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T16:17:00+09:00</dc:date>
+        <title>危機の瀬戸際に立つフランス、次は米国か</title>
+        <link>https://www.cnn.co.jp/business/35253866.html?ref=rss</link>
+        <description>フランスが直面する政治的、経済的な難局は、米国民にとっても決して他人事ではない。
+
+フランス財政は支出に税収が追いつかず、赤字に陥っている。エネルギー価格の上昇を背景に国債の利回りが急上昇し、予想よりずっと早くツケが回ってこようとしている。解決策として増税と歳出削減が考えられるものの、政治的な反発を招き、国民からさらなる怒りを買う恐れがある。政治の分断は深く、予算をめぐる攻防の行方が見通せない現...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/business/35253866.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/23/701e1ce54206912bf31cd3480e6e27b9/t/768/512/d/france-protest-electric-bikes.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253891.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T15:51:00+09:00</dc:date>
+        <title>欧州の都市、今夏の猛暑で5万人超が死亡　「記録に残る中で最悪」　</title>
+        <link>https://www.cnn.co.jp/fringe/35253891.html?ref=rss</link>
+        <description>今年夏に欧州を襲った猛烈な熱波により、各地の都市で計5万人以上が死亡したと推計されることが、新たな分析から明らかになった。欧州で記録に残る中で最悪の猛暑被害だという。
+
+医学誌「ネイチャー・ヘルス」に掲載された査読論文2本によると、約3分の2に当たる3万2600人以上の死については、化石燃料汚染が引き起こした気候変動に直接の原因を求めることができる。
+
+論文著者の1人で、英インペリアル・カレッジ・ロンドンで...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253891.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/23/65a2dc992f4dc9daacbc9508c7f296bb/t/768/511/d/gettyimages-2290050302.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253871.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T15:15:00+09:00</dc:date>
+        <title>ロシアの最新型ジェット推進式ドローン、その内部を見る　CNNが希少な映像入手</title>
+        <link>https://www.cnn.co.jp/world/35253871.html?ref=rss</link>
+        <description>ウクライナ上空で、ロシア製の次世代型ジェット推進式ドローン（無人機）が獲物を探している。
+
+CNNは、当該のドローン「ゲラン4」の恐ろしさを垣間見る希少な機会を得た。ウクライナ国防情報局から送られた映像には、撃墜された際に爆発しなかったゲラン4を専門家が解体する様子が映っている。
+
+
+
+
+
+ゲラン4は高速だ。最高時速は約600キロ。そのスピードを可能にしているのがジェットエンジンだ。
+
+ウクライナの当局者によれば...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253871.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/23/c2944ea1f28bb4382b2f70c17f4b83e6/t/768/418/d/geran-4-russian-drone.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/travel/35253869.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T15:03:00+09:00</dc:date>
+        <title>民泊エアビーが規則変更、宿泊客への「過度な家事要求」を禁止へ</title>
+        <link>https://www.cnn.co.jp/travel/35253869.html?ref=rss</link>
+        <description>民泊仲介大手Airbnb（エアビーアンドビー）は22日、滞在終了時にホストがゲストに求めることのできる作業を減らすよう規則を改定した。これに伴い、宿泊客が食器洗いを行う必要はなくなる。
+
+同社はホストに対し、物件の掲載ページに目立つ形で表示される七つの標準的なハウスルールから適用するものを選択するよう勧告した。
+
+ホストは、最大宿泊人数、静かに過ごす時間帯、ペットに関するルールを設定できるほか、鍵の返却方...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/travel/35253869.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/23/11f8d52a3f603fbf2148092d6cdf11b4/t/768/432/d/gettyimages-1179541334.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253884.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T14:19:00+09:00</dc:date>
+        <title>ゼレンスキー氏、トランプ氏との間に「個人的な確執はない」　CNNインタビュー</title>
+        <link>https://www.cnn.co.jp/world/35253884.html?ref=rss</link>
+        <description>ウクライナのゼレンスキー大統領は22日、CNNのインタビューに応じた。トランプ米大統領との激しい対立を受け、ウクライナではトランプ氏が再びロシア寄りに転じたのではないかとの懸念が広がっているが、ゼレンスキー氏はこの問題に正面から言及し、トランプ氏との間に個人的な確執はないと説明。一方で、ロシアのプーチン大統領に歩み寄れば「プーチン氏をいっそう強力にする」だけだと訴えた。
+
+米国とウクライナの関係はここ...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253884.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/23/9aabaf15187646c74f83bc03a52d030c/t/768/511/d/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXZqYWN4a2UwMDBqMjhxY2Z3NDQ3cnA5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdmphY3hrZTAwMHkyOHFjMDdrbzdldXc_.JPG'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253880.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T13:37:00+09:00</dc:date>
+        <title>チベットでM7の地震、16人死亡、数十人負傷と中国国営メディア</title>
+        <link>https://www.cnn.co.jp/world/35253880.html?ref=rss</link>
+        <description>中国チベット自治区で22日、マグニチュード（M）7の地震が発生し、少なくとも16人が死亡、数十人が負傷した。国営新華社通信が報じた。
+
+米国地質調査所（USGS）によると、震源地はチベット自治区ナクチュ市の東北東183キロの地点だった。
+
+新華社によれば、少なくとも339棟の家屋が倒壊した。被害の全容は現在も調査中で、救助隊が震源地に派遣された。
+
+また国営中央テレビ（CCTV）は、鉄道当局が被災地域を通る列車の運行を...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253880.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/23/713f700d12cbee4b1a9b49a2846df1f0/t/768/432/d/screenshot-2026-10-22-at-12-11-09-pm.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253864.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T13:01:00+09:00</dc:date>
+        <title>ニコン顕微鏡写真コンテスト、受賞作は「インクジェットプリンター内部の液滴」を捉えた驚きの写真</title>
+        <link>https://www.cnn.co.jp/fringe/35253864.html?ref=rss</link>
+        <description>顕微鏡で撮影した写真を対象とするニコンのフォトコンテスト「ニコン・スモールワールド」で、プリンター内部のインクの液滴を捉えた写真が最優秀賞に輝いた。
+
+主催者が21日に発表した声明によると、最優秀賞作品を撮影したのはドイツ出身の学生で実験写真家のオーレ・ビールフェルト氏。自作の撮影装置を使用してこの写真を撮影したという。
+
+ドイツのケルンを拠点とするビールフェルト氏は、インクジェットプリンターがどの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253864.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/23/f44e700f6600d3b98a33d6a33e1e3616/t/301/432/d/1st-2026-bielfeldt-ole-e43110-f27846__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/photo/35253865.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T12:55:00+09:00</dc:date>
+        <title>写真特集：最優秀賞は「インクジェットプリンター内部の液滴」、ニコン顕微鏡写真コンテスト</title>
+        <link>https://www.cnn.co.jp/photo/35253865.html?ref=rss</link>
+        <description>顕微鏡で撮影した写真を対象とするニコンのフォトコンテスト「ニコン・スモールワールド」で、プリンター内部のインクの液滴を捉えた写真が最優秀賞に輝いた。&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/photo/35253865.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/23/f44e700f6600d3b98a33d6a33e1e3616/t/301/432/d/1st-2026-bielfeldt-ole-e43110-f27846__1200_.jpeg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253847.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T12:31:00+09:00</dc:date>
+        <title>「火星の月」のなぞに迫る　日本主導で探査機打ち上げ</title>
+        <link>https://www.cnn.co.jp/fringe/35253847.html?ref=rss</link>
+        <description>火星の衛星をめぐるなぞの解明に向けて、日本の宇宙航空研究開発機構（JAXA）が主導する火星衛星探査計画「MMX」の探査機が打ち上げられた。
+
+火星は多くのなぞに包まれているが、MMXは特に大きななぞとして、火星を周回する二つの衛星、「フォボス」と「ダイモス」に焦点を合わせる。そこからさらに、初期の火星に関する手がかりがつかめることも期待される。
+
+MMXに参加するNASAジェット推進研究所のアビゲイル・フリーマン氏...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253847.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/22/3addd562ea1c51f2cc92b22713f6bc83/t/768/432/d/marsmoons-1920x1080.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253858.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T12:18:00+09:00</dc:date>
+        <title>米シカゴ大近くの男子学生クラブで新たな性的暴行疑惑　女性が提訴</title>
+        <link>https://www.cnn.co.jp/usa/35253858.html?ref=rss</link>
+        <description>今月、米シカゴ大学キャンパス近くにある男子学生の社交クラブ（フラタニティー）の異なる施設で、2人の女性が性的暴行を受けたと訴えた。全米の大学を揺るがす一連の告発に、新たな事例が加わった形だ。コミュニティー内での性的暴行問題に関しては、現在各大学が対応を迫られている。
+
+大学によると、21歳の女性が今月11日、大学近くのフラタニティー施設で性的暴行を受けたと訴えた事件では、捜査対象となっている人物の大学...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253858.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/22/d6e4c711c3e5fb3ca6f280d5cd999872/t/768/432/d/still-23089516-23133-333-still.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35253862.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T12:06:00+09:00</dc:date>
+        <title>PHPの脆弱性はAIが発見、人間にはほぼ限界　影響はインターネットの70％に</title>
+        <link>https://www.cnn.co.jp/tech/35253862.html?ref=rss</link>
+        <description>世界中のインターネットの約70％に使われているプログラミング言語「PHP」に重大な脆弱（ぜいじゃく）性が見つかった。この問題について同時に発表した3社はいずれも、人工知能（AI）を使って脆弱性を発見していた。
+
+今回の脆弱性の存在は、米オープンAIとグーグル傘下のサイバーセキュリティー企業ウィズ、別のセキュリティー企業のカリフがそれぞれ21日に公表した。「PHP2Shell」と命名されたこの脆弱性は、悪用された場合、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35253862.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/22/20e4def06c5acf67bc845d332bee2041/t/768/512/d/gettyimages-1441986751.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253860.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-23T11:59:00+09:00</dc:date>
+        <title>【分析】ウクライナ巡る「取引」に躍起なトランプ氏、プーチン氏が見据えるのはロシアの勝利</title>
+        <link>https://www.cnn.co.jp/world/35253860.html?ref=rss</link>
+        <description>トランプ米大統領がロシアの大統領であれば間違いなく、ウクライナでの凄惨（せいさん）な戦争を終わらせる取引にすぐさま飛びつくだろう。わずか24時間で実現できるとすら示唆するかもしれない。
+
+トランプ氏からすれば、考えるまでもない話だ。
+
+5年目に入った消耗戦が解決すれば、トランプ氏が「若く美しい子どもたち」と呼ぶ何千人もの若者が毎月、前線で命を落とす事態を食い止められる。それだけでなく極めて重要なのは、...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253860.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/22/86b2e1e6de0e3fd6ea3c224d1d373d31/t/768/512/d/gettyimages-2300584445.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253842.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-21T18:54:00+09:00</dc:date>
+        <title>ロシア、拘束していた米国人の元教師を解放　ウィトコフ特使の訪問後</title>
+        <link>https://www.cnn.co.jp/world/35253842.html?ref=rss</link>
+        <description>ロシアで4年以上にわたって拘束されていた米国人の元教師スティーブン・ハバード氏（74）が解放された。米国のウィトコフ特使がロシアのサンクトペテルブルク入りした後の解放となった。ロシア国営メディアが報じた。
+
+ハバード氏をめぐっては、米国務省が不当に拘束されていると認定していた。トランプ大統領は20日、ロシアのプーチン大統領との間でハバード氏の問題を取り上げたと明らかにした。
+
+ウィトコフ氏の訪問に先立ち...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253842.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/21/047f1e92a3955aaa0878cceeeab5d230/t/768/511/d/ap24281333935278.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253840.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-21T18:44:00+09:00</dc:date>
+        <title>謎の巨大生物「ビッグフット」、米オハイオ州で目撃情報　長年の議論が再燃　</title>
+        <link>https://www.cnn.co.jp/fringe/35253840.html?ref=rss</link>
+        <description>マイク・ミラー、ベンジャミン・ラドフォード両氏は、長きにわたり、全身が毛に覆われた正体不明の巨大生物「ビッグフット（別名サスクワッチ）」について語ってきた。しかし、両氏の立場は対照的だ。
+
+オハイオ・ナイト・ストーカーズの一員として約20年にわたりイエティを追い続けてきたミラー氏にとって、サスクワッチ探しは一つのミステリーであり、その答えは身近な場所や、どこかの洞窟の中に潜んでいるかもしれない。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253840.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/05/16/d1cb5c471a90e34dd7bdbf954fc19bdb/t/768/432/d/img-3838-20260506171307616.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253839.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-21T18:23:00+09:00</dc:date>
+        <title>米国のウィトコフ特使がロシア到着、プーチン氏と会談へ</title>
+        <link>https://www.cnn.co.jp/usa/35253839.html?ref=rss</link>
+        <description>米国のウィトコフ特使が21日、ロシアのサンクトペテルブルクに到着した。プーチン大統領と会談してウクライナ戦争の終結に向けた提案を前進させるとともに、より幅広い交渉への道筋をつけることをめざす。
+
+ウィトコフ氏は20日にノルウェーでウクライナのゼレンスキー大統領と会談した後、あわただしい外交日程を続け、サンクトペテルブルクのプルコボ空港へ向かった。CNNに提供された写真によると、空港ではロシア大統領府のド...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253839.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/21/14caf655615075f5811c88a6fc13d824/t/288/432/d/wit6.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253838.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-21T18:16:00+09:00</dc:date>
+        <title>英ヘンリー王子、家族との和解望む　「過去を手放せると願っている」</title>
+        <link>https://www.cnn.co.jp/world/35253838.html?ref=rss</link>
+        <description>英国のヘンリー王子は20日までに、米誌GQのインタビューで父チャールズ国王や兄ウィリアム皇太子と和解したいと語った。
+
+ヘンリー王子は家族との関係にほころびが生じ、メーガン妃とともに2020年、王室の公務から退き、米国に移住した。ふたりは英国を離れた理由として、タブロイド紙によるプライバシー侵害や、人種差別、複雑な家族関係などを挙げていた。
+
+
+
+
+
+しかし今年8月になって、夫妻は2人の子どもをつれて英国に帰国...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253838.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/21/73ec0cae92a673c922d787ebdd013b33/t/243/432/d/oar2.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/usa/35253827.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-21T15:34:00+09:00</dc:date>
+        <title>中間選挙敗北の犯人さがしに怯えるトランプ氏の側近ら、「熾烈な」権力争いを展開</title>
+        <link>https://www.cnn.co.jp/usa/35253827.html?ref=rss</link>
+        <description>トランプ米大統領には、共和党が中間選挙で上下両院の過半数を維持し、大敗の予想を覆すための時間が2週間残されている。だが周囲の側近や盟友らは、トランプ氏がそれに失敗した場合に起きることに備え始めている。
+
+政権当局者の間では、共和党が大幅に議席を失えば、政府全体で大規模な人事刷新が起きるとの見方が強まっている。トランプ氏が敗北の責任を負わせる側近を探す一方、数十人の政権幹部らも、支持率が最低水準に落...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/usa/35253827.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/21/641eb1c07b5bd279c8ccb97add9b2dba/t/768/512/d/gettyimages-2301186201.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/world/35253822.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-21T15:18:00+09:00</dc:date>
+        <title>【分析】ウクライナで起きた「スターシールド」通信制限、誰の責任なのか？　深まる疑問</title>
+        <link>https://www.cnn.co.jp/world/35253822.html?ref=rss</link>
+        <description>それでは結局、ウクライナが使用する重要な衛星通信システムの通信速度を低下させたのは、誰だったのか。この影響でウクライナは最近、ロシアの攻撃に対して一段と無防備な状態に置かれている。
+
+共和党内でさえ、一部の有力議員は答えを求める声を上げ、関与した人の責任を追及する構えを見せている。
+
+だが、トランプ政権や政権に近いイーロン・マスク氏のこれまでの説明は混乱を招く不十分なもので、時に矛盾も見られる。
+
+...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/world/35253822.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/21/0c63dbedaea4425e8e3ae94c2b0d0197/t/768/512/d/gettyimages-2300466871__1_.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/tech/35253813.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-21T13:43:00+09:00</dc:date>
+        <title>AIが環境に与える脅威、実際どの程度なのか</title>
+        <link>https://www.cnn.co.jp/tech/35253813.html?ref=rss</link>
+        <description>AI（人工知能）が驚くべき進歩を遂げるなか、AIモデルの訓練や運用に必要なデータセンターなどが、政治的な争いの種になっている。
+
+業界が急発展する一方で、データセンターの巨大な建物が水や電力を際限なく必要とし、熱や騒音を出すといった環境への影響をめぐり、多くの人々が不安を募らせている。
+
+調査会社SSRSが先月実施したCNNの世論調査では、AIのデータセンターが増えていることに対し、米国民の90％近くが期待より懸...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/tech/35253813.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/21/695b0e05426bb47ce44c06bd25cd4f7f/t/768/483/d/usa-datacenters-protest.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="https://www.cnn.co.jp/fringe/35253811.html?ref=rss">
+        <dc:format>text/html</dc:format>
+        <dc:date>2026-10-21T12:50:00+09:00</dc:date>
+        <title>ヘッドホンで長時間音楽を聴く習慣、潜むリスクは　専門家が警鐘</title>
+        <link>https://www.cnn.co.jp/fringe/35253811.html?ref=rss</link>
+        <description>音楽配信サービス「スポティファイ」のアカウントに表示された年間利用状況によると、ニューヨーク在住のアティラ・ガリさん（24）は昨年11月中旬の時点ですでに558時間以上、音楽を聴いていた。
+
+「ヘッドホンなしでは皿洗いすらできない。退屈しちゃうから」
+
+ガリさんは出版社に通勤する朝から、ほぼずっと音楽やポッドキャストを聴いているという。勤務中も会議や同僚と話すとき以外はヘッドホンを着けたままだ。会社からの...&lt;br clear='left'&gt;&lt;a href='https://www.cnn.co.jp/fringe/35253811.html?ref=rss'&gt;&lt;img src='https://www.cnn.co.jp/storage/2026/10/21/3347044803b7afd9aa81b72005059075/t/768/512/d/gettyimages-2270724578.jpg'&gt;&lt;/a&gt;</description>
+    </item>
+</rdf:RDF>
